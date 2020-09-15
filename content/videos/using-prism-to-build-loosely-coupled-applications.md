@@ -1,0 +1,26 @@
+---
+title: "Using Prism to Build Loosely Coupled Applications"
+date: 2012-07-03T21:59:29.0000000
+draft: false
+---
+
+{{< vimeo 106883857 >}}
+
+## Speaker:
+
+ - Brian Lagunas
+
+## Abstract:
+
+<p>In this session we'll learn how to design and build Windows Presentation Foundation (WPF) desktop applications using loosely coupled components that can evolve independently.  These loosely coupled components can easily and seamlessly integrate into the overall application. This is an introductory session that concentrates on the basic concepts required to build a composite application with the Microsoft Patterns and Practices Prism 4.1 framework,  The framework includes the boostrapper, regions, modules, view composition, and different techniques for communicating between loosely couple components.  We'll demonstrate all of these topics and more.  </p>
+
+## Bio:
+
+ - <p>Brian Lagunas is an INETA Community Speaker, co-leader of the Boise .Net Developers User Group (NETDUG), and original author of the Extended WPF Toolkit. He is a multi-recipient of the Microsoft Community Contributor Award and can be found speaking at a variety of user groups and code camps around the nation. His talks always involve some form of XAML, such as WPF or Silverlight, and how to build modular applications with Prism. </p>
+<p>Brian currently works at Infragistics as a Product Manager for the award winning NetAdvantage for WPF and Silverlight components. This is where he helps build tools that empower developers to quickly and easily build and style dynamic applications with immersive UX and vibrant data visualization in line of business applications, across all XAML platforms. Prior to working at Infragistics he worked in the construction and engineering industry as a senior software engineer and software solution architect where he specialized in enterprise application development. Before geeking out, Brian served his country in the United States Army as an infantryman and later served his local community as a deputy sheriff. In his spare time he authors courses for Pluralsight, blogs about XAML technologies, and hosts XAML TV.</p>
+<p>The easiest way to find Brian is on twitter at @BrianLagunas. </p>
+
+## Recorded At:
+
+ - Dallas XAML UG
+

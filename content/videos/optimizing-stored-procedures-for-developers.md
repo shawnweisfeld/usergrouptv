@@ -1,0 +1,24 @@
+---
+title: "Optimizing Stored Procedures for Developers"
+date: 2013-08-17T20:36:23.0000000
+draft: false
+---
+
+{{< vimeo 104885907 >}}
+
+## Speaker:
+
+ - Mark Rosenberg
+
+## Abstract:
+
+<p>In this talk I will talk about SQL Server stored procedures and techniques you can use to optimize them. I will cover stored procedures from a developer’s point of view including table variables, common table expressions and temporary tables. Which do you use and when do you use it. There will also be a number of quick tips that you can use to improve query performance when you walk out of the session</p>
+
+## Bio:
+
+ - <p>Mark Rosenberg has been writing software with Microsoft technologies since 1997. He has been speaking to user groups and at code camps since 2005 and been a certified trainer Since 2007. Mark likes to talk to developers and has been talking to anyone who will listen. He is very active in the community, both speaking at user groups and was on the board of 2 user groups in Southern California. He currently is working as an senior development instructor at New Horizons in Austin, TX</p>
+
+## Recorded At:
+
+ - Austin CodeCamp
+

@@ -1,0 +1,28 @@
+---
+title: "Parallel Programming in .NET"
+date: 2011-09-07T03:22:55.0000000
+draft: false
+---
+
+{{< vimeo 111926233 >}}
+
+## Speaker:
+
+ - Keyvan Nayyeri
+
+## Abstract:
+
+<p>Nowadays, it is difficult to find a new hardware system built without a multi-core processor. Desktops, servers, smart phones, tablets, and even some lesser-known embedded devices are built with multiple cores. After giving up on advancing with one core for processor speed due to heat issues, hardware manufacturers have focused on building multi-core CPUs and putting two, four, eight, or even more cores on a processor.</p>
+<p>Obviously, utilizing these cores in the best form is a vital task to take the most out of the available hardware and this has driven the research and investments in computer architecture, programming language, and compiler design communities to facilitate the process of programming for multiple cores. However, there are some fundamental issues involved with this task that make it difficult. Computer architects have been able to solve the problems with hardware, however, the problems on the software side are difficult enough that this field is now one of the primary areas of research and investment both at academia and industry. Recent versions of programming languages and compilers have added many new features to enable concurrency and simplify that, and .NET Framework 4.0 was not an exception.</p>
+<p>These trends in the software world will eventually drive the programming community to a point where programmers need to deal with concurrency more seriously in action. Therefore, the professional programmer of future will need great skills and deep understanding of parallel programming to succeed.</p>
+<p>In this session we discover different aspects of parallel programming. This session consists of two main parts: in the first part, we introduce the concepts and principles of parallel programming and the main challenges involved in writing concurrent code, and in the second part, we apply these concepts in action using the .NET Framework to see what features are provided to facilitate parallel programming. This will also cover the new features added in .NET Framework 4.0 that enhance parallel programming for .NET developers significantly.</p>
+
+## Bio:
+
+ - <p>Keyvan Nayyeri is a software engineer at Match.Com (http://match.com) where he works with a group of awesome people on the .NET community to face with daily challenges to help people find love. Keyvan has a M.Sc. degree in computer science and a B.Sc. degree in applied mathematics. He has authored four books for Wrox Press on ASP.NET MVC, Visual Studio Extensibility, and other topics. He is also an open source enthusiast and has contributed to several projects. He maintains his technical blog (http://keyvan.io) and Twitter (http://twitter.com/keyvan) feed with topics about computer science, programming, and technology.
+</p>
+
+## Recorded At:
+
+ - North Dallas .NET UG
+

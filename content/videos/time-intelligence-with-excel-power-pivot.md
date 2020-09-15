@@ -1,0 +1,24 @@
+---
+title: "Time Intelligence with Excel Power Pivot"
+date: 2014-05-03T19:56:46.0000000
+draft: false
+---
+
+{{< vimeo 100979501 >}}
+
+## Speaker:
+
+ - Josh George
+
+## Abstract:
+
+<p>This session will demonstrate how to incorporate advanced Time Intelligence into your Power Pivot model. We’ll utilize Data Analysis eXpressions language (DAX) to build calculations such as Month to Date, Year to Date, Year over Year, etc. We’ll also be covering reporting best practices for trending and comparative data. You’ll soon be ready to quickly and accurately report up current and past performance metrics to help the decisions makers make more informed and up-to-date decisions.</p>
+
+## Bio:
+
+ - <p>Josh George is a Business Intelligence Solution Architect with over 10 years’ experience designing, building and managing enterprise-class custom technology solutions for small, medium and large organizations. He specializes in Business Intelligence and Enterprise Data Architecture solution development, Project and Team Management, Data Warehousing and Data Modeling, ETL, OLAP, Dashboards, and Business Analysis, and is part of Slalom’s Technology Solutions group.</p>
+
+## Recorded At:
+
+ - SQL Saturday
+

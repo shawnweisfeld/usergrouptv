@@ -2,3 +2,6 @@ baseURL = "https://usergroup.tv/"
 languageCode = "en-us"
 title = "UserGroup.tv"
 theme = "bootstrap"
+
+[markup.goldmark.renderer]
+unsafe= true

@@ -1,0 +1,24 @@
+---
+title: "Agile Architecture"
+date: 2011-02-25T13:39:47.0000000
+draft: false
+---
+
+{{< vimeo 115131563 >}}
+
+## Speaker:
+
+ - Todd Girvin
+
+## Abstract:
+
+<p>Many agile developers say there&rsquo;s no such thing as architecture = it&rsquo;s all design and should all be done in the flow of an agile project. And it&rsquo;s true, any decisions made early are at risk of becoming waste if requirements or technical direction change. So just-in-time design decisions are more agile and less wasteful than traditional upfront architecture. But unfortunately, there still are and always will be dramatic differences in skill levels of developers and their abilities to make important high-level design decisions. And while many proficient developers have adopted agile methods, wider adoption of agile processes and techniques will lead back to the division of labor that separated architects from developers to begin with. So how does architecture fit into agile processes in a way that allows agile practices to scale out across a large organization?</p>
+
+## Bio:
+
+ - <p>Todd Girvin co-founded Improving Enterprises in August, 2004 and now heads the company’s Microsoft Technology Practice. He is a long-time entrepreneur and consultant, architecting and building software systems, coaching and training scores of companies in agile methods and developer best practices. Mr. Girvin contributes to the technical direction of Improving and to the developer community at large through public speaking and co-organizing AgileDotNet, and by consulting with customers regarding business, technology, and team solutions.</p>
+
+## Recorded At:
+
+ - Agile .NET
+

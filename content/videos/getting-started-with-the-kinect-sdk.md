@@ -1,0 +1,24 @@
+---
+title: "Getting Started with the Kinect SDK"
+date: 2011-07-06T18:03:29.0000000
+draft: false
+---
+
+{{< vimeo 120049662 >}}
+
+## Speaker:
+
+ - Michael Crump
+
+## Abstract:
+
+<p>This talk is also designed for people who want to get started developing with the official Microsoft Kinect SDK. I will walk the user through downloading the bits and starting a new project. We will take a look at several great free open-source tools to help jump-start your first NUI project.</p>
+
+## Bio:
+
+ - <p>Michael Crump is a Silverlight MVP and MCPD that has been involved with computers in one way or another for as long as he can remember, but started professionally in 2002. After spending years working as a systems administrator/tech support analyst, Michael branched out and started developing internal utilities that automated repetitive tasks and freed up full-time employees. From there, he was offered a job working at McKesson corporation and has been working with some form of .NET and VB/C# since 2003. He has worked at Fortune 500 companies where he gained experience in embedded systems design and software development to systems administration and database programming, and everything in between. His primary focus right now is developing healthcare software solutions using Microsoft .NET technologies. He prefers building infrastructure components, reusable shared libraries and helping companies define, develop and automate process standards and guidelines.</p>
+
+## Recorded At:
+
+ - All About XAML UG
+

@@ -1,0 +1,26 @@
+---
+title: "THE AGILE BA"
+date: 2014-08-22T17:36:13.0000000
+draft: false
+---
+
+{{< vimeo 104228493 >}}
+
+## Speaker:
+
+ - Ken Howard
+
+## Abstract:
+
+<p>While SCRUM avoids role labels such as Business Analyst (BA), the career BA often plays a critical role in the success of agile project teams. There are different opinions on how a BA can best contribute to a team, including repurposing the role into Product Owner. Many agile teams write stories and rely completely on conversations about those stories for elaboration. This can be problematic when building complex systems. Often, underlying business rules are difficult to communicate clearly and accurately, and a bridge is needed between the story and acceptance criteria. Additionally, understanding team members’ different learning styles can help determine the best practices for describing requirements on a team.</p>
+<p>This session will provide a description of key skills and tools that skillful BA’s often use. These will be aligned with the approach used in typical agile software development methods such as Scrum and Kanban, and best practices for maximizing the value of your BA will be offered. Participants will complete a VARK learning style assessment and learn requirements elaboration practices that are best suited to each learning style.</p>
+
+## Bio:
+
+ - <p>Ken Howard is Vice President of Consulting at Improving Enterprises and has been involved in most aspects of software development for over 30 years with such languages as diverse as COBOL, Smalltalk and Java. Over the years, Ken has provided consulting, training and mentoring to companies in 12 countries around the world, helping with adoption of software development best practices. He is also on the computer science faculty at SMU’s Lyle School of Engineering. Ken’s specialty is helping companies increase productivity through efficient practices and pragmatic organizational dynamics, which was the topic of the Addison-Wesley book that he co- authored titled Individuals and Interactions: an Agile Guide.
+</p>
+
+## Recorded At:
+
+ - AgileDotNext
+

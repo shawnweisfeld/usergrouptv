@@ -1,0 +1,24 @@
+---
+title: "Lean-Agile Learning Through Games"
+date: 2017-10-06T16:04:21.0000000
+draft: false
+---
+
+{{< vimeo 238045671 >}}
+
+## Speaker:
+
+ - Bill DeVoe
+
+## Abstract:
+
+<p>Most agile practitioners first learn agile by reading a book, attending a class, or attending local meetings. But learning lean and agile concepts works best when we're able to put some concrete examples and practice behind the concept. By adding a set of games and exercises that teach and reinforce lean and agile concepts to our toolboxes, change agents can provide some practical basis for conversations both inside and outside their organization. Being able to talk beyond anecdote and theory and actually demonstrate why something works the way we think it does is a powerful statement. The games in this session will cover a variety of lean and agile concepts, including: Preferring small batch sizes and maximizing customer value, Identifying bottlenecks and the differences between local and system-wide optimizations, Encouraging experimentation and risk-taking, Demonstrating the need for good communication, Backlog prioritization and delivering on commitments. Following the workshop, attendees will have access to all of the workshop games and be able to run these exercises and games with their teams, managers, and executives.</p>
+
+## Bio:
+
+ - <p>Bill DeVoe has been in IT for almost 25 years and has spent almost 20 years of that as an agile practitioner, trainer, and coach. He has coached and trained local teams, distributed teams, managers, and executives in lean, agile, Scrum, Kanban, and scaled agile topics. He has led transformations at everything from the team level to the enterprise level. Bill has spoken at many conferences over the past 5 years on a variety of topics, including agile transformations with HR and Finance, working with distributed teams, and transforming a team to Scrumban. Bill is the Principal Agile Evangelist for Velocity Partners, a near-shore development company specializing in distributed agile development. He is a Certified Scrum Professional, a SAFe Program Consultant, and licensed Management 3.0 Facilitator.</p>
+
+## Recorded At:
+
+ - Little Rock Tech Fest
+

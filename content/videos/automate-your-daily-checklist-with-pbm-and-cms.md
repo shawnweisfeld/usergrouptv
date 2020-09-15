@@ -1,0 +1,27 @@
+---
+title: "Automate your daily checklist with PBM and CMS"
+date: 2015-08-29T14:19:38.0000000
+draft: false
+---
+
+{{< vimeo 138521251 >}}
+
+## Speaker:
+
+ - John Sterrett
+
+## Abstract:
+
+<p>
+	This talk will give you an introduction into monitoring SQL Server using Policy Based Management and Central Management System which is provided out of the box with SQL Server. I will then show you how you can combine these features with the Enterprise Policy Management Framework on codeplex to provide monitoring for your whole SQL Server farm. This topic assumes you know nothing about PBM and CMS and will include lots of examples with only a few PowerPoint slides.
+</p>
+
+## Bio:
+
+ - <p>John Sterrett is an MCSE: Data Platform, Principal Consultant and the Founder of Procure SQL LLC.  John has presented at many community events, including Microsoft Ignite, PASS Member Summit, SQLRally, 24 Hours of PASS, SQLSaturdays, PASS Chapters, and Virtual Chapter meetings. John is a leader of the Austin SQL Server User Group and the founder of the HADR Virtual Chapter.</p>
+
+## Recorded At:
+
+ - Oklahoma Groups
+ - SQL Saturday
+

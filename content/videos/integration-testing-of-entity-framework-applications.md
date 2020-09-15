@@ -1,0 +1,24 @@
+---
+title: "Integration Testing of Entity Framework Applications"
+date: 2017-07-20T14:21:23.0000000
+draft: false
+---
+
+{{< vimeo 229837298 >}}
+
+## Speaker:
+
+ - Michael L Perry
+
+## Abstract:
+
+<p>Build an integration test suite for an Entity Framework application. Run it in VSTS on every check in, against a real database. I'll show you where unit tests end and integration tests begin. You?ll see what problems a good test suite can catch before they get a chance to slow you down.There are many reasons that we don?t test our data access code. It?s slow. It?s brittle. It's hard to set up. But the data access layer is core to our applications. It?s essential that we get it right.A good integration test suite is the most valuable asset that your team can invest in. It will help you code with confidence, knowing that you are not breaking existing functionality as you add new features. Instead of slowing you down, properly written integration tests can increase your team?s velocity.Using continuous integration, you can run your integration test suite quickly and repeatably against a test database. Get feedback quickly when there is a problem. Initialize test data. Isolate tests from one another. Structure tests to make them more readable, and resilient to change.</p>
+
+## Bio:
+
+ - <p>Michael travels through space clinging to the carbon hull of a spherical ship made of molten iron. He commands an army of microorganisms which decompose the molecules that he captures to provide chemical energy for his cells. His mission is to increase entropy throughout the universe. Michael wrote The Art of Immutable Architecture, a book on applying mathematics to building distributed systems. Learn more at https://immutablearchitecture.com. In his spare time, he records Pluralsight courses on CQRS, XAML Patterns, Cryptography, and Provable Code. Formerly a Microsoft MVP for seven years. He maintains the spoon-bending Assisticant, Correspondence, and Jinaga open-source libraries. He shared videos about distributed systems at historicalmodeling.com. And he helps his clients at Improving benefit from the power of software mathematics. Software is math. Every class is a theorem. The compiler is the proof. And unit tests check our work.</p>
+
+## Recorded At:
+
+ - Tulsa School of Dev
+

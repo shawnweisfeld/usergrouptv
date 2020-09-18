@@ -1,24 +1,33 @@
----
-title: "Parameter Sniffing the Good, the Bad, and the Ugly"
-date: 2016-10-18T10:43:46.0000000
-draft: false
----
-
-{{< vimeo 188471190 >}}
-
-## Speaker:
-
- - Lance Tidwell
-
-## Abstract:
-
-<p>Parameter sniffing is something that more than often helps performance on your servers; however, there are times when it can hinder performance as well. In this session we will define exactly what parameter sniffing is, and examine when it is good and when it is bad. Lastly, we will explore the different options available to fix bad parameter sniffing. After this session, you will be able to locate and fix bad parameter sniffing when it occurs on your servers.</p>
-
-## Bio:
-
- - <p>Lance Tidwell works as a multi-hatted DBA for TicketCity.com for the last 10 years in Austin,TX. Where he has had to work on many sides of the database from development to creating backup/restore strategies as well as performance tuning.</p>
-
-## Recorded At:
-
- - Capitol Area Central Texas Users of SQL Server
-
+{
+  "title": "Parameter Sniffing the Good, the Bad, and the Ugly",
+  "type": "recording",
+  "date": "2016-10-18T10:43:46",
+  "draft": false,
+  "slug": "parameter-sniffing-the-good-the-bad-and-the-ugly",
+  "abstract": "<p>Parameter sniffing is something that more than often helps performance on your servers; however, there are times when it can hinder performance as well. In this session we will define exactly what parameter sniffing is, and examine when it is good and when it is bad. Lastly, we will explore the different options available to fix bad parameter sniffing. After this session, you will be able to locate and fix bad parameter sniffing when it occurs on your servers.</p>",
+  "vimeo": "188471190",
+  "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/232423166/",
+  "thumbnail": "https://i.vimeocdn.com/video/598533698_295x166.jpg",
+  "speakers": [
+    {
+      "name": "Lance Tidwell",
+      "slug": "lance-tidwell",
+      "bio": "<p>Lance Tidwell works as a multi-hatted DBA for TicketCity.com for the last 10 years in Austin,TX. Where he has had to work on many sides of the database from development to creating backup/restore strategies as well as performance tuning.</p>",
+      "count": 2
+    }
+  ],
+  "tags": [
+    {
+      "name": "MS SQL",
+      "slug": "ms-sql",
+      "count": 18
+    }
+  ],
+  "meetups": [
+    {
+      "name": "Capitol Area Central Texas Users of SQL Server",
+      "slug": "capitol-area-central-texas-users-of-sql-server",
+      "count": 68
+    }
+  ]
+}

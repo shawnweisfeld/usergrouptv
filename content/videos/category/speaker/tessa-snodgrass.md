@@ -1,0 +1,16 @@
+{
+  "title": "Tessa Snodgrass",
+  "type": "speaker",
+  "slug": "tessa-snodgrass",
+  "date": "2019-09-28T16:57:50",
+  "draft": false,
+  "bio": "<p>Tessa is a retired Army Major, living in Georgetown, TX. She enjoys mentoring young STEM students, volunteering at her kids' schools, and hobby farming in her free time. She earned her Bachelor of Science Degree in Nuclear Engineering and Pre-Med from the United States Military Academy at West Point, NY.  Visit yellowwebmonkey.com to learn more!</p>",
+  "recordings": [
+    {
+      "title": "Bless Your Heart!: Tips on dealing with unhappy clients",
+      "slug": "bless-your-heart-tips-on-dealing-with-unhappy-clients",
+      "thumbnail": "https://i.vimeocdn.com/video/818417695_295x166.jpg",
+      "date": "2019-09-28T16:57:50"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Correspondence",
+  "type": "tag",
+  "slug": "correspondence",
+  "date": "2013-04-27T13:10:15",
+  "draft": false,
+  "recordings": [
+    {
+      "title": "Online and Offline Mobile Applications with Correspondence ",
+      "slug": "online-and-offline-mobile-applications-with-correspondence",
+      "thumbnail": "https://i.vimeocdn.com/video/485085354_295x166.jpg",
+      "date": "2013-04-27T13:10:15"
+    },
+    {
+      "title": "Collaborative Windows Phone Apps with Correspondence",
+      "slug": "collaborative-windows-phone-apps-with-correspondence",
+      "thumbnail": "https://i.vimeocdn.com/video/486706625_295x166.jpg",
+      "date": "2012-10-12T15:26:11"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Michael Bourgon",
+  "type": "speaker",
+  "slug": "michael-bourgon",
+  "date": "2015-01-31T23:11:26",
+  "draft": false,
+  "bio": "<p>Michael Bourgon is the Senior Production DBA for a large healthcare company. He's always looking for a better way to be a Lazy DBA - spending far too many hours automating processes in order to accomplish that.</p>",
+  "recordings": [
+    {
+      "title": "SQL Watchdog - find out instantly when SQL change",
+      "slug": "sql-watchdog-find-out-instantly-when-sql-change",
+      "thumbnail": "https://i.vimeocdn.com/video/505666533_295x166.jpg",
+      "date": "2015-01-31T23:11:26"
+    }
+  ]
+}

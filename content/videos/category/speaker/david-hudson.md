@@ -1,0 +1,16 @@
+{
+  "title": "David Hudson",
+  "type": "speaker",
+  "slug": "david-hudson",
+  "date": "2017-10-06T16:10:02",
+  "draft": false,
+  "bio": "<p>David is CTO at Few and has been developing websites and applications for 20 years and is responsible for bringing optical kerning to the web. His work has been featured by web giants like Jeffery Zeldman, Eric Meyer, and The Next Web. </p>",
+  "recordings": [
+    {
+      "title": "A brutal journey: Lessons learned while traveling the world as a CEO/CTO.",
+      "slug": "a-brutal-journey-lessons-learned-while-traveling-the-world-as-a-ceocto",
+      "thumbnail": "https://i.vimeocdn.com/video/660634741_295x166.jpg",
+      "date": "2017-10-06T16:10:02"
+    }
+  ]
+}

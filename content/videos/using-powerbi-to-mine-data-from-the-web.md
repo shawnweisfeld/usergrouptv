@@ -1,24 +1,33 @@
----
-title: "Using PowerBI to mine data from the web"
-date: 2019-06-20T15:54:13.0000000
-draft: false
----
-
-{{< vimeo 346640344 >}}
-
-## Speaker:
-
- - Pablo Moreno
-
-## Abstract:
-
-<p>Using PowerBI to mine data from the web</p>
-
-## Bio:
-
- - 
-
-## Recorded At:
-
- - Austin Power BI User Group
-
+{
+  "title": "Using PowerBI to mine data from the web",
+  "type": "recording",
+  "date": "2019-06-20T15:54:13",
+  "draft": false,
+  "slug": "using-powerbi-to-mine-data-from-the-web",
+  "abstract": "<p>Using PowerBI to mine data from the web</p>",
+  "vimeo": "346640344",
+  "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/262057424/",
+  "thumbnail": "https://i.vimeocdn.com/video/796753265_295x166.jpg",
+  "speakers": [
+    {
+      "name": "Pablo Moreno",
+      "slug": "pablo-moreno",
+      "bio": "",
+      "count": 2
+    }
+  ],
+  "tags": [
+    {
+      "name": "PowerBI",
+      "slug": "powerbi",
+      "count": 5
+    }
+  ],
+  "meetups": [
+    {
+      "name": "Austin Power BI User Group",
+      "slug": "austin-power-bi-user-group",
+      "count": 12
+    }
+  ]
+}

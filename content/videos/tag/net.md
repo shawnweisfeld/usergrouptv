@@ -1,0 +1,39 @@
+{
+  "title": ".net",
+  "type": "tag",
+  "slug": "net",
+  "date": "2020-05-26T14:03:48",
+  "draft": false,
+  "recordings": [
+    {
+      "title": "A Meeting with Scott Hunter !!",
+      "slug": "a-meeting-with-scott-hunter",
+      "thumbnail": "https://i.vimeocdn.com/video/901233634_295x166.jpg",
+      "date": "2020-05-26T14:03:48"
+    },
+    {
+      "title": "Dallas State of .NET Part 2",
+      "slug": "dallas-state-of-net-part-2",
+      "thumbnail": "https://i.vimeocdn.com/video/489236492_295x166.jpg",
+      "date": "2014-09-10T00:07:33"
+    },
+    {
+      "title": "Dallas State of .NET Part 1",
+      "slug": "dallas-state-of-net-part-1",
+      "thumbnail": "https://i.vimeocdn.com/video/489181888_295x166.jpg",
+      "date": "2014-09-10T00:06:20"
+    },
+    {
+      "title": "The Road to Windows 8! Part 2",
+      "slug": "the-road-to-windows-8-part-2",
+      "thumbnail": "https://i.vimeocdn.com/video/490123927_295x166.jpg",
+      "date": "2012-06-19T11:00:07"
+    },
+    {
+      "title": "The Road to Windows 8! Part 1",
+      "slug": "the-road-to-windows-8-part-1",
+      "thumbnail": "https://i.vimeocdn.com/video/490123620_295x166.jpg",
+      "date": "2012-06-19T10:57:27"
+    }
+  ]
+}

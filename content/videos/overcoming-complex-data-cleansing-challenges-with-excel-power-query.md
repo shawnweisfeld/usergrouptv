@@ -1,24 +1,33 @@
----
-title: "Overcoming Complex Data Cleansing Challenges with Excel Power Query"
-date: 2014-05-03T19:53:02.0000000
-draft: false
----
-
-{{< vimeo 100979330 >}}
-
-## Speaker:
-
- - Bryan Smith
-
-## Abstract:
-
-<p>Building off the earlier session, "Finding & Cleansing Data with Excel Power Query", we will explore more advanced techniques for cleansing data using Excel Power Query including the use of Power Query expressions. Armed with these techniques, analysts should feel confident tackling some of the gnarliest data cleansing challenges.</p>
-
-## Bio:
-
- - <p>Speaker photo Bryan is a Business Intelligence Technology Specialist with Microsoft, where he helps customers understand how Microsoft's tools and capabilities can be used to create insights.</p>
-
-## Recorded At:
-
- - SQL Saturday
-
+{
+  "title": "Overcoming Complex Data Cleansing Challenges with Excel Power Query",
+  "type": "recording",
+  "date": "2014-05-03T19:53:02",
+  "draft": false,
+  "slug": "overcoming-complex-data-cleansing-challenges-with-excel-power-query",
+  "abstract": "<p>Building off the earlier session, \"Finding & Cleansing Data with Excel Power Query\", we will explore more advanced techniques for cleansing data using Excel Power Query including the use of Power Query expressions. Armed with these techniques, analysts should feel confident tackling some of the gnarliest data cleansing challenges.</p>",
+  "vimeo": "100979330",
+  "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=305&sessionid=21945",
+  "thumbnail": "https://i.vimeocdn.com/video/482637503_295x166.jpg",
+  "speakers": [
+    {
+      "name": "Bryan Smith",
+      "slug": "bryan-smith",
+      "bio": "<p>Speaker photo Bryan is a Business Intelligence Technology Specialist with Microsoft, where he helps customers understand how Microsoft's tools and capabilities can be used to create insights.</p>",
+      "count": 1
+    }
+  ],
+  "tags": [
+    {
+      "name": "Power Query",
+      "slug": "power-query",
+      "count": 1
+    }
+  ],
+  "meetups": [
+    {
+      "name": "SQL Saturday",
+      "slug": "sql-saturday",
+      "count": 127
+    }
+  ]
+}

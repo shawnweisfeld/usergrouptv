@@ -1,0 +1,16 @@
+{
+  "title": "Sucharit Reddy",
+  "type": "speaker",
+  "slug": "sucharit-reddy",
+  "date": "2018-04-21T13:16:02",
+  "draft": false,
+  "bio": "<p>Sucharit Reddy is a trusted advisor to senior management of fortune 100 Global Customers with Over 18 years of Digital Transformation Experience with emphasis on Hybrid Cloud Architecture Deployments & Migrations, DevOps, DevSecOps, PAAS, SAAS & IAAS, Microsoft Azure & IBM SoftLayer across Retail, Financial Sector (Insurance, Banking & Capital Management), Health Care, Telecom, Media & Entertainment, Federal (DoD, DoJ, DHS,SOCOM, Intel) and Automotive industry segments. He recently joined the Microsoft team, after serving classified DoD customers in IBM Federal for over 3 years. Prior to IBM, Reddy worked in the Management Consulting space with Ernst & Young, Capgemini</p>",
+  "recordings": [
+    {
+      "title": "An Introduction to Blockchain on Azure",
+      "slug": "an-introduction-to-blockchain-on-azure",
+      "thumbnail": "https://i.vimeocdn.com/video/696169887_295x166.jpg",
+      "date": "2018-04-21T13:16:02"
+    }
+  ]
+}

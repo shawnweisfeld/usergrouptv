@@ -1,24 +1,33 @@
----
-title: "Microsoft Azure Fundamentals: Compute, Network, Storage, Identity and Automation"
-date: 2016-09-24T20:00:29.0000000
-draft: false
----
-
-{{< vimeo 184673271 >}}
-
-## Speaker:
-
- - Yung Chou
-
-## Abstract:
-
-<p>For many, cloud computing is a confusing and overwhelming subject. Not only the concepts are abstract and the service models appear perplexing, but often vendors' implementations conglomerate with a steep learning curve. This presentation is to help technical professionals better grasp the essentials and fundamental building blocks of a cloud computing solution, hence accelerate the learning. This delivery takes a methodical approach and offers an accelerated learning experience to establish a solid technical foundation of Microsoft Azure. For both IT pros and developers, this is an opportunity to examine five key capabilities of cloud computing and how to integrate them for building, developing, deploying and managing a solution while employing Azure as a datacenter for business in all sizes.</p>
-
-## Bio:
-
- - <p>Yung Chou is a Technology Evangelist in Microsoft US Developer Experience and Evangelism team. Within the company, he has had opportunities on serving customers in the areas of support account management, technical support, technical sales, and evangelism. Prior to Microsoft, he had established capacities in system programming, application development, consulting services, and IT management. His technical focuses have been on virtualization and cloud computing with strong interests in hybrid cloud, Windows Azure Infrastructure Services, and emerging enterprise computing architecture. He has been a frequent speaker in technical conferences, roadshow, and Microsoft events.</p>
-
-## Recorded At:
-
- - Houston Techfest
-
+{
+  "title": "Microsoft Azure Fundamentals: Compute, Network, Storage, Identity and Automation",
+  "type": "recording",
+  "date": "2016-09-24T20:00:29",
+  "draft": false,
+  "slug": "microsoft-azure-fundamentals-compute-network-storage-identity-and-automation",
+  "abstract": "<p>For many, cloud computing is a confusing and overwhelming subject. Not only the concepts are abstract and the service models appear perplexing, but often vendors' implementations conglomerate with a steep learning curve. This presentation is to help technical professionals better grasp the essentials and fundamental building blocks of a cloud computing solution, hence accelerate the learning. This delivery takes a methodical approach and offers an accelerated learning experience to establish a solid technical foundation of Microsoft Azure. For both IT pros and developers, this is an opportunity to examine five key capabilities of cloud computing and how to integrate them for building, developing, deploying and managing a solution while employing Azure as a datacenter for business in all sizes.</p>",
+  "vimeo": "184673271",
+  "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
+  "thumbnail": "https://i.vimeocdn.com/video/594173211_295x166.jpg",
+  "speakers": [
+    {
+      "name": "Yung Chou",
+      "slug": "yung-chou",
+      "bio": "<p>Yung Chou is a Technology Evangelist in Microsoft US Developer Experience and Evangelism team. Within the company, he has had opportunities on serving customers in the areas of support account management, technical support, technical sales, and evangelism. Prior to Microsoft, he had established capacities in system programming, application development, consulting services, and IT management. His technical focuses have been on virtualization and cloud computing with strong interests in hybrid cloud, Windows Azure Infrastructure Services, and emerging enterprise computing architecture. He has been a frequent speaker in technical conferences, roadshow, and Microsoft events.</p>",
+      "count": 1
+    }
+  ],
+  "tags": [
+    {
+      "name": "Azure",
+      "slug": "azure",
+      "count": 34
+    }
+  ],
+  "meetups": [
+    {
+      "name": "Houston Techfest",
+      "slug": "houston-techfest",
+      "count": 118
+    }
+  ]
+}

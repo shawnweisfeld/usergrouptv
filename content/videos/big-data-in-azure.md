@@ -1,24 +1,33 @@
----
-title: "Big Data in Azure"
-date: 2017-04-22T13:14:38.0000000
-draft: false
----
-
-{{< vimeo 215103496 >}}
-
-## Speaker:
-
- - Shawn Weisfeld
-
-## Abstract:
-
-<p>This session will provide an overview of the different big data services available in Azure. We will discuss how they can be used together to provide a complete big data workflow for both human-born and machine-born data. </p>
-
-## Bio:
-
- - <p>Shawn (http://www.shawnweisfeld.com) is passionate about building awesome applications and websites with .NET technologies and Azure. He is currently a Cloud Solution Architect for Microsoft based in Austin TX and founder of http://UserGroup.tv. Read his full bio at http://about.me/shawnweisfeld or connect with him on LinkedIn https://www.linkedin.com/in/shawnweisfeld/</p>
-
-## Recorded At:
-
- - Austin Global Azure Bootcamp
-
+{
+  "title": "Big Data in Azure",
+  "type": "recording",
+  "date": "2017-04-22T13:14:38",
+  "draft": false,
+  "slug": "big-data-in-azure",
+  "abstract": "<p>This session will provide an overview of the different big data services available in Azure. We will discuss how they can be used together to provide a complete big data workflow for both human-born and machine-born data. </p>",
+  "vimeo": "215103496",
+  "moreinfo": "https://www.eventbrite.com/e/global-azure-bootcamp-2017-austin-tx-tickets-33085810550#",
+  "thumbnail": "https://i.vimeocdn.com/video/631746147_295x166.jpg",
+  "speakers": [
+    {
+      "name": "Shawn Weisfeld",
+      "slug": "shawn-weisfeld",
+      "bio": "<p>Shawn (http://www.shawnweisfeld.com) is passionate about building awesome applications and websites with .NET technologies and Azure. He is currently a Cloud Solution Architect for Microsoft based in Austin TX and founder of http://UserGroup.tv. Read his full bio at http://about.me/shawnweisfeld or connect with him on LinkedIn https://www.linkedin.com/in/shawnweisfeld/</p>",
+      "count": 69
+    }
+  ],
+  "tags": [
+    {
+      "name": "Big Data",
+      "slug": "big-data",
+      "count": 3
+    }
+  ],
+  "meetups": [
+    {
+      "name": "Austin Global Azure Bootcamp",
+      "slug": "austin-global-azure-bootcamp",
+      "count": 22
+    }
+  ]
+}

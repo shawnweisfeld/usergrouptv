@@ -1,24 +1,33 @@
----
-title: "Experience SQL Server 2017: The Modern Database Platform"
-date: 2018-05-19T23:02:34.0000000
-draft: false
----
-
-{{< vimeo 271347017 >}}
-
-## Speaker:
-
- - Bob Ward
-
-## Abstract:
-
-<p>SQL Server is no longer just a relational database management system. It has become a platform for data, both in your cloud and ours. This session will discuss all the new features and capabilities of SQL Server 2017 including SQL Server on Linux, Docker Containers, Graph Database, Python, Adaptive Query Processing, Automatic Tuning, and new HADR capabilities. We will even talk a few hidden gems included in the release. This session will contain demos that showcase these capabilities and we will close the session with a discussion of SQL Server Futures and Roadmap.</p>
-
-## Bio:
-
- - <p>Bob Ward is a Principal Architect for the Microsoft Database Systems Group, which owns the development for all SQL Server versions. Bob has worked for Microsoft for 25 years on every version of SQL Server shipped from OS/2 1.1 to SQL Server 2017 including Azure. He has worked in customer support as a principal escalation engineer and Chief Technology Officer (CTO), interacting with some of the largest SQL Server deployments in the world. Bob is a well-known speaker on SQL Server, often presenting talks on new releases, internals, and performance at events such as SQL PASS Summit, SQLBits, SQLIntersection, and Microsoft Ignite. You can find him on twitter at @bobwardms or read his blog at https://blogs.msdn.microsoft.com/bobsql.</p>
-
-## Recorded At:
-
- - SQL Saturday
-
+{
+  "title": "Experience SQL Server 2017: The Modern Database Platform",
+  "type": "recording",
+  "date": "2018-05-19T23:02:34",
+  "draft": false,
+  "slug": "experience-sql-server-2017-the-modern-database-platform",
+  "abstract": "<p>SQL Server is no longer just a relational database management system. It has become a platform for data, both in your cloud and ours. This session will discuss all the new features and capabilities of SQL Server 2017 including SQL Server on Linux, Docker Containers, Graph Database, Python, Adaptive Query Processing, Automatic Tuning, and new HADR capabilities. We will even talk a few hidden gems included in the release. This session will contain demos that showcase these capabilities and we will close the session with a discussion of SQL Server Futures and Roadmap.</p>",
+  "vimeo": "271347017",
+  "moreinfo": "http://www.sqlsaturday.com/734/Sessions/Details.aspx?sid=73044",
+  "thumbnail": "https://i.vimeocdn.com/video/702623750_295x166.jpg",
+  "speakers": [
+    {
+      "name": "Bob Ward",
+      "slug": "bob-ward",
+      "bio": "<p>Bob Ward is a Principal Architect for the Microsoft Database Systems Group, which owns the development for all SQL Server versions. Bob has worked for Microsoft for 25 years on every version of SQL Server shipped from OS/2 1.1 to SQL Server 2017 including Azure. He has worked in customer support as a principal escalation engineer and Chief Technology Officer (CTO), interacting with some of the largest SQL Server deployments in the world. Bob is a well-known speaker on SQL Server, often presenting talks on new releases, internals, and performance at events such as SQL PASS Summit, SQLBits, SQLIntersection, and Microsoft Ignite. You can find him on twitter at @bobwardms or read his blog at https://blogs.msdn.microsoft.com/bobsql.</p>",
+      "count": 4
+    }
+  ],
+  "tags": [
+    {
+      "name": "SQL Server 2017",
+      "slug": "sql-server-2017",
+      "count": 3
+    }
+  ],
+  "meetups": [
+    {
+      "name": "SQL Saturday",
+      "slug": "sql-saturday",
+      "count": 127
+    }
+  ]
+}

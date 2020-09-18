@@ -1,25 +1,38 @@
----
-title: "HTML5: Code for all the platforms!"
-date: 2011-10-07T04:57:17.0000000
-draft: false
----
-
-{{< vimeo 120047938 >}}
-
-## Speaker:
-
- - Luke Crouch
-
-## Abstract:
-
-<p>HTML, CSS, and Javascript are becoming a "first class" development platform under the banner of HTML5. But what is it? In this session, we'll cover a short history of the web and how we got to HTML5. Then we'll see what's already possible across desktop and mobile platforms using the modern web stack. Finally, we'll discuss what's next and how we can participate to shape our own destiny as developers.</p>
-
-## Bio:
-
- - <p>Luke has made web sites and apps for 10 years - from specialized corporate intranet apps to public sites with millions of users. He currently works on the developer.mozilla.org site for Mozilla, and previously worked on SourceForge.net. He's been an open source advocate &amp; contributor for years, participating in Zend Framework, PEAR, and now Mozilla! He also participates in Tulsa Web Devs (tulsawebdevs.org) along with many great web developers in the Tulsa area. http://groovecoder.com @groovecoder</p>
-
-## Recorded At:
-
- - Oklahoma Groups
- - Tulsa Tech Fest
-
+{
+  "title": "HTML5: Code for all the platforms!",
+  "type": "recording",
+  "date": "2011-10-07T04:57:17",
+  "draft": false,
+  "slug": "html5-code-for-all-the-platforms",
+  "abstract": "<p>HTML, CSS, and Javascript are becoming a \"first class\" development platform under the banner of HTML5. But what is it? In this session, we'll cover a short history of the web and how we got to HTML5. Then we'll see what's already possible across desktop and mobile platforms using the modern web stack. Finally, we'll discuss what's next and how we can participate to shape our own destiny as developers.</p>",
+  "vimeo": "120047938",
+  "moreinfo": "http://techfests.com/Tulsa/2011/default.aspx",
+  "thumbnail": "https://i.vimeocdn.com/video/507718513_295x166.jpg",
+  "speakers": [
+    {
+      "name": "Luke Crouch",
+      "slug": "luke-crouch",
+      "bio": "<p>Luke has made web sites and apps for 10 years - from specialized corporate intranet apps to public sites with millions of users. He currently works on the developer.mozilla.org site for Mozilla, and previously worked on SourceForge.net. He's been an open source advocate &amp; contributor for years, participating in Zend Framework, PEAR, and now Mozilla! He also participates in Tulsa Web Devs (tulsawebdevs.org) along with many great web developers in the Tulsa area. http://groovecoder.com @groovecoder</p>",
+      "count": 1
+    }
+  ],
+  "tags": [
+    {
+      "name": "HTML5",
+      "slug": "html5",
+      "count": 6
+    }
+  ],
+  "meetups": [
+    {
+      "name": "Oklahoma Groups",
+      "slug": "oklahoma",
+      "count": 70
+    },
+    {
+      "name": "Tulsa Tech Fest",
+      "slug": "tulsa-tech-fest",
+      "count": 41
+    }
+  ]
+}

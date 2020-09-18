@@ -1,40 +1,38 @@
----
-title: "Playing Containers with Azure Kubernetes Service"
-date: 2019-04-27T13:44:15.0000000
-draft: false
----
-
-{{< vimeo 333087827 >}}
-
-## Speaker:
-
- - Joydeep Ghosh
-
-## Abstract:
-
-<p>Containerization had been around for quite a long time. Organizations have adapted
-various strategies to orchestrate and manage containers for large scale applications. Azure
-proudly brings hosted kubernetes environment called AKS, making it easy to deploy and manage
-containerized applications. While every large scale applications are adapting Microservice architecture,
-implementing the concept of containerization using some of the top Container Management
-tools like docker, openshift and kubernetes has become one of the highest priorities for many
-companies. Azure Kubernetes Service, brings out a whole new dimension in orchestrating
-container management providing an easy, scalable and deployable solutions for containers. This
-session showcase how we can provide an easy and seemless devops process for a .NET core
-application implementing containerization strategy using Azure DevOps project, Docker, Azure
-Container Registry and deploy the containers to Azure Kubernetes Service in short span of time.</p>
-
-## Bio:
-
- - <p>Joydeep is a developer who has been involved in core .NET development platform for
-many years. I have emerged myself from classic ASP 3.0 development during my initial years and
-continued my pursuit with Microsoft technologies all these times. I am vary passionate on Cloud
-computing and had been trying to expand my learning platform towards Microsoft Azure. I am a
-blogger who likes to share the most of developer experience to the world through my blog
-https://devexpresso.com.</p>
-
-## Recorded At:
-
- - Azure Austin Meetup
- - Austin Global Azure Bootcamp
-
+{
+  "title": "Playing Containers with Azure Kubernetes Service",
+  "type": "recording",
+  "date": "2019-04-27T13:44:15",
+  "draft": false,
+  "slug": "playing-containers-with-azure-kubernetes-service",
+  "abstract": "<p>Containerization had been around for quite a long time. Organizations have adapted\r\nvarious strategies to orchestrate and manage containers for large scale applications. Azure\r\nproudly brings hosted kubernetes environment called AKS, making it easy to deploy and manage\r\ncontainerized applications. While every large scale applications are adapting Microservice architecture,\r\nimplementing the concept of containerization using some of the top Container Management\r\ntools like docker, openshift and kubernetes has become one of the highest priorities for many\r\ncompanies. Azure Kubernetes Service, brings out a whole new dimension in orchestrating\r\ncontainer management providing an easy, scalable and deployable solutions for containers. This\r\nsession showcase how we can provide an easy and seemless devops process for a .NET core\r\napplication implementing containerization strategy using Azure DevOps project, Docker, Azure\r\nContainer Registry and deploy the containers to Azure Kubernetes Service in short span of time.</p>",
+  "vimeo": "333087827",
+  "moreinfo": "https://www.meetup.com/azureaustin/events/258070696/",
+  "thumbnail": "https://i.vimeocdn.com/video/778966691_295x166.jpg",
+  "speakers": [
+    {
+      "name": "Joydeep Ghosh",
+      "slug": "joydeep-ghosh",
+      "bio": "<p>Joydeep is a developer who has been involved in core .NET development platform for\r\nmany years. I have emerged myself from classic ASP 3.0 development during my initial years and\r\ncontinued my pursuit with Microsoft technologies all these times. I am vary passionate on Cloud\r\ncomputing and had been trying to expand my learning platform towards Microsoft Azure. I am a\r\nblogger who likes to share the most of developer experience to the world through my blog\r\nhttps://devexpresso.com.</p>",
+      "count": 1
+    }
+  ],
+  "tags": [
+    {
+      "name": "K8S",
+      "slug": "k8s",
+      "count": 5
+    }
+  ],
+  "meetups": [
+    {
+      "name": "Azure Austin Meetup",
+      "slug": "azure-austin-meetup",
+      "count": 41
+    },
+    {
+      "name": "Austin Global Azure Bootcamp",
+      "slug": "austin-global-azure-bootcamp",
+      "count": 22
+    }
+  ]
+}

@@ -1,24 +1,33 @@
----
-title: "Coding your Future with the Windows Insider Program"
-date: 2019-06-24T16:46:01.0000000
-draft: false
----
-
-{{< vimeo 346640666 >}}
-
-## Speaker:
-
- - Jacques Daniels
-
-## Abstract:
-
-<p>Have you always dreamed of a career in tech but worried you wouldn't be able to pick up coding? Are you afraid to take your code to the next level? No matter where you're starting, the Windows Insider Program can help. Whether you're an expert, student, IT pro, or beginner, we have a developer learning path for you. Start learning the tools, building your first app, or turning your code into a business with our community of Insiders.</p>
-
-## Bio:
-
- - <p>Jacques Daniels is a husband, stepdad, former chess competitor, MTS and MCP based in Grand Prairie, TX. His first I.T. job was a high school intern at IBM from 1985 - 1987. That experience helped him decide on what he wanted to do for a living. Over the past 30 + years Jacques has worked with many programming languages, databases and applications at major companies including Microsoft, Xerox, Baylor Scott & White, and D.R. Horton.</p>
-
-## Recorded At:
-
- - MS Insider Dev Tour
-
+{
+  "title": "Coding your Future with the Windows Insider Program",
+  "type": "recording",
+  "date": "2019-06-24T16:46:01",
+  "draft": false,
+  "slug": "coding-your-future-with-the-windows-insider-program",
+  "abstract": "<p>Have you always dreamed of a career in tech but worried you wouldn't be able to pick up coding? Are you afraid to take your code to the next level? No matter where you're starting, the Windows Insider Program can help. Whether you're an expert, student, IT pro, or beginner, we have a developer learning path for you. Start learning the tools, building your first app, or turning your code into a business with our community of Insiders.</p>",
+  "vimeo": "346640666",
+  "moreinfo": "https://developer.microsoft.com/en-us/windows/campaigns/us-tx-dallas",
+  "thumbnail": "https://i.vimeocdn.com/video/796753634_295x166.jpg",
+  "speakers": [
+    {
+      "name": "Jacques Daniels",
+      "slug": "jacques-daniels",
+      "bio": "<p>Jacques Daniels is a husband, stepdad, former chess competitor, MTS and MCP based in Grand Prairie, TX. His first I.T. job was a high school intern at IBM from 1985 - 1987. That experience helped him decide on what he wanted to do for a living. Over the past 30 + years Jacques has worked with many programming languages, databases and applications at major companies including Microsoft, Xerox, Baylor Scott & White, and D.R. Horton.</p>",
+      "count": 1
+    }
+  ],
+  "tags": [
+    {
+      "name": "Career",
+      "slug": "career",
+      "count": 16
+    }
+  ],
+  "meetups": [
+    {
+      "name": "MS Insider Dev Tour",
+      "slug": "ms-insider-dev-tour",
+      "count": 6
+    }
+  ]
+}

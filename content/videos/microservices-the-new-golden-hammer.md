@@ -1,32 +1,57 @@
----
-title: "Microservices - The new golden hammer!"
-date: 2016-09-24T19:56:29.0000000
-draft: false
----
-
-{{< vimeo 184509912 >}}
-
-## Speaker:
-
- - Miguel Gonzalez
- - Peter McKee
- - Andrew Siemer
- - Gabriel Schenker
- - Shawn Weisfeld
-
-## Abstract:
-
-<p>This is a panel discussion where we break down the pros and cons of microservices and share our experience building big systems with this architecture. We dig into tooling concerns, high level concepts, things to think about, traps, etc. This works great as an interactive session with the audience.</p>
-
-## Bio:
-
- - <p>Andrew Siemer is director of Engineering at Volusion. Former Chief Architect at dell.com. Farmer at Friendly Pastures. Software consultant at Siemer for Hire. Random dude at AndrewSiemer.com. Passionate developer and career coach at Developer Springboard. Software development professor at Veteran Coder. Author of 3 books published by Packt Publishing. Self published author of two books at LeanPub.</p>
- - <p>Andrew Siemer is director of Engineering at Volusion. Former Chief Architect at dell.com. Farmer at Friendly Pastures. Software consultant at Siemer for Hire. Random dude at AndrewSiemer.com. Passionate developer and career coach at Developer Springboard. Software development professor at Veteran Coder. Author of 3 books published by Packt Publishing. Self published author of two books at LeanPub.</p>
- - <p>Andrew Siemer is director of Engineering at Volusion. Former Chief Architect at dell.com. Farmer at Friendly Pastures. Software consultant at Siemer for Hire. Random dude at AndrewSiemer.com. Passionate developer and career coach at Developer Springboard. Software development professor at Veteran Coder. Author of 3 books published by Packt Publishing. Self published author of two books at LeanPub.</p>
- - <p>Andrew Siemer is director of Engineering at Volusion. Former Chief Architect at dell.com. Farmer at Friendly Pastures. Software consultant at Siemer for Hire. Random dude at AndrewSiemer.com. Passionate developer and career coach at Developer Springboard. Software development professor at Veteran Coder. Author of 3 books published by Packt Publishing. Self published author of two books at LeanPub.</p>
- - <p>Shawn (http://www.shawnweisfeld.com) is passionate about building awesome applications and websites with .NET technologies and Azure. He is currently a Cloud Solution Architect for Microsoft based in Austin TX and founder of http://UserGroup.tv. Read his full bio at http://about.me/shawnweisfeld or connect with him on LinkedIn https://www.linkedin.com/in/shawnweisfeld/</p>
-
-## Recorded At:
-
- - Houston Techfest
-
+{
+  "title": "Microservices - The new golden hammer!",
+  "type": "recording",
+  "date": "2016-09-24T19:56:29",
+  "draft": false,
+  "slug": "microservices-the-new-golden-hammer",
+  "abstract": "<p>This is a panel discussion where we break down the pros and cons of microservices and share our experience building big systems with this architecture. We dig into tooling concerns, high level concepts, things to think about, traps, etc. This works great as an interactive session with the audience.</p>",
+  "vimeo": "184509912",
+  "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
+  "thumbnail": "https://i.vimeocdn.com/video/593964660_295x166.jpg",
+  "speakers": [
+    {
+      "name": "Miguel Gonzalez",
+      "slug": "miguel-gonzalez",
+      "bio": "<p>Andrew Siemer is director of Engineering at Volusion. Former Chief Architect at dell.com. Farmer at Friendly Pastures. Software consultant at Siemer for Hire. Random dude at AndrewSiemer.com. Passionate developer and career coach at Developer Springboard. Software development professor at Veteran Coder. Author of 3 books published by Packt Publishing. Self published author of two books at LeanPub.</p>",
+      "count": 1
+    },
+    {
+      "name": "Peter McKee",
+      "slug": "peter-mckee",
+      "bio": "<p>Andrew Siemer is director of Engineering at Volusion. Former Chief Architect at dell.com. Farmer at Friendly Pastures. Software consultant at Siemer for Hire. Random dude at AndrewSiemer.com. Passionate developer and career coach at Developer Springboard. Software development professor at Veteran Coder. Author of 3 books published by Packt Publishing. Self published author of two books at LeanPub.</p>",
+      "count": 1
+    },
+    {
+      "name": "Andrew Siemer",
+      "slug": "andrew-siemer",
+      "bio": "<p>Andrew Siemer is director of Engineering at Volusion. Former Chief Architect at dell.com. Farmer at Friendly Pastures. Software consultant at Siemer for Hire. Random dude at AndrewSiemer.com. Passionate developer and career coach at Developer Springboard. Software development professor at Veteran Coder. Author of 3 books published by Packt Publishing. Self published author of two books at LeanPub.</p>",
+      "count": 4
+    },
+    {
+      "name": "Gabriel Schenker",
+      "slug": "gabriel-schenker",
+      "bio": "<p>Andrew Siemer is director of Engineering at Volusion. Former Chief Architect at dell.com. Farmer at Friendly Pastures. Software consultant at Siemer for Hire. Random dude at AndrewSiemer.com. Passionate developer and career coach at Developer Springboard. Software development professor at Veteran Coder. Author of 3 books published by Packt Publishing. Self published author of two books at LeanPub.</p>",
+      "count": 4
+    },
+    {
+      "name": "Shawn Weisfeld",
+      "slug": "shawn-weisfeld",
+      "bio": "<p>Shawn (http://www.shawnweisfeld.com) is passionate about building awesome applications and websites with .NET technologies and Azure. He is currently a Cloud Solution Architect for Microsoft based in Austin TX and founder of http://UserGroup.tv. Read his full bio at http://about.me/shawnweisfeld or connect with him on LinkedIn https://www.linkedin.com/in/shawnweisfeld/</p>",
+      "count": 69
+    }
+  ],
+  "tags": [
+    {
+      "name": "Microservices",
+      "slug": "microservices",
+      "count": 9
+    }
+  ],
+  "meetups": [
+    {
+      "name": "Houston Techfest",
+      "slug": "houston-techfest",
+      "count": 118
+    }
+  ]
+}

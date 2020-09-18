@@ -1,24 +1,33 @@
----
-title: "OFFICE 365 MIGRATION MINI-CASE STUDY"
-date: 2018-04-11T21:10:00.0000000
-draft: false
----
-
-{{< vimeo 264361222 >}}
-
-## Speaker:
-
- - Uday Adhikari
-
-## Abstract:
-
-<p>1TB+ from on-prem to cloud, Content discovery -- including PowerShell scripts identifying site customizations, Customization and remediation plans, Punching up processing power and minimizing network latencies by using Azure VMs and Azure Storage</p>
-
-## Bio:
-
- - <p>Uday Adhikari is a Solution Architect at Cyclotron. Uday is an experienced leader with the ability to influence decision making processes, with the single goal of empowering business users to achieve more with Microsoft Power Apps, Power Automate and Power Virtual Agents. He helps customers understand the value proposition of the Power Platform and builds applications in Power Apps and workflows in Power Automate leveraging data from various sources like the Common Data Service, Azure SQL, SharePoint, and integrating with other APIs and customer connectors. Uday's committed to community engagement, speaking, and is a community organizer of the Austin Office 365 & SharePoint User Group.</p>
-
-## Recorded At:
-
- - Austin Office 365 and SharePoint User Group
-
+{
+  "title": "OFFICE 365 MIGRATION MINI-CASE STUDY",
+  "type": "recording",
+  "date": "2018-04-11T21:10:00",
+  "draft": false,
+  "slug": "office-365-migration-mini-case-study-2",
+  "abstract": "<p>1TB+ from on-prem to cloud, Content discovery -- including PowerShell scripts identifying site customizations, Customization and remediation plans, Punching up processing power and minimizing network latencies by using Azure VMs and Azure Storage</p>",
+  "vimeo": "264361222",
+  "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/lsljlmyxgbpb/",
+  "thumbnail": "https://i.vimeocdn.com/video/694122385_295x166.jpg",
+  "speakers": [
+    {
+      "name": "Uday Adhikari",
+      "slug": "uday-adhikari",
+      "bio": "<p>Uday Adhikari is a Solution Architect at Cyclotron. Uday is an experienced leader with the ability to influence decision making processes, with the single goal of empowering business users to achieve more with Microsoft Power Apps, Power Automate and Power Virtual Agents. He helps customers understand the value proposition of the Power Platform and builds applications in Power Apps and workflows in Power Automate leveraging data from various sources like the Common Data Service, Azure SQL, SharePoint, and integrating with other APIs and customer connectors. Uday's committed to community engagement, speaking, and is a community organizer of the Austin Office 365 & SharePoint User Group.</p>",
+      "count": 4
+    }
+  ],
+  "tags": [
+    {
+      "name": "O365",
+      "slug": "o365",
+      "count": 5
+    }
+  ],
+  "meetups": [
+    {
+      "name": "Austin Office 365 and SharePoint User Group",
+      "slug": "austin-office-365-and-sharepoint-user-group",
+      "count": 19
+    }
+  ]
+}

@@ -1,24 +1,33 @@
----
-title: "Getting started with Azure Infrastructure as a Service (IaaS)"
-date: 2016-04-16T11:00:56.0000000
-draft: false
----
-
-{{< vimeo 163237838 >}}
-
-## Speaker:
-
- - Shad Phillips
-
-## Abstract:
-
-<p>Getting started with Azure Infrastructure as a Service (IaaS)</p>
-
-## Bio:
-
- - <p>Shad Phillips is an Azure Cloud Solution Architect with over 20 years of industry experience in designing, architecting, and deploying enterprise solutions. He has held various roles at Microsoft including MTC Architect, Office 365 TSP, and FAST Search Architect. </p>
-
-## Recorded At:
-
- - DFW Azure User Group
-
+{
+  "title": "Getting started with Azure Infrastructure as a Service (IaaS)",
+  "type": "recording",
+  "date": "2016-04-16T11:00:56",
+  "draft": false,
+  "slug": "getting-started-with-azure-infrastructure-as-a-service-iaas",
+  "abstract": "<p>Getting started with Azure Infrastructure as a Service (IaaS)</p>",
+  "vimeo": "163237838",
+  "moreinfo": "http://www.meetup.com/DFW-Azure-User-Group/events/227460670/",
+  "thumbnail": "https://i.vimeocdn.com/video/566449374_295x166.jpg",
+  "speakers": [
+    {
+      "name": "Shad Phillips",
+      "slug": "shad-phillips",
+      "bio": "<p>Shad Phillips is an Azure Cloud Solution Architect with over 20 years of industry experience in designing, architecting, and deploying enterprise solutions. He has held various roles at Microsoft including MTC Architect, Office 365 TSP, and FAST Search Architect. </p>",
+      "count": 1
+    }
+  ],
+  "tags": [
+    {
+      "name": "Azure",
+      "slug": "azure",
+      "count": 34
+    }
+  ],
+  "meetups": [
+    {
+      "name": "DFW Azure User Group",
+      "slug": "dfw-azure-user-group",
+      "count": 5
+    }
+  ]
+}

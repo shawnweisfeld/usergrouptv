@@ -2,6 +2,15 @@ baseURL = "https://usergroup.tv/"
 languageCode = "en-us"
 title = "UserGroup.tv"
 theme = "bootstrap"
+googleAnalytics = "UA-155341911-1"
+publishdir = "docs"
+
+[params]
+  customDateFormat = "Jan 1, 2006"
+  hideReadingTime = true
+
+[Author]  
+  name = "Shawn Weisfeld"
 
 [markup.goldmark.renderer]
 unsafe= true

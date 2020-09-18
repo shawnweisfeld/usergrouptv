@@ -1,25 +1,33 @@
----
-title: "Kinect Dallas Keynote"
-date: 2012-01-28T15:36:29.0000000
-draft: false
----
-
-{{< vimeo 109122090 >}}
-
-## Speaker:
-
- - Tim Huckaby
- - Eric Leaseburg
-
-## Abstract:
-
-
-
-## Bio:
-
- - 
- - 
-
-## Recorded At:
-
-
+{
+  "title": "Kinect Dallas Keynote",
+  "type": "recording",
+  "date": "2012-01-28T15:36:29",
+  "draft": false,
+  "slug": "kinect-dallas-keynote",
+  "abstract": "",
+  "vimeo": "109122090",
+  "moreinfo": null,
+  "thumbnail": "https://i.vimeocdn.com/video/492994856_295x166.jpg",
+  "speakers": [
+    {
+      "name": "Tim Huckaby",
+      "slug": "tim-huckaby",
+      "bio": "",
+      "count": 1
+    },
+    {
+      "name": "Eric Leaseburg",
+      "slug": "eric-leaseburg",
+      "bio": "",
+      "count": 1
+    }
+  ],
+  "tags": [
+    {
+      "name": "Kinect",
+      "slug": "kinect",
+      "count": 6
+    }
+  ],
+  "meetups": []
+}

@@ -1,0 +1,25 @@
+{{ define "title" }}
+    {{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+
+{{ define "main" }}
+
+    <div class="container mt-3 mb-3">
+
+        <h2>Groups: </h2>
+        <div class="row row-cols-1 row-cols-md-3">
+            {{ range .Params.meetups }}
+            <div class="col mb-4">
+              <div class="card">
+                <a href="/videos/category/group/{{.slug}}"><img src="{{ .thumbnail }}" class="card-img-top" alt={{ .title }}></a>
+                <div class="card-body">
+                <h5 class="card-title"><a href="/videos/category/group/{{.slug}}">{{ .title }}</a></h5>
+                <p class="card-text">{{ partial "countbadge.html" .count }} Last Recording: {{ (time .date).Format "Jan 2, 2006" }}</p>
+                </div>
+              </div>
+            </div>
+            {{ end }}
+          </div>
+    </div>
+
+{{ end }}

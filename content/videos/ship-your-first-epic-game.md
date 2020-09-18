@@ -1,24 +1,33 @@
----
-title: "Ship Your First Epic Game"
-date: 2014-06-14T11:00:42.0000000
-draft: false
----
-
-{{< vimeo 100491274 >}}
-
-## Speaker:
-
- - Nathalie Goh Livorness
-
-## Abstract:
-
-
-
-## Bio:
-
- - 
-
-## Recorded At:
-
- - Cowtown Code Camp
-
+{
+  "title": "Ship Your First Epic Game",
+  "type": "recording",
+  "date": "2014-06-14T11:00:42",
+  "draft": false,
+  "slug": "ship-your-first-epic-game",
+  "abstract": "",
+  "vimeo": "100491274",
+  "moreinfo": "http://2014.cowtowntechroundup.com/",
+  "thumbnail": "https://i.vimeocdn.com/video/481993830_295x166.jpg",
+  "speakers": [
+    {
+      "name": "Nathalie Goh Livorness",
+      "slug": "nathalie-goh-livorness",
+      "bio": "",
+      "count": 1
+    }
+  ],
+  "tags": [
+    {
+      "name": "Unity",
+      "slug": "unity",
+      "count": 2
+    }
+  ],
+  "meetups": [
+    {
+      "name": "Cowtown Code Camp",
+      "slug": "cowtown-code-camp",
+      "count": 9
+    }
+  ]
+}

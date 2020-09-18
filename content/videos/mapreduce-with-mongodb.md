@@ -1,24 +1,33 @@
----
-title: "Map/Reduce with MongoDB"
-date: 2012-08-24T00:07:46.0000000
-draft: false
----
-
-{{< vimeo 105366661 >}}
-
-## Speaker:
-
- - John Lockwood
-
-## Abstract:
-
-MongoDB is a noSQL datastore with a built-in map/reduce functionality. With it all builtin to one package, it is easy to get started extracting information from your documents. In this talk I will give a tutorial on writing and performing a map/reduce, some visualization techniques to quickly see the information you've created and we will discuss ways to get valuable information out of your data.
-
-## Bio:
-
- - John Lockwood began this year with a resolution to learn and use map/reduce to process big Data and extract useful information from it. In fact he brought in the new year reading mongoDB map/reduce documentation. Along with his regular duties developing for the web using cloud services and noSQL datastores he continued to work and learn big Data wrangling techniques, performing many iterations of map/reduces to find cool and useful information. Now it's time to spread some insights and techniques.
-
-## Recorded At:
-
- - North West Arkansas Tech Fest
-
+{
+  "title": "Map/Reduce with MongoDB",
+  "type": "recording",
+  "date": "2012-08-24T00:07:46",
+  "draft": false,
+  "slug": "mapreduce-with-mongodb",
+  "abstract": "MongoDB is a noSQL datastore with a built-in map/reduce functionality. With it all builtin to one package, it is easy to get started extracting information from your documents. In this talk I will give a tutorial on writing and performing a map/reduce, some visualization techniques to quickly see the information you've created and we will discuss ways to get valuable information out of your data.",
+  "vimeo": "105366661",
+  "moreinfo": "http://techfests.com/NWA/2012",
+  "thumbnail": "https://i.vimeocdn.com/video/488137301_295x166.jpg",
+  "speakers": [
+    {
+      "name": "John Lockwood",
+      "slug": "john-lockwood",
+      "bio": "John Lockwood began this year with a resolution to learn and use map/reduce to process big Data and extract useful information from it. In fact he brought in the new year reading mongoDB map/reduce documentation. Along with his regular duties developing for the web using cloud services and noSQL datastores he continued to work and learn big Data wrangling techniques, performing many iterations of map/reduces to find cool and useful information. Now it's time to spread some insights and techniques.",
+      "count": 2
+    }
+  ],
+  "tags": [
+    {
+      "name": "Mongo DB",
+      "slug": "mongo-db",
+      "count": 3
+    }
+  ],
+  "meetups": [
+    {
+      "name": "North West Arkansas Tech Fest",
+      "slug": "north-west-arkansas-tech-fest",
+      "count": 9
+    }
+  ]
+}

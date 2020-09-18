@@ -1,0 +1,16 @@
+{
+  "title": "Jeremy Abbott",
+  "type": "speaker",
+  "slug": "jeremy-abbott",
+  "date": "2015-10-16T02:01:55",
+  "draft": false,
+  "bio": "<p>I'm a developer at Shreveport development shop, Praeses, where I work as a project architect, developer, and recruiter. I work hard to deliver clean, extensible, and maintanble solutions to customer's business problems. I'm passionate about software as a profession and craft, and work to cultivate that mindset in my team members through constant training.</p>",
+  "recordings": [
+    {
+      "title": "Currying in a Hurry (Intro to Functional Programming in F#) ",
+      "slug": "currying-in-a-hurry-intro-to-functional-programming-in-f",
+      "thumbnail": "https://i.vimeocdn.com/video/540283410_295x166.jpg",
+      "date": "2015-10-16T02:01:55"
+    }
+  ]
+}

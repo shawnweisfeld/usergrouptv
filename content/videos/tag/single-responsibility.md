@@ -9,7 +9,19 @@
       "title": "The class that knew too much: refactoring spaghetti code",
       "slug": "the-class-that-knew-too-much-refactoring-spaghetti-code",
       "thumbnail": "https://i.vimeocdn.com/video/484298668_295x166.jpg",
-      "date": "2013-08-17T22:05:55"
+      "date": "2013-08-17T22:05:55",
+      "meetups": [
+        {
+          "name": "Austin CodeCamp",
+          "slug": "austin-codecamp"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Matthew D. Groves",
+          "slug": "matthew-d-groves"
+        }
+      ]
     }
   ]
 }

@@ -9,7 +9,19 @@
       "title": "Parallel Query Execution",
       "slug": "parallel-query-execution",
       "thumbnail": "https://i.vimeocdn.com/video/500556667_295x166.jpg",
-      "date": "2011-04-02T22:01:13"
+      "date": "2011-04-02T22:01:13",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Kevin Boles",
+          "slug": "kevin-boles"
+        }
+      ]
     }
   ]
 }

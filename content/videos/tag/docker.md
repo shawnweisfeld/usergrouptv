@@ -9,25 +9,73 @@
       "title": "Dockerize Your Development",
       "slug": "dockerize-your-development",
       "thumbnail": "https://i.vimeocdn.com/video/650251578_295x166.jpg",
-      "date": "2017-07-20T14:18:34"
+      "date": "2017-07-20T14:18:34",
+      "meetups": [
+        {
+          "name": "Tulsa School of Dev",
+          "slug": "tulsa-school-of-dev"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Lee Brandt",
+          "slug": "lee-brandt"
+        }
+      ]
     },
     {
       "title": "Develop/Deploy Node Apps with Docker",
       "slug": "developdeploy-node-apps-with-docker",
       "thumbnail": "https://i.vimeocdn.com/video/650203200_295x166.jpg",
-      "date": "2017-07-20T14:16:36"
+      "date": "2017-07-20T14:16:36",
+      "meetups": [
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Kelly Andrews",
+          "slug": "kelly-andrews"
+        }
+      ]
     },
     {
       "title": "How Docker simplifies continuous integration and continuous deployment ",
       "slug": "how-docker-simplifies-continuous-integration-and-continuous-deployment",
       "thumbnail": "https://i.vimeocdn.com/video/564967059_295x166.jpg",
-      "date": "2016-04-11T09:11:04"
+      "date": "2016-04-11T09:11:04",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Gabriel Schenker",
+          "slug": "gabriel-schenker"
+        }
+      ]
     },
     {
       "title": "Docker",
       "slug": "docker",
       "thumbnail": "https://i.vimeocdn.com/video/537388230_295x166.jpg",
-      "date": "2015-09-26T12:18:28"
+      "date": "2015-09-26T12:18:28",
+      "meetups": [
+        {
+          "name": "MeasureUp",
+          "slug": "measure-up"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Kyle Baley",
+          "slug": "kyle-baley"
+        }
+      ]
     }
   ]
 }

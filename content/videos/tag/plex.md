@@ -9,7 +9,19 @@
       "title": "Plex",
       "slug": "plex",
       "thumbnail": "https://i.vimeocdn.com/video/661965594_295x166.jpg",
-      "date": "2017-10-14T11:42:46"
+      "date": "2017-10-14T11:42:46",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "J Sawyer",
+          "slug": "j-sawyer"
+        }
+      ]
     }
   ]
 }

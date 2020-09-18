@@ -9,13 +9,37 @@
       "title": "Building Augmented Reality Apps Using ARKit",
       "slug": "building-augmented-reality-apps-using-arkit",
       "thumbnail": "https://i.vimeocdn.com/video/699208046_295x166.jpg",
-      "date": "2018-05-05T15:33:09"
+      "date": "2018-05-05T15:33:09",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Mohammad Azam",
+          "slug": "mohammad-azam"
+        }
+      ]
     },
     {
       "title": "Building Augmented Reality Apps Using ARKit for iOS",
       "slug": "building-augmented-reality-apps-using-arkit-for-ios",
       "thumbnail": "https://i.vimeocdn.com/video/661966883_295x166.jpg",
-      "date": "2017-10-14T11:37:59"
+      "date": "2017-10-14T11:37:59",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Mohammad Azam",
+          "slug": "mohammad-azam"
+        }
+      ]
     }
   ]
 }

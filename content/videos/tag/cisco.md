@@ -9,7 +9,19 @@
       "title": "What Happens When SQL Server 2014 Meets Cisco UCS? Better Business Intelligence",
       "slug": "what-happens-when-sql-server-2014-meets-cisco-ucs-better-business-intelligence",
       "thumbnail": "https://i.vimeocdn.com/video/505665745_295x166.jpg",
-      "date": "2015-01-31T23:13:05"
+      "date": "2015-01-31T23:13:05",
+      "meetups": [
+        {
+          "name": "Austin SQL Saturday",
+          "slug": "austin-sql-saturday"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Rex Backman",
+          "slug": "rex-backman"
+        }
+      ]
     }
   ]
 }

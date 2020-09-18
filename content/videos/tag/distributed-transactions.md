@@ -9,7 +9,19 @@
       "title": "Don’t Click Submit Twice!!! ",
       "slug": "dont-click-submit-twice",
       "thumbnail": "https://i.vimeocdn.com/video/485086756_295x166.jpg",
-      "date": "2013-01-23T03:11:55"
+      "date": "2013-01-23T03:11:55",
+      "meetups": [
+        {
+          "name": "Dallas ASP.NET UG",
+          "slug": "dallasaspnet"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Michael L Perry",
+          "slug": "michael-l-perry"
+        }
+      ]
     }
   ]
 }

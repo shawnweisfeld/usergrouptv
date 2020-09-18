@@ -9,7 +9,19 @@
       "title": "knockout.js vs backbone.js",
       "slug": "knockout-js-vs-backbone-js",
       "thumbnail": "https://i.vimeocdn.com/video/490122814_295x166.jpg",
-      "date": "2012-06-09T10:37:11"
+      "date": "2012-06-09T10:37:11",
+      "meetups": [
+        {
+          "name": "Austin CodeCamp",
+          "slug": "austin-codecamp"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Steve Donie",
+          "slug": "steve-donie"
+        }
+      ]
     }
   ]
 }

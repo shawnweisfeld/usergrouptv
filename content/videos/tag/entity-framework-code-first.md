@@ -9,7 +9,19 @@
       "title": "EntityFramework 360 - CodeOnly 4.1",
       "slug": "entityframework-360-codeonly-4-1",
       "thumbnail": "https://i.vimeocdn.com/video/499120891_295x166.jpg",
-      "date": "2011-06-02T01:45:08"
+      "date": "2011-06-02T01:45:08",
+      "meetups": [
+        {
+          "name": "Dallas C# SIG",
+          "slug": "dallas-c-sig"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Rob Vettor",
+          "slug": "rob-vettor"
+        }
+      ]
     }
   ]
 }

@@ -9,7 +9,19 @@
       "title": "Using Prism to Build Loosely Coupled Applications",
       "slug": "using-prism-to-build-loosely-coupled-applications",
       "thumbnail": "https://i.vimeocdn.com/video/490126943_295x166.jpg",
-      "date": "2012-07-03T21:59:29"
+      "date": "2012-07-03T21:59:29",
+      "meetups": [
+        {
+          "name": "Dallas XAML UG",
+          "slug": "dallas-xaml-ug"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Brian Lagunas",
+          "slug": "brian-lagunas"
+        }
+      ]
     }
   ]
 }

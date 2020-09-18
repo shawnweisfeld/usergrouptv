@@ -9,7 +9,19 @@
       "title": "WordPress for Non-Profits",
       "slug": "wordpress-for-non-profits",
       "thumbnail": "https://i.vimeocdn.com/video/494181109_295x166.jpg",
-      "date": "2011-10-22T23:30:25"
+      "date": "2011-10-22T23:30:25",
+      "meetups": [
+        {
+          "name": "Dallas GiveCamp",
+          "slug": "dallas-givecamp"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Chris Koenig",
+          "slug": "chris-koenig"
+        }
+      ]
     }
   ]
 }

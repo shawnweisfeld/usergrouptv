@@ -9,7 +9,19 @@
       "title": "Query Store - A New SQL Query Tuning Feature",
       "slug": "query-store-a-new-sql-query-tuning-feature",
       "thumbnail": "https://i.vimeocdn.com/video/505668502_295x166.jpg",
-      "date": "2015-01-31T23:18:51"
+      "date": "2015-01-31T23:18:51",
+      "meetups": [
+        {
+          "name": "Austin SQL Saturday",
+          "slug": "austin-sql-saturday"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Conor Cunningham",
+          "slug": "conor-cunningham"
+        }
+      ]
     }
   ]
 }

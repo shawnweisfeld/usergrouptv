@@ -9,7 +9,19 @@
       "title": "Sams Teach Yourself C# in 24 Hours - Hour 8: Using Strings and Regular Expressions",
       "slug": "sams-teach-yourself-c-in-24-hours-hour-8-using-strings-and-regular-expressions",
       "thumbnail": "https://i.vimeocdn.com/video/500554314_295x166.jpg",
-      "date": "2011-03-12T13:42:25"
+      "date": "2011-03-12T13:42:25",
+      "meetups": [
+        {
+          "name": "North Texas PC UG",
+          "slug": "north-texas-pc-ug"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Shawn Weisfeld",
+          "slug": "shawn-weisfeld"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,13 @@
+.recording-card > ul {
+    display: inline;
+    padding-inline-start: 0;
+}
+
+.recording-card > ul > li {
+    display: inline;
+}
+
+.recording-card > ul > li + li:before {
+    content: ", ";
+    padding: 0;
+}

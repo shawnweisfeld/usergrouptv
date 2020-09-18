@@ -21,7 +21,18 @@
                 <a href="/videos/{{.slug}}"><img src="{{ .thumbnail }}" class="card-img-top" alt={{ .title }}></a>
                 <div class="card-body">
                 <h5 class="card-title"><a href="/videos/{{.slug}}">{{ .title }}</a></h5>
-                <p class="card-text">Recorded on: {{ (time .date).Format "Jan 2, 2006" }}</p>
+                <div class="card-text recording-card">by 
+                  <ul>
+                  {{ range .speakers }}
+                    <li> <a href="/videos/category/speaker/{{.slug}}">{{ .name }}</a></li>
+                  {{ end }}
+                  </ul>on {{ (time .date).Format "Jan 2, 2006" }} at
+                  <ul>
+                    {{ range .meetups }}
+                      <li> <a href="/videos/category/group/{{.slug}}">{{ .name }}</a></li>
+                    {{ end }}
+                  </ul>
+                </div>
                 </div>
               </div>
             </div>

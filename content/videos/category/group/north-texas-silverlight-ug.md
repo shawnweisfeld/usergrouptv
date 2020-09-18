@@ -9,13 +9,29 @@
       "title": "REST Services and WP7",
       "slug": "rest-services-and-wp7",
       "thumbnail": "https://i.vimeocdn.com/video/499122711_295x166.jpg",
-      "date": "2011-05-09T00:00:27"
+      "date": "2011-05-09T00:00:27",
+      "speakers": [
+        {
+          "name": "Amir Rajan",
+          "slug": "amir-rajan"
+        }
+      ]
     },
     {
       "title": "Silverlight Testing Extravaganza! ",
       "slug": "silverlight-testing-extravaganza",
       "thumbnail": "https://i.vimeocdn.com/video/500558222_295x166.jpg",
-      "date": "2011-04-11T22:14:37"
+      "date": "2011-04-11T22:14:37",
+      "speakers": [
+        {
+          "name": "Michael L Perry",
+          "slug": "michael-l-perry"
+        },
+        {
+          "name": "Justin Weinberg",
+          "slug": "justin-weinberg"
+        }
+      ]
     }
   ]
 }

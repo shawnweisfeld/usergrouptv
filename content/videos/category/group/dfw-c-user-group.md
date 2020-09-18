@@ -9,13 +9,25 @@
       "title": "Casablanca will take your C++ to the Cloud and beyond",
       "slug": "casablanca-will-take-your-c-to-the-cloud-and-beyond-2",
       "thumbnail": "https://i.vimeocdn.com/video/487541187_295x166.jpg",
-      "date": "2012-09-11T15:04:58"
+      "date": "2012-09-11T15:04:58",
+      "speakers": [
+        {
+          "name": "David Cravey",
+          "slug": "david-cravey"
+        }
+      ]
     },
     {
       "title": "Deterministic Garbage Collection",
       "slug": "deterministic-garbage-collection",
       "thumbnail": "https://i.vimeocdn.com/video/487540835_295x166.jpg",
-      "date": "2012-09-11T14:29:26"
+      "date": "2012-09-11T14:29:26",
+      "speakers": [
+        {
+          "name": "Mike Naquin",
+          "slug": "mike-naquin"
+        }
+      ]
     }
   ]
 }

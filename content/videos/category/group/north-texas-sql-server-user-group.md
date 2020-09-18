@@ -9,7 +9,13 @@
       "title": "Not All Data is Relational: An introduction to Cosmos DB",
       "slug": "not-all-data-is-relational-an-introduction-to-cosmos-db-2",
       "thumbnail": "https://i.vimeocdn.com/video/801600697_295x166.jpg",
-      "date": "2019-07-18T13:08:59"
+      "date": "2019-07-18T13:08:59",
+      "speakers": [
+        {
+          "name": "Shawn Weisfeld",
+          "slug": "shawn-weisfeld"
+        }
+      ]
     }
   ]
 }

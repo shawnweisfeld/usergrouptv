@@ -9,7 +9,13 @@
       "title": "ASP.NET WebAPI",
       "slug": "asp-net-webapi",
       "thumbnail": "https://i.vimeocdn.com/video/491649718_295x166.jpg",
-      "date": "2012-03-14T21:11:52"
+      "date": "2012-03-14T21:11:52",
+      "speakers": [
+        {
+          "name": "Shawn Weisfeld",
+          "slug": "shawn-weisfeld"
+        }
+      ]
     }
   ]
 }

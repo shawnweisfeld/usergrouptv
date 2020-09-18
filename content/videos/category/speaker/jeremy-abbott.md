@@ -10,7 +10,13 @@
       "title": "Currying in a Hurry (Intro to Functional Programming in F#) ",
       "slug": "currying-in-a-hurry-intro-to-functional-programming-in-f",
       "thumbnail": "https://i.vimeocdn.com/video/540283410_295x166.jpg",
-      "date": "2015-10-16T02:01:55"
+      "date": "2015-10-16T02:01:55",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

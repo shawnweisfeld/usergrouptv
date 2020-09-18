@@ -10,13 +10,25 @@
       "title": "Introduction to Microsoft Mobile Reporting",
       "slug": "introduction-to-microsoft-mobile-reporting",
       "thumbnail": "https://i.vimeocdn.com/video/571063222_295x166.jpg",
-      "date": "2016-05-14T12:25:19"
+      "date": "2016-05-14T12:25:19",
+      "meetups": [
+        {
+          "name": "Houston SQL Saturday",
+          "slug": "houston-sql-saturday"
+        }
+      ]
     },
     {
       "title": "What's New in SSRS 2016",
       "slug": "whats-new-in-ssrs-2016",
       "thumbnail": "https://i.vimeocdn.com/video/571063205_295x166.jpg",
-      "date": "2016-05-14T12:23:45"
+      "date": "2016-05-14T12:23:45",
+      "meetups": [
+        {
+          "name": "Houston SQL Saturday",
+          "slug": "houston-sql-saturday"
+        }
+      ]
     }
   ]
 }

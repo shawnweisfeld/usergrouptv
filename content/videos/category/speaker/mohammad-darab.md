@@ -10,7 +10,13 @@
       "title": "3 Lessons Learned in Successful Consulting",
       "slug": "3-lessons-learned-in-successful-consulting",
       "thumbnail": "https://i.vimeocdn.com/video/702681929_295x166.jpg",
-      "date": "2018-05-19T23:07:04"
+      "date": "2018-05-19T23:07:04",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

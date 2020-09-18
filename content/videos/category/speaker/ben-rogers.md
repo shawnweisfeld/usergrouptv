@@ -10,7 +10,13 @@
       "title": "Certainty in a Risky World",
       "slug": "certainty-in-a-risky-world",
       "thumbnail": "https://i.vimeocdn.com/video/703383565_295x166.jpg",
-      "date": "2018-05-24T16:38:27"
+      "date": "2018-05-24T16:38:27",
+      "meetups": [
+        {
+          "name": "Austin Agile",
+          "slug": "austin-agile"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,13 @@
       "title": "The Power of PowerApps with SharePoint",
       "slug": "the-power-of-powerapps-with-sharepoint",
       "thumbnail": "https://i.vimeocdn.com/video/725423596_295x166.jpg",
-      "date": "2018-09-12T21:21:11"
+      "date": "2018-09-12T21:21:11",
+      "meetups": [
+        {
+          "name": "Austin Office 365 and SharePoint User Group",
+          "slug": "austin-office-365-and-sharepoint-user-group"
+        }
+      ]
     }
   ]
 }

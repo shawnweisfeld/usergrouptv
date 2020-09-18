@@ -10,7 +10,13 @@
       "title": "THE FUTURE OF AGILE",
       "slug": "the-future-of-agile",
       "thumbnail": "https://i.vimeocdn.com/video/486705637_295x166.jpg",
-      "date": "2014-08-22T17:40:06"
+      "date": "2014-08-22T17:40:06",
+      "meetups": [
+        {
+          "name": "AgileDotNext",
+          "slug": "agiledotnext"
+        }
+      ]
     }
   ]
 }

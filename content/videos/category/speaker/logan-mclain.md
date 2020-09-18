@@ -10,13 +10,33 @@
       "title": "User Experience Design Principles",
       "slug": "user-experience-design-principles",
       "thumbnail": "https://i.vimeocdn.com/video/485935517_295x166.jpg",
-      "date": "2014-08-15T20:06:41"
+      "date": "2014-08-15T20:06:41",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     },
     {
       "title": "How SignalR is Turning the Internet Upside Down",
       "slug": "how-signalr-is-turning-the-internet-upside-down",
       "thumbnail": "https://i.vimeocdn.com/video/485934934_295x166.jpg",
-      "date": "2014-08-15T20:04:41"
+      "date": "2014-08-15T20:04:41",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     }
   ]
 }

@@ -10,55 +10,113 @@
       "title": "How Bad Are Page Splits",
       "slug": "how-bad-are-page-splits",
       "thumbnail": "https://i.vimeocdn.com/video/859011737_295x166.jpg",
-      "date": "2020-02-18T12:08:41"
+      "date": "2020-02-18T12:08:41",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     },
     {
       "title": "A Self-Tuning Fill Factor Technique for SQL Server",
       "slug": "a-self-tuning-fill-factor-technique-for-sql-server",
       "thumbnail": "https://i.vimeocdn.com/video/808118447_295x166.jpg",
-      "date": "2019-08-20T13:38:30"
+      "date": "2019-08-20T13:38:30",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     },
     {
       "title": "A Rocket Scientist Perspective on Index Column Selection ",
       "slug": "a-rocket-scientist-perspective-on-index-column-selection",
       "thumbnail": "https://i.vimeocdn.com/video/798800671_295x166.jpg",
-      "date": "2019-07-13T14:03:08"
+      "date": "2019-07-13T14:03:08",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        },
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "A Primer on SQL Server Clustered Index Architecture",
       "slug": "a-primer-on-sql-server-clustered-index-architecture",
       "thumbnail": "https://i.vimeocdn.com/video/752812378_295x166.jpg",
-      "date": "2019-01-15T15:51:29"
+      "date": "2019-01-15T15:51:29",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     },
     {
       "title": "Climbing the SQL Server Index B-Tree (from a user perspective)",
       "slug": "climbing-the-sql-server-index-b-tree-from-a-user-perspective",
       "thumbnail": "https://i.vimeocdn.com/video/722419009_295x166.jpg",
-      "date": "2018-08-25T19:39:30"
+      "date": "2018-08-25T19:39:30",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "A Rocket Scientist Perspective on Indexes",
       "slug": "a-rocket-scientist-perspective-on-indexes",
       "thumbnail": "https://i.vimeocdn.com/video/722235600_295x166.jpg",
-      "date": "2018-08-25T19:37:01"
+      "date": "2018-08-25T19:37:01",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "In-Memory Indexes: SpaceX® Performance!",
       "slug": "in-memory-indexes-spacex-performance",
       "thumbnail": "https://i.vimeocdn.com/video/709493839_295x166.jpg",
-      "date": "2018-06-23T19:41:14"
+      "date": "2018-06-23T19:41:14",
+      "meetups": [
+        {
+          "name": "Houston SQL Saturday",
+          "slug": "houston-sql-saturday"
+        }
+      ]
     },
     {
       "title": "Climbing SQL Server Index B-Tree (from user perspective)",
       "slug": "climbing-sql-server-index-b-tree-from-user-perspective",
       "thumbnail": "https://i.vimeocdn.com/video/701148730_295x166.jpg",
-      "date": "2018-05-15T22:01:28"
+      "date": "2018-05-15T22:01:28",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     },
     {
       "title": "Change Tracking: A Near Bullet-Proof ETL Synchronization Control",
       "slug": "change-tracking-a-near-bullet-proof-etl-synchronization-control",
       "thumbnail": "https://i.vimeocdn.com/video/571063050_295x166.jpg",
-      "date": "2016-05-14T12:20:47"
+      "date": "2016-05-14T12:20:47",
+      "meetups": [
+        {
+          "name": "Houston SQL Saturday",
+          "slug": "houston-sql-saturday"
+        }
+      ]
     }
   ]
 }

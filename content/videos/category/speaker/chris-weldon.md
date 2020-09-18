@@ -10,7 +10,13 @@
       "title": "Ye Olde TDD",
       "slug": "ye-olde-tdd",
       "thumbnail": "https://i.vimeocdn.com/video/501052476_295x166.jpg",
-      "date": "2011-02-25T13:30:42"
+      "date": "2011-02-25T13:30:42",
+      "meetups": [
+        {
+          "name": "Agile .NET",
+          "slug": "agile-net"
+        }
+      ]
     }
   ]
 }

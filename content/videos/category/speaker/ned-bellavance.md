@@ -10,7 +10,13 @@
       "title": "Fundamentals of the Azure Kubernetes Service",
       "slug": "fundamentals-of-the-azure-kubernetes-service",
       "thumbnail": "https://i.vimeocdn.com/video/807051589_295x166.jpg",
-      "date": "2019-08-14T14:16:16"
+      "date": "2019-08-14T14:16:16",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ]
     }
   ]
 }

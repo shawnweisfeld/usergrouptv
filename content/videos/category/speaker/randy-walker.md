@@ -10,7 +10,13 @@
       "title": "SQL Scripting",
       "slug": "sql-scripting",
       "thumbnail": "https://i.vimeocdn.com/video/490859944_295x166.jpg",
-      "date": "2014-09-26T19:03:43"
+      "date": "2014-09-26T19:03:43",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

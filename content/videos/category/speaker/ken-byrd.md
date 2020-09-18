@@ -10,7 +10,13 @@
       "title": "Just JavaScript",
       "slug": "just-javascript",
       "thumbnail": "https://i.vimeocdn.com/video/490126580_295x166.jpg",
-      "date": "2012-05-24T11:20:32"
+      "date": "2012-05-24T11:20:32",
+      "meetups": [
+        {
+          "name": "VNext Dallas",
+          "slug": "vnext-dallas"
+        }
+      ]
     }
   ]
 }

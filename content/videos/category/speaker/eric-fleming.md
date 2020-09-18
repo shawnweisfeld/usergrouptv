@@ -10,7 +10,13 @@
       "title": "Expanding your application with fun-sized functions ",
       "slug": "expanding-your-application-with-fun-sized-functions",
       "thumbnail": "https://i.vimeocdn.com/video/662472028_295x166.jpg",
-      "date": "2017-10-18T11:35:56"
+      "date": "2017-10-18T11:35:56",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,13 @@
       "title": "Validation with RIA Services",
       "slug": "validation-with-ria-services",
       "thumbnail": "https://i.vimeocdn.com/video/499120864_295x166.jpg",
-      "date": "2011-06-07T18:29:01"
+      "date": "2011-06-07T18:29:01",
+      "meetups": [
+        {
+          "name": "Dallas XAML UG",
+          "slug": "dallas-xaml-ug"
+        }
+      ]
     }
   ]
 }

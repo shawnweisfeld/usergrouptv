@@ -10,7 +10,13 @@
       "title": "Everything I Learned About Navigating My Career, I Learned From Female Superheroes",
       "slug": "everything-i-learned-about-navigating-my-career-i-learned-from-female-superheroes",
       "thumbnail": "https://i.vimeocdn.com/video/651774568_295x166.jpg",
-      "date": "2017-08-05T14:29:19"
+      "date": "2017-08-05T14:29:19",
+      "meetups": [
+        {
+          "name": "ACT-W",
+          "slug": "act-w"
+        }
+      ]
     }
   ]
 }

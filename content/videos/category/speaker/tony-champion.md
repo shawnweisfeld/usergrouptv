@@ -10,25 +10,49 @@
       "title": "Modern Windows developer",
       "slug": "modern-windows-developer",
       "thumbnail": "https://i.vimeocdn.com/video/798691581_295x166.jpg",
-      "date": "2019-07-08T13:36:37"
+      "date": "2019-07-08T13:36:37",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     },
     {
       "title": "Building Cross Device Experiences with Project Rome",
       "slug": "building-cross-device-experiences-with-project-rome",
       "thumbnail": "https://i.vimeocdn.com/video/693726409_295x166.jpg",
-      "date": "2018-04-09T13:42:10"
+      "date": "2018-04-09T13:42:10",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     },
     {
       "title": "Building UWP apps on Xbox ",
       "slug": "building-uwp-apps-on-xbox",
       "thumbnail": "https://i.vimeocdn.com/video/628439610_295x166.jpg",
-      "date": "2017-03-13T14:13:27"
+      "date": "2017-03-13T14:13:27",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     },
     {
       "title": "Developing for Windows 10",
       "slug": "developing-for-windows-10",
       "thumbnail": "https://i.vimeocdn.com/video/534897637_295x166.jpg",
-      "date": "2015-09-12T16:22:47"
+      "date": "2015-09-12T16:22:47",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

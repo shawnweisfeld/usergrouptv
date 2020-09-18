@@ -10,7 +10,13 @@
       "title": "Case Study: National Instruments' Modern Workplace Journey",
       "slug": "case-study-national-instruments-modern-workplace-journey",
       "thumbnail": "https://i.vimeocdn.com/video/807051205_295x166.jpg",
-      "date": "2019-08-14T14:14:42"
+      "date": "2019-08-14T14:14:42",
+      "meetups": [
+        {
+          "name": "Austin Office 365 and SharePoint User Group",
+          "slug": "austin-office-365-and-sharepoint-user-group"
+        }
+      ]
     }
   ]
 }

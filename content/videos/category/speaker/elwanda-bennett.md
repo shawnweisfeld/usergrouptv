@@ -10,7 +10,13 @@
       "title": "SharePoint Success Strategy",
       "slug": "sharepoint-success-strategy",
       "thumbnail": "https://i.vimeocdn.com/video/593962011_295x166.jpg",
-      "date": "2016-09-24T19:52:16"
+      "date": "2016-09-24T19:52:16",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

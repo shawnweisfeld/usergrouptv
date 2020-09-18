@@ -10,7 +10,13 @@
       "title": "Power BI Relationship Simplified",
       "slug": "power-bi-relationship-simplified",
       "thumbnail": "https://i.vimeocdn.com/video/894750510_295x166.jpg",
-      "date": "2020-05-13T12:43:18"
+      "date": "2020-05-13T12:43:18",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,13 @@
       "title": "Dynamic Data Flows in SSIS without Programming",
       "slug": "dynamic-data-flows-in-ssis-without-programming",
       "thumbnail": "https://i.vimeocdn.com/video/626861294_295x166.jpg",
-      "date": "2017-03-04T21:56:18"
+      "date": "2017-03-04T21:56:18",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

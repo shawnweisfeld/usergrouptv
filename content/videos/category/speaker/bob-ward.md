@@ -10,25 +10,57 @@
       "title": "Experience SQL Server 2017: The Modern Database Platform",
       "slug": "experience-sql-server-2017-the-modern-database-platform",
       "thumbnail": "https://i.vimeocdn.com/video/702623750_295x166.jpg",
-      "date": "2018-05-19T23:02:34"
+      "date": "2018-05-19T23:02:34",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "SQL Saturday Dallas 2018 Keynote",
       "slug": "sql-saturday-dallas-2018-keynote",
       "thumbnail": "https://i.vimeocdn.com/video/702612830_295x166.jpg",
-      "date": "2018-05-19T22:56:13"
+      "date": "2018-05-19T22:56:13",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "Inside SQL Server In-Memory OLTP",
       "slug": "inside-sql-server-in-memory-oltp",
       "thumbnail": "https://i.vimeocdn.com/video/641693171_295x166.jpg",
-      "date": "2017-06-17T14:12:15"
+      "date": "2017-06-17T14:12:15",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        },
+        {
+          "name": "Houston SQL Saturday",
+          "slug": "houston-sql-saturday"
+        }
+      ]
     },
     {
       "title": "Inside SQL Server Machine Learning Services: Database Intelligence at Scale",
       "slug": "inside-sql-server-machine-learning-services-database-intelligence-at-scale",
       "thumbnail": "https://i.vimeocdn.com/video/641694618_295x166.jpg",
-      "date": "2017-06-17T14:08:15"
+      "date": "2017-06-17T14:08:15",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        },
+        {
+          "name": "Houston SQL Saturday",
+          "slug": "houston-sql-saturday"
+        }
+      ]
     }
   ]
 }

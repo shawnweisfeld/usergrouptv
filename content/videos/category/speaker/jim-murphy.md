@@ -10,13 +10,25 @@
       "title": "SQL Server Tips from the Field",
       "slug": "sql-server-tips-from-the-field",
       "thumbnail": "https://i.vimeocdn.com/video/661277871_295x166.jpg",
-      "date": "2017-10-14T11:50:04"
+      "date": "2017-10-14T11:50:04",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     },
     {
       "title": "Mission Possible: Interactive Performance Troubleshooting - Index",
       "slug": "mission-possible-interactive-performance-troubleshooting-index",
       "thumbnail": "https://i.vimeocdn.com/video/587192030_295x166.jpg",
-      "date": "2016-08-13T14:58:12"
+      "date": "2016-08-13T14:58:12",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

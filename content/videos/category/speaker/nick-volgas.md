@@ -10,7 +10,13 @@
       "title": "Being Lazy in the Cloud - Finding Efficiencies in AWS to Make Life Easier",
       "slug": "being-lazy-in-the-cloud-finding-efficiencies-in-aws-to-make-life-easier",
       "thumbnail": "https://i.vimeocdn.com/video/660639439_295x166.jpg",
-      "date": "2017-10-06T16:25:02"
+      "date": "2017-10-06T16:25:02",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

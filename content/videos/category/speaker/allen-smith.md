@@ -10,7 +10,17 @@
       "title": "Sharing SQL Data in SharePoint",
       "slug": "sharing-sql-data-in-sharepoint",
       "thumbnail": "https://i.vimeocdn.com/video/483490517_295x166.jpg",
-      "date": "2013-08-24T11:35:03"
+      "date": "2013-08-24T11:35:03",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

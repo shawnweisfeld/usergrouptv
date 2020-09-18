@@ -10,7 +10,17 @@
       "title": "CSS3 and You",
       "slug": "css3-and-you",
       "thumbnail": "https://i.vimeocdn.com/video/507719534_295x166.jpg",
-      "date": "2011-10-07T05:00:37"
+      "date": "2011-10-07T05:00:37",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     }
   ]
 }

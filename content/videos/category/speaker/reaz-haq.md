@@ -10,13 +10,25 @@
       "title": "What’s new in C# 7 ",
       "slug": "whats-new-in-c-7",
       "thumbnail": "https://i.vimeocdn.com/video/633620291_295x166.jpg",
-      "date": "2017-05-08T11:50:10"
+      "date": "2017-05-08T11:50:10",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     },
     {
       "title": "OWIN – Katana 101",
       "slug": "owin-katana-101",
       "thumbnail": "https://i.vimeocdn.com/video/488499546_295x166.jpg",
-      "date": "2014-09-08T14:49:26"
+      "date": "2014-09-08T14:49:26",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     }
   ]
 }

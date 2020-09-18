@@ -10,7 +10,13 @@
       "title": "A brutal journey: Lessons learned while traveling the world as a CEO/CTO.",
       "slug": "a-brutal-journey-lessons-learned-while-traveling-the-world-as-a-ceocto",
       "thumbnail": "https://i.vimeocdn.com/video/660634741_295x166.jpg",
-      "date": "2017-10-06T16:10:02"
+      "date": "2017-10-06T16:10:02",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

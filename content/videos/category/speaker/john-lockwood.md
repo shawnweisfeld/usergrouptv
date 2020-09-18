@@ -10,13 +10,25 @@
       "title": "Intro to Map Reduce on Hadoop",
       "slug": "intro-to-map-reduce-on-hadoop",
       "thumbnail": "https://i.vimeocdn.com/video/488139709_295x166.jpg",
-      "date": "2012-08-24T00:50:30"
+      "date": "2012-08-24T00:50:30",
+      "meetups": [
+        {
+          "name": "North West Arkansas Tech Fest",
+          "slug": "north-west-arkansas-tech-fest"
+        }
+      ]
     },
     {
       "title": "Map/Reduce with MongoDB",
       "slug": "mapreduce-with-mongodb",
       "thumbnail": "https://i.vimeocdn.com/video/488137301_295x166.jpg",
-      "date": "2012-08-24T00:07:46"
+      "date": "2012-08-24T00:07:46",
+      "meetups": [
+        {
+          "name": "North West Arkansas Tech Fest",
+          "slug": "north-west-arkansas-tech-fest"
+        }
+      ]
     }
   ]
 }

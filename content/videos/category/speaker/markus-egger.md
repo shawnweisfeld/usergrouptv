@@ -10,73 +10,145 @@
       "title": "State of .NET Event - Dallas 2016",
       "slug": "state-of-net-event-dallas-2016",
       "thumbnail": "https://i.vimeocdn.com/video/607955655_295x166.jpg",
-      "date": "2016-12-15T12:54:46"
+      "date": "2016-12-15T12:54:46",
+      "meetups": [
+        {
+          "name": "State of .NET",
+          "slug": "state-of-net"
+        }
+      ]
     },
     {
       "title": "Microsoft’s Next Generation Web Initiatives: ASP.NET vNext, and Microsoft Edge - Part 2",
       "slug": "microsofts-next-generation-web-initiatives-asp-net-vnext-and-microsoft-edge-part-2",
       "thumbnail": "https://i.vimeocdn.com/video/536918008_295x166.jpg",
-      "date": "2015-09-22T14:18:40"
+      "date": "2015-09-22T14:18:40",
+      "meetups": [
+        {
+          "name": "Dallas ASP.NET UG",
+          "slug": "dallasaspnet"
+        }
+      ]
     },
     {
       "title": "Microsoft’s Next Generation Web Initiatives: ASP.NET vNext, and Microsoft Edge - Part 1",
       "slug": "microsofts-next-generation-web-initiatives-asp-net-vnext-and-microsoft-edge-part-1",
       "thumbnail": "https://i.vimeocdn.com/video/536918456_295x166.jpg",
-      "date": "2015-09-22T14:16:12"
+      "date": "2015-09-22T14:16:12",
+      "meetups": [
+        {
+          "name": "Dallas ASP.NET UG",
+          "slug": "dallasaspnet"
+        }
+      ]
     },
     {
       "title": "Dallas State of .NET Tour with Markus Egger! - Part 2",
       "slug": "dallas-state-of-net-tour-with-markus-egger-part-2",
       "thumbnail": "https://i.vimeocdn.com/video/536918708_295x166.jpg",
-      "date": "2015-09-22T14:13:55"
+      "date": "2015-09-22T14:13:55",
+      "meetups": [
+        {
+          "name": "State of .NET",
+          "slug": "state-of-net"
+        }
+      ]
     },
     {
       "title": "Dallas State of .NET Tour with Markus Egger! - Part 1",
       "slug": "dallas-state-of-net-tour-with-markus-egger-part-1",
       "thumbnail": "https://i.vimeocdn.com/video/536918312_295x166.jpg",
-      "date": "2015-09-22T14:11:42"
+      "date": "2015-09-22T14:11:42",
+      "meetups": [
+        {
+          "name": "State of .NET",
+          "slug": "state-of-net"
+        }
+      ]
     },
     {
       "title": "Introducing Universal Windows App Development",
       "slug": "introducing-universal-windows-app-development",
       "thumbnail": "https://i.vimeocdn.com/video/534898848_295x166.jpg",
-      "date": "2015-09-12T16:24:37"
+      "date": "2015-09-12T16:24:37",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     },
     {
       "title": "Dallas State of .NET Part 2",
       "slug": "dallas-state-of-net-part-2",
       "thumbnail": "https://i.vimeocdn.com/video/489236492_295x166.jpg",
-      "date": "2014-09-10T00:07:33"
+      "date": "2014-09-10T00:07:33",
+      "meetups": [
+        {
+          "name": "State of .NET",
+          "slug": "state-of-net"
+        }
+      ]
     },
     {
       "title": "Dallas State of .NET Part 1",
       "slug": "dallas-state-of-net-part-1",
       "thumbnail": "https://i.vimeocdn.com/video/489181888_295x166.jpg",
-      "date": "2014-09-10T00:06:20"
+      "date": "2014-09-10T00:06:20",
+      "meetups": [
+        {
+          "name": "State of .NET",
+          "slug": "state-of-net"
+        }
+      ]
     },
     {
       "title": "The Road to Windows 8! Part 2",
       "slug": "the-road-to-windows-8-part-2",
       "thumbnail": "https://i.vimeocdn.com/video/490123927_295x166.jpg",
-      "date": "2012-06-19T11:00:07"
+      "date": "2012-06-19T11:00:07",
+      "meetups": [
+        {
+          "name": "State of .NET",
+          "slug": "state-of-net"
+        }
+      ]
     },
     {
       "title": "The Road to Windows 8! Part 1",
       "slug": "the-road-to-windows-8-part-1",
       "thumbnail": "https://i.vimeocdn.com/video/490123620_295x166.jpg",
-      "date": "2012-06-19T10:57:27"
+      "date": "2012-06-19T10:57:27",
+      "meetups": [
+        {
+          "name": "State of .NET",
+          "slug": "state-of-net"
+        }
+      ]
     },
     {
       "title": "Modern Development in an Agile World",
       "slug": "modern-development-in-an-agile-world",
       "thumbnail": "https://i.vimeocdn.com/video/496722236_295x166.jpg",
-      "date": "2012-04-20T19:03:59"
+      "date": "2012-04-20T19:03:59",
+      "meetups": [
+        {
+          "name": "Agile .NET",
+          "slug": "agile-net"
+        }
+      ]
     },
     {
       "title": "State of .NET - The Road to Windows 8",
       "slug": "state-of-net-the-road-to-windows-8",
       "thumbnail": "https://i.vimeocdn.com/video/492993370_295x166.jpg",
-      "date": "2011-12-13T00:55:46"
+      "date": "2011-12-13T00:55:46",
+      "meetups": [
+        {
+          "name": "State of .NET",
+          "slug": "state-of-net"
+        }
+      ]
     }
   ]
 }

@@ -10,25 +10,61 @@
       "title": "The Future of Database Development with Containers",
       "slug": "the-future-of-database-development-with-containers",
       "thumbnail": "https://i.vimeocdn.com/video/798799501_295x166.jpg",
-      "date": "2019-07-13T13:55:01"
+      "date": "2019-07-13T13:55:01",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        },
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "A Tour of SQL Server 2016 Security Features",
       "slug": "a-tour-of-sql-server-2016-security-features",
       "thumbnail": "https://i.vimeocdn.com/video/719305446_295x166.jpg",
-      "date": "2018-08-11T15:47:41"
+      "date": "2018-08-11T15:47:41",
+      "meetups": [
+        {
+          "name": "SQL Saturday Baton Rouge",
+          "slug": "sql-saturday-baton-rouge"
+        }
+      ]
     },
     {
       "title": "The Winding Road",
       "slug": "the-winding-road",
       "thumbnail": "https://i.vimeocdn.com/video/495922142_295x166.jpg",
-      "date": "2011-08-27T20:40:19"
+      "date": "2011-08-27T20:40:19",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "Red Gate Tools Demonstration",
       "slug": "red-gate-tools-demonstration",
       "thumbnail": "https://i.vimeocdn.com/video/495923509_295x166.jpg",
-      "date": "2011-08-27T02:56:40"
+      "date": "2011-08-27T02:56:40",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

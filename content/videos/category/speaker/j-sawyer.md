@@ -10,13 +10,25 @@
       "title": "Plex",
       "slug": "plex",
       "thumbnail": "https://i.vimeocdn.com/video/661965594_295x166.jpg",
-      "date": "2017-10-14T11:42:46"
+      "date": "2017-10-14T11:42:46",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     },
     {
       "title": "Building WPF Apps with MVVM Lite",
       "slug": "building-wpf-apps-with-mvvm-lite",
       "thumbnail": "https://i.vimeocdn.com/video/534896554_295x166.jpg",
-      "date": "2015-09-12T16:19:13"
+      "date": "2015-09-12T16:19:13",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

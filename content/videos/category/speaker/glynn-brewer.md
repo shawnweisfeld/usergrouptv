@@ -10,7 +10,13 @@
       "title": "TECHNICAL DEBT",
       "slug": "technical-debt",
       "thumbnail": "https://i.vimeocdn.com/video/486705234_295x166.jpg",
-      "date": "2014-08-22T17:37:57"
+      "date": "2014-08-22T17:37:57",
+      "meetups": [
+        {
+          "name": "AgileDotNext",
+          "slug": "agiledotnext"
+        }
+      ]
     }
   ]
 }

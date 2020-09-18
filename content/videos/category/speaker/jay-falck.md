@@ -10,19 +10,37 @@
       "title": "Setting up a test lab with Hyper-V",
       "slug": "setting-up-a-test-lab-with-hyper-v",
       "thumbnail": "https://i.vimeocdn.com/video/842319677_295x166.jpg",
-      "date": "2019-12-07T19:21:50"
+      "date": "2019-12-07T19:21:50",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     },
     {
       "title": "Introduction to Linux for SQL Server Professionals",
       "slug": "introduction-to-linux-for-sql-server-professionals",
       "thumbnail": "https://i.vimeocdn.com/video/709499260_295x166.jpg",
-      "date": "2018-06-23T19:57:05"
+      "date": "2018-06-23T19:57:05",
+      "meetups": [
+        {
+          "name": "Houston SQL Saturday",
+          "slug": "houston-sql-saturday"
+        }
+      ]
     },
     {
       "title": "ETL The Old Fashioned Way ",
       "slug": "etl-the-old-fashioned-way",
       "thumbnail": "https://i.vimeocdn.com/video/641739577_295x166.jpg",
-      "date": "2017-06-20T22:06:47"
+      "date": "2017-06-20T22:06:47",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     }
   ]
 }

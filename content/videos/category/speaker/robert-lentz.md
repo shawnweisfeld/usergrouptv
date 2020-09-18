@@ -10,7 +10,13 @@
       "title": "Real Life IoT - Principles for Success",
       "slug": "real-life-iot-principles-for-success",
       "thumbnail": "https://i.vimeocdn.com/video/660011864_295x166.jpg",
-      "date": "2017-10-05T21:45:34"
+      "date": "2017-10-05T21:45:34",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

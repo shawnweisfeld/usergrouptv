@@ -10,7 +10,13 @@
       "title": "A Discussion on DevOps ",
       "slug": "a-discussion-on-devops",
       "thumbnail": "https://i.vimeocdn.com/video/540281229_295x166.jpg",
-      "date": "2015-10-16T02:06:00"
+      "date": "2015-10-16T02:06:00",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

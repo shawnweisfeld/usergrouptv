@@ -10,13 +10,25 @@
       "title": "DOZENS of New Product Announcements, a MSFT Solutions Pro's Take on MSFT Ignite",
       "slug": "dozens-of-new-product-announcements-a-msft-solutions-pros-take-on-msft-ignite",
       "thumbnail": "https://i.vimeocdn.com/video/739798321_295x166.jpg",
-      "date": "2018-11-14T16:53:41"
+      "date": "2018-11-14T16:53:41",
+      "meetups": [
+        {
+          "name": "Austin Office 365 and SharePoint User Group",
+          "slug": "austin-office-365-and-sharepoint-user-group"
+        }
+      ]
     },
     {
       "title": "Office 365 eDiscovery & Compliance",
       "slug": "office-365-ediscovery-compliance",
       "thumbnail": "https://i.vimeocdn.com/video/651775311_295x166.jpg",
-      "date": "2017-08-09T14:31:31"
+      "date": "2017-08-09T14:31:31",
+      "meetups": [
+        {
+          "name": "Austin Office 365 and SharePoint User Group",
+          "slug": "austin-office-365-and-sharepoint-user-group"
+        }
+      ]
     }
   ]
 }

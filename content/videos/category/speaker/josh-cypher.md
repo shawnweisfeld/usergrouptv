@@ -10,7 +10,13 @@
       "title": "Continuous Testing With React, Storybook, and WebdriverIO",
       "slug": "continuous-testing-with-react-storybook-and-webdriverio",
       "thumbnail": "https://i.vimeocdn.com/video/660062710_295x166.jpg",
-      "date": "2017-10-06T22:29:44"
+      "date": "2017-10-06T22:29:44",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

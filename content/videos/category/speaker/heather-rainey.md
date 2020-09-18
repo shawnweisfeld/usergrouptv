@@ -10,7 +10,13 @@
       "title": "DEALING WITH OUTSIDE PRESSURE - STAYING SCRUM",
       "slug": "dealing-with-outside-pressure-staying-scrum",
       "thumbnail": "https://i.vimeocdn.com/video/486708620_295x166.jpg",
-      "date": "2014-08-22T17:30:44"
+      "date": "2014-08-22T17:30:44",
+      "meetups": [
+        {
+          "name": "AgileDotNext",
+          "slug": "agiledotnext"
+        }
+      ]
     }
   ]
 }

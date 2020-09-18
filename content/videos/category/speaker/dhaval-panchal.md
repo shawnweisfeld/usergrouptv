@@ -10,7 +10,13 @@
       "title": "Systems thinking for transformative change",
       "slug": "systems-thinking-for-transformative-change",
       "thumbnail": "https://i.vimeocdn.com/video/728996042_295x166.jpg",
-      "date": "2018-09-29T15:26:19"
+      "date": "2018-09-29T15:26:19",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

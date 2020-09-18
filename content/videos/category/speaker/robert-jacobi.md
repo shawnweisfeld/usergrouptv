@@ -10,7 +10,13 @@
       "title": "\"Invisible\" CMS Selling Solutions",
       "slug": "invisible-cms-selling-solutions",
       "thumbnail": "https://i.vimeocdn.com/video/818415610_295x166.jpg",
-      "date": "2019-09-28T16:55:13"
+      "date": "2019-09-28T16:55:13",
+      "meetups": [
+        {
+          "name": "Joomla Day Texas",
+          "slug": "joomla-day-texas"
+        }
+      ]
     }
   ]
 }

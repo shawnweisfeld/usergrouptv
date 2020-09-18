@@ -10,7 +10,13 @@
       "title": "What's New in C# 8 Interfaces (and how to use them effectively)",
       "slug": "whats-new-in-c-8-interfaces-and-how-to-use-them-effectively",
       "thumbnail": "https://i.vimeocdn.com/video/930462703_295x166.jpg",
-      "date": "2020-07-23T02:10:01"
+      "date": "2020-07-23T02:10:01",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ]
     }
   ]
 }

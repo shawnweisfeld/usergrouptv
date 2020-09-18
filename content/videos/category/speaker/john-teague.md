@@ -10,7 +10,13 @@
       "title": "Using Nodejs",
       "slug": "using-nodejs",
       "thumbnail": "https://i.vimeocdn.com/video/490130975_295x166.jpg",
-      "date": "2012-06-09T10:34:54"
+      "date": "2012-06-09T10:34:54",
+      "meetups": [
+        {
+          "name": "Austin CodeCamp",
+          "slug": "austin-codecamp"
+        }
+      ]
     }
   ]
 }

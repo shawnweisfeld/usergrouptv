@@ -10,7 +10,13 @@
       "title": "Keynote: The Future of Agile",
       "slug": "keynote-the-future-of-agile",
       "thumbnail": "https://i.vimeocdn.com/video/501051483_295x166.jpg",
-      "date": "2011-02-25T00:44:44"
+      "date": "2011-02-25T00:44:44",
+      "meetups": [
+        {
+          "name": "Agile .NET",
+          "slug": "agile-net"
+        }
+      ]
     }
   ]
 }

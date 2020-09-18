@@ -10,7 +10,13 @@
       "title": "Do You Know Storage ? Come talk to us and learn how to talk to your Storage Admin!",
       "slug": "do-you-know-storage-come-talk-to-us-and-learn-how-to-talk-to-your-storage-admin",
       "thumbnail": "https://i.vimeocdn.com/video/626861915_295x166.jpg",
-      "date": "2017-03-04T22:00:09"
+      "date": "2017-03-04T22:00:09",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

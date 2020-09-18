@@ -10,13 +10,25 @@
       "title": "Power Platform World Tour - Madrid",
       "slug": "power-platform-world-tour-madrid",
       "thumbnail": "https://i.vimeocdn.com/video/822338922_295x166.jpg",
-      "date": "2019-10-09T23:40:11"
+      "date": "2019-10-09T23:40:11",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ]
     },
     {
       "title": "Using PowerBI to mine data from the web",
       "slug": "using-powerbi-to-mine-data-from-the-web",
       "thumbnail": "https://i.vimeocdn.com/video/796753265_295x166.jpg",
-      "date": "2019-06-20T15:54:13"
+      "date": "2019-06-20T15:54:13",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ]
     }
   ]
 }

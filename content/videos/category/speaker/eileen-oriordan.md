@@ -10,7 +10,13 @@
       "title": "MID-LEVEL CAREER AND CHANGING CAREER HOW TO HANDLE THE CHANGE",
       "slug": "mid-level-career-and-changing-career-how-to-handle-the-change",
       "thumbnail": "https://i.vimeocdn.com/video/650697455_295x166.jpg",
-      "date": "2017-08-05T17:16:53"
+      "date": "2017-08-05T17:16:53",
+      "meetups": [
+        {
+          "name": "ACT-W",
+          "slug": "act-w"
+        }
+      ]
     }
   ]
 }

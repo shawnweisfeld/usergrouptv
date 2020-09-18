@@ -10,7 +10,13 @@
       "title": "Attack of the Cloud",
       "slug": "attack-of-the-cloud",
       "thumbnail": "https://i.vimeocdn.com/video/507048285_295x166.jpg",
-      "date": "2011-07-26T19:38:41"
+      "date": "2011-07-26T19:38:41",
+      "meetups": [
+        {
+          "name": "Dallas ASP.NET UG",
+          "slug": "dallasaspnet"
+        }
+      ]
     }
   ]
 }

@@ -10,19 +10,37 @@
       "title": "A Meeting with Scott Hunter !!",
       "slug": "a-meeting-with-scott-hunter",
       "thumbnail": "https://i.vimeocdn.com/video/901233634_295x166.jpg",
-      "date": "2020-05-26T14:03:48"
+      "date": "2020-05-26T14:03:48",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ]
     },
     {
       "title": "What's New in Visual Studio 2012 for Web Developers",
       "slug": "whats-new-in-visual-studio-2012-for-web-developers",
       "thumbnail": "https://i.vimeocdn.com/video/487544765_295x166.jpg",
-      "date": "2012-09-08T23:03:13"
+      "date": "2012-09-08T23:03:13",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     },
     {
       "title": "ASP.NET Roadmap: One ASP.NET – Web Forms, MVC, Web API, and more",
       "slug": "asp-net-roadmap-one-asp-net-web-forms-mvc-web-api-and-more",
       "thumbnail": "https://i.vimeocdn.com/video/487539621_295x166.jpg",
-      "date": "2012-09-08T17:55:41"
+      "date": "2012-09-08T17:55:41",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

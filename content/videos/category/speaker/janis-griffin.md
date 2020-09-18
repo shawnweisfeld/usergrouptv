@@ -10,7 +10,13 @@
       "title": "HiHo! HiHo! SQL Server on Linux, We Go!",
       "slug": "hiho-hiho-sql-server-on-linux-we-go",
       "thumbnail": "https://i.vimeocdn.com/video/719306607_295x166.jpg",
-      "date": "2018-08-11T15:52:11"
+      "date": "2018-08-11T15:52:11",
+      "meetups": [
+        {
+          "name": "SQL Saturday Baton Rouge",
+          "slug": "sql-saturday-baton-rouge"
+        }
+      ]
     }
   ]
 }

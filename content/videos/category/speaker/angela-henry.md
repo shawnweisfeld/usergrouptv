@@ -10,7 +10,13 @@
       "title": "What is Power BI?",
       "slug": "what-is-power-bi",
       "thumbnail": "https://i.vimeocdn.com/video/719492065_295x166.jpg",
-      "date": "2018-08-11T15:57:59"
+      "date": "2018-08-11T15:57:59",
+      "meetups": [
+        {
+          "name": "SQL Saturday Baton Rouge",
+          "slug": "sql-saturday-baton-rouge"
+        }
+      ]
     }
   ]
 }

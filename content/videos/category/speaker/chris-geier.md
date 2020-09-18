@@ -10,7 +10,13 @@
       "title": "The Best of SharePoint Conference 2011 - Chris Geier",
       "slug": "the-best-of-sharepoint-conference-2011-chris-geier",
       "thumbnail": "https://i.vimeocdn.com/video/494179426_295x166.jpg",
-      "date": "2011-11-03T23:00:05"
+      "date": "2011-11-03T23:00:05",
+      "meetups": [
+        {
+          "name": "Chicago SharePoint UG",
+          "slug": "chicago-sharepoint-ug"
+        }
+      ]
     }
   ]
 }

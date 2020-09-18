@@ -10,19 +10,37 @@
       "title": "OData, Where Art Thou? Publishing OData Feeds with WCF Data Services",
       "slug": "odata-where-art-thou-publishing-odata-feeds-with-wcf-data-services",
       "thumbnail": "https://i.vimeocdn.com/video/494182958_295x166.jpg",
-      "date": "2011-11-10T14:26:56"
+      "date": "2011-11-10T14:26:56",
+      "meetups": [
+        {
+          "name": "Dallas .NET UG",
+          "slug": "dallas-net-ug"
+        }
+      ]
     },
     {
       "title": "To REST or Not To REST? Building REST-ful Services with the WCF Web Programming Model",
       "slug": "to-rest-or-not-to-rest-building-rest-ful-services-with-the-wcf-web-programming-model",
       "thumbnail": "https://i.vimeocdn.com/video/495137602_295x166.jpg",
-      "date": "2011-09-08T03:39:18"
+      "date": "2011-09-08T03:39:18",
+      "meetups": [
+        {
+          "name": "Dallas .NET UG",
+          "slug": "dallas-net-ug"
+        }
+      ]
     },
     {
       "title": "WCF RIA Services",
       "slug": "wcf-ria-services",
       "thumbnail": "https://i.vimeocdn.com/video/507042264_295x166.jpg",
-      "date": "2011-04-20T14:30:23"
+      "date": "2011-04-20T14:30:23",
+      "meetups": [
+        {
+          "name": "DevelopMentor",
+          "slug": "developmentor"
+        }
+      ]
     }
   ]
 }

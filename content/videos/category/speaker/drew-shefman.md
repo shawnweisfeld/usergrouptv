@@ -10,7 +10,13 @@
       "title": "Agile in 160 Billion Gallons: When Agile Principles Occur During A Disaster",
       "slug": "agile-in-160-billion-gallons-when-agile-principles-occur-during-a-disaster",
       "thumbnail": "https://i.vimeocdn.com/video/728973646_295x166.jpg",
-      "date": "2018-09-29T15:03:26"
+      "date": "2018-09-29T15:03:26",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

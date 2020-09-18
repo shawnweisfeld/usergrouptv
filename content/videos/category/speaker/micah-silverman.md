@@ -10,7 +10,13 @@
       "title": "SOLID Principles in Action: from Slack to Twilio",
       "slug": "solid-principles-in-action-from-slack-to-twilio",
       "thumbnail": "https://i.vimeocdn.com/video/660013618_295x166.jpg",
-      "date": "2017-10-05T21:47:23"
+      "date": "2017-10-05T21:47:23",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

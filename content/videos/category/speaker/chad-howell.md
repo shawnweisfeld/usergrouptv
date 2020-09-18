@@ -10,7 +10,13 @@
       "title": "The Mind of the Developer",
       "slug": "the-mind-of-the-developer",
       "thumbnail": "https://i.vimeocdn.com/video/537442355_295x166.jpg",
-      "date": "2015-09-26T12:23:43"
+      "date": "2015-09-26T12:23:43",
+      "meetups": [
+        {
+          "name": "MeasureUp",
+          "slug": "measure-up"
+        }
+      ]
     }
   ]
 }

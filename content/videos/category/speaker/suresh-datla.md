@@ -10,7 +10,17 @@
       "title": "Power BI Dashboard - Creating End to End Solutions",
       "slug": "power-bi-dashboard-creating-end-to-end-solutions",
       "thumbnail": "https://i.vimeocdn.com/video/798692079_295x166.jpg",
-      "date": "2019-07-13T13:46:05"
+      "date": "2019-07-13T13:46:05",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        },
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

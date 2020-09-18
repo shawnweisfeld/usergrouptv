@@ -10,7 +10,13 @@
       "title": "Bless Your Heart!: Tips on dealing with unhappy clients",
       "slug": "bless-your-heart-tips-on-dealing-with-unhappy-clients",
       "thumbnail": "https://i.vimeocdn.com/video/818417695_295x166.jpg",
-      "date": "2019-09-28T16:57:50"
+      "date": "2019-09-28T16:57:50",
+      "meetups": [
+        {
+          "name": "Joomla Day Texas",
+          "slug": "joomla-day-texas"
+        }
+      ]
     }
   ]
 }

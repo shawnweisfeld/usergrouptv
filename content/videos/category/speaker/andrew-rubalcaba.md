@@ -10,7 +10,13 @@
       "title": "Getting The Spring Application To The Cloud",
       "slug": "getting-the-spring-application-to-the-cloud",
       "thumbnail": "https://i.vimeocdn.com/video/498381085_295x166.jpg",
-      "date": "2011-08-12T20:11:07"
+      "date": "2011-08-12T20:11:07",
+      "meetups": [
+        {
+          "name": "Dallas TechFest",
+          "slug": "dallas-techfest"
+        }
+      ]
     }
   ]
 }

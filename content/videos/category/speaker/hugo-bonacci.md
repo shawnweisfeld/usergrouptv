@@ -10,13 +10,25 @@
       "title": "JavaScript Deep Dive ",
       "slug": "javascript-deep-dive",
       "thumbnail": "https://i.vimeocdn.com/video/484301548_295x166.jpg",
-      "date": "2013-05-28T21:10:07"
+      "date": "2013-05-28T21:10:07",
+      "meetups": [
+        {
+          "name": "Dallas ASP.NET UG",
+          "slug": "dallasaspnet"
+        }
+      ]
     },
     {
       "title": "Making CSS and ASP.NET Work ",
       "slug": "making-css-and-asp-net-work",
       "thumbnail": "https://i.vimeocdn.com/video/485960271_295x166.jpg",
-      "date": "2012-11-27T16:00:42"
+      "date": "2012-11-27T16:00:42",
+      "meetups": [
+        {
+          "name": "Dallas ASP.NET UG",
+          "slug": "dallasaspnet"
+        }
+      ]
     }
   ]
 }

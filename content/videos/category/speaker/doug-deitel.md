@@ -10,7 +10,13 @@
       "title": "Using Admin Tools to Secure Your Joomla Website",
       "slug": "using-admin-tools-to-secure-your-joomla-website",
       "thumbnail": "https://i.vimeocdn.com/video/818415218_295x166.jpg",
-      "date": "2019-09-28T16:20:11"
+      "date": "2019-09-28T16:20:11",
+      "meetups": [
+        {
+          "name": "Joomla Day Texas",
+          "slug": "joomla-day-texas"
+        }
+      ]
     }
   ]
 }

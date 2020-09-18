@@ -10,13 +10,33 @@
       "title": "Data Warehouse ETL",
       "slug": "data-warehouse-etl",
       "thumbnail": "https://i.vimeocdn.com/video/487542575_295x166.jpg",
-      "date": "2013-08-24T22:27:09"
+      "date": "2013-08-24T22:27:09",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "Scaling a SQL Data Warehouse to 100s of TBs",
       "slug": "scaling-a-sql-data-warehouse-to-100s-of-tbs",
       "thumbnail": "https://i.vimeocdn.com/video/483490288_295x166.jpg",
-      "date": "2013-08-24T22:26:50"
+      "date": "2013-08-24T22:26:50",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

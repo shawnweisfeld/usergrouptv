@@ -10,13 +10,25 @@
       "title": "From the trenches - An Open Panel and Q&A discussion all about moving to Azure ",
       "slug": "from-the-trenches-an-open-panel-and-qa-discussion-all-about-moving-to-azure",
       "thumbnail": "https://i.vimeocdn.com/video/598780341_295x166.jpg",
-      "date": "2016-10-20T11:24:52"
+      "date": "2016-10-20T11:24:52",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ]
     },
     {
       "title": "MVC6 – What You Need to Know When Moving to Next",
       "slug": "mvc6-what-you-need-to-know-when-moving-to-next",
       "thumbnail": "https://i.vimeocdn.com/video/537261105_295x166.jpg",
-      "date": "2015-09-26T12:10:38"
+      "date": "2015-09-26T12:10:38",
+      "meetups": [
+        {
+          "name": "MeasureUp",
+          "slug": "measure-up"
+        }
+      ]
     }
   ]
 }

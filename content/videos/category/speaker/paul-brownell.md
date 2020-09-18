@@ -10,7 +10,13 @@
       "title": "You're Not Here, Have No Fear - Agile for Distributed Teams",
       "slug": "youre-not-here-have-no-fear-agile-for-distributed-teams",
       "thumbnail": "https://i.vimeocdn.com/video/703338230_295x166.jpg",
-      "date": "2018-05-24T16:51:02"
+      "date": "2018-05-24T16:51:02",
+      "meetups": [
+        {
+          "name": "Austin Agile",
+          "slug": "austin-agile"
+        }
+      ]
     }
   ]
 }

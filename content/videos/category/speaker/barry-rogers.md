@@ -10,13 +10,25 @@
       "title": "Agile is Culture",
       "slug": "agile-is-culture",
       "thumbnail": "https://i.vimeocdn.com/video/507042403_295x166.jpg",
-      "date": "2012-04-20T13:19:19"
+      "date": "2012-04-20T13:19:19",
+      "meetups": [
+        {
+          "name": "Agile .NET",
+          "slug": "agile-net"
+        }
+      ]
     },
     {
       "title": "Lessons Learned from and Agile Adoption",
       "slug": "lessons-learned-from-and-agile-adoption",
       "thumbnail": "https://i.vimeocdn.com/video/491655161_295x166.jpg",
-      "date": "2012-02-17T15:19:32"
+      "date": "2012-02-17T15:19:32",
+      "meetups": [
+        {
+          "name": "Agile .NET",
+          "slug": "agile-net"
+        }
+      ]
     }
   ]
 }

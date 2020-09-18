@@ -10,31 +10,61 @@
       "title": "Coding Standards - Effective Not Just Efficient",
       "slug": "coding-standards-effective-not-just-efficient",
       "thumbnail": "https://i.vimeocdn.com/video/767081660_295x166.jpg",
-      "date": "2019-03-11T15:42:48"
+      "date": "2019-03-11T15:42:48",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     },
     {
       "title": "The New Paradigm for Digital Transformation",
       "slug": "the-new-paradigm-for-digital-transformation",
       "thumbnail": "https://i.vimeocdn.com/video/728994522_295x166.jpg",
-      "date": "2018-09-29T15:25:11"
+      "date": "2018-09-29T15:25:11",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     },
     {
       "title": "Introduction to R",
       "slug": "introduction-to-r",
       "thumbnail": "https://i.vimeocdn.com/video/728974733_295x166.jpg",
-      "date": "2018-09-29T15:11:38"
+      "date": "2018-09-29T15:11:38",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     },
     {
       "title": "Why Do We Want C#7?",
       "slug": "why-do-we-want-c7",
       "thumbnail": "https://i.vimeocdn.com/video/699614881_295x166.jpg",
-      "date": "2018-05-05T15:35:16"
+      "date": "2018-05-05T15:35:16",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     },
     {
       "title": "Coding Standards - Why? How? Get Started!",
       "slug": "coding-standards-why-how-get-started",
       "thumbnail": "https://i.vimeocdn.com/video/587191234_295x166.jpg",
-      "date": "2016-08-05T14:49:46"
+      "date": "2016-08-05T14:49:46",
+      "meetups": [
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,13 @@
       "title": "Become the MVP: Soft Skills for a Hard Market",
       "slug": "become-the-mvp-soft-skills-for-a-hard-market",
       "thumbnail": "https://i.vimeocdn.com/video/796753194_295x166.jpg",
-      "date": "2019-06-18T15:39:15"
+      "date": "2019-06-18T15:39:15",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     }
   ]
 }

@@ -10,13 +10,25 @@
       "title": "DEPLOY ALL THE GAMES!!!",
       "slug": "deploy-all-the-games-2",
       "thumbnail": "https://i.vimeocdn.com/video/490860700_295x166.jpg",
-      "date": "2014-09-26T18:56:52"
+      "date": "2014-09-26T18:56:52",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     },
     {
       "title": "Deploy All The Games!",
       "slug": "deploy-all-the-games",
       "thumbnail": "https://i.vimeocdn.com/video/481964631_295x166.jpg",
-      "date": "2014-06-14T11:06:19"
+      "date": "2014-06-14T11:06:19",
+      "meetups": [
+        {
+          "name": "Cowtown Code Camp",
+          "slug": "cowtown-code-camp"
+        }
+      ]
     }
   ]
 }

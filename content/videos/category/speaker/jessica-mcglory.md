@@ -10,7 +10,13 @@
       "title": "FINDING PASSION FOR DATA THROUGH FANDOMS",
       "slug": "finding-passion-for-data-through-fandoms",
       "thumbnail": "https://i.vimeocdn.com/video/650871742_295x166.jpg",
-      "date": "2017-08-05T16:39:02"
+      "date": "2017-08-05T16:39:02",
+      "meetups": [
+        {
+          "name": "ACT-W",
+          "slug": "act-w"
+        }
+      ]
     }
   ]
 }

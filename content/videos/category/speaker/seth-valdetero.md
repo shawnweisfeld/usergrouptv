@@ -10,7 +10,13 @@
       "title": "Cross-platform Development with PCLs",
       "slug": "cross-platform-development-with-pcls-2",
       "thumbnail": "https://i.vimeocdn.com/video/489181326_295x166.jpg",
-      "date": "2014-09-13T19:28:41"
+      "date": "2014-09-13T19:28:41",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

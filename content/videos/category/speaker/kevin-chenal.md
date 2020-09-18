@@ -10,7 +10,13 @@
       "title": "Machine Learning: a business case of text classification",
       "slug": "machine-learning-a-business-case-of-text-classification",
       "thumbnail": "https://i.vimeocdn.com/video/660004211_295x166.jpg",
-      "date": "2017-10-05T22:01:51"
+      "date": "2017-10-05T22:01:51",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

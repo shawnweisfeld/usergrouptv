@@ -10,7 +10,13 @@
       "title": "Cryptography Pitfalls ",
       "slug": "cryptography-pitfalls",
       "thumbnail": "https://i.vimeocdn.com/video/540279753_295x166.jpg",
-      "date": "2015-10-16T01:57:08"
+      "date": "2015-10-16T01:57:08",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

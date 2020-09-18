@@ -10,13 +10,25 @@
       "title": "Accessing a TFS Git Repo Programmatically ",
       "slug": "accessing-a-tfs-git-repo-programmatically",
       "thumbnail": "https://i.vimeocdn.com/video/482640523_295x166.jpg",
-      "date": "2014-04-11T23:40:08"
+      "date": "2014-04-11T23:40:08",
+      "meetups": [
+        {
+          "name": "Austin TFS UG",
+          "slug": "austin-tfs-ug"
+        }
+      ]
     },
     {
       "title": "Experience of Migrating a Mid-sized team from Disconnected ALM tools to TFS",
       "slug": "experience-of-migrating-a-mid-sized-team-from-disconnected-alm-tools-to-tfs",
       "thumbnail": "https://i.vimeocdn.com/video/483492112_295x166.jpg",
-      "date": "2013-09-27T02:37:22"
+      "date": "2013-09-27T02:37:22",
+      "meetups": [
+        {
+          "name": "Austin TFS UG",
+          "slug": "austin-tfs-ug"
+        }
+      ]
     }
   ]
 }

@@ -10,13 +10,25 @@
       "title": "Full Stack Development with .NET and NoSQL ",
       "slug": "full-stack-development-with-net-and-nosql",
       "thumbnail": "https://i.vimeocdn.com/video/596869606_295x166.jpg",
-      "date": "2016-10-10T11:59:51"
+      "date": "2016-10-10T11:59:51",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     },
     {
       "title": "The class that knew too much: refactoring spaghetti code",
       "slug": "the-class-that-knew-too-much-refactoring-spaghetti-code",
       "thumbnail": "https://i.vimeocdn.com/video/484298668_295x166.jpg",
-      "date": "2013-08-17T22:05:55"
+      "date": "2013-08-17T22:05:55",
+      "meetups": [
+        {
+          "name": "Austin CodeCamp",
+          "slug": "austin-codecamp"
+        }
+      ]
     }
   ]
 }

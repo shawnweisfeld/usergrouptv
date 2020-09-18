@@ -10,7 +10,17 @@
       "title": "Speaking the language of the web with WCF Web API.",
       "slug": "speaking-the-language-of-the-web-with-wcf-web-api",
       "thumbnail": "https://i.vimeocdn.com/video/495141869_295x166.jpg",
-      "date": "2011-10-07T02:45:43"
+      "date": "2011-10-07T02:45:43",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     }
   ]
 }

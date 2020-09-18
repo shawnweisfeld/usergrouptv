@@ -10,7 +10,13 @@
       "title": "Wish you could live the glamorous consulting life?",
       "slug": "wish-you-could-live-the-glamorous-consulting-life",
       "thumbnail": "https://i.vimeocdn.com/video/702664420_295x166.jpg",
-      "date": "2018-05-19T23:05:15"
+      "date": "2018-05-19T23:05:15",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

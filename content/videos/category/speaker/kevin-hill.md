@@ -10,7 +10,17 @@
       "title": "Backups for non-DBAs...the Why, not the How",
       "slug": "backups-for-non-dbas-the-why-not-the-how",
       "thumbnail": "https://i.vimeocdn.com/video/640579433_295x166.jpg",
-      "date": "2017-06-17T14:22:38"
+      "date": "2017-06-17T14:22:38",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        },
+        {
+          "name": "Houston SQL Saturday",
+          "slug": "houston-sql-saturday"
+        }
+      ]
     }
   ]
 }

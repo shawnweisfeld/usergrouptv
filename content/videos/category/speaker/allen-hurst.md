@@ -10,25 +10,49 @@
       "title": "The Leading Measures of Velocity",
       "slug": "the-leading-measures-of-velocity",
       "thumbnail": "https://i.vimeocdn.com/video/537239050_295x166.jpg",
-      "date": "2015-09-26T12:16:59"
+      "date": "2015-09-26T12:16:59",
+      "meetups": [
+        {
+          "name": "MeasureUp",
+          "slug": "measure-up"
+        }
+      ]
     },
     {
       "title": "WHY NOT SCRUM, WHY NOT KANBAN",
       "slug": "why-not-scrum-why-not-kanban",
       "thumbnail": "https://i.vimeocdn.com/video/486707988_295x166.jpg",
-      "date": "2014-08-24T18:03:23"
+      "date": "2014-08-24T18:03:23",
+      "meetups": [
+        {
+          "name": "AgileDotNext",
+          "slug": "agiledotnext"
+        }
+      ]
     },
     {
       "title": "Performance & Load Testing",
       "slug": "performance-load-testing",
       "thumbnail": "https://i.vimeocdn.com/video/492570028_295x166.jpg",
-      "date": "2012-02-17T15:12:29"
+      "date": "2012-02-17T15:12:29",
+      "meetups": [
+        {
+          "name": "Agile .NET",
+          "slug": "agile-net"
+        }
+      ]
     },
     {
       "title": "Ye Olde TDD",
       "slug": "ye-olde-tdd",
       "thumbnail": "https://i.vimeocdn.com/video/501052476_295x166.jpg",
-      "date": "2011-02-25T13:30:42"
+      "date": "2011-02-25T13:30:42",
+      "meetups": [
+        {
+          "name": "Agile .NET",
+          "slug": "agile-net"
+        }
+      ]
     }
   ]
 }

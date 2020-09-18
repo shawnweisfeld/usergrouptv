@@ -10,13 +10,25 @@
       "title": "Agile Projects with Microsoft ALM",
       "slug": "agile-projects-with-microsoft-alm",
       "thumbnail": "https://i.vimeocdn.com/video/495918685_295x166.jpg",
-      "date": "2012-04-20T17:07:43"
+      "date": "2012-04-20T17:07:43",
+      "meetups": [
+        {
+          "name": "Agile .NET",
+          "slug": "agile-net"
+        }
+      ]
     },
     {
       "title": "Agile Testing with Microsoft Tools: Present and Future",
       "slug": "agile-testing-with-microsoft-tools-present-and-future",
       "thumbnail": "https://i.vimeocdn.com/video/492568999_295x166.jpg",
-      "date": "2012-02-17T15:10:10"
+      "date": "2012-02-17T15:10:10",
+      "meetups": [
+        {
+          "name": "Agile .NET",
+          "slug": "agile-net"
+        }
+      ]
     }
   ]
 }

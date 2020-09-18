@@ -10,19 +10,45 @@
       "title": "Introduction to Node.js",
       "slug": "introduction-to-node-js",
       "thumbnail": "https://i.vimeocdn.com/video/482638242_295x166.jpg",
-      "date": "2013-10-11T21:26:14"
+      "date": "2013-10-11T21:26:14",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     },
     {
       "title": "Building cross-platform mobile applications using jQuery Mobile",
       "slug": "building-cross-platform-mobile-applications-using-jquery-mobile",
       "thumbnail": "https://i.vimeocdn.com/video/485963143_295x166.jpg",
-      "date": "2012-10-12T15:36:01"
+      "date": "2012-10-12T15:36:01",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     },
     {
       "title": "From Start - New Project to Massively Scalable Deployment to the Cloud in 15 minutes on Windows Azure",
       "slug": "from-start-new-project-to-massively-scalable-deployment-to-the-cloud-in-15-minutes-on-windows-azure",
       "thumbnail": "https://i.vimeocdn.com/video/488128851_295x166.jpg",
-      "date": "2012-08-24T00:35:05"
+      "date": "2012-08-24T00:35:05",
+      "meetups": [
+        {
+          "name": "North West Arkansas Tech Fest",
+          "slug": "north-west-arkansas-tech-fest"
+        }
+      ]
     }
   ]
 }

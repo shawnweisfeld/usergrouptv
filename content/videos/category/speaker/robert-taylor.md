@@ -10,7 +10,13 @@
       "title": "Connect your Desktop Apps with the Microsoft Graph",
       "slug": "connect-your-desktop-apps-with-the-microsoft-graph",
       "thumbnail": "https://i.vimeocdn.com/video/796753583_295x166.jpg",
-      "date": "2019-06-24T16:41:59"
+      "date": "2019-06-24T16:41:59",
+      "meetups": [
+        {
+          "name": "MS Insider Dev Tour",
+          "slug": "ms-insider-dev-tour"
+        }
+      ]
     }
   ]
 }

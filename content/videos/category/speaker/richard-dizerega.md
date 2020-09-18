@@ -10,13 +10,25 @@
       "title": "Microsoft Graph: What is it and what it means for the SharePoint community",
       "slug": "microsoft-graph-what-is-it-and-what-it-means-for-the-sharepoint-community",
       "thumbnail": "https://i.vimeocdn.com/video/707340319_295x166.jpg",
-      "date": "2018-06-13T13:28:22"
+      "date": "2018-06-13T13:28:22",
+      "meetups": [
+        {
+          "name": "Austin Office 365 and SharePoint User Group",
+          "slug": "austin-office-365-and-sharepoint-user-group"
+        }
+      ]
     },
     {
       "title": "What a SharePoint expert should know about Microsoft Teams ",
       "slug": "what-a-sharepoint-expert-should-know-about-microsoft-teams",
       "thumbnail": "https://i.vimeocdn.com/video/640017038_295x166.jpg",
-      "date": "2017-06-14T12:34:57"
+      "date": "2017-06-14T12:34:57",
+      "meetups": [
+        {
+          "name": "Austin Office 365 and SharePoint User Group",
+          "slug": "austin-office-365-and-sharepoint-user-group"
+        }
+      ]
     }
   ]
 }

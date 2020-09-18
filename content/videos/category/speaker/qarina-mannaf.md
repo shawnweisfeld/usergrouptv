@@ -10,7 +10,13 @@
       "title": "Investing in Diversity and Inclusion in IT: How to build more diverse and inclusive cultures in Technology",
       "slug": "investing-in-diversity-and-inclusion-in-it-how-to-build-more-diverse-and-inclusive-cultures-in-technology",
       "thumbnail": "https://i.vimeocdn.com/video/728994385_295x166.jpg",
-      "date": "2018-09-29T15:23:52"
+      "date": "2018-09-29T15:23:52",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

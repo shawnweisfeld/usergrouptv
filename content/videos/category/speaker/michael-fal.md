@@ -10,7 +10,13 @@
       "title": "Getting Started with Git/GitHub",
       "slug": "getting-started-with-gitgithub",
       "thumbnail": "https://i.vimeocdn.com/video/719305826_295x166.jpg",
-      "date": "2018-08-11T15:49:54"
+      "date": "2018-08-11T15:49:54",
+      "meetups": [
+        {
+          "name": "SQL Saturday Baton Rouge",
+          "slug": "sql-saturday-baton-rouge"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,17 @@
       "title": "SharePoint & jQuery Guide",
       "slug": "sharepoint-jquery-guide",
       "thumbnail": "https://i.vimeocdn.com/video/483487899_295x166.jpg",
-      "date": "2013-10-11T21:19:13"
+      "date": "2013-10-11T21:19:13",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     }
   ]
 }

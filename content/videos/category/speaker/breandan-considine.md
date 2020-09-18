@@ -10,7 +10,13 @@
       "title": "Foundations of a Modern IDE",
       "slug": "foundations-of-a-modern-ide",
       "thumbnail": "https://i.vimeocdn.com/video/489183212_295x166.jpg",
-      "date": "2014-09-13T23:41:44"
+      "date": "2014-09-13T23:41:44",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

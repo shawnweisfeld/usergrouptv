@@ -10,7 +10,17 @@
       "title": "Scrum Fundamentals",
       "slug": "scrum-fundamentals",
       "thumbnail": "https://i.vimeocdn.com/video/482056179_295x166.jpg",
-      "date": "2014-05-16T09:59:51"
+      "date": "2014-05-16T09:59:51",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "Tulsa School of Dev",
+          "slug": "tulsa-school-of-dev"
+        }
+      ]
     }
   ]
 }

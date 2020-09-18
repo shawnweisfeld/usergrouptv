@@ -10,7 +10,13 @@
       "title": "Cross-Platform Development With jQuery Mobile",
       "slug": "cross-platform-development-with-jquery-mobile",
       "thumbnail": "https://i.vimeocdn.com/video/499118405_295x166.jpg",
-      "date": "2011-05-24T18:16:17"
+      "date": "2011-05-24T18:16:17",
+      "meetups": [
+        {
+          "name": "Dallas ASP.NET UG",
+          "slug": "dallasaspnet"
+        }
+      ]
     }
   ]
 }

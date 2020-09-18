@@ -10,7 +10,13 @@
       "title": "An Introduction to Tabular Editor",
       "slug": "an-introduction-to-tabular-editor",
       "thumbnail": "https://i.vimeocdn.com/video/955146027_295x166.jpg",
-      "date": "2020-09-09T15:22:13"
+      "date": "2020-09-09T15:22:13",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,13 @@
       "title": "Scaling Joomla",
       "slug": "scaling-joomla",
       "thumbnail": "https://i.vimeocdn.com/video/818419103_295x166.jpg",
-      "date": "2019-09-28T17:03:52"
+      "date": "2019-09-28T17:03:52",
+      "meetups": [
+        {
+          "name": "Joomla Day Texas",
+          "slug": "joomla-day-texas"
+        }
+      ]
     }
   ]
 }

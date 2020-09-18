@@ -10,13 +10,29 @@
       "title": "Azure App Services",
       "slug": "azure-app-services",
       "thumbnail": "https://i.vimeocdn.com/video/778966437_295x166.jpg",
-      "date": "2019-04-27T13:39:31"
+      "date": "2019-04-27T13:39:31",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "Austin Global Azure Bootcamp",
+          "slug": "austin-global-azure-bootcamp"
+        }
+      ]
     },
     {
       "title": "Building Powerful intelligence using Cognitive Services",
       "slug": "building-powerful-intelligence-using-cognitive-services",
       "thumbnail": "https://i.vimeocdn.com/video/631735934_295x166.jpg",
-      "date": "2017-04-22T13:13:15"
+      "date": "2017-04-22T13:13:15",
+      "meetups": [
+        {
+          "name": "Austin Global Azure Bootcamp",
+          "slug": "austin-global-azure-bootcamp"
+        }
+      ]
     }
   ]
 }

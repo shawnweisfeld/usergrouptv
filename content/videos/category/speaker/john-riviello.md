@@ -10,7 +10,13 @@
       "title": "Introduction to Web Components & Polymer",
       "slug": "introduction-to-web-components-polymer",
       "thumbnail": "https://i.vimeocdn.com/video/660019941_295x166.jpg",
-      "date": "2017-10-05T21:50:10"
+      "date": "2017-10-05T21:50:10",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,13 @@
       "title": "Intro to Power BI, Pros and Cons",
       "slug": "intro-to-power-bi-pros-and-cons",
       "thumbnail": "https://i.vimeocdn.com/video/778862340_295x166.jpg",
-      "date": "2019-04-16T13:35:56"
+      "date": "2019-04-16T13:35:56",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     }
   ]
 }

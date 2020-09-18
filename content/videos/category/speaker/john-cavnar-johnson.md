@@ -10,13 +10,25 @@
       "title": "Beyond Monoliths and Microservices",
       "slug": "beyond-monoliths-and-microservices",
       "thumbnail": "https://i.vimeocdn.com/video/699662855_295x166.jpg",
-      "date": "2018-05-05T15:59:55"
+      "date": "2018-05-05T15:59:55",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     },
     {
       "title": "What's in a Name?",
       "slug": "whats-in-a-name",
       "thumbnail": "https://i.vimeocdn.com/video/699668162_295x166.jpg",
-      "date": "2018-05-05T14:55:57"
+      "date": "2018-05-05T14:55:57",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

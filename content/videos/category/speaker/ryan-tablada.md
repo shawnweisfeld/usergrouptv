@@ -10,7 +10,13 @@
       "title": "Productive Front End Test Driven Development That ACTUALLY Works",
       "slug": "productive-front-end-test-driven-development-that-actually-works",
       "thumbnail": "https://i.vimeocdn.com/video/660021162_295x166.jpg",
-      "date": "2017-10-05T21:54:11"
+      "date": "2017-10-05T21:54:11",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

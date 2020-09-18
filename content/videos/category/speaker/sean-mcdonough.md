@@ -10,7 +10,13 @@
       "title": "Designing for Optimal Performance in SharePoint Online",
       "slug": "designing-for-optimal-performance-in-sharepoint-online",
       "thumbnail": "https://i.vimeocdn.com/video/700408581_295x166.jpg",
-      "date": "2018-05-09T16:06:08"
+      "date": "2018-05-09T16:06:08",
+      "meetups": [
+        {
+          "name": "Austin Office 365 and SharePoint User Group",
+          "slug": "austin-office-365-and-sharepoint-user-group"
+        }
+      ]
     }
   ]
 }

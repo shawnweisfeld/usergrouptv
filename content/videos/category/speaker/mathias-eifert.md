@@ -10,7 +10,13 @@
       "title": "Don't Assume You're Creating Value - Prove It!",
       "slug": "dont-assume-youre-creating-value-prove-it",
       "thumbnail": "https://i.vimeocdn.com/video/703334154_295x166.jpg",
-      "date": "2018-05-24T16:50:04"
+      "date": "2018-05-24T16:50:04",
+      "meetups": [
+        {
+          "name": "Austin Agile",
+          "slug": "austin-agile"
+        }
+      ]
     }
   ]
 }

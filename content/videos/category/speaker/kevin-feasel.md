@@ -10,13 +10,29 @@
       "title": "Getting Started with Apache Spark",
       "slug": "getting-started-with-apache-spark",
       "thumbnail": "https://i.vimeocdn.com/video/854621628_295x166.jpg",
-      "date": "2020-02-08T16:27:50"
+      "date": "2020-02-08T16:27:50",
+      "meetups": [
+        {
+          "name": "Austin SQL Saturday",
+          "slug": "austin-sql-saturday"
+        },
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     },
     {
       "title": "R For the SQL Server Developer",
       "slug": "r-for-the-sql-server-developer",
       "thumbnail": "https://i.vimeocdn.com/video/622684266_295x166.jpg",
-      "date": "2017-03-04T22:04:31"
+      "date": "2017-03-04T22:04:31",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

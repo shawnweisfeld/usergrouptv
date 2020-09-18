@@ -10,37 +10,73 @@
       "title": "A Tale of Two Clouds: Building An App Across AWS and Azure",
       "slug": "a-tale-of-two-clouds-building-an-app-across-aws-and-azure",
       "thumbnail": "https://i.vimeocdn.com/video/650163309_295x166.jpg",
-      "date": "2017-07-20T14:05:46"
+      "date": "2017-07-20T14:05:46",
+      "meetups": [
+        {
+          "name": "Tulsa School of Dev",
+          "slug": "tulsa-school-of-dev"
+        }
+      ]
     },
     {
       "title": "Building Highly Scalable Applications with Windows Azure",
       "slug": "building-highly-scalable-applications-with-windows-azure-2",
       "thumbnail": "https://i.vimeocdn.com/video/481936088_295x166.jpg",
-      "date": "2014-06-14T11:08:07"
+      "date": "2014-06-14T11:08:07",
+      "meetups": [
+        {
+          "name": "Cowtown Code Camp",
+          "slug": "cowtown-code-camp"
+        }
+      ]
     },
     {
       "title": "Building Highly Scalable Applications with Windows Azure",
       "slug": "building-highly-scalable-applications-with-windows-azure",
       "thumbnail": "https://i.vimeocdn.com/video/482640602_295x166.jpg",
-      "date": "2014-03-13T18:59:50"
+      "date": "2014-03-13T18:59:50",
+      "meetups": [
+        {
+          "name": "Dallas .NET UG",
+          "slug": "dallas-net-ug"
+        }
+      ]
     },
     {
       "title": "An Introduction to Azure Cloud Storage",
       "slug": "an-introduction-to-azure-cloud-storage",
       "thumbnail": "https://i.vimeocdn.com/video/486706550_295x166.jpg",
-      "date": "2012-10-03T15:21:14"
+      "date": "2012-10-03T15:21:14",
+      "meetups": [
+        {
+          "name": "North Dallas .NET UG",
+          "slug": "north-dallas-net-ug"
+        }
+      ]
     },
     {
       "title": "Simplifying Package Management with NuGet",
       "slug": "simplifying-package-management-with-nuget",
       "thumbnail": "https://i.vimeocdn.com/video/491651148_295x166.jpg",
-      "date": "2012-05-15T11:09:37"
+      "date": "2012-05-15T11:09:37",
+      "meetups": [
+        {
+          "name": "Ft. Worth .NET UG",
+          "slug": "ft-worth-net-ug"
+        }
+      ]
     },
     {
       "title": "Nuget",
       "slug": "nuget",
       "thumbnail": "https://i.vimeocdn.com/video/498384880_295x166.jpg",
-      "date": "2011-07-13T19:34:43"
+      "date": "2011-07-13T19:34:43",
+      "meetups": [
+        {
+          "name": "Dallas C# SIG",
+          "slug": "dallas-c-sig"
+        }
+      ]
     }
   ]
 }

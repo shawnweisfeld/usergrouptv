@@ -10,7 +10,13 @@
       "title": "Successfully Delivering Agile with Remotely Located Teams",
       "slug": "successfully-delivering-agile-with-remotely-located-teams",
       "thumbnail": "https://i.vimeocdn.com/video/650202913_295x166.jpg",
-      "date": "2017-07-20T14:10:33"
+      "date": "2017-07-20T14:10:33",
+      "meetups": [
+        {
+          "name": "Tulsa School of Dev",
+          "slug": "tulsa-school-of-dev"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,17 @@
       "title": "Data Vault on SQL Server Tabular Model and Power BI",
       "slug": "data-vault-on-sql-server-tabular-model-and-power-bi",
       "thumbnail": "https://i.vimeocdn.com/video/854627598_295x166.jpg",
-      "date": "2020-02-08T16:11:11"
+      "date": "2020-02-08T16:11:11",
+      "meetups": [
+        {
+          "name": "Austin SQL Saturday",
+          "slug": "austin-sql-saturday"
+        },
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,13 @@
       "title": "Technical Excellence Doesn't Just Happen – Igniting a Craftsmanship Culture",
       "slug": "technical-excellence-doesnt-just-happen-igniting-a-craftsmanship-culture",
       "thumbnail": "https://i.vimeocdn.com/video/593960183_295x166.jpg",
-      "date": "2016-09-24T19:46:37"
+      "date": "2016-09-24T19:46:37",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

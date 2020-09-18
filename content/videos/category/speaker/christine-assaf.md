@@ -10,13 +10,29 @@
       "title": "Ethics in Data",
       "slug": "ethics-in-data",
       "thumbnail": "https://i.vimeocdn.com/video/854624827_295x166.jpg",
-      "date": "2020-02-08T16:17:42"
+      "date": "2020-02-08T16:17:42",
+      "meetups": [
+        {
+          "name": "Austin SQL Saturday",
+          "slug": "austin-sql-saturday"
+        },
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     },
     {
       "title": "Mastering your Resume & Interview: Tips to Get Hired",
       "slug": "mastering-your-resume-interview-tips-to-get-hired",
       "thumbnail": "https://i.vimeocdn.com/video/483484332_295x166.jpg",
-      "date": "2013-09-28T18:39:33"
+      "date": "2013-09-28T18:39:33",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

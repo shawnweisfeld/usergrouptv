@@ -10,7 +10,13 @@
       "title": "Report Showcase",
       "slug": "report-showcase",
       "thumbnail": "https://i.vimeocdn.com/video/822339117_295x166.jpg",
-      "date": "2019-10-09T23:41:28"
+      "date": "2019-10-09T23:41:28",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ]
     }
   ]
 }

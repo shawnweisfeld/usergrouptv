@@ -10,13 +10,25 @@
       "title": "Get Things Done with dynamic ASP.NET MVC",
       "slug": "get-things-done-with-dynamic-asp-net-mvc",
       "thumbnail": "https://i.vimeocdn.com/video/507719125_295x166.jpg",
-      "date": "2011-10-05T21:48:08"
+      "date": "2011-10-05T21:48:08",
+      "meetups": [
+        {
+          "name": "North Dallas .NET UG",
+          "slug": "north-dallas-net-ug"
+        }
+      ]
     },
     {
       "title": "REST Services and WP7",
       "slug": "rest-services-and-wp7",
       "thumbnail": "https://i.vimeocdn.com/video/499122711_295x166.jpg",
-      "date": "2011-05-09T00:00:27"
+      "date": "2011-05-09T00:00:27",
+      "meetups": [
+        {
+          "name": "North Texas Silverlight UG",
+          "slug": "north-texas-silverlight-ug"
+        }
+      ]
     }
   ]
 }

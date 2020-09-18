@@ -10,7 +10,13 @@
       "title": "The Magic of Code Generation ",
       "slug": "the-magic-of-code-generation",
       "thumbnail": "https://i.vimeocdn.com/video/494184607_295x166.jpg",
-      "date": "2011-11-22T14:33:47"
+      "date": "2011-11-22T14:33:47",
+      "meetups": [
+        {
+          "name": "Dallas ASP.NET UG",
+          "slug": "dallasaspnet"
+        }
+      ]
     }
   ]
 }

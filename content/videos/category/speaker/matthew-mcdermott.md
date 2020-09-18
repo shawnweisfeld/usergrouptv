@@ -10,7 +10,13 @@
       "title": "What’s New in Microsoft Modern Search",
       "slug": "whats-new-in-microsoft-modern-search",
       "thumbnail": "https://i.vimeocdn.com/video/822338757_295x166.jpg",
-      "date": "2019-10-09T23:38:43"
+      "date": "2019-10-09T23:38:43",
+      "meetups": [
+        {
+          "name": "Austin Office 365 and SharePoint User Group",
+          "slug": "austin-office-365-and-sharepoint-user-group"
+        }
+      ]
     }
   ]
 }

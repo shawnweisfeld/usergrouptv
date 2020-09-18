@@ -10,7 +10,13 @@
       "title": "Blockchain: What this means for you",
       "slug": "blockchain-what-this-means-for-you",
       "thumbnail": "https://i.vimeocdn.com/video/822338084_295x166.jpg",
-      "date": "2019-10-09T23:37:13"
+      "date": "2019-10-09T23:37:13",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ]
     }
   ]
 }

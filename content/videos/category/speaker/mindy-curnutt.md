@@ -10,7 +10,13 @@
       "title": "Imposter Syndrome: Are You Faking It & Will they Find Out?",
       "slug": "imposter-syndrome-are-you-faking-it-will-they-find-out",
       "thumbnail": "https://i.vimeocdn.com/video/587192849_295x166.jpg",
-      "date": "2016-08-13T15:06:52"
+      "date": "2016-08-13T15:06:52",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

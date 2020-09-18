@@ -10,19 +10,37 @@
       "title": "Getting Started with WebMatrix and Razor",
       "slug": "getting-started-with-webmatrix-and-razor",
       "thumbnail": "https://i.vimeocdn.com/video/495397916_295x166.jpg",
-      "date": "2012-04-04T12:19:27"
+      "date": "2012-04-04T12:19:27",
+      "meetups": [
+        {
+          "name": "North Dallas .NET UG",
+          "slug": "north-dallas-net-ug"
+        }
+      ]
     },
     {
       "title": "Web Security - How Secure Am I?",
       "slug": "web-security-how-secure-am-i",
       "thumbnail": "https://i.vimeocdn.com/video/507046778_295x166.jpg",
-      "date": "2011-07-07T22:27:39"
+      "date": "2011-07-07T22:27:39",
+      "meetups": [
+        {
+          "name": "North Dallas .NET UG",
+          "slug": "north-dallas-net-ug"
+        }
+      ]
     },
     {
       "title": "Mongo DB",
       "slug": "mongo-db",
       "thumbnail": "https://i.vimeocdn.com/video/498383573_295x166.jpg",
-      "date": "2011-06-21T18:58:09"
+      "date": "2011-06-21T18:58:09",
+      "meetups": [
+        {
+          "name": "North Dallas .NET UG",
+          "slug": "north-dallas-net-ug"
+        }
+      ]
     }
   ]
 }

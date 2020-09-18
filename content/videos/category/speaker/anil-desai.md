@@ -10,31 +10,61 @@
       "title": "SQL Server Optimization for Developers",
       "slug": "sql-server-optimization-for-developers",
       "thumbnail": "https://i.vimeocdn.com/video/482636013_295x166.jpg",
-      "date": "2014-04-14T12:11:21"
+      "date": "2014-04-14T12:11:21",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     },
     {
       "title": "SQL Server Reporting Services: Creating and Managing Reports",
       "slug": "sql-server-reporting-services-creating-and-managing-reports",
       "thumbnail": "https://i.vimeocdn.com/video/487542102_295x166.jpg",
-      "date": "2013-08-17T20:31:14"
+      "date": "2013-08-17T20:31:14",
+      "meetups": [
+        {
+          "name": "Austin CodeCamp",
+          "slug": "austin-codecamp"
+        }
+      ]
     },
     {
       "title": "SQL Server Performance Monitoring & Optimization",
       "slug": "sql-server-performance-monitoring-optimization",
       "thumbnail": "https://i.vimeocdn.com/video/484303147_295x166.jpg",
-      "date": "2013-08-17T20:01:17"
+      "date": "2013-08-17T20:01:17",
+      "meetups": [
+        {
+          "name": "Austin CodeCamp",
+          "slug": "austin-codecamp"
+        }
+      ]
     },
     {
       "title": "SQL Server Reporting Services: Develop & Deploy Reports",
       "slug": "sql-server-reporting-services-develop-deploy-reports",
       "thumbnail": "https://i.vimeocdn.com/video/495140135_295x166.jpg",
-      "date": "2011-09-10T04:45:51"
+      "date": "2011-09-10T04:45:51",
+      "meetups": [
+        {
+          "name": "Austin CodeCamp",
+          "slug": "austin-codecamp"
+        }
+      ]
     },
     {
       "title": "Practical SQL Server Performance Monitoring & Optimization",
       "slug": "practical-sql-server-performance-monitoring-optimization",
       "thumbnail": "https://i.vimeocdn.com/video/495139385_295x166.jpg",
-      "date": "2011-09-10T04:04:42"
+      "date": "2011-09-10T04:04:42",
+      "meetups": [
+        {
+          "name": "Austin CodeCamp",
+          "slug": "austin-codecamp"
+        }
+      ]
     }
   ]
 }

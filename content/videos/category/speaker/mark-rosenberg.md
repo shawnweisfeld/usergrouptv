@@ -10,7 +10,13 @@
       "title": "Optimizing Stored Procedures for Developers",
       "slug": "optimizing-stored-procedures-for-developers",
       "thumbnail": "https://i.vimeocdn.com/video/487542423_295x166.jpg",
-      "date": "2013-08-17T20:36:23"
+      "date": "2013-08-17T20:36:23",
+      "meetups": [
+        {
+          "name": "Austin CodeCamp",
+          "slug": "austin-codecamp"
+        }
+      ]
     }
   ]
 }

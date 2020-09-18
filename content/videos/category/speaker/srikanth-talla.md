@@ -10,7 +10,13 @@
       "title": "Productive Web Development with NodeJS and Microsoft Developer Tools",
       "slug": "productive-web-development-with-nodejs-and-microsoft-developer-tools",
       "thumbnail": "https://i.vimeocdn.com/video/796753511_295x166.jpg",
-      "date": "2019-06-24T16:37:45"
+      "date": "2019-06-24T16:37:45",
+      "meetups": [
+        {
+          "name": "MS Insider Dev Tour",
+          "slug": "ms-insider-dev-tour"
+        }
+      ]
     }
   ]
 }

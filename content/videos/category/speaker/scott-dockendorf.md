@@ -10,13 +10,25 @@
       "title": "Building Full-Stack solutions with C# & ASP.NET Core 3.0",
       "slug": "building-full-stack-solutions-with-c-asp-net-core-3-0",
       "thumbnail": "https://i.vimeocdn.com/video/807050783_295x166.jpg",
-      "date": "2019-08-12T14:12:57"
+      "date": "2019-08-12T14:12:57",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     },
     {
       "title": "The Future is Now with ASP.NET Core 3.0",
       "slug": "the-future-is-now-with-asp-net-core-3-0",
       "thumbnail": "https://i.vimeocdn.com/video/796753547_295x166.jpg",
-      "date": "2019-06-24T16:40:24"
+      "date": "2019-06-24T16:40:24",
+      "meetups": [
+        {
+          "name": "MS Insider Dev Tour",
+          "slug": "ms-insider-dev-tour"
+        }
+      ]
     }
   ]
 }

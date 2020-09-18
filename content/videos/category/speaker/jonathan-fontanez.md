@@ -10,7 +10,13 @@
       "title": "Building modular enterprise scale AngularJS applications ",
       "slug": "building-modular-enterprise-scale-angularjs-applications",
       "thumbnail": "https://i.vimeocdn.com/video/540280447_295x166.jpg",
-      "date": "2015-10-16T02:01:02"
+      "date": "2015-10-16T02:01:02",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

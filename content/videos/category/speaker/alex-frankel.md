@@ -10,7 +10,13 @@
       "title": "Azure Blueprint 101",
       "slug": "azure-blueprint-101",
       "thumbnail": "https://i.vimeocdn.com/video/876243475_295x166.jpg",
-      "date": "2020-04-08T18:34:29"
+      "date": "2020-04-08T18:34:29",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ]
     }
   ]
 }

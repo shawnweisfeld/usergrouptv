@@ -10,37 +10,89 @@
       "title": "Introduction to Agile Data Warehouse Design",
       "slug": "introduction-to-agile-data-warehouse-design",
       "thumbnail": "https://i.vimeocdn.com/video/592958259_295x166.jpg",
-      "date": "2016-09-22T13:26:25"
+      "date": "2016-09-22T13:26:25",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     },
     {
       "title": "TARDIS: Time And Relative Dimensions in SQL!",
       "slug": "tardis-time-and-relative-dimensions-in-sql",
       "thumbnail": "https://i.vimeocdn.com/video/589679291_295x166.jpg",
-      "date": "2016-08-27T15:50:07"
+      "date": "2016-08-27T15:50:07",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "Design a data warehouse dimension the Agile way!",
       "slug": "design-a-data-warehouse-dimension-the-agile-way",
       "thumbnail": "https://i.vimeocdn.com/video/587194196_295x166.jpg",
-      "date": "2016-08-13T15:08:52"
+      "date": "2016-08-13T15:08:52",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "Things i wish I knew sooner about data loading.",
       "slug": "things-i-wish-i-knew-sooner-about-data-loading",
       "thumbnail": "https://i.vimeocdn.com/video/533908486_295x166.jpg",
-      "date": "2015-08-29T14:20:38"
+      "date": "2015-08-29T14:20:38",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "Agile Data Warehouse Design",
       "slug": "agile-data-warehouse-design",
       "thumbnail": "https://i.vimeocdn.com/video/483489817_295x166.jpg",
-      "date": "2013-08-24T22:16:50"
+      "date": "2013-08-24T22:16:50",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "Tim Costello with Interworks: Tableau, Delivering Self-Serve BI",
       "slug": "tim-costello-with-interworks-tableau-delivering-self-serve-bi",
       "thumbnail": "https://i.vimeocdn.com/video/483489271_295x166.jpg",
-      "date": "2013-08-24T22:08:09"
+      "date": "2013-08-24T22:08:09",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,13 @@
       "title": "Azure Search",
       "slug": "azure-search",
       "thumbnail": "https://i.vimeocdn.com/video/492991147_295x166.jpg",
-      "date": "2014-10-15T21:28:04"
+      "date": "2014-10-15T21:28:04",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ]
     }
   ]
 }

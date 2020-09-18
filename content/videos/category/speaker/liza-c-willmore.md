@@ -10,7 +10,13 @@
       "title": "Create the Future. Drive the Change. Lead the Way!",
       "slug": "create-the-future-drive-the-change-lead-the-way",
       "thumbnail": "https://i.vimeocdn.com/video/651116988_295x166.jpg",
-      "date": "2017-08-04T14:23:43"
+      "date": "2017-08-04T14:23:43",
+      "meetups": [
+        {
+          "name": "ACT-W",
+          "slug": "act-w"
+        }
+      ]
     }
   ]
 }

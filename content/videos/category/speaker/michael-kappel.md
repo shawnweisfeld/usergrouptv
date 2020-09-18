@@ -10,13 +10,25 @@
       "title": "HierarchyID CLR Data Type",
       "slug": "hierarchyid-clr-data-type",
       "thumbnail": "https://i.vimeocdn.com/video/507040864_295x166.jpg",
-      "date": "2011-11-02T02:07:51"
+      "date": "2011-11-02T02:07:51",
+      "meetups": [
+        {
+          "name": "Chicago IT Architects Group",
+          "slug": "citag"
+        }
+      ]
     },
     {
       "title": "Solid Software Development Principles",
       "slug": "solid-software-development-principles",
       "thumbnail": "https://i.vimeocdn.com/video/507716738_295x166.jpg",
-      "date": "2011-08-16T02:40:07"
+      "date": "2011-08-16T02:40:07",
+      "meetups": [
+        {
+          "name": "Chicago PASS",
+          "slug": "chicago-pass"
+        }
+      ]
     }
   ]
 }

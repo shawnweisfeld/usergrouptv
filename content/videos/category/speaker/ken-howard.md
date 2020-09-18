@@ -10,19 +10,37 @@
       "title": "THE AGILE BA",
       "slug": "the-agile-ba",
       "thumbnail": "https://i.vimeocdn.com/video/486704902_295x166.jpg",
-      "date": "2014-08-22T17:36:13"
+      "date": "2014-08-22T17:36:13",
+      "meetups": [
+        {
+          "name": "AgileDotNext",
+          "slug": "agiledotnext"
+        }
+      ]
     },
     {
       "title": "THE INTROVERT'S AGILE SURVIVAL GUIDE",
       "slug": "the-introverts-agile-survival-guide",
       "thumbnail": "https://i.vimeocdn.com/video/486707473_295x166.jpg",
-      "date": "2014-08-22T16:35:40"
+      "date": "2014-08-22T16:35:40",
+      "meetups": [
+        {
+          "name": "AgileDotNext",
+          "slug": "agiledotnext"
+        }
+      ]
     },
     {
       "title": "The People Side of Agile",
       "slug": "the-people-side-of-agile",
       "thumbnail": "https://i.vimeocdn.com/video/492570009_295x166.jpg",
-      "date": "2012-02-17T15:15:29"
+      "date": "2012-02-17T15:15:29",
+      "meetups": [
+        {
+          "name": "Agile .NET",
+          "slug": "agile-net"
+        }
+      ]
     }
   ]
 }

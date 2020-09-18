@@ -10,13 +10,25 @@
       "title": "Real World Lessons In Progressive Web Application Caching",
       "slug": "real-world-lessons-in-progressive-web-application-caching",
       "thumbnail": "https://i.vimeocdn.com/video/732110035_295x166.jpg",
-      "date": "2018-10-13T14:12:24"
+      "date": "2018-10-13T14:12:24",
+      "meetups": [
+        {
+          "name": "Dallas Dev Fest Weekend",
+          "slug": "dallas-dev-fest-weekend"
+        }
+      ]
     },
     {
       "title": "How HTML5 and the Cloud Will Make You a Mobile Champion",
       "slug": "how-html5-and-the-cloud-will-make-you-a-mobile-champion",
       "thumbnail": "https://i.vimeocdn.com/video/494179115_295x166.jpg",
-      "date": "2011-12-07T00:05:51"
+      "date": "2011-12-07T00:05:51",
+      "meetups": [
+        {
+          "name": "North Dallas .NET UG",
+          "slug": "north-dallas-net-ug"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,13 @@
       "title": "Increase your SSIS productivity with Biml",
       "slug": "increase-your-ssis-productivity-with-biml",
       "thumbnail": "https://i.vimeocdn.com/video/505669489_295x166.jpg",
-      "date": "2015-01-31T14:06:07"
+      "date": "2015-01-31T14:06:07",
+      "meetups": [
+        {
+          "name": "Austin SQL Saturday",
+          "slug": "austin-sql-saturday"
+        }
+      ]
     }
   ]
 }

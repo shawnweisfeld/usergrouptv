@@ -10,19 +10,41 @@
       "title": "Why Should I Care About ... Partitioned Views?",
       "slug": "why-should-i-care-about-partitioned-views",
       "thumbnail": "https://i.vimeocdn.com/video/702635348_295x166.jpg",
-      "date": "2018-05-19T22:57:56"
+      "date": "2018-05-19T22:57:56",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "Why should I care about ... the plan cache?",
       "slug": "why-should-i-care-about-the-plan-cache-2",
       "thumbnail": "https://i.vimeocdn.com/video/640582102_295x166.jpg",
-      "date": "2017-06-17T14:15:04"
+      "date": "2017-06-17T14:15:04",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        },
+        {
+          "name": "Houston SQL Saturday",
+          "slug": "houston-sql-saturday"
+        }
+      ]
     },
     {
       "title": "Why Should I Care About … The Plan Cache",
       "slug": "why-should-i-care-about-the-plan-cache",
       "thumbnail": "https://i.vimeocdn.com/video/587192028_295x166.jpg",
-      "date": "2016-08-13T15:01:07"
+      "date": "2016-08-13T15:01:07",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

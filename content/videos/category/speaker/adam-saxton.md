@@ -10,13 +10,25 @@
       "title": "How to build your personal brand",
       "slug": "how-to-build-your-personal-brand",
       "thumbnail": "https://i.vimeocdn.com/video/709492162_295x166.jpg",
-      "date": "2018-06-23T19:35:48"
+      "date": "2018-06-23T19:35:48",
+      "meetups": [
+        {
+          "name": "Houston SQL Saturday",
+          "slug": "houston-sql-saturday"
+        }
+      ]
     },
     {
       "title": "Using a gateway to leverage on-premises data in Power BI",
       "slug": "using-a-gateway-to-leverage-on-premises-data-in-power-bi",
       "thumbnail": "https://i.vimeocdn.com/video/626863733_295x166.jpg",
-      "date": "2017-03-04T22:03:00"
+      "date": "2017-03-04T22:03:00",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

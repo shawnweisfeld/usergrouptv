@@ -10,13 +10,29 @@
       "title": "SQL Server Security from the ground up",
       "slug": "sql-server-security-from-the-ground-up",
       "thumbnail": "https://i.vimeocdn.com/video/722234125_295x166.jpg",
-      "date": "2018-08-25T19:25:44"
+      "date": "2018-08-25T19:25:44",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "Application & Database Development",
       "slug": "application-database-development",
       "thumbnail": "https://i.vimeocdn.com/video/589679679_295x166.jpg",
-      "date": "2016-08-27T16:00:12"
+      "date": "2016-08-27T16:00:12",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

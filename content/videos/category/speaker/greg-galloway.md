@@ -10,13 +10,25 @@
       "title": "Automating Azure Analysis Services",
       "slug": "automating-azure-analysis-services",
       "thumbnail": "https://i.vimeocdn.com/video/702679647_295x166.jpg",
-      "date": "2018-05-19T23:08:38"
+      "date": "2018-05-19T23:08:38",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "Rent-a-Cube: Azure Analysis Services",
       "slug": "rent-a-cube-azure-analysis-services",
       "thumbnail": "https://i.vimeocdn.com/video/622682828_295x166.jpg",
-      "date": "2017-03-04T22:05:57"
+      "date": "2017-03-04T22:05:57",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

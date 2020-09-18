@@ -10,7 +10,13 @@
       "title": "Build Analytics Models with Excel Power Pivot ",
       "slug": "build-analytics-models-with-excel-power-pivot",
       "thumbnail": "https://i.vimeocdn.com/video/482636875_295x166.jpg",
-      "date": "2014-05-03T19:44:24"
+      "date": "2014-05-03T19:44:24",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

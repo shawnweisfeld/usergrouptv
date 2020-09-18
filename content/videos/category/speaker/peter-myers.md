@@ -10,7 +10,13 @@
       "title": "Azure Machine Learning: From Design to Integration",
       "slug": "azure-machine-learning-from-design-to-integration",
       "thumbnail": "https://i.vimeocdn.com/video/626872892_295x166.jpg",
-      "date": "2017-03-04T21:54:37"
+      "date": "2017-03-04T21:54:37",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

@@ -10,13 +10,25 @@
       "title": "Continuous Delivery: Tools and Tactics",
       "slug": "continuous-delivery-tools-and-tactics",
       "thumbnail": "https://i.vimeocdn.com/video/489182752_295x166.jpg",
-      "date": "2014-09-13T23:40:04"
+      "date": "2014-09-13T23:40:04",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     },
     {
       "title": "Building a DevOps Culture",
       "slug": "building-a-devops-culture",
       "thumbnail": "https://i.vimeocdn.com/video/489182188_295x166.jpg",
-      "date": "2014-09-13T23:35:58"
+      "date": "2014-09-13T23:35:58",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

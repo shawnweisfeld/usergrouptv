@@ -10,13 +10,25 @@
       "title": "Empowering Developers at all Levels",
       "slug": "empowering-developers-at-all-levels",
       "thumbnail": "https://i.vimeocdn.com/video/732232580_295x166.jpg",
-      "date": "2018-10-13T14:20:16"
+      "date": "2018-10-13T14:20:16",
+      "meetups": [
+        {
+          "name": "Dallas Dev Fest Weekend",
+          "slug": "dallas-dev-fest-weekend"
+        }
+      ]
     },
     {
       "title": "Technical Debt: The Silent Killer",
       "slug": "technical-debt-the-silent-killer",
       "thumbnail": "https://i.vimeocdn.com/video/660010364_295x166.jpg",
-      "date": "2017-10-05T21:43:58"
+      "date": "2017-10-05T21:43:58",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

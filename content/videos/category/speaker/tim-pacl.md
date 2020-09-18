@@ -10,13 +10,25 @@
       "title": "TFS Process Template Customizations",
       "slug": "tfs-process-template-customizations",
       "thumbnail": "https://i.vimeocdn.com/video/506118777_295x166.jpg",
-      "date": "2015-02-07T03:43:49"
+      "date": "2015-02-07T03:43:49",
+      "meetups": [
+        {
+          "name": "Austin TFS UG",
+          "slug": "austin-tfs-ug"
+        }
+      ]
     },
     {
       "title": "Team Foundation Server 2013 Update 2",
       "slug": "team-foundation-server-2013-update-2",
       "thumbnail": "https://i.vimeocdn.com/video/482027494_295x166.jpg",
-      "date": "2014-05-30T10:47:21"
+      "date": "2014-05-30T10:47:21",
+      "meetups": [
+        {
+          "name": "Austin TFS UG",
+          "slug": "austin-tfs-ug"
+        }
+      ]
     }
   ]
 }

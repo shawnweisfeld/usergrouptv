@@ -10,7 +10,13 @@
       "title": "Getting Started with Test Driven Development",
       "slug": "getting-started-with-test-driven-development",
       "thumbnail": "https://i.vimeocdn.com/video/483485308_295x166.jpg",
-      "date": "2013-09-28T12:44:30"
+      "date": "2013-09-28T12:44:30",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

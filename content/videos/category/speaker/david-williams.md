@@ -10,7 +10,13 @@
       "title": "SQL Server on Linux ",
       "slug": "sql-server-on-linux",
       "thumbnail": "https://i.vimeocdn.com/video/631738426_295x166.jpg",
-      "date": "2017-04-18T13:03:59"
+      "date": "2017-04-18T13:03:59",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,13 @@
       "title": "Cross-Platform Authentication",
       "slug": "cross-platform-authentication",
       "thumbnail": "https://i.vimeocdn.com/video/543955534_295x166.jpg",
-      "date": "2015-11-12T13:21:05"
+      "date": "2015-11-12T13:21:05",
+      "meetups": [
+        {
+          "name": "Dallas .NET UG",
+          "slug": "dallas-net-ug"
+        }
+      ]
     }
   ]
 }

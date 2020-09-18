@@ -10,37 +10,73 @@
       "title": "Mature Development Series -- TDD - Hands On Practice (Part 3) ",
       "slug": "mature-development-series-tdd-hands-on-practice-part-3",
       "thumbnail": "https://i.vimeocdn.com/video/490128849_295x166.jpg",
-      "date": "2012-06-05T11:24:18"
+      "date": "2012-06-05T11:24:18",
+      "meetups": [
+        {
+          "name": "Dallas XAML UG",
+          "slug": "dallas-xaml-ug"
+        }
+      ]
     },
     {
       "title": "Security for Silverlight and Click-Once Applications",
       "slug": "security-for-silverlight-and-click-once-applications",
       "thumbnail": "https://i.vimeocdn.com/video/494185351_295x166.jpg",
-      "date": "2011-11-01T14:14:49"
+      "date": "2011-11-01T14:14:49",
+      "meetups": [
+        {
+          "name": "Dallas XAML UG",
+          "slug": "dallas-xaml-ug"
+        }
+      ]
     },
     {
       "title": "Silverlight HTML Bridge with jQuery and ASP.NET MVC 3 ",
       "slug": "silverlight-html-bridge-with-jquery-and-asp-net-mvc-3",
       "thumbnail": "https://i.vimeocdn.com/video/507718286_295x166.jpg",
-      "date": "2011-10-04T04:53:54"
+      "date": "2011-10-04T04:53:54",
+      "meetups": [
+        {
+          "name": "Dallas XAML UG",
+          "slug": "dallas-xaml-ug"
+        }
+      ]
     },
     {
       "title": "XAML User Controls",
       "slug": "xaml-user-controls",
       "thumbnail": "https://i.vimeocdn.com/video/496719510_295x166.jpg",
-      "date": "2011-09-06T03:17:42"
+      "date": "2011-09-06T03:17:42",
+      "meetups": [
+        {
+          "name": "Dallas XAML UG",
+          "slug": "dallas-xaml-ug"
+        }
+      ]
     },
     {
       "title": "XAML Validation Basics",
       "slug": "xaml-validation-basics",
       "thumbnail": "https://i.vimeocdn.com/video/498430913_295x166.jpg",
-      "date": "2011-06-07T18:37:49"
+      "date": "2011-06-07T18:37:49",
+      "meetups": [
+        {
+          "name": "Dallas XAML UG",
+          "slug": "dallas-xaml-ug"
+        }
+      ]
     },
     {
       "title": "Behaviors in Blend",
       "slug": "behaviors-in-blend",
       "thumbnail": "https://i.vimeocdn.com/video/500557846_295x166.jpg",
-      "date": "2011-04-05T22:09:13"
+      "date": "2011-04-05T22:09:13",
+      "meetups": [
+        {
+          "name": "Dallas XAML UG",
+          "slug": "dallas-xaml-ug"
+        }
+      ]
     }
   ]
 }

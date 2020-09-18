@@ -10,7 +10,13 @@
       "title": "Drinking a river of IoT data with Akka.NET",
       "slug": "drinking-a-river-of-iot-data-with-akka-net",
       "thumbnail": "https://i.vimeocdn.com/video/944750558_295x166.jpg",
-      "date": "2020-08-17T15:14:10"
+      "date": "2020-08-17T15:14:10",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     }
   ]
 }

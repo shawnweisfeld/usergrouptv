@@ -10,7 +10,13 @@
       "title": "Unit Testing in .NET",
       "slug": "unit-testing-in-net",
       "thumbnail": "https://i.vimeocdn.com/video/586640250_295x166.jpg",
-      "date": "2016-08-05T14:47:30"
+      "date": "2016-08-05T14:47:30",
+      "meetups": [
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,13 @@
       "title": "Getting started with Azure Infrastructure as a Service (IaaS)",
       "slug": "getting-started-with-azure-infrastructure-as-a-service-iaas",
       "thumbnail": "https://i.vimeocdn.com/video/566449374_295x166.jpg",
-      "date": "2016-04-16T11:00:56"
+      "date": "2016-04-16T11:00:56",
+      "meetups": [
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ]
     }
   ]
 }

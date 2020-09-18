@@ -10,7 +10,13 @@
       "title": "Docker",
       "slug": "docker",
       "thumbnail": "https://i.vimeocdn.com/video/537388230_295x166.jpg",
-      "date": "2015-09-26T12:18:28"
+      "date": "2015-09-26T12:18:28",
+      "meetups": [
+        {
+          "name": "MeasureUp",
+          "slug": "measure-up"
+        }
+      ]
     }
   ]
 }

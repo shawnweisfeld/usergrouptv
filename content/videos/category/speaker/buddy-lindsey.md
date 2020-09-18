@@ -10,7 +10,17 @@
       "title": "What and Why of the Technology Changing the World: Node.js",
       "slug": "what-and-why-of-the-technology-changing-the-world-node-js",
       "thumbnail": "https://i.vimeocdn.com/video/485963724_295x166.jpg",
-      "date": "2012-10-12T15:44:00"
+      "date": "2012-10-12T15:44:00",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     }
   ]
 }

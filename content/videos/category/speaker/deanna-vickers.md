@@ -10,7 +10,13 @@
       "title": "A Remote Possibility",
       "slug": "a-remote-possibility",
       "thumbnail": "https://i.vimeocdn.com/video/660007787_295x166.jpg",
-      "date": "2017-10-06T22:10:26"
+      "date": "2017-10-06T22:10:26",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

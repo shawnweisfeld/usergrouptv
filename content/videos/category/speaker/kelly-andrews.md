@@ -10,7 +10,13 @@
       "title": "Develop/Deploy Node Apps with Docker",
       "slug": "developdeploy-node-apps-with-docker",
       "thumbnail": "https://i.vimeocdn.com/video/650203200_295x166.jpg",
-      "date": "2017-07-20T14:16:36"
+      "date": "2017-07-20T14:16:36",
+      "meetups": [
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     }
   ]
 }

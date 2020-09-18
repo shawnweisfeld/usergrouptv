@@ -10,7 +10,17 @@
       "title": "HTML5: Code for all the platforms!",
       "slug": "html5-code-for-all-the-platforms",
       "thumbnail": "https://i.vimeocdn.com/video/507718513_295x166.jpg",
-      "date": "2011-10-07T04:57:17"
+      "date": "2011-10-07T04:57:17",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     }
   ]
 }

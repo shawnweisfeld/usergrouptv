@@ -10,7 +10,13 @@
       "title": "Public Cloud, Private Cloud, Hybrid Cloud, What’s Really The Truth?",
       "slug": "public-cloud-private-cloud-hybrid-cloud-whats-really-the-truth",
       "thumbnail": "https://i.vimeocdn.com/video/495920372_295x166.jpg",
-      "date": "2011-08-13T20:14:51"
+      "date": "2011-08-13T20:14:51",
+      "meetups": [
+        {
+          "name": "Dallas TechFest",
+          "slug": "dallas-techfest"
+        }
+      ]
     }
   ]
 }

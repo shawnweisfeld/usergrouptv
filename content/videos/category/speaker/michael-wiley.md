@@ -10,7 +10,13 @@
       "title": "What's new in Application Lifecycle Management 2013",
       "slug": "whats-new-in-application-lifecycle-management-2013",
       "thumbnail": "https://i.vimeocdn.com/video/487541588_295x166.jpg",
-      "date": "2013-03-01T20:39:55"
+      "date": "2013-03-01T20:39:55",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

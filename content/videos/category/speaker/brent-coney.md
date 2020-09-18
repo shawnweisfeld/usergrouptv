@@ -10,7 +10,13 @@
       "title": "Modern UIs with Knockoutjs and Stateful CSS ",
       "slug": "modern-uis-with-knockoutjs-and-stateful-css",
       "thumbnail": "https://i.vimeocdn.com/video/540281922_295x166.jpg",
-      "date": "2015-10-16T02:08:48"
+      "date": "2015-10-16T02:08:48",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

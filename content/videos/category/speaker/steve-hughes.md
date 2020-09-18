@@ -10,7 +10,13 @@
       "title": "Cosmos DB for the Data Professional",
       "slug": "cosmos-db-for-the-data-professional",
       "thumbnail": "https://i.vimeocdn.com/video/709501208_295x166.jpg",
-      "date": "2018-06-23T20:01:12"
+      "date": "2018-06-23T20:01:12",
+      "meetups": [
+        {
+          "name": "Houston SQL Saturday",
+          "slug": "houston-sql-saturday"
+        }
+      ]
     }
   ]
 }

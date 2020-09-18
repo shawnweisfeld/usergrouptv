@@ -10,13 +10,25 @@
       "title": "Are We There Yet? How to Know You Have Achieved Agility",
       "slug": "are-we-there-yet-how-to-know-you-have-achieved-agility",
       "thumbnail": "https://i.vimeocdn.com/video/820029598_295x166.jpg",
-      "date": "2019-10-04T16:31:49"
+      "date": "2019-10-04T16:31:49",
+      "meetups": [
+        {
+          "name": "Austin Agile",
+          "slug": "austin-agile"
+        }
+      ]
     },
     {
       "title": "Next Level Agile",
       "slug": "next-level-agile",
       "thumbnail": "https://i.vimeocdn.com/video/703355047_295x166.jpg",
-      "date": "2018-05-24T16:53:00"
+      "date": "2018-05-24T16:53:00",
+      "meetups": [
+        {
+          "name": "Austin Agile",
+          "slug": "austin-agile"
+        }
+      ]
     }
   ]
 }

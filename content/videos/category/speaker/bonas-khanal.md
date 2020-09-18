@@ -10,7 +10,13 @@
       "title": "Knockout.js",
       "slug": "knockout-js",
       "thumbnail": "https://i.vimeocdn.com/video/496719690_295x166.jpg",
-      "date": "2012-03-22T12:00:36"
+      "date": "2012-03-22T12:00:36",
+      "meetups": [
+        {
+          "name": "VNext Dallas",
+          "slug": "vnext-dallas"
+        }
+      ]
     }
   ]
 }

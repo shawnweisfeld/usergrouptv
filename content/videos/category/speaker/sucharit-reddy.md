@@ -10,7 +10,13 @@
       "title": "An Introduction to Blockchain on Azure",
       "slug": "an-introduction-to-blockchain-on-azure",
       "thumbnail": "https://i.vimeocdn.com/video/696169887_295x166.jpg",
-      "date": "2018-04-21T13:16:02"
+      "date": "2018-04-21T13:16:02",
+      "meetups": [
+        {
+          "name": "Austin Global Azure Bootcamp",
+          "slug": "austin-global-azure-bootcamp"
+        }
+      ]
     }
   ]
 }

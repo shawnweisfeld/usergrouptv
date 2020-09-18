@@ -10,7 +10,13 @@
       "title": "Quick Tips for Elegant Business Apps",
       "slug": "quick-tips-for-elegant-business-apps",
       "thumbnail": "https://i.vimeocdn.com/video/831974276_295x166.jpg",
-      "date": "2019-11-13T17:25:35"
+      "date": "2019-11-13T17:25:35",
+      "meetups": [
+        {
+          "name": "Austin Office 365 and SharePoint User Group",
+          "slug": "austin-office-365-and-sharepoint-user-group"
+        }
+      ]
     }
   ]
 }

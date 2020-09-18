@@ -10,55 +10,125 @@
       "title": "A metadata approach to fixed width files",
       "slug": "a-metadata-approach-to-fixed-width-files",
       "thumbnail": "https://i.vimeocdn.com/video/854625067_295x166.jpg",
-      "date": "2020-02-08T16:19:15"
+      "date": "2020-02-08T16:19:15",
+      "meetups": [
+        {
+          "name": "Austin SQL Saturday",
+          "slug": "austin-sql-saturday"
+        },
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     },
     {
       "title": "Querying Semistructured Data in Azure Data Lake with USQL",
       "slug": "querying-semistructured-data-in-azure-data-lake-with-usql-4",
       "thumbnail": "https://i.vimeocdn.com/video/798800906_295x166.jpg",
-      "date": "2019-07-13T14:04:25"
+      "date": "2019-07-13T14:04:25",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        },
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "Querying Semistructured Data in Azure Data Lake with USQL",
       "slug": "querying-semistructured-data-in-azure-data-lake-with-usql-3",
       "thumbnail": "https://i.vimeocdn.com/video/722234307_295x166.jpg",
-      "date": "2018-08-25T19:27:28"
+      "date": "2018-08-25T19:27:28",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "Querying Semistructured Data in Azure Data Lake with USQL",
       "slug": "querying-semistructured-data-in-azure-data-lake-with-usql-2",
       "thumbnail": "https://i.vimeocdn.com/video/709497842_295x166.jpg",
-      "date": "2018-06-23T19:53:35"
+      "date": "2018-06-23T19:53:35",
+      "meetups": [
+        {
+          "name": "Houston SQL Saturday",
+          "slug": "houston-sql-saturday"
+        }
+      ]
     },
     {
       "title": "Querying Semistructured Data in Azure Data Lake with USQL",
       "slug": "querying-semistructured-data-in-azure-data-lake-with-usql",
       "thumbnail": "https://i.vimeocdn.com/video/622681958_295x166.jpg",
-      "date": "2017-03-04T22:11:09"
+      "date": "2017-03-04T22:11:09",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "SSIS project deployments with multiple developers",
       "slug": "ssis-project-deployments-with-multiple-developers",
       "thumbnail": "https://i.vimeocdn.com/video/482636574_295x166.jpg",
-      "date": "2014-05-03T20:02:50"
+      "date": "2014-05-03T20:02:50",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "Introduction to BIML and BIMLScript",
       "slug": "introduction-to-biml-and-bimlscript",
       "thumbnail": "https://i.vimeocdn.com/video/483488824_295x166.jpg",
-      "date": "2013-08-24T21:36:40"
+      "date": "2013-08-24T21:36:40",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "Introduction to the XML Source",
       "slug": "introduction-to-the-xml-source",
       "thumbnail": "https://i.vimeocdn.com/video/483491352_295x166.jpg",
-      "date": "2013-08-24T11:39:21"
+      "date": "2013-08-24T11:39:21",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "Stored procedure tracing using the xml datatype",
       "slug": "stored-procedure-tracing-using-the-xml-datatype",
       "thumbnail": "https://i.vimeocdn.com/video/500556524_295x166.jpg",
-      "date": "2011-04-02T21:57:55"
+      "date": "2011-04-02T21:57:55",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

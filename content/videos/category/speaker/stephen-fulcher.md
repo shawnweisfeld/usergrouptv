@@ -10,7 +10,13 @@
       "title": "Cloud Federated Security In Action",
       "slug": "cloud-federated-security-in-action",
       "thumbnail": "https://i.vimeocdn.com/video/487540064_295x166.jpg",
-      "date": "2012-09-08T19:06:37"
+      "date": "2012-09-08T19:06:37",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

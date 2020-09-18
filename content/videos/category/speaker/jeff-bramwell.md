@@ -10,7 +10,17 @@
       "title": "Visual Studio 2012 - What's In It for Me?",
       "slug": "visual-studio-2012-whats-in-it-for-me",
       "thumbnail": "https://i.vimeocdn.com/video/485394817_295x166.jpg",
-      "date": "2012-10-12T15:51:11"
+      "date": "2012-10-12T15:51:11",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     }
   ]
 }

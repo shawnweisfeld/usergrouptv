@@ -10,7 +10,13 @@
       "title": "Azure-Backed Applications on Windows Phone Mango",
       "slug": "azure-backed-applications-on-windows-phone-mango",
       "thumbnail": "https://i.vimeocdn.com/video/498385424_295x166.jpg",
-      "date": "2011-08-02T19:48:24"
+      "date": "2011-08-02T19:48:24",
+      "meetups": [
+        {
+          "name": "Dallas XAML UG",
+          "slug": "dallas-xaml-ug"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,13 @@
       "title": "Let the right one in: Securing files on AWS S3",
       "slug": "let-the-right-one-in-securing-files-on-aws-s3",
       "thumbnail": "https://i.vimeocdn.com/video/699652292_295x166.jpg",
-      "date": "2018-05-05T15:57:19"
+      "date": "2018-05-05T15:57:19",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

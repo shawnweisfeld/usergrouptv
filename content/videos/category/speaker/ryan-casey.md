@@ -10,13 +10,25 @@
       "title": "Graphical data modeling using enterprise modeling tools",
       "slug": "graphical-data-modeling-using-enterprise-modeling-tools",
       "thumbnail": "https://i.vimeocdn.com/video/684451858_295x166.jpg",
-      "date": "2018-02-20T19:18:13"
+      "date": "2018-02-20T19:18:13",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     },
     {
       "title": "Create a Data Loading Strategy",
       "slug": "create-a-data-loading-strategy",
       "thumbnail": "https://i.vimeocdn.com/video/626872823_295x166.jpg",
-      "date": "2017-03-04T21:53:45"
+      "date": "2017-03-04T21:53:45",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

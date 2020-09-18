@@ -10,7 +10,13 @@
       "title": "Don't make your customers be your tester, use Xamarin Test Cloud instead",
       "slug": "dont-make-your-customers-be-your-tester-use-xamarin-test-cloud-instead",
       "thumbnail": "https://i.vimeocdn.com/video/586640231_295x166.jpg",
-      "date": "2016-08-05T14:45:23"
+      "date": "2016-08-05T14:45:23",
+      "meetups": [
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     }
   ]
 }

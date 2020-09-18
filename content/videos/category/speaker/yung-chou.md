@@ -10,7 +10,13 @@
       "title": "Microsoft Azure Fundamentals: Compute, Network, Storage, Identity and Automation",
       "slug": "microsoft-azure-fundamentals-compute-network-storage-identity-and-automation",
       "thumbnail": "https://i.vimeocdn.com/video/594173211_295x166.jpg",
-      "date": "2016-09-24T20:00:29"
+      "date": "2016-09-24T20:00:29",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

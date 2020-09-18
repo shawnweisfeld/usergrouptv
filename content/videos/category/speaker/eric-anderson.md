@@ -10,7 +10,13 @@
       "title": "Automated Browser Testing From The Trenches ",
       "slug": "automated-browser-testing-from-the-trenches",
       "thumbnail": "https://i.vimeocdn.com/video/581848094_295x166.jpg",
-      "date": "2016-07-11T11:23:34"
+      "date": "2016-07-11T11:23:34",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     }
   ]
 }

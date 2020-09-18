@@ -10,7 +10,13 @@
       "title": "Attacking Things Incrementally",
       "slug": "attacking-things-incrementally",
       "thumbnail": "https://i.vimeocdn.com/video/820031540_295x166.jpg",
-      "date": "2019-10-04T16:48:04"
+      "date": "2019-10-04T16:48:04",
+      "meetups": [
+        {
+          "name": "Austin Agile",
+          "slug": "austin-agile"
+        }
+      ]
     }
   ]
 }

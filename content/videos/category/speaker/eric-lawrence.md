@@ -10,7 +10,13 @@
       "title": "Fiddler",
       "slug": "fiddler",
       "thumbnail": "https://i.vimeocdn.com/video/482639988_295x166.jpg",
-      "date": "2014-03-10T18:57:24"
+      "date": "2014-03-10T18:57:24",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     }
   ]
 }

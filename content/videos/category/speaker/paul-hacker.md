@@ -10,13 +10,25 @@
       "title": "Release Management with Team Services",
       "slug": "release-management-with-team-services",
       "thumbnail": "https://i.vimeocdn.com/video/586639846_295x166.jpg",
-      "date": "2016-08-05T14:43:07"
+      "date": "2016-08-05T14:43:07",
+      "meetups": [
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     },
     {
       "title": "What's New for ALM in Visual Studio 2013 and Team Foundation Server 2013",
       "slug": "whats-new-for-alm-in-visual-studio-2013-and-team-foundation-server-2013",
       "thumbnail": "https://i.vimeocdn.com/video/490859682_295x166.jpg",
-      "date": "2014-09-26T19:10:12"
+      "date": "2014-09-26T19:10:12",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

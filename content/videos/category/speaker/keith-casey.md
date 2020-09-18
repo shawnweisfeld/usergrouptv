@@ -10,7 +10,13 @@
       "title": "How to Build an Effective API Security Strategy",
       "slug": "how-to-build-an-effective-api-security-strategy",
       "thumbnail": "https://i.vimeocdn.com/video/849445950_295x166.jpg",
-      "date": "2020-01-13T16:20:57"
+      "date": "2020-01-13T16:20:57",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     }
   ]
 }

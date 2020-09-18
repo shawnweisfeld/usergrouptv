@@ -10,7 +10,17 @@
       "title": "Database Design from User Requirements",
       "slug": "database-design-from-user-requirements",
       "thumbnail": "https://i.vimeocdn.com/video/484299508_295x166.jpg",
-      "date": "2013-08-24T11:28:30"
+      "date": "2013-08-24T11:28:30",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

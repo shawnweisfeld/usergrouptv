@@ -10,7 +10,13 @@
       "title": "Introduction to Azure and cloud",
       "slug": "introduction-to-azure-and-cloud",
       "thumbnail": "https://i.vimeocdn.com/video/566418431_295x166.jpg",
-      "date": "2016-04-16T11:00:27"
+      "date": "2016-04-16T11:00:27",
+      "meetups": [
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ]
     }
   ]
 }

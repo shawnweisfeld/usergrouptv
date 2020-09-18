@@ -10,7 +10,13 @@
       "title": "Introducing Domain-Driven Design",
       "slug": "introducing-domain-driven-design",
       "thumbnail": "https://i.vimeocdn.com/video/927684320_295x166.jpg",
-      "date": "2020-07-07T13:07:52"
+      "date": "2020-07-07T13:07:52",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ]
     }
   ]
 }

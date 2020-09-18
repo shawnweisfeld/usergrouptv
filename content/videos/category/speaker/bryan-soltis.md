@@ -10,19 +10,37 @@
       "title": "It's 2018. Why aren't you using Azure Search?",
       "slug": "its-2018-why-arent-you-using-azure-search",
       "thumbnail": "https://i.vimeocdn.com/video/739778084_295x166.jpg",
-      "date": "2018-11-14T16:55:09"
+      "date": "2018-11-14T16:55:09",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ]
     },
     {
       "title": "Microservice-Powere­d Applications - It worked for Voltron, it can work for you!",
       "slug": "microservice-powere%c2%add-applications-it-worked-for-voltron-it-can-work-for-you",
       "thumbnail": "https://i.vimeocdn.com/video/660006631_295x166.jpg",
-      "date": "2017-10-06T22:09:19"
+      "date": "2017-10-06T22:09:19",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     },
     {
       "title": "Building Your Evil(?) Empire with Azure Functions",
       "slug": "building-your-evil-empire-with-azure-functions",
       "thumbnail": "https://i.vimeocdn.com/video/660020591_295x166.jpg",
-      "date": "2017-10-05T21:55:35"
+      "date": "2017-10-05T21:55:35",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

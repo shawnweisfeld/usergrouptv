@@ -10,7 +10,17 @@
       "title": "Make Your Company Conversational using Azure Cognitive Services",
       "slug": "make-your-company-conversational-using-azure-cognitive-services",
       "thumbnail": "https://i.vimeocdn.com/video/854627684_295x166.jpg",
-      "date": "2020-02-08T16:08:46"
+      "date": "2020-02-08T16:08:46",
+      "meetups": [
+        {
+          "name": "Austin SQL Saturday",
+          "slug": "austin-sql-saturday"
+        },
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     }
   ]
 }

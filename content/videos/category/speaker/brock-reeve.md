@@ -10,13 +10,25 @@
       "title": "DSL using Antlr and C# ",
       "slug": "dsl-using-antlr-and-c",
       "thumbnail": "https://i.vimeocdn.com/video/551268339_295x166.jpg",
-      "date": "2016-01-11T12:09:18"
+      "date": "2016-01-11T12:09:18",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     },
     {
       "title": "How we solved our batch SQL processing problems with Hadoop",
       "slug": "how-we-solved-our-batch-sql-processing-problems-with-hadoop",
       "thumbnail": "https://i.vimeocdn.com/video/482639317_295x166.jpg",
-      "date": "2013-11-11T13:14:49"
+      "date": "2013-11-11T13:14:49",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     }
   ]
 }

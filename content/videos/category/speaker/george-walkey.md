@@ -10,7 +10,17 @@
       "title": "Scripting out SQL Server for Documentation and Disaster Recovery",
       "slug": "scripting-out-sql-server-for-documentation-and-disaster-recovery",
       "thumbnail": "https://i.vimeocdn.com/video/533910234_295x166.jpg",
-      "date": "2015-08-29T14:23:15"
+      "date": "2015-08-29T14:23:15",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

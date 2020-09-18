@@ -10,13 +10,25 @@
       "title": "QA/DEVELOPER MIND MELD",
       "slug": "qadeveloper-mind-meld",
       "thumbnail": "https://i.vimeocdn.com/video/486704489_295x166.jpg",
-      "date": "2014-08-22T17:34:02"
+      "date": "2014-08-22T17:34:02",
+      "meetups": [
+        {
+          "name": "AgileDotNext",
+          "slug": "agiledotnext"
+        }
+      ]
     },
     {
       "title": "Performance & Load Testing",
       "slug": "performance-load-testing",
       "thumbnail": "https://i.vimeocdn.com/video/492570028_295x166.jpg",
-      "date": "2012-02-17T15:12:29"
+      "date": "2012-02-17T15:12:29",
+      "meetups": [
+        {
+          "name": "Agile .NET",
+          "slug": "agile-net"
+        }
+      ]
     }
   ]
 }

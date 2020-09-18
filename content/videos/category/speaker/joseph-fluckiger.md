@@ -10,7 +10,13 @@
       "title": "Using MongoDB with .NET ",
       "slug": "using-mongodb-with-net",
       "thumbnail": "https://i.vimeocdn.com/video/639611979_295x166.jpg",
-      "date": "2017-06-12T13:57:52"
+      "date": "2017-06-12T13:57:52",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     }
   ]
 }

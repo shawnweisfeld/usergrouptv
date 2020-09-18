@@ -10,13 +10,25 @@
       "title": "Intro to Office 365 Admin Center",
       "slug": "intro-to-office-365-admin-center",
       "thumbnail": "https://i.vimeocdn.com/video/593964486_295x166.jpg",
-      "date": "2016-09-24T19:55:36"
+      "date": "2016-09-24T19:55:36",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     },
     {
       "title": "Intro to InfoPath",
       "slug": "intro-to-infopath",
       "thumbnail": "https://i.vimeocdn.com/video/593963324_295x166.jpg",
-      "date": "2016-09-24T19:53:26"
+      "date": "2016-09-24T19:53:26",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

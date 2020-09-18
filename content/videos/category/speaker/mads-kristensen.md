@@ -10,7 +10,13 @@
       "title": "Beyond Visual Studio 2012: What’s new for Web Developers",
       "slug": "beyond-visual-studio-2012-whats-new-for-web-developers",
       "thumbnail": "https://i.vimeocdn.com/video/485084627_295x166.jpg",
-      "date": "2013-03-14T20:53:02"
+      "date": "2013-03-14T20:53:02",
+      "meetups": [
+        {
+          "name": "North Dallas .NET UG",
+          "slug": "north-dallas-net-ug"
+        }
+      ]
     }
   ]
 }

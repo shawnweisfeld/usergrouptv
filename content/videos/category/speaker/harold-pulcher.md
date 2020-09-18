@@ -10,37 +10,73 @@
       "title": "Build Embedded and IoT Solutions with Microsoft Windows IoT Core",
       "slug": "build-embedded-and-iot-solutions-with-microsoft-windows-iot-core",
       "thumbnail": "https://i.vimeocdn.com/video/796753701_295x166.jpg",
-      "date": "2019-06-24T16:47:24"
+      "date": "2019-06-24T16:47:24",
+      "meetups": [
+        {
+          "name": "MS Insider Dev Tour",
+          "slug": "ms-insider-dev-tour"
+        }
+      ]
     },
     {
       "title": "How to talk to millions of IoT devices without pulling out your hair",
       "slug": "how-to-talk-to-millions-of-iot-devices-without-pulling-out-your-hair-2",
       "thumbnail": "https://i.vimeocdn.com/video/650327330_295x166.jpg",
-      "date": "2017-07-20T14:15:07"
+      "date": "2017-07-20T14:15:07",
+      "meetups": [
+        {
+          "name": "Tulsa School of Dev",
+          "slug": "tulsa-school-of-dev"
+        }
+      ]
     },
     {
       "title": "How to use IoT and win a trip to China(almost)!",
       "slug": "how-to-use-iot-and-win-a-trip-to-chinaalmost",
       "thumbnail": "https://i.vimeocdn.com/video/650308118_295x166.jpg",
-      "date": "2017-07-20T14:13:44"
+      "date": "2017-07-20T14:13:44",
+      "meetups": [
+        {
+          "name": "Tulsa School of Dev",
+          "slug": "tulsa-school-of-dev"
+        }
+      ]
     },
     {
       "title": "Get into IoT with Windows 10 IoT core and a raspberry pi",
       "slug": "get-into-iot-with-windows-10-iot-core-and-a-raspberry-pi",
       "thumbnail": "https://i.vimeocdn.com/video/650307802_295x166.jpg",
-      "date": "2017-07-20T14:12:19"
+      "date": "2017-07-20T14:12:19",
+      "meetups": [
+        {
+          "name": "Tulsa School of Dev",
+          "slug": "tulsa-school-of-dev"
+        }
+      ]
     },
     {
       "title": "How to talk to millions of IoT devices without pulling out your hair",
       "slug": "how-to-talk-to-millions-of-iot-devices-without-pulling-out-your-hair",
       "thumbnail": "https://i.vimeocdn.com/video/594174267_295x166.jpg",
-      "date": "2016-09-24T20:02:33"
+      "date": "2016-09-24T20:02:33",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     },
     {
       "title": "Trust me Azure event hubs are really cool!",
       "slug": "trust-me-azure-event-hubs-are-really-cool",
       "thumbnail": "https://i.vimeocdn.com/video/586638129_295x166.jpg",
-      "date": "2016-08-05T14:34:44"
+      "date": "2016-08-05T14:34:44",
+      "meetups": [
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     }
   ]
 }

@@ -10,13 +10,25 @@
       "title": "Patterns for Managing Your Career Learning Needs",
       "slug": "patterns-for-managing-your-career-learning-needs",
       "thumbnail": "https://i.vimeocdn.com/video/709496282_295x166.jpg",
-      "date": "2018-06-23T19:49:32"
+      "date": "2018-06-23T19:49:32",
+      "meetups": [
+        {
+          "name": "Houston SQL Saturday",
+          "slug": "houston-sql-saturday"
+        }
+      ]
     },
     {
       "title": "Turbocharge Your Career With a Learning Plan",
       "slug": "turbocharge-your-career-with-a-learning-plan",
       "thumbnail": "https://i.vimeocdn.com/video/505665178_295x166.jpg",
-      "date": "2015-01-31T18:52:58"
+      "date": "2015-01-31T18:52:58",
+      "meetups": [
+        {
+          "name": "Austin SQL Saturday",
+          "slug": "austin-sql-saturday"
+        }
+      ]
     }
   ]
 }

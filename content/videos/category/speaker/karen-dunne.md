@@ -10,7 +10,13 @@
       "title": "Learn a repeatable home page structure that turns browsers into buyers",
       "slug": "learn-a-repeatable-home-page-structure-that-turns-browsers-into-buyers",
       "thumbnail": "https://i.vimeocdn.com/video/818412599_295x166.jpg",
-      "date": "2019-09-28T16:17:16"
+      "date": "2019-09-28T16:17:16",
+      "meetups": [
+        {
+          "name": "Joomla Day Texas",
+          "slug": "joomla-day-texas"
+        }
+      ]
     }
   ]
 }

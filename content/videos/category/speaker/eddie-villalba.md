@@ -10,7 +10,13 @@
       "title": "Microservices , Containers, Devops and Kubernetes in Azure Cloud ",
       "slug": "microservices-containers-devops-and-kubernetes-in-azure-cloud",
       "thumbnail": "https://i.vimeocdn.com/video/696159574_295x166.jpg",
-      "date": "2018-04-21T13:08:30"
+      "date": "2018-04-21T13:08:30",
+      "meetups": [
+        {
+          "name": "Austin Global Azure Bootcamp",
+          "slug": "austin-global-azure-bootcamp"
+        }
+      ]
     }
   ]
 }

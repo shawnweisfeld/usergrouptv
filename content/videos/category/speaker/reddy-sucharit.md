@@ -10,7 +10,17 @@
       "title": "Blockchain and its relevance to You / Your Industry",
       "slug": "blockchain-and-its-relevance-to-you-your-industry",
       "thumbnail": "https://i.vimeocdn.com/video/779161291_295x166.jpg",
-      "date": "2019-04-27T13:49:44"
+      "date": "2019-04-27T13:49:44",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "Austin Global Azure Bootcamp",
+          "slug": "austin-global-azure-bootcamp"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,13 @@
       "title": "Domain-Driven Design, Distilled ",
       "slug": "domain-driven-design-distilled",
       "thumbnail": "https://i.vimeocdn.com/video/540282643_295x166.jpg",
-      "date": "2015-10-16T01:58:19"
+      "date": "2015-10-16T01:58:19",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,13 @@
       "title": "An Introduction to Hadoop ",
       "slug": "an-introduction-to-hadoop",
       "thumbnail": "https://i.vimeocdn.com/video/482636565_295x166.jpg",
-      "date": "2014-05-03T19:42:00"
+      "date": "2014-05-03T19:42:00",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

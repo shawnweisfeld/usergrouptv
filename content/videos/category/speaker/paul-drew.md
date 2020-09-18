@@ -10,7 +10,13 @@
       "title": "BoxStarter and other tools for Environments as code in Azure",
       "slug": "boxstarter-and-other-tools-for-environments-as-code-in-azure",
       "thumbnail": "https://i.vimeocdn.com/video/498382407_295x166.jpg",
-      "date": "2014-11-19T12:33:51"
+      "date": "2014-11-19T12:33:51",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ]
     }
   ]
 }

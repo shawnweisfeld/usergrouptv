@@ -10,7 +10,13 @@
       "title": "Get that Data! Custom Connectors in Power BI",
       "slug": "get-that-data-custom-connectors-in-power-bi",
       "thumbnail": "https://i.vimeocdn.com/video/699622186_295x166.jpg",
-      "date": "2018-05-05T15:39:09"
+      "date": "2018-05-05T15:39:09",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

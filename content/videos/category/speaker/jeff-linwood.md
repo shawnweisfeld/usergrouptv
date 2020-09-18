@@ -10,7 +10,13 @@
       "title": "Developing Node.js apps with Visual Studio Code ",
       "slug": "developing-node-js-apps-with-visual-studio-code",
       "thumbnail": "https://i.vimeocdn.com/video/567149928_295x166.jpg",
-      "date": "2016-04-20T23:43:58"
+      "date": "2016-04-20T23:43:58",
+      "meetups": [
+        {
+          "name": "Austin Microsoft Developers Group",
+          "slug": "austin-microsoft-app-developers"
+        }
+      ]
     }
   ]
 }

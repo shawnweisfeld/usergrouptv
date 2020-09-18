@@ -10,7 +10,13 @@
       "title": "Amazon Web Services in 60 minutes: The .NET edition",
       "slug": "amazon-web-services-in-60-minutes-the-net-edition",
       "thumbnail": "https://i.vimeocdn.com/video/486706257_295x166.jpg",
-      "date": "2012-09-18T15:11:40"
+      "date": "2012-09-18T15:11:40",
+      "meetups": [
+        {
+          "name": "Ft. Worth .NET UG",
+          "slug": "ft-worth-net-ug"
+        }
+      ]
     }
   ]
 }

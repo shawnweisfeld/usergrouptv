@@ -10,19 +10,45 @@
       "title": "Azure Event Hub & Stream Analytics with Power BI",
       "slug": "azure-event-hub-stream-analytics-with-power-bi",
       "thumbnail": "https://i.vimeocdn.com/video/944756978_295x166.jpg",
-      "date": "2020-08-18T15:15:50"
+      "date": "2020-08-18T15:15:50",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ]
     },
     {
       "title": "SQL in Azure 101 ",
       "slug": "sql-in-azure-101",
       "thumbnail": "https://i.vimeocdn.com/video/798692584_295x166.jpg",
-      "date": "2019-07-13T13:53:29"
+      "date": "2019-07-13T13:53:29",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        },
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "New features of SQL 2014",
       "slug": "new-features-of-sql-2014",
       "thumbnail": "https://i.vimeocdn.com/video/486706769_295x166.jpg",
-      "date": "2014-08-19T18:15:14"
+      "date": "2014-08-19T18:15:14",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     }
   ]
 }

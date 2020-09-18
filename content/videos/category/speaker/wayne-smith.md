@@ -10,7 +10,13 @@
       "title": "The Bot Continuum and You",
       "slug": "the-bot-continuum-and-you",
       "thumbnail": "https://i.vimeocdn.com/video/798691818_295x166.jpg",
-      "date": "2019-07-10T13:40:57"
+      "date": "2019-07-10T13:40:57",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ]
     }
   ]
 }

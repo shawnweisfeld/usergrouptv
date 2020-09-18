@@ -10,7 +10,13 @@
       "title": "Unit Testing",
       "slug": "unit-testing",
       "thumbnail": "https://i.vimeocdn.com/video/561300448_295x166.jpg",
-      "date": "2016-03-14T18:34:17"
+      "date": "2016-03-14T18:34:17",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     }
   ]
 }

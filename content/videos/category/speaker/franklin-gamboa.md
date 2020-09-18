@@ -10,7 +10,13 @@
       "title": "From the grave: Horror stories from the Microsoft SQL Server CSS archives",
       "slug": "from-the-grave-horror-stories-from-the-microsoft-sql-server-css-archives",
       "thumbnail": "https://i.vimeocdn.com/video/709500014_295x166.jpg",
-      "date": "2018-06-23T19:58:42"
+      "date": "2018-06-23T19:58:42",
+      "meetups": [
+        {
+          "name": "Houston SQL Saturday",
+          "slug": "houston-sql-saturday"
+        }
+      ]
     }
   ]
 }

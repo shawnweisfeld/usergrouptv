@@ -10,7 +10,13 @@
       "title": "Developing Diversity",
       "slug": "developing-diversity",
       "thumbnail": "https://i.vimeocdn.com/video/661085024_295x166.jpg",
-      "date": "2017-10-14T11:56:08"
+      "date": "2017-10-14T11:56:08",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

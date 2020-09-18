@@ -10,31 +10,61 @@
       "title": "Build Your Mobile App with Notifications",
       "slug": "build-your-mobile-app-with-notifications-2",
       "thumbnail": "https://i.vimeocdn.com/video/660048171_295x166.jpg",
-      "date": "2017-10-06T22:28:33"
+      "date": "2017-10-06T22:28:33",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     },
     {
       "title": "Introduction to Xamarin",
       "slug": "introduction-to-xamarin",
       "thumbnail": "https://i.vimeocdn.com/video/650402311_295x166.jpg",
-      "date": "2017-07-21T14:17:40"
+      "date": "2017-07-21T14:17:40",
+      "meetups": [
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     },
     {
       "title": "Introduction to Xamarin.Forms",
       "slug": "introduction-to-xamarin-forms",
       "thumbnail": "https://i.vimeocdn.com/video/650631630_295x166.jpg",
-      "date": "2017-07-21T14:14:35"
+      "date": "2017-07-21T14:14:35",
+      "meetups": [
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     },
     {
       "title": "Build Your Mobile App with Notifications",
       "slug": "build-your-mobile-app-with-notifications",
       "thumbnail": "https://i.vimeocdn.com/video/650631938_295x166.jpg",
-      "date": "2017-07-21T14:12:11"
+      "date": "2017-07-21T14:12:11",
+      "meetups": [
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     },
     {
       "title": "Building apps with Wearable Technology using Xamarin",
       "slug": "building-apps-with-wearable-technology-using-xamarin",
       "thumbnail": "https://i.vimeocdn.com/video/521723567_295x166.jpg",
-      "date": "2015-06-06T16:45:54"
+      "date": "2015-06-06T16:45:54",
+      "meetups": [
+        {
+          "name": "Xamarin Dev Days",
+          "slug": "xamarin-dev-days"
+        }
+      ]
     }
   ]
 }

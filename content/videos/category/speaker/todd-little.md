@@ -10,7 +10,13 @@
       "title": "7 Sins of Scrum and other Agile Anti-Patterns",
       "slug": "7-sins-of-scrum-and-other-agile-anti-patterns",
       "thumbnail": "https://i.vimeocdn.com/video/728974211_295x166.jpg",
-      "date": "2018-09-29T15:06:25"
+      "date": "2018-09-29T15:06:25",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

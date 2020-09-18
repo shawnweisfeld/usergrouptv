@@ -10,7 +10,13 @@
       "title": "STAGES AND SET DESIGN",
       "slug": "stages-and-set-design",
       "thumbnail": "https://i.vimeocdn.com/video/486705644_295x166.jpg",
-      "date": "2014-08-22T17:41:02"
+      "date": "2014-08-22T17:41:02",
+      "meetups": [
+        {
+          "name": "AgileDotNext",
+          "slug": "agiledotnext"
+        }
+      ]
     }
   ]
 }

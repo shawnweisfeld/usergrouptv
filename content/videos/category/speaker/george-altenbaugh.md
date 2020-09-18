@@ -10,7 +10,13 @@
       "title": "TFS Process Template Customizations",
       "slug": "tfs-process-template-customizations",
       "thumbnail": "https://i.vimeocdn.com/video/506118777_295x166.jpg",
-      "date": "2015-02-07T03:43:49"
+      "date": "2015-02-07T03:43:49",
+      "meetups": [
+        {
+          "name": "Austin TFS UG",
+          "slug": "austin-tfs-ug"
+        }
+      ]
     }
   ]
 }

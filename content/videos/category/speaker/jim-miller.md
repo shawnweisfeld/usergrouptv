@@ -10,7 +10,13 @@
       "title": "Populating a Data Warehouse with SSIS and Biml Patterns",
       "slug": "populating-a-data-warehouse-with-ssis-and-biml-patterns",
       "thumbnail": "https://i.vimeocdn.com/video/709492207_295x166.jpg",
-      "date": "2018-06-23T19:37:12"
+      "date": "2018-06-23T19:37:12",
+      "meetups": [
+        {
+          "name": "Houston SQL Saturday",
+          "slug": "houston-sql-saturday"
+        }
+      ]
     }
   ]
 }

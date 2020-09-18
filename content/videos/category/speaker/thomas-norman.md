@@ -10,7 +10,13 @@
       "title": "Consistent Deployments / Team Development",
       "slug": "consistent-deployments-team-development",
       "thumbnail": "https://i.vimeocdn.com/video/709499118_295x166.jpg",
-      "date": "2018-06-23T19:55:55"
+      "date": "2018-06-23T19:55:55",
+      "meetups": [
+        {
+          "name": "Houston SQL Saturday",
+          "slug": "houston-sql-saturday"
+        }
+      ]
     }
   ]
 }

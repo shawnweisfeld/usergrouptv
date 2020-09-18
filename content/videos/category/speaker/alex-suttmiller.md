@@ -10,7 +10,13 @@
       "title": "Microsoft 365: Finding your way through the Microsoft cloud",
       "slug": "microsoft-365-finding-your-way-through-the-microsoft-cloud",
       "thumbnail": "https://i.vimeocdn.com/video/894750268_295x166.jpg",
-      "date": "2020-05-13T12:41:42"
+      "date": "2020-05-13T12:41:42",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ]
     }
   ]
 }

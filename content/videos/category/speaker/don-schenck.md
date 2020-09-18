@@ -10,13 +10,25 @@
       "title": "Creating Bots with the Microsoft Bot Framework",
       "slug": "creating-bots-with-the-microsoft-bot-framework",
       "thumbnail": "https://i.vimeocdn.com/video/660639129_295x166.jpg",
-      "date": "2017-10-06T16:24:08"
+      "date": "2017-10-06T16:24:08",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     },
     {
       "title": ".NET, Linux and Microservices Architecture",
       "slug": "net-linux-and-microservices-architecture",
       "thumbnail": "https://i.vimeocdn.com/video/660003611_295x166.jpg",
-      "date": "2017-10-05T21:59:16"
+      "date": "2017-10-05T21:59:16",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

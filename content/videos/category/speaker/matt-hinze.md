@@ -10,7 +10,13 @@
       "title": "ASP.NET MVC 3 In Action",
       "slug": "asp-net-mvc-3-in-action",
       "thumbnail": "https://i.vimeocdn.com/video/495921049_295x166.jpg",
-      "date": "2011-08-13T02:27:39"
+      "date": "2011-08-13T02:27:39",
+      "meetups": [
+        {
+          "name": "Dallas TechFest",
+          "slug": "dallas-techfest"
+        }
+      ]
     }
   ]
 }

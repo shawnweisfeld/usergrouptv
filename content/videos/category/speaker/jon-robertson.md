@@ -10,7 +10,13 @@
       "title": "Cross platform mobile development with Delphi",
       "slug": "cross-platform-mobile-development-with-delphi",
       "thumbnail": "https://i.vimeocdn.com/video/490861399_295x166.jpg",
-      "date": "2014-09-26T18:51:48"
+      "date": "2014-09-26T18:51:48",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

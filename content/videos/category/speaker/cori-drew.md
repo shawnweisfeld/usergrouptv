@@ -10,7 +10,13 @@
       "title": "git AND TFS > git OR TFS",
       "slug": "git-and-tfs-git-or-tfs",
       "thumbnail": "https://i.vimeocdn.com/video/481993967_295x166.jpg",
-      "date": "2014-06-14T14:54:40"
+      "date": "2014-06-14T14:54:40",
+      "meetups": [
+        {
+          "name": "Cowtown Code Camp",
+          "slug": "cowtown-code-camp"
+        }
+      ]
     }
   ]
 }

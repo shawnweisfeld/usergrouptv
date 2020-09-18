@@ -10,7 +10,13 @@
       "title": "Sugar & Spice and everything nice about ES6 ",
       "slug": "sugar-spice-and-everything-nice-about-es6",
       "thumbnail": "https://i.vimeocdn.com/video/540280587_295x166.jpg",
-      "date": "2015-10-16T02:02:53"
+      "date": "2015-10-16T02:02:53",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

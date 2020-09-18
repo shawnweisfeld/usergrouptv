@@ -10,13 +10,25 @@
       "title": "Building Web Applications With Laravel",
       "slug": "building-web-applications-with-laravel",
       "thumbnail": "https://i.vimeocdn.com/video/660631693_295x166.jpg",
-      "date": "2017-10-06T16:05:41"
+      "date": "2017-10-06T16:05:41",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     },
     {
       "title": "Intro To Angular.js",
       "slug": "intro-to-angular-js",
       "thumbnail": "https://i.vimeocdn.com/video/490867670_295x166.jpg",
-      "date": "2014-09-26T18:36:34"
+      "date": "2014-09-26T18:36:34",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

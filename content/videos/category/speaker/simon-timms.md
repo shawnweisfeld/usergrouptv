@@ -10,13 +10,25 @@
       "title": "Expanding your application with fun-sized functions ",
       "slug": "expanding-your-application-with-fun-sized-functions",
       "thumbnail": "https://i.vimeocdn.com/video/662472028_295x166.jpg",
-      "date": "2017-10-18T11:35:56"
+      "date": "2017-10-18T11:35:56",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ]
     },
     {
       "title": "From the trenches - An Open Panel and Q&A discussion all about moving to Azure ",
       "slug": "from-the-trenches-an-open-panel-and-qa-discussion-all-about-moving-to-azure",
       "thumbnail": "https://i.vimeocdn.com/video/598780341_295x166.jpg",
-      "date": "2016-10-20T11:24:52"
+      "date": "2016-10-20T11:24:52",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ]
     }
   ]
 }

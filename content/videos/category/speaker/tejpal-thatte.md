@@ -10,7 +10,13 @@
       "title": "QuickStart on embedding PowerBI reports in your line of business applications",
       "slug": "quickstart-on-embedding-powerbi-reports-in-your-line-of-business-applications",
       "thumbnail": "https://i.vimeocdn.com/video/702650782_295x166.jpg",
-      "date": "2018-05-19T22:53:23"
+      "date": "2018-05-19T22:53:23",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

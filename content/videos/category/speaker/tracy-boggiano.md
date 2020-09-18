@@ -10,13 +10,29 @@
       "title": "More Common Than You Think: Mental Illness in Tech",
       "slug": "more-common-than-you-think-mental-illness-in-tech",
       "thumbnail": "https://i.vimeocdn.com/video/854625923_295x166.jpg",
-      "date": "2020-02-08T16:12:39"
+      "date": "2020-02-08T16:12:39",
+      "meetups": [
+        {
+          "name": "Austin SQL Saturday",
+          "slug": "austin-sql-saturday"
+        },
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     },
     {
       "title": "Monitoring Availability Groups",
       "slug": "monitoring-availability-groups",
       "thumbnail": "https://i.vimeocdn.com/video/709494199_295x166.jpg",
-      "date": "2018-06-23T19:42:34"
+      "date": "2018-06-23T19:42:34",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

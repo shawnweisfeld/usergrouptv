@@ -10,7 +10,13 @@
       "title": "From problem to Power BI: A journey in data visualization",
       "slug": "from-problem-to-power-bi-a-journey-in-data-visualization",
       "thumbnail": "https://i.vimeocdn.com/video/626869251_295x166.jpg",
-      "date": "2017-03-04T22:07:29"
+      "date": "2017-03-04T22:07:29",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

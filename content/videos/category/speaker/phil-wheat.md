@@ -10,25 +10,49 @@
       "title": "The Technical Founder",
       "slug": "the-technical-founder",
       "thumbnail": "https://i.vimeocdn.com/video/593959626_295x166.jpg",
-      "date": "2016-09-24T19:45:32"
+      "date": "2016-09-24T19:45:32",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     },
     {
       "title": "Bits to Atoms - The World of 3D Printers",
       "slug": "bits-to-atoms-the-world-of-3d-printers",
       "thumbnail": "https://i.vimeocdn.com/video/483486972_295x166.jpg",
-      "date": "2013-09-28T12:56:59"
+      "date": "2013-09-28T12:56:59",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     },
     {
       "title": "Robotics and .Net",
       "slug": "robotics-and-net",
       "thumbnail": "https://i.vimeocdn.com/video/483486151_295x166.jpg",
-      "date": "2013-09-28T12:52:20"
+      "date": "2013-09-28T12:52:20",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     },
     {
       "title": "The Internet of Things",
       "slug": "the-internet-of-things",
       "thumbnail": "https://i.vimeocdn.com/video/487540332_295x166.jpg",
-      "date": "2012-09-08T14:46:15"
+      "date": "2012-09-08T14:46:15",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

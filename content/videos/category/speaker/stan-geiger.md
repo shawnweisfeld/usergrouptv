@@ -10,7 +10,13 @@
       "title": "What is the SSIS Catalog? and Why do I care?",
       "slug": "what-is-the-ssis-catalog-and-why-do-i-care",
       "thumbnail": "https://i.vimeocdn.com/video/548363727_295x166.jpg",
-      "date": "2015-12-16T18:28:33"
+      "date": "2015-12-16T18:28:33",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     }
   ]
 }

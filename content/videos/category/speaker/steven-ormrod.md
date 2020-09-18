@@ -10,7 +10,13 @@
       "title": "SQL Server Window Functions",
       "slug": "sql-server-window-functions",
       "thumbnail": "https://i.vimeocdn.com/video/570948261_295x166.jpg",
-      "date": "2016-05-14T12:32:55"
+      "date": "2016-05-14T12:32:55",
+      "meetups": [
+        {
+          "name": "Houston SQL Saturday",
+          "slug": "houston-sql-saturday"
+        }
+      ]
     }
   ]
 }

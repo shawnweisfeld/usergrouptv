@@ -10,19 +10,41 @@
       "title": "Hard-Core Integration Intoxication",
       "slug": "hard-core-integration-intoxication",
       "thumbnail": "https://i.vimeocdn.com/video/650632734_295x166.jpg",
-      "date": "2017-07-21T14:08:22"
+      "date": "2017-07-21T14:08:22",
+      "meetups": [
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     },
     {
       "title": "Azure Machine Learning",
       "slug": "azure-machine-learning",
       "thumbnail": "https://i.vimeocdn.com/video/511724609_295x166.jpg",
-      "date": "2015-03-18T19:08:34"
+      "date": "2015-03-18T19:08:34",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ]
     },
     {
       "title": "Feel the POWER of FAITH Driven Development",
       "slug": "feel-the-power-of-faith-driven-development",
       "thumbnail": "https://i.vimeocdn.com/video/499118829_295x166.jpg",
-      "date": "2011-05-27T01:16:47"
+      "date": "2011-05-27T01:16:47",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "Tulsa School of Dev",
+          "slug": "tulsa-school-of-dev"
+        }
+      ]
     }
   ]
 }

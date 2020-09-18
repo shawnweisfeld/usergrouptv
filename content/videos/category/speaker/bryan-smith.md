@@ -10,7 +10,13 @@
       "title": "Overcoming Complex Data Cleansing Challenges with Excel Power Query",
       "slug": "overcoming-complex-data-cleansing-challenges-with-excel-power-query",
       "thumbnail": "https://i.vimeocdn.com/video/482637503_295x166.jpg",
-      "date": "2014-05-03T19:53:02"
+      "date": "2014-05-03T19:53:02",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

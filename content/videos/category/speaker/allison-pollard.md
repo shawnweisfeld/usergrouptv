@@ -10,19 +10,37 @@
       "title": "Technical Excellence Doesn't Just Happen – Igniting a Craftsmanship Culture",
       "slug": "technical-excellence-doesnt-just-happen-igniting-a-craftsmanship-culture",
       "thumbnail": "https://i.vimeocdn.com/video/593960183_295x166.jpg",
-      "date": "2016-09-24T19:46:37"
+      "date": "2016-09-24T19:46:37",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     },
     {
       "title": "Change Your Questions - Change Your World",
       "slug": "change-your-questions-change-your-world",
       "thumbnail": "https://i.vimeocdn.com/video/492565783_295x166.jpg",
-      "date": "2014-10-10T11:17:18"
+      "date": "2014-10-10T11:17:18",
+      "meetups": [
+        {
+          "name": "Dallas TechFest",
+          "slug": "dallas-techfest"
+        }
+      ]
     },
     {
       "title": "BEYOND REMOVING IMPEDIMENTS - SCRUM MASTER AS TEAM COACH",
       "slug": "beyond-removing-impediments-scrum-master-as-team-coach",
       "thumbnail": "https://i.vimeocdn.com/video/486708877_295x166.jpg",
-      "date": "2014-08-22T17:31:41"
+      "date": "2014-08-22T17:31:41",
+      "meetups": [
+        {
+          "name": "AgileDotNext",
+          "slug": "agiledotnext"
+        }
+      ]
     }
   ]
 }

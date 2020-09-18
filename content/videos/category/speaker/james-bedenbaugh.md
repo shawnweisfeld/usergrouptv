@@ -10,13 +10,25 @@
       "title": "Microservices and the Data it loves to use",
       "slug": "microservices-and-the-data-it-loves-to-use",
       "thumbnail": "https://i.vimeocdn.com/video/650633125_295x166.jpg",
-      "date": "2017-07-21T14:07:04"
+      "date": "2017-07-21T14:07:04",
+      "meetups": [
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     },
     {
       "title": "Data Sovereignty - Where is your data living and where does it want to go?",
       "slug": "data-sovereignty-where-is-your-data-living-and-where-does-it-want-to-go",
       "thumbnail": "https://i.vimeocdn.com/video/650633572_295x166.jpg",
-      "date": "2017-07-21T14:05:24"
+      "date": "2017-07-21T14:05:24",
+      "meetups": [
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     }
   ]
 }

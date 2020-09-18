@@ -10,7 +10,13 @@
       "title": "Cloud Adoption Framework",
       "slug": "cloud-adoption-framework",
       "thumbnail": "https://i.vimeocdn.com/video/928416507_295x166.jpg",
-      "date": "2020-07-21T18:08:37"
+      "date": "2020-07-21T18:08:37",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ]
     }
   ]
 }

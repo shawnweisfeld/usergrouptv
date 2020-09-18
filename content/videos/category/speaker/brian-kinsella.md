@@ -10,7 +10,13 @@
       "title": "SHAREPOINT ONLINE HUB SITES",
       "slug": "sharepoint-online-hub-sites",
       "thumbnail": "https://i.vimeocdn.com/video/694126310_295x166.jpg",
-      "date": "2018-04-11T20:58:52"
+      "date": "2018-04-11T20:58:52",
+      "meetups": [
+        {
+          "name": "Austin Office 365 and SharePoint User Group",
+          "slug": "austin-office-365-and-sharepoint-user-group"
+        }
+      ]
     }
   ]
 }

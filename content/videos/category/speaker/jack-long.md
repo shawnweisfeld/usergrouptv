@@ -10,7 +10,13 @@
       "title": "QA/DEVELOPER MIND MELD",
       "slug": "qadeveloper-mind-meld",
       "thumbnail": "https://i.vimeocdn.com/video/486704489_295x166.jpg",
-      "date": "2014-08-22T17:34:02"
+      "date": "2014-08-22T17:34:02",
+      "meetups": [
+        {
+          "name": "AgileDotNext",
+          "slug": "agiledotnext"
+        }
+      ]
     }
   ]
 }

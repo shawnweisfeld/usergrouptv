@@ -10,7 +10,13 @@
       "title": "Making Agile Work on Large, Complex Projects",
       "slug": "making-agile-work-on-large-complex-projects",
       "thumbnail": "https://i.vimeocdn.com/video/482639292_295x166.jpg",
-      "date": "2013-12-06T13:07:49"
+      "date": "2013-12-06T13:07:49",
+      "meetups": [
+        {
+          "name": "Austin TFS UG",
+          "slug": "austin-tfs-ug"
+        }
+      ]
     }
   ]
 }

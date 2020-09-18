@@ -10,7 +10,13 @@
       "title": "Growing Agile Managers",
       "slug": "growing-agile-managers",
       "thumbnail": "https://i.vimeocdn.com/video/703312800_295x166.jpg",
-      "date": "2018-05-24T16:47:13"
+      "date": "2018-05-24T16:47:13",
+      "meetups": [
+        {
+          "name": "Austin Agile",
+          "slug": "austin-agile"
+        }
+      ]
     }
   ]
 }

@@ -10,25 +10,49 @@
       "title": "Exposing an Extensibility API for your Applications",
       "slug": "exposing-an-extensibility-api-for-your-applications",
       "thumbnail": "https://i.vimeocdn.com/video/571709066_295x166.jpg",
-      "date": "2016-05-18T11:34:04"
+      "date": "2016-05-18T11:34:04",
+      "meetups": [
+        {
+          "name": "Developer Springboard",
+          "slug": "developer-springboard"
+        }
+      ]
     },
     {
       "title": "Programming The Bing API",
       "slug": "programming-the-bing-api",
       "thumbnail": "https://i.vimeocdn.com/video/507039985_295x166.jpg",
-      "date": "2011-08-13T02:00:26"
+      "date": "2011-08-13T02:00:26",
+      "meetups": [
+        {
+          "name": "Dallas TechFest",
+          "slug": "dallas-techfest"
+        }
+      ]
     },
     {
       "title": "WPF Validation: Techniques And Styles",
       "slug": "wpf-validation-techniques-and-styles",
       "thumbnail": "https://i.vimeocdn.com/video/498380451_295x166.jpg",
-      "date": "2011-08-12T20:03:04"
+      "date": "2011-08-12T20:03:04",
+      "meetups": [
+        {
+          "name": "Dallas TechFest",
+          "slug": "dallas-techfest"
+        }
+      ]
     },
     {
       "title": "WPF Programming for Windows 7",
       "slug": "wpf-programming-for-windows-7",
       "thumbnail": "https://i.vimeocdn.com/video/495920369_295x166.jpg",
-      "date": "2011-08-12T19:57:30"
+      "date": "2011-08-12T19:57:30",
+      "meetups": [
+        {
+          "name": "Dallas TechFest",
+          "slug": "dallas-techfest"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,17 @@
       "title": "Azure Databricks (ADB) and the Traditional DBA",
       "slug": "azure-databricks-adb-and-the-traditional-dba",
       "thumbnail": "https://i.vimeocdn.com/video/798963741_295x166.jpg",
-      "date": "2019-07-13T14:07:03"
+      "date": "2019-07-13T14:07:03",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        },
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

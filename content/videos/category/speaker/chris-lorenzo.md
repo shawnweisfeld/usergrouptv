@@ -10,7 +10,13 @@
       "title": "Web Components: A simpler and faster React",
       "slug": "web-components-a-simpler-and-faster-react",
       "thumbnail": "https://i.vimeocdn.com/video/660020880_295x166.jpg",
-      "date": "2017-10-05T21:53:05"
+      "date": "2017-10-05T21:53:05",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,13 @@
       "title": "Mobile & UX: Inside the Eye of the Perfect Storm",
       "slug": "mobile-ux-inside-the-eye-of-the-perfect-storm",
       "thumbnail": "https://i.vimeocdn.com/video/492571874_295x166.jpg",
-      "date": "2014-10-10T11:07:08"
+      "date": "2014-10-10T11:07:08",
+      "meetups": [
+        {
+          "name": "Dallas TechFest",
+          "slug": "dallas-techfest"
+        }
+      ]
     }
   ]
 }

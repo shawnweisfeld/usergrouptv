@@ -10,7 +10,13 @@
       "title": "Agile, Agile: Operational Execution and Excellence in an Insanely Unsettled and Dynamic Environment",
       "slug": "agile-agile-operational-execution-and-excellence-in-an-insanely-unsettled-and-dynamic-environment",
       "thumbnail": "https://i.vimeocdn.com/video/703267445_295x166.jpg",
-      "date": "2018-05-24T16:45:58"
+      "date": "2018-05-24T16:45:58",
+      "meetups": [
+        {
+          "name": "Austin Agile",
+          "slug": "austin-agile"
+        }
+      ]
     }
   ]
 }

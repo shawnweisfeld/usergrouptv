@@ -10,19 +10,41 @@
       "title": "Dockerize Your Development",
       "slug": "dockerize-your-development",
       "thumbnail": "https://i.vimeocdn.com/video/650251578_295x166.jpg",
-      "date": "2017-07-20T14:18:34"
+      "date": "2017-07-20T14:18:34",
+      "meetups": [
+        {
+          "name": "Tulsa School of Dev",
+          "slug": "tulsa-school-of-dev"
+        }
+      ]
     },
     {
       "title": "ASP.NET Core + React Equals Awesome",
       "slug": "asp-net-core-react-equals-awesome",
       "thumbnail": "https://i.vimeocdn.com/video/650202777_295x166.jpg",
-      "date": "2017-07-20T14:09:00"
+      "date": "2017-07-20T14:09:00",
+      "meetups": [
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     },
     {
       "title": "iOS for the .Net Web Guy",
       "slug": "ios-for-the-net-web-guy",
       "thumbnail": "https://i.vimeocdn.com/video/485945304_295x166.jpg",
-      "date": "2014-08-15T20:08:48"
+      "date": "2014-08-15T20:08:48",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     }
   ]
 }

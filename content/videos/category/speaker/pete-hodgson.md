@@ -10,7 +10,13 @@
       "title": "Keeping Up With JavaScript",
       "slug": "keeping-up-with-javascript",
       "thumbnail": "https://i.vimeocdn.com/video/492564822_295x166.jpg",
-      "date": "2014-10-10T11:26:28"
+      "date": "2014-10-10T11:26:28",
+      "meetups": [
+        {
+          "name": "Dallas TechFest",
+          "slug": "dallas-techfest"
+        }
+      ]
     }
   ]
 }

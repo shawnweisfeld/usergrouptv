@@ -10,13 +10,25 @@
       "title": "Connect with your Kinect",
       "slug": "connect-with-your-kinect",
       "thumbnail": "https://i.vimeocdn.com/video/490127733_295x166.jpg",
-      "date": "2012-06-06T11:27:56"
+      "date": "2012-06-06T11:27:56",
+      "meetups": [
+        {
+          "name": "North Dallas .NET UG",
+          "slug": "north-dallas-net-ug"
+        }
+      ]
     },
     {
       "title": "Silverlight Testing Extravaganza! ",
       "slug": "silverlight-testing-extravaganza",
       "thumbnail": "https://i.vimeocdn.com/video/500558222_295x166.jpg",
-      "date": "2011-04-11T22:14:37"
+      "date": "2011-04-11T22:14:37",
+      "meetups": [
+        {
+          "name": "North Texas Silverlight UG",
+          "slug": "north-texas-silverlight-ug"
+        }
+      ]
     }
   ]
 }

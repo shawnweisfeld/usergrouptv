@@ -10,37 +10,73 @@
       "title": "Scaling Scrum to the Enterprise",
       "slug": "scaling-scrum-to-the-enterprise",
       "thumbnail": "https://i.vimeocdn.com/video/485085521_295x166.jpg",
-      "date": "2013-04-03T17:41:28"
+      "date": "2013-04-03T17:41:28",
+      "meetups": [
+        {
+          "name": "North Dallas .NET UG",
+          "slug": "north-dallas-net-ug"
+        }
+      ]
     },
     {
       "title": "CODING NAKED - TDD ON THE EDGE",
       "slug": "coding-naked-tdd-on-the-edge",
       "thumbnail": "https://i.vimeocdn.com/video/485084718_295x166.jpg",
-      "date": "2013-03-16T20:59:00"
+      "date": "2013-03-16T20:59:00",
+      "meetups": [
+        {
+          "name": "Cowtown Code Camp",
+          "slug": "cowtown-code-camp"
+        }
+      ]
     },
     {
       "title": "Mature Development Series - TDD in your UI - Part 2",
       "slug": "mature-development-series-tdd-in-your-ui-part-2",
       "thumbnail": "https://i.vimeocdn.com/video/498382085_295x166.jpg",
-      "date": "2012-05-01T13:47:17"
+      "date": "2012-05-01T13:47:17",
+      "meetups": [
+        {
+          "name": "Dallas XAML UG",
+          "slug": "dallas-xaml-ug"
+        }
+      ]
     },
     {
       "title": "Scaling Scrum to the Enterprises",
       "slug": "scaling-scrum-to-the-enterprises",
       "thumbnail": "https://i.vimeocdn.com/video/496721608_295x166.jpg",
-      "date": "2012-04-20T13:24:36"
+      "date": "2012-04-20T13:24:36",
+      "meetups": [
+        {
+          "name": "Agile .NET",
+          "slug": "agile-net"
+        }
+      ]
     },
     {
       "title": "Mature Development Series - TDD in your UI: Part 1",
       "slug": "mature-development-series-tdd-in-your-ui-part-1",
       "thumbnail": "https://i.vimeocdn.com/video/496721357_295x166.jpg",
-      "date": "2012-04-03T12:14:48"
+      "date": "2012-04-03T12:14:48",
+      "meetups": [
+        {
+          "name": "Dallas XAML UG",
+          "slug": "dallas-xaml-ug"
+        }
+      ]
     },
     {
       "title": "10 Practices of an Agile Developer ",
       "slug": "10-practices-of-an-agile-developer",
       "thumbnail": "https://i.vimeocdn.com/video/501052030_295x166.jpg",
-      "date": "2011-02-25T02:02:23"
+      "date": "2011-02-25T02:02:23",
+      "meetups": [
+        {
+          "name": "Agile .NET",
+          "slug": "agile-net"
+        }
+      ]
     }
   ]
 }

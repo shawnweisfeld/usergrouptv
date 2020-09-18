@@ -10,7 +10,17 @@
       "title": "Creating Accessible Power BI Reports",
       "slug": "creating-accessible-power-bi-reports",
       "thumbnail": "https://i.vimeocdn.com/video/854621808_295x166.jpg",
-      "date": "2020-02-08T16:26:29"
+      "date": "2020-02-08T16:26:29",
+      "meetups": [
+        {
+          "name": "Austin SQL Saturday",
+          "slug": "austin-sql-saturday"
+        },
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     }
   ]
 }

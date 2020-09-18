@@ -10,7 +10,13 @@
       "title": "Ram on SharePoint March 2011",
       "slug": "ram-talks-about-sharepoint",
       "thumbnail": "https://i.vimeocdn.com/video/500554601_295x166.jpg",
-      "date": "2011-03-12T19:58:20"
+      "date": "2011-03-12T19:58:20",
+      "meetups": [
+        {
+          "name": "North Texas PC UG",
+          "slug": "north-texas-pc-ug"
+        }
+      ]
     }
   ]
 }

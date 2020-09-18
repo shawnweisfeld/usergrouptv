@@ -10,7 +10,13 @@
       "title": "Coding your Future with the Windows Insider Program",
       "slug": "coding-your-future-with-the-windows-insider-program",
       "thumbnail": "https://i.vimeocdn.com/video/796753634_295x166.jpg",
-      "date": "2019-06-24T16:46:01"
+      "date": "2019-06-24T16:46:01",
+      "meetups": [
+        {
+          "name": "MS Insider Dev Tour",
+          "slug": "ms-insider-dev-tour"
+        }
+      ]
     }
   ]
 }

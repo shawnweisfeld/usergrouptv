@@ -10,7 +10,17 @@
       "title": "Scales, Measurements and Encoding Schemes",
       "slug": "scales-measurements-and-encoding-schemes",
       "thumbnail": "https://i.vimeocdn.com/video/798800080_295x166.jpg",
-      "date": "2019-07-13T13:58:57"
+      "date": "2019-07-13T13:58:57",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        },
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

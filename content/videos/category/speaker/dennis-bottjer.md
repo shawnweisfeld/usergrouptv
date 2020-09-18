@@ -10,7 +10,17 @@
       "title": "SharedPoint 2013 Lessons Learned",
       "slug": "sharedpoint-2013-lessons-learned",
       "thumbnail": "https://i.vimeocdn.com/video/483487770_295x166.jpg",
-      "date": "2013-10-11T21:16:57"
+      "date": "2013-10-11T21:16:57",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     }
   ]
 }

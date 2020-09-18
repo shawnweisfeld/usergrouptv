@@ -10,25 +10,49 @@
       "title": "Insights from Tech Hiring Managers",
       "slug": "insights-from-tech-hiring-managers",
       "thumbnail": "https://i.vimeocdn.com/video/824337184_295x166.jpg",
-      "date": "2019-10-15T15:09:32"
+      "date": "2019-10-15T15:09:32",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     },
     {
       "title": "SQL Server 2019 New Features",
       "slug": "sql-server-2019-new-features",
       "thumbnail": "https://i.vimeocdn.com/video/769268281_295x166.jpg",
-      "date": "2019-03-19T16:24:05"
+      "date": "2019-03-19T16:24:05",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     },
     {
       "title": "What can Python in SQL Server do for you?",
       "slug": "what-can-python-in-sql-server-do-for-you",
       "thumbnail": "https://i.vimeocdn.com/video/726721101_295x166.jpg",
-      "date": "2018-09-18T23:10:26"
+      "date": "2018-09-18T23:10:26",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     },
     {
       "title": "T-SQL Windowing Functions",
       "slug": "t-sql-windowing-functions",
       "thumbnail": "https://i.vimeocdn.com/video/673576571_295x166.jpg",
-      "date": "2017-12-19T13:08:16"
+      "date": "2017-12-19T13:08:16",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     }
   ]
 }

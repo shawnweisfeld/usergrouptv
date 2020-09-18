@@ -10,7 +10,13 @@
       "title": "Write Code For The Future You ",
       "slug": "write-code-for-the-future-you",
       "thumbnail": "https://i.vimeocdn.com/video/540281865_295x166.jpg",
-      "date": "2015-10-16T02:03:49"
+      "date": "2015-10-16T02:03:49",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

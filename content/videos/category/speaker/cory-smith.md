@@ -10,37 +10,73 @@
       "title": "Meeting: Cross-Platform Development: Let's get real",
       "slug": "meeting-cross-platform-development-lets-get-real",
       "thumbnail": "https://i.vimeocdn.com/video/507048285_295x166.jpg",
-      "date": "2013-01-15T21:35:39"
+      "date": "2013-01-15T21:35:39",
+      "meetups": [
+        {
+          "name": "Ft. Worth .NET UG",
+          "slug": "ft-worth-net-ug"
+        }
+      ]
     },
     {
       "title": "Portable Libraries: Write Once, Utilize Everywhere",
       "slug": "portable-libraries-write-once-utilize-everywhere",
       "thumbnail": "https://i.vimeocdn.com/video/488135369_295x166.jpg",
-      "date": "2012-08-09T17:18:12"
+      "date": "2012-08-09T17:18:12",
+      "meetups": [
+        {
+          "name": "Dallas .NET UG",
+          "slug": "dallas-net-ug"
+        }
+      ]
     },
     {
       "title": "Portable Library: Write Once, Utilize Everywhere",
       "slug": "portable-library-write-once-utilize-everywhere",
       "thumbnail": "https://i.vimeocdn.com/video/489467230_295x166.jpg",
-      "date": "2012-07-18T14:11:41"
+      "date": "2012-07-18T14:11:41",
+      "meetups": [
+        {
+          "name": "North Dallas .NET UG",
+          "slug": "north-dallas-net-ug"
+        }
+      ]
     },
     {
       "title": "LINQ - An Average Joe’s Guide (or \"It’s not all about SQL\")",
       "slug": "linq-an-average-joes-guide-or-its-not-all-about-sql",
       "thumbnail": "https://i.vimeocdn.com/video/495919896_295x166.jpg",
-      "date": "2011-07-21T22:32:34"
+      "date": "2011-07-21T22:32:34",
+      "meetups": [
+        {
+          "name": "Dallas .NET UG",
+          "slug": "dallas-net-ug"
+        }
+      ]
     },
     {
       "title": "Using MEF with Silverlight and WPF",
       "slug": "using-mef-with-silverlight-and-wpf",
       "thumbnail": "https://i.vimeocdn.com/video/498383893_295x166.jpg",
-      "date": "2011-07-05T19:12:08"
+      "date": "2011-07-05T19:12:08",
+      "meetups": [
+        {
+          "name": "Dallas XAML UG",
+          "slug": "dallas-xaml-ug"
+        }
+      ]
     },
     {
       "title": "Confessions of a MEF Addict",
       "slug": "confessions-of-a-mef-addict",
       "thumbnail": "https://i.vimeocdn.com/video/500555308_295x166.jpg",
-      "date": "2011-03-15T21:18:45"
+      "date": "2011-03-15T21:18:45",
+      "meetups": [
+        {
+          "name": "Ft. Worth .NET UG",
+          "slug": "ft-worth-net-ug"
+        }
+      ]
     }
   ]
 }

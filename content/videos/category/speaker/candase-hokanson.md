@@ -10,7 +10,13 @@
       "title": "Backlog Confessions - Technical User Stories",
       "slug": "backlog-confessions-technical-user-stories",
       "thumbnail": "https://i.vimeocdn.com/video/703363477_295x166.jpg",
-      "date": "2018-05-24T16:55:02"
+      "date": "2018-05-24T16:55:02",
+      "meetups": [
+        {
+          "name": "Austin Agile",
+          "slug": "austin-agile"
+        }
+      ]
     }
   ]
 }

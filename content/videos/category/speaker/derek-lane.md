@@ -10,7 +10,13 @@
       "title": "So Your Momma's Got Big... Data, Huh?",
       "slug": "so-your-momma-s-got-big-data-huh",
       "thumbnail": "https://i.vimeocdn.com/video/507866423_295x166.jpg",
-      "date": "2011-08-12T20:05:46"
+      "date": "2011-08-12T20:05:46",
+      "meetups": [
+        {
+          "name": "Dallas TechFest",
+          "slug": "dallas-techfest"
+        }
+      ]
     }
   ]
 }

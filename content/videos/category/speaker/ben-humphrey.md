@@ -10,7 +10,13 @@
       "title": "Big Data & Analytics in Azure",
       "slug": "big-data-analytics-in-azure",
       "thumbnail": "https://i.vimeocdn.com/video/566415745_295x166.jpg",
-      "date": "2016-04-16T10:56:28"
+      "date": "2016-04-16T10:56:28",
+      "meetups": [
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ]
     }
   ]
 }

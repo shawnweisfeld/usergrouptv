@@ -10,19 +10,41 @@
       "title": "That's bad mkay! (How to quantify when things aren't right)",
       "slug": "thats-bad-mkay-how-to-quantify-when-things-arent-right",
       "thumbnail": "https://i.vimeocdn.com/video/709497292_295x166.jpg",
-      "date": "2018-06-23T19:52:24"
+      "date": "2018-06-23T19:52:24",
+      "meetups": [
+        {
+          "name": "Houston SQL Saturday",
+          "slug": "houston-sql-saturday"
+        }
+      ]
     },
     {
       "title": "That's bad mkay!",
       "slug": "thats-bad-mkay",
       "thumbnail": "https://i.vimeocdn.com/video/702656043_295x166.jpg",
-      "date": "2018-05-19T22:43:11"
+      "date": "2018-05-19T22:43:11",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "Random Acts of Senseless Databasing",
       "slug": "random-acts-of-senseless-databasing",
       "thumbnail": "https://i.vimeocdn.com/video/640583204_295x166.jpg",
-      "date": "2017-06-17T14:17:44"
+      "date": "2017-06-17T14:17:44",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        },
+        {
+          "name": "Houston SQL Saturday",
+          "slug": "houston-sql-saturday"
+        }
+      ]
     }
   ]
 }

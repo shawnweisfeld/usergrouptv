@@ -10,7 +10,13 @@
       "title": "iOS Development for the Enterprise",
       "slug": "ios-development-for-the-enterprise",
       "thumbnail": "https://i.vimeocdn.com/video/491229077_295x166.jpg",
-      "date": "2014-09-26T11:26:00"
+      "date": "2014-09-26T11:26:00",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

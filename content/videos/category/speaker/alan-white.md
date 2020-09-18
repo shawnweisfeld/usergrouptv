@@ -10,7 +10,13 @@
       "title": "Cloudy with a chance of Security",
       "slug": "cloudy-with-a-chance-of-security",
       "thumbnail": "https://i.vimeocdn.com/video/586637896_295x166.jpg",
-      "date": "2016-08-05T14:36:50"
+      "date": "2016-08-05T14:36:50",
+      "meetups": [
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     }
   ]
 }

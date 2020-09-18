@@ -10,13 +10,25 @@
       "title": "Value Stream Mapping: Seeing and Improving Your Product Flow and Process",
       "slug": "value-stream-mapping-seeing-and-improving-your-product-flow-and-process",
       "thumbnail": "https://i.vimeocdn.com/video/820030814_295x166.jpg",
-      "date": "2019-10-04T16:42:30"
+      "date": "2019-10-04T16:42:30",
+      "meetups": [
+        {
+          "name": "Austin Agile",
+          "slug": "austin-agile"
+        }
+      ]
     },
     {
       "title": "Are We Done Yet?",
       "slug": "are-we-done-yet",
       "thumbnail": "https://i.vimeocdn.com/video/703378800_295x166.jpg",
-      "date": "2018-05-24T16:37:01"
+      "date": "2018-05-24T16:37:01",
+      "meetups": [
+        {
+          "name": "Austin Agile",
+          "slug": "austin-agile"
+        }
+      ]
     }
   ]
 }

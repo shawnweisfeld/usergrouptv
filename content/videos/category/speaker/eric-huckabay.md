@@ -10,7 +10,13 @@
       "title": "Trusting your data",
       "slug": "trusting-your-data",
       "thumbnail": "https://i.vimeocdn.com/video/709492813_295x166.jpg",
-      "date": "2018-06-23T19:39:43"
+      "date": "2018-06-23T19:39:43",
+      "meetups": [
+        {
+          "name": "Houston SQL Saturday",
+          "slug": "houston-sql-saturday"
+        }
+      ]
     }
   ]
 }

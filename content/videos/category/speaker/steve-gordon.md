@@ -10,7 +10,13 @@
       "title": "Turbocharged: Writing High-Performance C# and .NET Code",
       "slug": "turbocharged-writing-high-performance-c-and-net-code",
       "thumbnail": "https://i.vimeocdn.com/video/890687192_295x166.jpg",
-      "date": "2020-04-28T21:17:13"
+      "date": "2020-04-28T21:17:13",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ]
     }
   ]
 }

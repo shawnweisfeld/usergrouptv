@@ -10,7 +10,13 @@
       "title": "An Introduction to AngularJS Forms Validation",
       "slug": "an-introduction-to-angularjs-forms-validation",
       "thumbnail": "https://i.vimeocdn.com/video/481964618_295x166.jpg",
-      "date": "2014-06-14T11:02:26"
+      "date": "2014-06-14T11:02:26",
+      "meetups": [
+        {
+          "name": "Cowtown Code Camp",
+          "slug": "cowtown-code-camp"
+        }
+      ]
     }
   ]
 }

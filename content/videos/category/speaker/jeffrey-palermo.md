@@ -10,61 +10,121 @@
       "title": "Blazor Architecture Patterns",
       "slug": "blazor-architecture-patterns",
       "thumbnail": "https://i.vimeocdn.com/video/958530841_295x166.jpg",
-      "date": "2020-09-14T17:44:41"
+      "date": "2020-09-14T17:44:41",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     },
     {
       "title": "Azure DevOps for .Net- Fall into the Pit of Success",
       "slug": "azure-devops-for-net-fall-into-the-pit-of-success-2",
       "thumbnail": "https://i.vimeocdn.com/video/910379644_295x166.jpg",
-      "date": "2020-06-16T15:10:57"
+      "date": "2020-06-16T15:10:57",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ]
     },
     {
       "title": "Azure DevOps for .Net- Fall into the Pit of Success",
       "slug": "azure-devops-for-net-fall-into-the-pit-of-success",
       "thumbnail": "https://i.vimeocdn.com/video/876242718_295x166.jpg",
-      "date": "2020-03-09T18:29:59"
+      "date": "2020-03-09T18:29:59",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     },
     {
       "title": "CI/CD Pipeline options when Azure is your datacenter",
       "slug": "cicd-pipeline-options-when-azure-is-your-datacenter",
       "thumbnail": "https://i.vimeocdn.com/video/731528333_295x166.jpg",
-      "date": "2018-10-10T13:22:16"
+      "date": "2018-10-10T13:22:16",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ]
     },
     {
       "title": "DevOps: The Domain Model of Continuous Delivery",
       "slug": "devops-the-domain-model-of-continuous-delivery-2",
       "thumbnail": "https://i.vimeocdn.com/video/707075239_295x166.jpg",
-      "date": "2018-06-11T22:57:18"
+      "date": "2018-06-11T22:57:18",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     },
     {
       "title": "DevOps: The Domain Model of Continuous Delivery",
       "slug": "devops-the-domain-model-of-continuous-delivery",
       "thumbnail": "https://i.vimeocdn.com/video/703386612_295x166.jpg",
-      "date": "2018-05-24T16:39:44"
+      "date": "2018-05-24T16:39:44",
+      "meetups": [
+        {
+          "name": "Austin Agile",
+          "slug": "austin-agile"
+        }
+      ]
     },
     {
       "title": "The Domain Model of Continuous Delivery",
       "slug": "the-domain-model-of-continuous-delivery",
       "thumbnail": "https://i.vimeocdn.com/video/696175471_295x166.jpg",
-      "date": "2018-04-21T13:19:39"
+      "date": "2018-04-21T13:19:39",
+      "meetups": [
+        {
+          "name": "Austin Global Azure Bootcamp",
+          "slug": "austin-global-azure-bootcamp"
+        }
+      ]
     },
     {
       "title": "Making Teams Fly with Continuous Delivery to Azure",
       "slug": "making-teams-fly-with-continuous-delivery-to-azure",
       "thumbnail": "https://i.vimeocdn.com/video/631735244_295x166.jpg",
-      "date": "2017-04-22T13:10:50"
+      "date": "2017-04-22T13:10:50",
+      "meetups": [
+        {
+          "name": "Austin Global Azure Bootcamp",
+          "slug": "austin-global-azure-bootcamp"
+        }
+      ]
     },
     {
       "title": "Common Pitfalls when Implementing Continuous Delivery ",
       "slug": "common-pitfalls-when-implementing-continuous-delivery",
       "thumbnail": "https://i.vimeocdn.com/video/587191996_295x166.jpg",
-      "date": "2016-08-08T15:16:52"
+      "date": "2016-08-08T15:16:52",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     },
     {
       "title": "Measure UP Austin 2015 Keynote",
       "slug": "measure-up-austin-2015-keynote",
       "thumbnail": "https://i.vimeocdn.com/video/537234017_295x166.jpg",
-      "date": "2015-09-26T11:54:16"
+      "date": "2015-09-26T11:54:16",
+      "meetups": [
+        {
+          "name": "MeasureUp",
+          "slug": "measure-up"
+        }
+      ]
     }
   ]
 }

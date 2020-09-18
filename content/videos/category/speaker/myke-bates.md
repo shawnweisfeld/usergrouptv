@@ -10,7 +10,13 @@
       "title": "Cross Platform .NET",
       "slug": "cross-platform-net",
       "thumbnail": "https://i.vimeocdn.com/video/650632322_295x166.jpg",
-      "date": "2017-07-21T14:10:29"
+      "date": "2017-07-21T14:10:29",
+      "meetups": [
+        {
+          "name": "Tulsa Tech Fest",
+          "slug": "tulsa-tech-fest"
+        }
+      ]
     }
   ]
 }

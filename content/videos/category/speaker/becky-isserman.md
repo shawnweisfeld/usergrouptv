@@ -10,7 +10,13 @@
       "title": "An Entry Guide into Data Science",
       "slug": "an-entry-guide-into-data-science",
       "thumbnail": "https://i.vimeocdn.com/video/767166080_295x166.jpg",
-      "date": "2019-03-13T15:44:36"
+      "date": "2019-03-13T15:44:36",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     }
   ]
 }

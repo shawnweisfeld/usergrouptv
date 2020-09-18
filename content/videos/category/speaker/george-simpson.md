@@ -10,7 +10,13 @@
       "title": "Lunch Panel - Real World Agile ",
       "slug": "lunch-panel-real-world-agile",
       "thumbnail": null,
-      "date": "2011-02-25T14:25:07"
+      "date": "2011-02-25T14:25:07",
+      "meetups": [
+        {
+          "name": "Agile .NET",
+          "slug": "agile-net"
+        }
+      ]
     }
   ]
 }

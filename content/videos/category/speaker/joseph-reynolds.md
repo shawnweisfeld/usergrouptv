@@ -10,13 +10,25 @@
       "title": "Windows 10 Development Readiness",
       "slug": "windows-10-development-readiness",
       "thumbnail": "https://i.vimeocdn.com/video/537387987_295x166.jpg",
-      "date": "2015-09-26T12:20:23"
+      "date": "2015-09-26T12:20:23",
+      "meetups": [
+        {
+          "name": "MeasureUp",
+          "slug": "measure-up"
+        }
+      ]
     },
     {
       "title": "Web Performance and Load Testing",
       "slug": "web-performance-and-load-testing",
       "thumbnail": "https://i.vimeocdn.com/video/537238989_295x166.jpg",
-      "date": "2015-09-26T12:01:07"
+      "date": "2015-09-26T12:01:07",
+      "meetups": [
+        {
+          "name": "MeasureUp",
+          "slug": "measure-up"
+        }
+      ]
     }
   ]
 }

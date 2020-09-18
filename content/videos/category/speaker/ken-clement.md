@@ -10,7 +10,13 @@
       "title": "Codd's Rules, Normal Forms, and SQL Anti-Patterns - Recognition & Repair",
       "slug": "codds-rules-normal-forms-and-sql-anti-patterns-recognition-repair",
       "thumbnail": "https://i.vimeocdn.com/video/570948383_295x166.jpg",
-      "date": "2016-05-14T12:34:16"
+      "date": "2016-05-14T12:34:16",
+      "meetups": [
+        {
+          "name": "Houston SQL Saturday",
+          "slug": "houston-sql-saturday"
+        }
+      ]
     }
   ]
 }

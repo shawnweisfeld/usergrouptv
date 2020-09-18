@@ -10,7 +10,8 @@
       "title": "Kinect Dallas Keynote",
       "slug": "kinect-dallas-keynote",
       "thumbnail": "https://i.vimeocdn.com/video/492994856_295x166.jpg",
-      "date": "2012-01-28T15:36:29"
+      "date": "2012-01-28T15:36:29",
+      "meetups": []
     }
   ]
 }

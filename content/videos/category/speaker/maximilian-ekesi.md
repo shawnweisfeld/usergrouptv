@@ -10,7 +10,13 @@
       "title": "Tips & Tricks for Implementing Enterprise Agile Cultural Transformation - From Within!",
       "slug": "tips-tricks-for-implementing-enterprise-agile-cultural-transformation-from-within",
       "thumbnail": "https://i.vimeocdn.com/video/703327465_295x166.jpg",
-      "date": "2018-05-24T16:49:12"
+      "date": "2018-05-24T16:49:12",
+      "meetups": [
+        {
+          "name": "Austin Agile",
+          "slug": "austin-agile"
+        }
+      ]
     }
   ]
 }

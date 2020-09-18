@@ -10,13 +10,25 @@
       "title": "INTEGRATING UX INTO AGILE",
       "slug": "integrating-ux-into-agile",
       "thumbnail": "https://i.vimeocdn.com/video/486704873_295x166.jpg",
-      "date": "2014-08-22T17:37:06"
+      "date": "2014-08-22T17:37:06",
+      "meetups": [
+        {
+          "name": "AgileDotNext",
+          "slug": "agiledotnext"
+        }
+      ]
     },
     {
       "title": "Making CSS and ASP.NET Work ",
       "slug": "making-css-and-asp-net-work",
       "thumbnail": "https://i.vimeocdn.com/video/485960271_295x166.jpg",
-      "date": "2012-11-27T16:00:42"
+      "date": "2012-11-27T16:00:42",
+      "meetups": [
+        {
+          "name": "Dallas ASP.NET UG",
+          "slug": "dallasaspnet"
+        }
+      ]
     }
   ]
 }

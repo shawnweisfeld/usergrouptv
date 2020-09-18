@@ -10,7 +10,13 @@
       "title": "Open Management Style",
       "slug": "open-management-style",
       "thumbnail": "https://i.vimeocdn.com/video/719306991_295x166.jpg",
-      "date": "2018-08-11T15:53:56"
+      "date": "2018-08-11T15:53:56",
+      "meetups": [
+        {
+          "name": "SQL Saturday Baton Rouge",
+          "slug": "sql-saturday-baton-rouge"
+        }
+      ]
     }
   ]
 }

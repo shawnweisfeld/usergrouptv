@@ -10,7 +10,13 @@
       "title": "Extended Events: What are they and How do I use them",
       "slug": "extended-events-what-are-they-and-how-do-i-use-them",
       "thumbnail": "https://i.vimeocdn.com/video/702645343_295x166.jpg",
-      "date": "2018-05-19T22:59:19"
+      "date": "2018-05-19T22:59:19",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

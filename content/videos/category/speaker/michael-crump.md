@@ -10,7 +10,13 @@
       "title": "Getting Started with the Kinect SDK",
       "slug": "getting-started-with-the-kinect-sdk",
       "thumbnail": "https://i.vimeocdn.com/video/507721083_295x166.jpg",
-      "date": "2011-07-06T18:03:29"
+      "date": "2011-07-06T18:03:29",
+      "meetups": [
+        {
+          "name": "All About XAML UG",
+          "slug": "all-about-xaml-ug"
+        }
+      ]
     }
   ]
 }

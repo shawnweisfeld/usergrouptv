@@ -10,13 +10,25 @@
       "title": "Upgrading and Migrating to SharePoint 2016 Successfully",
       "slug": "upgrading-and-migrating-to-sharepoint-2016-successfully",
       "thumbnail": "https://i.vimeocdn.com/video/661089208_295x166.jpg",
-      "date": "2017-10-14T11:52:18"
+      "date": "2017-10-14T11:52:18",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     },
     {
       "title": "Real World Add-in Development for Office365 and SharePoint 2013",
       "slug": "real-world-add-in-development-for-office365-and-sharepoint-2013",
       "thumbnail": "https://i.vimeocdn.com/video/593961101_295x166.jpg",
-      "date": "2016-09-24T19:49:30"
+      "date": "2016-09-24T19:49:30",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

@@ -10,13 +10,33 @@
       "title": "SQL Server vs The World",
       "slug": "sql-server-vs-the-world",
       "thumbnail": "https://i.vimeocdn.com/video/483491133_295x166.jpg",
-      "date": "2013-08-24T11:37:00"
+      "date": "2013-08-24T11:37:00",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     },
     {
       "title": "SQL Server in the Cloud",
       "slug": "sql-server-in-the-cloud",
       "thumbnail": "https://i.vimeocdn.com/video/488130195_295x166.jpg",
-      "date": "2012-08-25T21:47:22"
+      "date": "2012-08-25T21:47:22",
+      "meetups": [
+        {
+          "name": "Oklahoma Groups",
+          "slug": "oklahoma"
+        },
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,13 @@
       "title": "Confessions of a Chief Product Owner",
       "slug": "confessions-of-a-chief-product-owner",
       "thumbnail": "https://i.vimeocdn.com/video/703315551_295x166.jpg",
-      "date": "2018-05-24T16:48:16"
+      "date": "2018-05-24T16:48:16",
+      "meetups": [
+        {
+          "name": "Austin Agile",
+          "slug": "austin-agile"
+        }
+      ]
     }
   ]
 }

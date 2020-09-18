@@ -10,7 +10,13 @@
       "title": "Optimizing Code Reusability For SharePoint using Linq to SharePoint and the MVP Design Pattern.",
       "slug": "optimizing-code-reusability-for-sharepoint-using-linq-to-sharepoint-and-the-mvp-design-pattern",
       "thumbnail": "https://i.vimeocdn.com/video/489179832_295x166.jpg",
-      "date": "2014-09-13T23:55:44"
+      "date": "2014-09-13T23:55:44",
+      "meetups": [
+        {
+          "name": "Houston Techfest",
+          "slug": "houston-techfest"
+        }
+      ]
     }
   ]
 }

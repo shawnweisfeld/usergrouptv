@@ -10,13 +10,25 @@
       "title": "The new Xamarin",
       "slug": "the-new-xamarin",
       "thumbnail": "https://i.vimeocdn.com/video/568521561_295x166.jpg",
-      "date": "2016-04-20T10:52:36"
+      "date": "2016-04-20T10:52:36",
+      "meetups": [
+        {
+          "name": "Austin Mobile .NET Developers Group",
+          "slug": "austin-mobile-net-developers-group"
+        }
+      ]
     },
     {
       "title": ".NET Cross Platform Development Strategy for Mobile, Cloud and Desktop Apps ",
       "slug": "net-cross-platform-development-strategy-for-mobile-cloud-and-desktop-apps",
       "thumbnail": "https://i.vimeocdn.com/video/482000272_295x166.jpg",
-      "date": "2014-06-09T10:49:16"
+      "date": "2014-06-09T10:49:16",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     }
   ]
 }

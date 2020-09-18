@@ -10,7 +10,17 @@
       "title": "Analysis Services is in Azure? Seriously!? Let's build a model!",
       "slug": "analysis-services-is-in-azure-seriously-lets-build-a-model",
       "thumbnail": "https://i.vimeocdn.com/video/641693852_295x166.jpg",
-      "date": "2017-06-17T14:06:27"
+      "date": "2017-06-17T14:06:27",
+      "meetups": [
+        {
+          "name": "SQL Saturday",
+          "slug": "sql-saturday"
+        },
+        {
+          "name": "Houston SQL Saturday",
+          "slug": "houston-sql-saturday"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,13 @@
       "title": "Mastering the Git porcelain commands",
       "slug": "mastering-the-git-porcelain-commands",
       "thumbnail": "https://i.vimeocdn.com/video/927702077_295x166.jpg",
-      "date": "2020-06-23T13:06:06"
+      "date": "2020-06-23T13:06:06",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ]
     }
   ]
 }

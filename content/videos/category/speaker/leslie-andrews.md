@@ -10,7 +10,17 @@
       "title": "Building a Strong Foundation for Data Analysis",
       "slug": "building-a-strong-foundation-for-data-analysis",
       "thumbnail": "https://i.vimeocdn.com/video/854628797_295x166.jpg",
-      "date": "2020-02-08T16:07:08"
+      "date": "2020-02-08T16:07:08",
+      "meetups": [
+        {
+          "name": "Austin SQL Saturday",
+          "slug": "austin-sql-saturday"
+        },
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ]
     }
   ]
 }

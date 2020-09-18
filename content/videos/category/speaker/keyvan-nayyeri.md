@@ -10,13 +10,25 @@
       "title": "Introduction to ASP.NET SignalR",
       "slug": "introduction-to-asp-net-signalr",
       "thumbnail": "https://i.vimeocdn.com/video/485088139_295x166.jpg",
-      "date": "2013-02-06T13:34:44"
+      "date": "2013-02-06T13:34:44",
+      "meetups": [
+        {
+          "name": "North Dallas .NET UG",
+          "slug": "north-dallas-net-ug"
+        }
+      ]
     },
     {
       "title": "Parallel Programming in .NET",
       "slug": "parallel-programming-in-net",
       "thumbnail": "https://i.vimeocdn.com/video/496720197_295x166.jpg",
-      "date": "2011-09-07T03:22:55"
+      "date": "2011-09-07T03:22:55",
+      "meetups": [
+        {
+          "name": "North Dallas .NET UG",
+          "slug": "north-dallas-net-ug"
+        }
+      ]
     }
   ]
 }

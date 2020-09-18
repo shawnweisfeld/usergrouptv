@@ -10,7 +10,13 @@
       "title": "Lean-Agile Learning Through Games",
       "slug": "lean-agile-learning-through-games",
       "thumbnail": "https://i.vimeocdn.com/video/660631834_295x166.jpg",
-      "date": "2017-10-06T16:04:21"
+      "date": "2017-10-06T16:04:21",
+      "meetups": [
+        {
+          "name": "Little Rock Tech Fest",
+          "slug": "little-rock-tech-fest"
+        }
+      ]
     }
   ]
 }

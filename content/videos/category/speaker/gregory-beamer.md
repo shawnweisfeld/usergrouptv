@@ -10,7 +10,13 @@
       "title": "In Memory OLTP",
       "slug": "in-memory-oltp",
       "thumbnail": "https://i.vimeocdn.com/video/483492285_295x166.jpg",
-      "date": "2013-09-09T02:34:44"
+      "date": "2013-09-09T02:34:44",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ]
     }
   ]
 }

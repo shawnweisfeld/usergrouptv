@@ -15,6 +15,16 @@
           "name": "Ryan Vice",
           "slug": "ryan-vice"
         }
+      ],
+      "tags": [
+        {
+          "name": "redux",
+          "slug": "redux"
+        },
+        {
+          "name": "React",
+          "slug": "react"
+        }
       ]
     },
     {
@@ -27,6 +37,12 @@
           "name": "Miguel Castro",
           "slug": "miguel-castro"
         }
+      ],
+      "tags": [
+        {
+          "name": "Architecture",
+          "slug": "architecture"
+        }
       ]
     },
     {
@@ -38,6 +54,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Service Fabirc",
+          "slug": "service-fabirc"
         }
       ]
     }

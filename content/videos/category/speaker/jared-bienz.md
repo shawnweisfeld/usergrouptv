@@ -16,6 +16,12 @@
           "name": "Microsoft",
           "slug": "microsoft"
         }
+      ],
+      "tags": [
+        {
+          "name": "wp8",
+          "slug": "wp8"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Microsoft",
           "slug": "microsoft"
+        }
+      ],
+      "tags": [
+        {
+          "name": "win8",
+          "slug": "win8"
         }
       ]
     },
@@ -40,6 +52,12 @@
           "name": "Microsoft",
           "slug": "microsoft"
         }
+      ],
+      "tags": [
+        {
+          "name": "win8",
+          "slug": "win8"
+        }
       ]
     },
     {
@@ -51,6 +69,12 @@
         {
           "name": "Microsoft",
           "slug": "microsoft"
+        }
+      ],
+      "tags": [
+        {
+          "name": "win8",
+          "slug": "win8"
         }
       ]
     },
@@ -64,6 +88,12 @@
           "name": "Microsoft",
           "slug": "microsoft"
         }
+      ],
+      "tags": [
+        {
+          "name": "win8",
+          "slug": "win8"
+        }
       ]
     },
     {
@@ -75,6 +105,20 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Android",
+          "slug": "android"
+        },
+        {
+          "name": "iPhone",
+          "slug": "iphone"
+        },
+        {
+          "name": "WP7",
+          "slug": "wp7"
         }
       ]
     }

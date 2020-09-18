@@ -16,7 +16,8 @@
           "name": "Austin Cloud Native Meetup",
           "slug": "austin-cloud-native-meetup"
         }
-      ]
+      ],
+      "tags": []
     }
   ]
 }

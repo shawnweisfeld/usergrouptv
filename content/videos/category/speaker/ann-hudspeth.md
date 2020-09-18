@@ -16,6 +16,12 @@
           "name": "ACT-W",
           "slug": "act-w"
         }
+      ],
+      "tags": [
+        {
+          "name": "UX",
+          "slug": "ux"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "ACT-W",
           "slug": "act-w"
+        }
+      ],
+      "tags": [
+        {
+          "name": "email",
+          "slug": "email"
         }
       ]
     }

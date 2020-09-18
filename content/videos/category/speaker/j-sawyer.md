@@ -16,6 +16,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Plex",
+          "slug": "plex"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "mvvm",
+          "slug": "mvvm"
         }
       ]
     }

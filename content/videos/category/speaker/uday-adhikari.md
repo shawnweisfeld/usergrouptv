@@ -16,6 +16,12 @@
           "name": "Austin Office 365 and SharePoint User Group",
           "slug": "austin-office-365-and-sharepoint-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "Power Virtual Agents",
+          "slug": "power-virtual-agents"
+        }
       ]
     },
     {
@@ -27,6 +33,16 @@
         {
           "name": "Austin Office 365 and SharePoint User Group",
           "slug": "austin-office-365-and-sharepoint-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Flow",
+          "slug": "flow"
+        },
+        {
+          "name": "PowerApps",
+          "slug": "powerapps"
         }
       ]
     },
@@ -40,6 +56,12 @@
           "name": "Austin Office 365 and SharePoint User Group",
           "slug": "austin-office-365-and-sharepoint-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "O365",
+          "slug": "o365"
+        }
       ]
     },
     {
@@ -51,6 +73,12 @@
         {
           "name": "Austin Office 365 and SharePoint User Group",
           "slug": "austin-office-365-and-sharepoint-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SharePoint Online",
+          "slug": "sharepoint-online"
         }
       ]
     }

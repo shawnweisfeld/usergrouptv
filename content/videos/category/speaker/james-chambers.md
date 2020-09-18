@@ -16,6 +16,16 @@
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
         }
+      ],
+      "tags": [
+        {
+          "name": "Panel",
+          "slug": "panel"
+        },
+        {
+          "name": "Azure Migration",
+          "slug": "azure-migration"
+        }
       ]
     },
     {
@@ -27,6 +37,12 @@
         {
           "name": "MeasureUp",
           "slug": "measure-up"
+        }
+      ],
+      "tags": [
+        {
+          "name": "ASP.NET vNext",
+          "slug": "asp-net-vnext"
         }
       ]
     }

@@ -16,6 +16,12 @@
           "name": "DFW Azure User Group",
           "slug": "dfw-azure-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
       ]
     }
   ]

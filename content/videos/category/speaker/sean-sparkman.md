@@ -16,6 +16,12 @@
           "name": "Little Rock Tech Fest",
           "slug": "little-rock-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Mobile Notifications",
+          "slug": "mobile-notifications"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "xamarin",
+          "slug": "xamarin"
         }
       ]
     },
@@ -40,6 +52,12 @@
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "xamarin",
+          "slug": "xamarin"
+        }
       ]
     },
     {
@@ -52,6 +70,12 @@
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Mobile Notifications",
+          "slug": "mobile-notifications"
+        }
       ]
     },
     {
@@ -63,6 +87,12 @@
         {
           "name": "Xamarin Dev Days",
           "slug": "xamarin-dev-days"
+        }
+      ],
+      "tags": [
+        {
+          "name": "xamarin",
+          "slug": "xamarin"
         }
       ]
     }

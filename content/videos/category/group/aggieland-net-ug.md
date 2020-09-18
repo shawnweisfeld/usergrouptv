@@ -15,6 +15,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "Continuous Deployment",
+          "slug": "continuous-deployment"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Functions",
+          "slug": "azure-functions"
+        }
       ]
     },
     {
@@ -38,6 +50,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
         }
       ]
     }

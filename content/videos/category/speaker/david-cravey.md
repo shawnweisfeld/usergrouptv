@@ -16,6 +16,20 @@
           "name": "DFW C++ User Group",
           "slug": "dfw-c-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "C#",
+          "slug": "c"
+        },
+        {
+          "name": "Cloud",
+          "slug": "cloud"
+        },
+        {
+          "name": "Casablanca",
+          "slug": "casablanca"
+        }
       ]
     },
     {
@@ -27,6 +41,16 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "C#",
+          "slug": "c"
+        },
+        {
+          "name": "Casablanca",
+          "slug": "casablanca"
         }
       ]
     }

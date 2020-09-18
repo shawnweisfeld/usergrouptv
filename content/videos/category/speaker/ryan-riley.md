@@ -16,6 +16,16 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "WebAPI",
+          "slug": "webapi"
+        },
+        {
+          "name": "ASP.NET",
+          "slug": "asp-net"
+        }
       ]
     }
   ]

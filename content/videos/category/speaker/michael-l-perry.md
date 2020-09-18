@@ -16,6 +16,12 @@
           "name": "Tulsa .NET User Group",
           "slug": "tulsa-net-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "ACID",
+          "slug": "acid"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Dallas Dev Fest Weekend",
           "slug": "dallas-dev-fest-weekend"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Blockchain",
+          "slug": "blockchain"
         }
       ]
     },
@@ -40,6 +52,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
+        }
       ]
     },
     {
@@ -51,6 +69,12 @@
         {
           "name": "Tulsa School of Dev",
           "slug": "tulsa-school-of-dev"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Entity Framework",
+          "slug": "entity-framework"
         }
       ]
     },
@@ -64,6 +88,12 @@
           "name": "Tulsa School of Dev",
           "slug": "tulsa-school-of-dev"
         }
+      ],
+      "tags": [
+        {
+          "name": "Continuous Delivery",
+          "slug": "continuous-delivery"
+        }
       ]
     },
     {
@@ -75,6 +105,12 @@
         {
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "async",
+          "slug": "async"
         }
       ]
     },
@@ -88,6 +124,12 @@
           "name": "Dallas TechFest",
           "slug": "dallas-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Universal Apps",
+          "slug": "universal-apps"
+        }
       ]
     },
     {
@@ -99,6 +141,12 @@
         {
           "name": "Little Rock Tech Fest",
           "slug": "little-rock-tech-fest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Game Dev",
+          "slug": "game-dev"
         }
       ]
     },
@@ -116,6 +164,12 @@
           "name": "Tulsa School of Dev",
           "slug": "tulsa-school-of-dev"
         }
+      ],
+      "tags": [
+        {
+          "name": "CQRS",
+          "slug": "cqrs"
+        }
       ]
     },
     {
@@ -127,6 +181,12 @@
         {
           "name": "Dallas XAML UG",
           "slug": "dallas-xaml-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Blend",
+          "slug": "blend"
         }
       ]
     },
@@ -140,6 +200,12 @@
           "name": "Code PaLOUsa",
           "slug": "code-palousa"
         }
+      ],
+      "tags": [
+        {
+          "name": "Correspondence",
+          "slug": "correspondence"
+        }
       ]
     },
     {
@@ -151,6 +217,12 @@
         {
           "name": "Dallas XAML UG",
           "slug": "dallas-xaml-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Update Controls",
+          "slug": "update-controls"
         }
       ]
     },
@@ -164,6 +236,16 @@
           "name": "Dallas XAML UG",
           "slug": "dallas-xaml-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Patterns",
+          "slug": "patterns"
+        },
+        {
+          "name": "XAML",
+          "slug": "xaml"
+        }
       ]
     },
     {
@@ -175,6 +257,20 @@
         {
           "name": "Dallas ASP.NET UG",
           "slug": "dallasaspnet"
+        }
+      ],
+      "tags": [
+        {
+          "name": "MSMQ",
+          "slug": "msmq"
+        },
+        {
+          "name": "Service Bus",
+          "slug": "service-bus"
+        },
+        {
+          "name": "Distributed Transactions",
+          "slug": "distributed-transactions"
         }
       ]
     },
@@ -192,6 +288,16 @@
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "WinPhone",
+          "slug": "winphone"
+        },
+        {
+          "name": "Correspondence",
+          "slug": "correspondence"
+        }
       ]
     },
     {
@@ -203,6 +309,16 @@
         {
           "name": "Dallas C# SIG",
           "slug": "dallas-c-sig"
+        }
+      ],
+      "tags": [
+        {
+          "name": "async",
+          "slug": "async"
+        },
+        {
+          "name": "win8",
+          "slug": "win8"
         }
       ]
     },
@@ -216,6 +332,12 @@
           "name": "Dallas .NET UG",
           "slug": "dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "async",
+          "slug": "async"
+        }
       ]
     },
     {
@@ -227,6 +349,16 @@
         {
           "name": "VNext Dallas",
           "slug": "vnext-dallas"
+        }
+      ],
+      "tags": [
+        {
+          "name": "async",
+          "slug": "async"
+        },
+        {
+          "name": "win8",
+          "slug": "win8"
         }
       ]
     },
@@ -240,6 +372,12 @@
           "name": "Dallas .NET UG",
           "slug": "dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Silverlight",
+          "slug": "silverlight"
+        }
       ]
     },
     {
@@ -251,6 +389,12 @@
         {
           "name": "Dallas XAML UG",
           "slug": "dallas-xaml-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Silverlight",
+          "slug": "silverlight"
         }
       ]
     },
@@ -264,6 +408,12 @@
           "name": "North Texas Silverlight UG",
           "slug": "north-texas-silverlight-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Testing",
+          "slug": "testing"
+        }
       ]
     },
     {
@@ -271,7 +421,21 @@
       "slug": "data-binding-without-inotifypropertychanged",
       "thumbnail": "https://i.vimeocdn.com/video/496723030_295x166.jpg",
       "date": "2011-02-15T18:00:44",
-      "meetups": []
+      "meetups": [],
+      "tags": [
+        {
+          "name": "mvvm",
+          "slug": "mvvm"
+        },
+        {
+          "name": "databinding",
+          "slug": "databinding"
+        },
+        {
+          "name": "wpf",
+          "slug": "wpf"
+        }
+      ]
     }
   ]
 }

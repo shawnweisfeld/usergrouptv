@@ -16,6 +16,16 @@
           "name": "Austin SQL Saturday",
           "slug": "austin-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "SSIS",
+          "slug": "ssis"
+        },
+        {
+          "name": "CDC",
+          "slug": "cdc"
+        }
       ]
     }
   ]

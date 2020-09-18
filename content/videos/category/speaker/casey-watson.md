@@ -16,6 +16,16 @@
           "name": "Tulsa School of Dev",
           "slug": "tulsa-school-of-dev"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "AWS",
+          "slug": "aws"
+        }
       ]
     },
     {
@@ -27,6 +37,12 @@
         {
           "name": "Cowtown Code Camp",
           "slug": "cowtown-code-camp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
         }
       ]
     },
@@ -40,6 +56,12 @@
           "name": "Dallas .NET UG",
           "slug": "dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
       ]
     },
     {
@@ -51,6 +73,16 @@
         {
           "name": "North Dallas .NET UG",
           "slug": "north-dallas-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "Storage",
+          "slug": "storage"
         }
       ]
     },
@@ -64,6 +96,12 @@
           "name": "Ft. Worth .NET UG",
           "slug": "ft-worth-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Nuget",
+          "slug": "nuget"
+        }
       ]
     },
     {
@@ -75,6 +113,12 @@
         {
           "name": "Dallas C# SIG",
           "slug": "dallas-c-sig"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Nuget",
+          "slug": "nuget"
         }
       ]
     }

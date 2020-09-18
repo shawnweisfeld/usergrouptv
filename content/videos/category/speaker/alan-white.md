@@ -16,6 +16,12 @@
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Cloud",
+          "slug": "cloud"
+        }
       ]
     }
   ]

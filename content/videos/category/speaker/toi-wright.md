@@ -16,6 +16,12 @@
           "name": "Dallas ASP.NET UG",
           "slug": "dallasaspnet"
         }
+      ],
+      "tags": [
+        {
+          "name": "VS2012",
+          "slug": "vs2012"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Dallas ASP.NET UG",
           "slug": "dallasaspnet"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
         }
       ]
     }

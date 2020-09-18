@@ -16,6 +16,12 @@
           "name": "Dallas C# SIG",
           "slug": "dallas-c-sig"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Dallas ASP.NET UG",
           "slug": "dallasaspnet"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -40,6 +52,12 @@
           "name": "Agile .NET",
           "slug": "agile-net"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -51,6 +69,16 @@
         {
           "name": "Agile .NET",
           "slug": "agile-net"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Scrum",
+          "slug": "scrum"
+        },
+        {
+          "name": "VS2010",
+          "slug": "vs2010"
         }
       ]
     },
@@ -64,6 +92,12 @@
           "name": "Agile .NET",
           "slug": "agile-net"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -75,6 +109,12 @@
         {
           "name": "Agile .NET",
           "slug": "agile-net"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     }

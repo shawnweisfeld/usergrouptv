@@ -15,6 +15,20 @@
           "name": "Brijesh Mishra",
           "slug": "brijesh-mishra"
         }
+      ],
+      "tags": [
+        {
+          "name": "metro",
+          "slug": "metro"
+        },
+        {
+          "name": "XAML",
+          "slug": "xaml"
+        },
+        {
+          "name": "win8",
+          "slug": "win8"
+        }
       ]
     },
     {
@@ -26,6 +40,12 @@
         {
           "name": "Rob Vettor",
           "slug": "rob-vettor"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Attributes",
+          "slug": "attributes"
         }
       ]
     },
@@ -39,6 +59,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "Reflection",
+          "slug": "reflection"
+        }
       ]
     },
     {
@@ -50,6 +76,12 @@
         {
           "name": "Rob Vettor",
           "slug": "rob-vettor"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Design Patterns",
+          "slug": "design-patterns"
         }
       ]
     },
@@ -63,6 +95,12 @@
           "name": "Rob Vettor",
           "slug": "rob-vettor"
         }
+      ],
+      "tags": [
+        {
+          "name": "Delegates",
+          "slug": "delegates"
+        }
       ]
     },
     {
@@ -75,6 +113,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "C# Strings",
+          "slug": "c-strings"
+        }
       ]
     },
     {
@@ -86,6 +130,16 @@
         {
           "name": "Rob Vettor",
           "slug": "rob-vettor"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Lambdas",
+          "slug": "lambdas"
+        },
+        {
+          "name": "C#",
+          "slug": "c"
         }
       ]
     }

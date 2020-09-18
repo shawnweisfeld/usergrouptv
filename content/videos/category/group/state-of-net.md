@@ -15,6 +15,12 @@
           "name": "Markus Egger",
           "slug": "markus-egger"
         }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
+        }
       ]
     },
     {
@@ -27,7 +33,8 @@
           "name": "Markus Egger",
           "slug": "markus-egger"
         }
-      ]
+      ],
+      "tags": []
     },
     {
       "title": "Dallas State of .NET Tour with Markus Egger! - Part 1",
@@ -39,7 +46,8 @@
           "name": "Markus Egger",
           "slug": "markus-egger"
         }
-      ]
+      ],
+      "tags": []
     },
     {
       "title": "Dallas State of .NET Part 2",
@@ -50,6 +58,12 @@
         {
           "name": "Markus Egger",
           "slug": "markus-egger"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
         }
       ]
     },
@@ -63,6 +77,12 @@
           "name": "Markus Egger",
           "slug": "markus-egger"
         }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        }
       ]
     },
     {
@@ -74,6 +94,24 @@
         {
           "name": "Markus Egger",
           "slug": "markus-egger"
+        }
+      ],
+      "tags": [
+        {
+          "name": "metro",
+          "slug": "metro"
+        },
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "XAML",
+          "slug": "xaml"
+        },
+        {
+          "name": "win8",
+          "slug": "win8"
         }
       ]
     },
@@ -87,6 +125,24 @@
           "name": "Markus Egger",
           "slug": "markus-egger"
         }
+      ],
+      "tags": [
+        {
+          "name": "metro",
+          "slug": "metro"
+        },
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "XAML",
+          "slug": "xaml"
+        },
+        {
+          "name": "win8",
+          "slug": "win8"
+        }
       ]
     },
     {
@@ -98,6 +154,12 @@
         {
           "name": "Markus Egger",
           "slug": "markus-egger"
+        }
+      ],
+      "tags": [
+        {
+          "name": "CODE",
+          "slug": "code"
         }
       ]
     }

@@ -20,6 +20,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "SSAS",
+          "slug": "ssas"
+        }
       ]
     },
     {
@@ -31,6 +37,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -48,6 +60,12 @@
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "Data Warehouse",
+          "slug": "data-warehouse"
+        }
       ]
     },
     {
@@ -60,6 +78,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Data Warehouse",
+          "slug": "data-warehouse"
+        }
       ]
     },
     {
@@ -71,6 +95,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Data Warehouse",
+          "slug": "data-warehouse"
         }
       ]
     }

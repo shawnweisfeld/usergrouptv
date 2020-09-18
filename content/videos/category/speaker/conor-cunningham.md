@@ -16,6 +16,12 @@
           "name": "Austin SQL Saturday",
           "slug": "austin-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Tuning",
+          "slug": "sql-tuning"
+        }
       ]
     }
   ]

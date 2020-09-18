@@ -16,7 +16,8 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
-      ]
+      ],
+      "tags": []
     },
     {
       "title": "Building a Testable Data Access Layer",
@@ -27,6 +28,12 @@
         {
           "name": "Dallas C# SIG",
           "slug": "dallas-c-sig"
+        }
+      ],
+      "tags": [
+        {
+          "name": "DAL",
+          "slug": "dal"
         }
       ]
     },
@@ -39,6 +46,12 @@
         {
           "name": "Dallas XAML UG",
           "slug": "dallas-xaml-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Silverlight",
+          "slug": "silverlight"
         }
       ]
     }

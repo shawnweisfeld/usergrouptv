@@ -20,6 +20,20 @@
           "name": "VNext Dallas",
           "slug": "vnext-dallas"
         }
+      ],
+      "tags": [
+        {
+          "name": "mono",
+          "slug": "mono"
+        },
+        {
+          "name": "iPhone",
+          "slug": "iphone"
+        },
+        {
+          "name": "WP7",
+          "slug": "wp7"
+        }
       ]
     }
   ]

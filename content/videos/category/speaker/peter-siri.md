@@ -16,6 +16,12 @@
           "name": "MeasureUp",
           "slug": "measure-up"
         }
+      ],
+      "tags": [
+        {
+          "name": "DevOps",
+          "slug": "devops"
+        }
       ]
     }
   ]

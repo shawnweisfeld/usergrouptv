@@ -16,6 +16,12 @@
           "name": "Little Rock Tech Fest",
           "slug": "little-rock-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Keynote",
+          "slug": "keynote"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Little Rock Tech Fest",
           "slug": "little-rock-tech-fest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Keynote",
+          "slug": "keynote"
         }
       ]
     }

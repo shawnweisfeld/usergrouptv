@@ -16,6 +16,12 @@
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
         }
+      ],
+      "tags": [
+        {
+          "name": "m365",
+          "slug": "m365"
+        }
       ]
     }
   ]

@@ -16,6 +16,24 @@
           "name": "North West Arkansas Tech Fest",
           "slug": "north-west-arkansas-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "ETL",
+          "slug": "etl"
+        },
+        {
+          "name": "replication",
+          "slug": "replication"
+        },
+        {
+          "name": "Data Profiling",
+          "slug": "data-profiling"
+        },
+        {
+          "name": "Data Quality",
+          "slug": "data-quality"
+        }
       ]
     },
     {
@@ -27,6 +45,24 @@
         {
           "name": "North West Arkansas Tech Fest",
           "slug": "north-west-arkansas-tech-fest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Hive",
+          "slug": "hive"
+        },
+        {
+          "name": "Hadoop",
+          "slug": "hadoop"
+        },
+        {
+          "name": "Sqoop",
+          "slug": "sqoop"
+        },
+        {
+          "name": "Big Data",
+          "slug": "big-data"
         }
       ]
     }

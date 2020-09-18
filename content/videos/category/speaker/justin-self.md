@@ -16,6 +16,12 @@
           "name": "Austin Global Azure Bootcamp",
           "slug": "austin-global-azure-bootcamp"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Service Bus",
+          "slug": "azure-service-bus"
+        }
       ]
     },
     {
@@ -27,6 +33,16 @@
         {
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Panel",
+          "slug": "panel"
+        },
+        {
+          "name": "Azure Migration",
+          "slug": "azure-migration"
         }
       ]
     },
@@ -40,6 +56,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Browser",
+          "slug": "browser"
+        }
       ]
     },
     {
@@ -51,6 +73,12 @@
         {
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "CSS",
+          "slug": "css"
         }
       ]
     },
@@ -64,6 +92,12 @@
           "name": "MeasureUp",
           "slug": "measure-up"
         }
+      ],
+      "tags": [
+        {
+          "name": "NServiceBus",
+          "slug": "nservicebus"
+        }
       ]
     },
     {
@@ -75,6 +109,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "CSS",
+          "slug": "css"
         }
       ]
     },
@@ -88,6 +128,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "CSS",
+          "slug": "css"
+        }
       ]
     },
     {
@@ -100,6 +146,12 @@
           "name": "AgileDotNext",
           "slug": "agiledotnext"
         }
+      ],
+      "tags": [
+        {
+          "name": "Technical Debt",
+          "slug": "technical-debt"
+        }
       ]
     },
     {
@@ -111,6 +163,12 @@
         {
           "name": "AgileDotNext",
           "slug": "agiledotnext"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Scrum",
+          "slug": "scrum"
         }
       ]
     }

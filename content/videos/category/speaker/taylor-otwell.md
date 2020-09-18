@@ -16,6 +16,12 @@
           "name": "Little Rock Tech Fest",
           "slug": "little-rock-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Laravel",
+          "slug": "laravel"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Little Rock Tech Fest",
           "slug": "little-rock-tech-fest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Angular.js",
+          "slug": "angular-js"
         }
       ]
     }

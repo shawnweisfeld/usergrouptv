@@ -16,7 +16,8 @@
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
         }
-      ]
+      ],
+      "tags": []
     },
     {
       "title": "Create a Data Loading Strategy",
@@ -27,6 +28,12 @@
         {
           "name": "SQL Saturday",
           "slug": "sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Data Loading",
+          "slug": "data-loading"
         }
       ]
     }

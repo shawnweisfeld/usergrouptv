@@ -16,6 +16,12 @@
           "name": "Xamarin Dev Days",
           "slug": "xamarin-dev-days"
         }
+      ],
+      "tags": [
+        {
+          "name": "xamarin",
+          "slug": "xamarin"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Xamarin Dev Days",
           "slug": "xamarin-dev-days"
+        }
+      ],
+      "tags": [
+        {
+          "name": "xamarin",
+          "slug": "xamarin"
         }
       ]
     }

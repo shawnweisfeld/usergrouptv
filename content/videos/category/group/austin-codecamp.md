@@ -15,6 +15,12 @@
           "name": "Nolan Egly",
           "slug": "nolan-egly"
         }
+      ],
+      "tags": [
+        {
+          "name": "Cryptography",
+          "slug": "cryptography"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Latish Sehgal",
           "slug": "latish-sehgal"
+        }
+      ],
+      "tags": [
+        {
+          "name": "tools",
+          "slug": "tools"
         }
       ]
     },
@@ -39,6 +51,12 @@
           "name": "Latish Sehgal",
           "slug": "latish-sehgal"
         }
+      ],
+      "tags": [
+        {
+          "name": "Kinect",
+          "slug": "kinect"
+        }
       ]
     },
     {
@@ -50,6 +68,12 @@
         {
           "name": "Matthew D. Groves",
           "slug": "matthew-d-groves"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Single Responsibility",
+          "slug": "single-responsibility"
         }
       ]
     },
@@ -63,6 +87,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "TypeScript",
+          "slug": "typescript"
+        }
       ]
     },
     {
@@ -74,6 +104,12 @@
         {
           "name": "Mark Rosenberg",
           "slug": "mark-rosenberg"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Performance",
+          "slug": "sql-performance"
         }
       ]
     },
@@ -87,6 +123,12 @@
           "name": "Anil Desai",
           "slug": "anil-desai"
         }
+      ],
+      "tags": [
+        {
+          "name": "SSRS",
+          "slug": "ssrs"
+        }
       ]
     },
     {
@@ -98,6 +140,12 @@
         {
           "name": "Anil Desai",
           "slug": "anil-desai"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
         }
       ]
     },
@@ -111,6 +159,12 @@
           "name": "Ryan Vice",
           "slug": "ryan-vice"
         }
+      ],
+      "tags": [
+        {
+          "name": "WebAPI",
+          "slug": "webapi"
+        }
       ]
     },
     {
@@ -122,6 +176,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "win8",
+          "slug": "win8"
         }
       ]
     },
@@ -135,6 +195,16 @@
           "name": "Steve Donie",
           "slug": "steve-donie"
         }
+      ],
+      "tags": [
+        {
+          "name": "Knockout.js",
+          "slug": "knockout-js"
+        },
+        {
+          "name": "backbone.js",
+          "slug": "backbone-js"
+        }
       ]
     },
     {
@@ -146,6 +216,12 @@
         {
           "name": "John Teague",
           "slug": "john-teague"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Nodejs",
+          "slug": "nodejs"
         }
       ]
     },
@@ -159,6 +235,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "WebAPI",
+          "slug": "webapi"
+        }
       ]
     },
     {
@@ -170,6 +252,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "win8",
+          "slug": "win8"
         }
       ]
     },
@@ -183,6 +271,12 @@
           "name": "Dimitry Ushakov",
           "slug": "dimitry-ushakov"
         }
+      ],
+      "tags": [
+        {
+          "name": "Performance",
+          "slug": "performance"
+        }
       ]
     },
     {
@@ -194,6 +288,12 @@
         {
           "name": "Tim Thomas",
           "slug": "tim-thomas"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Design",
+          "slug": "design"
         }
       ]
     },
@@ -207,6 +307,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "Orchard",
+          "slug": "orchard"
+        }
       ]
     },
     {
@@ -218,6 +324,12 @@
         {
           "name": "Anil Desai",
           "slug": "anil-desai"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server Reporting Services",
+          "slug": "sql-server-reporting-services"
         }
       ]
     },
@@ -231,6 +343,12 @@
           "name": "Anil Desai",
           "slug": "anil-desai"
         }
+      ],
+      "tags": [
+        {
+          "name": "Server Performance",
+          "slug": "server-performance"
+        }
       ]
     },
     {
@@ -242,6 +360,12 @@
         {
           "name": "Ryan Rauh",
           "slug": "ryan-rauh"
+        }
+      ],
+      "tags": [
+        {
+          "name": "JavaScript",
+          "slug": "javascript"
         }
       ]
     },
@@ -255,6 +379,12 @@
           "name": "Darryl Parker",
           "slug": "darryl-parker"
         }
+      ],
+      "tags": [
+        {
+          "name": "MooTools",
+          "slug": "mootools"
+        }
       ]
     },
     {
@@ -266,6 +396,12 @@
         {
           "name": "Ryan Vice",
           "slug": "ryan-vice"
+        }
+      ],
+      "tags": [
+        {
+          "name": "mvvm",
+          "slug": "mvvm"
         }
       ]
     }

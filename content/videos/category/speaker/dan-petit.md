@@ -16,6 +16,16 @@
           "name": "Little Rock Tech Fest",
           "slug": "little-rock-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "CD",
+          "slug": "cd"
+        },
+        {
+          "name": "CI",
+          "slug": "ci"
+        }
       ]
     }
   ]

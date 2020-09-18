@@ -16,6 +16,12 @@
           "name": "Dallas TechFest",
           "slug": "dallas-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "NoSQL",
+          "slug": "nosql"
+        }
       ]
     }
   ]

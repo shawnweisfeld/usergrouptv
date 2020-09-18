@@ -15,6 +15,12 @@
           "name": "Brian Sullivan",
           "slug": "brian-sullivan"
         }
+      ],
+      "tags": [
+        {
+          "name": "BabelJS",
+          "slug": "babeljs"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Chad Howell",
           "slug": "chad-howell"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
         }
       ]
     },
@@ -39,6 +51,12 @@
           "name": "Troy Vinson",
           "slug": "troy-vinson"
         }
+      ],
+      "tags": [
+        {
+          "name": "Security",
+          "slug": "security"
+        }
       ]
     },
     {
@@ -50,6 +68,12 @@
         {
           "name": "Joseph Reynolds",
           "slug": "joseph-reynolds"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Win10",
+          "slug": "win10"
         }
       ]
     },
@@ -63,6 +87,12 @@
           "name": "Kyle Baley",
           "slug": "kyle-baley"
         }
+      ],
+      "tags": [
+        {
+          "name": "Docker",
+          "slug": "docker"
+        }
       ]
     },
     {
@@ -74,6 +104,12 @@
         {
           "name": "Allen Hurst",
           "slug": "allen-hurst"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -87,6 +123,20 @@
           "name": "Gabriel Schenker",
           "slug": "gabriel-schenker"
         }
+      ],
+      "tags": [
+        {
+          "name": "DDD",
+          "slug": "ddd"
+        },
+        {
+          "name": "CQRS",
+          "slug": "cqrs"
+        },
+        {
+          "name": "Event Sourcing",
+          "slug": "event-sourcing"
+        }
       ]
     },
     {
@@ -98,6 +148,12 @@
         {
           "name": "Justin Mason",
           "slug": "justin-mason"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Continuous Delivery",
+          "slug": "continuous-delivery"
         }
       ]
     },
@@ -111,6 +167,12 @@
           "name": "James Chambers",
           "slug": "james-chambers"
         }
+      ],
+      "tags": [
+        {
+          "name": "ASP.NET vNext",
+          "slug": "asp-net-vnext"
+        }
       ]
     },
     {
@@ -122,6 +184,12 @@
         {
           "name": "Peter Siri",
           "slug": "peter-siri"
+        }
+      ],
+      "tags": [
+        {
+          "name": "DevOps",
+          "slug": "devops"
         }
       ]
     },
@@ -135,6 +203,12 @@
           "name": "Colin Pear",
           "slug": "colin-pear"
         }
+      ],
+      "tags": [
+        {
+          "name": "DevOps",
+          "slug": "devops"
+        }
       ]
     },
     {
@@ -146,6 +220,12 @@
         {
           "name": "Gabriel Schenker",
           "slug": "gabriel-schenker"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Continuous Deployment",
+          "slug": "continuous-deployment"
         }
       ]
     },
@@ -159,6 +239,12 @@
           "name": "Justin Self",
           "slug": "justin-self"
         }
+      ],
+      "tags": [
+        {
+          "name": "NServiceBus",
+          "slug": "nservicebus"
+        }
       ]
     },
     {
@@ -170,6 +256,12 @@
         {
           "name": "Joseph Reynolds",
           "slug": "joseph-reynolds"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Testing",
+          "slug": "testing"
         }
       ]
     },
@@ -183,6 +275,12 @@
           "name": "Kevin Hurwitz",
           "slug": "kevin-hurwitz"
         }
+      ],
+      "tags": [
+        {
+          "name": "Proxy Product Owner",
+          "slug": "proxy-product-owner"
+        }
       ]
     },
     {
@@ -194,6 +292,12 @@
         {
           "name": "Jeffrey Palermo",
           "slug": "jeffrey-palermo"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Keynote",
+          "slug": "keynote"
         }
       ]
     }

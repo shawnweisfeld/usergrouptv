@@ -15,7 +15,8 @@
           "name": "Kenneth Fisher",
           "slug": "kenneth-fisher"
         }
-      ]
+      ],
+      "tags": []
     },
     {
       "title": "TARDIS: Time And Relative Dimensions in SQL!",
@@ -26,6 +27,12 @@
         {
           "name": "Tim Costello",
           "slug": "tim-costello"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Data Warehouse",
+          "slug": "data-warehouse"
         }
       ]
     },
@@ -39,6 +46,12 @@
           "name": "Steven Rachui",
           "slug": "steven-rachui"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Config Man",
+          "slug": "sql-config-man"
+        }
       ]
     },
     {
@@ -50,6 +63,12 @@
         {
           "name": "Ryan Adams",
           "slug": "ryan-adams"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Backup",
+          "slug": "sql-backup"
         }
       ]
     },
@@ -63,6 +82,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Azure",
+          "slug": "sql-azure"
+        }
       ]
     },
     {
@@ -74,6 +99,12 @@
         {
           "name": "Matthew Brimer",
           "slug": "matthew-brimer"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Security",
+          "slug": "sql-security"
         }
       ]
     },
@@ -87,6 +118,12 @@
           "name": "George Walkey",
           "slug": "george-walkey"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Admin",
+          "slug": "sql-admin"
+        }
       ]
     },
     {
@@ -98,6 +135,12 @@
         {
           "name": "Jennifer McCown",
           "slug": "jennifer-mccown"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Sproc",
+          "slug": "sproc"
         }
       ]
     },
@@ -111,6 +154,12 @@
           "name": "Tim Costello",
           "slug": "tim-costello"
         }
+      ],
+      "tags": [
+        {
+          "name": "ETL",
+          "slug": "etl"
+        }
       ]
     },
     {
@@ -122,6 +171,12 @@
         {
           "name": "John Sterrett",
           "slug": "john-sterrett"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Admin",
+          "slug": "sql-admin"
         }
       ]
     },
@@ -135,6 +190,12 @@
           "name": "Sean McCown",
           "slug": "sean-mccown"
         }
+      ],
+      "tags": [
+        {
+          "name": "Minion Solutions",
+          "slug": "minion-solutions"
+        }
       ]
     },
     {
@@ -146,6 +207,16 @@
         {
           "name": "Sean McCown",
           "slug": "sean-mccown"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        },
+        {
+          "name": "Regex",
+          "slug": "regex"
         }
       ]
     },
@@ -159,6 +230,12 @@
           "name": "Judd Wheeler",
           "slug": "judd-wheeler"
         }
+      ],
+      "tags": [
+        {
+          "name": "Moble",
+          "slug": "moble"
+        }
       ]
     },
     {
@@ -170,6 +247,12 @@
         {
           "name": "Lee Brandt",
           "slug": "lee-brandt"
+        }
+      ],
+      "tags": [
+        {
+          "name": "iOS",
+          "slug": "ios"
         }
       ]
     },
@@ -183,6 +266,12 @@
           "name": "Logan McLain",
           "slug": "logan-mclain"
         }
+      ],
+      "tags": [
+        {
+          "name": "UX",
+          "slug": "ux"
+        }
       ]
     },
     {
@@ -194,6 +283,12 @@
         {
           "name": "Logan McLain",
           "slug": "logan-mclain"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SignalR",
+          "slug": "signalr"
         }
       ]
     },
@@ -207,6 +302,12 @@
           "name": "Sean Whitesell",
           "slug": "sean-whitesell"
         }
+      ],
+      "tags": [
+        {
+          "name": "debuging",
+          "slug": "debuging"
+        }
       ]
     },
     {
@@ -218,6 +319,12 @@
         {
           "name": "Brian Sullivan",
           "slug": "brian-sullivan"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Sails.js",
+          "slug": "sails-js"
         }
       ]
     },
@@ -231,6 +338,12 @@
           "name": "Jesse Harlin",
           "slug": "jesse-harlin"
         }
+      ],
+      "tags": [
+        {
+          "name": "JavaScript",
+          "slug": "javascript"
+        }
       ]
     },
     {
@@ -242,6 +355,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SSDT",
+          "slug": "ssdt"
         }
       ]
     },
@@ -255,6 +374,12 @@
           "name": "Devlin Liles",
           "slug": "devlin-liles"
         }
+      ],
+      "tags": [
+        {
+          "name": "tools",
+          "slug": "tools"
+        }
       ]
     },
     {
@@ -266,6 +391,12 @@
         {
           "name": "Jason Knight",
           "slug": "jason-knight"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Scrum",
+          "slug": "scrum"
         }
       ]
     },
@@ -279,6 +410,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "SLAB",
+          "slug": "slab"
+        }
       ]
     },
     {
@@ -290,6 +427,12 @@
         {
           "name": "Michael L Perry",
           "slug": "michael-l-perry"
+        }
+      ],
+      "tags": [
+        {
+          "name": "CQRS",
+          "slug": "cqrs"
         }
       ]
     },
@@ -303,6 +446,12 @@
           "name": "Girish Gangadharan",
           "slug": "girish-gangadharan"
         }
+      ],
+      "tags": [
+        {
+          "name": "Node.js",
+          "slug": "node-js"
+        }
       ]
     },
     {
@@ -314,6 +463,12 @@
         {
           "name": "Brian Sullivan",
           "slug": "brian-sullivan"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Durandal",
+          "slug": "durandal"
         }
       ]
     },
@@ -327,6 +482,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "TypeScript",
+          "slug": "typescript"
+        }
       ]
     },
     {
@@ -338,6 +499,16 @@
         {
           "name": "Mark Rackley",
           "slug": "mark-rackley"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Sharepoint",
+          "slug": "sharepoint"
+        },
+        {
+          "name": "jQuery",
+          "slug": "jquery"
         }
       ]
     },
@@ -351,6 +522,12 @@
           "name": "Dennis Bottjer",
           "slug": "dennis-bottjer"
         }
+      ],
+      "tags": [
+        {
+          "name": "Sharepoint",
+          "slug": "sharepoint"
+        }
       ]
     },
     {
@@ -362,6 +539,12 @@
         {
           "name": "Garret Edmondson",
           "slug": "garret-edmondson"
+        }
+      ],
+      "tags": [
+        {
+          "name": "ETL",
+          "slug": "etl"
         }
       ]
     },
@@ -375,6 +558,12 @@
           "name": "Garret Edmondson",
           "slug": "garret-edmondson"
         }
+      ],
+      "tags": [
+        {
+          "name": "Data Warehouse",
+          "slug": "data-warehouse"
+        }
       ]
     },
     {
@@ -386,6 +575,12 @@
         {
           "name": "Tim Costello",
           "slug": "tim-costello"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Data Warehouse",
+          "slug": "data-warehouse"
         }
       ]
     },
@@ -399,6 +594,12 @@
           "name": "Tim Costello",
           "slug": "tim-costello"
         }
+      ],
+      "tags": [
+        {
+          "name": "Tableau",
+          "slug": "tableau"
+        }
       ]
     },
     {
@@ -410,6 +611,16 @@
         {
           "name": "Tim Mitchell",
           "slug": "tim-mitchell"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SSIS",
+          "slug": "ssis"
+        },
+        {
+          "name": "ETL",
+          "slug": "etl"
         }
       ]
     },
@@ -423,6 +634,12 @@
           "name": "Russel Loski",
           "slug": "russel-loski"
         }
+      ],
+      "tags": [
+        {
+          "name": "BIML",
+          "slug": "biml"
+        }
       ]
     },
     {
@@ -434,6 +651,12 @@
         {
           "name": "Russel Loski",
           "slug": "russel-loski"
+        }
+      ],
+      "tags": [
+        {
+          "name": "XML Source",
+          "slug": "xml-source"
         }
       ]
     },
@@ -447,6 +670,16 @@
           "name": "Rob Sullivan",
           "slug": "rob-sullivan"
         }
+      ],
+      "tags": [
+        {
+          "name": "NoSQL",
+          "slug": "nosql"
+        },
+        {
+          "name": "Open Source DB",
+          "slug": "open-source-db"
+        }
       ]
     },
     {
@@ -458,6 +691,12 @@
         {
           "name": "Allen Smith",
           "slug": "allen-smith"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Sharepoint",
+          "slug": "sharepoint"
         }
       ]
     },
@@ -471,6 +710,12 @@
           "name": "Jennifer McCown",
           "slug": "jennifer-mccown"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        }
       ]
     },
     {
@@ -482,6 +727,12 @@
         {
           "name": "David Stein",
           "slug": "david-stein"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Merge",
+          "slug": "merge"
         }
       ]
     },
@@ -495,6 +746,12 @@
           "name": "Kat Meadows",
           "slug": "kat-meadows"
         }
+      ],
+      "tags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
       ]
     },
     {
@@ -506,6 +763,12 @@
         {
           "name": "Jeff Bramwell",
           "slug": "jeff-bramwell"
+        }
+      ],
+      "tags": [
+        {
+          "name": "VS2012",
+          "slug": "vs2012"
         }
       ]
     },
@@ -519,6 +782,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "WebAPI",
+          "slug": "webapi"
+        }
       ]
     },
     {
@@ -530,6 +799,12 @@
         {
           "name": "Buddy Lindsey",
           "slug": "buddy-lindsey"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Node.js",
+          "slug": "node-js"
         }
       ]
     },
@@ -543,6 +818,12 @@
           "name": "Matt Galloway",
           "slug": "matt-galloway"
         }
+      ],
+      "tags": [
+        {
+          "name": "Augmenting Reality",
+          "slug": "augmenting-reality"
+        }
       ]
     },
     {
@@ -554,6 +835,12 @@
         {
           "name": "Girish Gangadharan",
           "slug": "girish-gangadharan"
+        }
+      ],
+      "tags": [
+        {
+          "name": "jQuery Mobile",
+          "slug": "jquery-mobile"
         }
       ]
     },
@@ -567,6 +854,16 @@
           "name": "Andrew Chandler",
           "slug": "andrew-chandler"
         }
+      ],
+      "tags": [
+        {
+          "name": "Android",
+          "slug": "android"
+        },
+        {
+          "name": "NFC",
+          "slug": "nfc"
+        }
       ]
     },
     {
@@ -578,6 +875,16 @@
         {
           "name": "Michael L Perry",
           "slug": "michael-l-perry"
+        }
+      ],
+      "tags": [
+        {
+          "name": "WinPhone",
+          "slug": "winphone"
+        },
+        {
+          "name": "Correspondence",
+          "slug": "correspondence"
         }
       ]
     },
@@ -591,6 +898,12 @@
           "name": "Kevin Boles",
           "slug": "kevin-boles"
         }
+      ],
+      "tags": [
+        {
+          "name": "sql injection",
+          "slug": "sql-injection"
+        }
       ]
     },
     {
@@ -602,6 +915,16 @@
         {
           "name": "Michael Hotek",
           "slug": "michael-hotek"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server",
+          "slug": "sql-server"
+        },
+        {
+          "name": "Tuning",
+          "slug": "tuning"
         }
       ]
     },
@@ -615,6 +938,12 @@
           "name": "Grant Fritchey",
           "slug": "grant-fritchey"
         }
+      ],
+      "tags": [
+        {
+          "name": "TSQL",
+          "slug": "tsql"
+        }
       ]
     },
     {
@@ -626,6 +955,12 @@
         {
           "name": "Rob Sullivan",
           "slug": "rob-sullivan"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Azure",
+          "slug": "sql-azure"
         }
       ]
     },
@@ -639,6 +974,12 @@
           "name": "Jennifer McCown",
           "slug": "jennifer-mccown"
         }
+      ],
+      "tags": [
+        {
+          "name": "TSQL",
+          "slug": "tsql"
+        }
       ]
     },
     {
@@ -650,6 +991,12 @@
         {
           "name": "Sean McCown",
           "slug": "sean-mccown"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Backup",
+          "slug": "sql-backup"
         }
       ]
     },
@@ -663,6 +1010,12 @@
           "name": "John Sterrett",
           "slug": "john-sterrett"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Performance",
+          "slug": "sql-performance"
+        }
       ]
     },
     {
@@ -674,6 +1027,12 @@
         {
           "name": "Rod Knowlton",
           "slug": "rod-knowlton"
+        }
+      ],
+      "tags": [
+        {
+          "name": "HTML5",
+          "slug": "html5"
         }
       ]
     },
@@ -687,6 +1046,12 @@
           "name": "Patrick Forringer",
           "slug": "patrick-forringer"
         }
+      ],
+      "tags": [
+        {
+          "name": "CSS",
+          "slug": "css"
+        }
       ]
     },
     {
@@ -698,6 +1063,12 @@
         {
           "name": "Luke Crouch",
           "slug": "luke-crouch"
+        }
+      ],
+      "tags": [
+        {
+          "name": "HTML5",
+          "slug": "html5"
         }
       ]
     },
@@ -711,6 +1082,12 @@
           "name": "Glen Block",
           "slug": "glen-block"
         }
+      ],
+      "tags": [
+        {
+          "name": "WCF Web API",
+          "slug": "wcf-web-api"
+        }
       ]
     },
     {
@@ -722,6 +1099,12 @@
         {
           "name": "Ben Miller",
           "slug": "ben-miller"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL TDE",
+          "slug": "sql-tde"
         }
       ]
     },
@@ -735,6 +1118,12 @@
           "name": "Sri Sridharan",
           "slug": "sri-sridharan"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Governance",
+          "slug": "sql-governance"
+        }
       ]
     },
     {
@@ -746,6 +1135,12 @@
         {
           "name": "Wes Brown",
           "slug": "wes-brown"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Storage",
+          "slug": "sql-storage"
         }
       ]
     },
@@ -759,6 +1154,12 @@
           "name": "Steve Jones",
           "slug": "steve-jones"
         }
+      ],
+      "tags": [
+        {
+          "name": "Keynote",
+          "slug": "keynote"
+        }
       ]
     },
     {
@@ -770,6 +1171,12 @@
         {
           "name": "Sean McCown",
           "slug": "sean-mccown"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Backup",
+          "slug": "sql-backup"
         }
       ]
     },
@@ -783,6 +1190,12 @@
           "name": "Steve Jones",
           "slug": "steve-jones"
         }
+      ],
+      "tags": [
+        {
+          "name": "Red Gate",
+          "slug": "red-gate"
+        }
       ]
     },
     {
@@ -794,6 +1207,12 @@
         {
           "name": "Ryan Adams",
           "slug": "ryan-adams"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Policy Based Mgmt",
+          "slug": "sql-policy-based-mgmt"
         }
       ]
     },
@@ -807,6 +1226,16 @@
           "name": "Chris Patterson",
           "slug": "chris-patterson"
         }
+      ],
+      "tags": [
+        {
+          "name": "MassTransit",
+          "slug": "masstransit"
+        },
+        {
+          "name": "ESB",
+          "slug": "esb"
+        }
       ]
     },
     {
@@ -818,6 +1247,12 @@
         {
           "name": "Jay Smith",
           "slug": "jay-smith"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -831,6 +1266,12 @@
           "name": "David Walker",
           "slug": "david-walker"
         }
+      ],
+      "tags": [
+        {
+          "name": "FDD",
+          "slug": "fdd"
+        }
       ]
     },
     {
@@ -842,6 +1283,12 @@
         {
           "name": "Chris Patterson",
           "slug": "chris-patterson"
+        }
+      ],
+      "tags": [
+        {
+          "name": "EDA",
+          "slug": "eda"
         }
       ]
     }

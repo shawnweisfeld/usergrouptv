@@ -16,6 +16,12 @@
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Architecture",
+          "slug": "architecture"
         }
       ]
     },
@@ -40,6 +52,12 @@
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -52,6 +70,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
+        }
       ]
     },
     {
@@ -63,6 +87,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Women in Tech",
+          "slug": "women-in-tech"
         }
       ]
     }

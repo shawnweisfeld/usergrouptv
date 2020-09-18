@@ -16,6 +16,12 @@
           "name": "Austin Microsoft Developers Group",
           "slug": "austin-microsoft-app-developers"
         }
+      ],
+      "tags": [
+        {
+          "name": "Bash",
+          "slug": "bash"
+        }
       ]
     }
   ]

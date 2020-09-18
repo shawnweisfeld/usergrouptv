@@ -16,6 +16,12 @@
           "name": "Tulsa .NET User Group",
           "slug": "tulsa-net-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "DDD",
+          "slug": "ddd"
+        }
       ]
     }
   ]

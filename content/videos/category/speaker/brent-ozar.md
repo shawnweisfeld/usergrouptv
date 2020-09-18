@@ -20,6 +20,12 @@
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server",
+          "slug": "sql-server"
+        }
       ]
     }
   ]

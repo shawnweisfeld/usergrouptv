@@ -2,9 +2,31 @@
   "title": "Azure",
   "type": "tag",
   "slug": "azure",
-  "date": "2020-08-25T13:52:05",
+  "date": "2020-09-15T17:47:45",
   "draft": false,
   "recordings": [
+    {
+      "title": "Today’s API Thread Landscape: Detect and Block Threats",
+      "slug": "todays-api-thread-landscape-detect-and-block-threats",
+      "thumbnail": "https://i.vimeocdn.com/video/958647865_295x166.jpg",
+      "date": "2020-09-15T17:47:45",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Aaron Lieberman",
+          "slug": "aaron-lieberman"
+        }
+      ]
+    },
     {
       "title": "Crazy Web Performance with Azure Static Web Apps",
       "slug": "crazy-web-performance-with-azure-static-web-apps",

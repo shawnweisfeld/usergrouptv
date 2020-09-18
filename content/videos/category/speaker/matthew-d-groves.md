@@ -16,7 +16,8 @@
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
         }
-      ]
+      ],
+      "tags": []
     },
     {
       "title": "The class that knew too much: refactoring spaghetti code",
@@ -27,6 +28,12 @@
         {
           "name": "Austin CodeCamp",
           "slug": "austin-codecamp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Single Responsibility",
+          "slug": "single-responsibility"
         }
       ]
     }

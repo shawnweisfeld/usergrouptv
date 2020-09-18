@@ -16,6 +16,12 @@
           "name": "ACT-W",
           "slug": "act-w"
         }
+      ],
+      "tags": [
+        {
+          "name": "Job",
+          "slug": "job"
+        }
       ]
     }
   ]

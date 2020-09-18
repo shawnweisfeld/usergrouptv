@@ -15,6 +15,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "WebAPI",
+          "slug": "webapi"
+        }
       ]
     }
   ]

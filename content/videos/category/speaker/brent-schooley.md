@@ -16,6 +16,16 @@
           "name": "Dallas .NET UG",
           "slug": "dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "win8",
+          "slug": "win8"
+        }
       ]
     }
   ]

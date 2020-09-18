@@ -20,6 +20,12 @@
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "DB Project",
+          "slug": "db-project"
+        }
       ]
     },
     {
@@ -31,6 +37,12 @@
         {
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure Database",
+          "slug": "azure-database"
         }
       ]
     }

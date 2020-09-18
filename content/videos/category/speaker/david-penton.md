@@ -16,6 +16,16 @@
           "name": "North Dallas .NET UG",
           "slug": "north-dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Razor",
+          "slug": "razor"
+        },
+        {
+          "name": "WebMatrix",
+          "slug": "webmatrix"
+        }
       ]
     },
     {
@@ -28,6 +38,12 @@
           "name": "North Dallas .NET UG",
           "slug": "north-dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Security",
+          "slug": "security"
+        }
       ]
     },
     {
@@ -39,6 +55,12 @@
         {
           "name": "North Dallas .NET UG",
           "slug": "north-dallas-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mongo DB",
+          "slug": "mongo-db"
         }
       ]
     }

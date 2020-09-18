@@ -16,6 +16,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Sharepoint",
+          "slug": "sharepoint"
+        }
       ]
     }
   ]

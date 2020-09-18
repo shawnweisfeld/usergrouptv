@@ -16,6 +16,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Security",
+          "slug": "sql-security"
+        }
       ]
     },
     {
@@ -32,7 +38,8 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
-      ]
+      ],
+      "tags": []
     }
   ]
 }

@@ -16,6 +16,12 @@
           "name": "Little Rock Tech Fest",
           "slug": "little-rock-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Game Dev",
+          "slug": "game-dev"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Cowtown Code Camp",
           "slug": "cowtown-code-camp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Unity",
+          "slug": "unity"
         }
       ]
     }

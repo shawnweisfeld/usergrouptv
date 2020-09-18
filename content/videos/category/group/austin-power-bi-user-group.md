@@ -15,6 +15,12 @@
           "name": "Alex Powers",
           "slug": "alex-powers"
         }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Reid Havens",
           "slug": "reid-havens"
+        }
+      ],
+      "tags": [
+        {
+          "name": "PowerBI",
+          "slug": "powerbi"
         }
       ]
     },
@@ -39,6 +51,12 @@
           "name": "Matthew Floyd",
           "slug": "matthew-floyd"
         }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
       ]
     },
     {
@@ -50,6 +68,20 @@
         {
           "name": "Charles Sterling",
           "slug": "charles-sterling"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power Automate",
+          "slug": "power-automate"
+        },
+        {
+          "name": "Power Apps",
+          "slug": "power-apps"
+        },
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
         }
       ]
     },
@@ -63,6 +95,12 @@
           "name": "Reza Rad",
           "slug": "reza-rad"
         }
+      ],
+      "tags": [
+        {
+          "name": "PowerBI",
+          "slug": "powerbi"
+        }
       ]
     },
     {
@@ -74,6 +112,12 @@
         {
           "name": "Matthew Floyd",
           "slug": "matthew-floyd"
+        }
+      ],
+      "tags": [
+        {
+          "name": "PowerBI",
+          "slug": "powerbi"
         }
       ]
     },
@@ -87,6 +131,12 @@
           "name": "Matthew Floyd",
           "slug": "matthew-floyd"
         }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
       ]
     },
     {
@@ -98,6 +148,12 @@
         {
           "name": "Mike Ford",
           "slug": "mike-ford"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
         }
       ]
     },
@@ -111,6 +167,12 @@
           "name": "Tone Shelby",
           "slug": "tone-shelby"
         }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
       ]
     },
     {
@@ -122,6 +184,12 @@
         {
           "name": "Pablo Moreno",
           "slug": "pablo-moreno"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
         }
       ]
     },
@@ -135,6 +203,12 @@
           "name": "Mike Ford",
           "slug": "mike-ford"
         }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
       ]
     },
     {
@@ -146,6 +220,12 @@
         {
           "name": "Pablo Moreno",
           "slug": "pablo-moreno"
+        }
+      ],
+      "tags": [
+        {
+          "name": "PowerBI",
+          "slug": "powerbi"
         }
       ]
     }

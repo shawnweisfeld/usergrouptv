@@ -16,6 +16,20 @@
           "name": "Ft. Worth .NET UG",
           "slug": "ft-worth-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "mvvm",
+          "slug": "mvvm"
+        },
+        {
+          "name": "MVC",
+          "slug": "mvc"
+        },
+        {
+          "name": "MVP",
+          "slug": "mvp"
+        }
       ]
     },
     {
@@ -27,6 +41,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Design Patterns",
+          "slug": "design-patterns"
         }
       ]
     },
@@ -40,6 +60,12 @@
           "name": "Hands On Coding .NET Dallas",
           "slug": "hands-on-coding-net-dallas"
         }
+      ],
+      "tags": [
+        {
+          "name": "Attributes",
+          "slug": "attributes"
+        }
       ]
     },
     {
@@ -51,6 +77,12 @@
         {
           "name": "Ft. Worth .NET UG",
           "slug": "ft-worth-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "VS2010",
+          "slug": "vs2010"
         }
       ]
     },
@@ -64,6 +96,12 @@
           "name": "Dallas TechFest",
           "slug": "dallas-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "EF",
+          "slug": "ef"
+        }
       ]
     },
     {
@@ -75,6 +113,12 @@
         {
           "name": "Hands On Coding .NET Dallas",
           "slug": "hands-on-coding-net-dallas"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Design Patterns",
+          "slug": "design-patterns"
         }
       ]
     },
@@ -88,6 +132,12 @@
           "name": "Dallas C# SIG",
           "slug": "dallas-c-sig"
         }
+      ],
+      "tags": [
+        {
+          "name": "Entity Framework Code First",
+          "slug": "entity-framework-code-first"
+        }
       ]
     },
     {
@@ -99,6 +149,12 @@
         {
           "name": "Hands On Coding .NET Dallas",
           "slug": "hands-on-coding-net-dallas"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Delegates",
+          "slug": "delegates"
         }
       ]
     },
@@ -112,6 +168,12 @@
           "name": "Dallas .NET UG",
           "slug": "dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Design Patterns",
+          "slug": "design-patterns"
+        }
       ]
     },
     {
@@ -123,6 +185,16 @@
         {
           "name": "Hands On Coding .NET Dallas",
           "slug": "hands-on-coding-net-dallas"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Lambdas",
+          "slug": "lambdas"
+        },
+        {
+          "name": "C#",
+          "slug": "c"
         }
       ]
     }

@@ -16,6 +16,12 @@
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
         }
+      ],
+      "tags": [
+        {
+          "name": "Career",
+          "slug": "career"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "MS SQL",
+          "slug": "ms-sql"
         }
       ]
     },
@@ -40,6 +52,12 @@
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
         }
+      ],
+      "tags": [
+        {
+          "name": "MS SQL",
+          "slug": "ms-sql"
+        }
       ]
     },
     {
@@ -51,6 +69,12 @@
         {
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "T-SQL",
+          "slug": "t-sql"
         }
       ]
     }

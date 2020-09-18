@@ -16,6 +16,12 @@
           "name": "Austin CodeCamp",
           "slug": "austin-codecamp"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Performance",
+          "slug": "sql-performance"
+        }
       ]
     }
   ]

@@ -15,6 +15,12 @@
           "name": "Dustin Kirkland",
           "slug": "dustin-kirkland"
         }
+      ],
+      "tags": [
+        {
+          "name": "Bash",
+          "slug": "bash"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Jeff Linwood",
           "slug": "jeff-linwood"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Node.js",
+          "slug": "node-js"
         }
       ]
     },
@@ -39,6 +51,12 @@
           "name": "Ryan Joy",
           "slug": "ryan-joy"
         }
+      ],
+      "tags": [
+        {
+          "name": "Band",
+          "slug": "band"
+        }
       ]
     },
     {
@@ -51,6 +69,12 @@
           "name": "Ryan Joy",
           "slug": "ryan-joy"
         }
+      ],
+      "tags": [
+        {
+          "name": "edge",
+          "slug": "edge"
+        }
       ]
     },
     {
@@ -62,6 +86,12 @@
         {
           "name": "Jimmy Bogard",
           "slug": "jimmy-bogard"
+        }
+      ],
+      "tags": [
+        {
+          "name": "PCL",
+          "slug": "pcl"
         }
       ]
     }

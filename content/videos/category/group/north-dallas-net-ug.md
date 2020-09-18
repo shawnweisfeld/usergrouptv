@@ -15,6 +15,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Service Fabric",
+          "slug": "azure-service-fabric"
+        }
       ]
     },
     {
@@ -26,6 +32,20 @@
         {
           "name": "Eric Sowell",
           "slug": "eric-sowell"
+        }
+      ],
+      "tags": [
+        {
+          "name": "MVC",
+          "slug": "mvc"
+        },
+        {
+          "name": "Mobile",
+          "slug": "mobile"
+        },
+        {
+          "name": "ASP.NET",
+          "slug": "asp-net"
         }
       ]
     },
@@ -39,6 +59,16 @@
           "name": "Caleb Jenkins",
           "slug": "caleb-jenkins"
         }
+      ],
+      "tags": [
+        {
+          "name": "Scrum",
+          "slug": "scrum"
+        },
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -50,6 +80,16 @@
         {
           "name": "Mads Kristensen",
           "slug": "mads-kristensen"
+        }
+      ],
+      "tags": [
+        {
+          "name": "tools",
+          "slug": "tools"
+        },
+        {
+          "name": "VS2012",
+          "slug": "vs2012"
         }
       ]
     },
@@ -63,6 +103,12 @@
           "name": "Keyvan Nayyeri",
           "slug": "keyvan-nayyeri"
         }
+      ],
+      "tags": [
+        {
+          "name": "SignalR",
+          "slug": "signalr"
+        }
       ]
     },
     {
@@ -74,6 +120,12 @@
         {
           "name": "Udi Dahan",
           "slug": "udi-dahan"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Practices",
+          "slug": "practices"
         }
       ]
     },
@@ -87,6 +139,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "win8",
+          "slug": "win8"
+        }
       ]
     },
     {
@@ -98,6 +156,16 @@
         {
           "name": "Eric Sowell",
           "slug": "eric-sowell"
+        }
+      ],
+      "tags": [
+        {
+          "name": "HTML5",
+          "slug": "html5"
+        },
+        {
+          "name": "Canvas",
+          "slug": "canvas"
         }
       ]
     },
@@ -111,6 +179,16 @@
           "name": "Casey Watson",
           "slug": "casey-watson"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "Storage",
+          "slug": "storage"
+        }
       ]
     },
     {
@@ -122,6 +200,12 @@
         {
           "name": "Latish Sehgal",
           "slug": "latish-sehgal"
+        }
+      ],
+      "tags": [
+        {
+          "name": "tools",
+          "slug": "tools"
         }
       ]
     },
@@ -135,6 +219,16 @@
           "name": "Cory Smith",
           "slug": "cory-smith"
         }
+      ],
+      "tags": [
+        {
+          "name": "Portable Class Library",
+          "slug": "portable-class-library"
+        },
+        {
+          "name": "VB.NET",
+          "slug": "vb-net"
+        }
       ]
     },
     {
@@ -146,6 +240,12 @@
         {
           "name": "Justin Weinberg",
           "slug": "justin-weinberg"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Kinect",
+          "slug": "kinect"
         }
       ]
     },
@@ -159,6 +259,16 @@
           "name": "David Penton",
           "slug": "david-penton"
         }
+      ],
+      "tags": [
+        {
+          "name": "Razor",
+          "slug": "razor"
+        },
+        {
+          "name": "WebMatrix",
+          "slug": "webmatrix"
+        }
       ]
     },
     {
@@ -170,6 +280,20 @@
         {
           "name": "Eric Sowell",
           "slug": "eric-sowell"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mobile",
+          "slug": "mobile"
+        },
+        {
+          "name": "HTML5",
+          "slug": "html5"
+        },
+        {
+          "name": "CSS3",
+          "slug": "css3"
         }
       ]
     },
@@ -183,6 +307,12 @@
           "name": "Chris Love",
           "slug": "chris-love"
         }
+      ],
+      "tags": [
+        {
+          "name": "HTML5 Mobile",
+          "slug": "html5-mobile"
+        }
       ]
     },
     {
@@ -194,6 +324,20 @@
         {
           "name": "Eric Sowell",
           "slug": "eric-sowell"
+        }
+      ],
+      "tags": [
+        {
+          "name": "MVC",
+          "slug": "mvc"
+        },
+        {
+          "name": "HTML",
+          "slug": "html"
+        },
+        {
+          "name": "CSS",
+          "slug": "css"
         }
       ]
     },
@@ -207,6 +351,20 @@
           "name": "Eric Sowell",
           "slug": "eric-sowell"
         }
+      ],
+      "tags": [
+        {
+          "name": "MVC",
+          "slug": "mvc"
+        },
+        {
+          "name": "HTML",
+          "slug": "html"
+        },
+        {
+          "name": "CSS",
+          "slug": "css"
+        }
       ]
     },
     {
@@ -218,6 +376,20 @@
         {
           "name": "Eric Sowell",
           "slug": "eric-sowell"
+        }
+      ],
+      "tags": [
+        {
+          "name": "MVC",
+          "slug": "mvc"
+        },
+        {
+          "name": "HTML",
+          "slug": "html"
+        },
+        {
+          "name": "CSS",
+          "slug": "css"
         }
       ]
     },
@@ -231,6 +403,12 @@
           "name": "Amir Rajan",
           "slug": "amir-rajan"
         }
+      ],
+      "tags": [
+        {
+          "name": "ASP.NET MVC",
+          "slug": "asp-net-mvc"
+        }
       ]
     },
     {
@@ -242,6 +420,12 @@
         {
           "name": "Keyvan Nayyeri",
           "slug": "keyvan-nayyeri"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Parallel Programming",
+          "slug": "parallel-programming"
         }
       ]
     },
@@ -255,6 +439,12 @@
           "name": "David Penton",
           "slug": "david-penton"
         }
+      ],
+      "tags": [
+        {
+          "name": "Security",
+          "slug": "security"
+        }
       ]
     },
     {
@@ -267,6 +457,12 @@
           "name": "David Penton",
           "slug": "david-penton"
         }
+      ],
+      "tags": [
+        {
+          "name": "Mongo DB",
+          "slug": "mongo-db"
+        }
       ]
     },
     {
@@ -278,6 +474,12 @@
         {
           "name": "Tim Rayburn",
           "slug": "tim-rayburn"
+        }
+      ],
+      "tags": [
+        {
+          "name": "WCF",
+          "slug": "wcf"
         }
       ]
     }

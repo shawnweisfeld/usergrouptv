@@ -16,6 +16,12 @@
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "K8S",
+          "slug": "k8s"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Austin CodeCamp",
           "slug": "austin-codecamp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Performance",
+          "slug": "performance"
         }
       ]
     }

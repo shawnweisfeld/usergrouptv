@@ -16,6 +16,12 @@
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server Window Functions",
+          "slug": "sql-server-window-functions"
+        }
       ]
     }
   ]

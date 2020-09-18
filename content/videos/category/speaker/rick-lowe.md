@@ -16,6 +16,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Performance",
+          "slug": "sql-performance"
+        }
       ]
     },
     {
@@ -32,6 +38,12 @@
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "Plan Cache",
+          "slug": "plan-cache"
+        }
       ]
     },
     {
@@ -43,6 +55,12 @@
         {
           "name": "SQL Saturday",
           "slug": "sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Performance",
+          "slug": "sql-performance"
         }
       ]
     }

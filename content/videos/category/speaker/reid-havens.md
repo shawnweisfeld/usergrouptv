@@ -16,6 +16,12 @@
           "name": "Austin Power BI User Group",
           "slug": "austin-power-bi-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "PowerBI",
+          "slug": "powerbi"
+        }
       ]
     }
   ]

@@ -16,6 +16,12 @@
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
         }
+      ],
+      "tags": [
+        {
+          "name": "Cloud Security",
+          "slug": "cloud-security"
+        }
       ]
     }
   ]

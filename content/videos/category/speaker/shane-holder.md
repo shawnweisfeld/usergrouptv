@@ -16,6 +16,12 @@
           "name": "Dallas .NET UG",
           "slug": "dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Nodejs",
+          "slug": "nodejs"
+        }
       ]
     },
     {
@@ -27,6 +33,16 @@
         {
           "name": "Dallas ASP.NET UG",
           "slug": "dallasaspnet"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SketchFlow",
+          "slug": "sketchflow"
+        },
+        {
+          "name": "Blend",
+          "slug": "blend"
         }
       ]
     }

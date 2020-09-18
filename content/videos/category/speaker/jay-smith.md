@@ -16,6 +16,16 @@
           "name": "North West Arkansas Tech Fest",
           "slug": "north-west-arkansas-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "EF",
+          "slug": "ef"
+        },
+        {
+          "name": "Highway.Data",
+          "slug": "highway-data"
+        }
       ]
     },
     {
@@ -31,6 +41,12 @@
         {
           "name": "Tulsa School of Dev",
           "slug": "tulsa-school-of-dev"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     }

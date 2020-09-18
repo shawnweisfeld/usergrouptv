@@ -16,6 +16,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Continuous Delivery",
+          "slug": "continuous-delivery"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "DevOps",
+          "slug": "devops"
         }
       ]
     }

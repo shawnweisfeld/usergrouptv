@@ -16,6 +16,12 @@
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "sql on linux",
+          "slug": "sql-on-linux"
+        }
       ]
     }
   ]

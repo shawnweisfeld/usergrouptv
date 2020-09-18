@@ -15,6 +15,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "Cognitive Services",
+          "slug": "cognitive-services"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Angela Henry",
           "slug": "angela-henry"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
         }
       ]
     },
@@ -39,6 +51,12 @@
           "name": "Jamey Johnston",
           "slug": "jamey-johnston"
         }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
       ]
     },
     {
@@ -50,6 +68,12 @@
         {
           "name": "Jamey Johnston",
           "slug": "jamey-johnston"
+        }
+      ],
+      "tags": [
+        {
+          "name": "R",
+          "slug": "r"
         }
       ]
     },
@@ -63,6 +87,12 @@
           "name": "David Reid",
           "slug": "david-reid"
         }
+      ],
+      "tags": [
+        {
+          "name": "Career",
+          "slug": "career"
+        }
       ]
     },
     {
@@ -74,6 +104,12 @@
         {
           "name": "Janis Griffin",
           "slug": "janis-griffin"
+        }
+      ],
+      "tags": [
+        {
+          "name": "sql on linux",
+          "slug": "sql-on-linux"
         }
       ]
     },
@@ -87,6 +123,12 @@
           "name": "Kevin Boles",
           "slug": "kevin-boles"
         }
+      ],
+      "tags": [
+        {
+          "name": "Entity Framework",
+          "slug": "entity-framework"
+        }
       ]
     },
     {
@@ -99,6 +141,12 @@
           "name": "Michael Fal",
           "slug": "michael-fal"
         }
+      ],
+      "tags": [
+        {
+          "name": "git",
+          "slug": "git"
+        }
       ]
     },
     {
@@ -110,6 +158,12 @@
         {
           "name": "Steve Jones",
           "slug": "steve-jones"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Admin",
+          "slug": "sql-admin"
         }
       ]
     }

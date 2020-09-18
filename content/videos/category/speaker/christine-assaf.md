@@ -20,6 +20,12 @@
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
         }
+      ],
+      "tags": [
+        {
+          "name": "Data",
+          "slug": "data"
+        }
       ]
     },
     {
@@ -31,6 +37,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Job",
+          "slug": "job"
         }
       ]
     }

@@ -20,6 +20,12 @@
           "name": "Austin Global Azure Bootcamp",
           "slug": "austin-global-azure-bootcamp"
         }
+      ],
+      "tags": [
+        {
+          "name": "K8S",
+          "slug": "k8s"
+        }
       ]
     }
   ]

@@ -16,6 +16,12 @@
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Integration",
+          "slug": "integration"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure ML",
+          "slug": "azure-ml"
         }
       ]
     },
@@ -43,6 +55,12 @@
         {
           "name": "Tulsa School of Dev",
           "slug": "tulsa-school-of-dev"
+        }
+      ],
+      "tags": [
+        {
+          "name": "FDD",
+          "slug": "fdd"
         }
       ]
     }

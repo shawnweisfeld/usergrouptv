@@ -15,6 +15,16 @@
           "name": "Amir Rajan",
           "slug": "amir-rajan"
         }
+      ],
+      "tags": [
+        {
+          "name": "REST",
+          "slug": "rest"
+        },
+        {
+          "name": "WP7",
+          "slug": "wp7"
+        }
       ]
     },
     {
@@ -30,6 +40,12 @@
         {
           "name": "Justin Weinberg",
           "slug": "justin-weinberg"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Testing",
+          "slug": "testing"
         }
       ]
     }

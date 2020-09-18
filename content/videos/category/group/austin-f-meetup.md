@@ -15,6 +15,12 @@
           "name": "Chet Husk",
           "slug": "chet-husk"
         }
+      ],
+      "tags": [
+        {
+          "name": ".NET Core",
+          "slug": "net-core"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Chet Husk",
           "slug": "chet-husk"
+        }
+      ],
+      "tags": [
+        {
+          "name": "F#",
+          "slug": "f"
         }
       ]
     },
@@ -39,6 +51,12 @@
           "name": "Chet Husk",
           "slug": "chet-husk"
         }
+      ],
+      "tags": [
+        {
+          "name": "F#",
+          "slug": "f"
+        }
       ]
     },
     {
@@ -50,6 +68,12 @@
         {
           "name": "Chet Husk",
           "slug": "chet-husk"
+        }
+      ],
+      "tags": [
+        {
+          "name": "F#",
+          "slug": "f"
         }
       ]
     },
@@ -63,6 +87,12 @@
           "name": "Chet Husk",
           "slug": "chet-husk"
         }
+      ],
+      "tags": [
+        {
+          "name": "F#",
+          "slug": "f"
+        }
       ]
     },
     {
@@ -75,6 +105,12 @@
           "name": "Chet Husk",
           "slug": "chet-husk"
         }
+      ],
+      "tags": [
+        {
+          "name": "F#",
+          "slug": "f"
+        }
       ]
     },
     {
@@ -86,6 +122,12 @@
         {
           "name": "Chet Husk",
           "slug": "chet-husk"
+        }
+      ],
+      "tags": [
+        {
+          "name": "F#",
+          "slug": "f"
         }
       ]
     }

@@ -16,6 +16,12 @@
           "name": "Dallas .NET UG",
           "slug": "dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Emergent Design",
+          "slug": "emergent-design"
+        }
       ]
     }
   ]

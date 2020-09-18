@@ -16,6 +16,12 @@
           "name": "VNext Dallas",
           "slug": "vnext-dallas"
         }
+      ],
+      "tags": [
+        {
+          "name": "JavaScript",
+          "slug": "javascript"
+        }
       ]
     }
   ]

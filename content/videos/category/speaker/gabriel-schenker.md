@@ -16,6 +16,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Microservices",
+          "slug": "microservices"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Docker",
+          "slug": "docker"
         }
       ]
     },
@@ -40,6 +52,20 @@
           "name": "MeasureUp",
           "slug": "measure-up"
         }
+      ],
+      "tags": [
+        {
+          "name": "DDD",
+          "slug": "ddd"
+        },
+        {
+          "name": "CQRS",
+          "slug": "cqrs"
+        },
+        {
+          "name": "Event Sourcing",
+          "slug": "event-sourcing"
+        }
       ]
     },
     {
@@ -51,6 +77,12 @@
         {
           "name": "MeasureUp",
           "slug": "measure-up"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Continuous Deployment",
+          "slug": "continuous-deployment"
         }
       ]
     }

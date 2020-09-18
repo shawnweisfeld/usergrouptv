@@ -15,6 +15,12 @@
           "name": "Michael L Perry",
           "slug": "michael-l-perry"
         }
+      ],
+      "tags": [
+        {
+          "name": "Entity Framework",
+          "slug": "entity-framework"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Michael L Perry",
           "slug": "michael-l-perry"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Continuous Delivery",
+          "slug": "continuous-delivery"
         }
       ]
     },
@@ -39,6 +51,12 @@
           "name": "Lee Brandt",
           "slug": "lee-brandt"
         }
+      ],
+      "tags": [
+        {
+          "name": "Docker",
+          "slug": "docker"
+        }
       ]
     },
     {
@@ -50,6 +68,12 @@
         {
           "name": "Harold Pulcher",
           "slug": "harold-pulcher"
+        }
+      ],
+      "tags": [
+        {
+          "name": "IOT",
+          "slug": "iot"
         }
       ]
     },
@@ -63,6 +87,12 @@
           "name": "Harold Pulcher",
           "slug": "harold-pulcher"
         }
+      ],
+      "tags": [
+        {
+          "name": "IOT",
+          "slug": "iot"
+        }
       ]
     },
     {
@@ -74,6 +104,12 @@
         {
           "name": "Harold Pulcher",
           "slug": "harold-pulcher"
+        }
+      ],
+      "tags": [
+        {
+          "name": "IOT",
+          "slug": "iot"
         }
       ]
     },
@@ -87,6 +123,12 @@
           "name": "Derek Perry",
           "slug": "derek-perry"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -98,6 +140,12 @@
         {
           "name": "Sean Whitesell",
           "slug": "sean-whitesell"
+        }
+      ],
+      "tags": [
+        {
+          "name": "C#",
+          "slug": "c"
         }
       ]
     },
@@ -111,6 +159,16 @@
           "name": "Casey Watson",
           "slug": "casey-watson"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "AWS",
+          "slug": "aws"
+        }
       ]
     },
     {
@@ -122,6 +180,12 @@
         {
           "name": "Brian Sullivan",
           "slug": "brian-sullivan"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Sails.js",
+          "slug": "sails-js"
         }
       ]
     },
@@ -135,6 +199,12 @@
           "name": "Jesse Harlin",
           "slug": "jesse-harlin"
         }
+      ],
+      "tags": [
+        {
+          "name": "JavaScript",
+          "slug": "javascript"
+        }
       ]
     },
     {
@@ -146,6 +216,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SSDT",
+          "slug": "ssdt"
         }
       ]
     },
@@ -159,6 +235,12 @@
           "name": "Devlin Liles",
           "slug": "devlin-liles"
         }
+      ],
+      "tags": [
+        {
+          "name": "tools",
+          "slug": "tools"
+        }
       ]
     },
     {
@@ -170,6 +252,12 @@
         {
           "name": "Jason Knight",
           "slug": "jason-knight"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Scrum",
+          "slug": "scrum"
         }
       ]
     },
@@ -183,6 +271,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "SLAB",
+          "slug": "slab"
+        }
       ]
     },
     {
@@ -194,6 +288,12 @@
         {
           "name": "Michael L Perry",
           "slug": "michael-l-perry"
+        }
+      ],
+      "tags": [
+        {
+          "name": "CQRS",
+          "slug": "cqrs"
         }
       ]
     },
@@ -207,6 +307,16 @@
           "name": "Chris Patterson",
           "slug": "chris-patterson"
         }
+      ],
+      "tags": [
+        {
+          "name": "MassTransit",
+          "slug": "masstransit"
+        },
+        {
+          "name": "ESB",
+          "slug": "esb"
+        }
       ]
     },
     {
@@ -218,6 +328,12 @@
         {
           "name": "Jay Smith",
           "slug": "jay-smith"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -231,6 +347,12 @@
           "name": "David Walker",
           "slug": "david-walker"
         }
+      ],
+      "tags": [
+        {
+          "name": "FDD",
+          "slug": "fdd"
+        }
       ]
     },
     {
@@ -242,6 +364,12 @@
         {
           "name": "Chris Patterson",
           "slug": "chris-patterson"
+        }
+      ],
+      "tags": [
+        {
+          "name": "EDA",
+          "slug": "eda"
         }
       ]
     }

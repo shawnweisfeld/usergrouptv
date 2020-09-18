@@ -16,6 +16,16 @@
           "name": "Dallas ASP.NET UG",
           "slug": "dallasaspnet"
         }
+      ],
+      "tags": [
+        {
+          "name": "VS11",
+          "slug": "vs11"
+        },
+        {
+          "name": "VS2010",
+          "slug": "vs2010"
+        }
       ]
     },
     {
@@ -27,6 +37,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "VS2010",
+          "slug": "vs2010"
         }
       ]
     }

@@ -16,6 +16,16 @@
           "name": "North Dallas .NET UG",
           "slug": "north-dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "tools",
+          "slug": "tools"
+        },
+        {
+          "name": "VS2012",
+          "slug": "vs2012"
+        }
       ]
     }
   ]

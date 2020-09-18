@@ -16,6 +16,12 @@
           "name": "Dallas ASP.NET UG",
           "slug": "dallasaspnet"
         }
+      ],
+      "tags": [
+        {
+          "name": "Code Generation",
+          "slug": "code-generation"
+        }
       ]
     }
   ]

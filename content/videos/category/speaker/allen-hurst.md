@@ -16,6 +16,12 @@
           "name": "MeasureUp",
           "slug": "measure-up"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -27,6 +33,16 @@
         {
           "name": "AgileDotNext",
           "slug": "agiledotnext"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Scrum",
+          "slug": "scrum"
+        },
+        {
+          "name": "Kanban",
+          "slug": "kanban"
         }
       ]
     },
@@ -40,6 +56,12 @@
           "name": "Agile .NET",
           "slug": "agile-net"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -51,6 +73,12 @@
         {
           "name": "Agile .NET",
           "slug": "agile-net"
+        }
+      ],
+      "tags": [
+        {
+          "name": "TDD",
+          "slug": "tdd"
         }
       ]
     }

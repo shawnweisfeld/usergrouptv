@@ -16,6 +16,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Performance",
+          "slug": "sql-performance"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "MS SQL",
+          "slug": "ms-sql"
         }
       ]
     }

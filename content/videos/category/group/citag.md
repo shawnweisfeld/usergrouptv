@@ -15,6 +15,12 @@
           "name": "Michael Kappel",
           "slug": "michael-kappel"
         }
+      ],
+      "tags": [
+        {
+          "name": "HierarchyID",
+          "slug": "hierarchyid"
+        }
       ]
     }
   ]

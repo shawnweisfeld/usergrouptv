@@ -16,6 +16,12 @@
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
         }
+      ],
+      "tags": [
+        {
+          "name": "hyperv",
+          "slug": "hyperv"
+        }
       ]
     },
     {
@@ -28,6 +34,12 @@
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "sql on linux",
+          "slug": "sql-on-linux"
+        }
       ]
     },
     {
@@ -39,6 +51,12 @@
         {
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "ETL",
+          "slug": "etl"
         }
       ]
     }

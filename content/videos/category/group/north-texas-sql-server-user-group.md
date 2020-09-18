@@ -15,6 +15,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "Cosmos DB",
+          "slug": "cosmos-db"
+        }
       ]
     }
   ]

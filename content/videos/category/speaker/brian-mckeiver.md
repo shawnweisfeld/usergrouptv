@@ -16,6 +16,12 @@
           "name": "Little Rock Tech Fest",
           "slug": "little-rock-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "SODA.net",
+          "slug": "soda-net"
+        }
       ]
     }
   ]

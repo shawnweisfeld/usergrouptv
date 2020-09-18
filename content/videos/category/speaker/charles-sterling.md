@@ -16,6 +16,20 @@
           "name": "Austin Power BI User Group",
           "slug": "austin-power-bi-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "Power Automate",
+          "slug": "power-automate"
+        },
+        {
+          "name": "Power Apps",
+          "slug": "power-apps"
+        },
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
       ]
     }
   ]

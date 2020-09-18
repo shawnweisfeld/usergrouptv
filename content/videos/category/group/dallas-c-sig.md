@@ -15,6 +15,12 @@
           "name": "Devlin Liles",
           "slug": "devlin-liles"
         }
+      ],
+      "tags": [
+        {
+          "name": "Patterns",
+          "slug": "patterns"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Brian Sullivan",
           "slug": "brian-sullivan"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SignalR",
+          "slug": "signalr"
         }
       ]
     },
@@ -43,6 +55,12 @@
           "name": "Devlin Liles",
           "slug": "devlin-liles"
         }
+      ],
+      "tags": [
+        {
+          "name": "EF",
+          "slug": "ef"
+        }
       ]
     },
     {
@@ -55,6 +73,16 @@
           "name": "Michael L Perry",
           "slug": "michael-l-perry"
         }
+      ],
+      "tags": [
+        {
+          "name": "async",
+          "slug": "async"
+        },
+        {
+          "name": "win8",
+          "slug": "win8"
+        }
       ]
     },
     {
@@ -66,6 +94,12 @@
         {
           "name": "Todd Girvin",
           "slug": "todd-girvin"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -83,6 +117,16 @@
           "name": "Ian Henehan",
           "slug": "ian-henehan"
         }
+      ],
+      "tags": [
+        {
+          "name": "Selenium",
+          "slug": "selenium"
+        },
+        {
+          "name": "Test",
+          "slug": "test"
+        }
       ]
     },
     {
@@ -94,6 +138,16 @@
         {
           "name": "David O'Hara",
           "slug": "david-ohara"
+        }
+      ],
+      "tags": [
+        {
+          "name": "git",
+          "slug": "git"
+        },
+        {
+          "name": "dvcs",
+          "slug": "dvcs"
         }
       ]
     },
@@ -107,6 +161,12 @@
           "name": "Eric Sowell",
           "slug": "eric-sowell"
         }
+      ],
+      "tags": [
+        {
+          "name": "MVC",
+          "slug": "mvc"
+        }
       ]
     },
     {
@@ -118,6 +178,12 @@
         {
           "name": "Devlin Liles",
           "slug": "devlin-liles"
+        }
+      ],
+      "tags": [
+        {
+          "name": "EF Code First",
+          "slug": "ef-code-first"
         }
       ]
     },
@@ -131,6 +197,12 @@
           "name": "Casey Watson",
           "slug": "casey-watson"
         }
+      ],
+      "tags": [
+        {
+          "name": "Nuget",
+          "slug": "nuget"
+        }
       ]
     },
     {
@@ -143,6 +215,12 @@
           "name": "Rob Vettor",
           "slug": "rob-vettor"
         }
+      ],
+      "tags": [
+        {
+          "name": "Entity Framework Code First",
+          "slug": "entity-framework-code-first"
+        }
       ]
     },
     {
@@ -154,6 +232,12 @@
         {
           "name": "Todd Anglin",
           "slug": "todd-anglin"
+        }
+      ],
+      "tags": [
+        {
+          "name": "DAL",
+          "slug": "dal"
         }
       ]
     }

@@ -16,7 +16,8 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
-      ]
+      ],
+      "tags": []
     }
   ]
 }

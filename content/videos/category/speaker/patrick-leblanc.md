@@ -16,6 +16,12 @@
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "Microsoft Mobile Reporting",
+          "slug": "microsoft-mobile-reporting"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SSRS",
+          "slug": "ssrs"
         }
       ]
     }

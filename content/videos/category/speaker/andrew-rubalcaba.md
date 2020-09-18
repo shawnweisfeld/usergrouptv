@@ -16,6 +16,16 @@
           "name": "Dallas TechFest",
           "slug": "dallas-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Spring",
+          "slug": "spring"
+        },
+        {
+          "name": "Cloud",
+          "slug": "cloud"
+        }
       ]
     }
   ]

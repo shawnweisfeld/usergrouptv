@@ -20,6 +20,12 @@
           "name": "Tulsa School of Dev",
           "slug": "tulsa-school-of-dev"
         }
+      ],
+      "tags": [
+        {
+          "name": "JavaScript",
+          "slug": "javascript"
+        }
       ]
     }
   ]

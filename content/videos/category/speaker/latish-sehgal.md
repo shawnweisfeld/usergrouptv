@@ -16,6 +16,12 @@
           "name": "Austin CodeCamp",
           "slug": "austin-codecamp"
         }
+      ],
+      "tags": [
+        {
+          "name": "tools",
+          "slug": "tools"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Austin CodeCamp",
           "slug": "austin-codecamp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Kinect",
+          "slug": "kinect"
         }
       ]
     },
@@ -40,6 +52,12 @@
           "name": "North Dallas .NET UG",
           "slug": "north-dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "tools",
+          "slug": "tools"
+        }
       ]
     },
     {
@@ -52,7 +70,8 @@
           "name": "Agile .NET",
           "slug": "agile-net"
         }
-      ]
+      ],
+      "tags": []
     }
   ]
 }

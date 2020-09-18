@@ -16,6 +16,24 @@
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
         }
+      ],
+      "tags": [
+        {
+          "name": "Rudr",
+          "slug": "rudr"
+        },
+        {
+          "name": "Dapr",
+          "slug": "dapr"
+        },
+        {
+          "name": "OAM",
+          "slug": "oam"
+        },
+        {
+          "name": "Porter",
+          "slug": "porter"
+        }
       ]
     }
   ]

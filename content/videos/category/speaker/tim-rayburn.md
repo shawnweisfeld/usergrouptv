@@ -16,6 +16,12 @@
           "name": "AgileDotNext",
           "slug": "agiledotnext"
         }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "AgileDotNext",
           "slug": "agiledotnext"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
         }
       ]
     },
@@ -40,6 +52,12 @@
           "name": "AgileDotNext",
           "slug": "agiledotnext"
         }
+      ],
+      "tags": [
+        {
+          "name": "Career",
+          "slug": "career"
+        }
       ]
     },
     {
@@ -51,6 +69,12 @@
         {
           "name": "Cowtown Code Camp",
           "slug": "cowtown-code-camp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Document Databases",
+          "slug": "document-databases"
         }
       ]
     },
@@ -64,6 +88,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "PowerShell",
+          "slug": "powershell"
+        }
       ]
     },
     {
@@ -75,6 +105,12 @@
         {
           "name": "Dallas XAML UG",
           "slug": "dallas-xaml-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "git",
+          "slug": "git"
         }
       ]
     },
@@ -88,6 +124,12 @@
           "name": "Dallas .NET UG",
           "slug": "dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "MassTransit",
+          "slug": "masstransit"
+        }
       ]
     },
     {
@@ -99,6 +141,12 @@
         {
           "name": "Dallas C# SIG",
           "slug": "dallas-c-sig"
+        }
+      ],
+      "tags": [
+        {
+          "name": "EF",
+          "slug": "ef"
         }
       ]
     },
@@ -112,6 +160,16 @@
           "name": "Ft. Worth .NET UG",
           "slug": "ft-worth-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "EF",
+          "slug": "ef"
+        },
+        {
+          "name": "EF Code First",
+          "slug": "ef-code-first"
+        }
       ]
     },
     {
@@ -123,6 +181,12 @@
         {
           "name": "Dallas ASP.NET UG",
           "slug": "dallasaspnet"
+        }
+      ],
+      "tags": [
+        {
+          "name": "EF",
+          "slug": "ef"
         }
       ]
     },
@@ -136,6 +200,12 @@
           "name": "North Dallas .NET UG",
           "slug": "north-dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "WCF",
+          "slug": "wcf"
+        }
       ]
     },
     {
@@ -148,6 +218,12 @@
           "name": "Dallas ASP.NET UG",
           "slug": "dallasaspnet"
         }
+      ],
+      "tags": [
+        {
+          "name": "MVC",
+          "slug": "mvc"
+        }
       ]
     },
     {
@@ -159,6 +235,12 @@
         {
           "name": "Dallas .NET UG",
           "slug": "dallas-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "TDD",
+          "slug": "tdd"
         }
       ]
     }

@@ -16,6 +16,12 @@
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Akka.NET",
+          "slug": "akka-net"
+        }
       ]
     }
   ]

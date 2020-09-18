@@ -16,6 +16,12 @@
           "name": "Dallas TechFest",
           "slug": "dallas-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Questions",
+          "slug": "questions"
+        }
       ]
     },
     {
@@ -28,6 +34,12 @@
           "name": "AgileDotNext",
           "slug": "agiledotnext"
         }
+      ],
+      "tags": [
+        {
+          "name": "Scrum",
+          "slug": "scrum"
+        }
       ]
     },
     {
@@ -39,6 +51,12 @@
         {
           "name": "AgileDotNext",
           "slug": "agiledotnext"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Motivation",
+          "slug": "motivation"
         }
       ]
     }

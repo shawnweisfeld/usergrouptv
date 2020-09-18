@@ -15,6 +15,12 @@
           "name": "Ginger Grant",
           "slug": "ginger-grant"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Databricks",
+          "slug": "azure-databricks"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Alberto Ferrari",
           "slug": "alberto-ferrari"
+        }
+      ],
+      "tags": [
+        {
+          "name": "dax",
+          "slug": "dax"
         }
       ]
     },
@@ -39,6 +51,12 @@
           "name": "Kevin Feasel",
           "slug": "kevin-feasel"
         }
+      ],
+      "tags": [
+        {
+          "name": "Spark",
+          "slug": "spark"
+        }
       ]
     },
     {
@@ -50,6 +68,12 @@
         {
           "name": "Meagan Longoria",
           "slug": "meagan-longoria"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
         }
       ]
     },
@@ -63,6 +87,12 @@
           "name": "Michael McKinley",
           "slug": "michael-mckinley"
         }
+      ],
+      "tags": [
+        {
+          "name": "Reporting",
+          "slug": "reporting"
+        }
       ]
     },
     {
@@ -74,6 +104,12 @@
         {
           "name": "Russel Loski",
           "slug": "russel-loski"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SSIS",
+          "slug": "ssis"
         }
       ]
     },
@@ -91,6 +127,12 @@
           "name": "Christine Assaf",
           "slug": "christine-assaf"
         }
+      ],
+      "tags": [
+        {
+          "name": "Data",
+          "slug": "data"
+        }
       ]
     },
     {
@@ -102,6 +144,20 @@
         {
           "name": "Wenbin Zhao",
           "slug": "wenbin-zhao"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Python",
+          "slug": "python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "slug": "jupyter-notebook"
+        },
+        {
+          "name": "ETL",
+          "slug": "etl"
         }
       ]
     },
@@ -115,6 +171,12 @@
           "name": "Tracy Boggiano",
           "slug": "tracy-boggiano"
         }
+      ],
+      "tags": [
+        {
+          "name": "Career",
+          "slug": "career"
+        }
       ]
     },
     {
@@ -126,6 +188,16 @@
         {
           "name": "Derek Wilson",
           "slug": "derek-wilson"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        },
+        {
+          "name": "MS SQL",
+          "slug": "ms-sql"
         }
       ]
     },
@@ -139,6 +211,12 @@
           "name": "Matt Gordon",
           "slug": "matt-gordon"
         }
+      ],
+      "tags": [
+        {
+          "name": "Cognitive Services",
+          "slug": "cognitive-services"
+        }
       ]
     },
     {
@@ -150,6 +228,12 @@
         {
           "name": "Leslie Andrews",
           "slug": "leslie-andrews"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Data",
+          "slug": "data"
         }
       ]
     },
@@ -163,6 +247,12 @@
           "name": "Tim Mitchell",
           "slug": "tim-mitchell"
         }
+      ],
+      "tags": [
+        {
+          "name": "SSIS",
+          "slug": "ssis"
+        }
       ]
     },
     {
@@ -174,6 +264,16 @@
         {
           "name": "Ryan Adams",
           "slug": "ryan-adams"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        },
+        {
+          "name": "AD",
+          "slug": "ad"
         }
       ]
     },
@@ -187,6 +287,12 @@
           "name": "Conor Cunningham",
           "slug": "conor-cunningham"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Tuning",
+          "slug": "sql-tuning"
+        }
       ]
     },
     {
@@ -198,6 +304,12 @@
         {
           "name": "Kevin Boles",
           "slug": "kevin-boles"
+        }
+      ],
+      "tags": [
+        {
+          "name": "sql injection",
+          "slug": "sql-injection"
         }
       ]
     },
@@ -211,6 +323,12 @@
           "name": "Rex Backman",
           "slug": "rex-backman"
         }
+      ],
+      "tags": [
+        {
+          "name": "Cisco",
+          "slug": "cisco"
+        }
       ]
     },
     {
@@ -222,6 +340,12 @@
         {
           "name": "Michael Bourgon",
           "slug": "michael-bourgon"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Watchdog",
+          "slug": "sql-watchdog"
         }
       ]
     },
@@ -235,6 +359,12 @@
           "name": "Nancy Hidy Wilson",
           "slug": "nancy-hidy-wilson"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Security",
+          "slug": "sql-security"
+        }
       ]
     },
     {
@@ -246,6 +376,12 @@
         {
           "name": "Andy Warren",
           "slug": "andy-warren"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Job",
+          "slug": "job"
         }
       ]
     },
@@ -259,6 +395,12 @@
           "name": "Gene Webb",
           "slug": "gene-webb"
         }
+      ],
+      "tags": [
+        {
+          "name": "MDM",
+          "slug": "mdm"
+        }
       ]
     },
     {
@@ -270,6 +412,12 @@
         {
           "name": "Thomas LeBlanc",
           "slug": "thomas-leblanc"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Tabular",
+          "slug": "sql-tabular"
         }
       ]
     },
@@ -283,6 +431,16 @@
           "name": "Steve Wake",
           "slug": "steve-wake"
         }
+      ],
+      "tags": [
+        {
+          "name": "SSIS",
+          "slug": "ssis"
+        },
+        {
+          "name": "CDC",
+          "slug": "cdc"
+        }
       ]
     },
     {
@@ -294,6 +452,12 @@
         {
           "name": "Reeves Smith",
           "slug": "reeves-smith"
+        }
+      ],
+      "tags": [
+        {
+          "name": "BIML",
+          "slug": "biml"
         }
       ]
     },
@@ -307,6 +471,12 @@
           "name": "Ryan Adams",
           "slug": "ryan-adams"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL AlwaysOn",
+          "slug": "sql-alwayson"
+        }
       ]
     },
     {
@@ -319,6 +489,12 @@
           "name": "Reinaldo Kibel",
           "slug": "reinaldo-kibel"
         }
+      ],
+      "tags": [
+        {
+          "name": "Hekaton",
+          "slug": "hekaton"
+        }
       ]
     },
     {
@@ -330,6 +506,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SSDT",
+          "slug": "ssdt"
         }
       ]
     }

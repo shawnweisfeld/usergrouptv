@@ -16,6 +16,12 @@
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Blazor",
+          "slug": "blazor"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
+        }
+      ],
+      "tags": [
+        {
+          "name": "DevOps",
+          "slug": "devops"
         }
       ]
     },
@@ -40,6 +52,12 @@
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure DevOps",
+          "slug": "azure-devops"
+        }
       ]
     },
     {
@@ -51,6 +69,12 @@
         {
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
+        }
+      ],
+      "tags": [
+        {
+          "name": "DevOps",
+          "slug": "devops"
         }
       ]
     },
@@ -64,6 +88,12 @@
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "DevOps",
+          "slug": "devops"
+        }
       ]
     },
     {
@@ -75,6 +105,12 @@
         {
           "name": "Austin Agile",
           "slug": "austin-agile"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -88,6 +124,12 @@
           "name": "Austin Global Azure Bootcamp",
           "slug": "austin-global-azure-bootcamp"
         }
+      ],
+      "tags": [
+        {
+          "name": "DevOps",
+          "slug": "devops"
+        }
       ]
     },
     {
@@ -99,6 +141,12 @@
         {
           "name": "Austin Global Azure Bootcamp",
           "slug": "austin-global-azure-bootcamp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Continuous Delivery",
+          "slug": "continuous-delivery"
         }
       ]
     },
@@ -112,6 +160,12 @@
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Continuous Delivery",
+          "slug": "continuous-delivery"
+        }
       ]
     },
     {
@@ -123,6 +177,12 @@
         {
           "name": "MeasureUp",
           "slug": "measure-up"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Keynote",
+          "slug": "keynote"
         }
       ]
     }

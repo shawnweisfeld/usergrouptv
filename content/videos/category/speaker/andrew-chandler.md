@@ -20,6 +20,16 @@
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Android",
+          "slug": "android"
+        },
+        {
+          "name": "NFC",
+          "slug": "nfc"
+        }
       ]
     }
   ]

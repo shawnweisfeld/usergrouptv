@@ -15,6 +15,12 @@
           "name": "Matt Hester",
           "slug": "matt-hester"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
       ]
     },
     {
@@ -31,6 +37,12 @@
           "name": "Brandon Byars",
           "slug": "brandon-byars"
         }
+      ],
+      "tags": [
+        {
+          "name": "JavaScript",
+          "slug": "javascript"
+        }
       ]
     },
     {
@@ -42,6 +54,12 @@
         {
           "name": "David Rollins",
           "slug": "david-rollins"
+        }
+      ],
+      "tags": [
+        {
+          "name": "NoSQL",
+          "slug": "nosql"
         }
       ]
     },
@@ -59,6 +77,12 @@
           "name": "Cherie Silas",
           "slug": "cherie-silas"
         }
+      ],
+      "tags": [
+        {
+          "name": "Questions",
+          "slug": "questions"
+        }
       ]
     },
     {
@@ -70,6 +94,12 @@
         {
           "name": "Jared Spool",
           "slug": "jared-spool"
+        }
+      ],
+      "tags": [
+        {
+          "name": "UX",
+          "slug": "ux"
         }
       ]
     },
@@ -83,6 +113,12 @@
           "name": "Eric Sowell",
           "slug": "eric-sowell"
         }
+      ],
+      "tags": [
+        {
+          "name": "Swift",
+          "slug": "swift"
+        }
       ]
     },
     {
@@ -94,6 +130,12 @@
         {
           "name": "Michael L Perry",
           "slug": "michael-l-perry"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Universal Apps",
+          "slug": "universal-apps"
         }
       ]
     },
@@ -107,6 +149,12 @@
           "name": "Russell Wright",
           "slug": "russell-wright"
         }
+      ],
+      "tags": [
+        {
+          "name": "Sharepoint",
+          "slug": "sharepoint"
+        }
       ]
     },
     {
@@ -118,6 +166,12 @@
         {
           "name": "John Weston",
           "slug": "john-weston"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cloud",
+          "slug": "cloud"
         }
       ]
     },
@@ -131,6 +185,12 @@
           "name": "Eric Sowell",
           "slug": "eric-sowell"
         }
+      ],
+      "tags": [
+        {
+          "name": "Client-Side MVC",
+          "slug": "client-side-mvc"
+        }
       ]
     },
     {
@@ -142,6 +202,12 @@
         {
           "name": "Matt Hinze",
           "slug": "matt-hinze"
+        }
+      ],
+      "tags": [
+        {
+          "name": "MVC",
+          "slug": "mvc"
         }
       ]
     },
@@ -155,6 +221,12 @@
           "name": "Miguel Castro",
           "slug": "miguel-castro"
         }
+      ],
+      "tags": [
+        {
+          "name": "Bing",
+          "slug": "bing"
+        }
       ]
     },
     {
@@ -166,6 +238,16 @@
         {
           "name": "Andrew Rubalcaba",
           "slug": "andrew-rubalcaba"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Spring",
+          "slug": "spring"
+        },
+        {
+          "name": "Cloud",
+          "slug": "cloud"
         }
       ]
     },
@@ -179,6 +261,12 @@
           "name": "Derek Lane",
           "slug": "derek-lane"
         }
+      ],
+      "tags": [
+        {
+          "name": "NoSQL",
+          "slug": "nosql"
+        }
       ]
     },
     {
@@ -190,6 +278,12 @@
         {
           "name": "Miguel Castro",
           "slug": "miguel-castro"
+        }
+      ],
+      "tags": [
+        {
+          "name": "wpf",
+          "slug": "wpf"
         }
       ]
     },
@@ -203,6 +297,12 @@
           "name": "Miguel Castro",
           "slug": "miguel-castro"
         }
+      ],
+      "tags": [
+        {
+          "name": "wpf",
+          "slug": "wpf"
+        }
       ]
     },
     {
@@ -214,6 +314,12 @@
         {
           "name": "Rob Vettor",
           "slug": "rob-vettor"
+        }
+      ],
+      "tags": [
+        {
+          "name": "EF",
+          "slug": "ef"
         }
       ]
     }

@@ -15,6 +15,12 @@
           "name": "Cecil Phillip",
           "slug": "cecil-phillip"
         }
+      ],
+      "tags": [
+        {
+          "name": "Dapr",
+          "slug": "dapr"
+        }
       ]
     },
     {
@@ -26,6 +32,16 @@
         {
           "name": "Kevin Griffin",
           "slug": "kevin-griffin"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Static Web",
+          "slug": "static-web"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
         }
       ]
     },
@@ -39,6 +55,12 @@
           "name": "Jeremy Clark",
           "slug": "jeremy-clark"
         }
+      ],
+      "tags": [
+        {
+          "name": "C#",
+          "slug": "c"
+        }
       ]
     },
     {
@@ -50,6 +72,12 @@
         {
           "name": "Steve Smith",
           "slug": "steve-smith"
+        }
+      ],
+      "tags": [
+        {
+          "name": "DDD",
+          "slug": "ddd"
         }
       ]
     },
@@ -63,6 +91,12 @@
           "name": "Sara Ford",
           "slug": "sara-ford"
         }
+      ],
+      "tags": [
+        {
+          "name": "git",
+          "slug": "git"
+        }
       ]
     },
     {
@@ -74,6 +108,24 @@
         {
           "name": "Scott Hunter",
           "slug": "scott-hunter"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "Blazer",
+          "slug": "blazer"
+        },
+        {
+          "name": ".NET Core",
+          "slug": "net-core"
+        },
+        {
+          "name": "ASP.NET",
+          "slug": "asp-net"
         }
       ]
     },
@@ -87,6 +139,12 @@
           "name": "Michael L Perry",
           "slug": "michael-l-perry"
         }
+      ],
+      "tags": [
+        {
+          "name": "ACID",
+          "slug": "acid"
+        }
       ]
     },
     {
@@ -98,6 +156,12 @@
         {
           "name": "Steve Gordon",
           "slug": "steve-gordon"
+        }
+      ],
+      "tags": [
+        {
+          "name": "C#",
+          "slug": "c"
         }
       ]
     }

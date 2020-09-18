@@ -16,6 +16,12 @@
           "name": "ACT-W",
           "slug": "act-w"
         }
+      ],
+      "tags": [
+        {
+          "name": "Dress for Success",
+          "slug": "dress-for-success"
+        }
       ]
     }
   ]

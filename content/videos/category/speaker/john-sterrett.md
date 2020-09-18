@@ -20,6 +20,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Database",
+          "slug": "azure-database"
+        }
       ]
     },
     {
@@ -32,6 +38,12 @@
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
         }
+      ],
+      "tags": [
+        {
+          "name": "MS SQL",
+          "slug": "ms-sql"
+        }
       ]
     },
     {
@@ -43,6 +55,12 @@
         {
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "MS SQL",
+          "slug": "ms-sql"
         }
       ]
     },
@@ -60,6 +78,12 @@
           "name": "Austin Global Azure Bootcamp",
           "slug": "austin-global-azure-bootcamp"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure SQL Database",
+          "slug": "azure-sql-database"
+        }
       ]
     },
     {
@@ -71,6 +95,12 @@
         {
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "MS SQL",
+          "slug": "ms-sql"
         }
       ]
     },
@@ -84,6 +114,12 @@
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Admin",
+          "slug": "sql-admin"
+        }
       ]
     },
     {
@@ -95,6 +131,12 @@
         {
           "name": "Austin Global Azure Bootcamp",
           "slug": "austin-global-azure-bootcamp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
         }
       ]
     },
@@ -108,6 +150,12 @@
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Performance",
+          "slug": "sql-performance"
+        }
       ]
     },
     {
@@ -119,6 +167,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure SQL Database",
+          "slug": "azure-sql-database"
         }
       ]
     },
@@ -132,6 +186,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Performance",
+          "slug": "sql-performance"
+        }
       ]
     },
     {
@@ -143,6 +203,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Backup",
+          "slug": "sql-backup"
         }
       ]
     },
@@ -156,6 +222,12 @@
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL AlwaysOn",
+          "slug": "sql-alwayson"
+        }
       ]
     },
     {
@@ -168,6 +240,12 @@
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Performance",
+          "slug": "sql-performance"
+        }
       ]
     },
     {
@@ -179,6 +257,12 @@
         {
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
         }
       ]
     },
@@ -196,6 +280,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Admin",
+          "slug": "sql-admin"
+        }
       ]
     },
     {
@@ -208,6 +298,12 @@
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        }
       ]
     },
     {
@@ -219,6 +315,12 @@
         {
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Consulting",
+          "slug": "consulting"
         }
       ]
     },
@@ -235,6 +337,12 @@
         {
           "name": "SQL Saturday",
           "slug": "sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Performance",
+          "slug": "sql-performance"
         }
       ]
     }

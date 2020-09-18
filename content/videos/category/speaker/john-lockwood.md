@@ -16,6 +16,16 @@
           "name": "North West Arkansas Tech Fest",
           "slug": "north-west-arkansas-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Hadoop",
+          "slug": "hadoop"
+        },
+        {
+          "name": "Map Reduce",
+          "slug": "map-reduce"
+        }
       ]
     },
     {
@@ -27,6 +37,12 @@
         {
           "name": "North West Arkansas Tech Fest",
           "slug": "north-west-arkansas-tech-fest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mongo DB",
+          "slug": "mongo-db"
         }
       ]
     }

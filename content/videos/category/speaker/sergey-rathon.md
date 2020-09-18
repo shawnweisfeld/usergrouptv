@@ -16,6 +16,16 @@
           "name": "Dallas C# SIG",
           "slug": "dallas-c-sig"
         }
+      ],
+      "tags": [
+        {
+          "name": "Selenium",
+          "slug": "selenium"
+        },
+        {
+          "name": "Test",
+          "slug": "test"
+        }
       ]
     }
   ]

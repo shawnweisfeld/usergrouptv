@@ -20,6 +20,12 @@
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
         }
+      ],
+      "tags": [
+        {
+          "name": "Reporting",
+          "slug": "reporting"
+        }
       ]
     }
   ]

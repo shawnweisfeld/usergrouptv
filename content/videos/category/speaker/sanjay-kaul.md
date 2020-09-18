@@ -16,6 +16,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "PDW",
+          "slug": "pdw"
+        }
       ]
     }
   ]

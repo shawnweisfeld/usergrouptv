@@ -20,6 +20,16 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "NoSQL",
+          "slug": "nosql"
+        },
+        {
+          "name": "Open Source DB",
+          "slug": "open-source-db"
+        }
       ]
     },
     {
@@ -35,6 +45,12 @@
         {
           "name": "SQL Saturday",
           "slug": "sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Azure",
+          "slug": "sql-azure"
         }
       ]
     }

@@ -16,6 +16,16 @@
           "name": "Microservices and Containers Austin",
           "slug": "microservices-and-containers-austin"
         }
+      ],
+      "tags": [
+        {
+          "name": "Kubernetes",
+          "slug": "kubernetes"
+        },
+        {
+          "name": "Docker Swarm",
+          "slug": "docker-swarm"
+        }
       ]
     }
   ]

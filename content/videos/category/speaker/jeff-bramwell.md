@@ -20,6 +20,12 @@
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "VS2012",
+          "slug": "vs2012"
+        }
       ]
     }
   ]

@@ -20,6 +20,12 @@
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
         }
+      ],
+      "tags": [
+        {
+          "name": "Spark",
+          "slug": "spark"
+        }
       ]
     },
     {
@@ -31,6 +37,12 @@
         {
           "name": "SQL Saturday",
           "slug": "sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "R",
+          "slug": "r"
         }
       ]
     }

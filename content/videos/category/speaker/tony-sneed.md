@@ -16,6 +16,12 @@
           "name": "Dallas .NET UG",
           "slug": "dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "OData",
+          "slug": "odata"
+        }
       ]
     },
     {
@@ -28,6 +34,12 @@
           "name": "Dallas .NET UG",
           "slug": "dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "REST",
+          "slug": "rest"
+        }
       ]
     },
     {
@@ -39,6 +51,12 @@
         {
           "name": "DevelopMentor",
           "slug": "developmentor"
+        }
+      ],
+      "tags": [
+        {
+          "name": "RIA",
+          "slug": "ria"
         }
       ]
     }

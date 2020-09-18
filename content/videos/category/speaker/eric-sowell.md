@@ -16,6 +16,12 @@
           "name": "Dallas TechFest",
           "slug": "dallas-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Swift",
+          "slug": "swift"
+        }
       ]
     },
     {
@@ -27,6 +33,20 @@
         {
           "name": "North Dallas .NET UG",
           "slug": "north-dallas-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "MVC",
+          "slug": "mvc"
+        },
+        {
+          "name": "Mobile",
+          "slug": "mobile"
+        },
+        {
+          "name": "ASP.NET",
+          "slug": "asp-net"
         }
       ]
     },
@@ -40,6 +60,16 @@
           "name": "North Dallas .NET UG",
           "slug": "north-dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "HTML5",
+          "slug": "html5"
+        },
+        {
+          "name": "Canvas",
+          "slug": "canvas"
+        }
       ]
     },
     {
@@ -51,6 +81,20 @@
         {
           "name": "Dallas HTML 5 UG",
           "slug": "dallas-html-5-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Nodejs",
+          "slug": "nodejs"
+        },
+        {
+          "name": "HTML5",
+          "slug": "html5"
+        },
+        {
+          "name": "web sockets",
+          "slug": "web-sockets"
         }
       ]
     },
@@ -64,6 +108,12 @@
           "name": "Dallas C# SIG",
           "slug": "dallas-c-sig"
         }
+      ],
+      "tags": [
+        {
+          "name": "MVC",
+          "slug": "mvc"
+        }
       ]
     },
     {
@@ -75,6 +125,20 @@
         {
           "name": "North Dallas .NET UG",
           "slug": "north-dallas-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mobile",
+          "slug": "mobile"
+        },
+        {
+          "name": "HTML5",
+          "slug": "html5"
+        },
+        {
+          "name": "CSS3",
+          "slug": "css3"
         }
       ]
     },
@@ -88,6 +152,20 @@
           "name": "North Dallas .NET UG",
           "slug": "north-dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "MVC",
+          "slug": "mvc"
+        },
+        {
+          "name": "HTML",
+          "slug": "html"
+        },
+        {
+          "name": "CSS",
+          "slug": "css"
+        }
       ]
     },
     {
@@ -99,6 +177,20 @@
         {
           "name": "North Dallas .NET UG",
           "slug": "north-dallas-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "MVC",
+          "slug": "mvc"
+        },
+        {
+          "name": "HTML",
+          "slug": "html"
+        },
+        {
+          "name": "CSS",
+          "slug": "css"
         }
       ]
     },
@@ -112,6 +204,20 @@
           "name": "North Dallas .NET UG",
           "slug": "north-dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "MVC",
+          "slug": "mvc"
+        },
+        {
+          "name": "HTML",
+          "slug": "html"
+        },
+        {
+          "name": "CSS",
+          "slug": "css"
+        }
       ]
     },
     {
@@ -123,6 +229,12 @@
         {
           "name": "Dallas TechFest",
           "slug": "dallas-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Client-Side MVC",
+          "slug": "client-side-mvc"
         }
       ]
     }

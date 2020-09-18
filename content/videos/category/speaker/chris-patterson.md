@@ -20,6 +20,16 @@
           "name": "Tulsa School of Dev",
           "slug": "tulsa-school-of-dev"
         }
+      ],
+      "tags": [
+        {
+          "name": "MassTransit",
+          "slug": "masstransit"
+        },
+        {
+          "name": "ESB",
+          "slug": "esb"
+        }
       ]
     },
     {
@@ -35,6 +45,12 @@
         {
           "name": "Tulsa School of Dev",
           "slug": "tulsa-school-of-dev"
+        }
+      ],
+      "tags": [
+        {
+          "name": "EDA",
+          "slug": "eda"
         }
       ]
     }

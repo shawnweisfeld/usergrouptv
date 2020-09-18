@@ -16,6 +16,12 @@
           "name": "Austin TFS UG",
           "slug": "austin-tfs-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     }
   ]

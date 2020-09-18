@@ -16,6 +16,12 @@
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "C#",
+          "slug": "c"
+        }
       ]
     },
     {
@@ -28,6 +34,12 @@
           "name": "Austin Microsoft Developers Group",
           "slug": "austin-microsoft-app-developers"
         }
+      ],
+      "tags": [
+        {
+          "name": "PCL",
+          "slug": "pcl"
+        }
       ]
     },
     {
@@ -39,6 +51,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Messaging",
+          "slug": "messaging"
         }
       ]
     }

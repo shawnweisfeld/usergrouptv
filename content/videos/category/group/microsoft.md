@@ -15,6 +15,12 @@
           "name": "Jared Bienz",
           "slug": "jared-bienz"
         }
+      ],
+      "tags": [
+        {
+          "name": "wp8",
+          "slug": "wp8"
+        }
       ]
     },
     {
@@ -31,6 +37,12 @@
           "name": "Jared Bienz",
           "slug": "jared-bienz"
         }
+      ],
+      "tags": [
+        {
+          "name": "win8",
+          "slug": "win8"
+        }
       ]
     },
     {
@@ -42,6 +54,12 @@
         {
           "name": "Jared Bienz",
           "slug": "jared-bienz"
+        }
+      ],
+      "tags": [
+        {
+          "name": "win8",
+          "slug": "win8"
         }
       ]
     },
@@ -55,6 +73,12 @@
           "name": "Jared Bienz",
           "slug": "jared-bienz"
         }
+      ],
+      "tags": [
+        {
+          "name": "win8",
+          "slug": "win8"
+        }
       ]
     },
     {
@@ -66,6 +90,12 @@
         {
           "name": "Jared Bienz",
           "slug": "jared-bienz"
+        }
+      ],
+      "tags": [
+        {
+          "name": "win8",
+          "slug": "win8"
         }
       ]
     }

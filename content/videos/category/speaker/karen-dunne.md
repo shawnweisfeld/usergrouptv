@@ -16,6 +16,12 @@
           "name": "Joomla Day Texas",
           "slug": "joomla-day-texas"
         }
+      ],
+      "tags": [
+        {
+          "name": "joomla",
+          "slug": "joomla"
+        }
       ]
     }
   ]

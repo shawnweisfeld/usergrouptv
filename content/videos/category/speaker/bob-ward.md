@@ -16,6 +16,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server 2017",
+          "slug": "sql-server-2017"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "SQL Saturday",
           "slug": "sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server",
+          "slug": "sql-server"
         }
       ]
     },
@@ -44,6 +56,12 @@
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "Hekaton",
+          "slug": "hekaton"
+        }
       ]
     },
     {
@@ -59,6 +77,12 @@
         {
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Machine Learning",
+          "slug": "machine-learning"
         }
       ]
     }

@@ -16,6 +16,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": ".NET Tips and Tricks",
+          "slug": "net-tips-and-tricks"
+        }
       ]
     }
   ]

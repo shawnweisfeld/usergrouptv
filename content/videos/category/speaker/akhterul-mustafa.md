@@ -20,6 +20,12 @@
           "name": "Austin Global Azure Bootcamp",
           "slug": "austin-global-azure-bootcamp"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure App Services",
+          "slug": "azure-app-services"
+        }
       ]
     },
     {
@@ -31,6 +37,12 @@
         {
           "name": "Austin Global Azure Bootcamp",
           "slug": "austin-global-azure-bootcamp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cognitive Services",
+          "slug": "cognitive-services"
         }
       ]
     }

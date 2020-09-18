@@ -16,6 +16,12 @@
           "name": "Austin Global Azure Bootcamp",
           "slug": "austin-global-azure-bootcamp"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Security Center",
+          "slug": "azure-security-center"
+        }
       ]
     }
   ]

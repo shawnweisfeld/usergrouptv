@@ -16,6 +16,12 @@
           "name": "Chicago SharePoint UG",
           "slug": "chicago-sharepoint-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Sharepoint",
+          "slug": "sharepoint"
+        }
       ]
     }
   ]

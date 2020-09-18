@@ -16,6 +16,16 @@
           "name": "Dallas XAML UG",
           "slug": "dallas-xaml-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Prism",
+          "slug": "prism"
+        },
+        {
+          "name": "XAML",
+          "slug": "xaml"
+        }
       ]
     }
   ]

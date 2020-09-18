@@ -16,6 +16,12 @@
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Big Data",
+          "slug": "big-data"
+        }
       ]
     }
   ]

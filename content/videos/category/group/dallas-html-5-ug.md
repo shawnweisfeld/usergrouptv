@@ -15,6 +15,20 @@
           "name": "Eric Sowell",
           "slug": "eric-sowell"
         }
+      ],
+      "tags": [
+        {
+          "name": "Nodejs",
+          "slug": "nodejs"
+        },
+        {
+          "name": "HTML5",
+          "slug": "html5"
+        },
+        {
+          "name": "web sockets",
+          "slug": "web-sockets"
+        }
       ]
     }
   ]

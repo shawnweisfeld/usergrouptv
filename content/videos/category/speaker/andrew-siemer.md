@@ -16,6 +16,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Microservices",
+          "slug": "microservices"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
+        }
+      ],
+      "tags": [
+        {
+          "name": "API",
+          "slug": "api"
         }
       ]
     },
@@ -40,6 +52,16 @@
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
         }
+      ],
+      "tags": [
+        {
+          "name": "Load Test",
+          "slug": "load-test"
+        },
+        {
+          "name": "VSO",
+          "slug": "vso"
+        }
       ]
     },
     {
@@ -51,6 +73,12 @@
         {
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
         }
       ]
     }

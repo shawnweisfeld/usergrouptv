@@ -16,6 +16,12 @@
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "Career",
+          "slug": "career"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Austin SQL Saturday",
           "slug": "austin-sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Job",
+          "slug": "job"
         }
       ]
     }

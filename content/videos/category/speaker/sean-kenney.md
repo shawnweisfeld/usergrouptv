@@ -16,6 +16,16 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Parallelism",
+          "slug": "parallelism"
+        },
+        {
+          "name": "Concurrency",
+          "slug": "concurrency"
+        }
       ]
     }
   ]

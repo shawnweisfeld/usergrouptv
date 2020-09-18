@@ -16,6 +16,12 @@
           "name": "Developer Springboard",
           "slug": "developer-springboard"
         }
+      ],
+      "tags": [
+        {
+          "name": "Architecture",
+          "slug": "architecture"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Dallas TechFest",
           "slug": "dallas-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Bing",
+          "slug": "bing"
         }
       ]
     },
@@ -40,6 +52,12 @@
           "name": "Dallas TechFest",
           "slug": "dallas-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "wpf",
+          "slug": "wpf"
+        }
       ]
     },
     {
@@ -51,6 +69,12 @@
         {
           "name": "Dallas TechFest",
           "slug": "dallas-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "wpf",
+          "slug": "wpf"
         }
       ]
     }

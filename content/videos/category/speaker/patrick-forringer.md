@@ -20,6 +20,12 @@
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "CSS",
+          "slug": "css"
+        }
       ]
     }
   ]

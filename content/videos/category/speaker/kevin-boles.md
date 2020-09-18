@@ -16,6 +16,12 @@
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
         }
+      ],
+      "tags": [
+        {
+          "name": "TSQL",
+          "slug": "tsql"
+        }
       ]
     },
     {
@@ -28,6 +34,12 @@
           "name": "SQL Saturday Baton Rouge",
           "slug": "sql-saturday-baton-rouge"
         }
+      ],
+      "tags": [
+        {
+          "name": "Entity Framework",
+          "slug": "entity-framework"
+        }
       ]
     },
     {
@@ -39,6 +51,12 @@
         {
           "name": "Austin SQL Saturday",
           "slug": "austin-sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "sql injection",
+          "slug": "sql-injection"
         }
       ]
     },
@@ -56,6 +74,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "sql injection",
+          "slug": "sql-injection"
+        }
       ]
     },
     {
@@ -67,6 +91,12 @@
         {
           "name": "SQL Saturday",
           "slug": "sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Parralism",
+          "slug": "sql-parralism"
         }
       ]
     }

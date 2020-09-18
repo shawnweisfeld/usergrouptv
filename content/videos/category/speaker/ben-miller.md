@@ -16,6 +16,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Admin",
+          "slug": "sql-admin"
+        }
       ]
     },
     {
@@ -28,6 +34,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server Security",
+          "slug": "sql-server-security"
+        }
       ]
     },
     {
@@ -39,6 +51,12 @@
         {
           "name": "SQL Saturday",
           "slug": "sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "PowerShell",
+          "slug": "powershell"
         }
       ]
     },
@@ -55,6 +73,12 @@
         {
           "name": "SQL Saturday",
           "slug": "sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL TDE",
+          "slug": "sql-tde"
         }
       ]
     }

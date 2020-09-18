@@ -16,6 +16,12 @@
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
         }
       ]
     },
@@ -40,6 +52,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "R",
+          "slug": "r"
+        }
       ]
     },
     {
@@ -52,6 +70,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "C#",
+          "slug": "c"
+        }
       ]
     },
     {
@@ -63,6 +87,12 @@
         {
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
         }
       ]
     }

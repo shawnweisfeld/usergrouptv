@@ -16,6 +16,12 @@
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure IaaS",
+          "slug": "azure-iaas"
+        }
       ]
     }
   ]

@@ -16,6 +16,12 @@
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
         }
+      ],
+      "tags": [
+        {
+          "name": "Akka.NET",
+          "slug": "akka-net"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Akka.NET",
+          "slug": "akka-net"
         }
       ]
     }

@@ -16,6 +16,16 @@
           "name": "Dallas XAML UG",
           "slug": "dallas-xaml-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Cloud",
+          "slug": "cloud"
+        },
+        {
+          "name": "WP7",
+          "slug": "wp7"
+        }
       ]
     }
   ]

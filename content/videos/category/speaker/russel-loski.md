@@ -20,6 +20,12 @@
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
         }
+      ],
+      "tags": [
+        {
+          "name": "SSIS",
+          "slug": "ssis"
+        }
       ]
     },
     {
@@ -36,6 +42,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Data Lake",
+          "slug": "azure-data-lake"
+        }
       ]
     },
     {
@@ -47,6 +59,12 @@
         {
           "name": "SQL Saturday",
           "slug": "sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure Data Lake",
+          "slug": "azure-data-lake"
         }
       ]
     },
@@ -60,6 +78,12 @@
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Data Lake",
+          "slug": "azure-data-lake"
+        }
       ]
     },
     {
@@ -72,6 +96,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Data Lake",
+          "slug": "azure-data-lake"
+        }
       ]
     },
     {
@@ -83,6 +113,12 @@
         {
           "name": "SQL Saturday",
           "slug": "sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SSIS",
+          "slug": "ssis"
         }
       ]
     },
@@ -100,6 +136,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "BIML",
+          "slug": "biml"
+        }
       ]
     },
     {
@@ -116,6 +158,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "XML Source",
+          "slug": "xml-source"
+        }
       ]
     },
     {
@@ -127,6 +175,12 @@
         {
           "name": "SQL Saturday",
           "slug": "sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "XML",
+          "slug": "xml"
         }
       ]
     }

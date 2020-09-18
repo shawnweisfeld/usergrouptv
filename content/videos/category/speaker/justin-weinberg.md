@@ -16,6 +16,12 @@
           "name": "North Dallas .NET UG",
           "slug": "north-dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Kinect",
+          "slug": "kinect"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "North Texas Silverlight UG",
           "slug": "north-texas-silverlight-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Testing",
+          "slug": "testing"
         }
       ]
     }

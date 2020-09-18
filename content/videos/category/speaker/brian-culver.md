@@ -16,6 +16,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Sharepoint",
+          "slug": "sharepoint"
+        }
       ]
     },
     {
@@ -27,6 +33,16 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Sharepoint",
+          "slug": "sharepoint"
+        },
+        {
+          "name": "Office365",
+          "slug": "office365"
         }
       ]
     }

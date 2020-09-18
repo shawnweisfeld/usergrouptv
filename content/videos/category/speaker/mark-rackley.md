@@ -20,6 +20,16 @@
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Sharepoint",
+          "slug": "sharepoint"
+        },
+        {
+          "name": "jQuery",
+          "slug": "jquery"
+        }
       ]
     }
   ]

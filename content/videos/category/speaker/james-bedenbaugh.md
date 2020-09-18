@@ -16,6 +16,12 @@
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Microservices",
+          "slug": "microservices"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Data Sovereignty",
+          "slug": "data-sovereignty"
         }
       ]
     }

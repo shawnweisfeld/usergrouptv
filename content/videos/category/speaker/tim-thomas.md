@@ -16,6 +16,12 @@
           "name": "Austin CodeCamp",
           "slug": "austin-codecamp"
         }
+      ],
+      "tags": [
+        {
+          "name": "Design",
+          "slug": "design"
+        }
       ]
     }
   ]

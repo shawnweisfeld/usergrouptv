@@ -11,7 +11,13 @@
       "slug": "kinect-hacks-beyond-just-games",
       "thumbnail": "https://i.vimeocdn.com/video/492995062_295x166.jpg",
       "date": "2012-01-28T15:32:45",
-      "meetups": []
+      "meetups": [],
+      "tags": [
+        {
+          "name": "Kinect",
+          "slug": "kinect"
+        }
+      ]
     }
   ]
 }

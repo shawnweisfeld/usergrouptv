@@ -16,16 +16,19 @@
         <div class="row row-cols-1 row-cols-md-3">
             {{ range .Params.recordings }}
             <div class="col mb-4">
-              <div class="card">
+              <div class="card recording-card">
                 <a href="/videos/{{.slug}}"><img src="{{ .thumbnail }}" class="card-img-top" alt={{ .title }}></a>
                 <div class="card-body">
                 <h5 class="card-title"><a href="/videos/{{.slug}}">{{ .title }}</a></h5>
-                <div class="card-text recording-card">on {{ (time .date).Format "Jan 2, 2006" }} at
+                <div class="card-text">on {{ (time .date).Format "Jan 2, 2006" }} at
                   <ul>
                     {{ range .meetups }}
                       <li> <a href="/videos/category/group/{{.slug}}">{{ .name }}</a></li>
                     {{ end }}
-                  </ul>
+                  </ul> <br />
+                  {{ range .tags }}
+                    <span class="badge badge-primary"><a href="/videos/tag/{{.slug}}">{{ .name }}</a></span>
+                  {{ end }}
                 </div>
                 </div>
               </div>

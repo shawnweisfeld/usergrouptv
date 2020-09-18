@@ -15,6 +15,12 @@
           "name": "Ken Byrd",
           "slug": "ken-byrd"
         }
+      ],
+      "tags": [
+        {
+          "name": "JavaScript",
+          "slug": "javascript"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Tim Jones",
           "slug": "tim-jones"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Ext Js",
+          "slug": "ext-js"
         }
       ]
     },
@@ -39,6 +51,12 @@
           "name": "Bonas Khanal",
           "slug": "bonas-khanal"
         }
+      ],
+      "tags": [
+        {
+          "name": "Knockout.js",
+          "slug": "knockout-js"
+        }
       ]
     },
     {
@@ -51,6 +69,16 @@
           "name": "Michael L Perry",
           "slug": "michael-l-perry"
         }
+      ],
+      "tags": [
+        {
+          "name": "async",
+          "slug": "async"
+        },
+        {
+          "name": "win8",
+          "slug": "win8"
+        }
       ]
     },
     {
@@ -62,6 +90,20 @@
         {
           "name": "Joseph Hill",
           "slug": "joseph-hill"
+        }
+      ],
+      "tags": [
+        {
+          "name": "mono",
+          "slug": "mono"
+        },
+        {
+          "name": "iPhone",
+          "slug": "iphone"
+        },
+        {
+          "name": "WP7",
+          "slug": "wp7"
         }
       ]
     }

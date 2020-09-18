@@ -20,6 +20,12 @@
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
         }
+      ],
+      "tags": [
+        {
+          "name": "Data",
+          "slug": "data"
+        }
       ]
     },
     {
@@ -32,6 +38,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server 2017",
+          "slug": "sql-server-2017"
+        }
       ]
     },
     {
@@ -43,6 +55,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server 2017",
+          "slug": "sql-server-2017"
         }
       ]
     },
@@ -60,6 +78,12 @@
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Security",
+          "slug": "sql-security"
+        }
       ]
     },
     {
@@ -71,6 +95,12 @@
         {
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server Security",
+          "slug": "sql-server-security"
         }
       ]
     }

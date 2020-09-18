@@ -15,6 +15,12 @@
           "name": "Tony Sneed",
           "slug": "tony-sneed"
         }
+      ],
+      "tags": [
+        {
+          "name": "RIA",
+          "slug": "ria"
+        }
       ]
     }
   ]

@@ -18,9 +18,14 @@
   ],
   "tags": [
     {
-      "name": "Azure; AIP",
-      "slug": "azure-aip",
-      "count": 1
+      "name": "API",
+      "slug": "api",
+      "count": 3
+    },
+    {
+      "name": "Azure",
+      "slug": "azure",
+      "count": 35
     }
   ],
   "meetups": [

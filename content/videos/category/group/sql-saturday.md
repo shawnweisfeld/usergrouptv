@@ -15,6 +15,12 @@
           "name": "Robert Stewart",
           "slug": "robert-stewart"
         }
+      ],
+      "tags": [
+        {
+          "name": "SSAS",
+          "slug": "ssas"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cosmos DB",
+          "slug": "cosmos-db"
         }
       ]
     },
@@ -39,6 +51,12 @@
           "name": "Rodney Landrum",
           "slug": "rodney-landrum"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Databricks",
+          "slug": "azure-databricks"
+        }
       ]
     },
     {
@@ -46,7 +64,13 @@
       "slug": "cosmosdb-is-the-missing-piece-to-your-data-puzzle",
       "thumbnail": "https://i.vimeocdn.com/video/798801249_295x166.jpg",
       "date": "2019-07-13T14:05:39",
-      "speakers": []
+      "speakers": [],
+      "tags": [
+        {
+          "name": "Cosmos DB",
+          "slug": "cosmos-db"
+        }
+      ]
     },
     {
       "title": "Querying Semistructured Data in Azure Data Lake with USQL",
@@ -57,6 +81,12 @@
         {
           "name": "Russel Loski",
           "slug": "russel-loski"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure Data Lake",
+          "slug": "azure-data-lake"
         }
       ]
     },
@@ -70,6 +100,12 @@
           "name": "Mike Byrd",
           "slug": "mike-byrd"
         }
+      ],
+      "tags": [
+        {
+          "name": "MS SQL",
+          "slug": "ms-sql"
+        }
       ]
     },
     {
@@ -81,6 +117,12 @@
         {
           "name": "John Sterrett",
           "slug": "john-sterrett"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure Database",
+          "slug": "azure-database"
         }
       ]
     },
@@ -94,6 +136,12 @@
           "name": "Joe Celko",
           "slug": "joe-celko"
         }
+      ],
+      "tags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
       ]
     },
     {
@@ -105,6 +153,12 @@
         {
           "name": "Jennifer McCown",
           "slug": "jennifer-mccown"
+        }
+      ],
+      "tags": [
+        {
+          "name": "MS SQL",
+          "slug": "ms-sql"
         }
       ]
     },
@@ -118,6 +172,12 @@
           "name": "Steve Jones",
           "slug": "steve-jones"
         }
+      ],
+      "tags": [
+        {
+          "name": "MS SQL",
+          "slug": "ms-sql"
+        }
       ]
     },
     {
@@ -129,6 +189,12 @@
         {
           "name": "Mark Moore",
           "slug": "mark-moore"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure SQL Database",
+          "slug": "azure-sql-database"
         }
       ]
     },
@@ -142,6 +208,12 @@
           "name": "Jennifer McCown",
           "slug": "jennifer-mccown"
         }
+      ],
+      "tags": [
+        {
+          "name": "Career",
+          "slug": "career"
+        }
       ]
     },
     {
@@ -153,6 +225,12 @@
         {
           "name": "Sean McCown",
           "slug": "sean-mccown"
+        }
+      ],
+      "tags": [
+        {
+          "name": "MS SQL",
+          "slug": "ms-sql"
         }
       ]
     },
@@ -166,6 +244,12 @@
           "name": "Sean McCown",
           "slug": "sean-mccown"
         }
+      ],
+      "tags": [
+        {
+          "name": "MS SQL",
+          "slug": "ms-sql"
+        }
       ]
     },
     {
@@ -177,6 +261,12 @@
         {
           "name": "Suresh Datla",
           "slug": "suresh-datla"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
         }
       ]
     },
@@ -190,6 +280,12 @@
           "name": "Ryan Adams",
           "slug": "ryan-adams"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Azure",
+          "slug": "sql-azure"
+        }
       ]
     },
     {
@@ -201,6 +297,12 @@
         {
           "name": "Mike Byrd",
           "slug": "mike-byrd"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Performance",
+          "slug": "sql-performance"
         }
       ]
     },
@@ -214,6 +316,12 @@
           "name": "Ben Miller",
           "slug": "ben-miller"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Admin",
+          "slug": "sql-admin"
+        }
       ]
     },
     {
@@ -225,6 +333,12 @@
         {
           "name": "Mike Byrd",
           "slug": "mike-byrd"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Performance",
+          "slug": "sql-performance"
         }
       ]
     },
@@ -238,6 +352,12 @@
           "name": "Ben Miller",
           "slug": "ben-miller"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server Security",
+          "slug": "sql-server-security"
+        }
       ]
     },
     {
@@ -249,6 +369,12 @@
         {
           "name": "Sean McCown",
           "slug": "sean-mccown"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
         }
       ]
     },
@@ -262,6 +388,12 @@
           "name": "Kristin Ferrier",
           "slug": "kristin-ferrier"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server",
+          "slug": "sql-server"
+        }
       ]
     },
     {
@@ -273,6 +405,12 @@
         {
           "name": "Kent Sloan",
           "slug": "kent-sloan"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Tableau",
+          "slug": "tableau"
         }
       ]
     },
@@ -286,6 +424,12 @@
           "name": "Jennifer McCown",
           "slug": "jennifer-mccown"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        }
       ]
     },
     {
@@ -297,6 +441,12 @@
         {
           "name": "Jennifer McCown",
           "slug": "jennifer-mccown"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
         }
       ]
     },
@@ -310,6 +460,12 @@
           "name": "Russel Loski",
           "slug": "russel-loski"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Data Lake",
+          "slug": "azure-data-lake"
+        }
       ]
     },
     {
@@ -321,6 +477,12 @@
         {
           "name": "Kenneth Fisher",
           "slug": "kenneth-fisher"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Security",
+          "slug": "sql-security"
         }
       ]
     },
@@ -334,6 +496,12 @@
           "name": "Sean McCown",
           "slug": "sean-mccown"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Admin",
+          "slug": "sql-admin"
+        }
       ]
     },
     {
@@ -345,6 +513,12 @@
         {
           "name": "Greg Galloway",
           "slug": "greg-galloway"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SSAS",
+          "slug": "ssas"
         }
       ]
     },
@@ -358,6 +532,12 @@
           "name": "Mohammad Darab",
           "slug": "mohammad-darab"
         }
+      ],
+      "tags": [
+        {
+          "name": "Career",
+          "slug": "career"
+        }
       ]
     },
     {
@@ -369,6 +549,12 @@
         {
           "name": "Juan Soto",
           "slug": "juan-soto"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Career",
+          "slug": "career"
         }
       ]
     },
@@ -382,6 +568,12 @@
           "name": "William Assaf",
           "slug": "william-assaf"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server 2017",
+          "slug": "sql-server-2017"
+        }
       ]
     },
     {
@@ -393,6 +585,12 @@
         {
           "name": "Bob Ward",
           "slug": "bob-ward"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server 2017",
+          "slug": "sql-server-2017"
         }
       ]
     },
@@ -406,6 +604,12 @@
           "name": "Dave Bland",
           "slug": "dave-bland"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Performance",
+          "slug": "sql-performance"
+        }
       ]
     },
     {
@@ -417,6 +621,12 @@
         {
           "name": "Rick Lowe",
           "slug": "rick-lowe"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Performance",
+          "slug": "sql-performance"
         }
       ]
     },
@@ -430,6 +640,12 @@
           "name": "Bob Ward",
           "slug": "bob-ward"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server",
+          "slug": "sql-server"
+        }
       ]
     },
     {
@@ -441,6 +657,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cognitive Services",
+          "slug": "cognitive-services"
         }
       ]
     },
@@ -454,6 +676,12 @@
           "name": "Tejpal Thatte",
           "slug": "tejpal-thatte"
         }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
       ]
     },
     {
@@ -465,6 +693,12 @@
         {
           "name": "Kris Hokanson",
           "slug": "kris-hokanson"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Performance",
+          "slug": "sql-performance"
         }
       ]
     },
@@ -478,6 +712,12 @@
           "name": "Brent Ozar",
           "slug": "brent-ozar"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server",
+          "slug": "sql-server"
+        }
       ]
     },
     {
@@ -489,6 +729,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure SQL Data Warehouse",
+          "slug": "azure-sql-data-warehouse"
         }
       ]
     },
@@ -502,6 +748,12 @@
           "name": "Kevin Hill",
           "slug": "kevin-hill"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Backup",
+          "slug": "sql-backup"
+        }
       ]
     },
     {
@@ -513,6 +765,12 @@
         {
           "name": "William Assaf",
           "slug": "william-assaf"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Security",
+          "slug": "sql-security"
         }
       ]
     },
@@ -526,6 +784,12 @@
           "name": "Anthony Tex Moreign",
           "slug": "anthony-tex-moreign"
         }
+      ],
+      "tags": [
+        {
+          "name": "Hybrid Cloud",
+          "slug": "hybrid-cloud"
+        }
       ]
     },
     {
@@ -537,6 +801,12 @@
         {
           "name": "Vicky Harp",
           "slug": "vicky-harp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Temporal Tables",
+          "slug": "temporal-tables"
         }
       ]
     },
@@ -550,6 +820,12 @@
           "name": "Kris Hokanson",
           "slug": "kris-hokanson"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server",
+          "slug": "sql-server"
+        }
       ]
     },
     {
@@ -561,6 +837,12 @@
         {
           "name": "Robert Bishop",
           "slug": "robert-bishop"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Isolation Levels",
+          "slug": "isolation-levels"
         }
       ]
     },
@@ -574,6 +856,12 @@
           "name": "Rick Lowe",
           "slug": "rick-lowe"
         }
+      ],
+      "tags": [
+        {
+          "name": "Plan Cache",
+          "slug": "plan-cache"
+        }
       ]
     },
     {
@@ -585,6 +873,12 @@
         {
           "name": "Tom Norman",
           "slug": "tom-norman"
+        }
+      ],
+      "tags": [
+        {
+          "name": "DB Project",
+          "slug": "db-project"
         }
       ]
     },
@@ -598,6 +892,12 @@
           "name": "Bob Ward",
           "slug": "bob-ward"
         }
+      ],
+      "tags": [
+        {
+          "name": "Hekaton",
+          "slug": "hekaton"
+        }
       ]
     },
     {
@@ -609,6 +909,12 @@
         {
           "name": "Robert Stewart",
           "slug": "robert-stewart"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Data Warehouse",
+          "slug": "data-warehouse"
         }
       ]
     },
@@ -622,6 +928,12 @@
           "name": "David Stein",
           "slug": "david-stein"
         }
+      ],
+      "tags": [
+        {
+          "name": "BIML",
+          "slug": "biml"
+        }
       ]
     },
     {
@@ -633,6 +945,12 @@
         {
           "name": "Bob Ward",
           "slug": "bob-ward"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Machine Learning",
+          "slug": "machine-learning"
         }
       ]
     },
@@ -646,6 +964,16 @@
           "name": "Phillip Labry",
           "slug": "phillip-labry"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "SSAS",
+          "slug": "ssas"
+        }
       ]
     },
     {
@@ -657,6 +985,12 @@
         {
           "name": "Roberto Cavalcanti",
           "slug": "roberto-cavalcanti"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure SQL Database",
+          "slug": "azure-sql-database"
         }
       ]
     },
@@ -670,6 +1004,12 @@
           "name": "Russel Loski",
           "slug": "russel-loski"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Data Lake",
+          "slug": "azure-data-lake"
+        }
       ]
     },
     {
@@ -681,6 +1021,12 @@
         {
           "name": "David Stein",
           "slug": "david-stein"
+        }
+      ],
+      "tags": [
+        {
+          "name": "BIML",
+          "slug": "biml"
         }
       ]
     },
@@ -694,6 +1040,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Data Warehouse",
+          "slug": "sql-data-warehouse"
+        }
       ]
     },
     {
@@ -705,6 +1057,12 @@
         {
           "name": "Jonathan Stewart",
           "slug": "jonathan-stewart"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
         }
       ]
     },
@@ -718,6 +1076,12 @@
           "name": "Greg Galloway",
           "slug": "greg-galloway"
         }
+      ],
+      "tags": [
+        {
+          "name": "SSAS",
+          "slug": "ssas"
+        }
       ]
     },
     {
@@ -729,6 +1093,12 @@
         {
           "name": "Kevin Feasel",
           "slug": "kevin-feasel"
+        }
+      ],
+      "tags": [
+        {
+          "name": "R",
+          "slug": "r"
         }
       ]
     },
@@ -742,6 +1112,12 @@
           "name": "Adam Saxton",
           "slug": "adam-saxton"
         }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
       ]
     },
     {
@@ -754,6 +1130,12 @@
           "name": "Tim Mitchell",
           "slug": "tim-mitchell"
         }
+      ],
+      "tags": [
+        {
+          "name": "SSIS",
+          "slug": "ssis"
+        }
       ]
     },
     {
@@ -765,6 +1147,12 @@
         {
           "name": "Marsha Pierce",
           "slug": "marsha-pierce"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Storage",
+          "slug": "storage"
         }
       ]
     },
@@ -782,6 +1170,12 @@
           "name": "Ivan Peev",
           "slug": "ivan-peev"
         }
+      ],
+      "tags": [
+        {
+          "name": "SSIS",
+          "slug": "ssis"
+        }
       ]
     },
     {
@@ -793,6 +1187,12 @@
         {
           "name": "Peter Myers",
           "slug": "peter-myers"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure ML",
+          "slug": "azure-ml"
         }
       ]
     },
@@ -806,6 +1206,12 @@
           "name": "Ryan Casey",
           "slug": "ryan-casey"
         }
+      ],
+      "tags": [
+        {
+          "name": "Data Loading",
+          "slug": "data-loading"
+        }
       ]
     },
     {
@@ -813,7 +1219,13 @@
       "slug": "sql-saturday-dallas-bi-edition-2017-keynote",
       "thumbnail": "https://i.vimeocdn.com/video/626869534_295x166.jpg",
       "date": "2017-03-04T21:46:43",
-      "speakers": []
+      "speakers": [],
+      "tags": [
+        {
+          "name": "Keynote",
+          "slug": "keynote"
+        }
+      ]
     },
     {
       "title": "Application & Database Development",
@@ -825,7 +1237,8 @@
           "name": "Kenneth Fisher",
           "slug": "kenneth-fisher"
         }
-      ]
+      ],
+      "tags": []
     },
     {
       "title": "TARDIS: Time And Relative Dimensions in SQL!",
@@ -836,6 +1249,12 @@
         {
           "name": "Tim Costello",
           "slug": "tim-costello"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Data Warehouse",
+          "slug": "data-warehouse"
         }
       ]
     },
@@ -849,6 +1268,12 @@
           "name": "Daniel Janik",
           "slug": "daniel-janik"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Performance",
+          "slug": "sql-performance"
+        }
       ]
     },
     {
@@ -860,6 +1285,12 @@
         {
           "name": "Ben Miller",
           "slug": "ben-miller"
+        }
+      ],
+      "tags": [
+        {
+          "name": "PowerShell",
+          "slug": "powershell"
         }
       ]
     },
@@ -873,6 +1304,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Azure",
+          "slug": "sql-azure"
+        }
       ]
     },
     {
@@ -884,6 +1321,12 @@
         {
           "name": "Tim Costello",
           "slug": "tim-costello"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Data Warehouse",
+          "slug": "data-warehouse"
         }
       ]
     },
@@ -897,6 +1340,12 @@
           "name": "Mindy Curnutt",
           "slug": "mindy-curnutt"
         }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
+        }
       ]
     },
     {
@@ -908,6 +1357,12 @@
         {
           "name": "Lori Edwards",
           "slug": "lori-edwards"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Performance",
+          "slug": "sql-performance"
         }
       ]
     },
@@ -921,6 +1376,16 @@
           "name": "Jamey Johnston",
           "slug": "jamey-johnston"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Security",
+          "slug": "sql-security"
+        },
+        {
+          "name": "SQL Azure",
+          "slug": "sql-azure"
+        }
       ]
     },
     {
@@ -932,6 +1397,12 @@
         {
           "name": "Rick Lowe",
           "slug": "rick-lowe"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Performance",
+          "slug": "sql-performance"
         }
       ]
     },
@@ -945,6 +1416,12 @@
           "name": "Jim Murphy",
           "slug": "jim-murphy"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Performance",
+          "slug": "sql-performance"
+        }
       ]
     },
     {
@@ -956,6 +1433,12 @@
         {
           "name": "Steven Rachui",
           "slug": "steven-rachui"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Config Man",
+          "slug": "sql-config-man"
         }
       ]
     },
@@ -969,6 +1452,12 @@
           "name": "Ryan Adams",
           "slug": "ryan-adams"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Backup",
+          "slug": "sql-backup"
+        }
       ]
     },
     {
@@ -980,6 +1469,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Azure",
+          "slug": "sql-azure"
         }
       ]
     },
@@ -993,6 +1488,12 @@
           "name": "Matthew Brimer",
           "slug": "matthew-brimer"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Security",
+          "slug": "sql-security"
+        }
       ]
     },
     {
@@ -1004,6 +1505,12 @@
         {
           "name": "George Walkey",
           "slug": "george-walkey"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Admin",
+          "slug": "sql-admin"
         }
       ]
     },
@@ -1017,6 +1524,12 @@
           "name": "Jennifer McCown",
           "slug": "jennifer-mccown"
         }
+      ],
+      "tags": [
+        {
+          "name": "Sproc",
+          "slug": "sproc"
+        }
       ]
     },
     {
@@ -1028,6 +1541,12 @@
         {
           "name": "Tim Costello",
           "slug": "tim-costello"
+        }
+      ],
+      "tags": [
+        {
+          "name": "ETL",
+          "slug": "etl"
         }
       ]
     },
@@ -1041,6 +1560,12 @@
           "name": "John Sterrett",
           "slug": "john-sterrett"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Admin",
+          "slug": "sql-admin"
+        }
       ]
     },
     {
@@ -1052,6 +1577,12 @@
         {
           "name": "Sean McCown",
           "slug": "sean-mccown"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Minion Solutions",
+          "slug": "minion-solutions"
         }
       ]
     },
@@ -1065,6 +1596,16 @@
           "name": "Sean McCown",
           "slug": "sean-mccown"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        },
+        {
+          "name": "Regex",
+          "slug": "regex"
+        }
       ]
     },
     {
@@ -1076,6 +1617,12 @@
         {
           "name": "Russel Loski",
           "slug": "russel-loski"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SSIS",
+          "slug": "ssis"
         }
       ]
     },
@@ -1089,6 +1636,12 @@
           "name": "Sanjay Kaul",
           "slug": "sanjay-kaul"
         }
+      ],
+      "tags": [
+        {
+          "name": "PDW",
+          "slug": "pdw"
+        }
       ]
     },
     {
@@ -1100,6 +1653,12 @@
         {
           "name": "Josh George",
           "slug": "josh-george"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power Pivot",
+          "slug": "power-pivot"
         }
       ]
     },
@@ -1113,6 +1672,12 @@
           "name": "Bryan Smith",
           "slug": "bryan-smith"
         }
+      ],
+      "tags": [
+        {
+          "name": "Power Query",
+          "slug": "power-query"
+        }
       ]
     },
     {
@@ -1124,6 +1689,12 @@
         {
           "name": "marek koenig",
           "slug": "marek-koenig"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power Map",
+          "slug": "power-map"
         }
       ]
     },
@@ -1137,6 +1708,12 @@
           "name": "Jeff Johnston",
           "slug": "jeff-johnston"
         }
+      ],
+      "tags": [
+        {
+          "name": "Power View",
+          "slug": "power-view"
+        }
       ]
     },
     {
@@ -1148,6 +1725,12 @@
         {
           "name": "Brian Gogle",
           "slug": "brian-gogle"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power Pivot",
+          "slug": "power-pivot"
         }
       ]
     },
@@ -1161,6 +1744,12 @@
           "name": "Eric Mizell",
           "slug": "eric-mizell"
         }
+      ],
+      "tags": [
+        {
+          "name": "Hadoop",
+          "slug": "hadoop"
+        }
       ]
     },
     {
@@ -1172,6 +1761,12 @@
         {
           "name": "Garret Edmondson",
           "slug": "garret-edmondson"
+        }
+      ],
+      "tags": [
+        {
+          "name": "ETL",
+          "slug": "etl"
         }
       ]
     },
@@ -1185,6 +1780,12 @@
           "name": "Garret Edmondson",
           "slug": "garret-edmondson"
         }
+      ],
+      "tags": [
+        {
+          "name": "Data Warehouse",
+          "slug": "data-warehouse"
+        }
       ]
     },
     {
@@ -1196,6 +1797,12 @@
         {
           "name": "Tim Costello",
           "slug": "tim-costello"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Data Warehouse",
+          "slug": "data-warehouse"
         }
       ]
     },
@@ -1209,6 +1816,12 @@
           "name": "Tim Costello",
           "slug": "tim-costello"
         }
+      ],
+      "tags": [
+        {
+          "name": "Tableau",
+          "slug": "tableau"
+        }
       ]
     },
     {
@@ -1220,6 +1833,16 @@
         {
           "name": "Tim Mitchell",
           "slug": "tim-mitchell"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SSIS",
+          "slug": "ssis"
+        },
+        {
+          "name": "ETL",
+          "slug": "etl"
         }
       ]
     },
@@ -1233,6 +1856,12 @@
           "name": "Russel Loski",
           "slug": "russel-loski"
         }
+      ],
+      "tags": [
+        {
+          "name": "BIML",
+          "slug": "biml"
+        }
       ]
     },
     {
@@ -1244,6 +1873,12 @@
         {
           "name": "Russel Loski",
           "slug": "russel-loski"
+        }
+      ],
+      "tags": [
+        {
+          "name": "XML Source",
+          "slug": "xml-source"
         }
       ]
     },
@@ -1257,6 +1892,16 @@
           "name": "Rob Sullivan",
           "slug": "rob-sullivan"
         }
+      ],
+      "tags": [
+        {
+          "name": "NoSQL",
+          "slug": "nosql"
+        },
+        {
+          "name": "Open Source DB",
+          "slug": "open-source-db"
+        }
       ]
     },
     {
@@ -1268,6 +1913,12 @@
         {
           "name": "Allen Smith",
           "slug": "allen-smith"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Sharepoint",
+          "slug": "sharepoint"
         }
       ]
     },
@@ -1281,6 +1932,12 @@
           "name": "Jennifer McCown",
           "slug": "jennifer-mccown"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        }
       ]
     },
     {
@@ -1292,6 +1949,12 @@
         {
           "name": "David Stein",
           "slug": "david-stein"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Merge",
+          "slug": "merge"
         }
       ]
     },
@@ -1305,6 +1968,12 @@
           "name": "Kat Meadows",
           "slug": "kat-meadows"
         }
+      ],
+      "tags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
       ]
     },
     {
@@ -1316,6 +1985,12 @@
         {
           "name": "Kevin Boles",
           "slug": "kevin-boles"
+        }
+      ],
+      "tags": [
+        {
+          "name": "sql injection",
+          "slug": "sql-injection"
         }
       ]
     },
@@ -1329,6 +2004,16 @@
           "name": "Michael Hotek",
           "slug": "michael-hotek"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server",
+          "slug": "sql-server"
+        },
+        {
+          "name": "Tuning",
+          "slug": "tuning"
+        }
       ]
     },
     {
@@ -1340,6 +2025,12 @@
         {
           "name": "Grant Fritchey",
           "slug": "grant-fritchey"
+        }
+      ],
+      "tags": [
+        {
+          "name": "TSQL",
+          "slug": "tsql"
         }
       ]
     },
@@ -1353,6 +2044,12 @@
           "name": "Rob Sullivan",
           "slug": "rob-sullivan"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Azure",
+          "slug": "sql-azure"
+        }
       ]
     },
     {
@@ -1364,6 +2061,12 @@
         {
           "name": "Jennifer McCown",
           "slug": "jennifer-mccown"
+        }
+      ],
+      "tags": [
+        {
+          "name": "TSQL",
+          "slug": "tsql"
         }
       ]
     },
@@ -1377,6 +2080,12 @@
           "name": "Sean McCown",
           "slug": "sean-mccown"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Backup",
+          "slug": "sql-backup"
+        }
       ]
     },
     {
@@ -1388,6 +2097,12 @@
         {
           "name": "John Sterrett",
           "slug": "john-sterrett"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Performance",
+          "slug": "sql-performance"
         }
       ]
     },
@@ -1401,6 +2116,12 @@
           "name": "Ben Miller",
           "slug": "ben-miller"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL TDE",
+          "slug": "sql-tde"
+        }
       ]
     },
     {
@@ -1412,6 +2133,12 @@
         {
           "name": "Sri Sridharan",
           "slug": "sri-sridharan"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Governance",
+          "slug": "sql-governance"
         }
       ]
     },
@@ -1425,6 +2152,12 @@
           "name": "Wes Brown",
           "slug": "wes-brown"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Storage",
+          "slug": "sql-storage"
+        }
       ]
     },
     {
@@ -1436,6 +2169,12 @@
         {
           "name": "Steve Jones",
           "slug": "steve-jones"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Keynote",
+          "slug": "keynote"
         }
       ]
     },
@@ -1449,6 +2188,12 @@
           "name": "Sean McCown",
           "slug": "sean-mccown"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Backup",
+          "slug": "sql-backup"
+        }
       ]
     },
     {
@@ -1460,6 +2205,12 @@
         {
           "name": "Steve Jones",
           "slug": "steve-jones"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Red Gate",
+          "slug": "red-gate"
         }
       ]
     },
@@ -1473,6 +2224,12 @@
           "name": "Ryan Adams",
           "slug": "ryan-adams"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Policy Based Mgmt",
+          "slug": "sql-policy-based-mgmt"
+        }
       ]
     },
     {
@@ -1484,6 +2241,12 @@
         {
           "name": "Paul Hunter",
           "slug": "paul-hunter"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL CLR",
+          "slug": "sql-clr"
         }
       ]
     },
@@ -1497,6 +2260,12 @@
           "name": "Kevin Boles",
           "slug": "kevin-boles"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Parralism",
+          "slug": "sql-parralism"
+        }
       ]
     },
     {
@@ -1509,6 +2278,12 @@
           "name": "Russel Loski",
           "slug": "russel-loski"
         }
+      ],
+      "tags": [
+        {
+          "name": "XML",
+          "slug": "xml"
+        }
       ]
     },
     {
@@ -1520,6 +2295,12 @@
         {
           "name": "Scott Whigham",
           "slug": "scott-whigham"
+        }
+      ],
+      "tags": [
+        {
+          "name": "TSQL",
+          "slug": "tsql"
         }
       ]
     }

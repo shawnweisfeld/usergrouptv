@@ -16,6 +16,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "SSAS",
+          "slug": "ssas"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "SQL Saturday",
           "slug": "sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SSAS",
+          "slug": "ssas"
         }
       ]
     }

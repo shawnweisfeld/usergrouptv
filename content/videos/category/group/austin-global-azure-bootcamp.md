@@ -15,6 +15,12 @@
           "name": "John Sterrett",
           "slug": "john-sterrett"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure SQL Database",
+          "slug": "azure-sql-database"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Reddy Sucharit",
           "slug": "reddy-sucharit"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Blockchain",
+          "slug": "blockchain"
         }
       ]
     },
@@ -43,6 +55,12 @@
           "name": "Adam Berguem",
           "slug": "adam-berguem"
         }
+      ],
+      "tags": [
+        {
+          "name": "Cyber Security",
+          "slug": "cyber-security"
+        }
       ]
     },
     {
@@ -54,6 +72,12 @@
         {
           "name": "Andy Wahrenberger",
           "slug": "andy-wahrenberger"
+        }
+      ],
+      "tags": [
+        {
+          "name": "ACI",
+          "slug": "aci"
         }
       ]
     },
@@ -67,6 +91,12 @@
           "name": "Joydeep Ghosh",
           "slug": "joydeep-ghosh"
         }
+      ],
+      "tags": [
+        {
+          "name": "K8S",
+          "slug": "k8s"
+        }
       ]
     },
     {
@@ -78,6 +108,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure DevOps",
+          "slug": "azure-devops"
         }
       ]
     },
@@ -91,6 +127,12 @@
           "name": "Akhterul Mustafa",
           "slug": "akhterul-mustafa"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure App Services",
+          "slug": "azure-app-services"
+        }
       ]
     },
     {
@@ -98,7 +140,13 @@
       "slug": "2019-austin-global-azure-bootcamp-opening-remarks",
       "thumbnail": "https://i.vimeocdn.com/video/778862386_295x166.jpg",
       "date": "2019-04-27T13:38:08",
-      "speakers": []
+      "speakers": [],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
+      ]
     },
     {
       "title": "The Domain Model of Continuous Delivery",
@@ -109,6 +157,12 @@
         {
           "name": "Jeffrey Palermo",
           "slug": "jeffrey-palermo"
+        }
+      ],
+      "tags": [
+        {
+          "name": "DevOps",
+          "slug": "devops"
         }
       ]
     },
@@ -122,6 +176,12 @@
           "name": "Stephen W. Thomas",
           "slug": "stephen-w-thomas"
         }
+      ],
+      "tags": [
+        {
+          "name": "Logic Apps",
+          "slug": "logic-apps"
+        }
       ]
     },
     {
@@ -133,6 +193,12 @@
         {
           "name": "Sucharit Reddy",
           "slug": "sucharit-reddy"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Blockchain",
+          "slug": "blockchain"
         }
       ]
     },
@@ -146,6 +212,12 @@
           "name": "John Sterrett",
           "slug": "john-sterrett"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        }
       ]
     },
     {
@@ -157,6 +229,12 @@
         {
           "name": "Eddie Villalba",
           "slug": "eddie-villalba"
+        }
+      ],
+      "tags": [
+        {
+          "name": "K8S",
+          "slug": "k8s"
         }
       ]
     },
@@ -170,6 +248,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
       ]
     },
     {
@@ -177,7 +261,8 @@
       "slug": "2017-austin-global-azure-bootcamp-close",
       "thumbnail": "https://i.vimeocdn.com/video/631744426_295x166.jpg",
       "date": "2017-04-22T13:15:31",
-      "speakers": []
+      "speakers": [],
+      "tags": []
     },
     {
       "title": "Big Data in Azure",
@@ -188,6 +273,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Big Data",
+          "slug": "big-data"
         }
       ]
     },
@@ -201,6 +292,12 @@
           "name": "Akhterul Mustafa",
           "slug": "akhterul-mustafa"
         }
+      ],
+      "tags": [
+        {
+          "name": "Cognitive Services",
+          "slug": "cognitive-services"
+        }
       ]
     },
     {
@@ -212,6 +309,12 @@
         {
           "name": "Marshall Copeland",
           "slug": "marshall-copeland"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure Security Center",
+          "slug": "azure-security-center"
         }
       ]
     },
@@ -225,6 +328,12 @@
           "name": "Jeffrey Palermo",
           "slug": "jeffrey-palermo"
         }
+      ],
+      "tags": [
+        {
+          "name": "Continuous Delivery",
+          "slug": "continuous-delivery"
+        }
       ]
     },
     {
@@ -236,6 +345,12 @@
         {
           "name": "Justin Self",
           "slug": "justin-self"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure Service Bus",
+          "slug": "azure-service-bus"
         }
       ]
     },
@@ -249,14 +364,16 @@
           "name": "Jeff Border",
           "slug": "jeff-border"
         }
-      ]
+      ],
+      "tags": []
     },
     {
       "title": "2017 Austin Global Azure Bootcamp Welcome",
       "slug": "2017-austin-global-azure-bootcamp-welcome",
       "thumbnail": "https://i.vimeocdn.com/video/631736156_295x166.jpg",
       "date": "2017-04-22T13:06:15",
-      "speakers": []
+      "speakers": [],
+      "tags": []
     }
   ]
 }

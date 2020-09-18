@@ -16,6 +16,12 @@
           "name": "North Texas PC UG",
           "slug": "north-texas-pc-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "RIA Services",
+          "slug": "ria-services"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "North Texas PC UG",
           "slug": "north-texas-pc-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "RIA Services",
+          "slug": "ria-services"
         }
       ]
     }

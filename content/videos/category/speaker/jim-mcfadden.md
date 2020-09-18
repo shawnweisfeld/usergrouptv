@@ -16,6 +16,12 @@
           "name": "Austin Office 365 and SharePoint User Group",
           "slug": "austin-office-365-and-sharepoint-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "O365",
+          "slug": "o365"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Chicago SharePoint UG",
           "slug": "chicago-sharepoint-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Sharepoint",
+          "slug": "sharepoint"
         }
       ]
     }

@@ -15,6 +15,12 @@
           "name": "Harold Pulcher",
           "slug": "harold-pulcher"
         }
+      ],
+      "tags": [
+        {
+          "name": "IOT",
+          "slug": "iot"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Jacques Daniels",
           "slug": "jacques-daniels"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Career",
+          "slug": "career"
         }
       ]
     },
@@ -39,6 +51,12 @@
           "name": "Jared Simpson",
           "slug": "jared-simpson"
         }
+      ],
+      "tags": [
+        {
+          "name": "UWP",
+          "slug": "uwp"
+        }
       ]
     },
     {
@@ -50,6 +68,12 @@
         {
           "name": "Robert Taylor",
           "slug": "robert-taylor"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Microsoft Graph",
+          "slug": "microsoft-graph"
         }
       ]
     },
@@ -63,6 +87,12 @@
           "name": "Scott Dockendorf",
           "slug": "scott-dockendorf"
         }
+      ],
+      "tags": [
+        {
+          "name": "ASP.NET Core",
+          "slug": "asp-net-core"
+        }
       ]
     },
     {
@@ -74,6 +104,12 @@
         {
           "name": "Srikanth Talla",
           "slug": "srikanth-talla"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Nodejs",
+          "slug": "nodejs"
         }
       ]
     }

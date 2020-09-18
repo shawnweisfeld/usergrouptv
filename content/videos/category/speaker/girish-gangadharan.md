@@ -20,6 +20,12 @@
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Node.js",
+          "slug": "node-js"
+        }
       ]
     },
     {
@@ -36,6 +42,12 @@
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "jQuery Mobile",
+          "slug": "jquery-mobile"
+        }
       ]
     },
     {
@@ -47,6 +59,12 @@
         {
           "name": "North West Arkansas Tech Fest",
           "slug": "north-west-arkansas-tech-fest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
         }
       ]
     }

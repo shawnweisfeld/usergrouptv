@@ -16,6 +16,12 @@
           "name": "Austin SQL Saturday",
           "slug": "austin-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "MDM",
+          "slug": "mdm"
+        }
       ]
     }
   ]

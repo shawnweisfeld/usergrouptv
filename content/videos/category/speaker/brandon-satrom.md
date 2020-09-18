@@ -16,6 +16,16 @@
           "name": "Microsoft Web Camp",
           "slug": "microsoft-web-camp"
         }
+      ],
+      "tags": [
+        {
+          "name": "MVC",
+          "slug": "mvc"
+        },
+        {
+          "name": "Web Forms",
+          "slug": "web-forms"
+        }
       ]
     },
     {
@@ -27,6 +37,12 @@
         {
           "name": "Microsoft Web Camp",
           "slug": "microsoft-web-camp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "jQuery",
+          "slug": "jquery"
         }
       ]
     },
@@ -40,6 +56,12 @@
           "name": "Microsoft Web Camp",
           "slug": "microsoft-web-camp"
         }
+      ],
+      "tags": [
+        {
+          "name": "WebMatrix",
+          "slug": "webmatrix"
+        }
       ]
     },
     {
@@ -52,6 +74,12 @@
           "name": "Microsoft Web Camp",
           "slug": "microsoft-web-camp"
         }
+      ],
+      "tags": [
+        {
+          "name": "HTML5",
+          "slug": "html5"
+        }
       ]
     },
     {
@@ -63,6 +91,12 @@
         {
           "name": "Microsoft Web Camp",
           "slug": "microsoft-web-camp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "JavaScript",
+          "slug": "javascript"
         }
       ]
     }

@@ -16,6 +16,12 @@
           "name": "Dallas .NET UG",
           "slug": "dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Microservices",
+          "slug": "microservices"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Tulsa School of Dev",
           "slug": "tulsa-school-of-dev"
+        }
+      ],
+      "tags": [
+        {
+          "name": "C#",
+          "slug": "c"
         }
       ]
     },
@@ -43,6 +55,12 @@
         {
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "debuging",
+          "slug": "debuging"
         }
       ]
     }

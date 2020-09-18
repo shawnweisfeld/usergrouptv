@@ -16,6 +16,12 @@
           "name": "Dallas Dev Fest Weekend",
           "slug": "dallas-dev-fest-weekend"
         }
+      ],
+      "tags": [
+        {
+          "name": "C#",
+          "slug": "c"
+        }
       ]
     }
   ]

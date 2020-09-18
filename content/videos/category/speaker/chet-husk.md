@@ -20,6 +20,12 @@
           "name": "Austin F# Meetup",
           "slug": "austin-f-meetup"
         }
+      ],
+      "tags": [
+        {
+          "name": ".NET Core",
+          "slug": "net-core"
+        }
       ]
     },
     {
@@ -31,6 +37,12 @@
         {
           "name": "Austin F# Meetup",
           "slug": "austin-f-meetup"
+        }
+      ],
+      "tags": [
+        {
+          "name": "F#",
+          "slug": "f"
         }
       ]
     },
@@ -44,6 +56,12 @@
           "name": "Austin F# Meetup",
           "slug": "austin-f-meetup"
         }
+      ],
+      "tags": [
+        {
+          "name": "F#",
+          "slug": "f"
+        }
       ]
     },
     {
@@ -55,6 +73,12 @@
         {
           "name": "Austin F# Meetup",
           "slug": "austin-f-meetup"
+        }
+      ],
+      "tags": [
+        {
+          "name": "F#",
+          "slug": "f"
         }
       ]
     },
@@ -68,6 +92,12 @@
           "name": "Austin F# Meetup",
           "slug": "austin-f-meetup"
         }
+      ],
+      "tags": [
+        {
+          "name": "F#",
+          "slug": "f"
+        }
       ]
     },
     {
@@ -80,6 +110,12 @@
           "name": "Austin F# Meetup",
           "slug": "austin-f-meetup"
         }
+      ],
+      "tags": [
+        {
+          "name": "F#",
+          "slug": "f"
+        }
       ]
     },
     {
@@ -91,6 +127,12 @@
         {
           "name": "Austin F# Meetup",
           "slug": "austin-f-meetup"
+        }
+      ],
+      "tags": [
+        {
+          "name": "F#",
+          "slug": "f"
         }
       ]
     }

@@ -16,6 +16,12 @@
           "name": "Tulsa School of Dev",
           "slug": "tulsa-school-of-dev"
         }
+      ],
+      "tags": [
+        {
+          "name": "Docker",
+          "slug": "docker"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "ASP.NET Core",
+          "slug": "asp-net-core"
         }
       ]
     },
@@ -43,6 +55,12 @@
         {
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "iOS",
+          "slug": "ios"
         }
       ]
     }

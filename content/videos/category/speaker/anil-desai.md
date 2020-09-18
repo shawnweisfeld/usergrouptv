@@ -16,6 +16,12 @@
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Austin CodeCamp",
           "slug": "austin-codecamp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SSRS",
+          "slug": "ssrs"
         }
       ]
     },
@@ -40,6 +52,12 @@
           "name": "Austin CodeCamp",
           "slug": "austin-codecamp"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        }
       ]
     },
     {
@@ -52,6 +70,12 @@
           "name": "Austin CodeCamp",
           "slug": "austin-codecamp"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server Reporting Services",
+          "slug": "sql-server-reporting-services"
+        }
       ]
     },
     {
@@ -63,6 +87,12 @@
         {
           "name": "Austin CodeCamp",
           "slug": "austin-codecamp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Server Performance",
+          "slug": "server-performance"
         }
       ]
     }

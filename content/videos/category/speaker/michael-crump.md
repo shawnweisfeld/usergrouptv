@@ -16,6 +16,12 @@
           "name": "All About XAML UG",
           "slug": "all-about-xaml-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Kinect",
+          "slug": "kinect"
+        }
       ]
     }
   ]

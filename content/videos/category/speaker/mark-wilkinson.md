@@ -16,6 +16,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "mvvm",
+          "slug": "mvvm"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Cowtown Code Camp",
           "slug": "cowtown-code-camp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "iOS",
+          "slug": "ios"
         }
       ]
     }

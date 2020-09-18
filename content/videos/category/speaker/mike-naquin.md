@@ -16,6 +16,16 @@
           "name": "DFW C++ User Group",
           "slug": "dfw-c-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "C#",
+          "slug": "c"
+        },
+        {
+          "name": "Garbage Collection",
+          "slug": "garbage-collection"
+        }
       ]
     }
   ]

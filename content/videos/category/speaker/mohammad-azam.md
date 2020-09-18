@@ -16,6 +16,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "ARKit",
+          "slug": "arkit"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Blockchain",
+          "slug": "blockchain"
         }
       ]
     },
@@ -40,6 +52,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "iPhone",
+          "slug": "iphone"
+        }
       ]
     },
     {
@@ -52,6 +70,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "ARKit",
+          "slug": "arkit"
+        }
       ]
     },
     {
@@ -63,6 +87,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Swift",
+          "slug": "swift"
         }
       ]
     }

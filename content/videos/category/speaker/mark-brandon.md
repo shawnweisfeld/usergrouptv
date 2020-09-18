@@ -16,6 +16,20 @@
           "name": "North West Arkansas Tech Fest",
           "slug": "north-west-arkansas-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "AWS",
+          "slug": "aws"
+        },
+        {
+          "name": "Rackspace",
+          "slug": "rackspace"
+        }
       ]
     }
   ]

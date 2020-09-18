@@ -16,6 +16,12 @@
           "name": "Dallas XAML UG",
           "slug": "dallas-xaml-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "TDD",
+          "slug": "tdd"
+        }
       ]
     },
     {
@@ -27,6 +33,16 @@
         {
           "name": "Dallas XAML UG",
           "slug": "dallas-xaml-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Silverlight",
+          "slug": "silverlight"
+        },
+        {
+          "name": "Security",
+          "slug": "security"
         }
       ]
     },
@@ -40,6 +56,16 @@
           "name": "Dallas XAML UG",
           "slug": "dallas-xaml-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Silverlight",
+          "slug": "silverlight"
+        },
+        {
+          "name": "jQuery",
+          "slug": "jquery"
+        }
       ]
     },
     {
@@ -51,6 +77,12 @@
         {
           "name": "Dallas XAML UG",
           "slug": "dallas-xaml-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "XAML User Controls",
+          "slug": "xaml-user-controls"
         }
       ]
     },
@@ -64,6 +96,12 @@
           "name": "Dallas XAML UG",
           "slug": "dallas-xaml-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "XAML",
+          "slug": "xaml"
+        }
       ]
     },
     {
@@ -75,6 +113,12 @@
         {
           "name": "Dallas XAML UG",
           "slug": "dallas-xaml-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Behaviors",
+          "slug": "behaviors"
         }
       ]
     }

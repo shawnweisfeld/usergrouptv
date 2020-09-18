@@ -16,6 +16,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "Power Query",
+          "slug": "power-query"
+        }
       ]
     }
   ]

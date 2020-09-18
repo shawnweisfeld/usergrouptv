@@ -16,6 +16,12 @@
           "name": "Austin Microsoft Developers Group",
           "slug": "austin-microsoft-app-developers"
         }
+      ],
+      "tags": [
+        {
+          "name": "Node.js",
+          "slug": "node-js"
+        }
       ]
     }
   ]

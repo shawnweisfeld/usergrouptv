@@ -15,6 +15,16 @@
           "name": "Chris Koenig",
           "slug": "chris-koenig"
         }
+      ],
+      "tags": [
+        {
+          "name": "Windows Phone",
+          "slug": "windows-phone"
+        },
+        {
+          "name": "WP7",
+          "slug": "wp7"
+        }
       ]
     },
     {
@@ -26,6 +36,16 @@
         {
           "name": "Chris Koenig",
           "slug": "chris-koenig"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Windows Phone",
+          "slug": "windows-phone"
+        },
+        {
+          "name": "WP7",
+          "slug": "wp7"
         }
       ]
     },
@@ -39,6 +59,16 @@
           "name": "Chris Koenig",
           "slug": "chris-koenig"
         }
+      ],
+      "tags": [
+        {
+          "name": "Windows Phone",
+          "slug": "windows-phone"
+        },
+        {
+          "name": "WP7",
+          "slug": "wp7"
+        }
       ]
     },
     {
@@ -50,6 +80,16 @@
         {
           "name": "Chris Koenig",
           "slug": "chris-koenig"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Windows Phone",
+          "slug": "windows-phone"
+        },
+        {
+          "name": "WP7",
+          "slug": "wp7"
         }
       ]
     }

@@ -20,6 +20,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "MS SQL",
+          "slug": "ms-sql"
+        }
       ]
     },
     {
@@ -31,6 +37,12 @@
         {
           "name": "SQL Saturday Baton Rouge",
           "slug": "sql-saturday-baton-rouge"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Admin",
+          "slug": "sql-admin"
         }
       ]
     },
@@ -48,6 +60,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "Keynote",
+          "slug": "keynote"
+        }
       ]
     },
     {
@@ -63,6 +81,12 @@
         {
           "name": "SQL Saturday",
           "slug": "sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Red Gate",
+          "slug": "red-gate"
         }
       ]
     }

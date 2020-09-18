@@ -15,6 +15,12 @@
           "name": "Jim McFadden",
           "slug": "jim-mcfadden"
         }
+      ],
+      "tags": [
+        {
+          "name": "Sharepoint",
+          "slug": "sharepoint"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
           "name": "Chris Geier",
           "slug": "chris-geier"
         }
+      ],
+      "tags": [
+        {
+          "name": "Sharepoint",
+          "slug": "sharepoint"
+        }
       ]
     },
     {
@@ -38,6 +50,12 @@
         {
           "name": "Coskun Cavusoglu",
           "slug": "coskun-cavusoglu"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Sharepoint",
+          "slug": "sharepoint"
         }
       ]
     }

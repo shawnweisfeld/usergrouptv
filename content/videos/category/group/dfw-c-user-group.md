@@ -15,6 +15,20 @@
           "name": "David Cravey",
           "slug": "david-cravey"
         }
+      ],
+      "tags": [
+        {
+          "name": "C#",
+          "slug": "c"
+        },
+        {
+          "name": "Cloud",
+          "slug": "cloud"
+        },
+        {
+          "name": "Casablanca",
+          "slug": "casablanca"
+        }
       ]
     },
     {
@@ -26,6 +40,16 @@
         {
           "name": "Mike Naquin",
           "slug": "mike-naquin"
+        }
+      ],
+      "tags": [
+        {
+          "name": "C#",
+          "slug": "c"
+        },
+        {
+          "name": "Garbage Collection",
+          "slug": "garbage-collection"
         }
       ]
     }

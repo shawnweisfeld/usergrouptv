@@ -16,6 +16,12 @@
           "name": "Dallas Dev Fest Weekend",
           "slug": "dallas-dev-fest-weekend"
         }
+      ],
+      "tags": [
+        {
+          "name": "Windows ML",
+          "slug": "windows-ml"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "AR",
+          "slug": "ar"
         }
       ]
     }

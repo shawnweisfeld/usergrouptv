@@ -16,6 +16,12 @@
           "name": "MS Insider Dev Tour",
           "slug": "ms-insider-dev-tour"
         }
+      ],
+      "tags": [
+        {
+          "name": "IOT",
+          "slug": "iot"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Tulsa School of Dev",
           "slug": "tulsa-school-of-dev"
+        }
+      ],
+      "tags": [
+        {
+          "name": "IOT",
+          "slug": "iot"
         }
       ]
     },
@@ -40,6 +52,12 @@
           "name": "Tulsa School of Dev",
           "slug": "tulsa-school-of-dev"
         }
+      ],
+      "tags": [
+        {
+          "name": "IOT",
+          "slug": "iot"
+        }
       ]
     },
     {
@@ -51,6 +69,12 @@
         {
           "name": "Tulsa School of Dev",
           "slug": "tulsa-school-of-dev"
+        }
+      ],
+      "tags": [
+        {
+          "name": "IOT",
+          "slug": "iot"
         }
       ]
     },
@@ -64,6 +88,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "IOT",
+          "slug": "iot"
+        }
       ]
     },
     {
@@ -75,6 +105,12 @@
         {
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Event Hubs",
+          "slug": "event-hubs"
         }
       ]
     }

@@ -16,6 +16,12 @@
           "name": "MeasureUp",
           "slug": "measure-up"
         }
+      ],
+      "tags": [
+        {
+          "name": "Proxy Product Owner",
+          "slug": "proxy-product-owner"
+        }
       ]
     }
   ]

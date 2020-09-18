@@ -16,6 +16,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
         }
       ]
     },
@@ -40,6 +52,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
+        }
       ]
     },
     {
@@ -51,6 +69,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -64,6 +88,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Practices",
+          "slug": "practices"
+        }
       ]
     },
     {
@@ -75,6 +105,16 @@
         {
           "name": "Agile .NET",
           "slug": "agile-net"
+        }
+      ],
+      "tags": [
+        {
+          "name": "OOP",
+          "slug": "oop"
+        },
+        {
+          "name": "SOLID",
+          "slug": "solid"
         }
       ]
     }

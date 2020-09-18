@@ -16,6 +16,20 @@
           "name": "Hands On Coding .NET Dallas",
           "slug": "hands-on-coding-net-dallas"
         }
+      ],
+      "tags": [
+        {
+          "name": "metro",
+          "slug": "metro"
+        },
+        {
+          "name": "XAML",
+          "slug": "xaml"
+        },
+        {
+          "name": "win8",
+          "slug": "win8"
+        }
       ]
     }
   ]

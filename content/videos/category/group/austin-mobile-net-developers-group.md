@@ -15,6 +15,12 @@
           "name": "Dan Manning",
           "slug": "dan-manning"
         }
+      ],
+      "tags": [
+        {
+          "name": "xamarin",
+          "slug": "xamarin"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Rabi Satter",
           "slug": "rabi-satter"
+        }
+      ],
+      "tags": [
+        {
+          "name": "xamarin",
+          "slug": "xamarin"
         }
       ]
     },
@@ -39,6 +51,12 @@
           "name": "Adam Kemp",
           "slug": "adam-kemp"
         }
+      ],
+      "tags": [
+        {
+          "name": "xamarin",
+          "slug": "xamarin"
+        }
       ]
     },
     {
@@ -50,6 +68,12 @@
         {
           "name": "Adam Kemp",
           "slug": "adam-kemp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "xamarin",
+          "slug": "xamarin"
         }
       ]
     },
@@ -63,6 +87,12 @@
           "name": "Adam Kemp",
           "slug": "adam-kemp"
         }
+      ],
+      "tags": [
+        {
+          "name": "xamarin",
+          "slug": "xamarin"
+        }
       ]
     },
     {
@@ -75,6 +105,12 @@
           "name": "Adam Kemp",
           "slug": "adam-kemp"
         }
+      ],
+      "tags": [
+        {
+          "name": "xamarin",
+          "slug": "xamarin"
+        }
       ]
     },
     {
@@ -86,6 +122,12 @@
         {
           "name": "Adam Kemp",
           "slug": "adam-kemp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "xamarin",
+          "slug": "xamarin"
         }
       ]
     }

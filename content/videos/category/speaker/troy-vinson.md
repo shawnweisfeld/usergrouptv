@@ -16,6 +16,12 @@
           "name": "MeasureUp",
           "slug": "measure-up"
         }
+      ],
+      "tags": [
+        {
+          "name": "Security",
+          "slug": "security"
+        }
       ]
     }
   ]

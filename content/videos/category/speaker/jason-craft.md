@@ -16,6 +16,12 @@
           "name": "Dallas Dev Fest Weekend",
           "slug": "dallas-dev-fest-weekend"
         }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Little Rock Tech Fest",
           "slug": "little-rock-tech-fest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Technical Debt",
+          "slug": "technical-debt"
         }
       ]
     }

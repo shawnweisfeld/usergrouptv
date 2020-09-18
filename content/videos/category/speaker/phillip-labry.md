@@ -20,6 +20,16 @@
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "SSAS",
+          "slug": "ssas"
+        }
       ]
     }
   ]

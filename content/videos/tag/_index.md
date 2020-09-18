@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2020-09-18T17:01:10.5989857Z",
+  "date": "2020-09-18T17:32:31.7829628Z",
   "draft": false,
   "tags": [
     {
@@ -119,9 +119,9 @@
     {
       "title": "API",
       "slug": "api",
-      "thumbnail": "https://i.vimeocdn.com/video/849445950_295x166.jpg",
-      "date": "2020-01-13T16:20:57",
-      "count": 2
+      "thumbnail": "https://i.vimeocdn.com/video/958647865_295x166.jpg",
+      "date": "2020-09-15T17:47:45",
+      "count": 3
     },
     {
       "title": "AR",
@@ -224,9 +224,9 @@
     {
       "title": "Azure",
       "slug": "azure",
-      "thumbnail": "https://i.vimeocdn.com/video/949513028_295x166.jpg",
-      "date": "2020-08-25T13:52:05",
-      "count": 34
+      "thumbnail": "https://i.vimeocdn.com/video/958647865_295x166.jpg",
+      "date": "2020-09-15T17:47:45",
+      "count": 35
     },
     {
       "title": "Azure AD",
@@ -360,13 +360,6 @@
       "thumbnail": "https://i.vimeocdn.com/video/798692584_295x166.jpg",
       "date": "2019-07-13T13:53:29",
       "count": 6
-    },
-    {
-      "title": "Azure; AIP",
-      "slug": "azure-aip",
-      "thumbnail": "https://i.vimeocdn.com/video/958647865_295x166.jpg",
-      "date": "2020-09-15T17:47:45",
-      "count": 1
     },
     {
       "title": "BabelJS",

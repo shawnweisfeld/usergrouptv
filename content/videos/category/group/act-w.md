@@ -15,6 +15,12 @@
           "name": "Monica Ann Arrambide",
           "slug": "monica-ann-arrambide"
         }
+      ],
+      "tags": [
+        {
+          "name": "LGBT",
+          "slug": "lgbt"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Cecy Correa",
           "slug": "cecy-correa"
+        }
+      ],
+      "tags": [
+        {
+          "name": "jobs",
+          "slug": "jobs"
         }
       ]
     },
@@ -39,6 +51,12 @@
           "name": "Margaret Dawson",
           "slug": "margaret-dawson"
         }
+      ],
+      "tags": [
+        {
+          "name": "Keynote",
+          "slug": "keynote"
+        }
       ]
     },
     {
@@ -51,6 +69,12 @@
           "name": "Sarah Evans",
           "slug": "sarah-evans"
         }
+      ],
+      "tags": [
+        {
+          "name": "Keynote",
+          "slug": "keynote"
+        }
       ]
     },
     {
@@ -62,6 +86,12 @@
         {
           "name": "Meredith Hassett",
           "slug": "meredith-hassett"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Nodejs",
+          "slug": "nodejs"
         }
       ]
     },
@@ -79,6 +109,12 @@
           "name": "Laura Musa",
           "slug": "laura-musa"
         }
+      ],
+      "tags": [
+        {
+          "name": "Tech Leader",
+          "slug": "tech-leader"
+        }
       ]
     },
     {
@@ -90,6 +126,12 @@
         {
           "name": "Alexis Puchek",
           "slug": "alexis-puchek"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Team building",
+          "slug": "team-building"
         }
       ]
     },
@@ -106,6 +148,12 @@
         {
           "name": "Jona Moore",
           "slug": "jona-moore"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Team building",
+          "slug": "team-building"
         }
       ]
     },
@@ -131,6 +179,12 @@
           "name": "Ann Hudspeth",
           "slug": "ann-hudspeth"
         }
+      ],
+      "tags": [
+        {
+          "name": "UX",
+          "slug": "ux"
+        }
       ]
     },
     {
@@ -142,6 +196,12 @@
         {
           "name": "Chelle Honiker",
           "slug": "chelle-honiker"
+        }
+      ],
+      "tags": [
+        {
+          "name": "entrepreneurship",
+          "slug": "entrepreneurship"
         }
       ]
     },
@@ -155,6 +215,12 @@
           "name": "Evan Schmiedehaus",
           "slug": "evan-schmiedehaus"
         }
+      ],
+      "tags": [
+        {
+          "name": "millennials",
+          "slug": "millennials"
+        }
       ]
     },
     {
@@ -166,6 +232,12 @@
         {
           "name": "Nicole Engard",
           "slug": "nicole-engard"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Keynote",
+          "slug": "keynote"
         }
       ]
     },
@@ -179,6 +251,12 @@
           "name": "Janice Levenhagen",
           "slug": "janice-levenhagen"
         }
+      ],
+      "tags": [
+        {
+          "name": "privilege",
+          "slug": "privilege"
+        }
       ]
     },
     {
@@ -190,6 +268,12 @@
         {
           "name": "Ruth Holloway",
           "slug": "ruth-holloway"
+        }
+      ],
+      "tags": [
+        {
+          "name": "CODES OF CONDUCT",
+          "slug": "codes-of-conduct"
         }
       ]
     },
@@ -207,6 +291,12 @@
           "name": "Miramar Dichoso",
           "slug": "miramar-dichoso"
         }
+      ],
+      "tags": [
+        {
+          "name": "Dress for Success",
+          "slug": "dress-for-success"
+        }
       ]
     },
     {
@@ -218,6 +308,12 @@
         {
           "name": "Eileen O'Riordan",
           "slug": "eileen-oriordan"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Job",
+          "slug": "job"
         }
       ]
     },
@@ -231,6 +327,12 @@
           "name": "Margaret Gourlay",
           "slug": "margaret-gourlay"
         }
+      ],
+      "tags": [
+        {
+          "name": "DevOps",
+          "slug": "devops"
+        }
       ]
     },
     {
@@ -242,6 +344,12 @@
         {
           "name": "Ann Hudspeth",
           "slug": "ann-hudspeth"
+        }
+      ],
+      "tags": [
+        {
+          "name": "email",
+          "slug": "email"
         }
       ]
     },
@@ -255,6 +363,12 @@
           "name": "Allison Macalik Tibbits",
           "slug": "allison-macalik-tibbits"
         }
+      ],
+      "tags": [
+        {
+          "name": "Diversity",
+          "slug": "diversity"
+        }
       ]
     },
     {
@@ -267,6 +381,12 @@
           "name": "Samantha Needham",
           "slug": "samantha-needham"
         }
+      ],
+      "tags": [
+        {
+          "name": "VR",
+          "slug": "vr"
+        }
       ]
     },
     {
@@ -274,7 +394,13 @@
       "slug": "teacher-to-blogger-in-2-years",
       "thumbnail": "https://i.vimeocdn.com/video/650697877_295x166.jpg",
       "date": "2017-08-05T17:03:05",
-      "speakers": []
+      "speakers": [],
+      "tags": [
+        {
+          "name": "blogger",
+          "slug": "blogger"
+        }
+      ]
     },
     {
       "title": "HOW TO KEEP LEARNING",
@@ -285,6 +411,12 @@
         {
           "name": "Nola Stowe",
           "slug": "nola-stowe"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Learning",
+          "slug": "learning"
         }
       ]
     },
@@ -298,6 +430,12 @@
           "name": "Robert Neill",
           "slug": "robert-neill"
         }
+      ],
+      "tags": [
+        {
+          "name": "Job",
+          "slug": "job"
+        }
       ]
     },
     {
@@ -309,6 +447,12 @@
         {
           "name": "Jessica McGlory",
           "slug": "jessica-mcglory"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Data",
+          "slug": "data"
         }
       ]
     },
@@ -322,6 +466,12 @@
           "name": "Kelly Churchill",
           "slug": "kelly-churchill"
         }
+      ],
+      "tags": [
+        {
+          "name": "Job",
+          "slug": "job"
+        }
       ]
     },
     {
@@ -333,6 +483,12 @@
         {
           "name": "Jessica Lucci",
           "slug": "jessica-lucci"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Career",
+          "slug": "career"
         }
       ]
     },
@@ -346,6 +502,12 @@
           "name": "Benny Vasquez",
           "slug": "benny-vasquez"
         }
+      ],
+      "tags": [
+        {
+          "name": "Webhosting",
+          "slug": "webhosting"
+        }
       ]
     },
     {
@@ -357,6 +519,12 @@
         {
           "name": "Deepina Kapila",
           "slug": "deepina-kapila"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Career",
+          "slug": "career"
         }
       ]
     },
@@ -370,6 +538,12 @@
           "name": "Evan Schmiedehaus",
           "slug": "evan-schmiedehaus"
         }
+      ],
+      "tags": [
+        {
+          "name": "Leadership",
+          "slug": "leadership"
+        }
       ]
     },
     {
@@ -382,6 +556,12 @@
           "name": "Jessica Lucci",
           "slug": "jessica-lucci"
         }
+      ],
+      "tags": [
+        {
+          "name": "DevOps",
+          "slug": "devops"
+        }
       ]
     },
     {
@@ -393,6 +573,12 @@
         {
           "name": "Rebekah Post",
           "slug": "rebekah-post"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Public speaking",
+          "slug": "public-speaking"
         }
       ]
     },
@@ -410,6 +596,12 @@
           "name": "Nina Toscano",
           "slug": "nina-toscano"
         }
+      ],
+      "tags": [
+        {
+          "name": "Career",
+          "slug": "career"
+        }
       ]
     },
     {
@@ -421,6 +613,12 @@
         {
           "name": "Liza C. Willmore",
           "slug": "liza-c-willmore"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Career",
+          "slug": "career"
         }
       ]
     },
@@ -434,6 +632,12 @@
           "name": "Ruth Holloway",
           "slug": "ruth-holloway"
         }
+      ],
+      "tags": [
+        {
+          "name": "Polyglot",
+          "slug": "polyglot"
+        }
       ]
     },
     {
@@ -445,6 +649,12 @@
         {
           "name": "Miriam Arora",
           "slug": "miriam-arora"
+        }
+      ],
+      "tags": [
+        {
+          "name": "LinkedIn",
+          "slug": "linkedin"
         }
       ]
     }

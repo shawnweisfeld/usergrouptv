@@ -16,6 +16,12 @@
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "ASP.NET Core",
+          "slug": "asp-net-core"
+        }
       ]
     }
   ]

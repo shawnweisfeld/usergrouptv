@@ -16,6 +16,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "SSIS",
+          "slug": "ssis"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SSIS",
+          "slug": "ssis"
         }
       ]
     },
@@ -40,6 +52,12 @@
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "BIML",
+          "slug": "biml"
+        }
       ]
     },
     {
@@ -51,6 +69,12 @@
         {
           "name": "Austin SQL Saturday",
           "slug": "austin-sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SSIS",
+          "slug": "ssis"
         }
       ]
     },
@@ -67,6 +91,16 @@
         {
           "name": "SQL Saturday",
           "slug": "sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SSIS",
+          "slug": "ssis"
+        },
+        {
+          "name": "ETL",
+          "slug": "etl"
         }
       ]
     }

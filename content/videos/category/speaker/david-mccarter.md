@@ -16,6 +16,12 @@
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Architecture",
+          "slug": "architecture"
         }
       ]
     }

@@ -16,6 +16,12 @@
           "name": "North Texas PC UG",
           "slug": "north-texas-pc-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Sharepoint",
+          "slug": "sharepoint"
+        }
       ]
     }
   ]

@@ -15,6 +15,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Mobile Services",
+          "slug": "azure-mobile-services"
+        }
       ]
     }
   ]

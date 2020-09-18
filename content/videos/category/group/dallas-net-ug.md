@@ -15,6 +15,12 @@
           "name": "Sean Whitesell",
           "slug": "sean-whitesell"
         }
+      ],
+      "tags": [
+        {
+          "name": "Microservices",
+          "slug": "microservices"
+        }
       ]
     },
     {
@@ -26,6 +32,16 @@
         {
           "name": "David Powell",
           "slug": "david-powell"
+        }
+      ],
+      "tags": [
+        {
+          "name": "AD",
+          "slug": "ad"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
         }
       ]
     },
@@ -39,6 +55,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Service Fabric",
+          "slug": "azure-service-fabric"
+        }
       ]
     },
     {
@@ -50,6 +72,12 @@
         {
           "name": "Brian Sullivan",
           "slug": "brian-sullivan"
+        }
+      ],
+      "tags": [
+        {
+          "name": "ASP.NET vNext",
+          "slug": "asp-net-vnext"
         }
       ]
     },
@@ -63,6 +91,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "SSDT",
+          "slug": "ssdt"
+        }
       ]
     },
     {
@@ -74,6 +108,12 @@
         {
           "name": "Casey Watson",
           "slug": "casey-watson"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
         }
       ]
     },
@@ -87,6 +127,16 @@
           "name": "Brent Schooley",
           "slug": "brent-schooley"
         }
+      ],
+      "tags": [
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "win8",
+          "slug": "win8"
+        }
       ]
     },
     {
@@ -98,6 +148,12 @@
         {
           "name": "Shane Holder",
           "slug": "shane-holder"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Nodejs",
+          "slug": "nodejs"
         }
       ]
     },
@@ -111,6 +167,12 @@
           "name": "Tim Rayburn",
           "slug": "tim-rayburn"
         }
+      ],
+      "tags": [
+        {
+          "name": "MassTransit",
+          "slug": "masstransit"
+        }
       ]
     },
     {
@@ -122,6 +184,16 @@
         {
           "name": "Chris Koenig",
           "slug": "chris-koenig"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "win8",
+          "slug": "win8"
         }
       ]
     },
@@ -135,6 +207,12 @@
           "name": "Cory Smith",
           "slug": "cory-smith"
         }
+      ],
+      "tags": [
+        {
+          "name": "Portable Class Library",
+          "slug": "portable-class-library"
+        }
       ]
     },
     {
@@ -146,6 +224,12 @@
         {
           "name": "David Yancey",
           "slug": "david-yancey"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Emergent Design",
+          "slug": "emergent-design"
         }
       ]
     },
@@ -159,6 +243,12 @@
           "name": "Michael L Perry",
           "slug": "michael-l-perry"
         }
+      ],
+      "tags": [
+        {
+          "name": "async",
+          "slug": "async"
+        }
       ]
     },
     {
@@ -170,6 +260,12 @@
         {
           "name": "Tony Sneed",
           "slug": "tony-sneed"
+        }
+      ],
+      "tags": [
+        {
+          "name": "OData",
+          "slug": "odata"
         }
       ]
     },
@@ -183,6 +279,12 @@
           "name": "Tony Sneed",
           "slug": "tony-sneed"
         }
+      ],
+      "tags": [
+        {
+          "name": "REST",
+          "slug": "rest"
+        }
       ]
     },
     {
@@ -194,6 +296,12 @@
         {
           "name": "Cory Smith",
           "slug": "cory-smith"
+        }
+      ],
+      "tags": [
+        {
+          "name": "LINQ",
+          "slug": "linq"
         }
       ]
     },
@@ -207,6 +315,12 @@
           "name": "Michael L Perry",
           "slug": "michael-l-perry"
         }
+      ],
+      "tags": [
+        {
+          "name": "Silverlight",
+          "slug": "silverlight"
+        }
       ]
     },
     {
@@ -218,6 +332,12 @@
         {
           "name": "Rob Vettor",
           "slug": "rob-vettor"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Design Patterns",
+          "slug": "design-patterns"
         }
       ]
     },
@@ -231,6 +351,12 @@
           "name": "Daniel Knoodle",
           "slug": "daniel-knoodle"
         }
+      ],
+      "tags": [
+        {
+          "name": "Geo Location",
+          "slug": "geo-location"
+        }
       ]
     },
     {
@@ -242,6 +368,12 @@
         {
           "name": "Tim Rayburn",
           "slug": "tim-rayburn"
+        }
+      ],
+      "tags": [
+        {
+          "name": "TDD",
+          "slug": "tdd"
         }
       ]
     }

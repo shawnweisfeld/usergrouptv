@@ -15,6 +15,12 @@
           "name": "Uday Adhikari",
           "slug": "uday-adhikari"
         }
+      ],
+      "tags": [
+        {
+          "name": "Power Virtual Agents",
+          "slug": "power-virtual-agents"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "April Dunnam",
           "slug": "april-dunnam"
+        }
+      ],
+      "tags": [
+        {
+          "name": "PowerApps",
+          "slug": "powerapps"
         }
       ]
     },
@@ -39,6 +51,12 @@
           "name": "Matthew McDermott",
           "slug": "matthew-mcdermott"
         }
+      ],
+      "tags": [
+        {
+          "name": "Search",
+          "slug": "search"
+        }
       ]
     },
     {
@@ -50,6 +68,12 @@
         {
           "name": "Kerry Lambert",
           "slug": "kerry-lambert"
+        }
+      ],
+      "tags": [
+        {
+          "name": "O365",
+          "slug": "o365"
         }
       ]
     },
@@ -63,6 +87,16 @@
           "name": "Uday Adhikari",
           "slug": "uday-adhikari"
         }
+      ],
+      "tags": [
+        {
+          "name": "Flow",
+          "slug": "flow"
+        },
+        {
+          "name": "PowerApps",
+          "slug": "powerapps"
+        }
       ]
     },
     {
@@ -74,6 +108,12 @@
         {
           "name": "James Hammonds",
           "slug": "james-hammonds"
+        }
+      ],
+      "tags": [
+        {
+          "name": "O365",
+          "slug": "o365"
         }
       ]
     },
@@ -87,6 +127,12 @@
           "name": "Laura Rogers",
           "slug": "laura-rogers"
         }
+      ],
+      "tags": [
+        {
+          "name": "PowerApps",
+          "slug": "powerapps"
+        }
       ]
     },
     {
@@ -98,6 +144,12 @@
         {
           "name": "Richard diZerega",
           "slug": "richard-dizerega"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Microsoft Graph",
+          "slug": "microsoft-graph"
         }
       ]
     },
@@ -111,6 +163,12 @@
           "name": "Sean McDonough",
           "slug": "sean-mcdonough"
         }
+      ],
+      "tags": [
+        {
+          "name": "SharePoint Online",
+          "slug": "sharepoint-online"
+        }
       ]
     },
     {
@@ -122,6 +180,12 @@
         {
           "name": "Uday Adhikari",
           "slug": "uday-adhikari"
+        }
+      ],
+      "tags": [
+        {
+          "name": "O365",
+          "slug": "o365"
         }
       ]
     },
@@ -135,6 +199,12 @@
           "name": "Jim McFadden",
           "slug": "jim-mcfadden"
         }
+      ],
+      "tags": [
+        {
+          "name": "O365",
+          "slug": "o365"
+        }
       ]
     },
     {
@@ -146,6 +216,12 @@
         {
           "name": "Brian Kinsella",
           "slug": "brian-kinsella"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Sharepoint",
+          "slug": "sharepoint"
         }
       ]
     },
@@ -159,6 +235,12 @@
           "name": "James Hammonds",
           "slug": "james-hammonds"
         }
+      ],
+      "tags": [
+        {
+          "name": "O365",
+          "slug": "o365"
+        }
       ]
     },
     {
@@ -170,6 +252,12 @@
         {
           "name": "Richard diZerega",
           "slug": "richard-dizerega"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Teams",
+          "slug": "teams"
         }
       ]
     },
@@ -183,7 +271,8 @@
           "name": "Eric Skaggs",
           "slug": "eric-skaggs"
         }
-      ]
+      ],
+      "tags": []
     },
     {
       "title": "SharePoint Online Performance",
@@ -194,6 +283,12 @@
         {
           "name": "Uday Adhikari",
           "slug": "uday-adhikari"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SharePoint Online",
+          "slug": "sharepoint-online"
         }
       ]
     },
@@ -211,6 +306,12 @@
           "name": "Shelby Dremely",
           "slug": "shelby-dremely"
         }
+      ],
+      "tags": [
+        {
+          "name": "Sharepoint",
+          "slug": "sharepoint"
+        }
       ]
     },
     {
@@ -223,6 +324,12 @@
           "name": "Travis Lingenfelder",
           "slug": "travis-lingenfelder"
         }
+      ],
+      "tags": [
+        {
+          "name": "DocuSign",
+          "slug": "docusign"
+        }
       ]
     },
     {
@@ -234,6 +341,12 @@
         {
           "name": "Travis Lingenfelder",
           "slug": "travis-lingenfelder"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Office365",
+          "slug": "office365"
         }
       ]
     }

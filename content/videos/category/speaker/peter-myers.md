@@ -16,6 +16,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure ML",
+          "slug": "azure-ml"
+        }
       ]
     }
   ]

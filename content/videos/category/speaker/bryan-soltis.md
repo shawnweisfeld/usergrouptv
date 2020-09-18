@@ -16,6 +16,12 @@
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
         }
+      ],
+      "tags": [
+        {
+          "name": "Search",
+          "slug": "search"
+        }
       ]
     },
     {
@@ -28,6 +34,12 @@
           "name": "Little Rock Tech Fest",
           "slug": "little-rock-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Microservices",
+          "slug": "microservices"
+        }
       ]
     },
     {
@@ -39,6 +51,12 @@
         {
           "name": "Little Rock Tech Fest",
           "slug": "little-rock-tech-fest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure Functions",
+          "slug": "azure-functions"
         }
       ]
     }

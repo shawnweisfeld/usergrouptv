@@ -1,7 +1,7 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2020-09-18T17:01:06.7560873Z",
+  "date": "2020-09-18T17:32:27.5481078Z",
   "draft": false,
   "newest": [
     {
@@ -24,6 +24,16 @@
           "name": "DFW Azure User Group",
           "slug": "dfw-azure-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "API",
+          "slug": "api"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
       ]
     },
     {
@@ -41,6 +51,12 @@
         {
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Blazor",
+          "slug": "blazor"
         }
       ]
     },
@@ -60,6 +76,12 @@
           "name": "Austin Power BI User Group",
           "slug": "austin-power-bi-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
       ]
     },
     {
@@ -78,6 +100,12 @@
           "name": "Tulsa .NET User Group",
           "slug": "tulsa-net-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "Dapr",
+          "slug": "dapr"
+        }
       ]
     },
     {
@@ -95,6 +123,16 @@
         {
           "name": "Tulsa .NET User Group",
           "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Static Web",
+          "slug": "static-web"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
         }
       ]
     },
@@ -122,6 +160,20 @@
           "name": "DFW Azure User Group",
           "slug": "dfw-azure-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "Stream Analytics",
+          "slug": "stream-analytics"
+        },
+        {
+          "name": "PowerBI",
+          "slug": "powerbi"
+        },
+        {
+          "name": "Event Hubs",
+          "slug": "event-hubs"
+        }
       ]
     },
     {
@@ -139,6 +191,12 @@
         {
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Akka.NET",
+          "slug": "akka-net"
         }
       ]
     },
@@ -158,6 +216,12 @@
           "name": "Austin Power BI User Group",
           "slug": "austin-power-bi-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "PowerBI",
+          "slug": "powerbi"
+        }
       ]
     },
     {
@@ -175,6 +239,12 @@
         {
           "name": "Tulsa .NET User Group",
           "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "C#",
+          "slug": "c"
         }
       ]
     },
@@ -198,6 +268,12 @@
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
         }
+      ],
+      "tags": [
+        {
+          "name": "caf",
+          "slug": "caf"
+        }
       ]
     },
     {
@@ -215,6 +291,12 @@
         {
           "name": "Dallas .NET UG",
           "slug": "dallas-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Microservices",
+          "slug": "microservices"
         }
       ]
     },
@@ -234,6 +316,12 @@
           "name": "Austin Power BI User Group",
           "slug": "austin-power-bi-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
       ]
     },
     {
@@ -251,6 +339,12 @@
         {
           "name": "Tulsa .NET User Group",
           "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "DDD",
+          "slug": "ddd"
         }
       ]
     },
@@ -270,6 +364,12 @@
           "name": "Tulsa .NET User Group",
           "slug": "tulsa-net-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "git",
+          "slug": "git"
+        }
       ]
     },
     {
@@ -287,6 +387,12 @@
         {
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
+        }
+      ],
+      "tags": [
+        {
+          "name": "DevOps",
+          "slug": "devops"
         }
       ]
     },
@@ -306,6 +412,20 @@
           "name": "Austin Power BI User Group",
           "slug": "austin-power-bi-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "Power Automate",
+          "slug": "power-automate"
+        },
+        {
+          "name": "Power Apps",
+          "slug": "power-apps"
+        },
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
       ]
     },
     {
@@ -324,6 +444,24 @@
           "name": "Tulsa .NET User Group",
           "slug": "tulsa-net-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "Blazer",
+          "slug": "blazer"
+        },
+        {
+          "name": ".NET Core",
+          "slug": "net-core"
+        },
+        {
+          "name": "ASP.NET",
+          "slug": "asp-net"
+        }
       ]
     },
     {
@@ -341,6 +479,12 @@
         {
           "name": "Tulsa .NET User Group",
           "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "ACID",
+          "slug": "acid"
         }
       ]
     }

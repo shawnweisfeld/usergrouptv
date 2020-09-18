@@ -16,6 +16,12 @@
           "name": "Cowtown Code Camp",
           "slug": "cowtown-code-camp"
         }
+      ],
+      "tags": [
+        {
+          "name": "git",
+          "slug": "git"
+        }
       ]
     }
   ]

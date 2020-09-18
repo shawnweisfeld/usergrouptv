@@ -16,6 +16,16 @@
           "name": "Ft. Worth .NET UG",
           "slug": "ft-worth-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "VB.NET",
+          "slug": "vb-net"
+        },
+        {
+          "name": "cross-platform",
+          "slug": "cross-platform"
+        }
       ]
     },
     {
@@ -27,6 +37,12 @@
         {
           "name": "Dallas .NET UG",
           "slug": "dallas-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Portable Class Library",
+          "slug": "portable-class-library"
         }
       ]
     },
@@ -40,6 +56,16 @@
           "name": "North Dallas .NET UG",
           "slug": "north-dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Portable Class Library",
+          "slug": "portable-class-library"
+        },
+        {
+          "name": "VB.NET",
+          "slug": "vb-net"
+        }
       ]
     },
     {
@@ -51,6 +77,12 @@
         {
           "name": "Dallas .NET UG",
           "slug": "dallas-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "LINQ",
+          "slug": "linq"
         }
       ]
     },
@@ -64,6 +96,12 @@
           "name": "Dallas XAML UG",
           "slug": "dallas-xaml-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "MEF",
+          "slug": "mef"
+        }
       ]
     },
     {
@@ -75,6 +113,12 @@
         {
           "name": "Ft. Worth .NET UG",
           "slug": "ft-worth-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "MEF",
+          "slug": "mef"
         }
       ]
     }

@@ -16,6 +16,12 @@
           "name": "AgileDotNext",
           "slug": "agiledotnext"
         }
+      ],
+      "tags": [
+        {
+          "name": "Technical Debt",
+          "slug": "technical-debt"
+        }
       ]
     }
   ]

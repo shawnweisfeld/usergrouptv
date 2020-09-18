@@ -20,6 +20,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Databricks",
+          "slug": "azure-databricks"
+        }
       ]
     }
   ]

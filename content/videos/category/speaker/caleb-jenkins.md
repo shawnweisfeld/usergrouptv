@@ -16,6 +16,16 @@
           "name": "North Dallas .NET UG",
           "slug": "north-dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Scrum",
+          "slug": "scrum"
+        },
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -27,6 +37,12 @@
         {
           "name": "Cowtown Code Camp",
           "slug": "cowtown-code-camp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "TDD",
+          "slug": "tdd"
         }
       ]
     },
@@ -40,6 +56,12 @@
           "name": "Dallas XAML UG",
           "slug": "dallas-xaml-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "TDD",
+          "slug": "tdd"
+        }
       ]
     },
     {
@@ -51,6 +73,12 @@
         {
           "name": "Agile .NET",
           "slug": "agile-net"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Scrum",
+          "slug": "scrum"
         }
       ]
     },
@@ -64,6 +92,12 @@
           "name": "Dallas XAML UG",
           "slug": "dallas-xaml-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "TDD",
+          "slug": "tdd"
+        }
       ]
     },
     {
@@ -75,6 +109,12 @@
         {
           "name": "Agile .NET",
           "slug": "agile-net"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     }

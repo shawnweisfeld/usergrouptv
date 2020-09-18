@@ -16,6 +16,20 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "SPA",
+          "slug": "spa"
+        },
+        {
+          "name": "ASP.NET Core",
+          "slug": "asp-net-core"
+        },
+        {
+          "name": "Aurelia",
+          "slug": "aurelia"
+        }
       ]
     },
     {
@@ -27,6 +41,12 @@
         {
           "name": "MeasureUp",
           "slug": "measure-up"
+        }
+      ],
+      "tags": [
+        {
+          "name": "BabelJS",
+          "slug": "babeljs"
         }
       ]
     },
@@ -40,6 +60,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "ASP.NET vNext",
+          "slug": "asp-net-vnext"
+        }
       ]
     },
     {
@@ -51,6 +77,12 @@
         {
           "name": "Dallas .NET UG",
           "slug": "dallas-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "ASP.NET vNext",
+          "slug": "asp-net-vnext"
         }
       ]
     },
@@ -64,6 +96,16 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Katana",
+          "slug": "katana"
+        },
+        {
+          "name": "Nancy",
+          "slug": "nancy"
+        }
       ]
     },
     {
@@ -75,6 +117,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "VS2013",
+          "slug": "vs2013"
         }
       ]
     },
@@ -92,6 +140,12 @@
           "name": "Tulsa School of Dev",
           "slug": "tulsa-school-of-dev"
         }
+      ],
+      "tags": [
+        {
+          "name": "Sails.js",
+          "slug": "sails-js"
+        }
       ]
     },
     {
@@ -108,6 +162,12 @@
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Durandal",
+          "slug": "durandal"
+        }
       ]
     },
     {
@@ -119,6 +179,12 @@
         {
           "name": "Little Rock Tech Fest",
           "slug": "little-rock-tech-fest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "ASP.NET MVC",
+          "slug": "asp-net-mvc"
         }
       ]
     },
@@ -132,6 +198,12 @@
           "name": "Little Rock Tech Fest",
           "slug": "little-rock-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "SignalR",
+          "slug": "signalr"
+        }
       ]
     },
     {
@@ -144,6 +216,12 @@
           "name": "Dallas C# SIG",
           "slug": "dallas-c-sig"
         }
+      ],
+      "tags": [
+        {
+          "name": "SignalR",
+          "slug": "signalr"
+        }
       ]
     },
     {
@@ -155,6 +233,12 @@
         {
           "name": "Dallas ASP.NET UG",
           "slug": "dallasaspnet"
+        }
+      ],
+      "tags": [
+        {
+          "name": "EF Code First",
+          "slug": "ef-code-first"
         }
       ]
     }

@@ -16,6 +16,12 @@
           "name": "Austin Agile",
           "slug": "austin-agile"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     }
   ]

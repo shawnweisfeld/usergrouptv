@@ -16,6 +16,12 @@
           "name": "VNext Dallas",
           "slug": "vnext-dallas"
         }
+      ],
+      "tags": [
+        {
+          "name": "Knockout.js",
+          "slug": "knockout-js"
+        }
       ]
     }
   ]

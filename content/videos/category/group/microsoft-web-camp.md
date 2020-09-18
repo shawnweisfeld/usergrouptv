@@ -19,6 +19,16 @@
           "name": "Clark Sell",
           "slug": "clark-sell"
         }
+      ],
+      "tags": [
+        {
+          "name": "MVC",
+          "slug": "mvc"
+        },
+        {
+          "name": "Web Forms",
+          "slug": "web-forms"
+        }
       ]
     },
     {
@@ -34,6 +44,12 @@
         {
           "name": "Clark Sell",
           "slug": "clark-sell"
+        }
+      ],
+      "tags": [
+        {
+          "name": "jQuery",
+          "slug": "jquery"
         }
       ]
     },
@@ -51,6 +67,12 @@
           "name": "Clark Sell",
           "slug": "clark-sell"
         }
+      ],
+      "tags": [
+        {
+          "name": "WebMatrix",
+          "slug": "webmatrix"
+        }
       ]
     },
     {
@@ -67,6 +89,12 @@
           "name": "Clark Sell",
           "slug": "clark-sell"
         }
+      ],
+      "tags": [
+        {
+          "name": "HTML5",
+          "slug": "html5"
+        }
       ]
     },
     {
@@ -82,6 +110,12 @@
         {
           "name": "Clark Sell",
           "slug": "clark-sell"
+        }
+      ],
+      "tags": [
+        {
+          "name": "JavaScript",
+          "slug": "javascript"
         }
       ]
     }

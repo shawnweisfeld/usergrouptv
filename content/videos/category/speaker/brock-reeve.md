@@ -16,6 +16,12 @@
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "DSL",
+          "slug": "dsl"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Hadoop",
+          "slug": "hadoop"
         }
       ]
     }

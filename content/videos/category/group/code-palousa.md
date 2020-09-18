@@ -15,6 +15,12 @@
           "name": "Michael L Perry",
           "slug": "michael-l-perry"
         }
+      ],
+      "tags": [
+        {
+          "name": "Correspondence",
+          "slug": "correspondence"
+        }
       ]
     }
   ]

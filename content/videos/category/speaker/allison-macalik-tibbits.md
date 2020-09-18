@@ -16,6 +16,12 @@
           "name": "ACT-W",
           "slug": "act-w"
         }
+      ],
+      "tags": [
+        {
+          "name": "Diversity",
+          "slug": "diversity"
+        }
       ]
     }
   ]

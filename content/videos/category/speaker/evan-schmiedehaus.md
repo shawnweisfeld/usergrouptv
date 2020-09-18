@@ -16,6 +16,12 @@
           "name": "ACT-W",
           "slug": "act-w"
         }
+      ],
+      "tags": [
+        {
+          "name": "millennials",
+          "slug": "millennials"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "ACT-W",
           "slug": "act-w"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Leadership",
+          "slug": "leadership"
         }
       ]
     }

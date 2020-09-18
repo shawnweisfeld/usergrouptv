@@ -16,6 +16,20 @@
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "DDD",
+          "slug": "ddd"
+        },
+        {
+          "name": "CQRS",
+          "slug": "cqrs"
+        },
+        {
+          "name": "Event Sourcing",
+          "slug": "event-sourcing"
+        }
       ]
     }
   ]

@@ -16,6 +16,12 @@
           "name": "Dallas Dev Fest Weekend",
           "slug": "dallas-dev-fest-weekend"
         }
+      ],
+      "tags": [
+        {
+          "name": "Progressive Web Apps",
+          "slug": "progressive-web-apps"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "North Dallas .NET UG",
           "slug": "north-dallas-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "HTML5 Mobile",
+          "slug": "html5-mobile"
         }
       ]
     }

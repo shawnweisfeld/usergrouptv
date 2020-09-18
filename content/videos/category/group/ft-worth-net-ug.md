@@ -15,6 +15,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "Service Fabirc",
+          "slug": "service-fabirc"
+        }
       ]
     },
     {
@@ -26,6 +32,16 @@
         {
           "name": "Cory Smith",
           "slug": "cory-smith"
+        }
+      ],
+      "tags": [
+        {
+          "name": "VB.NET",
+          "slug": "vb-net"
+        },
+        {
+          "name": "cross-platform",
+          "slug": "cross-platform"
         }
       ]
     },
@@ -39,6 +55,12 @@
           "name": "Mark Watson",
           "slug": "mark-watson"
         }
+      ],
+      "tags": [
+        {
+          "name": "AWS",
+          "slug": "aws"
+        }
       ]
     },
     {
@@ -50,6 +72,12 @@
         {
           "name": "Ryan Lowdermilk",
           "slug": "ryan-lowdermilk"
+        }
+      ],
+      "tags": [
+        {
+          "name": "win8",
+          "slug": "win8"
         }
       ]
     },
@@ -63,6 +91,16 @@
           "name": "Tim Rayburn",
           "slug": "tim-rayburn"
         }
+      ],
+      "tags": [
+        {
+          "name": "EF",
+          "slug": "ef"
+        },
+        {
+          "name": "EF Code First",
+          "slug": "ef-code-first"
+        }
       ]
     },
     {
@@ -74,6 +112,20 @@
         {
           "name": "Rob Vettor",
           "slug": "rob-vettor"
+        }
+      ],
+      "tags": [
+        {
+          "name": "mvvm",
+          "slug": "mvvm"
+        },
+        {
+          "name": "MVC",
+          "slug": "mvc"
+        },
+        {
+          "name": "MVP",
+          "slug": "mvp"
         }
       ]
     },
@@ -87,6 +139,12 @@
           "name": "Casey Watson",
           "slug": "casey-watson"
         }
+      ],
+      "tags": [
+        {
+          "name": "Nuget",
+          "slug": "nuget"
+        }
       ]
     },
     {
@@ -98,6 +156,20 @@
         {
           "name": "Joseph Hill",
           "slug": "joseph-hill"
+        }
+      ],
+      "tags": [
+        {
+          "name": "mono",
+          "slug": "mono"
+        },
+        {
+          "name": "iPhone",
+          "slug": "iphone"
+        },
+        {
+          "name": "WP7",
+          "slug": "wp7"
         }
       ]
     },
@@ -111,6 +183,12 @@
           "name": "Rob Vettor",
           "slug": "rob-vettor"
         }
+      ],
+      "tags": [
+        {
+          "name": "VS2010",
+          "slug": "vs2010"
+        }
       ]
     },
     {
@@ -123,6 +201,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "LightSwitch",
+          "slug": "lightswitch"
+        }
       ]
     },
     {
@@ -134,6 +218,12 @@
         {
           "name": "Cory Smith",
           "slug": "cory-smith"
+        }
+      ],
+      "tags": [
+        {
+          "name": "MEF",
+          "slug": "mef"
         }
       ]
     }

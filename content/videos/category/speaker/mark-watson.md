@@ -16,6 +16,12 @@
           "name": "Ft. Worth .NET UG",
           "slug": "ft-worth-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "AWS",
+          "slug": "aws"
+        }
       ]
     }
   ]

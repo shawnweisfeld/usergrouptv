@@ -15,6 +15,12 @@
           "name": "Markus Egger",
           "slug": "markus-egger"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -26,6 +32,16 @@
         {
           "name": "Chris Tullier",
           "slug": "chris-tullier"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        },
+        {
+          "name": "ALM",
+          "slug": "alm"
         }
       ]
     },
@@ -39,6 +55,16 @@
           "name": "Devlin Liles",
           "slug": "devlin-liles"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        },
+        {
+          "name": "Databases",
+          "slug": "databases"
+        }
       ]
     },
     {
@@ -50,6 +76,12 @@
         {
           "name": "Caleb Jenkins",
           "slug": "caleb-jenkins"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Scrum",
+          "slug": "scrum"
         }
       ]
     },
@@ -63,6 +95,12 @@
           "name": "Barry Rogers",
           "slug": "barry-rogers"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -75,6 +113,12 @@
           "name": "Barry Rogers",
           "slug": "barry-rogers"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -86,6 +130,12 @@
         {
           "name": "Ken Howard",
           "slug": "ken-howard"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -103,6 +153,12 @@
           "name": "Long Mai",
           "slug": "long-mai"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -114,6 +170,12 @@
         {
           "name": "Chris Tullier",
           "slug": "chris-tullier"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -127,7 +189,8 @@
           "name": "Latish Sehgal",
           "slug": "latish-sehgal"
         }
-      ]
+      ],
+      "tags": []
     },
     {
       "title": "Closing the Business/IT Gap",
@@ -138,6 +201,12 @@
         {
           "name": "Todd Girvin",
           "slug": "todd-girvin"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -163,6 +232,12 @@
           "name": "Kim Fisher",
           "slug": "kim-fisher"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -175,6 +250,16 @@
           "name": "Todd Girvin",
           "slug": "todd-girvin"
         }
+      ],
+      "tags": [
+        {
+          "name": "Scrum",
+          "slug": "scrum"
+        },
+        {
+          "name": "VS2010",
+          "slug": "vs2010"
+        }
       ]
     },
     {
@@ -186,6 +271,12 @@
         {
           "name": "Todd Girvin",
           "slug": "todd-girvin"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -203,6 +294,12 @@
           "name": "Chris Weldon",
           "slug": "chris-weldon"
         }
+      ],
+      "tags": [
+        {
+          "name": "TDD",
+          "slug": "tdd"
+        }
       ]
     },
     {
@@ -215,6 +312,16 @@
           "name": "Claudio Lassala",
           "slug": "claudio-lassala"
         }
+      ],
+      "tags": [
+        {
+          "name": "OOP",
+          "slug": "oop"
+        },
+        {
+          "name": "SOLID",
+          "slug": "solid"
+        }
       ]
     },
     {
@@ -226,6 +333,12 @@
         {
           "name": "Caleb Jenkins",
           "slug": "caleb-jenkins"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -242,6 +355,12 @@
         {
           "name": "Jef Newson",
           "slug": "jef-newson"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     }

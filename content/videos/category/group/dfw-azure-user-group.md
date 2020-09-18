@@ -15,6 +15,16 @@
           "name": "Aaron Lieberman",
           "slug": "aaron-lieberman"
         }
+      ],
+      "tags": [
+        {
+          "name": "API",
+          "slug": "api"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
       ]
     },
     {
@@ -31,6 +41,20 @@
           "name": "Mark Moore",
           "slug": "mark-moore"
         }
+      ],
+      "tags": [
+        {
+          "name": "Stream Analytics",
+          "slug": "stream-analytics"
+        },
+        {
+          "name": "PowerBI",
+          "slug": "powerbi"
+        },
+        {
+          "name": "Event Hubs",
+          "slug": "event-hubs"
+        }
       ]
     },
     {
@@ -42,6 +66,12 @@
         {
           "name": "Shad Phillips",
           "slug": "shad-phillips"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
         }
       ]
     },
@@ -55,6 +85,12 @@
           "name": "Michael Washam",
           "slug": "michael-washam"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
       ]
     },
     {
@@ -66,6 +102,12 @@
         {
           "name": "Ben Humphrey",
           "slug": "ben-humphrey"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
         }
       ]
     }

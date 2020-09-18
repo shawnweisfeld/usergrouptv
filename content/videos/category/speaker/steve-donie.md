@@ -16,6 +16,16 @@
           "name": "Austin CodeCamp",
           "slug": "austin-codecamp"
         }
+      ],
+      "tags": [
+        {
+          "name": "Knockout.js",
+          "slug": "knockout-js"
+        },
+        {
+          "name": "backbone.js",
+          "slug": "backbone-js"
+        }
       ]
     }
   ]

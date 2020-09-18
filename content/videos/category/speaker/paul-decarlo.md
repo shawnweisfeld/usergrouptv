@@ -16,6 +16,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure IaaS",
+          "slug": "azure-iaas"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "IOT",
+          "slug": "iot"
         }
       ]
     },
@@ -40,6 +52,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Win10",
+          "slug": "win10"
+        }
       ]
     },
     {
@@ -52,6 +70,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Keynote",
+          "slug": "keynote"
+        }
       ]
     },
     {
@@ -63,6 +87,16 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "wp8",
+          "slug": "wp8"
+        },
+        {
+          "name": "win8",
+          "slug": "win8"
         }
       ]
     }

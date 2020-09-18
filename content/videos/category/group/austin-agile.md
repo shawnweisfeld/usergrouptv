@@ -19,6 +19,12 @@
           "name": "Andy Switzky",
           "slug": "andy-switzky"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -30,6 +36,12 @@
         {
           "name": "Jason Morillo",
           "slug": "jason-morillo"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -43,6 +55,12 @@
           "name": "Walter Bodwell",
           "slug": "walter-bodwell"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -54,6 +72,12 @@
         {
           "name": "Scott Killen",
           "slug": "scott-killen"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -67,6 +91,12 @@
           "name": "Matt Lasater",
           "slug": "matt-lasater"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -78,6 +108,12 @@
         {
           "name": "Earl Everett",
           "slug": "earl-everett"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -95,6 +131,12 @@
           "name": "Melissa Ugiansky",
           "slug": "melissa-ugiansky"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -106,6 +148,12 @@
         {
           "name": "Mary Thorn",
           "slug": "mary-thorn"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -119,6 +167,12 @@
           "name": "Amanda Cardenas",
           "slug": "amanda-cardenas"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -130,6 +184,12 @@
         {
           "name": "Mary Thorn",
           "slug": "mary-thorn"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -143,6 +203,12 @@
           "name": "Steven Martin",
           "slug": "steven-martin"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -154,6 +220,12 @@
         {
           "name": "David Hawks",
           "slug": "david-hawks"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -167,6 +239,12 @@
           "name": "Sanjiv Augustine",
           "slug": "sanjiv-augustine"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -178,6 +256,12 @@
         {
           "name": "Chris Shinkle",
           "slug": "chris-shinkle"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -191,6 +275,12 @@
           "name": "Moriba Jah",
           "slug": "moriba-jah"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -202,6 +292,12 @@
         {
           "name": "Stacey Louie",
           "slug": "stacey-louie"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -215,6 +311,12 @@
           "name": "Candase Hokanson",
           "slug": "candase-hokanson"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -226,6 +328,12 @@
         {
           "name": "Reese Schmit",
           "slug": "reese-schmit"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -239,6 +347,12 @@
           "name": "David Hawks",
           "slug": "david-hawks"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -250,6 +364,12 @@
         {
           "name": "Mike Cottmeyer",
           "slug": "mike-cottmeyer"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -263,6 +383,12 @@
           "name": "Paul Brownell",
           "slug": "paul-brownell"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -274,6 +400,12 @@
         {
           "name": "Mathias Eifert",
           "slug": "mathias-eifert"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -287,6 +419,12 @@
           "name": "Maximilian Ekesi",
           "slug": "maximilian-ekesi"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -298,6 +436,12 @@
         {
           "name": "Jeff Brantley",
           "slug": "jeff-brantley"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -311,6 +455,12 @@
           "name": "Braz Brandt",
           "slug": "braz-brandt"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -322,6 +472,12 @@
         {
           "name": "Tim Costello 2",
           "slug": "tim-costello-2"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -335,6 +491,12 @@
           "name": "Yasser Farra",
           "slug": "yasser-farra"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -346,6 +508,12 @@
         {
           "name": "Leland Newsom",
           "slug": "leland-newsom"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     },
@@ -359,6 +527,12 @@
           "name": "Jeffrey Palermo",
           "slug": "jeffrey-palermo"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -371,6 +545,12 @@
           "name": "Ben Rogers",
           "slug": "ben-rogers"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -382,6 +562,12 @@
         {
           "name": "Earl Everett",
           "slug": "earl-everett"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     }

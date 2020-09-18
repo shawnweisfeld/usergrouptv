@@ -15,6 +15,12 @@
           "name": "Cori Drew",
           "slug": "cori-drew"
         }
+      ],
+      "tags": [
+        {
+          "name": "git",
+          "slug": "git"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Casey Watson",
           "slug": "casey-watson"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
         }
       ]
     },
@@ -39,6 +51,12 @@
           "name": "Adam Hill",
           "slug": "adam-hill"
         }
+      ],
+      "tags": [
+        {
+          "name": "Unity",
+          "slug": "unity"
+        }
       ]
     },
     {
@@ -50,6 +68,12 @@
         {
           "name": "Mark Wilkinson",
           "slug": "mark-wilkinson"
+        }
+      ],
+      "tags": [
+        {
+          "name": "iOS",
+          "slug": "ios"
         }
       ]
     },
@@ -63,6 +87,12 @@
           "name": "Jim Lavin",
           "slug": "jim-lavin"
         }
+      ],
+      "tags": [
+        {
+          "name": "AngularJS",
+          "slug": "angularjs"
+        }
       ]
     },
     {
@@ -74,6 +104,12 @@
         {
           "name": "Nathalie Goh Livorness",
           "slug": "nathalie-goh-livorness"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Unity",
+          "slug": "unity"
         }
       ]
     },
@@ -87,6 +123,12 @@
           "name": "Tim Rayburn",
           "slug": "tim-rayburn"
         }
+      ],
+      "tags": [
+        {
+          "name": "Document Databases",
+          "slug": "document-databases"
+        }
       ]
     },
     {
@@ -99,6 +141,12 @@
           "name": "Michael Dudley",
           "slug": "michael-dudley"
         }
+      ],
+      "tags": [
+        {
+          "name": "Durandal",
+          "slug": "durandal"
+        }
       ]
     },
     {
@@ -110,6 +158,12 @@
         {
           "name": "Caleb Jenkins",
           "slug": "caleb-jenkins"
+        }
+      ],
+      "tags": [
+        {
+          "name": "TDD",
+          "slug": "tdd"
         }
       ]
     }

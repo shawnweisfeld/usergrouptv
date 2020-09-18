@@ -16,6 +16,16 @@
           "name": "Tulsa .NET User Group",
           "slug": "tulsa-net-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "Static Web",
+          "slug": "static-web"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
       ]
     }
   ]

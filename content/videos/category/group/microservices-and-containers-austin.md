@@ -15,6 +15,16 @@
           "name": "Lee Calcote",
           "slug": "lee-calcote"
         }
+      ],
+      "tags": [
+        {
+          "name": "Kubernetes",
+          "slug": "kubernetes"
+        },
+        {
+          "name": "Docker Swarm",
+          "slug": "docker-swarm"
+        }
       ]
     }
   ]

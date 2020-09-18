@@ -16,6 +16,16 @@
           "name": "Dallas C# SIG",
           "slug": "dallas-c-sig"
         }
+      ],
+      "tags": [
+        {
+          "name": "git",
+          "slug": "git"
+        },
+        {
+          "name": "dvcs",
+          "slug": "dvcs"
+        }
       ]
     }
   ]

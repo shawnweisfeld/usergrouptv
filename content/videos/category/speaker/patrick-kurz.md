@@ -16,6 +16,12 @@
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Mobile Dev",
+          "slug": "mobile-dev"
+        }
       ]
     }
   ]

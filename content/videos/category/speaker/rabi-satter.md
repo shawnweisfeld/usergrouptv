@@ -16,6 +16,12 @@
           "name": "Austin Mobile .NET Developers Group",
           "slug": "austin-mobile-net-developers-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "xamarin",
+          "slug": "xamarin"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "xamarin",
+          "slug": "xamarin"
         }
       ]
     }

@@ -20,6 +20,20 @@
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
         }
+      ],
+      "tags": [
+        {
+          "name": "Python",
+          "slug": "python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "slug": "jupyter-notebook"
+        },
+        {
+          "name": "ETL",
+          "slug": "etl"
+        }
       ]
     }
   ]

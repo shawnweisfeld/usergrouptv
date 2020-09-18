@@ -19,6 +19,12 @@
           "name": "Tim Pacl",
           "slug": "tim-pacl"
         }
+      ],
+      "tags": [
+        {
+          "name": "TFS",
+          "slug": "tfs"
+        }
       ]
     },
     {
@@ -30,6 +36,12 @@
         {
           "name": "Tim Pacl",
           "slug": "tim-pacl"
+        }
+      ],
+      "tags": [
+        {
+          "name": "TFS",
+          "slug": "tfs"
         }
       ]
     },
@@ -43,6 +55,16 @@
           "name": "Clementino de Mendonca",
           "slug": "clementino-de-mendonca"
         }
+      ],
+      "tags": [
+        {
+          "name": "git",
+          "slug": "git"
+        },
+        {
+          "name": "TFS",
+          "slug": "tfs"
+        }
       ]
     },
     {
@@ -55,6 +77,12 @@
           "name": "Mike Haze",
           "slug": "mike-haze"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -66,6 +94,12 @@
         {
           "name": "Clementino de Mendonca",
           "slug": "clementino-de-mendonca"
+        }
+      ],
+      "tags": [
+        {
+          "name": "TFS",
+          "slug": "tfs"
         }
       ]
     }

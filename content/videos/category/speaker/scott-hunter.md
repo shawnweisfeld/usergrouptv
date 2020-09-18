@@ -16,6 +16,24 @@
           "name": "Tulsa .NET User Group",
           "slug": "tulsa-net-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "Blazer",
+          "slug": "blazer"
+        },
+        {
+          "name": ".NET Core",
+          "slug": "net-core"
+        },
+        {
+          "name": "ASP.NET",
+          "slug": "asp-net"
+        }
       ]
     },
     {
@@ -28,6 +46,16 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Web",
+          "slug": "web"
+        },
+        {
+          "name": "VS2012",
+          "slug": "vs2012"
+        }
       ]
     },
     {
@@ -39,6 +67,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "ASP.NET",
+          "slug": "asp-net"
         }
       ]
     }

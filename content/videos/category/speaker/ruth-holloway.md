@@ -16,6 +16,12 @@
           "name": "ACT-W",
           "slug": "act-w"
         }
+      ],
+      "tags": [
+        {
+          "name": "CODES OF CONDUCT",
+          "slug": "codes-of-conduct"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "ACT-W",
           "slug": "act-w"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Polyglot",
+          "slug": "polyglot"
         }
       ]
     }

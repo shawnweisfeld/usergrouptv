@@ -16,6 +16,12 @@
           "name": "Chicago IT Architects Group",
           "slug": "citag"
         }
+      ],
+      "tags": [
+        {
+          "name": "HierarchyID",
+          "slug": "hierarchyid"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Chicago PASS",
           "slug": "chicago-pass"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SOLID",
+          "slug": "solid"
         }
       ]
     }

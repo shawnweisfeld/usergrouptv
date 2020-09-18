@@ -16,6 +16,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "tools",
+          "slug": "tools"
         }
       ]
     },
@@ -40,6 +52,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Architecture",
+          "slug": "architecture"
+        }
       ]
     },
     {
@@ -52,6 +70,12 @@
           "name": "AgileDotNext",
           "slug": "agiledotnext"
         }
+      ],
+      "tags": [
+        {
+          "name": "TDD",
+          "slug": "tdd"
+        }
       ]
     },
     {
@@ -63,6 +87,12 @@
         {
           "name": "AgileDotNext",
           "slug": "agiledotnext"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
         }
       ]
     },
@@ -80,6 +110,12 @@
           "name": "Tulsa School of Dev",
           "slug": "tulsa-school-of-dev"
         }
+      ],
+      "tags": [
+        {
+          "name": "tools",
+          "slug": "tools"
+        }
       ]
     },
     {
@@ -91,6 +127,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Practices",
+          "slug": "practices"
         }
       ]
     },
@@ -104,6 +146,12 @@
           "name": "Dallas C# SIG",
           "slug": "dallas-c-sig"
         }
+      ],
+      "tags": [
+        {
+          "name": "Patterns",
+          "slug": "patterns"
+        }
       ]
     },
     {
@@ -115,6 +163,12 @@
         {
           "name": "Dallas C# SIG",
           "slug": "dallas-c-sig"
+        }
+      ],
+      "tags": [
+        {
+          "name": "EF",
+          "slug": "ef"
         }
       ]
     },
@@ -128,6 +182,16 @@
           "name": "Agile .NET",
           "slug": "agile-net"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        },
+        {
+          "name": "Databases",
+          "slug": "databases"
+        }
       ]
     },
     {
@@ -139,6 +203,12 @@
         {
           "name": "Dallas C# SIG",
           "slug": "dallas-c-sig"
+        }
+      ],
+      "tags": [
+        {
+          "name": "EF Code First",
+          "slug": "ef-code-first"
         }
       ]
     }

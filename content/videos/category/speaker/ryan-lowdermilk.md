@@ -16,6 +16,16 @@
           "name": "Little Rock Tech Fest",
           "slug": "little-rock-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Mobile Services",
+          "slug": "azure-mobile-services"
+        },
+        {
+          "name": "win8",
+          "slug": "win8"
+        }
       ]
     },
     {
@@ -27,6 +37,12 @@
         {
           "name": "Ft. Worth .NET UG",
           "slug": "ft-worth-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "win8",
+          "slug": "win8"
         }
       ]
     }

@@ -16,6 +16,12 @@
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "TFS",
+          "slug": "tfs"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Little Rock Tech Fest",
           "slug": "little-rock-tech-fest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "VS2013",
+          "slug": "vs2013"
         }
       ]
     }

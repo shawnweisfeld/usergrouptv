@@ -1,13 +1,17 @@
-.recording-card > ul {
+.recording-card > div > .card-text > ul {
     display: inline;
     padding-inline-start: 0;
 }
 
-.recording-card > ul > li {
+.recording-card > div > .card-text > ul > li {
     display: inline;
 }
 
-.recording-card > ul > li + li:before {
+.recording-card > div > .card-text > ul > li + li:before {
     content: ", ";
     padding: 0;
+}
+
+.recording-card > div > .card-text > span > a {
+    color: white;
 }

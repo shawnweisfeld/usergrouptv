@@ -16,6 +16,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure SQL Database",
+          "slug": "azure-sql-database"
+        }
       ]
     }
   ]

@@ -16,6 +16,16 @@
           "name": "Dallas .NET UG",
           "slug": "dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "win8",
+          "slug": "win8"
+        }
       ]
     },
     {
@@ -27,6 +37,16 @@
         {
           "name": "Dallas XAML UG",
           "slug": "dallas-xaml-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "win8",
+          "slug": "win8"
         }
       ]
     },
@@ -40,6 +60,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
       ]
     },
     {
@@ -51,6 +77,12 @@
         {
           "name": "North West Arkansas Tech Fest",
           "slug": "north-west-arkansas-tech-fest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
         }
       ]
     },
@@ -64,6 +96,16 @@
           "name": "30 to Launch Dallas",
           "slug": "30-to-launch-dallas"
         }
+      ],
+      "tags": [
+        {
+          "name": "Windows Phone",
+          "slug": "windows-phone"
+        },
+        {
+          "name": "WP7",
+          "slug": "wp7"
+        }
       ]
     },
     {
@@ -75,6 +117,16 @@
         {
           "name": "30 to Launch Dallas",
           "slug": "30-to-launch-dallas"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Windows Phone",
+          "slug": "windows-phone"
+        },
+        {
+          "name": "WP7",
+          "slug": "wp7"
         }
       ]
     },
@@ -88,6 +140,16 @@
           "name": "30 to Launch Dallas",
           "slug": "30-to-launch-dallas"
         }
+      ],
+      "tags": [
+        {
+          "name": "Windows Phone",
+          "slug": "windows-phone"
+        },
+        {
+          "name": "WP7",
+          "slug": "wp7"
+        }
       ]
     },
     {
@@ -99,6 +161,16 @@
         {
           "name": "30 to Launch Dallas",
           "slug": "30-to-launch-dallas"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Windows Phone",
+          "slug": "windows-phone"
+        },
+        {
+          "name": "WP7",
+          "slug": "wp7"
         }
       ]
     },
@@ -112,6 +184,12 @@
           "name": "Dallas GiveCamp",
           "slug": "dallas-givecamp"
         }
+      ],
+      "tags": [
+        {
+          "name": "WordPress",
+          "slug": "wordpress"
+        }
       ]
     },
     {
@@ -123,6 +201,12 @@
         {
           "name": "Dallas ASP.NET UG",
           "slug": "dallasaspnet"
+        }
+      ],
+      "tags": [
+        {
+          "name": "WP7",
+          "slug": "wp7"
         }
       ]
     }

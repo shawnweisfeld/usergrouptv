@@ -16,6 +16,12 @@
           "name": "North Dallas .NET UG",
           "slug": "north-dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "SignalR",
+          "slug": "signalr"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "North Dallas .NET UG",
           "slug": "north-dallas-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Parallel Programming",
+          "slug": "parallel-programming"
         }
       ]
     }

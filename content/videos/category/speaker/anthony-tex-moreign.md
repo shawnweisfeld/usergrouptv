@@ -16,6 +16,12 @@
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "sql on linux",
+          "slug": "sql-on-linux"
+        }
       ]
     },
     {
@@ -32,6 +38,12 @@
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "Hybrid Cloud",
+          "slug": "hybrid-cloud"
+        }
       ]
     },
     {
@@ -44,6 +56,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Hybrid Cloud",
+          "slug": "hybrid-cloud"
+        }
       ]
     },
     {
@@ -55,6 +73,12 @@
         {
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Hybrid Cloud",
+          "slug": "hybrid-cloud"
         }
       ]
     }

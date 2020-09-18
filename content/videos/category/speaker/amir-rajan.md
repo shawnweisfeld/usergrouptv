@@ -16,6 +16,12 @@
           "name": "North Dallas .NET UG",
           "slug": "north-dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "ASP.NET MVC",
+          "slug": "asp-net-mvc"
+        }
       ]
     },
     {
@@ -27,6 +33,16 @@
         {
           "name": "North Texas Silverlight UG",
           "slug": "north-texas-silverlight-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "REST",
+          "slug": "rest"
+        },
+        {
+          "name": "WP7",
+          "slug": "wp7"
         }
       ]
     }

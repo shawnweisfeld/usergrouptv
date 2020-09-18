@@ -16,6 +16,12 @@
           "name": "Austin Office 365 and SharePoint User Group",
           "slug": "austin-office-365-and-sharepoint-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "Microsoft Graph",
+          "slug": "microsoft-graph"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Austin Office 365 and SharePoint User Group",
           "slug": "austin-office-365-and-sharepoint-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Teams",
+          "slug": "teams"
         }
       ]
     }

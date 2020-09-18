@@ -16,6 +16,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "D3.js",
+          "slug": "d3-js"
+        }
       ]
     }
   ]

@@ -16,6 +16,12 @@
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Fireball",
+          "slug": "fireball"
+        }
       ]
     }
   ]

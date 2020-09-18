@@ -16,6 +16,12 @@
           "name": "MS Insider Dev Tour",
           "slug": "ms-insider-dev-tour"
         }
+      ],
+      "tags": [
+        {
+          "name": "Nodejs",
+          "slug": "nodejs"
+        }
       ]
     }
   ]

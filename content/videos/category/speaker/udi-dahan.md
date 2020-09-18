@@ -16,6 +16,12 @@
           "name": "North Dallas .NET UG",
           "slug": "north-dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Practices",
+          "slug": "practices"
+        }
       ]
     }
   ]

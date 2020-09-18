@@ -16,6 +16,12 @@
           "name": "SQL Saturday Baton Rouge",
           "slug": "sql-saturday-baton-rouge"
         }
+      ],
+      "tags": [
+        {
+          "name": "sql on linux",
+          "slug": "sql-on-linux"
+        }
       ]
     }
   ]

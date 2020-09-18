@@ -20,6 +20,12 @@
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "UX",
+          "slug": "ux"
+        }
       ]
     },
     {
@@ -35,6 +41,12 @@
         {
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SignalR",
+          "slug": "signalr"
         }
       ]
     }

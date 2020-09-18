@@ -15,6 +15,16 @@
           "name": "Allen Hurst",
           "slug": "allen-hurst"
         }
+      ],
+      "tags": [
+        {
+          "name": "Scrum",
+          "slug": "scrum"
+        },
+        {
+          "name": "Kanban",
+          "slug": "kanban"
+        }
       ]
     },
     {
@@ -26,6 +36,12 @@
         {
           "name": "Richard Mouser",
           "slug": "richard-mouser"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
         }
       ]
     },
@@ -39,6 +55,12 @@
           "name": "Don McGreal",
           "slug": "don-mcgreal"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -50,6 +72,12 @@
         {
           "name": "Tim Rayburn",
           "slug": "tim-rayburn"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
         }
       ]
     },
@@ -67,6 +95,12 @@
           "name": "Justin Self",
           "slug": "justin-self"
         }
+      ],
+      "tags": [
+        {
+          "name": "Technical Debt",
+          "slug": "technical-debt"
+        }
       ]
     },
     {
@@ -78,6 +112,16 @@
         {
           "name": "David Belcher",
           "slug": "david-belcher"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        },
+        {
+          "name": "UX",
+          "slug": "ux"
         }
       ]
     },
@@ -91,6 +135,12 @@
           "name": "Ken Howard",
           "slug": "ken-howard"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -102,6 +152,12 @@
         {
           "name": "Tim Rayburn",
           "slug": "tim-rayburn"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
         }
       ]
     },
@@ -119,6 +175,12 @@
           "name": "Long Mai",
           "slug": "long-mai"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -131,6 +193,12 @@
           "name": "Tim Rayburn",
           "slug": "tim-rayburn"
         }
+      ],
+      "tags": [
+        {
+          "name": "Career",
+          "slug": "career"
+        }
       ]
     },
     {
@@ -142,6 +210,12 @@
         {
           "name": "Devlin Liles",
           "slug": "devlin-liles"
+        }
+      ],
+      "tags": [
+        {
+          "name": "TDD",
+          "slug": "tdd"
         }
       ]
     },
@@ -159,6 +233,12 @@
           "name": "Cherie Silas",
           "slug": "cherie-silas"
         }
+      ],
+      "tags": [
+        {
+          "name": "Scrum",
+          "slug": "scrum"
+        }
       ]
     },
     {
@@ -170,6 +250,12 @@
         {
           "name": "Heather Rainey",
           "slug": "heather-rainey"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Scrum",
+          "slug": "scrum"
         }
       ]
     },
@@ -183,6 +269,12 @@
           "name": "Cherie Silas",
           "slug": "cherie-silas"
         }
+      ],
+      "tags": [
+        {
+          "name": "Motivation",
+          "slug": "motivation"
+        }
       ]
     },
     {
@@ -194,6 +286,12 @@
         {
           "name": "Devlin Liles",
           "slug": "devlin-liles"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
         }
       ]
     },
@@ -207,6 +305,12 @@
           "name": "Justin Self",
           "slug": "justin-self"
         }
+      ],
+      "tags": [
+        {
+          "name": "Scrum",
+          "slug": "scrum"
+        }
       ]
     },
     {
@@ -218,6 +322,12 @@
         {
           "name": "Ken Howard",
           "slug": "ken-howard"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     }

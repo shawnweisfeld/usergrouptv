@@ -16,6 +16,16 @@
           "name": "Agile .NET",
           "slug": "agile-net"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        },
+        {
+          "name": "ALM",
+          "slug": "alm"
+        }
       ]
     },
     {
@@ -27,6 +37,12 @@
         {
           "name": "Agile .NET",
           "slug": "agile-net"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
         }
       ]
     }

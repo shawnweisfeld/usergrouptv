@@ -20,6 +20,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Governance",
+          "slug": "sql-governance"
+        }
       ]
     }
   ]

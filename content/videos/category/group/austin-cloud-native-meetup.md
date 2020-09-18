@@ -15,6 +15,12 @@
           "name": "Jeff Brown",
           "slug": "jeff-brown"
         }
+      ],
+      "tags": [
+        {
+          "name": "Micronaut",
+          "slug": "micronaut"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Richard Seroter",
           "slug": "richard-seroter"
+        }
+      ],
+      "tags": [
+        {
+          "name": "pivotal",
+          "slug": "pivotal"
         }
       ]
     },
@@ -39,6 +51,16 @@
           "name": "Mario Gray",
           "slug": "mario-gray"
         }
+      ],
+      "tags": [
+        {
+          "name": "Spring",
+          "slug": "spring"
+        },
+        {
+          "name": "Testing",
+          "slug": "testing"
+        }
       ]
     },
     {
@@ -51,7 +73,8 @@
           "name": "Cornelius Mendoza",
           "slug": "cornelius-mendoza"
         }
-      ]
+      ],
+      "tags": []
     }
   ]
 }

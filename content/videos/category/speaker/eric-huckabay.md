@@ -16,6 +16,12 @@
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "Data Quality",
+          "slug": "data-quality"
+        }
       ]
     }
   ]

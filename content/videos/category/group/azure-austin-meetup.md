@@ -15,6 +15,16 @@
           "name": "Aaron Lieberman",
           "slug": "aaron-lieberman"
         }
+      ],
+      "tags": [
+        {
+          "name": "API",
+          "slug": "api"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
       ]
     },
     {
@@ -30,6 +40,20 @@
         {
           "name": "Mark Moore",
           "slug": "mark-moore"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Stream Analytics",
+          "slug": "stream-analytics"
+        },
+        {
+          "name": "PowerBI",
+          "slug": "powerbi"
+        },
+        {
+          "name": "Event Hubs",
+          "slug": "event-hubs"
         }
       ]
     },
@@ -47,6 +71,12 @@
           "name": "Charlie Cuddy",
           "slug": "charlie-cuddy"
         }
+      ],
+      "tags": [
+        {
+          "name": "caf",
+          "slug": "caf"
+        }
       ]
     },
     {
@@ -58,6 +88,12 @@
         {
           "name": "Jeffrey Palermo",
           "slug": "jeffrey-palermo"
+        }
+      ],
+      "tags": [
+        {
+          "name": "DevOps",
+          "slug": "devops"
         }
       ]
     },
@@ -71,6 +107,12 @@
           "name": "Alex Suttmiller",
           "slug": "alex-suttmiller"
         }
+      ],
+      "tags": [
+        {
+          "name": "m365",
+          "slug": "m365"
+        }
       ]
     },
     {
@@ -82,6 +124,12 @@
         {
           "name": "Alex Frankel",
           "slug": "alex-frankel"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure Blueprint",
+          "slug": "azure-blueprint"
         }
       ]
     },
@@ -95,6 +143,24 @@
           "name": "Sowmyan Soman Chullikkattil",
           "slug": "sowmyan-soman-chullikkattil"
         }
+      ],
+      "tags": [
+        {
+          "name": "Rudr",
+          "slug": "rudr"
+        },
+        {
+          "name": "Dapr",
+          "slug": "dapr"
+        },
+        {
+          "name": "OAM",
+          "slug": "oam"
+        },
+        {
+          "name": "Porter",
+          "slug": "porter"
+        }
       ]
     },
     {
@@ -106,6 +172,12 @@
         {
           "name": "Farida Bharmal",
           "slug": "farida-bharmal"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
         }
       ]
     },
@@ -119,6 +191,12 @@
           "name": "Bob Jacobs",
           "slug": "bob-jacobs"
         }
+      ],
+      "tags": [
+        {
+          "name": "Blockchain",
+          "slug": "blockchain"
+        }
       ]
     },
     {
@@ -130,6 +208,12 @@
         {
           "name": "Ned Bellavance",
           "slug": "ned-bellavance"
+        }
+      ],
+      "tags": [
+        {
+          "name": "K8S",
+          "slug": "k8s"
         }
       ]
     },
@@ -143,6 +227,12 @@
           "name": "Wayne Smith",
           "slug": "wayne-smith"
         }
+      ],
+      "tags": [
+        {
+          "name": "bots",
+          "slug": "bots"
+        }
       ]
     },
     {
@@ -154,6 +244,12 @@
         {
           "name": "Jon Lester",
           "slug": "jon-lester"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure AD",
+          "slug": "azure-ad"
         }
       ]
     },
@@ -167,6 +263,12 @@
           "name": "John Sterrett",
           "slug": "john-sterrett"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure SQL Database",
+          "slug": "azure-sql-database"
+        }
       ]
     },
     {
@@ -178,6 +280,12 @@
         {
           "name": "Reddy Sucharit",
           "slug": "reddy-sucharit"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Blockchain",
+          "slug": "blockchain"
         }
       ]
     },
@@ -195,6 +303,12 @@
           "name": "Adam Berguem",
           "slug": "adam-berguem"
         }
+      ],
+      "tags": [
+        {
+          "name": "Cyber Security",
+          "slug": "cyber-security"
+        }
       ]
     },
     {
@@ -206,6 +320,12 @@
         {
           "name": "Andy Wahrenberger",
           "slug": "andy-wahrenberger"
+        }
+      ],
+      "tags": [
+        {
+          "name": "ACI",
+          "slug": "aci"
         }
       ]
     },
@@ -219,6 +339,12 @@
           "name": "Joydeep Ghosh",
           "slug": "joydeep-ghosh"
         }
+      ],
+      "tags": [
+        {
+          "name": "K8S",
+          "slug": "k8s"
+        }
       ]
     },
     {
@@ -230,6 +356,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure DevOps",
+          "slug": "azure-devops"
         }
       ]
     },
@@ -243,6 +375,12 @@
           "name": "Akhterul Mustafa",
           "slug": "akhterul-mustafa"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure App Services",
+          "slug": "azure-app-services"
+        }
       ]
     },
     {
@@ -250,7 +388,13 @@
       "slug": "2019-austin-global-azure-bootcamp-opening-remarks",
       "thumbnail": "https://i.vimeocdn.com/video/778862386_295x166.jpg",
       "date": "2019-04-27T13:38:08",
-      "speakers": []
+      "speakers": [],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
+      ]
     },
     {
       "title": "Avoid Microservice Pains with Distributed Actors and Akka.NET",
@@ -261,6 +405,12 @@
         {
           "name": "Aaron Stannard",
           "slug": "aaron-stannard"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Akka.NET",
+          "slug": "akka-net"
         }
       ]
     },
@@ -274,6 +424,12 @@
           "name": "Tommy Falgout",
           "slug": "tommy-falgout"
         }
+      ],
+      "tags": [
+        {
+          "name": "K8S",
+          "slug": "k8s"
+        }
       ]
     },
     {
@@ -285,6 +441,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "DevOps",
+          "slug": "devops"
         }
       ]
     },
@@ -298,6 +460,16 @@
           "name": "Subramani Ananthapadmanabhan",
           "slug": "subramani-ananthapadmanabhan"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Monitor",
+          "slug": "azure-monitor"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
       ]
     },
     {
@@ -309,6 +481,12 @@
         {
           "name": "Bryan Soltis",
           "slug": "bryan-soltis"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Search",
+          "slug": "search"
         }
       ]
     },
@@ -322,6 +500,12 @@
           "name": "Jeffrey Palermo",
           "slug": "jeffrey-palermo"
         }
+      ],
+      "tags": [
+        {
+          "name": "DevOps",
+          "slug": "devops"
+        }
       ]
     },
     {
@@ -333,6 +517,12 @@
         {
           "name": "Kesten Broughton",
           "slug": "kesten-broughton"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cloud Security",
+          "slug": "cloud-security"
         }
       ]
     },
@@ -350,6 +540,12 @@
           "name": "Eric Fleming",
           "slug": "eric-fleming"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Functions",
+          "slug": "azure-functions"
+        }
       ]
     },
     {
@@ -361,6 +557,12 @@
         {
           "name": "Aaron Stannard",
           "slug": "aaron-stannard"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Akka.NET",
+          "slug": "akka-net"
         }
       ]
     },
@@ -374,6 +576,12 @@
           "name": "Siraj Mohammad",
           "slug": "siraj-mohammad"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure IaaS",
+          "slug": "azure-iaas"
+        }
       ]
     },
     {
@@ -385,6 +593,12 @@
         {
           "name": "Dylan Smith",
           "slug": "dylan-smith"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
         }
       ]
     },
@@ -414,6 +628,16 @@
           "name": "Justin Self",
           "slug": "justin-self"
         }
+      ],
+      "tags": [
+        {
+          "name": "Panel",
+          "slug": "panel"
+        },
+        {
+          "name": "Azure Migration",
+          "slug": "azure-migration"
+        }
       ]
     },
     {
@@ -425,6 +649,12 @@
         {
           "name": "Sean Feldman",
           "slug": "sean-feldman"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Service Bus",
+          "slug": "service-bus"
         }
       ]
     },
@@ -438,6 +668,12 @@
           "name": "James Allen",
           "slug": "james-allen"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
       ]
     },
     {
@@ -449,6 +685,12 @@
         {
           "name": "Andrew Siemer",
           "slug": "andrew-siemer"
+        }
+      ],
+      "tags": [
+        {
+          "name": "API",
+          "slug": "api"
         }
       ]
     },
@@ -462,6 +704,12 @@
           "name": "David Walker",
           "slug": "david-walker"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure ML",
+          "slug": "azure-ml"
+        }
       ]
     },
     {
@@ -473,6 +721,16 @@
         {
           "name": "Andrew Siemer",
           "slug": "andrew-siemer"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Load Test",
+          "slug": "load-test"
+        },
+        {
+          "name": "VSO",
+          "slug": "vso"
         }
       ]
     },
@@ -486,6 +744,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "Redis",
+          "slug": "redis"
+        }
       ]
     },
     {
@@ -497,6 +761,12 @@
         {
           "name": "Paul Drew",
           "slug": "paul-drew"
+        }
+      ],
+      "tags": [
+        {
+          "name": "DevOps",
+          "slug": "devops"
         }
       ]
     },
@@ -510,6 +780,12 @@
           "name": "Josh Handel",
           "slug": "josh-handel"
         }
+      ],
+      "tags": [
+        {
+          "name": "Search",
+          "slug": "search"
+        }
       ]
     },
     {
@@ -521,6 +797,12 @@
         {
           "name": "Andrew Siemer",
           "slug": "andrew-siemer"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
         }
       ]
     }

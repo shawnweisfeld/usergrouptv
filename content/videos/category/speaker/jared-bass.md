@@ -16,6 +16,12 @@
           "name": "Dallas XAML UG",
           "slug": "dallas-xaml-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "RIA",
+          "slug": "ria"
+        }
       ]
     }
   ]

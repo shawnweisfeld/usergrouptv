@@ -16,6 +16,12 @@
           "name": "Dallas GiveCamp",
           "slug": "dallas-givecamp"
         }
+      ],
+      "tags": [
+        {
+          "name": "Social Media",
+          "slug": "social-media"
+        }
       ]
     }
   ]

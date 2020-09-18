@@ -20,6 +20,20 @@
           "name": "DFW Azure User Group",
           "slug": "dfw-azure-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "Stream Analytics",
+          "slug": "stream-analytics"
+        },
+        {
+          "name": "PowerBI",
+          "slug": "powerbi"
+        },
+        {
+          "name": "Event Hubs",
+          "slug": "event-hubs"
+        }
       ]
     },
     {
@@ -36,6 +50,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure SQL Database",
+          "slug": "azure-sql-database"
+        }
       ]
     },
     {
@@ -47,6 +67,12 @@
         {
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server",
+          "slug": "sql-server"
         }
       ]
     }

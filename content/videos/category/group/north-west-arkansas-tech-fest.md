@@ -15,6 +15,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "Json",
+          "slug": "json"
+        }
       ]
     },
     {
@@ -26,6 +32,16 @@
         {
           "name": "Jay Smith",
           "slug": "jay-smith"
+        }
+      ],
+      "tags": [
+        {
+          "name": "EF",
+          "slug": "ef"
+        },
+        {
+          "name": "Highway.Data",
+          "slug": "highway-data"
         }
       ]
     },
@@ -39,6 +55,16 @@
           "name": "John Lockwood",
           "slug": "john-lockwood"
         }
+      ],
+      "tags": [
+        {
+          "name": "Hadoop",
+          "slug": "hadoop"
+        },
+        {
+          "name": "Map Reduce",
+          "slug": "map-reduce"
+        }
       ]
     },
     {
@@ -50,6 +76,12 @@
         {
           "name": "Girish Gangadharan",
           "slug": "girish-gangadharan"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
         }
       ]
     },
@@ -63,6 +95,20 @@
           "name": "Mark Brandon",
           "slug": "mark-brandon"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "AWS",
+          "slug": "aws"
+        },
+        {
+          "name": "Rackspace",
+          "slug": "rackspace"
+        }
       ]
     },
     {
@@ -74,6 +120,12 @@
         {
           "name": "Chris Koenig",
           "slug": "chris-koenig"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
         }
       ]
     },
@@ -87,6 +139,24 @@
           "name": "David Hecksel",
           "slug": "david-hecksel"
         }
+      ],
+      "tags": [
+        {
+          "name": "ETL",
+          "slug": "etl"
+        },
+        {
+          "name": "replication",
+          "slug": "replication"
+        },
+        {
+          "name": "Data Profiling",
+          "slug": "data-profiling"
+        },
+        {
+          "name": "Data Quality",
+          "slug": "data-quality"
+        }
       ]
     },
     {
@@ -99,6 +169,12 @@
           "name": "John Lockwood",
           "slug": "john-lockwood"
         }
+      ],
+      "tags": [
+        {
+          "name": "Mongo DB",
+          "slug": "mongo-db"
+        }
       ]
     },
     {
@@ -110,6 +186,24 @@
         {
           "name": "David Hecksel",
           "slug": "david-hecksel"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Hive",
+          "slug": "hive"
+        },
+        {
+          "name": "Hadoop",
+          "slug": "hadoop"
+        },
+        {
+          "name": "Sqoop",
+          "slug": "sqoop"
+        },
+        {
+          "name": "Big Data",
+          "slug": "big-data"
         }
       ]
     }

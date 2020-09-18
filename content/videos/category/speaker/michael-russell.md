@@ -16,6 +16,12 @@
           "name": "Dallas GiveCamp",
           "slug": "dallas-givecamp"
         }
+      ],
+      "tags": [
+        {
+          "name": "Sitefinity",
+          "slug": "sitefinity"
+        }
       ]
     }
   ]

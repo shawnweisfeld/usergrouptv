@@ -20,6 +20,16 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server",
+          "slug": "sql-server"
+        },
+        {
+          "name": "Tuning",
+          "slug": "tuning"
+        }
       ]
     }
   ]

@@ -20,6 +20,20 @@
           "name": "DFW Azure User Group",
           "slug": "dfw-azure-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "Stream Analytics",
+          "slug": "stream-analytics"
+        },
+        {
+          "name": "PowerBI",
+          "slug": "powerbi"
+        },
+        {
+          "name": "Event Hubs",
+          "slug": "event-hubs"
+        }
       ]
     }
   ]

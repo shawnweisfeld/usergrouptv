@@ -15,6 +15,12 @@
           "name": "Jason Craft",
           "slug": "jason-craft"
         }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Amara Keller",
           "slug": "amara-keller"
+        }
+      ],
+      "tags": [
+        {
+          "name": "AR",
+          "slug": "ar"
         }
       ]
     },
@@ -39,6 +51,12 @@
           "name": "Brandon Minnick",
           "slug": "brandon-minnick"
         }
+      ],
+      "tags": [
+        {
+          "name": "async",
+          "slug": "async"
+        }
       ]
     },
     {
@@ -50,6 +68,12 @@
         {
           "name": "Carl Ott",
           "slug": "carl-ott"
+        }
+      ],
+      "tags": [
+        {
+          "name": "LiDAR",
+          "slug": "lidar"
         }
       ]
     },
@@ -63,6 +87,12 @@
           "name": "Ron Dagdag",
           "slug": "ron-dagdag"
         }
+      ],
+      "tags": [
+        {
+          "name": "Windows ML",
+          "slug": "windows-ml"
+        }
       ]
     },
     {
@@ -74,6 +104,12 @@
         {
           "name": "Ado Kukic",
           "slug": "ado-kukic"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Authentication",
+          "slug": "authentication"
         }
       ]
     },
@@ -87,6 +123,12 @@
           "name": "Troy Hunt",
           "slug": "troy-hunt"
         }
+      ],
+      "tags": [
+        {
+          "name": "Security",
+          "slug": "security"
+        }
       ]
     },
     {
@@ -98,6 +140,12 @@
         {
           "name": "Chris Love",
           "slug": "chris-love"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Progressive Web Apps",
+          "slug": "progressive-web-apps"
         }
       ]
     },
@@ -111,6 +159,12 @@
           "name": "Jim Wooley",
           "slug": "jim-wooley"
         }
+      ],
+      "tags": [
+        {
+          "name": "C#",
+          "slug": "c"
+        }
       ]
     },
     {
@@ -122,6 +176,12 @@
         {
           "name": "Jason Fox",
           "slug": "jason-fox"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mixed Reality",
+          "slug": "mixed-reality"
         }
       ]
     },
@@ -135,6 +195,12 @@
           "name": "Michael L Perry",
           "slug": "michael-l-perry"
         }
+      ],
+      "tags": [
+        {
+          "name": "Blockchain",
+          "slug": "blockchain"
+        }
       ]
     },
     {
@@ -146,6 +212,12 @@
         {
           "name": "Billy Hollis",
           "slug": "billy-hollis"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cloud",
+          "slug": "cloud"
         }
       ]
     }

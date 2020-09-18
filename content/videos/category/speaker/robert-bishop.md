@@ -20,6 +20,12 @@
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "Isolation Levels",
+          "slug": "isolation-levels"
+        }
       ]
     }
   ]

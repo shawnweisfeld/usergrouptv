@@ -16,6 +16,12 @@
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "ASP.NET Core",
+          "slug": "asp-net-core"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "MS Insider Dev Tour",
           "slug": "ms-insider-dev-tour"
+        }
+      ],
+      "tags": [
+        {
+          "name": "ASP.NET Core",
+          "slug": "asp-net-core"
         }
       ]
     }

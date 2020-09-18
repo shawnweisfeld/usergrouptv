@@ -16,6 +16,12 @@
           "name": "MeasureUp",
           "slug": "measure-up"
         }
+      ],
+      "tags": [
+        {
+          "name": "Win10",
+          "slug": "win10"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "MeasureUp",
           "slug": "measure-up"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Testing",
+          "slug": "testing"
         }
       ]
     }

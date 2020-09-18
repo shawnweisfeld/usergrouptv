@@ -16,6 +16,16 @@
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Monitor",
+          "slug": "azure-monitor"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
       ]
     }
   ]

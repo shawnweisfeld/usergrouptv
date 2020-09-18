@@ -15,6 +15,16 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "C#",
+          "slug": "c"
+        },
+        {
+          "name": "XML",
+          "slug": "xml"
+        }
       ]
     },
     {
@@ -26,6 +36,12 @@
         {
           "name": "Ram Yadav",
           "slug": "ram-yadav"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Sharepoint",
+          "slug": "sharepoint"
         }
       ]
     },
@@ -39,6 +55,12 @@
           "name": "Robert Burger",
           "slug": "robert-burger"
         }
+      ],
+      "tags": [
+        {
+          "name": "RIA Services",
+          "slug": "ria-services"
+        }
       ]
     },
     {
@@ -51,6 +73,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "c# in 24 hrs",
+          "slug": "c-in-24-hrs"
+        }
       ]
     },
     {
@@ -62,6 +90,12 @@
         {
           "name": "Robert Burger",
           "slug": "robert-burger"
+        }
+      ],
+      "tags": [
+        {
+          "name": "RIA Services",
+          "slug": "ria-services"
         }
       ]
     }

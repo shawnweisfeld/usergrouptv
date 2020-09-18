@@ -20,6 +20,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Azure",
+          "slug": "sql-azure"
+        }
       ]
     },
     {
@@ -32,6 +38,12 @@
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure SQL Database",
+          "slug": "azure-sql-database"
+        }
       ]
     },
     {
@@ -43,6 +55,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure SQL Database",
+          "slug": "azure-sql-database"
         }
       ]
     },
@@ -60,6 +78,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Backup",
+          "slug": "sql-backup"
+        }
       ]
     },
     {
@@ -72,6 +96,16 @@
           "name": "Austin SQL Saturday",
           "slug": "austin-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        },
+        {
+          "name": "AD",
+          "slug": "ad"
+        }
       ]
     },
     {
@@ -83,6 +117,12 @@
         {
           "name": "Austin SQL Saturday",
           "slug": "austin-sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL AlwaysOn",
+          "slug": "sql-alwayson"
         }
       ]
     },
@@ -99,6 +139,12 @@
         {
           "name": "SQL Saturday",
           "slug": "sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Policy Based Mgmt",
+          "slug": "sql-policy-based-mgmt"
         }
       ]
     }

@@ -16,6 +16,12 @@
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Mongo DB",
+          "slug": "mongo-db"
+        }
       ]
     }
   ]

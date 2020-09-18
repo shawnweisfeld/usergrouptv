@@ -15,6 +15,12 @@
           "name": "Jeffrey Palermo",
           "slug": "jeffrey-palermo"
         }
+      ],
+      "tags": [
+        {
+          "name": "Blazor",
+          "slug": "blazor"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Hannes Lowette",
           "slug": "hannes-lowette"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Akka.NET",
+          "slug": "akka-net"
         }
       ]
     },
@@ -39,6 +51,12 @@
           "name": "Jeffrey Palermo",
           "slug": "jeffrey-palermo"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure DevOps",
+          "slug": "azure-devops"
+        }
       ]
     },
     {
@@ -50,6 +68,12 @@
         {
           "name": "Yogi Aradhye",
           "slug": "yogi-aradhye"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Architecture",
+          "slug": "architecture"
         }
       ]
     },
@@ -63,6 +87,12 @@
           "name": "Keith Casey",
           "slug": "keith-casey"
         }
+      ],
+      "tags": [
+        {
+          "name": "API",
+          "slug": "api"
+        }
       ]
     },
     {
@@ -74,6 +104,12 @@
         {
           "name": "Chet Husk",
           "slug": "chet-husk"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".NET Core",
+          "slug": "net-core"
         }
       ]
     },
@@ -87,6 +123,12 @@
           "name": "Scott Dockendorf",
           "slug": "scott-dockendorf"
         }
+      ],
+      "tags": [
+        {
+          "name": "ASP.NET Core",
+          "slug": "asp-net-core"
+        }
       ]
     },
     {
@@ -98,6 +140,12 @@
         {
           "name": "Tony Champion",
           "slug": "tony-champion"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
         }
       ]
     },
@@ -111,6 +159,12 @@
           "name": "Jane Prusakova",
           "slug": "jane-prusakova"
         }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
+        }
       ]
     },
     {
@@ -122,6 +176,12 @@
         {
           "name": "Becky Isserman",
           "slug": "becky-isserman"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Big Data",
+          "slug": "big-data"
         }
       ]
     },
@@ -135,6 +195,12 @@
           "name": "Mark Reynolds",
           "slug": "mark-reynolds"
         }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
+        }
       ]
     },
     {
@@ -146,6 +212,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "DevOps",
+          "slug": "devops"
         }
       ]
     },
@@ -159,6 +231,12 @@
           "name": "David McCarter",
           "slug": "david-mccarter"
         }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
+        }
       ]
     },
     {
@@ -170,6 +248,12 @@
         {
           "name": "Jane Prusakova",
           "slug": "jane-prusakova"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Architecture",
+          "slug": "architecture"
         }
       ]
     },
@@ -183,6 +267,12 @@
           "name": "Yogi Aradhye",
           "slug": "yogi-aradhye"
         }
+      ],
+      "tags": [
+        {
+          "name": "Microservices",
+          "slug": "microservices"
+        }
       ]
     },
     {
@@ -194,6 +284,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cognitive Services",
+          "slug": "cognitive-services"
         }
       ]
     },
@@ -207,6 +303,12 @@
           "name": "Jeremy Miller",
           "slug": "jeremy-miller"
         }
+      ],
+      "tags": [
+        {
+          "name": "Marten",
+          "slug": "marten"
+        }
       ]
     },
     {
@@ -218,6 +320,12 @@
         {
           "name": "Jeffrey Palermo",
           "slug": "jeffrey-palermo"
+        }
+      ],
+      "tags": [
+        {
+          "name": "DevOps",
+          "slug": "devops"
         }
       ]
     },
@@ -231,6 +339,12 @@
           "name": "Dimitry Ushakov",
           "slug": "dimitry-ushakov"
         }
+      ],
+      "tags": [
+        {
+          "name": "K8S",
+          "slug": "k8s"
+        }
       ]
     },
     {
@@ -242,6 +356,12 @@
         {
           "name": "Tony Champion",
           "slug": "tony-champion"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Project Rome",
+          "slug": "project-rome"
         }
       ]
     },
@@ -255,6 +375,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "Cognitive Services",
+          "slug": "cognitive-services"
+        }
       ]
     },
     {
@@ -266,6 +392,24 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "VisualStudio.com",
+          "slug": "visualstudio-com"
+        },
+        {
+          "name": "CD",
+          "slug": "cd"
+        },
+        {
+          "name": "CI",
+          "slug": "ci"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
         }
       ]
     },
@@ -279,6 +423,12 @@
           "name": "Jane Prusakova",
           "slug": "jane-prusakova"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -290,6 +440,12 @@
         {
           "name": "Yogi Aradhye",
           "slug": "yogi-aradhye"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mobile Apps",
+          "slug": "mobile-apps"
         }
       ]
     },
@@ -303,6 +459,12 @@
           "name": "Joseph Fluckiger",
           "slug": "joseph-fluckiger"
         }
+      ],
+      "tags": [
+        {
+          "name": "Mongo DB",
+          "slug": "mongo-db"
+        }
       ]
     },
     {
@@ -314,6 +476,12 @@
         {
           "name": "Reaz Haq",
           "slug": "reaz-haq"
+        }
+      ],
+      "tags": [
+        {
+          "name": "C#",
+          "slug": "c"
         }
       ]
     },
@@ -327,6 +495,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "Caching",
+          "slug": "caching"
+        }
       ]
     },
     {
@@ -338,6 +512,12 @@
         {
           "name": "Tony Champion",
           "slug": "tony-champion"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Xbox",
+          "slug": "xbox"
         }
       ]
     },
@@ -351,6 +531,12 @@
           "name": "Kevin Di Vincenzo",
           "slug": "kevin-di-vincenzo"
         }
+      ],
+      "tags": [
+        {
+          "name": "Fireball",
+          "slug": "fireball"
+        }
       ]
     },
     {
@@ -363,7 +549,8 @@
           "name": "Matthew D. Groves",
           "slug": "matthew-d-groves"
         }
-      ]
+      ],
+      "tags": []
     },
     {
       "title": "Common Pitfalls when Implementing Continuous Delivery ",
@@ -374,6 +561,12 @@
         {
           "name": "Jeffrey Palermo",
           "slug": "jeffrey-palermo"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Continuous Delivery",
+          "slug": "continuous-delivery"
         }
       ]
     },
@@ -387,6 +580,12 @@
           "name": "Eric Anderson",
           "slug": "eric-anderson"
         }
+      ],
+      "tags": [
+        {
+          "name": "Testing",
+          "slug": "testing"
+        }
       ]
     },
     {
@@ -398,6 +597,12 @@
         {
           "name": "Gabriel Schenker",
           "slug": "gabriel-schenker"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Docker",
+          "slug": "docker"
         }
       ]
     },
@@ -411,6 +616,12 @@
           "name": "Barrett Simms",
           "slug": "barrett-simms"
         }
+      ],
+      "tags": [
+        {
+          "name": "unit testing",
+          "slug": "unit-testing"
+        }
       ]
     },
     {
@@ -422,6 +633,12 @@
         {
           "name": "Brock Reeve",
           "slug": "brock-reeve"
+        }
+      ],
+      "tags": [
+        {
+          "name": "DSL",
+          "slug": "dsl"
         }
       ]
     },
@@ -435,6 +652,12 @@
           "name": "Justin Self",
           "slug": "justin-self"
         }
+      ],
+      "tags": [
+        {
+          "name": "CSS",
+          "slug": "css"
+        }
       ]
     },
     {
@@ -446,6 +669,12 @@
         {
           "name": "Jimmy Bogard",
           "slug": "jimmy-bogard"
+        }
+      ],
+      "tags": [
+        {
+          "name": "C#",
+          "slug": "c"
         }
       ]
     },
@@ -459,6 +688,12 @@
           "name": "David McCarter",
           "slug": "david-mccarter"
         }
+      ],
+      "tags": [
+        {
+          "name": "Architecture",
+          "slug": "architecture"
+        }
       ]
     },
     {
@@ -470,6 +705,20 @@
         {
           "name": "Raif Harik",
           "slug": "raif-harik"
+        }
+      ],
+      "tags": [
+        {
+          "name": "DDD",
+          "slug": "ddd"
+        },
+        {
+          "name": "CQRS",
+          "slug": "cqrs"
+        },
+        {
+          "name": "Event Sourcing",
+          "slug": "event-sourcing"
         }
       ]
     },
@@ -483,6 +732,12 @@
           "name": "Yogi Aradhye",
           "slug": "yogi-aradhye"
         }
+      ],
+      "tags": [
+        {
+          "name": "git",
+          "slug": "git"
+        }
       ]
     },
     {
@@ -494,6 +749,12 @@
         {
           "name": "John Sterrett",
           "slug": "john-sterrett"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
         }
       ]
     },
@@ -507,6 +768,12 @@
           "name": "Reaz Haq",
           "slug": "reaz-haq"
         }
+      ],
+      "tags": [
+        {
+          "name": "OWIN",
+          "slug": "owin"
+        }
       ]
     },
     {
@@ -518,6 +785,12 @@
         {
           "name": "Patrick Abbs",
           "slug": "patrick-abbs"
+        }
+      ],
+      "tags": [
+        {
+          "name": "AI",
+          "slug": "ai"
         }
       ]
     },
@@ -531,6 +804,12 @@
           "name": "Ryan Vice",
           "slug": "ryan-vice"
         }
+      ],
+      "tags": [
+        {
+          "name": "AngularJS",
+          "slug": "angularjs"
+        }
       ]
     },
     {
@@ -542,6 +821,12 @@
         {
           "name": "Rabi Satter",
           "slug": "rabi-satter"
+        }
+      ],
+      "tags": [
+        {
+          "name": "xamarin",
+          "slug": "xamarin"
         }
       ]
     },
@@ -555,6 +840,12 @@
           "name": "Christian Shay",
           "slug": "christian-shay"
         }
+      ],
+      "tags": [
+        {
+          "name": "Oracle",
+          "slug": "oracle"
+        }
       ]
     },
     {
@@ -566,6 +857,12 @@
         {
           "name": "Anil Desai",
           "slug": "anil-desai"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
         }
       ]
     },
@@ -579,6 +876,12 @@
           "name": "Eric Lawrence",
           "slug": "eric-lawrence"
         }
+      ],
+      "tags": [
+        {
+          "name": "Fiddler",
+          "slug": "fiddler"
+        }
       ]
     },
     {
@@ -590,6 +893,12 @@
         {
           "name": "Ryan Vice",
           "slug": "ryan-vice"
+        }
+      ],
+      "tags": [
+        {
+          "name": "DDD",
+          "slug": "ddd"
         }
       ]
     },
@@ -603,6 +912,12 @@
           "name": "Brock Reeve",
           "slug": "brock-reeve"
         }
+      ],
+      "tags": [
+        {
+          "name": "Hadoop",
+          "slug": "hadoop"
+        }
       ]
     },
     {
@@ -614,6 +929,12 @@
         {
           "name": "Gregory Beamer",
           "slug": "gregory-beamer"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server",
+          "slug": "sql-server"
         }
       ]
     }

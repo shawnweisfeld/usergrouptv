@@ -16,6 +16,16 @@
           "name": "Dallas .NET UG",
           "slug": "dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "AD",
+          "slug": "ad"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
       ]
     }
   ]

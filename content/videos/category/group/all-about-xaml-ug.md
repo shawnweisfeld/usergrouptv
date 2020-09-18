@@ -15,6 +15,12 @@
           "name": "Michael Crump",
           "slug": "michael-crump"
         }
+      ],
+      "tags": [
+        {
+          "name": "Kinect",
+          "slug": "kinect"
+        }
       ]
     }
   ]

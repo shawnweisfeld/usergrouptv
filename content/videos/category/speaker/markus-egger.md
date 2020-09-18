@@ -16,6 +16,12 @@
           "name": "State of .NET",
           "slug": "state-of-net"
         }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Dallas ASP.NET UG",
           "slug": "dallasaspnet"
+        }
+      ],
+      "tags": [
+        {
+          "name": "ASP.NET vNext",
+          "slug": "asp-net-vnext"
         }
       ]
     },
@@ -40,6 +52,12 @@
           "name": "Dallas ASP.NET UG",
           "slug": "dallasaspnet"
         }
+      ],
+      "tags": [
+        {
+          "name": "edge",
+          "slug": "edge"
+        }
       ]
     },
     {
@@ -52,7 +70,8 @@
           "name": "State of .NET",
           "slug": "state-of-net"
         }
-      ]
+      ],
+      "tags": []
     },
     {
       "title": "Dallas State of .NET Tour with Markus Egger! - Part 1",
@@ -64,7 +83,8 @@
           "name": "State of .NET",
           "slug": "state-of-net"
         }
-      ]
+      ],
+      "tags": []
     },
     {
       "title": "Introducing Universal Windows App Development",
@@ -75,6 +95,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "UWP",
+          "slug": "uwp"
         }
       ]
     },
@@ -88,6 +114,12 @@
           "name": "State of .NET",
           "slug": "state-of-net"
         }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        }
       ]
     },
     {
@@ -99,6 +131,12 @@
         {
           "name": "State of .NET",
           "slug": "state-of-net"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
         }
       ]
     },
@@ -112,6 +150,24 @@
           "name": "State of .NET",
           "slug": "state-of-net"
         }
+      ],
+      "tags": [
+        {
+          "name": "metro",
+          "slug": "metro"
+        },
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "XAML",
+          "slug": "xaml"
+        },
+        {
+          "name": "win8",
+          "slug": "win8"
+        }
       ]
     },
     {
@@ -123,6 +179,24 @@
         {
           "name": "State of .NET",
           "slug": "state-of-net"
+        }
+      ],
+      "tags": [
+        {
+          "name": "metro",
+          "slug": "metro"
+        },
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "XAML",
+          "slug": "xaml"
+        },
+        {
+          "name": "win8",
+          "slug": "win8"
         }
       ]
     },
@@ -136,6 +210,12 @@
           "name": "Agile .NET",
           "slug": "agile-net"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -147,6 +227,12 @@
         {
           "name": "State of .NET",
           "slug": "state-of-net"
+        }
+      ],
+      "tags": [
+        {
+          "name": "CODE",
+          "slug": "code"
         }
       ]
     }

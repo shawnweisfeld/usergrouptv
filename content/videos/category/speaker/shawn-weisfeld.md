@@ -16,6 +16,12 @@
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
         }
+      ],
+      "tags": [
+        {
+          "name": "GitHub",
+          "slug": "github"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "North Texas SQL Server User Group",
           "slug": "north-texas-sql-server-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cosmos DB",
+          "slug": "cosmos-db"
         }
       ]
     },
@@ -44,6 +56,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "Cosmos DB",
+          "slug": "cosmos-db"
+        }
       ]
     },
     {
@@ -59,6 +77,12 @@
         {
           "name": "Austin Global Azure Bootcamp",
           "slug": "austin-global-azure-bootcamp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure DevOps",
+          "slug": "azure-devops"
         }
       ]
     },
@@ -76,6 +100,12 @@
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "DevOps",
+          "slug": "devops"
+        }
       ]
     },
     {
@@ -87,6 +117,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "DevOps",
+          "slug": "devops"
         }
       ]
     },
@@ -100,6 +136,12 @@
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Cognitive Services",
+          "slug": "cognitive-services"
+        }
       ]
     },
     {
@@ -111,6 +153,12 @@
         {
           "name": "SQL Saturday Baton Rouge",
           "slug": "sql-saturday-baton-rouge"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cognitive Services",
+          "slug": "cognitive-services"
         }
       ]
     },
@@ -124,6 +172,12 @@
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "Cognitive Services",
+          "slug": "cognitive-services"
+        }
       ]
     },
     {
@@ -135,6 +189,12 @@
         {
           "name": "SQL Saturday",
           "slug": "sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cognitive Services",
+          "slug": "cognitive-services"
         }
       ]
     },
@@ -148,6 +208,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
       ]
     },
     {
@@ -159,6 +225,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cognitive Services",
+          "slug": "cognitive-services"
         }
       ]
     },
@@ -172,6 +244,12 @@
           "name": "Austin Global Azure Bootcamp",
           "slug": "austin-global-azure-bootcamp"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
       ]
     },
     {
@@ -183,6 +261,12 @@
         {
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cognitive Services",
+          "slug": "cognitive-services"
         }
       ]
     },
@@ -196,6 +280,16 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "Microservices",
+          "slug": "microservices"
+        }
       ]
     },
     {
@@ -207,6 +301,24 @@
         {
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "VisualStudio.com",
+          "slug": "visualstudio-com"
+        },
+        {
+          "name": "CD",
+          "slug": "cd"
+        },
+        {
+          "name": "CI",
+          "slug": "ci"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
         }
       ]
     },
@@ -220,6 +332,24 @@
           "name": "Little Rock Tech Fest",
           "slug": "little-rock-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "VisualStudio.com",
+          "slug": "visualstudio-com"
+        },
+        {
+          "name": "CD",
+          "slug": "cd"
+        },
+        {
+          "name": "CI",
+          "slug": "ci"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
       ]
     },
     {
@@ -231,6 +361,12 @@
         {
           "name": "Aggieland .NET UG",
           "slug": "aggieland-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Continuous Deployment",
+          "slug": "continuous-deployment"
         }
       ]
     },
@@ -248,6 +384,12 @@
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure SQL Data Warehouse",
+          "slug": "azure-sql-data-warehouse"
+        }
       ]
     },
     {
@@ -259,6 +401,12 @@
         {
           "name": "Dallas ASP.NET UG",
           "slug": "dallasaspnet"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Microservices",
+          "slug": "microservices"
         }
       ]
     },
@@ -272,6 +420,12 @@
           "name": "Austin Global Azure Bootcamp",
           "slug": "austin-global-azure-bootcamp"
         }
+      ],
+      "tags": [
+        {
+          "name": "Big Data",
+          "slug": "big-data"
+        }
       ]
     },
     {
@@ -283,6 +437,12 @@
         {
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Caching",
+          "slug": "caching"
         }
       ]
     },
@@ -296,6 +456,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Data Warehouse",
+          "slug": "sql-data-warehouse"
+        }
       ]
     },
     {
@@ -307,6 +473,16 @@
         {
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Panel",
+          "slug": "panel"
+        },
+        {
+          "name": "Azure Migration",
+          "slug": "azure-migration"
         }
       ]
     },
@@ -320,6 +496,12 @@
           "name": "Houston Techfest",
           "slug": "houston-techfest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Functions",
+          "slug": "azure-functions"
+        }
       ]
     },
     {
@@ -331,6 +513,12 @@
         {
           "name": "Houston Techfest",
           "slug": "houston-techfest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Microservices",
+          "slug": "microservices"
         }
       ]
     },
@@ -344,6 +532,12 @@
           "name": "GM User Group",
           "slug": "gm-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "Service Fabirc",
+          "slug": "service-fabirc"
+        }
       ]
     },
     {
@@ -355,6 +549,12 @@
         {
           "name": "SQL Saturday",
           "slug": "sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Azure",
+          "slug": "sql-azure"
         }
       ]
     },
@@ -368,6 +568,12 @@
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Functions",
+          "slug": "azure-functions"
+        }
       ]
     },
     {
@@ -379,6 +585,12 @@
         {
           "name": "Dallas ASP.NET UG",
           "slug": "dallasaspnet"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure Functions",
+          "slug": "azure-functions"
         }
       ]
     },
@@ -392,6 +604,12 @@
           "name": "Aggieland .NET UG",
           "slug": "aggieland-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Functions",
+          "slug": "azure-functions"
+        }
       ]
     },
     {
@@ -403,6 +621,12 @@
         {
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure Database",
+          "slug": "azure-database"
         }
       ]
     },
@@ -416,6 +640,12 @@
           "name": "Developer Springboard",
           "slug": "developer-springboard"
         }
+      ],
+      "tags": [
+        {
+          "name": "Service Fabirc",
+          "slug": "service-fabirc"
+        }
       ]
     },
     {
@@ -427,6 +657,12 @@
         {
           "name": "Ft. Worth .NET UG",
           "slug": "ft-worth-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Service Fabirc",
+          "slug": "service-fabirc"
         }
       ]
     },
@@ -440,6 +676,12 @@
           "name": "North Dallas .NET UG",
           "slug": "north-dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Service Fabric",
+          "slug": "azure-service-fabric"
+        }
       ]
     },
     {
@@ -451,6 +693,12 @@
         {
           "name": "Little Rock Tech Fest",
           "slug": "little-rock-tech-fest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
         }
       ]
     },
@@ -464,6 +712,12 @@
           "name": "Little Rock Tech Fest",
           "slug": "little-rock-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
       ]
     },
     {
@@ -475,6 +729,12 @@
         {
           "name": "Aggieland .NET UG",
           "slug": "aggieland-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
         }
       ]
     },
@@ -492,6 +752,12 @@
           "name": "SQL Saturday",
           "slug": "sql-saturday"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Azure",
+          "slug": "sql-azure"
+        }
       ]
     },
     {
@@ -503,6 +769,12 @@
         {
           "name": "Xamarin Dev Days",
           "slug": "xamarin-dev-days"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure Mobile Services",
+          "slug": "azure-mobile-services"
         }
       ]
     },
@@ -516,6 +788,12 @@
           "name": "Dallas ASP.NET UG",
           "slug": "dallasaspnet"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
       ]
     },
     {
@@ -527,6 +805,12 @@
         {
           "name": "Dallas .NET UG",
           "slug": "dallas-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure Service Fabric",
+          "slug": "azure-service-fabric"
         }
       ]
     },
@@ -540,6 +824,12 @@
           "name": "DFW Mobile .NET",
           "slug": "dfw-mobile-net"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure Mobile Services",
+          "slug": "azure-mobile-services"
+        }
       ]
     },
     {
@@ -551,6 +841,12 @@
         {
           "name": "Austin SQL Saturday",
           "slug": "austin-sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SSDT",
+          "slug": "ssdt"
         }
       ]
     },
@@ -564,6 +860,12 @@
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
         }
+      ],
+      "tags": [
+        {
+          "name": "Redis",
+          "slug": "redis"
+        }
       ]
     },
     {
@@ -575,6 +877,12 @@
         {
           "name": "Dallas ASP.NET UG",
           "slug": "dallasaspnet"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Redis",
+          "slug": "redis"
         }
       ]
     },
@@ -588,6 +896,12 @@
           "name": "Little Rock Tech Fest",
           "slug": "little-rock-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "Redis",
+          "slug": "redis"
+        }
       ]
     },
     {
@@ -600,6 +914,12 @@
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
         }
+      ],
+      "tags": [
+        {
+          "name": "SSDT",
+          "slug": "ssdt"
+        }
       ]
     },
     {
@@ -611,6 +931,12 @@
         {
           "name": "Dallas .NET UG",
           "slug": "dallas-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SSDT",
+          "slug": "ssdt"
         }
       ]
     },
@@ -628,6 +954,12 @@
           "name": "Tulsa School of Dev",
           "slug": "tulsa-school-of-dev"
         }
+      ],
+      "tags": [
+        {
+          "name": "SSDT",
+          "slug": "ssdt"
+        }
       ]
     },
     {
@@ -643,6 +975,12 @@
         {
           "name": "Tulsa School of Dev",
           "slug": "tulsa-school-of-dev"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SLAB",
+          "slug": "slab"
         }
       ]
     },
@@ -660,6 +998,12 @@
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "TypeScript",
+          "slug": "typescript"
+        }
       ]
     },
     {
@@ -671,6 +1015,12 @@
         {
           "name": "Austin CodeCamp",
           "slug": "austin-codecamp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "TypeScript",
+          "slug": "typescript"
         }
       ]
     },
@@ -684,6 +1034,12 @@
           "name": "Dallas ASP.NET UG",
           "slug": "dallasaspnet"
         }
+      ],
+      "tags": [
+        {
+          "name": "TypeScript",
+          "slug": "typescript"
+        }
       ]
     },
     {
@@ -695,6 +1051,12 @@
         {
           "name": "Little Rock Tech Fest",
           "slug": "little-rock-tech-fest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Json",
+          "slug": "json"
         }
       ]
     },
@@ -712,6 +1074,12 @@
           "name": "North Dallas .NET UG",
           "slug": "north-dallas-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "win8",
+          "slug": "win8"
+        }
       ]
     },
     {
@@ -728,6 +1096,12 @@
           "name": "Tulsa Tech Fest",
           "slug": "tulsa-tech-fest"
         }
+      ],
+      "tags": [
+        {
+          "name": "WebAPI",
+          "slug": "webapi"
+        }
       ]
     },
     {
@@ -739,6 +1113,12 @@
         {
           "name": "North West Arkansas Tech Fest",
           "slug": "north-west-arkansas-tech-fest"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Json",
+          "slug": "json"
         }
       ]
     },
@@ -752,6 +1132,12 @@
           "name": "Austin CodeCamp",
           "slug": "austin-codecamp"
         }
+      ],
+      "tags": [
+        {
+          "name": "WebAPI",
+          "slug": "webapi"
+        }
       ]
     },
     {
@@ -763,6 +1149,12 @@
         {
           "name": "Austin CodeCamp",
           "slug": "austin-codecamp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "win8",
+          "slug": "win8"
         }
       ]
     },
@@ -776,6 +1168,16 @@
           "name": "North Texas PC UG",
           "slug": "north-texas-pc-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "C#",
+          "slug": "c"
+        },
+        {
+          "name": "XML",
+          "slug": "xml"
+        }
       ]
     },
     {
@@ -787,6 +1189,12 @@
         {
           "name": "D/FW Connected Systems UG",
           "slug": "dfw-connected-systems-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "WebAPI",
+          "slug": "webapi"
         }
       ]
     },
@@ -800,6 +1208,12 @@
           "name": "Gravity Center",
           "slug": "gravity-center"
         }
+      ],
+      "tags": [
+        {
+          "name": "Kinect",
+          "slug": "kinect"
+        }
       ]
     },
     {
@@ -811,6 +1225,12 @@
         {
           "name": "Dallas GiveCamp",
           "slug": "dallas-givecamp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Orchard",
+          "slug": "orchard"
         }
       ]
     },
@@ -824,6 +1244,12 @@
           "name": "Hands On Coding .NET Dallas",
           "slug": "hands-on-coding-net-dallas"
         }
+      ],
+      "tags": [
+        {
+          "name": "Reflection",
+          "slug": "reflection"
+        }
       ]
     },
     {
@@ -835,6 +1261,12 @@
         {
           "name": "Austin CodeCamp",
           "slug": "austin-codecamp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Orchard",
+          "slug": "orchard"
         }
       ]
     },
@@ -848,6 +1280,12 @@
           "name": "Ft. Worth .NET UG",
           "slug": "ft-worth-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "LightSwitch",
+          "slug": "lightswitch"
+        }
       ]
     },
     {
@@ -860,6 +1298,12 @@
           "name": "Hands On Coding .NET Dallas",
           "slug": "hands-on-coding-net-dallas"
         }
+      ],
+      "tags": [
+        {
+          "name": "C# Strings",
+          "slug": "c-strings"
+        }
       ]
     },
     {
@@ -871,6 +1315,12 @@
         {
           "name": "North Texas PC UG",
           "slug": "north-texas-pc-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "c# in 24 hrs",
+          "slug": "c-in-24-hrs"
         }
       ]
     }

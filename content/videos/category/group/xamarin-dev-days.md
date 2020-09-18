@@ -15,6 +15,12 @@
           "name": "Sean Sparkman",
           "slug": "sean-sparkman"
         }
+      ],
+      "tags": [
+        {
+          "name": "xamarin",
+          "slug": "xamarin"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure Mobile Services",
+          "slug": "azure-mobile-services"
         }
       ]
     },
@@ -39,6 +51,12 @@
           "name": "James Montemagno",
           "slug": "james-montemagno"
         }
+      ],
+      "tags": [
+        {
+          "name": "xamarin",
+          "slug": "xamarin"
+        }
       ]
     },
     {
@@ -51,6 +69,12 @@
           "name": "Adam Kemp",
           "slug": "adam-kemp"
         }
+      ],
+      "tags": [
+        {
+          "name": "xamarin",
+          "slug": "xamarin"
+        }
       ]
     },
     {
@@ -62,6 +86,12 @@
         {
           "name": "James Montemagno",
           "slug": "james-montemagno"
+        }
+      ],
+      "tags": [
+        {
+          "name": "xamarin",
+          "slug": "xamarin"
         }
       ]
     }

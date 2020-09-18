@@ -16,6 +16,12 @@
           "name": "Capitol Area Central Texas Users of SQL Server",
           "slug": "capitol-area-central-texas-users-of-sql-server"
         }
+      ],
+      "tags": [
+        {
+          "name": "SQL Notebooks",
+          "slug": "sql-notebooks"
+        }
       ]
     },
     {
@@ -31,6 +37,12 @@
         {
           "name": "Houston SQL Saturday",
           "slug": "houston-sql-saturday"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Temporal Tables",
+          "slug": "temporal-tables"
         }
       ]
     }

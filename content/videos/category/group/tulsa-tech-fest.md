@@ -15,6 +15,12 @@
           "name": "Sean Sparkman",
           "slug": "sean-sparkman"
         }
+      ],
+      "tags": [
+        {
+          "name": "xamarin",
+          "slug": "xamarin"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Patrick Kurz",
           "slug": "patrick-kurz"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mobile Dev",
+          "slug": "mobile-dev"
         }
       ]
     },
@@ -39,6 +51,12 @@
           "name": "Sean Sparkman",
           "slug": "sean-sparkman"
         }
+      ],
+      "tags": [
+        {
+          "name": "xamarin",
+          "slug": "xamarin"
+        }
       ]
     },
     {
@@ -50,6 +68,12 @@
         {
           "name": "Sean Sparkman",
           "slug": "sean-sparkman"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mobile Notifications",
+          "slug": "mobile-notifications"
         }
       ]
     },
@@ -63,6 +87,12 @@
           "name": "Myke Bates",
           "slug": "myke-bates"
         }
+      ],
+      "tags": [
+        {
+          "name": "ASP.NET Core",
+          "slug": "asp-net-core"
+        }
       ]
     },
     {
@@ -74,6 +104,12 @@
         {
           "name": "David Walker",
           "slug": "david-walker"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Integration",
+          "slug": "integration"
         }
       ]
     },
@@ -87,6 +123,12 @@
           "name": "James Bedenbaugh",
           "slug": "james-bedenbaugh"
         }
+      ],
+      "tags": [
+        {
+          "name": "Microservices",
+          "slug": "microservices"
+        }
       ]
     },
     {
@@ -98,6 +140,12 @@
         {
           "name": "James Bedenbaugh",
           "slug": "james-bedenbaugh"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Data Sovereignty",
+          "slug": "data-sovereignty"
         }
       ]
     },
@@ -111,6 +159,12 @@
           "name": "Landy Bible",
           "slug": "landy-bible"
         }
+      ],
+      "tags": [
+        {
+          "name": "logging",
+          "slug": "logging"
+        }
       ]
     },
     {
@@ -122,6 +176,12 @@
         {
           "name": "Kelly Andrews",
           "slug": "kelly-andrews"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Docker",
+          "slug": "docker"
         }
       ]
     },
@@ -135,6 +195,12 @@
           "name": "Lee Brandt",
           "slug": "lee-brandt"
         }
+      ],
+      "tags": [
+        {
+          "name": "ASP.NET Core",
+          "slug": "asp-net-core"
+        }
       ]
     },
     {
@@ -146,6 +212,12 @@
         {
           "name": "Michael L Perry",
           "slug": "michael-l-perry"
+        }
+      ],
+      "tags": [
+        {
+          "name": "async",
+          "slug": "async"
         }
       ]
     },
@@ -159,6 +231,12 @@
           "name": "Mark Reynolds",
           "slug": "mark-reynolds"
         }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
+        }
       ]
     },
     {
@@ -170,6 +248,12 @@
         {
           "name": "Brittany Berwanger",
           "slug": "brittany-berwanger"
+        }
+      ],
+      "tags": [
+        {
+          "name": "unit testing",
+          "slug": "unit-testing"
         }
       ]
     },
@@ -183,6 +267,12 @@
           "name": "Ryan Overton",
           "slug": "ryan-overton"
         }
+      ],
+      "tags": [
+        {
+          "name": "xamarin",
+          "slug": "xamarin"
+        }
       ]
     },
     {
@@ -194,6 +284,12 @@
         {
           "name": "Paul Hacker",
           "slug": "paul-hacker"
+        }
+      ],
+      "tags": [
+        {
+          "name": "TFS",
+          "slug": "tfs"
         }
       ]
     },
@@ -207,6 +303,12 @@
           "name": "Alan White",
           "slug": "alan-white"
         }
+      ],
+      "tags": [
+        {
+          "name": "Cloud",
+          "slug": "cloud"
+        }
       ]
     },
     {
@@ -218,6 +320,12 @@
         {
           "name": "Harold Pulcher",
           "slug": "harold-pulcher"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Event Hubs",
+          "slug": "event-hubs"
         }
       ]
     },
@@ -231,6 +339,12 @@
           "name": "Jonathan Bartlett",
           "slug": "jonathan-bartlett"
         }
+      ],
+      "tags": [
+        {
+          "name": "Cloud",
+          "slug": "cloud"
+        }
       ]
     },
     {
@@ -242,6 +356,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure Functions",
+          "slug": "azure-functions"
         }
       ]
     },
@@ -255,6 +375,12 @@
           "name": "Judd Wheeler",
           "slug": "judd-wheeler"
         }
+      ],
+      "tags": [
+        {
+          "name": "Moble",
+          "slug": "moble"
+        }
       ]
     },
     {
@@ -266,6 +392,12 @@
         {
           "name": "Lee Brandt",
           "slug": "lee-brandt"
+        }
+      ],
+      "tags": [
+        {
+          "name": "iOS",
+          "slug": "ios"
         }
       ]
     },
@@ -279,6 +411,12 @@
           "name": "Logan McLain",
           "slug": "logan-mclain"
         }
+      ],
+      "tags": [
+        {
+          "name": "UX",
+          "slug": "ux"
+        }
       ]
     },
     {
@@ -290,6 +428,12 @@
         {
           "name": "Logan McLain",
           "slug": "logan-mclain"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SignalR",
+          "slug": "signalr"
         }
       ]
     },
@@ -303,6 +447,12 @@
           "name": "Sean Whitesell",
           "slug": "sean-whitesell"
         }
+      ],
+      "tags": [
+        {
+          "name": "debuging",
+          "slug": "debuging"
+        }
       ]
     },
     {
@@ -314,6 +464,12 @@
         {
           "name": "Girish Gangadharan",
           "slug": "girish-gangadharan"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Node.js",
+          "slug": "node-js"
         }
       ]
     },
@@ -327,6 +483,12 @@
           "name": "Brian Sullivan",
           "slug": "brian-sullivan"
         }
+      ],
+      "tags": [
+        {
+          "name": "Durandal",
+          "slug": "durandal"
+        }
       ]
     },
     {
@@ -338,6 +500,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "TypeScript",
+          "slug": "typescript"
         }
       ]
     },
@@ -351,6 +519,16 @@
           "name": "Mark Rackley",
           "slug": "mark-rackley"
         }
+      ],
+      "tags": [
+        {
+          "name": "Sharepoint",
+          "slug": "sharepoint"
+        },
+        {
+          "name": "jQuery",
+          "slug": "jquery"
+        }
       ]
     },
     {
@@ -362,6 +540,12 @@
         {
           "name": "Dennis Bottjer",
           "slug": "dennis-bottjer"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Sharepoint",
+          "slug": "sharepoint"
         }
       ]
     },
@@ -375,6 +559,12 @@
           "name": "Jeff Bramwell",
           "slug": "jeff-bramwell"
         }
+      ],
+      "tags": [
+        {
+          "name": "VS2012",
+          "slug": "vs2012"
+        }
       ]
     },
     {
@@ -386,6 +576,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "WebAPI",
+          "slug": "webapi"
         }
       ]
     },
@@ -399,6 +595,12 @@
           "name": "Buddy Lindsey",
           "slug": "buddy-lindsey"
         }
+      ],
+      "tags": [
+        {
+          "name": "Node.js",
+          "slug": "node-js"
+        }
       ]
     },
     {
@@ -410,6 +612,12 @@
         {
           "name": "Matt Galloway",
           "slug": "matt-galloway"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Augmenting Reality",
+          "slug": "augmenting-reality"
         }
       ]
     },
@@ -423,6 +631,12 @@
           "name": "Girish Gangadharan",
           "slug": "girish-gangadharan"
         }
+      ],
+      "tags": [
+        {
+          "name": "jQuery Mobile",
+          "slug": "jquery-mobile"
+        }
       ]
     },
     {
@@ -434,6 +648,16 @@
         {
           "name": "Andrew Chandler",
           "slug": "andrew-chandler"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Android",
+          "slug": "android"
+        },
+        {
+          "name": "NFC",
+          "slug": "nfc"
         }
       ]
     },
@@ -447,6 +671,16 @@
           "name": "Michael L Perry",
           "slug": "michael-l-perry"
         }
+      ],
+      "tags": [
+        {
+          "name": "WinPhone",
+          "slug": "winphone"
+        },
+        {
+          "name": "Correspondence",
+          "slug": "correspondence"
+        }
       ]
     },
     {
@@ -458,6 +692,12 @@
         {
           "name": "Rod Knowlton",
           "slug": "rod-knowlton"
+        }
+      ],
+      "tags": [
+        {
+          "name": "HTML5",
+          "slug": "html5"
         }
       ]
     },
@@ -471,6 +711,12 @@
           "name": "Patrick Forringer",
           "slug": "patrick-forringer"
         }
+      ],
+      "tags": [
+        {
+          "name": "CSS",
+          "slug": "css"
+        }
       ]
     },
     {
@@ -483,6 +729,12 @@
           "name": "Luke Crouch",
           "slug": "luke-crouch"
         }
+      ],
+      "tags": [
+        {
+          "name": "HTML5",
+          "slug": "html5"
+        }
       ]
     },
     {
@@ -494,6 +746,12 @@
         {
           "name": "Glen Block",
           "slug": "glen-block"
+        }
+      ],
+      "tags": [
+        {
+          "name": "WCF Web API",
+          "slug": "wcf-web-api"
         }
       ]
     }

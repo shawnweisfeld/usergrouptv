@@ -16,6 +16,12 @@
           "name": "Dallas ASP.NET UG",
           "slug": "dallasaspnet"
         }
+      ],
+      "tags": [
+        {
+          "name": "jQuery Mobile",
+          "slug": "jquery-mobile"
+        }
       ]
     }
   ]

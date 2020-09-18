@@ -15,6 +15,12 @@
           "name": "Chris Koenig",
           "slug": "chris-koenig"
         }
+      ],
+      "tags": [
+        {
+          "name": "WordPress",
+          "slug": "wordpress"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Michael Russell",
           "slug": "michael-russell"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Sitefinity",
+          "slug": "sitefinity"
         }
       ]
     },
@@ -39,6 +51,12 @@
           "name": "Greg Allbright",
           "slug": "greg-allbright"
         }
+      ],
+      "tags": [
+        {
+          "name": "Social Media",
+          "slug": "social-media"
+        }
       ]
     },
     {
@@ -50,6 +68,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Orchard",
+          "slug": "orchard"
         }
       ]
     }

@@ -16,6 +16,16 @@
           "name": "Developer Springboard",
           "slug": "developer-springboard"
         }
+      ],
+      "tags": [
+        {
+          "name": "redux",
+          "slug": "redux"
+        },
+        {
+          "name": "React",
+          "slug": "react"
+        }
       ]
     },
     {
@@ -27,6 +37,12 @@
         {
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "AngularJS",
+          "slug": "angularjs"
         }
       ]
     },
@@ -40,6 +56,12 @@
           "name": "Austin .NET UG",
           "slug": "austin-net-ug"
         }
+      ],
+      "tags": [
+        {
+          "name": "DDD",
+          "slug": "ddd"
+        }
       ]
     },
     {
@@ -52,6 +74,12 @@
           "name": "Austin CodeCamp",
           "slug": "austin-codecamp"
         }
+      ],
+      "tags": [
+        {
+          "name": "WebAPI",
+          "slug": "webapi"
+        }
       ]
     },
     {
@@ -63,6 +91,12 @@
         {
           "name": "Austin CodeCamp",
           "slug": "austin-codecamp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "mvvm",
+          "slug": "mvvm"
         }
       ]
     }

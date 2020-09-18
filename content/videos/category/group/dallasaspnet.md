@@ -15,6 +15,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "Microservices",
+          "slug": "microservices"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure Functions",
+          "slug": "azure-functions"
         }
       ]
     },
@@ -39,6 +51,12 @@
           "name": "Markus Egger",
           "slug": "markus-egger"
         }
+      ],
+      "tags": [
+        {
+          "name": "ASP.NET vNext",
+          "slug": "asp-net-vnext"
+        }
       ]
     },
     {
@@ -50,6 +68,12 @@
         {
           "name": "Markus Egger",
           "slug": "markus-egger"
+        }
+      ],
+      "tags": [
+        {
+          "name": "edge",
+          "slug": "edge"
         }
       ]
     },
@@ -63,6 +87,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
       ]
     },
     {
@@ -74,6 +104,12 @@
         {
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Redis",
+          "slug": "redis"
         }
       ]
     },
@@ -87,6 +123,12 @@
           "name": "Shawn Weisfeld",
           "slug": "shawn-weisfeld"
         }
+      ],
+      "tags": [
+        {
+          "name": "TypeScript",
+          "slug": "typescript"
+        }
       ]
     },
     {
@@ -99,6 +141,12 @@
           "name": "Hugo Bonacci",
           "slug": "hugo-bonacci"
         }
+      ],
+      "tags": [
+        {
+          "name": "JavaScript",
+          "slug": "javascript"
+        }
       ]
     },
     {
@@ -110,6 +158,20 @@
         {
           "name": "Michael L Perry",
           "slug": "michael-l-perry"
+        }
+      ],
+      "tags": [
+        {
+          "name": "MSMQ",
+          "slug": "msmq"
+        },
+        {
+          "name": "Service Bus",
+          "slug": "service-bus"
+        },
+        {
+          "name": "Distributed Transactions",
+          "slug": "distributed-transactions"
         }
       ]
     },
@@ -127,6 +189,12 @@
           "name": "David Belcher",
           "slug": "david-belcher"
         }
+      ],
+      "tags": [
+        {
+          "name": "CSS",
+          "slug": "css"
+        }
       ]
     },
     {
@@ -138,6 +206,12 @@
         {
           "name": "Toi Wright",
           "slug": "toi-wright"
+        }
+      ],
+      "tags": [
+        {
+          "name": "VS2012",
+          "slug": "vs2012"
         }
       ]
     },
@@ -151,6 +225,12 @@
           "name": "Toi Wright",
           "slug": "toi-wright"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
       ]
     },
     {
@@ -162,6 +242,12 @@
         {
           "name": "Tim Rayburn",
           "slug": "tim-rayburn"
+        }
+      ],
+      "tags": [
+        {
+          "name": "EF",
+          "slug": "ef"
         }
       ]
     },
@@ -175,6 +261,12 @@
           "name": "Todd Girvin",
           "slug": "todd-girvin"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        }
       ]
     },
     {
@@ -186,6 +278,16 @@
         {
           "name": "Zain Naboulsi",
           "slug": "zain-naboulsi"
+        }
+      ],
+      "tags": [
+        {
+          "name": "VS11",
+          "slug": "vs11"
+        },
+        {
+          "name": "VS2010",
+          "slug": "vs2010"
         }
       ]
     },
@@ -199,6 +301,12 @@
           "name": "Joseph Baggett",
           "slug": "joseph-baggett"
         }
+      ],
+      "tags": [
+        {
+          "name": "Code Generation",
+          "slug": "code-generation"
+        }
       ]
     },
     {
@@ -210,6 +318,12 @@
         {
           "name": "Brian Sullivan",
           "slug": "brian-sullivan"
+        }
+      ],
+      "tags": [
+        {
+          "name": "EF Code First",
+          "slug": "ef-code-first"
         }
       ]
     },
@@ -223,6 +337,12 @@
           "name": "Tom Dupont",
           "slug": "tom-dupont"
         }
+      ],
+      "tags": [
+        {
+          "name": "Cloud",
+          "slug": "cloud"
+        }
       ]
     },
     {
@@ -235,6 +355,12 @@
           "name": "Todd Stone",
           "slug": "todd-stone"
         }
+      ],
+      "tags": [
+        {
+          "name": "jQuery Mobile",
+          "slug": "jquery-mobile"
+        }
       ]
     },
     {
@@ -246,6 +372,12 @@
         {
           "name": "Tim Rayburn",
           "slug": "tim-rayburn"
+        }
+      ],
+      "tags": [
+        {
+          "name": "MVC",
+          "slug": "mvc"
         }
       ]
     },
@@ -263,6 +395,16 @@
           "name": "Shane Holder",
           "slug": "shane-holder"
         }
+      ],
+      "tags": [
+        {
+          "name": "SketchFlow",
+          "slug": "sketchflow"
+        },
+        {
+          "name": "Blend",
+          "slug": "blend"
+        }
       ]
     },
     {
@@ -274,6 +416,12 @@
         {
           "name": "Chris Koenig",
           "slug": "chris-koenig"
+        }
+      ],
+      "tags": [
+        {
+          "name": "WP7",
+          "slug": "wp7"
         }
       ]
     }

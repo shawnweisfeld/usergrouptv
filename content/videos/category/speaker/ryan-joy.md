@@ -16,6 +16,16 @@
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
         }
+      ],
+      "tags": [
+        {
+          "name": "Panel",
+          "slug": "panel"
+        },
+        {
+          "name": "Azure Migration",
+          "slug": "azure-migration"
+        }
       ]
     },
     {
@@ -27,6 +37,12 @@
         {
           "name": "Austin Microsoft Developers Group",
           "slug": "austin-microsoft-app-developers"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Band",
+          "slug": "band"
         }
       ]
     },
@@ -40,6 +56,12 @@
           "name": "Austin Microsoft Developers Group",
           "slug": "austin-microsoft-app-developers"
         }
+      ],
+      "tags": [
+        {
+          "name": "edge",
+          "slug": "edge"
+        }
       ]
     },
     {
@@ -51,6 +73,12 @@
         {
           "name": "Microsoft",
           "slug": "microsoft"
+        }
+      ],
+      "tags": [
+        {
+          "name": "win8",
+          "slug": "win8"
         }
       ]
     }

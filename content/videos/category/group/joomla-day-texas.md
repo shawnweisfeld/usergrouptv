@@ -15,6 +15,12 @@
           "name": "Michael Richey",
           "slug": "michael-richey"
         }
+      ],
+      "tags": [
+        {
+          "name": "joomla",
+          "slug": "joomla"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Robbie Adair",
           "slug": "robbie-adair"
+        }
+      ],
+      "tags": [
+        {
+          "name": "joomla",
+          "slug": "joomla"
         }
       ]
     },
@@ -39,6 +51,12 @@
           "name": "Alexis Priddy",
           "slug": "alexis-priddy"
         }
+      ],
+      "tags": [
+        {
+          "name": "joomla",
+          "slug": "joomla"
+        }
       ]
     },
     {
@@ -50,6 +68,12 @@
         {
           "name": "Tessa Snodgrass",
           "slug": "tessa-snodgrass"
+        }
+      ],
+      "tags": [
+        {
+          "name": "joomla",
+          "slug": "joomla"
         }
       ]
     },
@@ -63,6 +87,12 @@
           "name": "Robert Jacobi",
           "slug": "robert-jacobi"
         }
+      ],
+      "tags": [
+        {
+          "name": "joomla",
+          "slug": "joomla"
+        }
       ]
     },
     {
@@ -74,6 +104,12 @@
         {
           "name": "Doug Deitel",
           "slug": "doug-deitel"
+        }
+      ],
+      "tags": [
+        {
+          "name": "joomla",
+          "slug": "joomla"
         }
       ]
     },
@@ -87,6 +123,12 @@
           "name": "Robbie Adair",
           "slug": "robbie-adair"
         }
+      ],
+      "tags": [
+        {
+          "name": "joomla",
+          "slug": "joomla"
+        }
       ]
     },
     {
@@ -99,6 +141,12 @@
           "name": "Karen Dunne",
           "slug": "karen-dunne"
         }
+      ],
+      "tags": [
+        {
+          "name": "joomla",
+          "slug": "joomla"
+        }
       ]
     },
     {
@@ -110,6 +158,12 @@
         {
           "name": "Alexis Priddy",
           "slug": "alexis-priddy"
+        }
+      ],
+      "tags": [
+        {
+          "name": "joomla",
+          "slug": "joomla"
         }
       ]
     }

@@ -16,6 +16,16 @@
           "name": "AgileDotNext",
           "slug": "agiledotnext"
         }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        },
+        {
+          "name": "UX",
+          "slug": "ux"
+        }
       ]
     },
     {
@@ -27,6 +37,12 @@
         {
           "name": "Dallas ASP.NET UG",
           "slug": "dallasaspnet"
+        }
+      ],
+      "tags": [
+        {
+          "name": "CSS",
+          "slug": "css"
         }
       ]
     }

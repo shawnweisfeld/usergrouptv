@@ -15,6 +15,12 @@
           "name": "Tim Rayburn",
           "slug": "tim-rayburn"
         }
+      ],
+      "tags": [
+        {
+          "name": "git",
+          "slug": "git"
+        }
       ]
     },
     {
@@ -26,6 +32,12 @@
         {
           "name": "Michael L Perry",
           "slug": "michael-l-perry"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Blend",
+          "slug": "blend"
         }
       ]
     },
@@ -39,6 +51,12 @@
           "name": "Michael L Perry",
           "slug": "michael-l-perry"
         }
+      ],
+      "tags": [
+        {
+          "name": "Update Controls",
+          "slug": "update-controls"
+        }
       ]
     },
     {
@@ -50,6 +68,16 @@
         {
           "name": "Michael L Perry",
           "slug": "michael-l-perry"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Patterns",
+          "slug": "patterns"
+        },
+        {
+          "name": "XAML",
+          "slug": "xaml"
         }
       ]
     },
@@ -63,6 +91,16 @@
           "name": "Chris Koenig",
           "slug": "chris-koenig"
         }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "win8",
+          "slug": "win8"
+        }
       ]
     },
     {
@@ -74,6 +112,16 @@
         {
           "name": "Brian Lagunas",
           "slug": "brian-lagunas"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Prism",
+          "slug": "prism"
+        },
+        {
+          "name": "XAML",
+          "slug": "xaml"
         }
       ]
     },
@@ -87,6 +135,12 @@
           "name": "Vince Blasberg",
           "slug": "vince-blasberg"
         }
+      ],
+      "tags": [
+        {
+          "name": "TDD",
+          "slug": "tdd"
+        }
       ]
     },
     {
@@ -98,6 +152,12 @@
         {
           "name": "Caleb Jenkins",
           "slug": "caleb-jenkins"
+        }
+      ],
+      "tags": [
+        {
+          "name": "TDD",
+          "slug": "tdd"
         }
       ]
     },
@@ -111,6 +171,12 @@
           "name": "Caleb Jenkins",
           "slug": "caleb-jenkins"
         }
+      ],
+      "tags": [
+        {
+          "name": "TDD",
+          "slug": "tdd"
+        }
       ]
     },
     {
@@ -122,6 +188,16 @@
         {
           "name": "Vince Blasberg",
           "slug": "vince-blasberg"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Silverlight",
+          "slug": "silverlight"
+        },
+        {
+          "name": "Security",
+          "slug": "security"
         }
       ]
     },
@@ -135,6 +211,16 @@
           "name": "Vince Blasberg",
           "slug": "vince-blasberg"
         }
+      ],
+      "tags": [
+        {
+          "name": "Silverlight",
+          "slug": "silverlight"
+        },
+        {
+          "name": "jQuery",
+          "slug": "jquery"
+        }
       ]
     },
     {
@@ -146,6 +232,12 @@
         {
           "name": "Vince Blasberg",
           "slug": "vince-blasberg"
+        }
+      ],
+      "tags": [
+        {
+          "name": "XAML User Controls",
+          "slug": "xaml-user-controls"
         }
       ]
     },
@@ -159,6 +251,16 @@
           "name": "Chris Rajczi",
           "slug": "chris-rajczi"
         }
+      ],
+      "tags": [
+        {
+          "name": "Cloud",
+          "slug": "cloud"
+        },
+        {
+          "name": "WP7",
+          "slug": "wp7"
+        }
       ]
     },
     {
@@ -170,6 +272,12 @@
         {
           "name": "Cory Smith",
           "slug": "cory-smith"
+        }
+      ],
+      "tags": [
+        {
+          "name": "MEF",
+          "slug": "mef"
         }
       ]
     },
@@ -183,6 +291,12 @@
           "name": "Vince Blasberg",
           "slug": "vince-blasberg"
         }
+      ],
+      "tags": [
+        {
+          "name": "XAML",
+          "slug": "xaml"
+        }
       ]
     },
     {
@@ -194,6 +308,12 @@
         {
           "name": "Jared Bass",
           "slug": "jared-bass"
+        }
+      ],
+      "tags": [
+        {
+          "name": "RIA",
+          "slug": "ria"
         }
       ]
     },
@@ -207,6 +327,12 @@
           "name": "Michael L Perry",
           "slug": "michael-l-perry"
         }
+      ],
+      "tags": [
+        {
+          "name": "Silverlight",
+          "slug": "silverlight"
+        }
       ]
     },
     {
@@ -219,6 +345,12 @@
           "name": "Todd Anglin",
           "slug": "todd-anglin"
         }
+      ],
+      "tags": [
+        {
+          "name": "Silverlight",
+          "slug": "silverlight"
+        }
       ]
     },
     {
@@ -230,6 +362,12 @@
         {
           "name": "Vince Blasberg",
           "slug": "vince-blasberg"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Behaviors",
+          "slug": "behaviors"
         }
       ]
     }

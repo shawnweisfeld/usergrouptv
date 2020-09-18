@@ -16,6 +16,12 @@
           "name": "Austin Office 365 and SharePoint User Group",
           "slug": "austin-office-365-and-sharepoint-user-group"
         }
+      ],
+      "tags": [
+        {
+          "name": "DocuSign",
+          "slug": "docusign"
+        }
       ]
     },
     {
@@ -27,6 +33,12 @@
         {
           "name": "Austin Office 365 and SharePoint User Group",
           "slug": "austin-office-365-and-sharepoint-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Office365",
+          "slug": "office365"
         }
       ]
     }

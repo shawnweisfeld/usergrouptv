@@ -1,6 +1,9 @@
 {
   "title": "Behold the Power of the PPO",
   "type": "recording",
+  "tags": [
+    "Proxy Product Owner"
+  ],
   "date": "2015-09-26T11:57:13",
   "draft": false,
   "slug": "behold-the-power-of-the-ppo",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Proxy Product Owner",
       "slug": "proxy-product-owner",

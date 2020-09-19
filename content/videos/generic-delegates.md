@@ -1,6 +1,9 @@
 {
   "title": "Generic Delegates",
   "type": "recording",
+  "tags": [
+    "Delegates"
+  ],
   "date": "2011-05-10T00:35:57",
   "draft": false,
   "slug": "generic-delegates",
@@ -16,7 +19,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Delegates",
       "slug": "delegates",

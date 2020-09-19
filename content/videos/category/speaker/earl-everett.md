@@ -1,5 +1,8 @@
 {
   "title": "Earl Everett",
+  "tags": [
+    "Earl Everett"
+  ],
   "type": "speaker",
   "slug": "earl-everett",
   "date": "2019-10-04T16:42:30",

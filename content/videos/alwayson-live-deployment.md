@@ -1,6 +1,9 @@
 {
   "title": "AlwaysOn Live Deployment",
   "type": "recording",
+  "tags": [
+    "SQL AlwaysOn"
+  ],
   "date": "2015-01-31T14:03:41",
   "draft": false,
   "slug": "alwayson-live-deployment",
@@ -16,7 +19,7 @@
       "count": 7
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL AlwaysOn",
       "slug": "sql-alwayson",

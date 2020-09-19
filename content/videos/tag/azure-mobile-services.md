@@ -1,5 +1,8 @@
 {
   "title": "Azure Mobile Services",
+  "tags": [
+    "Azure Mobile Services"
+  ],
   "type": "tag",
   "slug": "azure-mobile-services",
   "date": "2015-05-31T13:37:26",

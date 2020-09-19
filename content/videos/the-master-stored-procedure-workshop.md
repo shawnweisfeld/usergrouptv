@@ -1,6 +1,9 @@
 {
   "title": "The Master Stored Procedure Workshop",
   "type": "recording",
+  "tags": [
+    "SQL"
+  ],
   "date": "2018-08-25T19:33:59",
   "draft": false,
   "slug": "the-master-stored-procedure-workshop",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL",
       "slug": "sql",

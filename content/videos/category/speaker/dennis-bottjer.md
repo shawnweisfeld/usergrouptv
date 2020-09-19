@@ -1,5 +1,8 @@
 {
   "title": "Dennis Bottjer",
+  "tags": [
+    "Dennis Bottjer"
+  ],
   "type": "speaker",
   "slug": "dennis-bottjer",
   "date": "2013-10-11T21:16:57",

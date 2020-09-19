@@ -1,6 +1,9 @@
 {
   "title": "EntityFramework 360 - CodeOnly 4.1",
   "type": "recording",
+  "tags": [
+    "Entity Framework Code First"
+  ],
   "date": "2011-06-02T01:45:08",
   "draft": false,
   "slug": "entityframework-360-codeonly-4-1",
@@ -16,7 +19,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Entity Framework Code First",
       "slug": "entity-framework-code-first",

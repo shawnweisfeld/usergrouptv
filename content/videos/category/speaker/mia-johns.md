@@ -1,5 +1,8 @@
 {
   "title": "Mia Johns",
+  "tags": [
+    "Mia Johns"
+  ],
   "type": "speaker",
   "slug": "mia-johns",
   "date": "2017-08-05T17:18:19",

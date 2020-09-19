@@ -1,5 +1,8 @@
 {
   "title": "SEO",
+  "tags": [
+    "SEO"
+  ],
   "type": "tag",
   "slug": "seo",
   "date": "2014-09-26T18:54:24",

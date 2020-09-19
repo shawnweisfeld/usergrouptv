@@ -1,5 +1,8 @@
 {
   "title": "Gabriel Schenker",
+  "tags": [
+    "Gabriel Schenker"
+  ],
   "type": "speaker",
   "slug": "gabriel-schenker",
   "date": "2016-09-24T19:56:29",

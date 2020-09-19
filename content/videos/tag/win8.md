@@ -1,5 +1,8 @@
 {
   "title": "win8",
+  "tags": [
+    "win8"
+  ],
   "type": "tag",
   "slug": "win8",
   "date": "2013-09-28T02:41:25",

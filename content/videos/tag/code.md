@@ -1,5 +1,8 @@
 {
   "title": "CODE",
+  "tags": [
+    "CODE"
+  ],
   "type": "tag",
   "slug": "code",
   "date": "2011-12-13T00:55:46",

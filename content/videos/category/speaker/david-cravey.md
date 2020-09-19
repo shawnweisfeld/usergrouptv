@@ -1,5 +1,8 @@
 {
   "title": "David Cravey",
+  "tags": [
+    "David Cravey"
+  ],
   "type": "speaker",
   "slug": "david-cravey",
   "date": "2012-09-11T15:04:58",

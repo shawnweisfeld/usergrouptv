@@ -1,6 +1,9 @@
 {
   "title": "Data Sovereignty - Where is your data living and where does it want to go?",
   "type": "recording",
+  "tags": [
+    "Data Sovereignty"
+  ],
   "date": "2017-07-21T14:05:24",
   "draft": false,
   "slug": "data-sovereignty-where-is-your-data-living-and-where-does-it-want-to-go",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Data Sovereignty",
       "slug": "data-sovereignty",

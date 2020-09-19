@@ -1,6 +1,9 @@
 {
   "title": "NoSQL: I doesn’t mean what you think it means",
   "type": "recording",
+  "tags": [
+    "NoSQL"
+  ],
   "date": "2014-10-10T11:22:54",
   "draft": false,
   "slug": "nosql-i-doesnt-mean-what-you-think-it-means",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "NoSQL",
       "slug": "nosql",

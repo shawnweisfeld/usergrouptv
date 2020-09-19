@@ -1,6 +1,9 @@
 {
   "title": "Cross Platform .NET",
   "type": "recording",
+  "tags": [
+    "ASP.NET Core"
+  ],
   "date": "2017-07-21T14:10:29",
   "draft": false,
   "slug": "cross-platform-net",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "ASP.NET Core",
       "slug": "asp-net-core",

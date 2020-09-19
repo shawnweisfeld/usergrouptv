@@ -1,5 +1,8 @@
 {
   "title": "Matt Gordon",
+  "tags": [
+    "Matt Gordon"
+  ],
   "type": "speaker",
   "slug": "matt-gordon",
   "date": "2020-02-08T16:08:46",

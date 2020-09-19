@@ -1,5 +1,8 @@
 {
   "title": "Cory Smith",
+  "tags": [
+    "Cory Smith"
+  ],
   "type": "speaker",
   "slug": "cory-smith",
   "date": "2013-01-15T21:35:39",

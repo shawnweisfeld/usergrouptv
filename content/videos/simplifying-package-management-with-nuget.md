@@ -1,6 +1,9 @@
 {
   "title": "Simplifying Package Management with NuGet",
   "type": "recording",
+  "tags": [
+    "Nuget"
+  ],
   "date": "2012-05-15T11:09:37",
   "draft": false,
   "slug": "simplifying-package-management-with-nuget",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Nuget",
       "slug": "nuget",

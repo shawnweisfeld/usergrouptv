@@ -1,5 +1,8 @@
 {
   "title": "Debra Cerda",
+  "tags": [
+    "Debra Cerda"
+  ],
   "type": "speaker",
   "slug": "debra-cerda",
   "date": "2017-08-06T16:45:13",

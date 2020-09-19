@@ -1,5 +1,8 @@
 {
   "title": "HTML5",
+  "tags": [
+    "HTML5"
+  ],
   "type": "tag",
   "slug": "html5",
   "date": "2012-11-07T15:56:32",

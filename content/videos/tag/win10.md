@@ -1,5 +1,8 @@
 {
   "title": "Win10",
+  "tags": [
+    "Win10"
+  ],
   "type": "tag",
   "slug": "win10",
   "date": "2015-09-26T12:20:23",

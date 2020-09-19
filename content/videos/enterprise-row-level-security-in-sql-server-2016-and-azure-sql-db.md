@@ -1,6 +1,10 @@
 {
   "title": "Enterprise Row Level Security in SQL Server 2016 and Azure SQL DB",
   "type": "recording",
+  "tags": [
+    "SQL Security",
+    "SQL Azure"
+  ],
   "date": "2016-08-13T15:03:03",
   "draft": false,
   "slug": "enterprise-row-level-security-in-sql-server-2016-and-azure-sql-db",
@@ -16,7 +20,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Security",
       "slug": "sql-security",

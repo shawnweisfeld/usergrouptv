@@ -1,6 +1,9 @@
 {
   "title": "Austin TFS UG",
   "type": "meetup",
+  "tags": [
+    "Austin TFS UG"
+  ],
   "slug": "austin-tfs-ug",
   "date": "2015-02-07T03:43:49",
   "draft": false,

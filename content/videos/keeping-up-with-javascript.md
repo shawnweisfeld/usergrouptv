@@ -1,6 +1,9 @@
 {
   "title": "Keeping Up With JavaScript",
   "type": "recording",
+  "tags": [
+    "JavaScript"
+  ],
   "date": "2014-10-10T11:26:28",
   "draft": false,
   "slug": "keeping-up-with-javascript",
@@ -22,7 +25,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "JavaScript",
       "slug": "javascript",

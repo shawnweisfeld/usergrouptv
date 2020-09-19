@@ -1,6 +1,9 @@
 {
   "title": "Cross Platform Development with Portable Class Libraries ",
   "type": "recording",
+  "tags": [
+    "PCL"
+  ],
   "date": "2014-07-16T11:52:52",
   "draft": false,
   "slug": "cross-platform-development-with-portable-class-libraries",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "PCL",
       "slug": "pcl",

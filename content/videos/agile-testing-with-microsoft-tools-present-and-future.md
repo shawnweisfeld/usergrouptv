@@ -1,6 +1,9 @@
 {
   "title": "Agile Testing with Microsoft Tools: Present and Future",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2012-02-17T15:10:10",
   "draft": false,
   "slug": "agile-testing-with-microsoft-tools-present-and-future",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

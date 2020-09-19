@@ -1,6 +1,9 @@
 {
   "title": "Intro to F# on the Web: The SAFE stack",
   "type": "recording",
+  "tags": [
+    "F#"
+  ],
   "date": "2018-09-20T14:07:02",
   "draft": false,
   "slug": "intro-to-f-on-the-web-the-safe-stack",
@@ -16,7 +19,7 @@
       "count": 7
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "F#",
       "slug": "f",

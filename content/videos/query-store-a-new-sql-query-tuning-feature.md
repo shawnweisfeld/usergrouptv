@@ -1,6 +1,9 @@
 {
   "title": "Query Store - A New SQL Query Tuning Feature",
   "type": "recording",
+  "tags": [
+    "SQL Tuning"
+  ],
   "date": "2015-01-31T23:18:51",
   "draft": false,
   "slug": "query-store-a-new-sql-query-tuning-feature",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Tuning",
       "slug": "sql-tuning",

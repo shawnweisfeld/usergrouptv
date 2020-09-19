@@ -1,5 +1,8 @@
 {
   "title": "Azure Monitor",
+  "tags": [
+    "Azure Monitor"
+  ],
   "type": "tag",
   "slug": "azure-monitor",
   "date": "2018-12-12T16:51:12",

@@ -1,6 +1,9 @@
 {
   "title": "Azure in 60 minutes",
   "type": "recording",
+  "tags": [
+    "Azure"
+  ],
   "date": "2018-04-21T13:07:30",
   "draft": false,
   "slug": "azure-in-60-minutes",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

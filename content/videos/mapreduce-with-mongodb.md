@@ -1,6 +1,9 @@
 {
   "title": "Map/Reduce with MongoDB",
   "type": "recording",
+  "tags": [
+    "Mongo DB"
+  ],
   "date": "2012-08-24T00:07:46",
   "draft": false,
   "slug": "mapreduce-with-mongodb",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Mongo DB",
       "slug": "mongo-db",

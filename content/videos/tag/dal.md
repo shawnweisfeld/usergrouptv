@@ -1,5 +1,8 @@
 {
   "title": "DAL",
+  "tags": [
+    "DAL"
+  ],
   "type": "tag",
   "slug": "dal",
   "date": "2011-05-05T23:46:55",

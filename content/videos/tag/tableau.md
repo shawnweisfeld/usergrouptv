@@ -1,5 +1,8 @@
 {
   "title": "Tableau",
+  "tags": [
+    "Tableau"
+  ],
   "type": "tag",
   "slug": "tableau",
   "date": "2018-08-25T19:30:52",

@@ -1,5 +1,8 @@
 {
   "title": "marek koenig",
+  "tags": [
+    "marek koenig"
+  ],
   "type": "speaker",
   "slug": "marek-koenig",
   "date": "2014-05-03T19:49:54",

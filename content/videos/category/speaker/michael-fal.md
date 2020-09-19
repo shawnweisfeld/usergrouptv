@@ -1,5 +1,8 @@
 {
   "title": "Michael Fal",
+  "tags": [
+    "Michael Fal"
+  ],
   "type": "speaker",
   "slug": "michael-fal",
   "date": "2018-08-11T15:49:54",

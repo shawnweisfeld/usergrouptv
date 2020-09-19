@@ -1,5 +1,8 @@
 {
   "title": "Shelby Dremely",
+  "tags": [
+    "Shelby Dremely"
+  ],
   "type": "speaker",
   "slug": "shelby-dremely",
   "date": "2017-05-10T20:18:34",

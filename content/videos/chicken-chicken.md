@@ -1,6 +1,9 @@
 {
   "title": "Chicken Chicken",
   "type": "recording",
+  "tags": [
+    "Developer"
+  ],
   "date": "2016-09-24T19:44:37",
   "draft": false,
   "slug": "chicken-chicken",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Developer",
       "slug": "developer",

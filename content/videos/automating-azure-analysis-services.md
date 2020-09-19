@@ -1,6 +1,9 @@
 {
   "title": "Automating Azure Analysis Services",
   "type": "recording",
+  "tags": [
+    "SSAS"
+  ],
   "date": "2018-05-19T23:08:38",
   "draft": false,
   "slug": "automating-azure-analysis-services",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SSAS",
       "slug": "ssas",

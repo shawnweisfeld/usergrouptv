@@ -1,5 +1,8 @@
 {
   "title": "Andy Wahrenberger",
+  "tags": [
+    "Andy Wahrenberger"
+  ],
   "type": "speaker",
   "slug": "andy-wahrenberger",
   "date": "2019-04-27T13:45:58",

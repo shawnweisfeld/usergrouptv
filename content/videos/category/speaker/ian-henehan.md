@@ -1,5 +1,8 @@
 {
   "title": "Ian Henehan",
+  "tags": [
+    "Ian Henehan"
+  ],
   "type": "speaker",
   "slug": "ian-henehan",
   "date": "2012-03-14T13:01:38",

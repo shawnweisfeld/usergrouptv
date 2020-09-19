@@ -1,5 +1,8 @@
 {
   "title": "John Riviello",
+  "tags": [
+    "John Riviello"
+  ],
   "type": "speaker",
   "slug": "john-riviello",
   "date": "2017-10-05T21:50:10",

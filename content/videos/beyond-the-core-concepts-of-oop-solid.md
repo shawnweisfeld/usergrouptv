@@ -1,6 +1,10 @@
 {
   "title": "Beyond the Core Concepts of OOP - SOLID ",
   "type": "recording",
+  "tags": [
+    "OOP",
+    "SOLID"
+  ],
   "date": "2011-02-25T02:12:06",
   "draft": false,
   "slug": "beyond-the-core-concepts-of-oop-solid",
@@ -16,7 +20,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "OOP",
       "slug": "oop",

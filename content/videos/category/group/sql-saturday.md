@@ -1,6 +1,9 @@
 {
   "title": "SQL Saturday",
   "type": "meetup",
+  "tags": [
+    "SQL Saturday"
+  ],
   "slug": "sql-saturday",
   "date": "2019-07-13T14:09:40",
   "draft": false,

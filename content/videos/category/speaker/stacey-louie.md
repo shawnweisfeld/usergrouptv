@@ -1,5 +1,8 @@
 {
   "title": "Stacey Louie",
+  "tags": [
+    "Stacey Louie"
+  ],
   "type": "speaker",
   "slug": "stacey-louie",
   "date": "2018-05-24T16:55:58",

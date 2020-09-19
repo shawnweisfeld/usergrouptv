@@ -1,6 +1,9 @@
 {
   "title": "Populating a Data Warehouse with SSIS and Biml Patterns",
   "type": "recording",
+  "tags": [
+    "BIML"
+  ],
   "date": "2018-06-23T19:37:12",
   "draft": false,
   "slug": "populating-a-data-warehouse-with-ssis-and-biml-patterns",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "BIML",
       "slug": "biml",

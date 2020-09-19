@@ -1,6 +1,9 @@
 {
   "title": "Using a gateway to leverage on-premises data in Power BI",
   "type": "recording",
+  "tags": [
+    "Power BI"
+  ],
   "date": "2017-03-04T22:03:00",
   "draft": false,
   "slug": "using-a-gateway-to-leverage-on-premises-data-in-power-bi",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Power BI",
       "slug": "power-bi",

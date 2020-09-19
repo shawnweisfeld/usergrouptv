@@ -1,6 +1,9 @@
 {
   "title": "MANAGING THE FOUR PATTERNS OF GENDER BIAS",
   "type": "recording",
+  "tags": [
+    "Career"
+  ],
   "date": "2017-08-05T14:49:40",
   "draft": false,
   "slug": "managing-the-four-patterns-of-gender-bias",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Career",
       "slug": "career",

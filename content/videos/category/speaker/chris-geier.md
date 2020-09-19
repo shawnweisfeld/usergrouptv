@@ -1,5 +1,8 @@
 {
   "title": "Chris Geier",
+  "tags": [
+    "Chris Geier"
+  ],
   "type": "speaker",
   "slug": "chris-geier",
   "date": "2011-11-03T23:00:05",

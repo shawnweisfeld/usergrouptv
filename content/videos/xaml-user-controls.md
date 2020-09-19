@@ -1,6 +1,9 @@
 {
   "title": "XAML User Controls",
   "type": "recording",
+  "tags": [
+    "XAML User Controls"
+  ],
   "date": "2011-09-06T03:17:42",
   "draft": false,
   "slug": "xaml-user-controls",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "XAML User Controls",
       "slug": "xaml-user-controls",

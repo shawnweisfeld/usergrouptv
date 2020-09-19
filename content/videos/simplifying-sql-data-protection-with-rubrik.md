@@ -1,6 +1,9 @@
 {
   "title": "Simplifying SQL Data Protection (with Rubrik)",
   "type": "recording",
+  "tags": [
+    "SQL Security"
+  ],
   "date": "2018-06-23T19:50:46",
   "draft": false,
   "slug": "simplifying-sql-data-protection-with-rubrik",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Security",
       "slug": "sql-security",

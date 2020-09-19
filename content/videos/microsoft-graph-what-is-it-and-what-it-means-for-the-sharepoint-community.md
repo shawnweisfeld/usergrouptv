@@ -1,6 +1,9 @@
 {
   "title": "Microsoft Graph: What is it and what it means for the SharePoint community",
   "type": "recording",
+  "tags": [
+    "Microsoft Graph"
+  ],
   "date": "2018-06-13T13:28:22",
   "draft": false,
   "slug": "microsoft-graph-what-is-it-and-what-it-means-for-the-sharepoint-community",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Microsoft Graph",
       "slug": "microsoft-graph",

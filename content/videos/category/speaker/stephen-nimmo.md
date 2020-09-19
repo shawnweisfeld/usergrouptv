@@ -1,5 +1,8 @@
 {
   "title": "Stephen Nimmo",
+  "tags": [
+    "Stephen Nimmo"
+  ],
   "type": "speaker",
   "slug": "stephen-nimmo",
   "date": "2014-09-13T23:40:04",

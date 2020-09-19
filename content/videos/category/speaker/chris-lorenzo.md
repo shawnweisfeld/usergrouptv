@@ -1,5 +1,8 @@
 {
   "title": "Chris Lorenzo",
+  "tags": [
+    "Chris Lorenzo"
+  ],
   "type": "speaker",
   "slug": "chris-lorenzo",
   "date": "2017-10-05T21:53:05",

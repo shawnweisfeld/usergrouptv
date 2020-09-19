@@ -1,5 +1,8 @@
 {
   "title": "Jeff Brantley",
+  "tags": [
+    "Jeff Brantley"
+  ],
   "type": "speaker",
   "slug": "jeff-brantley",
   "date": "2018-05-24T16:48:16",

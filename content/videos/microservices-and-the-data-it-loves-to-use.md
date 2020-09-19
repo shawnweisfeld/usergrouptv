@@ -1,6 +1,9 @@
 {
   "title": "Microservices and the Data it loves to use",
   "type": "recording",
+  "tags": [
+    "Microservices"
+  ],
   "date": "2017-07-21T14:07:04",
   "draft": false,
   "slug": "microservices-and-the-data-it-loves-to-use",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Microservices",
       "slug": "microservices",

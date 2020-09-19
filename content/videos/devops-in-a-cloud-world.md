@@ -1,6 +1,9 @@
 {
   "title": "DevOps in a Cloud World",
   "type": "recording",
+  "tags": [
+    "DevOps"
+  ],
   "date": "2018-09-29T15:13:01",
   "draft": false,
   "slug": "devops-in-a-cloud-world",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "DevOps",
       "slug": "devops",

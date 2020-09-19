@@ -1,5 +1,8 @@
 {
   "title": "DDD",
+  "tags": [
+    "DDD"
+  ],
   "type": "tag",
   "slug": "ddd",
   "date": "2020-07-07T13:07:52",

@@ -1,6 +1,9 @@
 {
   "title": "WordPress for Non-Profits",
   "type": "recording",
+  "tags": [
+    "WordPress"
+  ],
   "date": "2011-10-22T23:30:25",
   "draft": false,
   "slug": "wordpress-for-non-profits",
@@ -16,7 +19,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "WordPress",
       "slug": "wordpress",

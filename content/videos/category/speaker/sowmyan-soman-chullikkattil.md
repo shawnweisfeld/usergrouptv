@@ -1,5 +1,8 @@
 {
   "title": "Sowmyan Soman Chullikkattil",
+  "tags": [
+    "Sowmyan Soman Chullikkattil"
+  ],
   "type": "speaker",
   "slug": "sowmyan-soman-chullikkattil",
   "date": "2020-01-08T16:19:26",

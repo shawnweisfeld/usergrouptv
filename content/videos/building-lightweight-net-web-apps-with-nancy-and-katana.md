@@ -1,6 +1,10 @@
 {
   "title": "Building Lightweight .NET Web Apps with Nancy and Katana",
   "type": "recording",
+  "tags": [
+    "Katana",
+    "Nancy"
+  ],
   "date": "2014-09-13T23:57:10",
   "draft": false,
   "slug": "building-lightweight-net-web-apps-with-nancy-and-katana",
@@ -16,7 +20,7 @@
       "count": 12
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Katana",
       "slug": "katana",

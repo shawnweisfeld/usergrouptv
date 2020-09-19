@@ -1,5 +1,8 @@
 {
   "title": "Security",
+  "tags": [
+    "Security"
+  ],
   "type": "tag",
   "slug": "security",
   "date": "2018-10-13T14:13:25",

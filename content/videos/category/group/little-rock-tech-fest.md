@@ -1,6 +1,9 @@
 {
   "title": "Little Rock Tech Fest",
   "type": "meetup",
+  "tags": [
+    "Little Rock Tech Fest"
+  ],
   "slug": "little-rock-tech-fest",
   "date": "2017-10-06T22:29:44",
   "draft": false,

@@ -1,5 +1,8 @@
 {
   "title": "Steve Hughes",
+  "tags": [
+    "Steve Hughes"
+  ],
   "type": "speaker",
   "slug": "steve-hughes",
   "date": "2018-06-23T20:01:12",

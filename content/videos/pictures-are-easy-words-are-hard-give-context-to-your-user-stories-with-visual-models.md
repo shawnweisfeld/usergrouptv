@@ -1,6 +1,9 @@
 {
   "title": "Pictures Are Easy, Words Are Hard: Give Context to Your User Stories with Visual Models",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2019-10-04T16:37:45",
   "draft": false,
   "slug": "pictures-are-easy-words-are-hard-give-context-to-your-user-stories-with-visual-models",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

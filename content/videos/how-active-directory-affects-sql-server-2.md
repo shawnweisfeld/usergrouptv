@@ -1,6 +1,10 @@
 {
   "title": "How Active Directory affects SQL Server",
   "type": "recording",
+  "tags": [
+    "SQL",
+    "AD"
+  ],
   "date": "2015-01-31T23:37:33",
   "draft": false,
   "slug": "how-active-directory-affects-sql-server-2",
@@ -16,7 +20,7 @@
       "count": 7
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL",
       "slug": "sql",

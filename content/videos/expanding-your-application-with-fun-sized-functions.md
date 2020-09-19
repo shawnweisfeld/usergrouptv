@@ -1,6 +1,9 @@
 {
   "title": "Expanding your application with fun-sized functions ",
   "type": "recording",
+  "tags": [
+    "Azure Functions"
+  ],
   "date": "2017-10-18T11:35:56",
   "draft": false,
   "slug": "expanding-your-application-with-fun-sized-functions",
@@ -22,7 +25,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure Functions",
       "slug": "azure-functions",

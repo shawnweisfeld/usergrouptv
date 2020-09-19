@@ -1,5 +1,8 @@
 {
   "title": "Don McGreal",
+  "tags": [
+    "Don McGreal"
+  ],
   "type": "speaker",
   "slug": "don-mcgreal",
   "date": "2014-08-22T17:40:06",

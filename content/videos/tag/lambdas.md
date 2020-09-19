@@ -1,5 +1,8 @@
 {
   "title": "Lambdas",
+  "tags": [
+    "Lambdas"
+  ],
   "type": "tag",
   "slug": "lambdas",
   "date": "2011-03-08T19:08:20",

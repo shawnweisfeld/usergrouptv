@@ -1,5 +1,8 @@
 {
   "title": "async",
+  "tags": [
+    "async"
+  ],
   "type": "tag",
   "slug": "async",
   "date": "2018-10-13T14:17:50",

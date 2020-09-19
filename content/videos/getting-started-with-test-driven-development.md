@@ -1,6 +1,9 @@
 {
   "title": "Getting Started with Test Driven Development",
   "type": "recording",
+  "tags": [
+    "TDD"
+  ],
   "date": "2013-09-28T12:44:30",
   "draft": false,
   "slug": "getting-started-with-test-driven-development",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "TDD",
       "slug": "tdd",

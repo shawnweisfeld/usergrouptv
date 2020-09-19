@@ -1,6 +1,10 @@
 {
   "title": "Windows Phone 30-To-Launch: Session 1 Getting Started with Windows Phone Development",
   "type": "recording",
+  "tags": [
+    "Windows Phone",
+    "WP7"
+  ],
   "date": "2012-02-01T01:34:30",
   "draft": false,
   "slug": "windows-phone-30-to-launch-session-1-getting-started-with-windows-phone-development",
@@ -16,7 +20,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Windows Phone",
       "slug": "windows-phone",

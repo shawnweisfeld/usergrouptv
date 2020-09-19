@@ -1,6 +1,7 @@
 {
   "title": "The .Net Ninja’s Toolbelt",
   "type": "recording",
+  "tags": [],
   "date": "2012-02-17T14:57:52",
   "draft": false,
   "slug": "the-net-ninjas-toolbelt",
@@ -16,7 +17,7 @@
       "count": 4
     }
   ],
-  "tags": [],
+  "ugtvtags": [],
   "meetups": [
     {
       "name": "Agile .NET",

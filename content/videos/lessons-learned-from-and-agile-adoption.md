@@ -1,6 +1,9 @@
 {
   "title": "Lessons Learned from and Agile Adoption",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2012-02-17T15:19:32",
   "draft": false,
   "slug": "lessons-learned-from-and-agile-adoption",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

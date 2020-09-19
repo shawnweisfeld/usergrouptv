@@ -1,5 +1,8 @@
 {
   "title": "Sanjay Kaul",
+  "tags": [
+    "Sanjay Kaul"
+  ],
   "type": "speaker",
   "slug": "sanjay-kaul",
   "date": "2014-05-03T19:59:18",

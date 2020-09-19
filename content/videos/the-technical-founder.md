@@ -1,6 +1,9 @@
 {
   "title": "The Technical Founder",
   "type": "recording",
+  "tags": [
+    "Startup"
+  ],
   "date": "2016-09-24T19:45:32",
   "draft": false,
   "slug": "the-technical-founder",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Startup",
       "slug": "startup",

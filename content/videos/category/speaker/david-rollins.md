@@ -1,5 +1,8 @@
 {
   "title": "David Rollins",
+  "tags": [
+    "David Rollins"
+  ],
   "type": "speaker",
   "slug": "david-rollins",
   "date": "2014-10-10T11:22:54",

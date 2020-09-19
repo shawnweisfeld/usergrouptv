@@ -1,5 +1,8 @@
 {
   "title": "Buddy Lindsey",
+  "tags": [
+    "Buddy Lindsey"
+  ],
   "type": "speaker",
   "slug": "buddy-lindsey",
   "date": "2012-10-12T15:44:00",

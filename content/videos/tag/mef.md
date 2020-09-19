@@ -1,5 +1,8 @@
 {
   "title": "MEF",
+  "tags": [
+    "MEF"
+  ],
   "type": "tag",
   "slug": "mef",
   "date": "2011-07-05T19:12:08",

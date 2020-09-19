@@ -1,5 +1,8 @@
 {
   "title": "XML Source",
+  "tags": [
+    "XML Source"
+  ],
   "type": "tag",
   "slug": "xml-source",
   "date": "2013-08-24T11:39:21",

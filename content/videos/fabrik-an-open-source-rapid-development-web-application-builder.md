@@ -1,6 +1,9 @@
 {
   "title": "Fabrik: An Open Source Rapid Development Web Application Builder",
   "type": "recording",
+  "tags": [
+    "joomla"
+  ],
   "date": "2019-09-28T16:19:05",
   "draft": false,
   "slug": "fabrik-an-open-source-rapid-development-web-application-builder",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "joomla",
       "slug": "joomla",

@@ -1,6 +1,9 @@
 {
   "title": "Building Web Applications With Laravel",
   "type": "recording",
+  "tags": [
+    "Laravel"
+  ],
   "date": "2017-10-06T16:05:41",
   "draft": false,
   "slug": "building-web-applications-with-laravel",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Laravel",
       "slug": "laravel",

@@ -1,6 +1,9 @@
 {
   "title": "State of .NET - The Road to Windows 8",
   "type": "recording",
+  "tags": [
+    "CODE"
+  ],
   "date": "2011-12-13T00:55:46",
   "draft": false,
   "slug": "state-of-net-the-road-to-windows-8",
@@ -16,7 +19,7 @@
       "count": 12
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "CODE",
       "slug": "code",

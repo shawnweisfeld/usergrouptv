@@ -1,6 +1,9 @@
 {
   "title": "Data Warehousing 101",
   "type": "recording",
+  "tags": [
+    "Data Warehouse"
+  ],
   "date": "2017-06-17T14:11:05",
   "draft": false,
   "slug": "data-warehousing-101",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Data Warehouse",
       "slug": "data-warehouse",

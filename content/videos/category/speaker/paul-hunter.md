@@ -1,5 +1,8 @@
 {
   "title": "Paul Hunter",
+  "tags": [
+    "Paul Hunter"
+  ],
   "type": "speaker",
   "slug": "paul-hunter",
   "date": "2011-04-02T22:05:23",

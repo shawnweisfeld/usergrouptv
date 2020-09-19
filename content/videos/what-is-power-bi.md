@@ -1,6 +1,9 @@
 {
   "title": "What is Power BI?",
   "type": "recording",
+  "tags": [
+    "Power BI"
+  ],
   "date": "2018-08-11T15:57:59",
   "draft": false,
   "slug": "what-is-power-bi",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Power BI",
       "slug": "power-bi",

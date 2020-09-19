@@ -1,5 +1,8 @@
 {
   "title": "Power Virtual Agents",
+  "tags": [
+    "Power Virtual Agents"
+  ],
   "type": "tag",
   "slug": "power-virtual-agents",
   "date": "2020-01-08T16:14:38",

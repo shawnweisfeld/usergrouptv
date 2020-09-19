@@ -1,5 +1,8 @@
 {
   "title": "Emergent Design",
+  "tags": [
+    "Emergent Design"
+  ],
   "type": "tag",
   "slug": "emergent-design",
   "date": "2012-06-14T14:31:44",

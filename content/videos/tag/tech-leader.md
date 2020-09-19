@@ -1,5 +1,8 @@
 {
   "title": "Tech Leader",
+  "tags": [
+    "Tech Leader"
+  ],
   "type": "tag",
   "slug": "tech-leader",
   "date": "2017-08-06T16:45:13",

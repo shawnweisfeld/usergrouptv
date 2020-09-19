@@ -1,5 +1,8 @@
 {
   "title": "Micah Silverman",
+  "tags": [
+    "Micah Silverman"
+  ],
   "type": "speaker",
   "slug": "micah-silverman",
   "date": "2017-10-05T21:47:23",

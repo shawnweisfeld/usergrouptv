@@ -1,6 +1,10 @@
 {
   "title": "Composing maintainable apps in XAML",
   "type": "recording",
+  "tags": [
+    "Patterns",
+    "XAML"
+  ],
   "date": "2013-02-05T23:04:59",
   "draft": false,
   "slug": "composing-maintainable-apps-in-xaml",
@@ -16,7 +20,7 @@
       "count": 22
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Patterns",
       "slug": "patterns",

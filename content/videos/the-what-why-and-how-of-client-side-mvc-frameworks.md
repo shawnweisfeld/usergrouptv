@@ -1,6 +1,9 @@
 {
   "title": "The What, Why And How Of Client-Side MVC Frameworks",
   "type": "recording",
+  "tags": [
+    "Client-Side MVC"
+  ],
   "date": "2011-08-13T02:36:07",
   "draft": false,
   "slug": "the-what-why-and-how-of-client-side-mvc-frameworks",
@@ -16,7 +19,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Client-Side MVC",
       "slug": "client-side-mvc",

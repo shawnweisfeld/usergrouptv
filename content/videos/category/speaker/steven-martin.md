@@ -1,5 +1,8 @@
 {
   "title": "Steven Martin",
+  "tags": [
+    "Steven Martin"
+  ],
   "type": "speaker",
   "slug": "steven-martin",
   "date": "2019-10-04T16:32:54",

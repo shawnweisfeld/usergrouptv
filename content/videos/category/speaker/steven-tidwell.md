@@ -1,5 +1,8 @@
 {
   "title": "Steven Tidwell",
+  "tags": [
+    "Steven Tidwell"
+  ],
   "type": "speaker",
   "slug": "steven-tidwell",
   "date": "2017-10-14T11:50:58",

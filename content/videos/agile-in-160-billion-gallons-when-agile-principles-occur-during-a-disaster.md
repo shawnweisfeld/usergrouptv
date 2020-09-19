@@ -1,6 +1,9 @@
 {
   "title": "Agile in 160 Billion Gallons: When Agile Principles Occur During A Disaster",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2018-09-29T15:03:26",
   "draft": false,
   "slug": "agile-in-160-billion-gallons-when-agile-principles-occur-during-a-disaster",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

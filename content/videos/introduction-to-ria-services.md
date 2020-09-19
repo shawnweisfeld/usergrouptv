@@ -1,6 +1,9 @@
 {
   "title": "Introduction to WCF RIA Services: Part 2 ",
   "type": "recording",
+  "tags": [
+    "RIA Services"
+  ],
   "date": "2011-03-12T19:52:14",
   "draft": false,
   "slug": "introduction-to-ria-services",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "RIA Services",
       "slug": "ria-services",

@@ -1,5 +1,8 @@
 {
   "title": "Farida Bharmal",
+  "tags": [
+    "Farida Bharmal"
+  ],
   "type": "speaker",
   "slug": "farida-bharmal",
   "date": "2019-11-13T17:28:13",

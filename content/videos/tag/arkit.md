@@ -1,5 +1,8 @@
 {
   "title": "ARKit",
+  "tags": [
+    "ARKit"
+  ],
   "type": "tag",
   "slug": "arkit",
   "date": "2018-05-05T15:33:09",

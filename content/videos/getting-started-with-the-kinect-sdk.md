@@ -1,6 +1,9 @@
 {
   "title": "Getting Started with the Kinect SDK",
   "type": "recording",
+  "tags": [
+    "Kinect"
+  ],
   "date": "2011-07-06T18:03:29",
   "draft": false,
   "slug": "getting-started-with-the-kinect-sdk",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Kinect",
       "slug": "kinect",

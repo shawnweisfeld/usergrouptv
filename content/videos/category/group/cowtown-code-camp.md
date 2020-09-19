@@ -1,6 +1,9 @@
 {
   "title": "Cowtown Code Camp",
   "type": "meetup",
+  "tags": [
+    "Cowtown Code Camp"
+  ],
   "slug": "cowtown-code-camp",
   "date": "2014-06-14T14:54:40",
   "draft": false,

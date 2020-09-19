@@ -1,5 +1,8 @@
 {
   "title": "Dapr",
+  "tags": [
+    "Dapr"
+  ],
   "type": "tag",
   "slug": "dapr",
   "date": "2020-09-08T13:49:27",

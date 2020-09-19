@@ -1,6 +1,9 @@
 {
   "title": "TECH IMPACT ON A DEVELOPING QUEER YOUTH IDENTITY",
   "type": "recording",
+  "tags": [
+    "LGBT"
+  ],
   "date": "2017-08-06T17:09:02",
   "draft": false,
   "slug": "tech-impact-on-a-developing-queer-youth-identity",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "LGBT",
       "slug": "lgbt",

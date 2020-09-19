@@ -1,6 +1,9 @@
 {
   "title": "HOW TO KEEP LEARNING",
   "type": "recording",
+  "tags": [
+    "Learning"
+  ],
   "date": "2017-08-05T16:55:29",
   "draft": false,
   "slug": "how-to-keep-learning",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Learning",
       "slug": "learning",

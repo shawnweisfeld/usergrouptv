@@ -1,5 +1,8 @@
 {
   "title": "Data Profiling",
+  "tags": [
+    "Data Profiling"
+  ],
   "type": "tag",
   "slug": "data-profiling",
   "date": "2012-08-24T00:11:05",

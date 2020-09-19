@@ -1,6 +1,9 @@
 {
   "title": "Cosmos DB for the Data Professional",
   "type": "recording",
+  "tags": [
+    "Cosmos DB"
+  ],
   "date": "2018-06-23T20:01:12",
   "draft": false,
   "slug": "cosmos-db-for-the-data-professional",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Cosmos DB",
       "slug": "cosmos-db",

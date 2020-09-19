@@ -1,6 +1,9 @@
 {
   "title": "Securing Windows Azure Applications",
   "type": "recording",
+  "tags": [
+    "Azure Security"
+  ],
   "date": "2012-09-08T01:42:56",
   "draft": false,
   "slug": "securing-windows-azure-applications",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure Security",
       "slug": "azure-security",

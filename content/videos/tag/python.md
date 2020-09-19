@@ -1,5 +1,8 @@
 {
   "title": "Python",
+  "tags": [
+    "Python"
+  ],
   "type": "tag",
   "slug": "python",
   "date": "2020-02-08T16:14:32",

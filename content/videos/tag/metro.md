@@ -1,5 +1,8 @@
 {
   "title": "metro",
+  "tags": [
+    "metro"
+  ],
   "type": "tag",
   "slug": "metro",
   "date": "2012-06-19T11:00:07",

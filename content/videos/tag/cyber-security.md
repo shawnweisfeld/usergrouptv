@@ -1,5 +1,8 @@
 {
   "title": "Cyber Security",
+  "tags": [
+    "Cyber Security"
+  ],
   "type": "tag",
   "slug": "cyber-security",
   "date": "2019-04-27T13:47:42",

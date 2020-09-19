@@ -1,6 +1,9 @@
 {
   "title": "Automate your daily checklist with PBM and CMS",
   "type": "recording",
+  "tags": [
+    "SQL Admin"
+  ],
   "date": "2015-08-29T14:19:38",
   "draft": false,
   "slug": "automate-your-daily-checklist-with-pbm-and-cms",
@@ -16,7 +19,7 @@
       "count": 18
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Admin",
       "slug": "sql-admin",

@@ -1,5 +1,8 @@
 {
   "title": "Robert Neill",
+  "tags": [
+    "Robert Neill"
+  ],
   "type": "speaker",
   "slug": "robert-neill",
   "date": "2017-08-05T16:54:06",

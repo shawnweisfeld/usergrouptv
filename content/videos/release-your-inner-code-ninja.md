@@ -1,6 +1,9 @@
 {
   "title": "Release your inner code Ninja",
   "type": "recording",
+  "tags": [
+    "tools"
+  ],
   "date": "2014-09-13T23:46:09",
   "draft": false,
   "slug": "release-your-inner-code-ninja",
@@ -16,7 +19,7 @@
       "count": 11
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "tools",
       "slug": "tools",

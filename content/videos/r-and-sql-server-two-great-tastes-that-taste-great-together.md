@@ -1,6 +1,9 @@
 {
   "title": "R and SQL Server: Two Great Tastes That Taste Great Together",
   "type": "recording",
+  "tags": [
+    "R"
+  ],
   "date": "2017-10-14T11:48:49",
   "draft": false,
   "slug": "r-and-sql-server-two-great-tastes-that-taste-great-together",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "R",
       "slug": "r",

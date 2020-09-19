@@ -1,6 +1,9 @@
 {
   "title": "GM User Group",
   "type": "meetup",
+  "tags": [
+    "GM User Group"
+  ],
   "slug": "gm-user-group",
   "date": "2016-09-08T18:22:06",
   "draft": false,

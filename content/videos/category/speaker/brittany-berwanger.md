@@ -1,5 +1,8 @@
 {
   "title": "Brittany Berwanger",
+  "tags": [
+    "Brittany Berwanger"
+  ],
   "type": "speaker",
   "slug": "brittany-berwanger",
   "date": "2016-08-05T14:47:30",

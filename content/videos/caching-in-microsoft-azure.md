@@ -1,6 +1,9 @@
 {
   "title": "Caching in Microsoft Azure",
   "type": "recording",
+  "tags": [
+    "Caching"
+  ],
   "date": "2017-04-10T11:09:34",
   "draft": false,
   "slug": "caching-in-microsoft-azure",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Caching",
       "slug": "caching",

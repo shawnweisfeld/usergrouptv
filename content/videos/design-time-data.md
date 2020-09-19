@@ -1,6 +1,9 @@
 {
   "title": "Design Time Data ",
   "type": "recording",
+  "tags": [
+    "Blend"
+  ],
   "date": "2013-05-07T13:17:58",
   "draft": false,
   "slug": "design-time-data",
@@ -16,7 +19,7 @@
       "count": 22
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Blend",
       "slug": "blend",

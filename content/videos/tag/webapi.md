@@ -1,5 +1,8 @@
 {
   "title": "WebAPI",
+  "tags": [
+    "WebAPI"
+  ],
   "type": "tag",
   "slug": "webapi",
   "date": "2013-08-17T19:54:13",

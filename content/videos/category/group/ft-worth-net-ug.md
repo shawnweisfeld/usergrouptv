@@ -1,6 +1,9 @@
 {
   "title": "Ft. Worth .NET UG",
   "type": "meetup",
+  "tags": [
+    "Ft. Worth .NET UG"
+  ],
   "slug": "ft-worth-net-ug",
   "date": "2016-04-19T17:51:38",
   "draft": false,

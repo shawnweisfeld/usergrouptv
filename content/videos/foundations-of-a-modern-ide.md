@@ -1,6 +1,7 @@
 {
   "title": "Foundations of a Modern IDE",
   "type": "recording",
+  "tags": [],
   "date": "2014-09-13T23:41:44",
   "draft": false,
   "slug": "foundations-of-a-modern-ide",
@@ -16,7 +17,7 @@
       "count": 1
     }
   ],
-  "tags": [],
+  "ugtvtags": [],
   "meetups": [
     {
       "name": "Houston Techfest",

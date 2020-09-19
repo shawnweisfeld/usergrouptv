@@ -1,6 +1,9 @@
 {
   "title": "What's New in C# 8 Interfaces (and how to use them effectively)",
   "type": "recording",
+  "tags": [
+    "C#"
+  ],
   "date": "2020-07-23T02:10:01",
   "draft": false,
   "slug": "whats-new-in-c-8-interfaces-and-how-to-use-them-effectively",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "C#",
       "slug": "c",

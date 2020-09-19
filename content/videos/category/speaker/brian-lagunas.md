@@ -1,5 +1,8 @@
 {
   "title": "Brian Lagunas",
+  "tags": [
+    "Brian Lagunas"
+  ],
   "type": "speaker",
   "slug": "brian-lagunas",
   "date": "2012-07-03T21:59:29",

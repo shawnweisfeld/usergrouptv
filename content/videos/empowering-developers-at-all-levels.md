@@ -1,6 +1,9 @@
 {
   "title": "Empowering Developers at all Levels",
   "type": "recording",
+  "tags": [
+    "Developer"
+  ],
   "date": "2018-10-13T14:20:16",
   "draft": false,
   "slug": "empowering-developers-at-all-levels",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Developer",
       "slug": "developer",

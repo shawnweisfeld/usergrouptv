@@ -1,6 +1,10 @@
 {
   "title": "Getting The Spring Application To The Cloud",
   "type": "recording",
+  "tags": [
+    "Spring",
+    "Cloud"
+  ],
   "date": "2011-08-12T20:11:07",
   "draft": false,
   "slug": "getting-the-spring-application-to-the-cloud",
@@ -16,7 +20,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Spring",
       "slug": "spring",

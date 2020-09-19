@@ -1,5 +1,8 @@
 {
   "title": "Gene Webb",
+  "tags": [
+    "Gene Webb"
+  ],
   "type": "speaker",
   "slug": "gene-webb",
   "date": "2015-01-31T18:51:15",

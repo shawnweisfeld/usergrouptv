@@ -1,5 +1,8 @@
 {
   "title": "Azure Database",
+  "tags": [
+    "Azure Database"
+  ],
   "type": "tag",
   "slug": "azure-database",
   "date": "2019-07-13T14:01:49",

@@ -1,5 +1,8 @@
 {
   "title": "Parallel Programming",
+  "tags": [
+    "Parallel Programming"
+  ],
   "type": "tag",
   "slug": "parallel-programming",
   "date": "2011-09-07T03:22:55",

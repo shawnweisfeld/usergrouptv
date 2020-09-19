@@ -1,5 +1,8 @@
 {
   "title": "Mike Haze",
+  "tags": [
+    "Mike Haze"
+  ],
   "type": "speaker",
   "slug": "mike-haze",
   "date": "2013-12-06T13:07:49",

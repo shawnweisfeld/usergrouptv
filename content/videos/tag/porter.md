@@ -1,5 +1,8 @@
 {
   "title": "Porter",
+  "tags": [
+    "Porter"
+  ],
   "type": "tag",
   "slug": "porter",
   "date": "2020-01-08T16:19:26",

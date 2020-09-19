@@ -1,5 +1,8 @@
 {
   "title": "ESB",
+  "tags": [
+    "ESB"
+  ],
   "type": "tag",
   "slug": "esb",
   "date": "2011-05-27T13:48:23",

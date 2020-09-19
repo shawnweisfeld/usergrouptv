@@ -1,6 +1,9 @@
 {
   "title": "Azure Service Bus - The good, the Bad and the Awesome ",
   "type": "recording",
+  "tags": [
+    "Service Bus"
+  ],
   "date": "2016-09-08T18:26:16",
   "draft": false,
   "slug": "azure-service-bus-the-good-the-bad-and-the-awesome",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Service Bus",
       "slug": "service-bus",

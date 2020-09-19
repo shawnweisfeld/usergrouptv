@@ -1,5 +1,8 @@
 {
   "title": "VisualStudio.com",
+  "tags": [
+    "VisualStudio.com"
+  ],
   "type": "tag",
   "slug": "visualstudio-com",
   "date": "2017-10-09T16:26:42",

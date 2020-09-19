@@ -1,6 +1,9 @@
 {
   "title": "Give your App/Web Site Superpowers with Cognitive Services",
   "type": "recording",
+  "tags": [
+    "Cognitive Services"
+  ],
   "date": "2018-03-12T22:35:06",
   "draft": false,
   "slug": "give-your-appweb-site-superpowers-with-cognitive-services",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Cognitive Services",
       "slug": "cognitive-services",

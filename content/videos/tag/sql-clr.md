@@ -1,5 +1,8 @@
 {
   "title": "SQL CLR",
+  "tags": [
+    "SQL CLR"
+  ],
   "type": "tag",
   "slug": "sql-clr",
   "date": "2011-04-02T22:05:23",

@@ -1,6 +1,9 @@
 {
   "title": "Drupal 8: The Enterprise Content Hub",
   "type": "recording",
+  "tags": [
+    "Drupal"
+  ],
   "date": "2017-10-06T16:20:55",
   "draft": false,
   "slug": "drupal-8-the-enterprise-content-hub",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Drupal",
       "slug": "drupal",

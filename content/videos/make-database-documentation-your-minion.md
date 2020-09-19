@@ -1,6 +1,9 @@
 {
   "title": "Make Database Documentation your Minion",
   "type": "recording",
+  "tags": [
+    "MS SQL"
+  ],
   "date": "2019-07-13T13:57:43",
   "draft": false,
   "slug": "make-database-documentation-your-minion",
@@ -16,7 +19,7 @@
       "count": 7
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MS SQL",
       "slug": "ms-sql",

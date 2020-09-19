@@ -1,5 +1,8 @@
 {
   "title": "David Hawks",
+  "tags": [
+    "David Hawks"
+  ],
   "type": "speaker",
   "slug": "david-hawks",
   "date": "2019-10-04T16:31:49",

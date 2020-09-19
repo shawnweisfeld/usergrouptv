@@ -1,6 +1,9 @@
 {
   "title": "THE FUTURE OF AGILE",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2014-08-22T17:40:06",
   "draft": false,
   "slug": "the-future-of-agile",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

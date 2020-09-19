@@ -1,5 +1,8 @@
 {
   "title": "Single Responsibility",
+  "tags": [
+    "Single Responsibility"
+  ],
   "type": "tag",
   "slug": "single-responsibility",
   "date": "2013-08-17T22:05:55",

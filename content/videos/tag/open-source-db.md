@@ -1,5 +1,8 @@
 {
   "title": "Open Source DB",
+  "tags": [
+    "Open Source DB"
+  ],
   "type": "tag",
   "slug": "open-source-db",
   "date": "2013-08-24T11:37:00",

@@ -1,6 +1,9 @@
 {
   "title": "So Your Momma's Got Big... Data, Huh?",
   "type": "recording",
+  "tags": [
+    "NoSQL"
+  ],
   "date": "2011-08-12T20:05:46",
   "draft": false,
   "slug": "so-your-momma-s-got-big-data-huh",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "NoSQL",
       "slug": "nosql",

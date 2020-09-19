@@ -1,6 +1,9 @@
 {
   "title": "USE DESIGN THINKING TO HELP LAND YOUR NEXT JOB",
   "type": "recording",
+  "tags": [
+    "Job"
+  ],
   "date": "2017-08-05T16:36:42",
   "draft": false,
   "slug": "use-design-thinking-to-help-land-your-next-job",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Job",
       "slug": "job",

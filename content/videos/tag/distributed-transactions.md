@@ -1,5 +1,8 @@
 {
   "title": "Distributed Transactions",
+  "tags": [
+    "Distributed Transactions"
+  ],
   "type": "tag",
   "slug": "distributed-transactions",
   "date": "2013-01-23T03:11:55",

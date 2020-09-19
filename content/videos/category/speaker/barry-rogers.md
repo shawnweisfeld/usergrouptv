@@ -1,5 +1,8 @@
 {
   "title": "Barry Rogers",
+  "tags": [
+    "Barry Rogers"
+  ],
   "type": "speaker",
   "slug": "barry-rogers",
   "date": "2012-04-20T13:19:19",

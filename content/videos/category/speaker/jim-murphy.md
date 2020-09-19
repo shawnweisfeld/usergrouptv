@@ -1,5 +1,8 @@
 {
   "title": "Jim Murphy",
+  "tags": [
+    "Jim Murphy"
+  ],
   "type": "speaker",
   "slug": "jim-murphy",
   "date": "2017-10-14T11:50:04",

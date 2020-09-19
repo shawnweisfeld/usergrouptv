@@ -1,5 +1,8 @@
 {
   "title": "Social Media",
+  "tags": [
+    "Social Media"
+  ],
   "type": "tag",
   "slug": "social-media",
   "date": "2011-10-22T23:11:42",

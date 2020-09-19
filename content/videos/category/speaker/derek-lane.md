@@ -1,5 +1,8 @@
 {
   "title": "Derek Lane",
+  "tags": [
+    "Derek Lane"
+  ],
   "type": "speaker",
   "slug": "derek-lane",
   "date": "2011-08-12T20:05:46",

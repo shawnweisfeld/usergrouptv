@@ -1,5 +1,8 @@
 {
   "title": "Mindy Curnutt",
+  "tags": [
+    "Mindy Curnutt"
+  ],
   "type": "speaker",
   "slug": "mindy-curnutt",
   "date": "2016-08-13T15:06:52",

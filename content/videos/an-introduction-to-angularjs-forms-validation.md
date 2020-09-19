@@ -1,6 +1,9 @@
 {
   "title": "An Introduction to AngularJS Forms Validation",
   "type": "recording",
+  "tags": [
+    "AngularJS"
+  ],
   "date": "2014-06-14T11:02:26",
   "draft": false,
   "slug": "an-introduction-to-angularjs-forms-validation",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "AngularJS",
       "slug": "angularjs",

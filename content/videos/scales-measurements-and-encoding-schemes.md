@@ -1,6 +1,9 @@
 {
   "title": "Scales, Measurements and Encoding Schemes",
   "type": "recording",
+  "tags": [
+    "Database"
+  ],
   "date": "2019-07-13T13:58:57",
   "draft": false,
   "slug": "scales-measurements-and-encoding-schemes",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Database",
       "slug": "database",

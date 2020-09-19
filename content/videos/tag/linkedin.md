@@ -1,5 +1,8 @@
 {
   "title": "LinkedIn",
+  "tags": [
+    "LinkedIn"
+  ],
   "type": "tag",
   "slug": "linkedin",
   "date": "2017-08-04T14:21:01",

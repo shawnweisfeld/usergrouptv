@@ -1,5 +1,8 @@
 {
   "title": "Kesten Broughton",
+  "tags": [
+    "Kesten Broughton"
+  ],
   "type": "speaker",
   "slug": "kesten-broughton",
   "date": "2018-09-12T21:19:52",

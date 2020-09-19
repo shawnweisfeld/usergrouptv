@@ -1,5 +1,8 @@
 {
   "title": "sql on linux",
+  "tags": [
+    "sql on linux"
+  ],
   "type": "tag",
   "slug": "sql-on-linux",
   "date": "2018-08-11T15:52:11",

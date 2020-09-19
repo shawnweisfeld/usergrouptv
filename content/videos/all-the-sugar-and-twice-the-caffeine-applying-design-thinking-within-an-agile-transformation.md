@@ -1,6 +1,9 @@
 {
   "title": "All the Sugar and Twice the Caffeine Applying Design Thinking Within an Agile Transformation",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2019-10-04T16:51:06",
   "draft": false,
   "slug": "all-the-sugar-and-twice-the-caffeine-applying-design-thinking-within-an-agile-transformation",
@@ -22,7 +25,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

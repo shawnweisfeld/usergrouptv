@@ -1,5 +1,8 @@
 {
   "title": "Allison Macalik Tibbits",
+  "tags": [
+    "Allison Macalik Tibbits"
+  ],
   "type": "speaker",
   "slug": "allison-macalik-tibbits",
   "date": "2017-08-05T17:13:06",

@@ -1,5 +1,8 @@
 {
   "title": "Don Schenck",
+  "tags": [
+    "Don Schenck"
+  ],
   "type": "speaker",
   "slug": "don-schenck",
   "date": "2017-10-06T16:24:08",

@@ -1,5 +1,8 @@
 {
   "title": "Jason Morillo",
+  "tags": [
+    "Jason Morillo"
+  ],
   "type": "speaker",
   "slug": "jason-morillo",
   "date": "2019-10-04T16:49:15",

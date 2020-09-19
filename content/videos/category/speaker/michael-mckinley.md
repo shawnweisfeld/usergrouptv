@@ -1,5 +1,8 @@
 {
   "title": "Michael McKinley",
+  "tags": [
+    "Michael McKinley"
+  ],
   "type": "speaker",
   "slug": "michael-mckinley",
   "date": "2020-02-08T16:20:52",

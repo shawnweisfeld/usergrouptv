@@ -1,5 +1,8 @@
 {
   "title": "Ivan Peev",
+  "tags": [
+    "Ivan Peev"
+  ],
   "type": "speaker",
   "slug": "ivan-peev",
   "date": "2017-03-04T21:56:18",

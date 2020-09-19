@@ -1,6 +1,9 @@
 {
   "title": "Feb 2020 PowerBI Tips from the Pros",
   "type": "recording",
+  "tags": [
+    "Power BI"
+  ],
   "date": "2020-02-12T12:10:54",
   "draft": false,
   "slug": "feb-2020-powerbi-tips-from-the-pros",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Power BI",
       "slug": "power-bi",

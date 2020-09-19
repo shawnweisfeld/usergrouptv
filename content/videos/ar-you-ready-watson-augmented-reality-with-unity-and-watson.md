@@ -1,6 +1,9 @@
 {
   "title": "AR You Ready, Watson? (Augmented Reality with Unity and Watson)",
   "type": "recording",
+  "tags": [
+    "AR"
+  ],
   "date": "2018-10-13T14:19:01",
   "draft": false,
   "slug": "ar-you-ready-watson-augmented-reality-with-unity-and-watson",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "AR",
       "slug": "ar",

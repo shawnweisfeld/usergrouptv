@@ -1,5 +1,8 @@
 {
   "title": "SLAB",
+  "tags": [
+    "SLAB"
+  ],
   "type": "tag",
   "slug": "slab",
   "date": "2014-05-16T09:57:53",

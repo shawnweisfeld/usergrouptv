@@ -1,5 +1,8 @@
 {
   "title": "Benny Vasquez",
+  "tags": [
+    "Benny Vasquez"
+  ],
   "type": "speaker",
   "slug": "benny-vasquez",
   "date": "2017-08-05T14:30:29",

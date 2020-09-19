@@ -1,6 +1,9 @@
 {
   "title": "Code First Development with Entity Framework",
   "type": "recording",
+  "tags": [
+    "EF Code First"
+  ],
   "date": "2011-12-01T14:36:21",
   "draft": false,
   "slug": "code-first-development-with-entity-framework",
@@ -16,7 +19,7 @@
       "count": 11
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "EF Code First",
       "slug": "ef-code-first",

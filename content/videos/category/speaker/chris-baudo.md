@@ -1,5 +1,8 @@
 {
   "title": "Chris Baudo",
+  "tags": [
+    "Chris Baudo"
+  ],
   "type": "speaker",
   "slug": "chris-baudo",
   "date": "2013-09-28T12:47:03",

@@ -1,6 +1,9 @@
 {
   "title": "Upgrading and Migrating to SharePoint 2016 Successfully",
   "type": "recording",
+  "tags": [
+    "Sharepoint"
+  ],
   "date": "2017-10-14T11:52:18",
   "draft": false,
   "slug": "upgrading-and-migrating-to-sharepoint-2016-successfully",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Sharepoint",
       "slug": "sharepoint",

@@ -1,6 +1,9 @@
 {
   "title": "What's New in SSRS 2016",
   "type": "recording",
+  "tags": [
+    "SSRS"
+  ],
   "date": "2016-05-14T12:23:45",
   "draft": false,
   "slug": "whats-new-in-ssrs-2016",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SSRS",
       "slug": "ssrs",

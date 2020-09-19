@@ -1,5 +1,8 @@
 {
   "title": "Swift",
+  "tags": [
+    "Swift"
+  ],
   "type": "tag",
   "slug": "swift",
   "date": "2014-10-10T10:57:37",

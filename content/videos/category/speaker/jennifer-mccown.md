@@ -1,5 +1,8 @@
 {
   "title": "Jennifer McCown",
+  "tags": [
+    "Jennifer McCown"
+  ],
   "type": "speaker",
   "slug": "jennifer-mccown",
   "date": "2019-07-13T13:57:43",

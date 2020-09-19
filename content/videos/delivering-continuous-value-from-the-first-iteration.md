@@ -1,6 +1,9 @@
 {
   "title": "Delivering Continuous Value from the First Iteration",
   "type": "recording",
+  "tags": [
+    "Continuous Delivery"
+  ],
   "date": "2017-07-20T14:20:01",
   "draft": false,
   "slug": "delivering-continuous-value-from-the-first-iteration",
@@ -16,7 +19,7 @@
       "count": 22
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Continuous Delivery",
       "slug": "continuous-delivery",

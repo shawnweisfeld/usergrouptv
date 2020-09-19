@@ -1,6 +1,9 @@
 {
   "title": "Learn SQL Backups and Master SQL Restores",
   "type": "recording",
+  "tags": [
+    "SQL Backup"
+  ],
   "date": "2017-10-14T11:45:47",
   "draft": false,
   "slug": "learn-sql-backups-and-master-sql-restores",
@@ -16,7 +19,7 @@
       "count": 18
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Backup",
       "slug": "sql-backup",

@@ -1,5 +1,8 @@
 {
   "title": "Mohammad Darab",
+  "tags": [
+    "Mohammad Darab"
+  ],
   "type": "speaker",
   "slug": "mohammad-darab",
   "date": "2018-05-19T23:07:04",

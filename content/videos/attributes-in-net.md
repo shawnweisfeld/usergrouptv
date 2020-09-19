@@ -1,6 +1,9 @@
 {
   "title": "Attributes in .NET",
   "type": "recording",
+  "tags": [
+    "Attributes"
+  ],
   "date": "2011-10-11T02:58:12",
   "draft": false,
   "slug": "attributes-in-net",
@@ -16,7 +19,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Attributes",
       "slug": "attributes",

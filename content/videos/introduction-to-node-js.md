@@ -1,6 +1,9 @@
 {
   "title": "Introduction to Node.js",
   "type": "recording",
+  "tags": [
+    "Node.js"
+  ],
   "date": "2013-10-11T21:26:14",
   "draft": false,
   "slug": "introduction-to-node-js",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Node.js",
       "slug": "node-js",

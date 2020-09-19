@@ -1,5 +1,8 @@
 {
   "title": "Breandan Considine",
+  "tags": [
+    "Breandan Considine"
+  ],
   "type": "speaker",
   "slug": "breandan-considine",
   "date": "2014-09-13T23:41:44",

@@ -1,5 +1,8 @@
 {
   "title": "Automation",
+  "tags": [
+    "Automation"
+  ],
   "type": "tag",
   "slug": "automation",
   "date": "2017-10-06T22:12:55",

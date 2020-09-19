@@ -1,9 +1,9 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2020-09-18T19:10:24.1852628Z",
+  "date": "2020-09-19T14:36:24.8897882Z",
   "draft": false,
-  "tags": [
+  "ugtvtags": [
     {
       "title": ".net",
       "slug": "net",

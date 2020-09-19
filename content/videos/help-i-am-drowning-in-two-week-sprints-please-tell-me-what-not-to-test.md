@@ -1,6 +1,9 @@
 {
   "title": "Help! I Am Drowning in Two-Week Sprints...Please Tell Me What NOT to Test!",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2019-10-04T16:36:12",
   "draft": false,
   "slug": "help-i-am-drowning-in-two-week-sprints-please-tell-me-what-not-to-test",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

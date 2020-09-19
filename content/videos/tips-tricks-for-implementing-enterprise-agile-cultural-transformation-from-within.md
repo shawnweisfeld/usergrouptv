@@ -1,6 +1,9 @@
 {
   "title": "Tips & Tricks for Implementing Enterprise Agile Cultural Transformation - From Within!",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2018-05-24T16:49:12",
   "draft": false,
   "slug": "tips-tricks-for-implementing-enterprise-agile-cultural-transformation-from-within",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

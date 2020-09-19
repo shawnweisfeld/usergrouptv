@@ -1,6 +1,9 @@
 {
   "title": "Using Nodejs",
   "type": "recording",
+  "tags": [
+    "Nodejs"
+  ],
   "date": "2012-06-09T10:34:54",
   "draft": false,
   "slug": "using-nodejs",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Nodejs",
       "slug": "nodejs",

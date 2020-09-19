@@ -1,5 +1,8 @@
 {
   "title": "Landy Bible",
+  "tags": [
+    "Landy Bible"
+  ],
   "type": "speaker",
   "slug": "landy-bible",
   "date": "2017-07-21T14:03:32",

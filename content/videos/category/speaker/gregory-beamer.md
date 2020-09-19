@@ -1,5 +1,8 @@
 {
   "title": "Gregory Beamer",
+  "tags": [
+    "Gregory Beamer"
+  ],
   "type": "speaker",
   "slug": "gregory-beamer",
   "date": "2013-09-09T02:34:44",

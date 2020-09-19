@@ -1,5 +1,8 @@
 {
   "title": "Jay Spears",
+  "tags": [
+    "Jay Spears"
+  ],
   "type": "speaker",
   "slug": "jay-spears",
   "date": "2011-02-25T14:25:07",

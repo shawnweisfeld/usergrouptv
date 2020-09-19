@@ -1,5 +1,8 @@
 {
   "title": "Developer",
+  "tags": [
+    "Developer"
+  ],
   "type": "tag",
   "slug": "developer",
   "date": "2019-07-08T13:36:37",

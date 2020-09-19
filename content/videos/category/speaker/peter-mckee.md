@@ -1,5 +1,8 @@
 {
   "title": "Peter McKee",
+  "tags": [
+    "Peter McKee"
+  ],
   "type": "speaker",
   "slug": "peter-mckee",
   "date": "2016-09-24T19:56:29",

@@ -1,5 +1,8 @@
 {
   "title": "Dress for Success",
+  "tags": [
+    "Dress for Success"
+  ],
   "type": "tag",
   "slug": "dress-for-success",
   "date": "2017-08-05T17:18:19",

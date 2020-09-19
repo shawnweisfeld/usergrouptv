@@ -1,6 +1,9 @@
 {
   "title": "Change Tracking: A Near Bullet-Proof ETL Synchronization Control",
   "type": "recording",
+  "tags": [
+    "SQL Change Tracking"
+  ],
   "date": "2016-05-14T12:20:47",
   "draft": false,
   "slug": "change-tracking-a-near-bullet-proof-etl-synchronization-control",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Change Tracking",
       "slug": "sql-change-tracking",

@@ -1,6 +1,9 @@
 {
   "title": "Javascript Task Runner Ultimate Marathon",
   "type": "recording",
+  "tags": [
+    "JavaScript"
+  ],
   "date": "2014-05-16T10:06:46",
   "draft": false,
   "slug": "javascript-task-runner-ultimate-marathon",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "JavaScript",
       "slug": "javascript",

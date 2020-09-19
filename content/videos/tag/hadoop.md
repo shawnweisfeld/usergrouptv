@@ -1,5 +1,8 @@
 {
   "title": "Hadoop",
+  "tags": [
+    "Hadoop"
+  ],
   "type": "tag",
   "slug": "hadoop",
   "date": "2014-05-03T19:42:00",

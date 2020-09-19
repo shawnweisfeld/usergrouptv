@@ -1,6 +1,9 @@
 {
   "title": "HierarchyID CLR Data Type",
   "type": "recording",
+  "tags": [
+    "HierarchyID"
+  ],
   "date": "2011-11-02T02:07:51",
   "draft": false,
   "slug": "hierarchyid-clr-data-type",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "HierarchyID",
       "slug": "hierarchyid",

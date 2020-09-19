@@ -1,6 +1,10 @@
 {
   "title": "0 to 60 with Highway.Data",
   "type": "recording",
+  "tags": [
+    "EF",
+    "Highway.Data"
+  ],
   "date": "2012-08-24T12:56:03",
   "draft": false,
   "slug": "0-to-60-with-highway-data",
@@ -16,7 +20,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "EF",
       "slug": "ef",

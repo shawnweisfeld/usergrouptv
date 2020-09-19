@@ -1,6 +1,9 @@
 {
   "title": "Redis",
   "type": "recording",
+  "tags": [
+    "Redis"
+  ],
   "date": "2014-09-26T19:18:53",
   "draft": false,
   "slug": "redis",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Redis",
       "slug": "redis",

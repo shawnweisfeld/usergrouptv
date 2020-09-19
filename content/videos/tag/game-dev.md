@@ -1,5 +1,8 @@
 {
   "title": "Game Dev",
+  "tags": [
+    "Game Dev"
+  ],
   "type": "tag",
   "slug": "game-dev",
   "date": "2014-09-26T19:11:26",

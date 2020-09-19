@@ -1,6 +1,9 @@
 {
   "title": "Agile Database Design",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2018-09-29T15:09:55",
   "draft": false,
   "slug": "agile-database-design",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

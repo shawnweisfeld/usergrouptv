@@ -1,5 +1,8 @@
 {
   "title": "Zain Naboulsi",
+  "tags": [
+    "Zain Naboulsi"
+  ],
   "type": "speaker",
   "slug": "zain-naboulsi",
   "date": "2012-01-24T01:19:35",

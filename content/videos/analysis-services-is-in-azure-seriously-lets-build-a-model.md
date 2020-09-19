@@ -1,6 +1,10 @@
 {
   "title": "Analysis Services is in Azure? Seriously!? Let's build a model!",
   "type": "recording",
+  "tags": [
+    "Azure",
+    "SSAS"
+  ],
   "date": "2017-06-17T14:06:27",
   "draft": false,
   "slug": "analysis-services-is-in-azure-seriously-lets-build-a-model",
@@ -16,7 +20,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

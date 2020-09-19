@@ -1,6 +1,11 @@
 {
   "title": "Amazon Web Services vs. Rackspace vs. Azure Smackdown",
   "type": "recording",
+  "tags": [
+    "Azure",
+    "AWS",
+    "Rackspace"
+  ],
   "date": "2012-08-24T00:31:30",
   "draft": false,
   "slug": "amazon-web-services-vs-rackspace-vs-azure-smackdown",
@@ -16,7 +21,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

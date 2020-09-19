@@ -1,5 +1,8 @@
 {
   "title": "JavaScript",
+  "tags": [
+    "JavaScript"
+  ],
   "type": "tag",
   "slug": "javascript",
   "date": "2015-10-16T02:02:53",

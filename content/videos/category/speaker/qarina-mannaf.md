@@ -1,5 +1,8 @@
 {
   "title": "Qarina Mannaf",
+  "tags": [
+    "Qarina Mannaf"
+  ],
   "type": "speaker",
   "slug": "qarina-mannaf",
   "date": "2018-09-29T15:23:52",

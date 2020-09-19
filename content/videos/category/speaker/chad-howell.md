@@ -1,5 +1,8 @@
 {
   "title": "Chad Howell",
+  "tags": [
+    "Chad Howell"
+  ],
   "type": "speaker",
   "slug": "chad-howell",
   "date": "2015-09-26T12:23:43",

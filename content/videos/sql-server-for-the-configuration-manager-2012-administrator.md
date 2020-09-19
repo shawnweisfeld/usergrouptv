@@ -1,6 +1,9 @@
 {
   "title": "SQL Server for the Configuration Manager 2012 administrator",
   "type": "recording",
+  "tags": [
+    "SQL Config Man"
+  ],
   "date": "2015-09-08T11:59:04",
   "draft": false,
   "slug": "sql-server-for-the-configuration-manager-2012-administrator",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Config Man",
       "slug": "sql-config-man",

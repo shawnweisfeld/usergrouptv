@@ -1,6 +1,9 @@
 {
   "title": "EntityFramework 360: Getting Started",
   "type": "recording",
+  "tags": [
+    "EF"
+  ],
   "date": "2011-08-12T19:51:33",
   "draft": false,
   "slug": "entityframework-360-getting-started",
@@ -16,7 +19,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "EF",
       "slug": "ef",

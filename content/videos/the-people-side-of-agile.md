@@ -1,6 +1,9 @@
 {
   "title": "The People Side of Agile",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2012-02-17T15:15:29",
   "draft": false,
   "slug": "the-people-side-of-agile",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

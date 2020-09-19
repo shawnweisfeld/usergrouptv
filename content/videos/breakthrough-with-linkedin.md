@@ -1,6 +1,9 @@
 {
   "title": "Breakthrough with LinkedIn",
   "type": "recording",
+  "tags": [
+    "LinkedIn"
+  ],
   "date": "2017-08-04T14:21:01",
   "draft": false,
   "slug": "breakthrough-with-linkedin",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "LinkedIn",
       "slug": "linkedin",

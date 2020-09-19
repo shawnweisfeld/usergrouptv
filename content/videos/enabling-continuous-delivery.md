@@ -1,6 +1,9 @@
 {
   "title": "Enabling Continuous Delivery",
   "type": "recording",
+  "tags": [
+    "Continuous Delivery"
+  ],
   "date": "2015-09-26T12:13:11",
   "draft": false,
   "slug": "enabling-continuous-delivery",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Continuous Delivery",
       "slug": "continuous-delivery",

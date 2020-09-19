@@ -1,5 +1,8 @@
 {
   "title": "AR",
+  "tags": [
+    "AR"
+  ],
   "type": "tag",
   "slug": "ar",
   "date": "2018-10-13T14:19:01",

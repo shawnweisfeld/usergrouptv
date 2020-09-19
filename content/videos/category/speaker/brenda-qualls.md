@@ -1,5 +1,8 @@
 {
   "title": "Brenda Qualls",
+  "tags": [
+    "Brenda Qualls"
+  ],
   "type": "speaker",
   "slug": "brenda-qualls",
   "date": "2017-10-06T22:07:05",

@@ -1,6 +1,9 @@
 {
   "title": "Building Micro Services with Service Fabric",
   "type": "recording",
+  "tags": [
+    "Service Fabirc"
+  ],
   "date": "2016-04-28T13:02:52",
   "draft": false,
   "slug": "building-micro-services-with-service-fabric-3",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Service Fabirc",
       "slug": "service-fabirc",

@@ -1,5 +1,8 @@
 {
   "title": "Richard Seroter",
+  "tags": [
+    "Richard Seroter"
+  ],
   "type": "speaker",
   "slug": "richard-seroter",
   "date": "2018-07-10T19:10:37",

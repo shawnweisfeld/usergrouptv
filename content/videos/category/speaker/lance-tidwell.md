@@ -1,5 +1,8 @@
 {
   "title": "Lance Tidwell",
+  "tags": [
+    "Lance Tidwell"
+  ],
   "type": "speaker",
   "slug": "lance-tidwell",
   "date": "2017-10-14T11:47:49",

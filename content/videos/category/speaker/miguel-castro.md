@@ -1,5 +1,8 @@
 {
   "title": "Miguel Castro",
+  "tags": [
+    "Miguel Castro"
+  ],
   "type": "speaker",
   "slug": "miguel-castro",
   "date": "2016-05-18T11:34:04",

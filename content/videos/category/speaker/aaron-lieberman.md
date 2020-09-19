@@ -1,5 +1,8 @@
 {
   "title": "Aaron Lieberman",
+  "tags": [
+    "Aaron Lieberman"
+  ],
   "type": "speaker",
   "slug": "aaron-lieberman",
   "date": "2020-09-15T17:47:45",

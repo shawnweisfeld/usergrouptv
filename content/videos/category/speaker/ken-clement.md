@@ -1,5 +1,8 @@
 {
   "title": "Ken Clement",
+  "tags": [
+    "Ken Clement"
+  ],
   "type": "speaker",
   "slug": "ken-clement",
   "date": "2016-05-14T12:34:16",

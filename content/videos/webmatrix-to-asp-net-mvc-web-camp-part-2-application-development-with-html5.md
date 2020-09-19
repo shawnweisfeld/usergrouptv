@@ -1,6 +1,9 @@
 {
   "title": "WebMatrix to ASP.NET MVC Web Camp: Part 2 - Application Development with HTML5",
   "type": "recording",
+  "tags": [
+    "HTML5"
+  ],
   "date": "2011-05-16T00:54:30",
   "draft": false,
   "slug": "webmatrix-to-asp-net-mvc-web-camp-part-2-application-development-with-html5",
@@ -22,7 +25,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "HTML5",
       "slug": "html5",

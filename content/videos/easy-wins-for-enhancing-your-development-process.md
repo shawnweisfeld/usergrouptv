@@ -1,6 +1,9 @@
 {
   "title": "Easy Wins for Enhancing Your Development Process",
   "type": "recording",
+  "tags": [
+    "DevOps"
+  ],
   "date": "2015-09-26T12:06:35",
   "draft": false,
   "slug": "easy-wins-for-enhancing-your-development-process",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "DevOps",
       "slug": "devops",

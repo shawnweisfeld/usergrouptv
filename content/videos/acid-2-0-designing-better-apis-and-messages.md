@@ -1,6 +1,9 @@
 {
   "title": "ACID 2.0: Designing Better APIs and Messages",
   "type": "recording",
+  "tags": [
+    "ACID"
+  ],
   "date": "2020-05-14T12:03:20",
   "draft": false,
   "slug": "acid-2-0-designing-better-apis-and-messages",
@@ -16,7 +19,7 @@
       "count": 22
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "ACID",
       "slug": "acid",

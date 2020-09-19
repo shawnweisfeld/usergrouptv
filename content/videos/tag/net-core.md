@@ -1,5 +1,8 @@
 {
   "title": ".NET Core",
+  "tags": [
+    ".NET Core"
+  ],
   "type": "tag",
   "slug": "net-core",
   "date": "2020-05-26T14:03:48",

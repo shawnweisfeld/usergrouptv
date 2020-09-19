@@ -1,6 +1,9 @@
 {
   "title": "An Introduction To Micronaut",
   "type": "recording",
+  "tags": [
+    "Micronaut"
+  ],
   "date": "2018-11-15T16:56:12",
   "draft": false,
   "slug": "an-introduction-to-micronaut",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Micronaut",
       "slug": "micronaut",

@@ -1,6 +1,9 @@
 {
   "title": "Silverlight Testing Extravaganza! ",
   "type": "recording",
+  "tags": [
+    "Testing"
+  ],
   "date": "2011-04-11T22:14:37",
   "draft": false,
   "slug": "silverlight-testing-extravaganza",
@@ -22,7 +25,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Testing",
       "slug": "testing",

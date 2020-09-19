@@ -1,6 +1,9 @@
 {
   "title": "Azure SQL Database - Lessons learned from the trenches",
   "type": "recording",
+  "tags": [
+    "Azure SQL Database"
+  ],
   "date": "2017-03-04T22:12:22",
   "draft": false,
   "slug": "azure-sql-database-lessons-learned-from-the-trenches",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure SQL Database",
       "slug": "azure-sql-database",

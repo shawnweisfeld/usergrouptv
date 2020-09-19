@@ -1,6 +1,10 @@
 {
   "title": "WHY NOT SCRUM, WHY NOT KANBAN",
   "type": "recording",
+  "tags": [
+    "Scrum",
+    "Kanban"
+  ],
   "date": "2014-08-24T18:03:23",
   "draft": false,
   "slug": "why-not-scrum-why-not-kanban",
@@ -16,7 +20,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Scrum",
       "slug": "scrum",

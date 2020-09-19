@@ -1,5 +1,8 @@
 {
   "title": "Claudio Lassala",
+  "tags": [
+    "Claudio Lassala"
+  ],
   "type": "speaker",
   "slug": "claudio-lassala",
   "date": "2018-09-30T14:45:11",

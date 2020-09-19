@@ -1,5 +1,8 @@
 {
   "title": "Nhan Nguyen",
+  "tags": [
+    "Nhan Nguyen"
+  ],
   "type": "speaker",
   "slug": "nhan-nguyen",
   "date": "2018-09-29T15:22:32",

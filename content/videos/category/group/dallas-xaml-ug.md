@@ -1,6 +1,9 @@
 {
   "title": "Dallas XAML UG",
   "type": "meetup",
+  "tags": [
+    "Dallas XAML UG"
+  ],
   "slug": "dallas-xaml-ug",
   "date": "2013-06-04T15:27:08",
   "draft": false,

@@ -1,6 +1,9 @@
 {
   "title": "VNext Dallas",
   "type": "meetup",
+  "tags": [
+    "VNext Dallas"
+  ],
   "slug": "vnext-dallas",
   "date": "2012-05-24T11:20:32",
   "draft": false,

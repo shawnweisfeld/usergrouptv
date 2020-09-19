@@ -1,6 +1,9 @@
 {
   "title": "Bring Your Own Tools - ASP.NET vNext Goes Cross-Platform",
   "type": "recording",
+  "tags": [
+    "ASP.NET vNext"
+  ],
   "date": "2014-10-09T10:51:49",
   "draft": false,
   "slug": "bring-your-own-tools-asp-net-vnext-goes-cross-platform",
@@ -16,7 +19,7 @@
       "count": 12
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "ASP.NET vNext",
       "slug": "asp-net-vnext",

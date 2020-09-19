@@ -1,6 +1,9 @@
 {
   "title": "Stored procedure tracing using the xml datatype",
   "type": "recording",
+  "tags": [
+    "XML"
+  ],
   "date": "2011-04-02T21:57:55",
   "draft": false,
   "slug": "stored-procedure-tracing-using-the-xml-datatype",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "XML",
       "slug": "xml",

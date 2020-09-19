@@ -1,6 +1,9 @@
 {
   "title": "Getting Started with Geo Location",
   "type": "recording",
+  "tags": [
+    "Geo Location"
+  ],
   "date": "2011-04-14T22:43:38",
   "draft": false,
   "slug": "getting-started-with-geo-location",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Geo Location",
       "slug": "geo-location",

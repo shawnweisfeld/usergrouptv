@@ -1,6 +1,9 @@
 {
   "title": "DEVOPS VS RAIDS : HOW DEVOPS IS LIKE AN MMO",
   "type": "recording",
+  "tags": [
+    "DevOps"
+  ],
   "date": "2017-08-05T17:15:33",
   "draft": false,
   "slug": "devops-vs-raids-how-devops-is-like-an-mmo",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "DevOps",
       "slug": "devops",

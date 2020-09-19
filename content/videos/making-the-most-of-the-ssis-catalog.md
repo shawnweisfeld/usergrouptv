@@ -1,6 +1,9 @@
 {
   "title": "Making the Most of the SSIS Catalog",
   "type": "recording",
+  "tags": [
+    "SSIS"
+  ],
   "date": "2016-05-14T12:22:42",
   "draft": false,
   "slug": "making-the-most-of-the-ssis-catalog",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SSIS",
       "slug": "ssis",

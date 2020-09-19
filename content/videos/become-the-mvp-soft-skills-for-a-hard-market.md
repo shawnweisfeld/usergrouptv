@@ -1,6 +1,9 @@
 {
   "title": "Become the MVP: Soft Skills for a Hard Market",
   "type": "recording",
+  "tags": [
+    "Career"
+  ],
   "date": "2019-06-18T15:39:15",
   "draft": false,
   "slug": "become-the-mvp-soft-skills-for-a-hard-market",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Career",
       "slug": "career",

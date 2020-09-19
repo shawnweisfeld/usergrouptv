@@ -1,5 +1,8 @@
 {
   "title": "Jared Simpson",
+  "tags": [
+    "Jared Simpson"
+  ],
   "type": "speaker",
   "slug": "jared-simpson",
   "date": "2019-06-24T16:43:47",

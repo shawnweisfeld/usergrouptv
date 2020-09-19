@@ -1,5 +1,8 @@
 {
   "title": "Allen Smith",
+  "tags": [
+    "Allen Smith"
+  ],
   "type": "speaker",
   "slug": "allen-smith",
   "date": "2013-08-24T11:35:03",

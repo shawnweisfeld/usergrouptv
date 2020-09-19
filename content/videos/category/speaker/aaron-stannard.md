@@ -1,5 +1,8 @@
 {
   "title": "Aaron Stannard",
+  "tags": [
+    "Aaron Stannard"
+  ],
   "type": "speaker",
   "slug": "aaron-stannard",
   "date": "2019-04-10T20:09:06",

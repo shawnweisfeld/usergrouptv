@@ -1,5 +1,8 @@
 {
   "title": "Doug Deitel",
+  "tags": [
+    "Doug Deitel"
+  ],
   "type": "speaker",
   "slug": "doug-deitel",
   "date": "2019-09-28T16:20:11",

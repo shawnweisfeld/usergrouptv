@@ -1,6 +1,9 @@
 {
   "title": "FAKE 5",
   "type": "recording",
+  "tags": [
+    "F#"
+  ],
   "date": "2018-11-15T16:57:43",
   "draft": false,
   "slug": "fake-5",
@@ -16,7 +19,7 @@
       "count": 7
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "F#",
       "slug": "f",

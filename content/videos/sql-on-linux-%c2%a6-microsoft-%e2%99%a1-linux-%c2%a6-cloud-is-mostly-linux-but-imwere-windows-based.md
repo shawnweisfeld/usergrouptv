@@ -1,6 +1,9 @@
 {
   "title": "SQL on Linux ¦ Microsoft ? Linux ¦ Cloud is mostly Linux …… but I'm/WE're Windows based?",
   "type": "recording",
+  "tags": [
+    "sql on linux"
+  ],
   "date": "2018-06-23T19:45:03",
   "draft": false,
   "slug": "sql-on-linux-%c2%a6-microsoft-%e2%99%a1-linux-%c2%a6-cloud-is-mostly-linux-but-imwere-windows-based",
@@ -22,7 +25,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "sql on linux",
       "slug": "sql-on-linux",

@@ -1,6 +1,9 @@
 {
   "title": "Successfully Migrating Existing Databases to Azure SQL Database",
   "type": "recording",
+  "tags": [
+    "Azure SQL Database"
+  ],
   "date": "2017-10-14T11:57:23",
   "draft": false,
   "slug": "successfully-migrating-existing-databases-to-azure-sql-database",
@@ -16,7 +19,7 @@
       "count": 18
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure SQL Database",
       "slug": "azure-sql-database",

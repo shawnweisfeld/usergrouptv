@@ -1,6 +1,9 @@
 {
   "title": "Know What Your Code is Doing to SQL Server!",
   "type": "recording",
+  "tags": [
+    "Entity Framework"
+  ],
   "date": "2018-08-11T15:51:07",
   "draft": false,
   "slug": "know-what-your-code-is-doing-to-sql-server",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Entity Framework",
       "slug": "entity-framework",

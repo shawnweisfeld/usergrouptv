@@ -1,6 +1,9 @@
 {
   "title": "Microservices - The new golden hammer!",
   "type": "recording",
+  "tags": [
+    "Microservices"
+  ],
   "date": "2016-09-24T19:56:29",
   "draft": false,
   "slug": "microservices-the-new-golden-hammer",
@@ -40,7 +43,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Microservices",
       "slug": "microservices",

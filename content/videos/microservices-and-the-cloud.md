@@ -1,6 +1,9 @@
 {
   "title": "Microservices and the Cloud",
   "type": "recording",
+  "tags": [
+    "Microservices"
+  ],
   "date": "2017-05-23T11:07:26",
   "draft": false,
   "slug": "microservices-and-the-cloud",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Microservices",
       "slug": "microservices",

@@ -1,6 +1,9 @@
 {
   "title": "UserGroup.tv Windows 8 Edition – A tale of a developer, an app, Windows 8, and a store ",
   "type": "recording",
+  "tags": [
+    "win8"
+  ],
   "date": "2012-12-05T16:17:40",
   "draft": false,
   "slug": "usergroup-tv-windows-8-edition-a-tale-of-a-developer-an-app-windows-8-and-a-store",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "win8",
       "slug": "win8",

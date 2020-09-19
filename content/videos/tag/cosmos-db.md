@@ -1,5 +1,8 @@
 {
   "title": "Cosmos DB",
+  "tags": [
+    "Cosmos DB"
+  ],
   "type": "tag",
   "slug": "cosmos-db",
   "date": "2019-07-18T13:08:59",

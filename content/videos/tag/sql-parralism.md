@@ -1,5 +1,8 @@
 {
   "title": "SQL Parralism",
+  "tags": [
+    "SQL Parralism"
+  ],
   "type": "tag",
   "slug": "sql-parralism",
   "date": "2011-04-02T22:01:13",

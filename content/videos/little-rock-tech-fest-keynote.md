@@ -1,6 +1,9 @@
 {
   "title": "Little Rock Tech Fest Keynote",
   "type": "recording",
+  "tags": [
+    "Keynote"
+  ],
   "date": "2015-10-16T02:21:20",
   "draft": false,
   "slug": "little-rock-tech-fest-keynote",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Keynote",
       "slug": "keynote",

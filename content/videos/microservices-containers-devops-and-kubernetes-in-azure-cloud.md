@@ -1,6 +1,9 @@
 {
   "title": "Microservices , Containers, Devops and Kubernetes in Azure Cloud ",
   "type": "recording",
+  "tags": [
+    "K8S"
+  ],
   "date": "2018-04-21T13:08:30",
   "draft": false,
   "slug": "microservices-containers-devops-and-kubernetes-in-azure-cloud",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "K8S",
       "slug": "k8s",

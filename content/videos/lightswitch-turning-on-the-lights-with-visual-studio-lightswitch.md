@@ -1,6 +1,9 @@
 {
   "title": "LightSwitch: Turning on the lights with Visual Studio LightSwitch",
   "type": "recording",
+  "tags": [
+    "LightSwitch"
+  ],
   "date": "2011-04-19T23:08:24",
   "draft": false,
   "slug": "lightswitch-turning-on-the-lights-with-visual-studio-lightswitch",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "LightSwitch",
       "slug": "lightswitch",

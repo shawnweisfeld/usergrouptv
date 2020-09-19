@@ -1,5 +1,8 @@
 {
   "title": "Ryan Riley",
+  "tags": [
+    "Ryan Riley"
+  ],
   "type": "speaker",
   "slug": "ryan-riley",
   "date": "2012-09-08T00:51:39",

@@ -1,6 +1,9 @@
 {
   "title": "Introduction to SQL CLR",
   "type": "recording",
+  "tags": [
+    "SQL CLR"
+  ],
   "date": "2011-04-02T22:05:23",
   "draft": false,
   "slug": "introduction-to-sql-clr",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL CLR",
       "slug": "sql-clr",

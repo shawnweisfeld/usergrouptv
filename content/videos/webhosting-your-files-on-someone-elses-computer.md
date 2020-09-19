@@ -1,6 +1,9 @@
 {
   "title": "Webhosting: Your Files on Someone Else's Computer",
   "type": "recording",
+  "tags": [
+    "Webhosting"
+  ],
   "date": "2017-08-05T14:30:29",
   "draft": false,
   "slug": "webhosting-your-files-on-someone-elses-computer",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Webhosting",
       "slug": "webhosting",

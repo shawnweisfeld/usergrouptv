@@ -1,5 +1,8 @@
 {
   "title": "SSRS",
+  "tags": [
+    "SSRS"
+  ],
   "type": "tag",
   "slug": "ssrs",
   "date": "2016-05-14T12:23:45",

@@ -1,5 +1,8 @@
 {
   "title": "Bash",
+  "tags": [
+    "Bash"
+  ],
   "type": "tag",
   "slug": "bash",
   "date": "2016-05-31T11:11:39",

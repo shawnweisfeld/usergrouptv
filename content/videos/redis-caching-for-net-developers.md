@@ -1,6 +1,9 @@
 {
   "title": "Redis - Caching for .NET Developers",
   "type": "recording",
+  "tags": [
+    "Redis"
+  ],
   "date": "2014-12-16T17:57:15",
   "draft": false,
   "slug": "redis-caching-for-net-developers",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Redis",
       "slug": "redis",

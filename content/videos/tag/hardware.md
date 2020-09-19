@@ -1,5 +1,8 @@
 {
   "title": "hardware",
+  "tags": [
+    "hardware"
+  ],
   "type": "tag",
   "slug": "hardware",
   "date": "2012-09-08T14:46:15",

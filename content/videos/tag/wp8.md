@@ -1,5 +1,8 @@
 {
   "title": "wp8",
+  "tags": [
+    "wp8"
+  ],
   "type": "tag",
   "slug": "wp8",
   "date": "2013-09-28T02:41:25",

@@ -1,6 +1,9 @@
 {
   "title": "Making Agile Work on Large, Complex Projects",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2013-12-06T13:07:49",
   "draft": false,
   "slug": "making-agile-work-on-large-complex-projects",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

@@ -1,5 +1,8 @@
 {
   "title": "Ryan Rousseau",
+  "tags": [
+    "Ryan Rousseau"
+  ],
   "type": "speaker",
   "slug": "ryan-rousseau",
   "date": "2014-09-26T19:06:18",

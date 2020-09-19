@@ -1,6 +1,9 @@
 {
   "title": "That's bad mkay!",
   "type": "recording",
+  "tags": [
+    "SQL Performance"
+  ],
   "date": "2018-05-19T22:43:11",
   "draft": false,
   "slug": "thats-bad-mkay",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Performance",
       "slug": "sql-performance",

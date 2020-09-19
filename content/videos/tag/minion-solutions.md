@@ -1,5 +1,8 @@
 {
   "title": "Minion Solutions",
+  "tags": [
+    "Minion Solutions"
+  ],
   "type": "tag",
   "slug": "minion-solutions",
   "date": "2015-08-29T14:18:04",

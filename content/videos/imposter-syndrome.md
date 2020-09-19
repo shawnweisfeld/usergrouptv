@@ -1,6 +1,9 @@
 {
   "title": "Imposter Syndrome",
   "type": "recording",
+  "tags": [
+    "Imposter Syndrome"
+  ],
   "date": "2017-10-14T11:58:32",
   "draft": false,
   "slug": "imposter-syndrome",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Imposter Syndrome",
       "slug": "imposter-syndrome",

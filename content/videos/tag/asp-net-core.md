@@ -1,5 +1,8 @@
 {
   "title": "ASP.NET Core",
+  "tags": [
+    "ASP.NET Core"
+  ],
   "type": "tag",
   "slug": "asp-net-core",
   "date": "2019-08-12T14:12:57",

@@ -1,6 +1,9 @@
 {
   "title": "Building Augmented Reality Apps Using ARKit for iOS",
   "type": "recording",
+  "tags": [
+    "ARKit"
+  ],
   "date": "2017-10-14T11:37:59",
   "draft": false,
   "slug": "building-augmented-reality-apps-using-arkit-for-ios",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "ARKit",
       "slug": "arkit",

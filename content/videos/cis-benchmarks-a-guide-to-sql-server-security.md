@@ -1,6 +1,9 @@
 {
   "title": "CIS Benchmarks – A Guide to SQL Server Security",
   "type": "recording",
+  "tags": [
+    "SQL Security"
+  ],
   "date": "2015-01-31T23:00:11",
   "draft": false,
   "slug": "cis-benchmarks-a-guide-to-sql-server-security",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Security",
       "slug": "sql-security",

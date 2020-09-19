@@ -1,6 +1,9 @@
 {
   "title": "Agile, Agile: Operational Execution and Excellence in an Insanely Unsettled and Dynamic Environment",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2018-05-24T16:45:58",
   "draft": false,
   "slug": "agile-agile-operational-execution-and-excellence-in-an-insanely-unsettled-and-dynamic-environment",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

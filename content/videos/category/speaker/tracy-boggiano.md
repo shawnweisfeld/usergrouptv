@@ -1,5 +1,8 @@
 {
   "title": "Tracy Boggiano",
+  "tags": [
+    "Tracy Boggiano"
+  ],
   "type": "speaker",
   "slug": "tracy-boggiano",
   "date": "2020-02-08T16:12:39",

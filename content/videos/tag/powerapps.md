@@ -1,5 +1,8 @@
 {
   "title": "PowerApps",
+  "tags": [
+    "PowerApps"
+  ],
   "type": "tag",
   "slug": "powerapps",
   "date": "2019-11-13T17:25:35",

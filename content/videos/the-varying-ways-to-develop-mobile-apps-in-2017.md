@@ -1,6 +1,9 @@
 {
   "title": "The Varying Ways to Develop Mobile Apps in 2017",
   "type": "recording",
+  "tags": [
+    "Mobile Dev"
+  ],
   "date": "2017-07-21T14:16:01",
   "draft": false,
   "slug": "the-varying-ways-to-develop-mobile-apps-in-2017",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Mobile Dev",
       "slug": "mobile-dev",

@@ -1,6 +1,9 @@
 {
   "title": "Closing the Business/IT Gap",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2012-02-17T14:43:39",
   "draft": false,
   "slug": "closing-the-businessit-gap",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

@@ -1,5 +1,8 @@
 {
   "title": "Code Generation",
+  "tags": [
+    "Code Generation"
+  ],
   "type": "tag",
   "slug": "code-generation",
   "date": "2011-11-22T14:33:47",

@@ -1,6 +1,9 @@
 {
   "title": "SHAREPOINT ONLINE HUB SITES",
   "type": "recording",
+  "tags": [
+    "Sharepoint"
+  ],
   "date": "2018-04-11T20:58:52",
   "draft": false,
   "slug": "sharepoint-online-hub-sites",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Sharepoint",
       "slug": "sharepoint",

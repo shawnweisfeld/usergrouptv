@@ -1,5 +1,8 @@
 {
   "title": "Eric Leaseburg",
+  "tags": [
+    "Eric Leaseburg"
+  ],
   "type": "speaker",
   "slug": "eric-leaseburg",
   "date": "2012-01-28T15:36:29",

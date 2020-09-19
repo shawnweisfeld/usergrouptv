@@ -1,5 +1,8 @@
 {
   "title": "Joe Celko",
+  "tags": [
+    "Joe Celko"
+  ],
   "type": "speaker",
   "slug": "joe-celko",
   "date": "2019-07-13T13:58:57",

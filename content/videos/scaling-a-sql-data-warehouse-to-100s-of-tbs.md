@@ -1,6 +1,9 @@
 {
   "title": "Scaling a SQL Data Warehouse to 100s of TBs",
   "type": "recording",
+  "tags": [
+    "Data Warehouse"
+  ],
   "date": "2013-08-24T22:26:50",
   "draft": false,
   "slug": "scaling-a-sql-data-warehouse-to-100s-of-tbs",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Data Warehouse",
       "slug": "data-warehouse",

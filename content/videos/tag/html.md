@@ -1,5 +1,8 @@
 {
   "title": "HTML",
+  "tags": [
+    "HTML"
+  ],
   "type": "tag",
   "slug": "html",
   "date": "2011-12-03T23:54:35",

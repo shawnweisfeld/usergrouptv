@@ -1,6 +1,9 @@
 {
   "title": "Real Life IoT - Principles for Success",
   "type": "recording",
+  "tags": [
+    "IOT"
+  ],
   "date": "2017-10-05T21:45:34",
   "draft": false,
   "slug": "real-life-iot-principles-for-success",
@@ -22,7 +25,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "IOT",
       "slug": "iot",

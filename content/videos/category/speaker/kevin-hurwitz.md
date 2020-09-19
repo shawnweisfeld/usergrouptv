@@ -1,5 +1,8 @@
 {
   "title": "Kevin Hurwitz",
+  "tags": [
+    "Kevin Hurwitz"
+  ],
   "type": "speaker",
   "slug": "kevin-hurwitz",
   "date": "2015-09-26T11:57:13",

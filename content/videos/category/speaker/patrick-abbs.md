@@ -1,5 +1,8 @@
 {
   "title": "Patrick Abbs",
+  "tags": [
+    "Patrick Abbs"
+  ],
   "type": "speaker",
   "slug": "patrick-abbs",
   "date": "2014-08-11T11:36:15",

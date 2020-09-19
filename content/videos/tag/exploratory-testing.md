@@ -1,5 +1,8 @@
 {
   "title": "Exploratory Testing",
+  "tags": [
+    "Exploratory Testing"
+  ],
   "type": "tag",
   "slug": "exploratory-testing",
   "date": "2017-10-05T22:03:20",

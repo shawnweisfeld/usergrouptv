@@ -1,6 +1,9 @@
 {
   "title": "Beyond Monoliths and Microservices",
   "type": "recording",
+  "tags": [
+    "Microservices"
+  ],
   "date": "2018-05-05T15:59:55",
   "draft": false,
   "slug": "beyond-monoliths-and-microservices",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Microservices",
       "slug": "microservices",

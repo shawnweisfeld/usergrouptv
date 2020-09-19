@@ -1,5 +1,8 @@
 {
   "title": "John Teague",
+  "tags": [
+    "John Teague"
+  ],
   "type": "speaker",
   "slug": "john-teague",
   "date": "2012-06-09T10:34:54",

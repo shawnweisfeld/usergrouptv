@@ -1,6 +1,9 @@
 {
   "title": "Web Components: A simpler and faster React",
   "type": "recording",
+  "tags": [
+    "Web Components"
+  ],
   "date": "2017-10-05T21:53:05",
   "draft": false,
   "slug": "web-components-a-simpler-and-faster-react",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Web Components",
       "slug": "web-components",

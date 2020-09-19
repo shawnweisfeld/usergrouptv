@@ -1,6 +1,9 @@
 {
   "title": "Node.js",
   "type": "recording",
+  "tags": [
+    "Nodejs"
+  ],
   "date": "2013-02-13T20:19:03",
   "draft": false,
   "slug": "node-js",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Nodejs",
       "slug": "nodejs",

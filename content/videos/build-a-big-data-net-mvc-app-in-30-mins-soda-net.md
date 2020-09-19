@@ -1,6 +1,9 @@
 {
   "title": "Build a Big Data .Net MVC App in 30 mins - SODA.net",
   "type": "recording",
+  "tags": [
+    "SODA.net"
+  ],
   "date": "2017-10-06T16:13:09",
   "draft": false,
   "slug": "build-a-big-data-net-mvc-app-in-30-mins-soda-net",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SODA.net",
       "slug": "soda-net",

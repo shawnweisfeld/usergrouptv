@@ -1,5 +1,8 @@
 {
   "title": "Lisa Anderson",
+  "tags": [
+    "Lisa Anderson"
+  ],
   "type": "speaker",
   "slug": "lisa-anderson",
   "date": "2017-10-05T21:48:47",

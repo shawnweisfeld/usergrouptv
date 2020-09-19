@@ -1,5 +1,8 @@
 {
   "title": "John Weston",
+  "tags": [
+    "John Weston"
+  ],
   "type": "speaker",
   "slug": "john-weston",
   "date": "2011-08-13T20:14:51",

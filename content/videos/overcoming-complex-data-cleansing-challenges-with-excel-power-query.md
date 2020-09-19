@@ -1,6 +1,9 @@
 {
   "title": "Overcoming Complex Data Cleansing Challenges with Excel Power Query",
   "type": "recording",
+  "tags": [
+    "Power Query"
+  ],
   "date": "2014-05-03T19:53:02",
   "draft": false,
   "slug": "overcoming-complex-data-cleansing-challenges-with-excel-power-query",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Power Query",
       "slug": "power-query",

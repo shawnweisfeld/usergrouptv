@@ -1,6 +1,9 @@
 {
   "title": "2019 Austin Global Azure Bootcamp Opening Remarks",
   "type": "recording",
+  "tags": [
+    "Azure"
+  ],
   "date": "2019-04-27T13:38:08",
   "draft": false,
   "slug": "2019-austin-global-azure-bootcamp-opening-remarks",
@@ -9,7 +12,7 @@
   "moreinfo": "https://www.meetup.com/azureaustin/events/258070696/",
   "thumbnail": "https://i.vimeocdn.com/video/778862386_295x166.jpg",
   "speakers": [],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

@@ -1,5 +1,8 @@
 {
   "title": "Mathias Eifert",
+  "tags": [
+    "Mathias Eifert"
+  ],
   "type": "speaker",
   "slug": "mathias-eifert",
   "date": "2018-05-24T16:50:04",

@@ -1,6 +1,10 @@
 {
   "title": "Meeting: Cross-Platform Development: Let's get real",
   "type": "recording",
+  "tags": [
+    "VB.NET",
+    "cross-platform"
+  ],
   "date": "2013-01-15T21:35:39",
   "draft": false,
   "slug": "meeting-cross-platform-development-lets-get-real",
@@ -16,7 +20,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "VB.NET",
       "slug": "vb-net",

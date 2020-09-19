@@ -1,5 +1,8 @@
 {
   "title": "Polyglot",
+  "tags": [
+    "Polyglot"
+  ],
   "type": "tag",
   "slug": "polyglot",
   "date": "2017-08-04T14:22:36",

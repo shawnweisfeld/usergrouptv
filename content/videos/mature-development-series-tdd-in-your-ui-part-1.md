@@ -1,6 +1,9 @@
 {
   "title": "Mature Development Series - TDD in your UI: Part 1",
   "type": "recording",
+  "tags": [
+    "TDD"
+  ],
   "date": "2012-04-03T12:14:48",
   "draft": false,
   "slug": "mature-development-series-tdd-in-your-ui-part-1",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "TDD",
       "slug": "tdd",

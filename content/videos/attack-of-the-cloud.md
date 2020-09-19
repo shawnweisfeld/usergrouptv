@@ -1,6 +1,9 @@
 {
   "title": "Attack of the Cloud",
   "type": "recording",
+  "tags": [
+    "Cloud"
+  ],
   "date": "2011-07-26T19:38:41",
   "draft": false,
   "slug": "attack-of-the-cloud",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Cloud",
       "slug": "cloud",

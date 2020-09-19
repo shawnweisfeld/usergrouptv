@@ -1,6 +1,9 @@
 {
   "title": "Lunch Panel - Real World Agile ",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2011-02-25T14:25:07",
   "draft": false,
   "slug": "lunch-panel-real-world-agile",
@@ -34,7 +37,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

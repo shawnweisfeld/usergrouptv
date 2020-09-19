@@ -1,6 +1,9 @@
 {
   "title": "SQL in Azure 101 ",
   "type": "recording",
+  "tags": [
+    "Azure SQL Database"
+  ],
   "date": "2019-07-13T13:53:29",
   "draft": false,
   "slug": "sql-in-azure-101",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure SQL Database",
       "slug": "azure-sql-database",

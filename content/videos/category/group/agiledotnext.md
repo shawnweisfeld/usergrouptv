@@ -1,6 +1,9 @@
 {
   "title": "AgileDotNext",
   "type": "meetup",
+  "tags": [
+    "AgileDotNext"
+  ],
   "slug": "agiledotnext",
   "date": "2014-08-24T18:03:23",
   "draft": false,

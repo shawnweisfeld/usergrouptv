@@ -1,5 +1,8 @@
 {
   "title": "Michael L Perry",
+  "tags": [
+    "Michael L Perry"
+  ],
   "type": "speaker",
   "slug": "michael-l-perry",
   "date": "2020-05-14T12:03:20",

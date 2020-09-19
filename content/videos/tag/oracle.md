@@ -1,5 +1,8 @@
 {
   "title": "Oracle",
+  "tags": [
+    "Oracle"
+  ],
   "type": "tag",
   "slug": "oracle",
   "date": "2014-05-19T20:50:26",

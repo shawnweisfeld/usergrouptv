@@ -1,6 +1,9 @@
 {
   "title": "From the grave: Horror stories from the Microsoft SQL Server CSS archives",
   "type": "recording",
+  "tags": [
+    "SQL Admin"
+  ],
   "date": "2018-06-23T19:58:42",
   "draft": false,
   "slug": "from-the-grave-horror-stories-from-the-microsoft-sql-server-css-archives",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Admin",
       "slug": "sql-admin",

@@ -1,6 +1,9 @@
 {
   "title": "Conjunction junction, what's your function? (Javascript)",
   "type": "recording",
+  "tags": [
+    "JavaScript"
+  ],
   "date": "2011-09-10T03:57:08",
   "draft": false,
   "slug": "conjunction-junction-whats-your-function-javascript",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "JavaScript",
       "slug": "javascript",

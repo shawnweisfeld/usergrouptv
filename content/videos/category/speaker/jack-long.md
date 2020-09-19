@@ -1,5 +1,8 @@
 {
   "title": "Jack Long",
+  "tags": [
+    "Jack Long"
+  ],
   "type": "speaker",
   "slug": "jack-long",
   "date": "2014-08-22T17:34:02",

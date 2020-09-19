@@ -1,5 +1,8 @@
 {
   "title": "Logic Apps",
+  "tags": [
+    "Logic Apps"
+  ],
   "type": "tag",
   "slug": "logic-apps",
   "date": "2018-04-21T13:17:28",

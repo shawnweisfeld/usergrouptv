@@ -1,6 +1,9 @@
 {
   "title": "SQL Scripting",
   "type": "recording",
+  "tags": [
+    "SQL"
+  ],
   "date": "2014-09-26T19:03:43",
   "draft": false,
   "slug": "sql-scripting",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL",
       "slug": "sql",

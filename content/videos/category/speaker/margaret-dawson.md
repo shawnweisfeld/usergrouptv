@@ -1,5 +1,8 @@
 {
   "title": "Margaret Dawson",
+  "tags": [
+    "Margaret Dawson"
+  ],
   "type": "speaker",
   "slug": "margaret-dawson",
   "date": "2017-08-06T16:52:31",

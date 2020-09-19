@@ -1,6 +1,9 @@
 {
   "title": "TECHNOLOGY FOR GLOBAL IMPACT: EMERGING TECHNOLOGIES IMPACTING WOMEN AND GIRLS IN DEVELOPING COUNTRIES",
   "type": "recording",
+  "tags": [
+    "Keynote"
+  ],
   "date": "2017-08-06T16:51:00",
   "draft": false,
   "slug": "technology-for-global-impact-emerging-technologies-impacting-women-and-girls-in-developing-countries",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Keynote",
       "slug": "keynote",

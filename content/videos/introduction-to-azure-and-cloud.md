@@ -1,6 +1,9 @@
 {
   "title": "Introduction to Azure and cloud",
   "type": "recording",
+  "tags": [
+    "Azure"
+  ],
   "date": "2016-04-16T11:00:27",
   "draft": false,
   "slug": "introduction-to-azure-and-cloud",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

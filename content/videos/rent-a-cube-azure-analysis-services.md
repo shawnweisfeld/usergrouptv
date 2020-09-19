@@ -1,6 +1,9 @@
 {
   "title": "Rent-a-Cube: Azure Analysis Services",
   "type": "recording",
+  "tags": [
+    "SSAS"
+  ],
   "date": "2017-03-04T22:05:57",
   "draft": false,
   "slug": "rent-a-cube-azure-analysis-services",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SSAS",
       "slug": "ssas",

@@ -1,6 +1,9 @@
 {
   "title": "Scaling Agile - Having It YOUR Way",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2019-10-04T16:39:16",
   "draft": false,
   "slug": "scaling-agile-having-it-your-way",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

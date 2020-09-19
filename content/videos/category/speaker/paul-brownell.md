@@ -1,5 +1,8 @@
 {
   "title": "Paul Brownell",
+  "tags": [
+    "Paul Brownell"
+  ],
   "type": "speaker",
   "slug": "paul-brownell",
   "date": "2018-05-24T16:51:02",

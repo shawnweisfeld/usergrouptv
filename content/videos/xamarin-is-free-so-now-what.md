@@ -1,6 +1,9 @@
 {
   "title": "Xamarin is Free - So Now What?",
   "type": "recording",
+  "tags": [
+    "xamarin"
+  ],
   "date": "2016-09-24T19:44:06",
   "draft": false,
   "slug": "xamarin-is-free-so-now-what",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "xamarin",
       "slug": "xamarin",

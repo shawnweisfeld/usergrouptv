@@ -1,5 +1,8 @@
 {
   "title": "WCF Web API",
+  "tags": [
+    "WCF Web API"
+  ],
   "type": "tag",
   "slug": "wcf-web-api",
   "date": "2011-10-07T02:45:43",

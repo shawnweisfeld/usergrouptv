@@ -1,6 +1,9 @@
 {
   "title": "Fireball – a CLR/.NET language ",
   "type": "recording",
+  "tags": [
+    "Fireball"
+  ],
   "date": "2016-11-14T18:47:46",
   "draft": false,
   "slug": "fireball-a-clr-net-language",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Fireball",
       "slug": "fireball",

@@ -1,5 +1,8 @@
 {
   "title": "Joseph Feser",
+  "tags": [
+    "Joseph Feser"
+  ],
   "type": "speaker",
   "slug": "joseph-feser",
   "date": "2018-05-05T15:54:32",

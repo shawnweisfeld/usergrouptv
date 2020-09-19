@@ -1,5 +1,8 @@
 {
   "title": "DocuSign",
+  "tags": [
+    "DocuSign"
+  ],
   "type": "tag",
   "slug": "docusign",
   "date": "2017-05-10T20:17:08",

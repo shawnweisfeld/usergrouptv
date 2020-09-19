@@ -1,6 +1,9 @@
 {
   "title": "Beyond the Daily Stand-up: An Intro to Scrum",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2018-09-29T15:05:30",
   "draft": false,
   "slug": "beyond-the-daily-stand-up-an-intro-to-scrum",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

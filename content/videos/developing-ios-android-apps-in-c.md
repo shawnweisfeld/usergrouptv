@@ -1,6 +1,9 @@
 {
   "title": "Developing iOS & Android Apps in C#",
   "type": "recording",
+  "tags": [
+    "xamarin"
+  ],
   "date": "2015-05-31T13:36:23",
   "draft": false,
   "slug": "developing-ios-android-apps-in-c",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "xamarin",
       "slug": "xamarin",

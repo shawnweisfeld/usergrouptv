@@ -1,5 +1,8 @@
 {
   "title": "Mike Bishop",
+  "tags": [
+    "Mike Bishop"
+  ],
   "type": "speaker",
   "slug": "mike-bishop",
   "date": "2018-09-29T15:18:28",

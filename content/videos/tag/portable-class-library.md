@@ -1,5 +1,8 @@
 {
   "title": "Portable Class Library",
+  "tags": [
+    "Portable Class Library"
+  ],
   "type": "tag",
   "slug": "portable-class-library",
   "date": "2012-08-09T17:18:12",

@@ -1,5 +1,8 @@
 {
   "title": "Tim Costello",
+  "tags": [
+    "Tim Costello"
+  ],
   "type": "speaker",
   "slug": "tim-costello",
   "date": "2016-09-22T13:26:25",

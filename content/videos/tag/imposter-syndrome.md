@@ -1,5 +1,8 @@
 {
   "title": "Imposter Syndrome",
+  "tags": [
+    "Imposter Syndrome"
+  ],
   "type": "tag",
   "slug": "imposter-syndrome",
   "date": "2017-10-14T11:58:32",

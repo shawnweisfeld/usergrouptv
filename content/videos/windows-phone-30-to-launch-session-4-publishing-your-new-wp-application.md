@@ -1,6 +1,10 @@
 {
   "title": "Windows Phone 30-To-Launch: Session 4 Publishing your new WP Application!",
   "type": "recording",
+  "tags": [
+    "Windows Phone",
+    "WP7"
+  ],
   "date": "2012-02-29T01:49:54",
   "draft": false,
   "slug": "windows-phone-30-to-launch-session-4-publishing-your-new-wp-application",
@@ -16,7 +20,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Windows Phone",
       "slug": "windows-phone",

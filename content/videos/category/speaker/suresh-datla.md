@@ -1,5 +1,8 @@
 {
   "title": "Suresh Datla",
+  "tags": [
+    "Suresh Datla"
+  ],
   "type": "speaker",
   "slug": "suresh-datla",
   "date": "2019-07-13T13:46:05",

@@ -1,6 +1,9 @@
 {
   "title": "QA/DEVELOPER MIND MELD",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2014-08-22T17:34:02",
   "draft": false,
   "slug": "qadeveloper-mind-meld",
@@ -22,7 +25,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

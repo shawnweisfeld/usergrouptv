@@ -1,6 +1,9 @@
 {
   "title": ".NET, Linux and Microservices Architecture",
   "type": "recording",
+  "tags": [
+    "Microservices"
+  ],
   "date": "2017-10-05T21:59:16",
   "draft": false,
   "slug": "net-linux-and-microservices-architecture",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Microservices",
       "slug": "microservices",

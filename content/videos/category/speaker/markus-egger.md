@@ -1,5 +1,8 @@
 {
   "title": "Markus Egger",
+  "tags": [
+    "Markus Egger"
+  ],
   "type": "speaker",
   "slug": "markus-egger",
   "date": "2016-12-15T12:54:46",

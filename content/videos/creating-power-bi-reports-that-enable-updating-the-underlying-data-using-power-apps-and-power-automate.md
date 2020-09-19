@@ -1,6 +1,11 @@
 {
   "title": "Creating Power BI Reports that enable updating the underlying data using Power Apps and Power Automate",
   "type": "recording",
+  "tags": [
+    "Power Automate",
+    "Power Apps",
+    "Power BI"
+  ],
   "date": "2020-06-10T16:35:48",
   "draft": false,
   "slug": "creating-power-bi-reports-that-enable-updating-the-underlying-data-using-power-apps-and-power-automate",
@@ -16,7 +21,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Power Automate",
       "slug": "power-automate",

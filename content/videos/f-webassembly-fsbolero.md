@@ -1,6 +1,9 @@
 {
   "title": "F# + WebAssembly = FsBolero!",
   "type": "recording",
+  "tags": [
+    "F#"
+  ],
   "date": "2019-05-21T14:30:46",
   "draft": false,
   "slug": "f-webassembly-fsbolero",
@@ -16,7 +19,7 @@
       "count": 7
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "F#",
       "slug": "f",

@@ -1,5 +1,8 @@
 {
   "title": "Lisp",
+  "tags": [
+    "Lisp"
+  ],
   "type": "tag",
   "slug": "lisp",
   "date": "2014-09-13T23:53:12",

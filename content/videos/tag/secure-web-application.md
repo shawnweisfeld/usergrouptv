@@ -1,5 +1,8 @@
 {
   "title": "Secure Web Application",
+  "tags": [
+    "Secure Web Application"
+  ],
   "type": "tag",
   "slug": "secure-web-application",
   "date": "2017-10-05T22:00:33",

@@ -1,6 +1,9 @@
 {
   "title": "Microsoft Azure Fundamentals: Compute, Network, Storage, Identity and Automation",
   "type": "recording",
+  "tags": [
+    "Azure"
+  ],
   "date": "2016-09-24T20:00:29",
   "draft": false,
   "slug": "microsoft-azure-fundamentals-compute-network-storage-identity-and-automation",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

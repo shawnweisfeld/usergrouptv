@@ -1,5 +1,8 @@
 {
   "title": "Webhosting",
+  "tags": [
+    "Webhosting"
+  ],
   "type": "tag",
   "slug": "webhosting",
   "date": "2017-08-05T14:30:29",

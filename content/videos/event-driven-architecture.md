@@ -1,6 +1,9 @@
 {
   "title": "Event Driven Architecture",
   "type": "recording",
+  "tags": [
+    "EDA"
+  ],
   "date": "2011-05-27T01:13:49",
   "draft": false,
   "slug": "event-driven-architecture",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "EDA",
       "slug": "eda",

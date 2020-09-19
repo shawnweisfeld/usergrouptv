@@ -1,6 +1,9 @@
 {
   "title": "Xamarin.iOS Deep Dive",
   "type": "recording",
+  "tags": [
+    "xamarin"
+  ],
   "date": "2014-11-19T12:37:02",
   "draft": false,
   "slug": "xamarin-ios-deep-dive",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "xamarin",
       "slug": "xamarin",

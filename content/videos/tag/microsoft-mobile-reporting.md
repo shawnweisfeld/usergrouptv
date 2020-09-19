@@ -1,5 +1,8 @@
 {
   "title": "Microsoft Mobile Reporting",
+  "tags": [
+    "Microsoft Mobile Reporting"
+  ],
   "type": "tag",
   "slug": "microsoft-mobile-reporting",
   "date": "2016-05-14T12:25:19",

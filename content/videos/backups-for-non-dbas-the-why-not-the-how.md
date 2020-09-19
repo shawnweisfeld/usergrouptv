@@ -1,6 +1,9 @@
 {
   "title": "Backups for non-DBAs...the Why, not the How",
   "type": "recording",
+  "tags": [
+    "SQL Backup"
+  ],
   "date": "2017-06-17T14:22:38",
   "draft": false,
   "slug": "backups-for-non-dbas-the-why-not-the-how",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Backup",
       "slug": "sql-backup",

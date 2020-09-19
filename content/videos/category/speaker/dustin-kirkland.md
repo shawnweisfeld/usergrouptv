@@ -1,5 +1,8 @@
 {
   "title": "Dustin Kirkland",
+  "tags": [
+    "Dustin Kirkland"
+  ],
   "type": "speaker",
   "slug": "dustin-kirkland",
   "date": "2016-05-31T11:11:39",

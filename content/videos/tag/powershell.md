@@ -1,5 +1,8 @@
 {
   "title": "PowerShell",
+  "tags": [
+    "PowerShell"
+  ],
   "type": "tag",
   "slug": "powershell",
   "date": "2016-08-27T12:46:44",

@@ -1,6 +1,9 @@
 {
   "title": "D/FW Connected Systems UG",
   "type": "meetup",
+  "tags": [
+    "D/FW Connected Systems UG"
+  ],
   "slug": "dfw-connected-systems-ug",
   "date": "2012-03-14T21:11:52",
   "draft": false,

@@ -1,5 +1,8 @@
 {
   "title": "Deepina Kapila",
+  "tags": [
+    "Deepina Kapila"
+  ],
   "type": "speaker",
   "slug": "deepina-kapila",
   "date": "2017-08-05T14:29:19",

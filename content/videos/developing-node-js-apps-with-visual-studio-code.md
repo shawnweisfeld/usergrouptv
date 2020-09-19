@@ -1,6 +1,9 @@
 {
   "title": "Developing Node.js apps with Visual Studio Code ",
   "type": "recording",
+  "tags": [
+    "Node.js"
+  ],
   "date": "2016-04-20T23:43:58",
   "draft": false,
   "slug": "developing-node-js-apps-with-visual-studio-code",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Node.js",
       "slug": "node-js",

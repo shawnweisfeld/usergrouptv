@@ -1,6 +1,9 @@
 {
   "title": "Austin Agile",
   "type": "meetup",
+  "tags": [
+    "Austin Agile"
+  ],
   "slug": "austin-agile",
   "date": "2019-10-04T16:51:06",
   "draft": false,

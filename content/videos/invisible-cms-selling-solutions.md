@@ -1,6 +1,9 @@
 {
   "title": "\"Invisible\" CMS Selling Solutions",
   "type": "recording",
+  "tags": [
+    "joomla"
+  ],
   "date": "2019-09-28T16:55:13",
   "draft": false,
   "slug": "invisible-cms-selling-solutions",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "joomla",
       "slug": "joomla",

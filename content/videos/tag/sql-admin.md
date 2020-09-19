@@ -1,5 +1,8 @@
 {
   "title": "SQL Admin",
+  "tags": [
+    "SQL Admin"
+  ],
   "type": "tag",
   "slug": "sql-admin",
   "date": "2018-08-25T19:38:27",

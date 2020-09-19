@@ -1,6 +1,9 @@
 {
   "title": "Trust me Azure event hubs are really cool!",
   "type": "recording",
+  "tags": [
+    "Event Hubs"
+  ],
   "date": "2016-08-05T14:34:44",
   "draft": false,
   "slug": "trust-me-azure-event-hubs-are-really-cool",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Event Hubs",
       "slug": "event-hubs",

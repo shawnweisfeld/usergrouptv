@@ -1,5 +1,8 @@
 {
   "title": "Troy Vinson",
+  "tags": [
+    "Troy Vinson"
+  ],
   "type": "speaker",
   "slug": "troy-vinson",
   "date": "2015-09-26T12:21:58",

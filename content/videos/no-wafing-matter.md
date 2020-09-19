@@ -1,6 +1,9 @@
 {
   "title": "No WAF'ing Matter",
   "type": "recording",
+  "tags": [
+    "waf"
+  ],
   "date": "2017-10-05T21:51:41",
   "draft": false,
   "slug": "no-wafing-matter",
@@ -22,7 +25,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "waf",
       "slug": "waf",

@@ -1,6 +1,9 @@
 {
   "title": "Building modular enterprise scale AngularJS applications ",
   "type": "recording",
+  "tags": [
+    "AngularJS"
+  ],
   "date": "2015-10-16T02:01:02",
   "draft": false,
   "slug": "building-modular-enterprise-scale-angularjs-applications",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "AngularJS",
       "slug": "angularjs",

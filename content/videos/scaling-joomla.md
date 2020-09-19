@@ -1,6 +1,9 @@
 {
   "title": "Scaling Joomla",
   "type": "recording",
+  "tags": [
+    "joomla"
+  ],
   "date": "2019-09-28T17:03:52",
   "draft": false,
   "slug": "scaling-joomla",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "joomla",
       "slug": "joomla",

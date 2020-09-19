@@ -1,5 +1,8 @@
 {
   "title": "Stream Analytics",
+  "tags": [
+    "Stream Analytics"
+  ],
   "type": "tag",
   "slug": "stream-analytics",
   "date": "2020-08-18T15:15:50",

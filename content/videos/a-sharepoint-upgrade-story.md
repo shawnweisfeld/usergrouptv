@@ -1,6 +1,9 @@
 {
   "title": "A SharePoint Upgrade Story",
   "type": "recording",
+  "tags": [
+    "Sharepoint"
+  ],
   "date": "2011-11-03T23:03:17",
   "draft": false,
   "slug": "a-sharepoint-upgrade-story",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Sharepoint",
       "slug": "sharepoint",

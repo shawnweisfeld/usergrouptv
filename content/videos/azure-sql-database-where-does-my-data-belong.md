@@ -1,6 +1,9 @@
 {
   "title": "Azure SQL Database: Where Does My Data Belong?",
   "type": "recording",
+  "tags": [
+    "SQL"
+  ],
   "date": "2018-04-21T13:10:05",
   "draft": false,
   "slug": "azure-sql-database-where-does-my-data-belong",
@@ -16,7 +19,7 @@
       "count": 18
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL",
       "slug": "sql",

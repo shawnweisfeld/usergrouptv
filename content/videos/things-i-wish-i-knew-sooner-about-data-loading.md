@@ -1,6 +1,9 @@
 {
   "title": "Things i wish I knew sooner about data loading.",
   "type": "recording",
+  "tags": [
+    "ETL"
+  ],
   "date": "2015-08-29T14:20:38",
   "draft": false,
   "slug": "things-i-wish-i-knew-sooner-about-data-loading",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "ETL",
       "slug": "etl",

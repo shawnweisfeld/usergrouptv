@@ -1,6 +1,9 @@
 {
   "title": "Increase value of SharePoint by giving users the right support!",
   "type": "recording",
+  "tags": [
+    "Sharepoint"
+  ],
   "date": "2016-09-24T19:50:58",
   "draft": false,
   "slug": "increase-value-of-sharepoint-by-giving-users-the-right-support",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Sharepoint",
       "slug": "sharepoint",

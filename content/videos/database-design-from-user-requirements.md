@@ -1,6 +1,9 @@
 {
   "title": "Database Design from User Requirements",
   "type": "recording",
+  "tags": [
+    "Database"
+  ],
   "date": "2013-08-24T11:28:30",
   "draft": false,
   "slug": "database-design-from-user-requirements",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Database",
       "slug": "database",

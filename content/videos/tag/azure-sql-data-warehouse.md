@@ -1,5 +1,8 @@
 {
   "title": "Azure SQL Data Warehouse",
+  "tags": [
+    "Azure SQL Data Warehouse"
+  ],
   "type": "tag",
   "slug": "azure-sql-data-warehouse",
   "date": "2017-06-17T14:23:54",

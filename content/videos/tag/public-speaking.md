@@ -1,5 +1,8 @@
 {
   "title": "Public speaking",
+  "tags": [
+    "Public speaking"
+  ],
   "type": "tag",
   "slug": "public-speaking",
   "date": "2017-08-04T14:26:53",

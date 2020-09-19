@@ -1,6 +1,9 @@
 {
   "title": "Cross platform mobile development with Delphi",
   "type": "recording",
+  "tags": [
+    "Delphi"
+  ],
   "date": "2014-09-26T18:51:48",
   "draft": false,
   "slug": "cross-platform-mobile-development-with-delphi",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Delphi",
       "slug": "delphi",

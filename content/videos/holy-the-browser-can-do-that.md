@@ -1,6 +1,9 @@
 {
   "title": "Holy $#!%, the browser can do that?!",
   "type": "recording",
+  "tags": [
+    "Browser"
+  ],
   "date": "2016-09-24T19:41:14",
   "draft": false,
   "slug": "holy-the-browser-can-do-that",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Browser",
       "slug": "browser",

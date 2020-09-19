@@ -1,5 +1,8 @@
 {
   "title": "Walter Bodwell",
+  "tags": [
+    "Walter Bodwell"
+  ],
   "type": "speaker",
   "slug": "walter-bodwell",
   "date": "2019-10-04T16:48:04",

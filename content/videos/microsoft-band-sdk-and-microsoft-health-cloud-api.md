@@ -1,6 +1,9 @@
 {
   "title": "Microsoft Band SDK and Microsoft Health Cloud API",
   "type": "recording",
+  "tags": [
+    "Band"
+  ],
   "date": "2015-08-19T12:07:24",
   "draft": false,
   "slug": "microsoft-band-sdk-and-microsoft-health-cloud-api",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Band",
       "slug": "band",

@@ -1,5 +1,8 @@
 {
   "title": "Coskun Cavusoglu",
+  "tags": [
+    "Coskun Cavusoglu"
+  ],
   "type": "speaker",
   "slug": "coskun-cavusoglu",
   "date": "2011-11-03T14:06:42",

@@ -1,6 +1,9 @@
 {
   "title": ".Net Nuggets - Houston Tech Fest Keynote",
   "type": "recording",
+  "tags": [
+    ".NET Tips and Tricks"
+  ],
   "date": "2011-10-15T03:09:29",
   "draft": false,
   "slug": "net-nuggets-houston-tech-fest-keynote",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": ".NET Tips and Tricks",
       "slug": "net-tips-and-tricks",

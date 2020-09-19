@@ -1,6 +1,9 @@
 {
   "title": "Deep Dive into the SSIS Catalog",
   "type": "recording",
+  "tags": [
+    "SSIS"
+  ],
   "date": "2017-03-04T22:01:54",
   "draft": false,
   "slug": "deep-dive-into-the-ssis-catalog",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SSIS",
       "slug": "ssis",

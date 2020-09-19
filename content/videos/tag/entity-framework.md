@@ -1,5 +1,8 @@
 {
   "title": "Entity Framework",
+  "tags": [
+    "Entity Framework"
+  ],
   "type": "tag",
   "slug": "entity-framework",
   "date": "2018-08-11T15:51:07",

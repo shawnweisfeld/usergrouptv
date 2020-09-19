@@ -1,5 +1,8 @@
 {
   "title": "bots",
+  "tags": [
+    "bots"
+  ],
   "type": "tag",
   "slug": "bots",
   "date": "2019-07-10T13:40:57",

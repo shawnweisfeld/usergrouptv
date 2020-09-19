@@ -1,6 +1,9 @@
 {
   "title": "MS SQL Modern Migration Tour 2019 - Features and Reasons to modernize",
   "type": "recording",
+  "tags": [
+    "MS SQL"
+  ],
   "date": "2019-06-23T16:06:04",
   "draft": false,
   "slug": "ms-sql-modern-migration-tour-2019-features-and-reasons-to-modernize",
@@ -16,7 +19,7 @@
       "count": 18
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MS SQL",
       "slug": "ms-sql",

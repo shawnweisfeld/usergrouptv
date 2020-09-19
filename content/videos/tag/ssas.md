@@ -1,5 +1,8 @@
 {
   "title": "SSAS",
+  "tags": [
+    "SSAS"
+  ],
   "type": "tag",
   "slug": "ssas",
   "date": "2019-07-13T14:09:40",

@@ -1,5 +1,8 @@
 {
   "title": "CSS",
+  "tags": [
+    "CSS"
+  ],
   "type": "tag",
   "slug": "css",
   "date": "2015-12-14T18:24:56",

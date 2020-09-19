@@ -1,5 +1,8 @@
 {
   "title": "Chris Tullier",
+  "tags": [
+    "Chris Tullier"
+  ],
   "type": "speaker",
   "slug": "chris-tullier",
   "date": "2012-04-20T17:07:43",

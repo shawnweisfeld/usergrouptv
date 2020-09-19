@@ -1,5 +1,8 @@
 {
   "title": "Kristin Ferrier",
+  "tags": [
+    "Kristin Ferrier"
+  ],
   "type": "speaker",
   "slug": "kristin-ferrier",
   "date": "2018-08-25T19:32:15",

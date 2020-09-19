@@ -1,6 +1,9 @@
 {
   "title": "Tim Costello with Interworks: Tableau, Delivering Self-Serve BI",
   "type": "recording",
+  "tags": [
+    "Tableau"
+  ],
   "date": "2013-08-24T22:08:09",
   "draft": false,
   "slug": "tim-costello-with-interworks-tableau-delivering-self-serve-bi",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Tableau",
       "slug": "tableau",

@@ -1,6 +1,9 @@
 {
   "title": "Mongo DB",
   "type": "recording",
+  "tags": [
+    "Mongo DB"
+  ],
   "date": "2011-06-21T18:58:09",
   "draft": false,
   "slug": "mongo-db",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Mongo DB",
       "slug": "mongo-db",

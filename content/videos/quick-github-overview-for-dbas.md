@@ -1,6 +1,9 @@
 {
   "title": "Quick GitHub overview for DBAs",
   "type": "recording",
+  "tags": [
+    "GitHub"
+  ],
   "date": "2019-11-19T16:17:46",
   "draft": false,
   "slug": "quick-github-overview-for-dbas",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "GitHub",
       "slug": "github",

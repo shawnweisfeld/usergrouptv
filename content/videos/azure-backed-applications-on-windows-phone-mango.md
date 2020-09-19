@@ -1,6 +1,10 @@
 {
   "title": "Azure-Backed Applications on Windows Phone Mango",
   "type": "recording",
+  "tags": [
+    "Cloud",
+    "WP7"
+  ],
   "date": "2011-08-02T19:48:24",
   "draft": false,
   "slug": "azure-backed-applications-on-windows-phone-mango",
@@ -16,7 +20,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Cloud",
       "slug": "cloud",

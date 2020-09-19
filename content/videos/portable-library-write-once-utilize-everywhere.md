@@ -1,6 +1,10 @@
 {
   "title": "Portable Library: Write Once, Utilize Everywhere",
   "type": "recording",
+  "tags": [
+    "Portable Class Library",
+    "VB.NET"
+  ],
   "date": "2012-07-18T14:11:41",
   "draft": false,
   "slug": "portable-library-write-once-utilize-everywhere",
@@ -16,7 +20,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Portable Class Library",
       "slug": "portable-class-library",

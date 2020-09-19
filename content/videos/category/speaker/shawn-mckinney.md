@@ -1,5 +1,8 @@
 {
   "title": "Shawn McKinney",
+  "tags": [
+    "Shawn McKinney"
+  ],
   "type": "speaker",
   "slug": "shawn-mckinney",
   "date": "2017-10-05T22:00:33",

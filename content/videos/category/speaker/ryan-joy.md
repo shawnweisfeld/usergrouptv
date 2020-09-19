@@ -1,5 +1,8 @@
 {
   "title": "Ryan Joy",
+  "tags": [
+    "Ryan Joy"
+  ],
   "type": "speaker",
   "slug": "ryan-joy",
   "date": "2016-10-20T11:24:52",

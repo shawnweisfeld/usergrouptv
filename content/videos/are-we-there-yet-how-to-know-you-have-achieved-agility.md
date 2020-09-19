@@ -1,6 +1,9 @@
 {
   "title": "Are We There Yet? How to Know You Have Achieved Agility",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2019-10-04T16:31:49",
   "draft": false,
   "slug": "are-we-there-yet-how-to-know-you-have-achieved-agility",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

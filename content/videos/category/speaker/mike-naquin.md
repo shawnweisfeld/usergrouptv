@@ -1,5 +1,8 @@
 {
   "title": "Mike Naquin",
+  "tags": [
+    "Mike Naquin"
+  ],
   "type": "speaker",
   "slug": "mike-naquin",
   "date": "2012-09-11T14:29:26",

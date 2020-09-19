@@ -1,6 +1,9 @@
 {
   "title": "Gen2016™ and the Global “Hybrid” Cloud",
   "type": "recording",
+  "tags": [
+    "Hybrid Cloud"
+  ],
   "date": "2016-05-14T12:28:20",
   "draft": false,
   "slug": "gen2016-and-the-global-hybrid-cloud",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Hybrid Cloud",
       "slug": "hybrid-cloud",

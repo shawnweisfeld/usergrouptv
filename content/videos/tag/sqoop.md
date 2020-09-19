@@ -1,5 +1,8 @@
 {
   "title": "Sqoop",
+  "tags": [
+    "Sqoop"
+  ],
   "type": "tag",
   "slug": "sqoop",
   "date": "2012-08-24T00:03:38",

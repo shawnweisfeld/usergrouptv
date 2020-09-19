@@ -1,5 +1,8 @@
 {
   "title": "Service Fabirc",
+  "tags": [
+    "Service Fabirc"
+  ],
   "type": "tag",
   "slug": "service-fabirc",
   "date": "2016-09-08T18:22:06",

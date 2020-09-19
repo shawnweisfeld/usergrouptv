@@ -1,6 +1,9 @@
 {
   "title": "Parallel Query Execution",
   "type": "recording",
+  "tags": [
+    "SQL Parralism"
+  ],
   "date": "2011-04-02T22:01:13",
   "draft": false,
   "slug": "parallel-query-execution",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Parralism",
       "slug": "sql-parralism",

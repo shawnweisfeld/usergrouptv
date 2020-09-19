@@ -1,6 +1,9 @@
 {
   "title": "A metadata approach to fixed width files",
   "type": "recording",
+  "tags": [
+    "SSIS"
+  ],
   "date": "2020-02-08T16:19:15",
   "draft": false,
   "slug": "a-metadata-approach-to-fixed-width-files",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SSIS",
       "slug": "ssis",

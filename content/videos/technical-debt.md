@@ -1,6 +1,9 @@
 {
   "title": "TECHNICAL DEBT",
   "type": "recording",
+  "tags": [
+    "Technical Debt"
+  ],
   "date": "2014-08-22T17:37:57",
   "draft": false,
   "slug": "technical-debt",
@@ -22,7 +25,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Technical Debt",
       "slug": "technical-debt",

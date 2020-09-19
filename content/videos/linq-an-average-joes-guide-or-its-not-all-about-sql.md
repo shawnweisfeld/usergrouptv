@@ -1,6 +1,9 @@
 {
   "title": "LINQ - An Average Joe’s Guide (or \"It’s not all about SQL\")",
   "type": "recording",
+  "tags": [
+    "LINQ"
+  ],
   "date": "2011-07-21T22:32:34",
   "draft": false,
   "slug": "linq-an-average-joes-guide-or-its-not-all-about-sql",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "LINQ",
       "slug": "linq",

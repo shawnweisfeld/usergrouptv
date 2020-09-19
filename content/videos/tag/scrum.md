@@ -1,5 +1,8 @@
 {
   "title": "Scrum",
+  "tags": [
+    "Scrum"
+  ],
   "type": "tag",
   "slug": "scrum",
   "date": "2014-08-24T18:03:23",

@@ -1,5 +1,8 @@
 {
   "title": "Adam Kemp",
+  "tags": [
+    "Adam Kemp"
+  ],
   "type": "speaker",
   "slug": "adam-kemp",
   "date": "2015-10-21T02:05:35",

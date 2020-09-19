@@ -1,6 +1,9 @@
 {
   "title": "Next Level Agile",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2018-05-24T16:53:00",
   "draft": false,
   "slug": "next-level-agile",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

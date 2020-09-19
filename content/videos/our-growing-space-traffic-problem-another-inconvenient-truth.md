@@ -1,6 +1,9 @@
 {
   "title": "Our Growing Space Traffic Problem: Another Inconvenient Truth!",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2019-10-04T16:26:45",
   "draft": false,
   "slug": "our-growing-space-traffic-problem-another-inconvenient-truth",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

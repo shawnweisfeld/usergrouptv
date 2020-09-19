@@ -1,5 +1,8 @@
 {
   "title": "Sean Kenney",
+  "tags": [
+    "Sean Kenney"
+  ],
   "type": "speaker",
   "slug": "sean-kenney",
   "date": "2013-09-28T15:34:36",

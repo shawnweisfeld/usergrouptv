@@ -1,6 +1,10 @@
 {
   "title": "Building composable web applications",
   "type": "recording",
+  "tags": [
+    "WebAPI",
+    "ASP.NET"
+  ],
   "date": "2012-09-08T00:51:39",
   "draft": false,
   "slug": "building-composable-web-applications",
@@ -16,7 +20,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "WebAPI",
       "slug": "webapi",

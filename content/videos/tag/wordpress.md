@@ -1,5 +1,8 @@
 {
   "title": "WordPress",
+  "tags": [
+    "WordPress"
+  ],
   "type": "tag",
   "slug": "wordpress",
   "date": "2011-10-22T23:30:25",

@@ -1,6 +1,9 @@
 {
   "title": "Data Visualization Design Principles to aid Decision Making Processes",
   "type": "recording",
+  "tags": [
+    "Data Visualization"
+  ],
   "date": "2015-09-12T16:28:50",
   "draft": false,
   "slug": "data-visualization-design-principles-to-aid-decision-making-processes",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Data Visualization",
       "slug": "data-visualization",

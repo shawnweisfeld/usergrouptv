@@ -1,5 +1,8 @@
 {
   "title": "Regex",
+  "tags": [
+    "Regex"
+  ],
   "type": "tag",
   "slug": "regex",
   "date": "2015-08-29T13:45:57",

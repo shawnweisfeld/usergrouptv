@@ -1,5 +1,8 @@
 {
   "title": "Eric Mizell",
+  "tags": [
+    "Eric Mizell"
+  ],
   "type": "speaker",
   "slug": "eric-mizell",
   "date": "2014-05-03T19:42:00",

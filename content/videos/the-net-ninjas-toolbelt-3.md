@@ -1,6 +1,9 @@
 {
   "title": "The .Net Ninja’s Toolbelt",
   "type": "recording",
+  "tags": [
+    "tools"
+  ],
   "date": "2013-08-17T22:11:20",
   "draft": false,
   "slug": "the-net-ninjas-toolbelt-3",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "tools",
       "slug": "tools",

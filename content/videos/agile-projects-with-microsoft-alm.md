@@ -1,6 +1,10 @@
 {
   "title": "Agile Projects with Microsoft ALM",
   "type": "recording",
+  "tags": [
+    "Agile",
+    "ALM"
+  ],
   "date": "2012-04-20T17:07:43",
   "draft": false,
   "slug": "agile-projects-with-microsoft-alm",
@@ -16,7 +20,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

@@ -1,5 +1,8 @@
 {
   "title": "Michael Wiley",
+  "tags": [
+    "Michael Wiley"
+  ],
   "type": "speaker",
   "slug": "michael-wiley",
   "date": "2013-03-01T20:39:55",

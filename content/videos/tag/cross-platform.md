@@ -1,5 +1,8 @@
 {
   "title": "cross-platform",
+  "tags": [
+    "cross-platform"
+  ],
   "type": "tag",
   "slug": "cross-platform",
   "date": "2013-01-15T21:35:39",

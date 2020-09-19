@@ -1,6 +1,10 @@
 {
   "title": "Monitoring options for Azure",
   "type": "recording",
+  "tags": [
+    "Azure Monitor",
+    "Azure"
+  ],
   "date": "2018-12-12T16:51:12",
   "draft": false,
   "slug": "monitoring-options-for-azure",
@@ -16,7 +20,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure Monitor",
       "slug": "azure-monitor",

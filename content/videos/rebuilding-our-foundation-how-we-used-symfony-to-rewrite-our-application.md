@@ -1,6 +1,9 @@
 {
   "title": "Rebuilding our Foundation: How We Used Symfony To Rewrite Our Application ",
   "type": "recording",
+  "tags": [
+    "Symfony"
+  ],
   "date": "2015-10-16T02:04:48",
   "draft": false,
   "slug": "rebuilding-our-foundation-how-we-used-symfony-to-rewrite-our-application",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Symfony",
       "slug": "symfony",

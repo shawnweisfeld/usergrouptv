@@ -1,6 +1,9 @@
 {
   "title": "Write Code For The Future You ",
   "type": "recording",
+  "tags": [
+    "Developer"
+  ],
   "date": "2015-10-16T02:03:49",
   "draft": false,
   "slug": "write-code-for-the-future-you",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Developer",
       "slug": "developer",

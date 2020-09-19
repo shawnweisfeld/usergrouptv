@@ -1,5 +1,8 @@
 {
   "title": "Power Pivot",
+  "tags": [
+    "Power Pivot"
+  ],
   "type": "tag",
   "slug": "power-pivot",
   "date": "2014-05-03T19:56:46",

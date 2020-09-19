@@ -1,6 +1,9 @@
 {
   "title": "Best Practices of a Software Craftsmen – Skills that took years to learn to need",
   "type": "recording",
+  "tags": [
+    "Patterns"
+  ],
   "date": "2013-02-07T00:50:11",
   "draft": false,
   "slug": "best-practices-of-a-software-craftsmen-skills-that-took-years-to-learn-to-need",
@@ -16,7 +19,7 @@
       "count": 11
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Patterns",
       "slug": "patterns",

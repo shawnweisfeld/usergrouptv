@@ -1,5 +1,8 @@
 {
   "title": "Teams",
+  "tags": [
+    "Teams"
+  ],
   "type": "tag",
   "slug": "teams",
   "date": "2017-06-14T12:34:57",

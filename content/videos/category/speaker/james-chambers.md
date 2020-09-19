@@ -1,5 +1,8 @@
 {
   "title": "James Chambers",
+  "tags": [
+    "James Chambers"
+  ],
   "type": "speaker",
   "slug": "james-chambers",
   "date": "2016-10-20T11:24:52",

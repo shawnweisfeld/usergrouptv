@@ -1,5 +1,8 @@
 {
   "title": "Rod Knowlton",
+  "tags": [
+    "Rod Knowlton"
+  ],
   "type": "speaker",
   "slug": "rod-knowlton",
   "date": "2011-10-07T21:58:25",

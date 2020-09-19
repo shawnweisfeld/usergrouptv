@@ -1,5 +1,8 @@
 {
   "title": "Jordan Little",
+  "tags": [
+    "Jordan Little"
+  ],
   "type": "speaker",
   "slug": "jordan-little",
   "date": "2015-10-16T02:08:48",

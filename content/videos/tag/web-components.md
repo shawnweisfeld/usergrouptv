@@ -1,5 +1,8 @@
 {
   "title": "Web Components",
+  "tags": [
+    "Web Components"
+  ],
   "type": "tag",
   "slug": "web-components",
   "date": "2017-10-05T21:53:05",

@@ -1,5 +1,8 @@
 {
   "title": "Practices",
+  "tags": [
+    "Practices"
+  ],
   "type": "tag",
   "slug": "practices",
   "date": "2013-09-28T18:34:15",

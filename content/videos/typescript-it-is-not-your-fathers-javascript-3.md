@@ -1,6 +1,9 @@
 {
   "title": "TypeScript: it is not your father's JavaScript",
   "type": "recording",
+  "tags": [
+    "TypeScript"
+  ],
   "date": "2013-10-11T21:22:29",
   "draft": false,
   "slug": "typescript-it-is-not-your-fathers-javascript-3",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "TypeScript",
       "slug": "typescript",

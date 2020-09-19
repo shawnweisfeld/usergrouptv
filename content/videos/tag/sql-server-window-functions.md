@@ -1,5 +1,8 @@
 {
   "title": "SQL Server Window Functions",
+  "tags": [
+    "SQL Server Window Functions"
+  ],
   "type": "tag",
   "slug": "sql-server-window-functions",
   "date": "2016-05-14T12:32:55",

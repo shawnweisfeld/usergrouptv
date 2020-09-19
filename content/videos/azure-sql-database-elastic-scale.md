@@ -1,6 +1,9 @@
 {
   "title": "Azure SQL Database Elastic Scale",
   "type": "recording",
+  "tags": [
+    "SQL Azure"
+  ],
   "date": "2015-08-29T14:27:09",
   "draft": false,
   "slug": "azure-sql-database-elastic-scale",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Azure",
       "slug": "sql-azure",

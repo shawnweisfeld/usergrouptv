@@ -1,6 +1,12 @@
 {
   "title": "The Road to Windows 8! Part 2",
   "type": "recording",
+  "tags": [
+    "metro",
+    ".net",
+    "XAML",
+    "win8"
+  ],
   "date": "2012-06-19T11:00:07",
   "draft": false,
   "slug": "the-road-to-windows-8-part-2",
@@ -16,7 +22,7 @@
       "count": 12
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "metro",
       "slug": "metro",

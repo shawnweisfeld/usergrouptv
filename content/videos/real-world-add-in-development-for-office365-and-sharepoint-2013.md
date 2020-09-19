@@ -1,6 +1,10 @@
 {
   "title": "Real World Add-in Development for Office365 and SharePoint 2013",
   "type": "recording",
+  "tags": [
+    "Sharepoint",
+    "Office365"
+  ],
   "date": "2016-09-24T19:49:30",
   "draft": false,
   "slug": "real-world-add-in-development-for-office365-and-sharepoint-2013",
@@ -16,7 +20,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Sharepoint",
       "slug": "sharepoint",

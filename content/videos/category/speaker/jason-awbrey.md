@@ -1,5 +1,8 @@
 {
   "title": "Jason Awbrey",
+  "tags": [
+    "Jason Awbrey"
+  ],
   "type": "speaker",
   "slug": "jason-awbrey",
   "date": "2018-06-23T20:00:02",

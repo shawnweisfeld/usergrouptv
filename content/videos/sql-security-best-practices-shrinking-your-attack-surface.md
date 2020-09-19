@@ -1,6 +1,9 @@
 {
   "title": "SQL Security Best Practices &amp; Shrinking Your Attack Surface",
   "type": "recording",
+  "tags": [
+    "SQL Security"
+  ],
   "date": "2015-08-29T14:25:47",
   "draft": false,
   "slug": "sql-security-best-practices-shrinking-your-attack-surface",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Security",
       "slug": "sql-security",

@@ -1,6 +1,9 @@
 {
   "title": "Java Performance in 30 Minutes",
   "type": "recording",
+  "tags": [
+    "Java Performance"
+  ],
   "date": "2017-10-06T22:05:28",
   "draft": false,
   "slug": "java-performance-in-30-minutes",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Java Performance",
       "slug": "java-performance",

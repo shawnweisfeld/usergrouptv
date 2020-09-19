@@ -1,6 +1,9 @@
 {
   "title": "Austin Microsoft Developers Group",
   "type": "meetup",
+  "tags": [
+    "Austin Microsoft Developers Group"
+  ],
   "slug": "austin-microsoft-app-developers",
   "date": "2016-05-31T11:11:39",
   "draft": false,

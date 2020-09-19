@@ -1,5 +1,8 @@
 {
   "title": "HTML5 Mobile",
+  "tags": [
+    "HTML5 Mobile"
+  ],
   "type": "tag",
   "slug": "html5-mobile",
   "date": "2011-12-07T00:05:51",

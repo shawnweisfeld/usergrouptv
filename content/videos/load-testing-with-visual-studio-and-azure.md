@@ -1,6 +1,10 @@
 {
   "title": "Load testing with Visual Studio and Azure",
   "type": "recording",
+  "tags": [
+    "Load Test",
+    "VSO"
+  ],
   "date": "2015-02-18T13:29:42",
   "draft": false,
   "slug": "load-testing-with-visual-studio-and-azure",
@@ -16,7 +20,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Load Test",
       "slug": "load-test",

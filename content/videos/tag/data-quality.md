@@ -1,5 +1,8 @@
 {
   "title": "Data Quality",
+  "tags": [
+    "Data Quality"
+  ],
   "type": "tag",
   "slug": "data-quality",
   "date": "2018-06-23T19:39:43",

@@ -1,5 +1,8 @@
 {
   "title": "Spark",
+  "tags": [
+    "Spark"
+  ],
   "type": "tag",
   "slug": "spark",
   "date": "2020-02-08T16:27:50",

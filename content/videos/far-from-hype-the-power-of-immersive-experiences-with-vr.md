@@ -1,6 +1,9 @@
 {
   "title": "FAR FROM HYPE: THE POWER OF IMMERSIVE EXPERIENCES WITH VR",
   "type": "recording",
+  "tags": [
+    "VR"
+  ],
   "date": "2017-08-05T17:10:45",
   "draft": false,
   "slug": "far-from-hype-the-power-of-immersive-experiences-with-vr",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "VR",
       "slug": "vr",

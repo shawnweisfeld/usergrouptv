@@ -1,5 +1,8 @@
 {
   "title": "Motivation",
+  "tags": [
+    "Motivation"
+  ],
   "type": "tag",
   "slug": "motivation",
   "date": "2014-08-22T17:29:45",

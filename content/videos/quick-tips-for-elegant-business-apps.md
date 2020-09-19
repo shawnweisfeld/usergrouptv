@@ -1,6 +1,9 @@
 {
   "title": "Quick Tips for Elegant Business Apps",
   "type": "recording",
+  "tags": [
+    "PowerApps"
+  ],
   "date": "2019-11-13T17:25:35",
   "draft": false,
   "slug": "quick-tips-for-elegant-business-apps",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "PowerApps",
       "slug": "powerapps",

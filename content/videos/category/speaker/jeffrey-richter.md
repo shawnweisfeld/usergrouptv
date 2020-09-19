@@ -1,5 +1,8 @@
 {
   "title": "Jeffrey Richter",
+  "tags": [
+    "Jeffrey Richter"
+  ],
   "type": "speaker",
   "slug": "jeffrey-richter",
   "date": "2011-10-15T03:09:29",

@@ -1,5 +1,8 @@
 {
   "title": "Microsoft MVP",
+  "tags": [
+    "Microsoft MVP"
+  ],
   "type": "tag",
   "slug": "microsoft-mvp",
   "date": "2017-10-05T21:48:47",

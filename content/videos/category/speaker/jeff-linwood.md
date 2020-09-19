@@ -1,5 +1,8 @@
 {
   "title": "Jeff Linwood",
+  "tags": [
+    "Jeff Linwood"
+  ],
   "type": "speaker",
   "slug": "jeff-linwood",
   "date": "2016-04-20T23:43:58",

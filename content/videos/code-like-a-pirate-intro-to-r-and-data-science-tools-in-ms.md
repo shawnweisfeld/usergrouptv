@@ -1,6 +1,9 @@
 {
   "title": "Code Like a Pirate ... Intro to R and Data Science Tools in MS",
   "type": "recording",
+  "tags": [
+    "R"
+  ],
   "date": "2018-08-11T15:55:45",
   "draft": false,
   "slug": "code-like-a-pirate-intro-to-r-and-data-science-tools-in-ms",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "R",
       "slug": "r",

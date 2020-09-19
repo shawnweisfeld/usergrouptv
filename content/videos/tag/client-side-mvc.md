@@ -1,5 +1,8 @@
 {
   "title": "Client-Side MVC",
+  "tags": [
+    "Client-Side MVC"
+  ],
   "type": "tag",
   "slug": "client-side-mvc",
   "date": "2011-08-13T02:36:07",

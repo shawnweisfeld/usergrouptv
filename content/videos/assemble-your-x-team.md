@@ -1,6 +1,9 @@
 {
   "title": "ASSEMBLE YOUR X TEAM",
   "type": "recording",
+  "tags": [
+    "Diversity"
+  ],
   "date": "2017-08-05T17:13:06",
   "draft": false,
   "slug": "assemble-your-x-team",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Diversity",
       "slug": "diversity",

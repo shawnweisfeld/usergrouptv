@@ -1,6 +1,9 @@
 {
   "title": "SOLID Principles in Action: from Slack to Twilio",
   "type": "recording",
+  "tags": [
+    "SOLID"
+  ],
   "date": "2017-10-05T21:47:23",
   "draft": false,
   "slug": "solid-principles-in-action-from-slack-to-twilio",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SOLID",
       "slug": "solid",

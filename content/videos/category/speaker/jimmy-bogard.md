@@ -1,5 +1,8 @@
 {
   "title": "Jimmy Bogard",
+  "tags": [
+    "Jimmy Bogard"
+  ],
   "type": "speaker",
   "slug": "jimmy-bogard",
   "date": "2015-10-12T02:07:36",

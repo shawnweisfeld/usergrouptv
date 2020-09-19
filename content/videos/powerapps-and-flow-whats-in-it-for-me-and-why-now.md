@@ -1,6 +1,10 @@
 {
   "title": "PowerApps and Flow – What’s in it for me and why now?",
   "type": "recording",
+  "tags": [
+    "Flow",
+    "PowerApps"
+  ],
   "date": "2019-03-13T23:34:23",
   "draft": false,
   "slug": "powerapps-and-flow-whats-in-it-for-me-and-why-now",
@@ -16,7 +20,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Flow",
       "slug": "flow",

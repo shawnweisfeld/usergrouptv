@@ -1,5 +1,8 @@
 {
   "title": "Laravel",
+  "tags": [
+    "Laravel"
+  ],
   "type": "tag",
   "slug": "laravel",
   "date": "2017-10-06T16:05:41",

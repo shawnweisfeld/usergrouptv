@@ -1,5 +1,8 @@
 {
   "title": "Jane Prusakova",
+  "tags": [
+    "Jane Prusakova"
+  ],
   "type": "speaker",
   "slug": "jane-prusakova",
   "date": "2019-04-08T20:07:38",

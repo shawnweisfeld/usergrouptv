@@ -1,5 +1,8 @@
 {
   "title": "Azure AD",
+  "tags": [
+    "Azure AD"
+  ],
   "type": "tag",
   "slug": "azure-ad",
   "date": "2019-05-08T17:39:14",

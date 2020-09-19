@@ -1,6 +1,9 @@
 {
   "title": "Using Admin Tools to Secure Your Joomla Website",
   "type": "recording",
+  "tags": [
+    "joomla"
+  ],
   "date": "2019-09-28T16:20:11",
   "draft": false,
   "slug": "using-admin-tools-to-secure-your-joomla-website",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "joomla",
       "slug": "joomla",

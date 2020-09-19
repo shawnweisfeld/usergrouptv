@@ -1,5 +1,8 @@
 {
   "title": "Justin Mason",
+  "tags": [
+    "Justin Mason"
+  ],
   "type": "speaker",
   "slug": "justin-mason",
   "date": "2015-09-26T12:13:11",

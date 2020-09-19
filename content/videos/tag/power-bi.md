@@ -1,5 +1,8 @@
 {
   "title": "Power BI",
+  "tags": [
+    "Power BI"
+  ],
   "type": "tag",
   "slug": "power-bi",
   "date": "2020-09-09T15:22:13",

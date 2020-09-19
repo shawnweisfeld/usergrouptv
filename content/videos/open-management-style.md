@@ -1,6 +1,9 @@
 {
   "title": "Open Management Style",
   "type": "recording",
+  "tags": [
+    "Career"
+  ],
   "date": "2018-08-11T15:53:56",
   "draft": false,
   "slug": "open-management-style",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Career",
       "slug": "career",

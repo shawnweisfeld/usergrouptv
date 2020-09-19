@@ -1,6 +1,9 @@
 {
   "title": "Trusting your data",
   "type": "recording",
+  "tags": [
+    "Data Quality"
+  ],
   "date": "2018-06-23T19:39:43",
   "draft": false,
   "slug": "trusting-your-data",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Data Quality",
       "slug": "data-quality",

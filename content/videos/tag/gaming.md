@@ -1,5 +1,8 @@
 {
   "title": "Gaming",
+  "tags": [
+    "Gaming"
+  ],
   "type": "tag",
   "slug": "gaming",
   "date": "2018-06-23T19:54:44",

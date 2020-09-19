@@ -1,6 +1,9 @@
 {
   "title": "Patterns for Managing Your Career Learning Needs",
   "type": "recording",
+  "tags": [
+    "Career"
+  ],
   "date": "2018-06-23T19:49:32",
   "draft": false,
   "slug": "patterns-for-managing-your-career-learning-needs",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Career",
       "slug": "career",

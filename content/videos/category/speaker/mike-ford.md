@@ -1,5 +1,8 @@
 {
   "title": "Mike Ford",
+  "tags": [
+    "Mike Ford"
+  ],
   "type": "speaker",
   "slug": "mike-ford",
   "date": "2020-01-08T16:17:29",

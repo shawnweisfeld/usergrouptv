@@ -1,6 +1,9 @@
 {
   "title": "Building Powerful intelligence using Cognitive Services",
   "type": "recording",
+  "tags": [
+    "Cognitive Services"
+  ],
   "date": "2017-04-22T13:13:15",
   "draft": false,
   "slug": "building-powerful-intelligence-using-cognitive-services",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Cognitive Services",
       "slug": "cognitive-services",

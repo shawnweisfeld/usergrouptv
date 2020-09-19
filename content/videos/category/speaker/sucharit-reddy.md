@@ -1,5 +1,8 @@
 {
   "title": "Sucharit Reddy",
+  "tags": [
+    "Sucharit Reddy"
+  ],
   "type": "speaker",
   "slug": "sucharit-reddy",
   "date": "2018-04-21T13:16:02",

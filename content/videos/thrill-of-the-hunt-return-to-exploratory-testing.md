@@ -1,6 +1,9 @@
 {
   "title": "Thrill of the Hunt: Return to Exploratory Testing",
   "type": "recording",
+  "tags": [
+    "Exploratory Testing"
+  ],
   "date": "2017-10-05T22:03:20",
   "draft": false,
   "slug": "thrill-of-the-hunt-return-to-exploratory-testing",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Exploratory Testing",
       "slug": "exploratory-testing",

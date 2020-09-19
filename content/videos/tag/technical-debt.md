@@ -1,5 +1,8 @@
 {
   "title": "Technical Debt",
+  "tags": [
+    "Technical Debt"
+  ],
   "type": "tag",
   "slug": "technical-debt",
   "date": "2017-10-05T21:43:58",

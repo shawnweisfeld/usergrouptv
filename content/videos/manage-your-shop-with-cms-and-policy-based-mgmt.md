@@ -1,6 +1,9 @@
 {
   "title": "Manage your shop with CMS and Policy Based Mgmt",
   "type": "recording",
+  "tags": [
+    "SQL Policy Based Mgmt"
+  ],
   "date": "2011-08-27T02:51:05",
   "draft": false,
   "slug": "manage-your-shop-with-cms-and-policy-based-mgmt",
@@ -16,7 +19,7 @@
       "count": 7
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Policy Based Mgmt",
       "slug": "sql-policy-based-mgmt",

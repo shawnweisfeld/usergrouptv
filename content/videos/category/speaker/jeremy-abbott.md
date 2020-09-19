@@ -1,5 +1,8 @@
 {
   "title": "Jeremy Abbott",
+  "tags": [
+    "Jeremy Abbott"
+  ],
   "type": "speaker",
   "slug": "jeremy-abbott",
   "date": "2015-10-16T02:01:55",

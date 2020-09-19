@@ -1,6 +1,9 @@
 {
   "title": "BoxStarter and other tools for Environments as code in Azure",
   "type": "recording",
+  "tags": [
+    "DevOps"
+  ],
   "date": "2014-11-19T12:33:51",
   "draft": false,
   "slug": "boxstarter-and-other-tools-for-environments-as-code-in-azure",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "DevOps",
       "slug": "devops",

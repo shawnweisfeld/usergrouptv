@@ -1,5 +1,8 @@
 {
   "title": "Knockout.js",
+  "tags": [
+    "Knockout.js"
+  ],
   "type": "tag",
   "slug": "knockout-js",
   "date": "2015-10-16T02:08:48",

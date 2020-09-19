@@ -1,5 +1,8 @@
 {
   "title": "AngularJS",
+  "tags": [
+    "AngularJS"
+  ],
   "type": "tag",
   "slug": "angularjs",
   "date": "2015-10-16T02:01:02",

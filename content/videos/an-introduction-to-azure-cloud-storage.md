@@ -1,6 +1,10 @@
 {
   "title": "An Introduction to Azure Cloud Storage",
   "type": "recording",
+  "tags": [
+    "Azure",
+    "Storage"
+  ],
   "date": "2012-10-03T15:21:14",
   "draft": false,
   "slug": "an-introduction-to-azure-cloud-storage",
@@ -16,7 +20,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

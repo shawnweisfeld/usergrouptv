@@ -1,5 +1,8 @@
 {
   "title": "Spring",
+  "tags": [
+    "Spring"
+  ],
   "type": "tag",
   "slug": "spring",
   "date": "2018-04-05T21:44:12",

@@ -1,6 +1,9 @@
 {
   "title": "Create Powerful User Interfaces with the Latest Windows APIs and Open Source Libraries",
   "type": "recording",
+  "tags": [
+    "UWP"
+  ],
   "date": "2019-06-24T16:43:47",
   "draft": false,
   "slug": "create-powerful-user-interfaces-with-the-latest-windows-apis-and-open-source-libraries",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "UWP",
       "slug": "uwp",

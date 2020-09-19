@@ -1,5 +1,8 @@
 {
   "title": "iPhone",
+  "tags": [
+    "iPhone"
+  ],
   "type": "tag",
   "slug": "iphone",
   "date": "2017-10-14T11:44:46",

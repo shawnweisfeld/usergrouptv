@@ -1,5 +1,8 @@
 {
   "title": "Learning",
+  "tags": [
+    "Learning"
+  ],
   "type": "tag",
   "slug": "learning",
   "date": "2017-08-05T16:55:29",

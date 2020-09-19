@@ -1,6 +1,9 @@
 {
   "title": "Using MEF with Silverlight and WPF",
   "type": "recording",
+  "tags": [
+    "MEF"
+  ],
   "date": "2011-07-05T19:12:08",
   "draft": false,
   "slug": "using-mef-with-silverlight-and-wpf",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MEF",
       "slug": "mef",

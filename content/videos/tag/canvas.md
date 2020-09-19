@@ -1,5 +1,8 @@
 {
   "title": "Canvas",
+  "tags": [
+    "Canvas"
+  ],
   "type": "tag",
   "slug": "canvas",
   "date": "2012-11-07T15:56:32",

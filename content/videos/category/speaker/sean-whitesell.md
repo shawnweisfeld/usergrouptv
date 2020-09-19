@@ -1,5 +1,8 @@
 {
   "title": "Sean Whitesell",
+  "tags": [
+    "Sean Whitesell"
+  ],
   "type": "speaker",
   "slug": "sean-whitesell",
   "date": "2020-07-09T18:32:55",

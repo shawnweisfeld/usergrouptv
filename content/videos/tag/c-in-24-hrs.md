@@ -1,5 +1,8 @@
 {
   "title": "c# in 24 hrs",
+  "tags": [
+    "c# in 24 hrs"
+  ],
   "type": "tag",
   "slug": "c-in-24-hrs",
   "date": "2011-03-12T13:42:25",

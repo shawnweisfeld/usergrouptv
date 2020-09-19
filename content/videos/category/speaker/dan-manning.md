@@ -1,5 +1,8 @@
 {
   "title": "Dan Manning",
+  "tags": [
+    "Dan Manning"
+  ],
   "type": "speaker",
   "slug": "dan-manning",
   "date": "2016-11-16T15:26:56",

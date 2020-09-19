@@ -1,5 +1,8 @@
 {
   "title": "SQL Change Tracking",
+  "tags": [
+    "SQL Change Tracking"
+  ],
   "type": "tag",
   "slug": "sql-change-tracking",
   "date": "2016-05-14T12:20:47",

@@ -1,6 +1,9 @@
 {
   "title": "Fiddler",
   "type": "recording",
+  "tags": [
+    "Fiddler"
+  ],
   "date": "2014-03-10T18:57:24",
   "draft": false,
   "slug": "fiddler",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Fiddler",
       "slug": "fiddler",

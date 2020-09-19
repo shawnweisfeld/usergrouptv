@@ -1,6 +1,9 @@
 {
   "title": "CosmosDB is the missing piece to your Data puzzle!",
   "type": "recording",
+  "tags": [
+    "Cosmos DB"
+  ],
   "date": "2019-07-13T14:05:39",
   "draft": false,
   "slug": "cosmosdb-is-the-missing-piece-to-your-data-puzzle",
@@ -9,7 +12,7 @@
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=94006",
   "thumbnail": "https://i.vimeocdn.com/video/798801249_295x166.jpg",
   "speakers": [],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Cosmos DB",
       "slug": "cosmos-db",

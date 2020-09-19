@@ -1,6 +1,9 @@
 {
   "title": "Sails.js: A High-Productivity Node.js Web App Framework",
   "type": "recording",
+  "tags": [
+    "Sails.js"
+  ],
   "date": "2014-05-16T10:09:17",
   "draft": false,
   "slug": "sails-js-a-high-productivity-node-js-web-app-framework",
@@ -16,7 +19,7 @@
       "count": 12
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Sails.js",
       "slug": "sails-js",

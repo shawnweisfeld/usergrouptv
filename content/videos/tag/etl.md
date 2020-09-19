@@ -1,5 +1,8 @@
 {
   "title": "ETL",
+  "tags": [
+    "ETL"
+  ],
   "type": "tag",
   "slug": "etl",
   "date": "2020-02-08T16:14:32",

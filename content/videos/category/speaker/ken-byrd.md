@@ -1,5 +1,8 @@
 {
   "title": "Ken Byrd",
+  "tags": [
+    "Ken Byrd"
+  ],
   "type": "speaker",
   "slug": "ken-byrd",
   "date": "2012-05-24T11:20:32",

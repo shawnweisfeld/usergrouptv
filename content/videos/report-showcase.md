@@ -1,6 +1,9 @@
 {
   "title": "Report Showcase",
   "type": "recording",
+  "tags": [
+    "Power BI"
+  ],
   "date": "2019-10-09T23:41:28",
   "draft": false,
   "slug": "report-showcase",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Power BI",
       "slug": "power-bi",

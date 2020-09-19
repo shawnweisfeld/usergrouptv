@@ -1,6 +1,10 @@
 {
   "title": "Expression Blend and SketchFlow",
   "type": "recording",
+  "tags": [
+    "SketchFlow",
+    "Blend"
+  ],
   "date": "2011-03-22T21:25:17",
   "draft": false,
   "slug": "expression-blend-and-sketchflow",
@@ -22,7 +26,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SketchFlow",
       "slug": "sketchflow",

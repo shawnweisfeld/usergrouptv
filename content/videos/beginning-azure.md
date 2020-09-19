@@ -1,6 +1,9 @@
 {
   "title": "Beginning Azure",
   "type": "recording",
+  "tags": [
+    "Azure Database"
+  ],
   "date": "2016-05-14T12:26:44",
   "draft": false,
   "slug": "beginning-azure",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure Database",
       "slug": "azure-database",

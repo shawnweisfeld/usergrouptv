@@ -1,6 +1,9 @@
 {
   "title": "3 Mathematical Concepts that Every Developer Should Know",
   "type": "recording",
+  "tags": [
+    "Developer"
+  ],
   "date": "2018-09-29T15:14:54",
   "draft": false,
   "slug": "3-mathematical-concepts-that-every-developer-should-know",
@@ -16,7 +19,7 @@
       "count": 22
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Developer",
       "slug": "developer",

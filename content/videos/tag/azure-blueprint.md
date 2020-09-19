@@ -1,5 +1,8 @@
 {
   "title": "Azure Blueprint",
+  "tags": [
+    "Azure Blueprint"
+  ],
   "type": "tag",
   "slug": "azure-blueprint",
   "date": "2020-04-08T18:34:29",

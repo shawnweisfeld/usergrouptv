@@ -1,5 +1,8 @@
 {
   "title": "Carla Crull",
+  "tags": [
+    "Carla Crull"
+  ],
   "type": "speaker",
   "slug": "carla-crull",
   "date": "2017-08-04T14:25:19",

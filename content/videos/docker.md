@@ -1,6 +1,9 @@
 {
   "title": "Docker",
   "type": "recording",
+  "tags": [
+    "Docker"
+  ],
   "date": "2015-09-26T12:18:28",
   "draft": false,
   "slug": "docker",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Docker",
       "slug": "docker",

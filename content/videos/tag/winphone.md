@@ -1,5 +1,8 @@
 {
   "title": "WinPhone",
+  "tags": [
+    "WinPhone"
+  ],
   "type": "tag",
   "slug": "winphone",
   "date": "2012-10-12T15:26:11",

@@ -1,6 +1,9 @@
 {
   "title": "CQRS",
   "type": "recording",
+  "tags": [
+    "CQRS"
+  ],
   "date": "2014-05-16T09:56:05",
   "draft": false,
   "slug": "cqrs",
@@ -16,7 +19,7 @@
       "count": 22
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "CQRS",
       "slug": "cqrs",

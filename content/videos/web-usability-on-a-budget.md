@@ -1,6 +1,9 @@
 {
   "title": "Web Usability on a Budget",
   "type": "recording",
+  "tags": [
+    "Design"
+  ],
   "date": "2012-06-09T10:19:39",
   "draft": false,
   "slug": "web-usability-on-a-budget",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Design",
       "slug": "design",

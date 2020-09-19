@@ -1,5 +1,8 @@
 {
   "title": "Angela Henry",
+  "tags": [
+    "Angela Henry"
+  ],
   "type": "speaker",
   "slug": "angela-henry",
   "date": "2018-08-11T15:57:59",

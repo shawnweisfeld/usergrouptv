@@ -1,6 +1,9 @@
 {
   "title": "Measure UP Austin 2015 Keynote",
   "type": "recording",
+  "tags": [
+    "Keynote"
+  ],
   "date": "2015-09-26T11:54:16",
   "draft": false,
   "slug": "measure-up-austin-2015-keynote",
@@ -16,7 +19,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Keynote",
       "slug": "keynote",

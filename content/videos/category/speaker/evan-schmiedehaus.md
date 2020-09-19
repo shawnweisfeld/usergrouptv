@@ -1,5 +1,8 @@
 {
   "title": "Evan Schmiedehaus",
+  "tags": [
+    "Evan Schmiedehaus"
+  ],
   "type": "speaker",
   "slug": "evan-schmiedehaus",
   "date": "2017-08-06T16:00:41",

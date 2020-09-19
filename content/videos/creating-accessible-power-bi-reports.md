@@ -1,6 +1,9 @@
 {
   "title": "Creating Accessible Power BI Reports",
   "type": "recording",
+  "tags": [
+    "Power BI"
+  ],
   "date": "2020-02-08T16:26:29",
   "draft": false,
   "slug": "creating-accessible-power-bi-reports",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Power BI",
       "slug": "power-bi",

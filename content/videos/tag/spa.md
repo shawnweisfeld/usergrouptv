@@ -1,5 +1,8 @@
 {
   "title": "SPA",
+  "tags": [
+    "SPA"
+  ],
   "type": "tag",
   "slug": "spa",
   "date": "2016-09-24T19:48:07",

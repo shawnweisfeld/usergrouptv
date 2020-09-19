@@ -1,6 +1,10 @@
 {
   "title": "knockout.js vs backbone.js",
   "type": "recording",
+  "tags": [
+    "Knockout.js",
+    "backbone.js"
+  ],
   "date": "2012-06-09T10:37:11",
   "draft": false,
   "slug": "knockout-js-vs-backbone-js",
@@ -16,7 +20,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Knockout.js",
       "slug": "knockout-js",

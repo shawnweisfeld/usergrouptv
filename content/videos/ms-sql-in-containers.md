@@ -1,6 +1,9 @@
 {
   "title": "MS SQL In Containers",
   "type": "recording",
+  "tags": [
+    "MS SQL"
+  ],
   "date": "2019-06-23T16:21:23",
   "draft": false,
   "slug": "ms-sql-in-containers",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MS SQL",
       "slug": "ms-sql",

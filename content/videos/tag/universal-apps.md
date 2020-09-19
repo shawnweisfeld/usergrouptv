@@ -1,5 +1,8 @@
 {
   "title": "Universal Apps",
+  "tags": [
+    "Universal Apps"
+  ],
   "type": "tag",
   "slug": "universal-apps",
   "date": "2014-10-10T02:14:48",

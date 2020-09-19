@@ -1,6 +1,9 @@
 {
   "title": "Intro to Office 365 Admin Center",
   "type": "recording",
+  "tags": [
+    "Office365"
+  ],
   "date": "2016-09-24T19:55:36",
   "draft": false,
   "slug": "intro-to-office-365-admin-center",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Office365",
       "slug": "office365",

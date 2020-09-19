@@ -1,5 +1,8 @@
 {
   "title": "Cloud Security",
+  "tags": [
+    "Cloud Security"
+  ],
   "type": "tag",
   "slug": "cloud-security",
   "date": "2018-09-12T21:19:52",

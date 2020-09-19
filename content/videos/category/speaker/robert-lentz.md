@@ -1,5 +1,8 @@
 {
   "title": "Robert Lentz",
+  "tags": [
+    "Robert Lentz"
+  ],
   "type": "speaker",
   "slug": "robert-lentz",
   "date": "2017-10-05T21:45:34",

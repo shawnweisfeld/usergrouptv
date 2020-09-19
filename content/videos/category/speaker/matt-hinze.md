@@ -1,5 +1,8 @@
 {
   "title": "Matt Hinze",
+  "tags": [
+    "Matt Hinze"
+  ],
   "type": "speaker",
   "slug": "matt-hinze",
   "date": "2011-08-13T02:27:39",

@@ -1,5 +1,8 @@
 {
   "title": "Adam Hill",
+  "tags": [
+    "Adam Hill"
+  ],
   "type": "speaker",
   "slug": "adam-hill",
   "date": "2014-09-26T18:56:52",

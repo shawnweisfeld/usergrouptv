@@ -1,5 +1,8 @@
 {
   "title": "Architecture",
+  "tags": [
+    "Architecture"
+  ],
   "type": "tag",
   "slug": "architecture",
   "date": "2020-02-10T21:35:29",

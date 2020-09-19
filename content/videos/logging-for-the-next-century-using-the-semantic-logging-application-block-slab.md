@@ -1,6 +1,9 @@
 {
   "title": "Logging for the Next Century: Using the Semantic Logging Application Block (SLAB)",
   "type": "recording",
+  "tags": [
+    "SLAB"
+  ],
   "date": "2014-05-16T09:57:53",
   "draft": false,
   "slug": "logging-for-the-next-century-using-the-semantic-logging-application-block-slab",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SLAB",
       "slug": "slab",

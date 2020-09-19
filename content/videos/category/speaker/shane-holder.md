@@ -1,5 +1,8 @@
 {
   "title": "Shane Holder",
+  "tags": [
+    "Shane Holder"
+  ],
   "type": "speaker",
   "slug": "shane-holder",
   "date": "2013-02-13T20:19:03",

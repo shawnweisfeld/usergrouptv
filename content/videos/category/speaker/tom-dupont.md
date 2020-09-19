@@ -1,5 +1,8 @@
 {
   "title": "Tom Dupont",
+  "tags": [
+    "Tom Dupont"
+  ],
   "type": "speaker",
   "slug": "tom-dupont",
   "date": "2011-07-26T19:38:41",

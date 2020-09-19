@@ -1,5 +1,8 @@
 {
   "title": "privilege",
+  "tags": [
+    "privilege"
+  ],
   "type": "tag",
   "slug": "privilege",
   "date": "2017-08-05T17:21:07",

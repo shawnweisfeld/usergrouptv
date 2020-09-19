@@ -1,5 +1,8 @@
 {
   "title": "Kevin Di Vincenzo",
+  "tags": [
+    "Kevin Di Vincenzo"
+  ],
   "type": "speaker",
   "slug": "kevin-di-vincenzo",
   "date": "2016-11-14T18:47:46",

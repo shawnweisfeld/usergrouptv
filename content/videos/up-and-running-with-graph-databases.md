@@ -1,6 +1,9 @@
 {
   "title": "Up and Running with Graph Databases",
   "type": "recording",
+  "tags": [
+    "Graph Databases"
+  ],
   "date": "2017-10-06T22:27:23",
   "draft": false,
   "slug": "up-and-running-with-graph-databases",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Graph Databases",
       "slug": "graph-databases",

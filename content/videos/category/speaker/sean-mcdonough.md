@@ -1,5 +1,8 @@
 {
   "title": "Sean McDonough",
+  "tags": [
+    "Sean McDonough"
+  ],
   "type": "speaker",
   "slug": "sean-mcdonough",
   "date": "2018-05-09T16:06:08",

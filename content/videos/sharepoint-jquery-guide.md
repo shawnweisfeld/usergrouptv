@@ -1,6 +1,10 @@
 {
   "title": "SharePoint & jQuery Guide",
   "type": "recording",
+  "tags": [
+    "Sharepoint",
+    "jQuery"
+  ],
   "date": "2013-10-11T21:19:13",
   "draft": false,
   "slug": "sharepoint-jquery-guide",
@@ -16,7 +20,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Sharepoint",
       "slug": "sharepoint",

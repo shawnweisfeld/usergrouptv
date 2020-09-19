@@ -1,6 +1,9 @@
 {
   "title": "Silverlight 5 What is new & State of Silverlight",
   "type": "recording",
+  "tags": [
+    "Silverlight"
+  ],
   "date": "2011-05-03T23:42:03",
   "draft": false,
   "slug": "silverlight-5-what-is-new-state-of-silverlight",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Silverlight",
       "slug": "silverlight",

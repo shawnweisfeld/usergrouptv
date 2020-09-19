@@ -1,6 +1,9 @@
 {
   "title": "MID-LEVEL CAREER AND CHANGING CAREER HOW TO HANDLE THE CHANGE",
   "type": "recording",
+  "tags": [
+    "Job"
+  ],
   "date": "2017-08-05T17:16:53",
   "draft": false,
   "slug": "mid-level-career-and-changing-career-how-to-handle-the-change",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Job",
       "slug": "job",

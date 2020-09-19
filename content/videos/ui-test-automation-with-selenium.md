@@ -1,6 +1,10 @@
 {
   "title": "UI Test Automation with Selenium",
   "type": "recording",
+  "tags": [
+    "Selenium",
+    "Test"
+  ],
   "date": "2012-03-14T13:01:38",
   "draft": false,
   "slug": "ui-test-automation-with-selenium",
@@ -22,7 +26,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Selenium",
       "slug": "selenium",

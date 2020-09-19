@@ -1,6 +1,12 @@
 {
   "title": "Dapr, Rudr, Porter & OAM - New OSS projects",
   "type": "recording",
+  "tags": [
+    "Rudr",
+    "Dapr",
+    "OAM",
+    "Porter"
+  ],
   "date": "2020-01-08T16:19:26",
   "draft": false,
   "slug": "dapr-rudr-porter-oam-new-oss-projects",
@@ -16,7 +22,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Rudr",
       "slug": "rudr",

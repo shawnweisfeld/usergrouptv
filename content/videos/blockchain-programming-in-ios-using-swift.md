@@ -1,6 +1,9 @@
 {
   "title": "Blockchain Programming in iOS Using Swift",
   "type": "recording",
+  "tags": [
+    "Blockchain"
+  ],
   "date": "2018-05-05T14:59:10",
   "draft": false,
   "slug": "blockchain-programming-in-ios-using-swift",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Blockchain",
       "slug": "blockchain",

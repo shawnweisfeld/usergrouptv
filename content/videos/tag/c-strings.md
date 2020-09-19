@@ -1,5 +1,8 @@
 {
   "title": "C# Strings",
+  "tags": [
+    "C# Strings"
+  ],
   "type": "tag",
   "slug": "c-strings",
   "date": "2011-04-12T22:37:30",

@@ -1,5 +1,8 @@
 {
   "title": "Dimitry Ushakov",
+  "tags": [
+    "Dimitry Ushakov"
+  ],
   "type": "speaker",
   "slug": "dimitry-ushakov",
   "date": "2018-05-14T22:02:59",

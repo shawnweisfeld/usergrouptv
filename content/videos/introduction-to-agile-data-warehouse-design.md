@@ -1,6 +1,9 @@
 {
   "title": "Introduction to Agile Data Warehouse Design",
   "type": "recording",
+  "tags": [
+    "Data Warehouse"
+  ],
   "date": "2016-09-22T13:26:25",
   "draft": false,
   "slug": "introduction-to-agile-data-warehouse-design",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Data Warehouse",
       "slug": "data-warehouse",

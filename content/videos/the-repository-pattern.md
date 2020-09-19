@@ -1,6 +1,9 @@
 {
   "title": "The Repository Pattern",
   "type": "recording",
+  "tags": [
+    "Design Patterns"
+  ],
   "date": "2011-07-12T19:31:35",
   "draft": false,
   "slug": "the-repository-pattern",
@@ -16,7 +19,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Design Patterns",
       "slug": "design-patterns",

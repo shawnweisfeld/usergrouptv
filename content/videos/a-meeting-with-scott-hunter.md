@@ -1,6 +1,12 @@
 {
   "title": "A Meeting with Scott Hunter !!",
   "type": "recording",
+  "tags": [
+    ".net",
+    "Blazer",
+    ".NET Core",
+    "ASP.NET"
+  ],
   "date": "2020-05-26T14:03:48",
   "draft": false,
   "slug": "a-meeting-with-scott-hunter",
@@ -16,7 +22,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": ".net",
       "slug": "net",

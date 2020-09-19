@@ -1,5 +1,8 @@
 {
   "title": "Temporal Tables",
+  "tags": [
+    "Temporal Tables"
+  ],
   "type": "tag",
   "slug": "temporal-tables",
   "date": "2017-06-17T14:19:20",

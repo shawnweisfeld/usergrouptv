@@ -1,6 +1,9 @@
 {
   "title": "Azure SQL Managed Instance the New Hotness",
   "type": "recording",
+  "tags": [
+    "SQL Azure"
+  ],
   "date": "2019-07-13T13:44:10",
   "draft": false,
   "slug": "azure-sql-managed-instance-the-new-hotness-3",
@@ -16,7 +19,7 @@
       "count": 7
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Azure",
       "slug": "sql-azure",

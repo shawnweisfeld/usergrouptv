@@ -1,6 +1,9 @@
 {
   "title": "Oklahoma Groups",
   "type": "meetup",
+  "tags": [
+    "Oklahoma Groups"
+  ],
   "slug": "oklahoma",
   "date": "2016-08-27T16:00:12",
   "draft": false,

@@ -1,6 +1,9 @@
 {
   "title": "Keynote: The Future of Agile",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2011-02-25T00:44:44",
   "draft": false,
   "slug": "keynote-the-future-of-agile",
@@ -22,7 +25,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

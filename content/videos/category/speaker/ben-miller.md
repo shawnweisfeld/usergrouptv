@@ -1,5 +1,8 @@
 {
   "title": "Ben Miller",
+  "tags": [
+    "Ben Miller"
+  ],
   "type": "speaker",
   "slug": "ben-miller",
   "date": "2018-08-25T19:38:27",

@@ -1,6 +1,11 @@
 {
   "title": "Building Windows 8 Metro apps in XAML",
   "type": "recording",
+  "tags": [
+    "metro",
+    "XAML",
+    "win8"
+  ],
   "date": "2012-02-14T15:23:50",
   "draft": false,
   "slug": "building-windows-8-metro-apps-in-xaml",
@@ -16,7 +21,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "metro",
       "slug": "metro",

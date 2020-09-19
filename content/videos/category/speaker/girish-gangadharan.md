@@ -1,5 +1,8 @@
 {
   "title": "Girish Gangadharan",
+  "tags": [
+    "Girish Gangadharan"
+  ],
   "type": "speaker",
   "slug": "girish-gangadharan",
   "date": "2013-10-11T21:26:14",

@@ -1,6 +1,9 @@
 {
   "title": "Web Security - How Secure Am I?",
   "type": "recording",
+  "tags": [
+    "Security"
+  ],
   "date": "2011-07-07T22:27:39",
   "draft": false,
   "slug": "web-security-how-secure-am-i",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Security",
       "slug": "security",

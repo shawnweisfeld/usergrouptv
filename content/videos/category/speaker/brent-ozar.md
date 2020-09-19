@@ -1,5 +1,8 @@
 {
   "title": "Brent Ozar",
+  "tags": [
+    "Brent Ozar"
+  ],
   "type": "speaker",
   "slug": "brent-ozar",
   "date": "2017-06-17T14:24:57",

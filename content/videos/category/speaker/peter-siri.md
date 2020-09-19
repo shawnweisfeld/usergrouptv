@@ -1,5 +1,8 @@
 {
   "title": "Peter Siri",
+  "tags": [
+    "Peter Siri"
+  ],
   "type": "speaker",
   "slug": "peter-siri",
   "date": "2015-09-26T12:08:46",

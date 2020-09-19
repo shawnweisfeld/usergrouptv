@@ -1,6 +1,10 @@
 {
   "title": "Pragmatic React + Redux - Lessons learned from the trenches ",
   "type": "recording",
+  "tags": [
+    "redux",
+    "React"
+  ],
   "date": "2017-01-26T15:25:59",
   "draft": false,
   "slug": "pragmatic-react-redux-lessons-learned-from-the-trenches",
@@ -16,7 +20,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "redux",
       "slug": "redux",

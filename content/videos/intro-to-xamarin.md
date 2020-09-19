@@ -1,6 +1,9 @@
 {
   "title": "Intro To Xamarin ",
   "type": "recording",
+  "tags": [
+    "xamarin"
+  ],
   "date": "2016-11-16T15:26:56",
   "draft": false,
   "slug": "intro-to-xamarin",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "xamarin",
       "slug": "xamarin",

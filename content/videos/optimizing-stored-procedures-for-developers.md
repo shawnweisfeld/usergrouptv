@@ -1,6 +1,9 @@
 {
   "title": "Optimizing Stored Procedures for Developers",
   "type": "recording",
+  "tags": [
+    "SQL Performance"
+  ],
   "date": "2013-08-17T20:36:23",
   "draft": false,
   "slug": "optimizing-stored-procedures-for-developers",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Performance",
       "slug": "sql-performance",

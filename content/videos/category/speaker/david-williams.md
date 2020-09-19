@@ -1,5 +1,8 @@
 {
   "title": "David Williams",
+  "tags": [
+    "David Williams"
+  ],
   "type": "speaker",
   "slug": "david-williams",
   "date": "2017-04-18T13:03:59",

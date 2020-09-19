@@ -1,6 +1,9 @@
 {
   "title": "Unlocking New Visualizations and Features in Power BI",
   "type": "recording",
+  "tags": [
+    "PowerBI"
+  ],
   "date": "2020-08-12T14:05:27",
   "draft": false,
   "slug": "unlocking-new-visualizations-and-features-in-power-bi",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "PowerBI",
       "slug": "powerbi",

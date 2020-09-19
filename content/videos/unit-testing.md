@@ -1,6 +1,9 @@
 {
   "title": "Unit Testing",
   "type": "recording",
+  "tags": [
+    "unit testing"
+  ],
   "date": "2016-03-14T18:34:17",
   "draft": false,
   "slug": "unit-testing",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "unit testing",
       "slug": "unit-testing",

@@ -1,6 +1,9 @@
 {
   "title": "STAGES AND SET DESIGN",
   "type": "recording",
+  "tags": [
+    "Developer"
+  ],
   "date": "2014-08-22T17:41:02",
   "draft": false,
   "slug": "stages-and-set-design",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Developer",
       "slug": "developer",

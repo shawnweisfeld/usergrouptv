@@ -1,5 +1,8 @@
 {
   "title": "Nancy Hidy Wilson",
+  "tags": [
+    "Nancy Hidy Wilson"
+  ],
   "type": "speaker",
   "slug": "nancy-hidy-wilson",
   "date": "2015-01-31T23:00:11",

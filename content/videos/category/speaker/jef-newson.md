@@ -1,5 +1,8 @@
 {
   "title": "Jef Newson",
+  "tags": [
+    "Jef Newson"
+  ],
   "type": "speaker",
   "slug": "jef-newson",
   "date": "2011-02-25T00:44:44",

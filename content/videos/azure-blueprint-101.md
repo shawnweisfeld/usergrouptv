@@ -1,6 +1,9 @@
 {
   "title": "Azure Blueprint 101",
   "type": "recording",
+  "tags": [
+    "Azure Blueprint"
+  ],
   "date": "2020-04-08T18:34:29",
   "draft": false,
   "slug": "azure-blueprint-101",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure Blueprint",
       "slug": "azure-blueprint",

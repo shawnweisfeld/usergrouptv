@@ -1,6 +1,9 @@
 {
   "title": "Continuous Testing With React, Storybook, and WebdriverIO",
   "type": "recording",
+  "tags": [
+    "Testing"
+  ],
   "date": "2017-10-06T22:29:44",
   "draft": false,
   "slug": "continuous-testing-with-react-storybook-and-webdriverio",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Testing",
       "slug": "testing",

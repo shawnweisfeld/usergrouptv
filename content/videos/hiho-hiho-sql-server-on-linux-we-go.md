@@ -1,6 +1,9 @@
 {
   "title": "HiHo! HiHo! SQL Server on Linux, We Go!",
   "type": "recording",
+  "tags": [
+    "sql on linux"
+  ],
   "date": "2018-08-11T15:52:11",
   "draft": false,
   "slug": "hiho-hiho-sql-server-on-linux-we-go",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "sql on linux",
       "slug": "sql-on-linux",

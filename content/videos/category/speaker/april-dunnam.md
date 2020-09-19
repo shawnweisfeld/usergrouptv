@@ -1,5 +1,8 @@
 {
   "title": "April Dunnam",
+  "tags": [
+    "April Dunnam"
+  ],
   "type": "speaker",
   "slug": "april-dunnam",
   "date": "2019-11-13T17:25:35",

@@ -1,6 +1,9 @@
 {
   "title": "Microsoft’s Next Generation Web Initiatives: ASP.NET vNext, and Microsoft Edge - Part 2",
   "type": "recording",
+  "tags": [
+    "ASP.NET vNext"
+  ],
   "date": "2015-09-22T14:18:40",
   "draft": false,
   "slug": "microsofts-next-generation-web-initiatives-asp-net-vnext-and-microsoft-edge-part-2",
@@ -16,7 +19,7 @@
       "count": 12
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "ASP.NET vNext",
       "slug": "asp-net-vnext",

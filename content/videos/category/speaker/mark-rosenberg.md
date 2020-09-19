@@ -1,5 +1,8 @@
 {
   "title": "Mark Rosenberg",
+  "tags": [
+    "Mark Rosenberg"
+  ],
   "type": "speaker",
   "slug": "mark-rosenberg",
   "date": "2013-08-17T20:36:23",

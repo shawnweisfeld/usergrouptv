@@ -1,6 +1,9 @@
 {
   "title": "Exposing an Extensibility API for your Applications",
   "type": "recording",
+  "tags": [
+    "Architecture"
+  ],
   "date": "2016-05-18T11:34:04",
   "draft": false,
   "slug": "exposing-an-extensibility-api-for-your-applications",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Architecture",
       "slug": "architecture",

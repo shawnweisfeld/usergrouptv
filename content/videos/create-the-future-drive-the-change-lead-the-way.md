@@ -1,6 +1,9 @@
 {
   "title": "Create the Future. Drive the Change. Lead the Way!",
   "type": "recording",
+  "tags": [
+    "Career"
+  ],
   "date": "2017-08-04T14:23:43",
   "draft": false,
   "slug": "create-the-future-drive-the-change-lead-the-way",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Career",
       "slug": "career",

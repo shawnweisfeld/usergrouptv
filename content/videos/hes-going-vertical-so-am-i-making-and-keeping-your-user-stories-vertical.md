@@ -1,6 +1,9 @@
 {
   "title": "\"He's Going Vertical. So Am I\" - Making and Keeping Your User Stories Vertical",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2019-10-04T16:40:15",
   "draft": false,
   "slug": "hes-going-vertical-so-am-i-making-and-keeping-your-user-stories-vertical",
@@ -22,7 +25,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

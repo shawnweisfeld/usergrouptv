@@ -1,5 +1,8 @@
 {
   "title": "SQL Data Warehouse",
+  "tags": [
+    "SQL Data Warehouse"
+  ],
   "type": "tag",
   "slug": "sql-data-warehouse",
   "date": "2017-03-04T22:08:55",

@@ -1,5 +1,8 @@
 {
   "title": "Jonathan Bartlett",
+  "tags": [
+    "Jonathan Bartlett"
+  ],
   "type": "speaker",
   "slug": "jonathan-bartlett",
   "date": "2016-08-05T14:31:33",

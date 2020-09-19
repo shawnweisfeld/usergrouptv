@@ -1,5 +1,8 @@
 {
   "title": "ORM",
+  "tags": [
+    "ORM"
+  ],
   "type": "tag",
   "slug": "orm",
   "date": "2014-09-13T23:54:33",

@@ -1,6 +1,9 @@
 {
   "title": "Git in the Real World",
   "type": "recording",
+  "tags": [
+    "git"
+  ],
   "date": "2015-03-09T12:23:28",
   "draft": false,
   "slug": "git-in-the-real-world",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "git",
       "slug": "git",

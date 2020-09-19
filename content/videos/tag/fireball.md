@@ -1,5 +1,8 @@
 {
   "title": "Fireball",
+  "tags": [
+    "Fireball"
+  ],
   "type": "tag",
   "slug": "fireball",
   "date": "2016-11-14T18:47:46",

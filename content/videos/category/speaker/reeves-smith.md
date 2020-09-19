@@ -1,5 +1,8 @@
 {
   "title": "Reeves Smith",
+  "tags": [
+    "Reeves Smith"
+  ],
   "type": "speaker",
   "slug": "reeves-smith",
   "date": "2015-01-31T14:06:07",

@@ -1,6 +1,9 @@
 {
   "title": "WebMatrix to ASP.NET MVC Web Camp: Part 1 - Reboot Your JavaScript",
   "type": "recording",
+  "tags": [
+    "JavaScript"
+  ],
   "date": "2011-05-16T00:39:00",
   "draft": false,
   "slug": "webmatrix-to-asp-net-mvc-web-camp-part-1-reboot-your-javascript",
@@ -22,7 +25,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "JavaScript",
       "slug": "javascript",

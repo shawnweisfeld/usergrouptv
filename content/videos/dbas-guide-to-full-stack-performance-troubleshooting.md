@@ -1,6 +1,9 @@
 {
   "title": "DBA's guide to full stack performance troubleshooting",
   "type": "recording",
+  "tags": [
+    "SQL Performance"
+  ],
   "date": "2018-08-21T17:36:47",
   "draft": false,
   "slug": "dbas-guide-to-full-stack-performance-troubleshooting",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Performance",
       "slug": "sql-performance",

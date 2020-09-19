@@ -1,6 +1,9 @@
 {
   "title": "WebMatrix to ASP.NET MVC Web Camp: Part 3 - What is Microsoft WebMatrix?",
   "type": "recording",
+  "tags": [
+    "WebMatrix"
+  ],
   "date": "2011-05-16T00:57:24",
   "draft": false,
   "slug": "webmatrix-to-asp-net-mvc-web-camp-part-3-what-is-microsoft-webmatrix",
@@ -22,7 +25,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "WebMatrix",
       "slug": "webmatrix",

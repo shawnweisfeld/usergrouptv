@@ -1,5 +1,8 @@
 {
   "title": "React",
+  "tags": [
+    "React"
+  ],
   "type": "tag",
   "slug": "react",
   "date": "2017-01-26T15:25:59",

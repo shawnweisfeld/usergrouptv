@@ -1,6 +1,9 @@
 {
   "title": "What Happens When SQL Server 2014 Meets Cisco UCS? Better Business Intelligence",
   "type": "recording",
+  "tags": [
+    "Cisco"
+  ],
   "date": "2015-01-31T23:13:05",
   "draft": false,
   "slug": "what-happens-when-sql-server-2014-meets-cisco-ucs-better-business-intelligence",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Cisco",
       "slug": "cisco",

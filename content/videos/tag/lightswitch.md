@@ -1,5 +1,8 @@
 {
   "title": "LightSwitch",
+  "tags": [
+    "LightSwitch"
+  ],
   "type": "tag",
   "slug": "lightswitch",
   "date": "2011-04-19T23:08:24",

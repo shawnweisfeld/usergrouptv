@@ -1,6 +1,7 @@
 {
   "title": "How to use Microsoft Flow to schedule Twitter posts",
   "type": "recording",
+  "tags": [],
   "date": "2017-05-10T20:23:22",
   "draft": false,
   "slug": "how-to-use-microsoft-flow-to-schedule-twitter-posts",
@@ -16,7 +17,7 @@
       "count": 1
     }
   ],
-  "tags": [],
+  "ugtvtags": [],
   "meetups": [
     {
       "name": "Austin Office 365 and SharePoint User Group",

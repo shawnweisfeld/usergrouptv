@@ -1,5 +1,8 @@
 {
   "title": "Drew Shefman",
+  "tags": [
+    "Drew Shefman"
+  ],
   "type": "speaker",
   "slug": "drew-shefman",
   "date": "2018-09-29T15:03:26",

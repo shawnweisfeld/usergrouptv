@@ -1,6 +1,9 @@
 {
   "title": "Mission Possible: Interactive Performance Troubleshooting - Index",
   "type": "recording",
+  "tags": [
+    "SQL Performance"
+  ],
   "date": "2016-08-13T14:58:12",
   "draft": false,
   "slug": "mission-possible-interactive-performance-troubleshooting-index",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Performance",
       "slug": "sql-performance",

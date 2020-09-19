@@ -1,5 +1,8 @@
 {
   "title": "Lori Edwards",
+  "tags": [
+    "Lori Edwards"
+  ],
   "type": "speaker",
   "slug": "lori-edwards",
   "date": "2016-08-13T15:05:14",

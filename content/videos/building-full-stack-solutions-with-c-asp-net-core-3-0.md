@@ -1,6 +1,9 @@
 {
   "title": "Building Full-Stack solutions with C# & ASP.NET Core 3.0",
   "type": "recording",
+  "tags": [
+    "ASP.NET Core"
+  ],
   "date": "2019-08-12T14:12:57",
   "draft": false,
   "slug": "building-full-stack-solutions-with-c-asp-net-core-3-0",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "ASP.NET Core",
       "slug": "asp-net-core",

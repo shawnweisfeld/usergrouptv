@@ -1,6 +1,9 @@
 {
   "title": "SQL Server Performance Monitoring & Optimization",
   "type": "recording",
+  "tags": [
+    "SQL"
+  ],
   "date": "2013-08-17T20:01:17",
   "draft": false,
   "slug": "sql-server-performance-monitoring-optimization",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL",
       "slug": "sql",

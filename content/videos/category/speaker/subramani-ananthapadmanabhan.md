@@ -1,5 +1,8 @@
 {
   "title": "Subramani Ananthapadmanabhan",
+  "tags": [
+    "Subramani Ananthapadmanabhan"
+  ],
   "type": "speaker",
   "slug": "subramani-ananthapadmanabhan",
   "date": "2018-12-12T16:51:12",

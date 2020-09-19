@@ -1,6 +1,9 @@
 {
   "title": "Hard-Core Integration Intoxication",
   "type": "recording",
+  "tags": [
+    "Integration"
+  ],
   "date": "2017-07-21T14:08:22",
   "draft": false,
   "slug": "hard-core-integration-intoxication",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Integration",
       "slug": "integration",

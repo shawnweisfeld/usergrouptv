@@ -1,6 +1,9 @@
 {
   "title": "D3.js - Pimp your data  ",
   "type": "recording",
+  "tags": [
+    "D3.js"
+  ],
   "date": "2012-09-08T16:02:40",
   "draft": false,
   "slug": "d3-js-pimp-your-data",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "D3.js",
       "slug": "d3-js",

@@ -1,6 +1,9 @@
 {
   "title": "Governing Your Database Environment",
   "type": "recording",
+  "tags": [
+    "SQL Governance"
+  ],
   "date": "2011-08-27T22:41:24",
   "draft": false,
   "slug": "governing-your-database-environment",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Governance",
       "slug": "sql-governance",

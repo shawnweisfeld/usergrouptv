@@ -1,5 +1,8 @@
 {
   "title": "James Allen",
+  "tags": [
+    "James Allen"
+  ],
   "type": "speaker",
   "slug": "james-allen",
   "date": "2015-07-15T13:41:36",

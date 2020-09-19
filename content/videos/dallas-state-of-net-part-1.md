@@ -1,6 +1,9 @@
 {
   "title": "Dallas State of .NET Part 1",
   "type": "recording",
+  "tags": [
+    ".net"
+  ],
   "date": "2014-09-10T00:06:20",
   "draft": false,
   "slug": "dallas-state-of-net-part-1",
@@ -16,7 +19,7 @@
       "count": 12
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": ".net",
       "slug": "net",

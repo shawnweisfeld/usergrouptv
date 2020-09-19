@@ -1,5 +1,8 @@
 {
   "title": "Deanna Vickers",
+  "tags": [
+    "Deanna Vickers"
+  ],
   "type": "speaker",
   "slug": "deanna-vickers",
   "date": "2017-10-06T22:10:26",

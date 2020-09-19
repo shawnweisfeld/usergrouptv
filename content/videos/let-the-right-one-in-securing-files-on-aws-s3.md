@@ -1,6 +1,9 @@
 {
   "title": "Let the right one in: Securing files on AWS S3",
   "type": "recording",
+  "tags": [
+    "AWS"
+  ],
   "date": "2018-05-05T15:57:19",
   "draft": false,
   "slug": "let-the-right-one-in-securing-files-on-aws-s3",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "AWS",
       "slug": "aws",

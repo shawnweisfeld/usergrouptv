@@ -1,5 +1,8 @@
 {
   "title": "Brian McKeiver",
+  "tags": [
+    "Brian McKeiver"
+  ],
   "type": "speaker",
   "slug": "brian-mckeiver",
   "date": "2017-10-06T16:13:09",

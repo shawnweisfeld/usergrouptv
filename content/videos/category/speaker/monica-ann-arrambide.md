@@ -1,5 +1,8 @@
 {
   "title": "Monica Ann Arrambide",
+  "tags": [
+    "Monica Ann Arrambide"
+  ],
   "type": "speaker",
   "slug": "monica-ann-arrambide",
   "date": "2017-08-06T17:09:02",

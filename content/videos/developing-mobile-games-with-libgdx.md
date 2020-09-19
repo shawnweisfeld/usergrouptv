@@ -1,6 +1,9 @@
 {
   "title": "Developing Mobile Games With LibGDX",
   "type": "recording",
+  "tags": [
+    "LibGDX"
+  ],
   "date": "2014-09-26T18:49:01",
   "draft": false,
   "slug": "developing-mobile-games-with-libgdx",
@@ -9,7 +12,7 @@
   "moreinfo": "http://lrtechfest.com/speakers#sean-townsend",
   "thumbnail": "https://i.vimeocdn.com/video/490861175_295x166.jpg",
   "speakers": [],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "LibGDX",
       "slug": "libgdx",

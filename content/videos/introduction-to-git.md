@@ -1,6 +1,10 @@
 {
   "title": "Introduction to Git",
   "type": "recording",
+  "tags": [
+    "git",
+    "dvcs"
+  ],
   "date": "2012-02-02T15:26:43",
   "draft": false,
   "slug": "introduction-to-git",
@@ -16,7 +20,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "git",
       "slug": "git",

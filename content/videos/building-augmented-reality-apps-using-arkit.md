@@ -1,6 +1,9 @@
 {
   "title": "Building Augmented Reality Apps Using ARKit",
   "type": "recording",
+  "tags": [
+    "ARKit"
+  ],
   "date": "2018-05-05T15:33:09",
   "draft": false,
   "slug": "building-augmented-reality-apps-using-arkit",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "ARKit",
       "slug": "arkit",

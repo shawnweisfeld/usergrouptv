@@ -1,5 +1,8 @@
 {
   "title": "Alex Powers",
+  "tags": [
+    "Alex Powers"
+  ],
   "type": "speaker",
   "slug": "alex-powers",
   "date": "2020-09-09T15:22:13",

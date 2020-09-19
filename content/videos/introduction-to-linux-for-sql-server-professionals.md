@@ -1,6 +1,9 @@
 {
   "title": "Introduction to Linux for SQL Server Professionals",
   "type": "recording",
+  "tags": [
+    "sql on linux"
+  ],
   "date": "2018-06-23T19:57:05",
   "draft": false,
   "slug": "introduction-to-linux-for-sql-server-professionals",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "sql on linux",
       "slug": "sql-on-linux",

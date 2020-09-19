@@ -1,6 +1,10 @@
 {
   "title": "Build Once For Windows Phone and Windows 8",
   "type": "recording",
+  "tags": [
+    "wp8",
+    "win8"
+  ],
   "date": "2013-09-28T02:41:25",
   "draft": false,
   "slug": "build-once-for-windows-phone-and-windows-8",
@@ -16,7 +20,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "wp8",
       "slug": "wp8",

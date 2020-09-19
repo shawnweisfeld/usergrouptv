@@ -1,5 +1,8 @@
 {
   "title": "Tony Champion",
+  "tags": [
+    "Tony Champion"
+  ],
   "type": "speaker",
   "slug": "tony-champion",
   "date": "2019-07-08T13:36:37",

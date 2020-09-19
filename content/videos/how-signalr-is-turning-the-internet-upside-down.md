@@ -1,6 +1,9 @@
 {
   "title": "How SignalR is Turning the Internet Upside Down",
   "type": "recording",
+  "tags": [
+    "SignalR"
+  ],
   "date": "2014-08-15T20:04:41",
   "draft": false,
   "slug": "how-signalr-is-turning-the-internet-upside-down",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SignalR",
       "slug": "signalr",

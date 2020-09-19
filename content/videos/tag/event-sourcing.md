@@ -1,5 +1,8 @@
 {
   "title": "Event Sourcing",
+  "tags": [
+    "Event Sourcing"
+  ],
   "type": "tag",
   "slug": "event-sourcing",
   "date": "2015-09-26T12:15:10",

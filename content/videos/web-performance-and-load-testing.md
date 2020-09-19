@@ -1,6 +1,9 @@
 {
   "title": "Web Performance and Load Testing",
   "type": "recording",
+  "tags": [
+    "Testing"
+  ],
   "date": "2015-09-26T12:01:07",
   "draft": false,
   "slug": "web-performance-and-load-testing",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Testing",
       "slug": "testing",

@@ -1,5 +1,8 @@
 {
   "title": "Diane Schuster",
+  "tags": [
+    "Diane Schuster"
+  ],
   "type": "speaker",
   "slug": "diane-schuster",
   "date": "2017-03-04T21:56:18",

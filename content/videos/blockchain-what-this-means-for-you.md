@@ -1,6 +1,9 @@
 {
   "title": "Blockchain: What this means for you",
   "type": "recording",
+  "tags": [
+    "Blockchain"
+  ],
   "date": "2019-10-09T23:37:13",
   "draft": false,
   "slug": "blockchain-what-this-means-for-you",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Blockchain",
       "slug": "blockchain",

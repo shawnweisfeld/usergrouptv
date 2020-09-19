@@ -1,6 +1,9 @@
 {
   "title": "Cross-Platform Development With jQuery Mobile",
   "type": "recording",
+  "tags": [
+    "jQuery Mobile"
+  ],
   "date": "2011-05-24T18:16:17",
   "draft": false,
   "slug": "cross-platform-development-with-jquery-mobile",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "jQuery Mobile",
       "slug": "jquery-mobile",

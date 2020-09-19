@@ -1,6 +1,9 @@
 {
   "title": "Power Platform World Tour - Madrid",
   "type": "recording",
+  "tags": [
+    "Power BI"
+  ],
   "date": "2019-10-09T23:40:11",
   "draft": false,
   "slug": "power-platform-world-tour-madrid",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Power BI",
       "slug": "power-bi",

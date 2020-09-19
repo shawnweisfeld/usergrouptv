@@ -1,5 +1,8 @@
 {
   "title": "Power Map",
+  "tags": [
+    "Power Map"
+  ],
   "type": "tag",
   "slug": "power-map",
   "date": "2014-05-03T19:49:54",

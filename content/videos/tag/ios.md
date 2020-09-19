@@ -1,5 +1,8 @@
 {
   "title": "iOS",
+  "tags": [
+    "iOS"
+  ],
   "type": "tag",
   "slug": "ios",
   "date": "2014-09-26T11:26:00",

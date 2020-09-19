@@ -1,5 +1,8 @@
 {
   "title": "Daniel Knoodle",
+  "tags": [
+    "Daniel Knoodle"
+  ],
   "type": "speaker",
   "slug": "daniel-knoodle",
   "date": "2011-04-14T22:43:38",

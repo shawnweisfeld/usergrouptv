@@ -1,6 +1,9 @@
 {
   "title": "Build Your Mobile App with Notifications",
   "type": "recording",
+  "tags": [
+    "Mobile Notifications"
+  ],
   "date": "2017-07-21T14:12:11",
   "draft": false,
   "slug": "build-your-mobile-app-with-notifications",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Mobile Notifications",
       "slug": "mobile-notifications",

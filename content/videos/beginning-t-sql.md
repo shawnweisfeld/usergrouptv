@@ -1,6 +1,9 @@
 {
   "title": "Beginning T-SQL",
   "type": "recording",
+  "tags": [
+    "SQL"
+  ],
   "date": "2018-08-25T19:28:43",
   "draft": false,
   "slug": "beginning-t-sql",
@@ -16,7 +19,7 @@
       "count": 7
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL",
       "slug": "sql",

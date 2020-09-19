@@ -1,5 +1,8 @@
 {
   "title": "SQL TDE",
+  "tags": [
+    "SQL TDE"
+  ],
   "type": "tag",
   "slug": "sql-tde",
   "date": "2011-08-27T22:52:03",

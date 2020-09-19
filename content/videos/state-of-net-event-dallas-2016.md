@@ -1,6 +1,9 @@
 {
   "title": "State of .NET Event - Dallas 2016",
   "type": "recording",
+  "tags": [
+    "Developer"
+  ],
   "date": "2016-12-15T12:54:46",
   "draft": false,
   "slug": "state-of-net-event-dallas-2016",
@@ -16,7 +19,7 @@
       "count": 12
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Developer",
       "slug": "developer",

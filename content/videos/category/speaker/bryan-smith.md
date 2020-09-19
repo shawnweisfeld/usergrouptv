@@ -1,5 +1,8 @@
 {
   "title": "Bryan Smith",
+  "tags": [
+    "Bryan Smith"
+  ],
   "type": "speaker",
   "slug": "bryan-smith",
   "date": "2014-05-03T19:53:02",

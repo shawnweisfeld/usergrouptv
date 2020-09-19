@@ -1,6 +1,9 @@
 {
   "title": "Release Your Inner Ninja",
   "type": "recording",
+  "tags": [
+    "tools"
+  ],
   "date": "2014-05-16T10:02:52",
   "draft": false,
   "slug": "release-your-inner-ninja",
@@ -16,7 +19,7 @@
       "count": 11
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "tools",
       "slug": "tools",

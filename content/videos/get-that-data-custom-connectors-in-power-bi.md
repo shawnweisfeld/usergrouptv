@@ -1,6 +1,9 @@
 {
   "title": "Get that Data! Custom Connectors in Power BI",
   "type": "recording",
+  "tags": [
+    "Power BI"
+  ],
   "date": "2018-05-05T15:39:09",
   "draft": false,
   "slug": "get-that-data-custom-connectors-in-power-bi",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Power BI",
       "slug": "power-bi",

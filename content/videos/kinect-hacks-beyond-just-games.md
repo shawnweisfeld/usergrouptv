@@ -1,6 +1,9 @@
 {
   "title": "Kinect Hacks beyond just Games",
   "type": "recording",
+  "tags": [
+    "Kinect"
+  ],
   "date": "2012-01-28T15:32:45",
   "draft": false,
   "slug": "kinect-hacks-beyond-just-games",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Kinect",
       "slug": "kinect",

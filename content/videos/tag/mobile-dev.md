@@ -1,5 +1,8 @@
 {
   "title": "Mobile Dev",
+  "tags": [
+    "Mobile Dev"
+  ],
   "type": "tag",
   "slug": "mobile-dev",
   "date": "2017-07-21T14:16:01",

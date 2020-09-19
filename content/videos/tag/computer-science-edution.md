@@ -1,5 +1,8 @@
 {
   "title": "Computer Science Edution",
+  "tags": [
+    "Computer Science Edution"
+  ],
   "type": "tag",
   "slug": "computer-science-edution",
   "date": "2017-10-06T22:07:05",

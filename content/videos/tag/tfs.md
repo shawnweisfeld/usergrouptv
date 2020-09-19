@@ -1,5 +1,8 @@
 {
   "title": "TFS",
+  "tags": [
+    "TFS"
+  ],
   "type": "tag",
   "slug": "tfs",
   "date": "2016-08-05T14:43:07",

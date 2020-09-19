@@ -1,5 +1,8 @@
 {
   "title": "Ben Humphrey",
+  "tags": [
+    "Ben Humphrey"
+  ],
   "type": "speaker",
   "slug": "ben-humphrey",
   "date": "2016-04-16T10:56:28",

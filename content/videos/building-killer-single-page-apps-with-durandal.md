@@ -1,6 +1,9 @@
 {
   "title": "Building Killer Single-page Apps with Durandal",
   "type": "recording",
+  "tags": [
+    "Durandal"
+  ],
   "date": "2013-10-11T21:24:51",
   "draft": false,
   "slug": "building-killer-single-page-apps-with-durandal",
@@ -16,7 +19,7 @@
       "count": 12
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Durandal",
       "slug": "durandal",

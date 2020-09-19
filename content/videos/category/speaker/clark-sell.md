@@ -1,5 +1,8 @@
 {
   "title": "Clark Sell",
+  "tags": [
+    "Clark Sell"
+  ],
   "type": "speaker",
   "slug": "clark-sell",
   "date": "2011-05-16T01:04:01",

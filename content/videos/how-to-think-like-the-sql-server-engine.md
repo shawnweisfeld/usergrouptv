@@ -1,6 +1,9 @@
 {
   "title": "How to Think Like the SQL Server Engine",
   "type": "recording",
+  "tags": [
+    "SQL Server"
+  ],
   "date": "2017-06-17T14:24:57",
   "draft": false,
   "slug": "how-to-think-like-the-sql-server-engine",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Server",
       "slug": "sql-server",

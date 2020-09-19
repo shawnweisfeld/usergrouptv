@@ -1,6 +1,9 @@
 {
   "title": "Power of a Nudge",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2017-09-11T12:53:29",
   "draft": false,
   "slug": "power-of-a-nudge",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

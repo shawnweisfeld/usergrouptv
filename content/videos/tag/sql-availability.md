@@ -1,5 +1,8 @@
 {
   "title": "SQL Availability",
+  "tags": [
+    "SQL Availability"
+  ],
   "type": "tag",
   "slug": "sql-availability",
   "date": "2018-06-23T19:42:34",

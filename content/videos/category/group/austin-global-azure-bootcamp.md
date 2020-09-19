@@ -1,6 +1,9 @@
 {
   "title": "Austin Global Azure Bootcamp",
   "type": "meetup",
+  "tags": [
+    "Austin Global Azure Bootcamp"
+  ],
   "slug": "austin-global-azure-bootcamp",
   "date": "2019-04-27T13:51:15",
   "draft": false,

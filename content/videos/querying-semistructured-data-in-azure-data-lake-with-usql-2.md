@@ -1,6 +1,9 @@
 {
   "title": "Querying Semistructured Data in Azure Data Lake with USQL",
   "type": "recording",
+  "tags": [
+    "Azure Data Lake"
+  ],
   "date": "2018-06-23T19:53:35",
   "draft": false,
   "slug": "querying-semistructured-data-in-azure-data-lake-with-usql-2",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure Data Lake",
       "slug": "azure-data-lake",

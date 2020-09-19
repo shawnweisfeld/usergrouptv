@@ -1,6 +1,9 @@
 {
   "title": "Knockout.js",
   "type": "recording",
+  "tags": [
+    "Knockout.js"
+  ],
   "date": "2012-03-22T12:00:36",
   "draft": false,
   "slug": "knockout-js",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Knockout.js",
       "slug": "knockout-js",

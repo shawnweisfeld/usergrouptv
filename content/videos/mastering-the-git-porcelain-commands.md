@@ -1,6 +1,9 @@
 {
   "title": "Mastering the Git porcelain commands",
   "type": "recording",
+  "tags": [
+    "git"
+  ],
   "date": "2020-06-23T13:06:06",
   "draft": false,
   "slug": "mastering-the-git-porcelain-commands",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "git",
       "slug": "git",

@@ -1,5 +1,8 @@
 {
   "title": "Razor",
+  "tags": [
+    "Razor"
+  ],
   "type": "tag",
   "slug": "razor",
   "date": "2012-04-04T12:19:27",

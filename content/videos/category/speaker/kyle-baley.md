@@ -1,5 +1,8 @@
 {
   "title": "Kyle Baley",
+  "tags": [
+    "Kyle Baley"
+  ],
   "type": "speaker",
   "slug": "kyle-baley",
   "date": "2015-09-26T12:18:28",

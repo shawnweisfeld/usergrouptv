@@ -1,6 +1,9 @@
 {
   "title": "SharePoint Online Performance",
   "type": "recording",
+  "tags": [
+    "SharePoint Online"
+  ],
   "date": "2017-05-10T20:21:48",
   "draft": false,
   "slug": "sharepoint-online-performance",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SharePoint Online",
       "slug": "sharepoint-online",

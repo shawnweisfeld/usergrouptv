@@ -1,6 +1,10 @@
 {
   "title": "Handling Errors and Data Anomalies in SSIS",
   "type": "recording",
+  "tags": [
+    "SSIS",
+    "ETL"
+  ],
   "date": "2013-08-24T22:00:54",
   "draft": false,
   "slug": "handling-errors-and-data-anomalies-in-ssis",
@@ -16,7 +20,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SSIS",
       "slug": "ssis",

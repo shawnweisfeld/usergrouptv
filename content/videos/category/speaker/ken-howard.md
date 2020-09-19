@@ -1,5 +1,8 @@
 {
   "title": "Ken Howard",
+  "tags": [
+    "Ken Howard"
+  ],
   "type": "speaker",
   "slug": "ken-howard",
   "date": "2014-08-22T17:36:13",

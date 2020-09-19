@@ -1,5 +1,8 @@
 {
   "title": "John Tran",
+  "tags": [
+    "John Tran"
+  ],
   "type": "speaker",
   "slug": "john-tran",
   "date": "2019-04-16T13:35:56",

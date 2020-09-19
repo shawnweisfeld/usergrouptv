@@ -1,5 +1,8 @@
 {
   "title": "Blazor",
+  "tags": [
+    "Blazor"
+  ],
   "type": "tag",
   "slug": "blazor",
   "date": "2020-09-14T17:44:41",

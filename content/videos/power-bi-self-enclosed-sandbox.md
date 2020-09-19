@@ -1,6 +1,9 @@
 {
   "title": "Power BI Self Enclosed Sandbox",
   "type": "recording",
+  "tags": [
+    "Power BI"
+  ],
   "date": "2020-07-08T13:40:12",
   "draft": false,
   "slug": "power-bi-self-enclosed-sandbox",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Power BI",
       "slug": "power-bi",

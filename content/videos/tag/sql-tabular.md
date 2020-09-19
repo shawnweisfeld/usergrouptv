@@ -1,5 +1,8 @@
 {
   "title": "SQL Tabular",
+  "tags": [
+    "SQL Tabular"
+  ],
   "type": "tag",
   "slug": "sql-tabular",
   "date": "2015-01-31T18:47:03",

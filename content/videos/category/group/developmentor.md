@@ -1,6 +1,9 @@
 {
   "title": "DevelopMentor",
   "type": "meetup",
+  "tags": [
+    "DevelopMentor"
+  ],
   "slug": "developmentor",
   "date": "2011-04-20T14:30:23",
   "draft": false,

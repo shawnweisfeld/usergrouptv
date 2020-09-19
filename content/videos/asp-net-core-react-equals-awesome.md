@@ -1,6 +1,9 @@
 {
   "title": "ASP.NET Core + React Equals Awesome",
   "type": "recording",
+  "tags": [
+    "ASP.NET Core"
+  ],
   "date": "2017-07-20T14:09:00",
   "draft": false,
   "slug": "asp-net-core-react-equals-awesome",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "ASP.NET Core",
       "slug": "asp-net-core",

@@ -1,6 +1,9 @@
 {
   "title": "Agile Architecture ",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2011-02-25T13:39:47",
   "draft": false,
   "slug": "agile-architecture",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

@@ -1,5 +1,8 @@
 {
   "title": "Azure IaaS",
+  "tags": [
+    "Azure IaaS"
+  ],
   "type": "tag",
   "slug": "azure-iaas",
   "date": "2017-10-14T12:00:28",

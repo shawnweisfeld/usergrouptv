@@ -1,6 +1,9 @@
 {
   "title": "Joomla Day Texas",
   "type": "meetup",
+  "tags": [
+    "Joomla Day Texas"
+  ],
   "slug": "joomla-day-texas",
   "date": "2019-09-28T17:03:52",
   "draft": false,

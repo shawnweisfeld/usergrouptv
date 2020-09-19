@@ -1,6 +1,9 @@
 {
   "title": "Containers without Servers, the coolest thing in Azure",
   "type": "recording",
+  "tags": [
+    "ACI"
+  ],
   "date": "2019-04-27T13:45:58",
   "draft": false,
   "slug": "containers-without-servers-the-coolest-thing-in-azure",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "ACI",
       "slug": "aci",

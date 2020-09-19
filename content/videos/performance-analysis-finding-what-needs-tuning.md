@@ -1,6 +1,10 @@
 {
   "title": "Performance Analysis – Finding What Needs Tuning",
   "type": "recording",
+  "tags": [
+    "SQL Server",
+    "Tuning"
+  ],
   "date": "2012-08-25T22:00:47",
   "draft": false,
   "slug": "performance-analysis-finding-what-needs-tuning",
@@ -16,7 +20,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Server",
       "slug": "sql-server",

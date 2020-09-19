@@ -1,6 +1,9 @@
 {
   "title": "The Bot Continuum and You",
   "type": "recording",
+  "tags": [
+    "bots"
+  ],
   "date": "2019-07-10T13:40:57",
   "draft": false,
   "slug": "the-bot-continuum-and-you",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "bots",
       "slug": "bots",

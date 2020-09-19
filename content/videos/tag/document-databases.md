@@ -1,5 +1,8 @@
 {
   "title": "Document Databases",
+  "tags": [
+    "Document Databases"
+  ],
   "type": "tag",
   "slug": "document-databases",
   "date": "2014-06-14T10:58:37",

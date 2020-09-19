@@ -1,5 +1,8 @@
 {
   "title": "Alex Frankel",
+  "tags": [
+    "Alex Frankel"
+  ],
   "type": "speaker",
   "slug": "alex-frankel",
   "date": "2020-04-08T18:34:29",

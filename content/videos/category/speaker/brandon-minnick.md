@@ -1,5 +1,8 @@
 {
   "title": "Brandon Minnick",
+  "tags": [
+    "Brandon Minnick"
+  ],
   "type": "speaker",
   "slug": "brandon-minnick",
   "date": "2018-10-13T14:17:50",

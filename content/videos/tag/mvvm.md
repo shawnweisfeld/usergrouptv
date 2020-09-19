@@ -1,5 +1,8 @@
 {
   "title": "mvvm",
+  "tags": [
+    "mvvm"
+  ],
   "type": "tag",
   "slug": "mvvm",
   "date": "2017-10-14T11:43:45",

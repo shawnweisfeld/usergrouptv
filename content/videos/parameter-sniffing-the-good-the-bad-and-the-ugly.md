@@ -1,6 +1,9 @@
 {
   "title": "Parameter Sniffing the Good, the Bad, and the Ugly",
   "type": "recording",
+  "tags": [
+    "MS SQL"
+  ],
   "date": "2016-10-18T10:43:46",
   "draft": false,
   "slug": "parameter-sniffing-the-good-the-bad-and-the-ugly",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MS SQL",
       "slug": "ms-sql",

@@ -1,6 +1,9 @@
 {
   "title": "Chicago PASS",
   "type": "meetup",
+  "tags": [
+    "Chicago PASS"
+  ],
   "slug": "chicago-pass",
   "date": "2011-08-16T02:40:07",
   "draft": false,

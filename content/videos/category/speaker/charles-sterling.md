@@ -1,5 +1,8 @@
 {
   "title": "Charles Sterling",
+  "tags": [
+    "Charles Sterling"
+  ],
   "type": "speaker",
   "slug": "charles-sterling",
   "date": "2020-06-10T16:35:48",

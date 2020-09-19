@@ -1,5 +1,8 @@
 {
   "title": "AI",
+  "tags": [
+    "AI"
+  ],
   "type": "tag",
   "slug": "ai",
   "date": "2014-08-11T11:36:15",

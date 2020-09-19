@@ -1,6 +1,10 @@
 {
   "title": "Designing for Windows 8",
   "type": "recording",
+  "tags": [
+    "Design",
+    "win8"
+  ],
   "date": "2013-05-09T13:24:23",
   "draft": false,
   "slug": "designing-for-windows-8",
@@ -16,7 +20,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Design",
       "slug": "design",

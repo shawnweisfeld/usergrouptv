@@ -1,6 +1,9 @@
 {
   "title": "Mature Development Series -- TDD - Hands On Practice (Part 3) ",
   "type": "recording",
+  "tags": [
+    "TDD"
+  ],
   "date": "2012-06-05T11:24:18",
   "draft": false,
   "slug": "mature-development-series-tdd-hands-on-practice-part-3",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "TDD",
       "slug": "tdd",

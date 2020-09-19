@@ -1,6 +1,10 @@
 {
   "title": "INTEGRATING UX INTO AGILE",
   "type": "recording",
+  "tags": [
+    "Agile",
+    "UX"
+  ],
   "date": "2014-08-22T17:37:06",
   "draft": false,
   "slug": "integrating-ux-into-agile",
@@ -16,7 +20,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

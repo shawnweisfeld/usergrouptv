@@ -1,5 +1,8 @@
 {
   "title": "ACID",
+  "tags": [
+    "ACID"
+  ],
   "type": "tag",
   "slug": "acid",
   "date": "2020-05-14T12:03:20",

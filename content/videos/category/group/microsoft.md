@@ -1,6 +1,9 @@
 {
   "title": "Microsoft",
   "type": "meetup",
+  "tags": [
+    "Microsoft"
+  ],
   "slug": "microsoft",
   "date": "2012-06-13T00:28:43",
   "draft": false,

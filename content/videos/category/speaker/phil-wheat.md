@@ -1,5 +1,8 @@
 {
   "title": "Phil Wheat",
+  "tags": [
+    "Phil Wheat"
+  ],
   "type": "speaker",
   "slug": "phil-wheat",
   "date": "2016-09-24T19:45:32",

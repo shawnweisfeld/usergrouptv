@@ -1,5 +1,8 @@
 {
   "title": "LINQ",
+  "tags": [
+    "LINQ"
+  ],
   "type": "tag",
   "slug": "linq",
   "date": "2015-09-12T16:25:34",

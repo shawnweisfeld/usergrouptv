@@ -1,6 +1,9 @@
 {
   "title": "Understanding Backups",
   "type": "recording",
+  "tags": [
+    "SQL Backup"
+  ],
   "date": "2012-08-25T20:47:42",
   "draft": false,
   "slug": "understanding-backups",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Backup",
       "slug": "sql-backup",

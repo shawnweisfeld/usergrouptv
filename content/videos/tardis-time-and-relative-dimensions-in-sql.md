@@ -1,6 +1,9 @@
 {
   "title": "TARDIS: Time And Relative Dimensions in SQL!",
   "type": "recording",
+  "tags": [
+    "Data Warehouse"
+  ],
   "date": "2016-08-27T15:50:07",
   "draft": false,
   "slug": "tardis-time-and-relative-dimensions-in-sql",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Data Warehouse",
       "slug": "data-warehouse",

@@ -1,6 +1,9 @@
 {
   "title": "SQL Server 2019 New Features",
   "type": "recording",
+  "tags": [
+    "MS SQL"
+  ],
   "date": "2019-03-19T16:24:05",
   "draft": false,
   "slug": "sql-server-2019-new-features",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MS SQL",
       "slug": "ms-sql",

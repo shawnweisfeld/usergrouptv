@@ -1,5 +1,8 @@
 {
   "title": "replication",
+  "tags": [
+    "replication"
+  ],
   "type": "tag",
   "slug": "replication",
   "date": "2012-08-24T00:11:05",

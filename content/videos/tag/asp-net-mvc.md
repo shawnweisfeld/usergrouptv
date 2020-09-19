@@ -1,5 +1,8 @@
 {
   "title": "ASP.NET MVC",
+  "tags": [
+    "ASP.NET MVC"
+  ],
   "type": "tag",
   "slug": "asp-net-mvc",
   "date": "2013-03-01T20:37:25",

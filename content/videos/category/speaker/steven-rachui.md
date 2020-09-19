@@ -1,5 +1,8 @@
 {
   "title": "Steven Rachui",
+  "tags": [
+    "Steven Rachui"
+  ],
   "type": "speaker",
   "slug": "steven-rachui",
   "date": "2015-09-08T11:59:04",

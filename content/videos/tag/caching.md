@@ -1,5 +1,8 @@
 {
   "title": "Caching",
+  "tags": [
+    "Caching"
+  ],
   "type": "tag",
   "slug": "caching",
   "date": "2017-04-10T11:09:34",

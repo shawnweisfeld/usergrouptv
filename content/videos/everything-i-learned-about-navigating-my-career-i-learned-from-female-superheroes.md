@@ -1,6 +1,9 @@
 {
   "title": "Everything I Learned About Navigating My Career, I Learned From Female Superheroes",
   "type": "recording",
+  "tags": [
+    "Career"
+  ],
   "date": "2017-08-05T14:29:19",
   "draft": false,
   "slug": "everything-i-learned-about-navigating-my-career-i-learned-from-female-superheroes",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Career",
       "slug": "career",

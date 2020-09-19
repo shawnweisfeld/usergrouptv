@@ -1,5 +1,8 @@
 {
   "title": "Cecil Phillip",
+  "tags": [
+    "Cecil Phillip"
+  ],
   "type": "speaker",
   "slug": "cecil-phillip",
   "date": "2020-09-08T13:49:27",

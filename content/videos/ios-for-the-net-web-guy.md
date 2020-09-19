@@ -1,6 +1,9 @@
 {
   "title": "iOS for the .Net Web Guy",
   "type": "recording",
+  "tags": [
+    "iOS"
+  ],
   "date": "2014-08-15T20:08:48",
   "draft": false,
   "slug": "ios-for-the-net-web-guy",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "iOS",
       "slug": "ios",

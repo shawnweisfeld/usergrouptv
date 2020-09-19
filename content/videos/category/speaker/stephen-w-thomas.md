@@ -1,5 +1,8 @@
 {
   "title": "Stephen W. Thomas",
+  "tags": [
+    "Stephen W. Thomas"
+  ],
   "type": "speaker",
   "slug": "stephen-w-thomas",
   "date": "2018-04-21T13:17:28",

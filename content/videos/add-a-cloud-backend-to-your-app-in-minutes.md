@@ -1,6 +1,9 @@
 {
   "title": "Add a cloud backend to your app in minutes",
   "type": "recording",
+  "tags": [
+    "Azure Mobile Services"
+  ],
   "date": "2015-05-13T13:21:34",
   "draft": false,
   "slug": "add-a-cloud-backend-to-your-app-in-minutes",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure Mobile Services",
       "slug": "azure-mobile-services",

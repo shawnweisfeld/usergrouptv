@@ -1,5 +1,8 @@
 {
   "title": "Ryan Lowdermilk",
+  "tags": [
+    "Ryan Lowdermilk"
+  ],
   "type": "speaker",
   "slug": "ryan-lowdermilk",
   "date": "2013-03-01T20:42:47",

@@ -1,5 +1,8 @@
 {
   "title": "Alexis Puchek",
+  "tags": [
+    "Alexis Puchek"
+  ],
   "type": "speaker",
   "slug": "alexis-puchek",
   "date": "2017-08-06T16:44:08",

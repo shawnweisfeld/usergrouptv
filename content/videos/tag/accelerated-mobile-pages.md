@@ -1,5 +1,8 @@
 {
   "title": "Accelerated Mobile Pages",
+  "tags": [
+    "Accelerated Mobile Pages"
+  ],
   "type": "tag",
   "slug": "accelerated-mobile-pages",
   "date": "2017-10-05T21:56:40",

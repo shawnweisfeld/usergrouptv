@@ -1,5 +1,8 @@
 {
   "title": "Dashboards",
+  "tags": [
+    "Dashboards"
+  ],
   "type": "tag",
   "slug": "dashboards",
   "date": "2017-10-06T22:11:34",

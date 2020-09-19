@@ -1,6 +1,10 @@
 {
   "title": "Capture Change and Apply it with CDC & SSIS",
   "type": "recording",
+  "tags": [
+    "SSIS",
+    "CDC"
+  ],
   "date": "2015-01-31T18:44:00",
   "draft": false,
   "slug": "capture-change-and-apply-it-with-cdc-ssis",
@@ -16,7 +20,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SSIS",
       "slug": "ssis",

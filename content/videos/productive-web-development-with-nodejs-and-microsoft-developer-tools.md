@@ -1,6 +1,9 @@
 {
   "title": "Productive Web Development with NodeJS and Microsoft Developer Tools",
   "type": "recording",
+  "tags": [
+    "Nodejs"
+  ],
   "date": "2019-06-24T16:37:45",
   "draft": false,
   "slug": "productive-web-development-with-nodejs-and-microsoft-developer-tools",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Nodejs",
       "slug": "nodejs",

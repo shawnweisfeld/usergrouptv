@@ -1,6 +1,9 @@
 {
   "title": "Microsoft Cloud Adoption Framework for Azure in a Nutshell",
   "type": "recording",
+  "tags": [
+    "Azure"
+  ],
   "date": "2019-11-13T17:28:13",
   "draft": false,
   "slug": "microsoft-cloud-adoption-framework-for-azure-in-a-nutshell",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

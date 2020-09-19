@@ -1,5 +1,8 @@
 {
   "title": "SSDT",
+  "tags": [
+    "SSDT"
+  ],
   "type": "tag",
   "slug": "ssdt",
   "date": "2015-01-31T13:59:33",

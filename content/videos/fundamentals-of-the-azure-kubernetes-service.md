@@ -1,6 +1,9 @@
 {
   "title": "Fundamentals of the Azure Kubernetes Service",
   "type": "recording",
+  "tags": [
+    "K8S"
+  ],
   "date": "2019-08-14T14:16:16",
   "draft": false,
   "slug": "fundamentals-of-the-azure-kubernetes-service",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "K8S",
       "slug": "k8s",

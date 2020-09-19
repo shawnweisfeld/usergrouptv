@@ -1,6 +1,9 @@
 {
   "title": "Building A Bridge for the Future, How can DevOps Change Your Organization",
   "type": "recording",
+  "tags": [
+    "DevOps"
+  ],
   "date": "2018-09-29T15:22:32",
   "draft": false,
   "slug": "building-a-bridge-for-the-future-how-can-devops-change-your-organization",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "DevOps",
       "slug": "devops",

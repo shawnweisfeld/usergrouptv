@@ -1,5 +1,8 @@
 {
   "title": "XML",
+  "tags": [
+    "XML"
+  ],
   "type": "tag",
   "slug": "xml",
   "date": "2012-04-28T13:43:54",

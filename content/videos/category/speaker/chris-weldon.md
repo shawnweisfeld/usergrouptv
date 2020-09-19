@@ -1,5 +1,8 @@
 {
   "title": "Chris Weldon",
+  "tags": [
+    "Chris Weldon"
+  ],
   "type": "speaker",
   "slug": "chris-weldon",
   "date": "2011-02-25T13:30:42",

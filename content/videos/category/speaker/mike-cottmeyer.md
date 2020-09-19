@@ -1,5 +1,8 @@
 {
   "title": "Mike Cottmeyer",
+  "tags": [
+    "Mike Cottmeyer"
+  ],
   "type": "speaker",
   "slug": "mike-cottmeyer",
   "date": "2018-05-24T16:52:00",

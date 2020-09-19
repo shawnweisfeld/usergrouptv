@@ -1,5 +1,8 @@
 {
   "title": "Yogi Aradhye",
+  "tags": [
+    "Yogi Aradhye"
+  ],
   "type": "speaker",
   "slug": "yogi-aradhye",
   "date": "2020-02-10T21:35:29",

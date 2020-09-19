@@ -1,6 +1,9 @@
 {
   "title": "Want to Build Software? Get Your Act Together First!",
   "type": "recording",
+  "tags": [
+    "Practices"
+  ],
   "date": "2013-09-28T18:34:15",
   "draft": false,
   "slug": "want-to-build-software-get-your-act-together-first",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Practices",
       "slug": "practices",

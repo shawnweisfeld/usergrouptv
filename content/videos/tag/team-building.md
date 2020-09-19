@@ -1,5 +1,8 @@
 {
   "title": "Team building",
+  "tags": [
+    "Team building"
+  ],
   "type": "tag",
   "slug": "team-building",
   "date": "2017-08-06T16:44:08",

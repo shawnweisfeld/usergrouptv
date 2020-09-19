@@ -1,5 +1,8 @@
 {
   "title": "tools",
+  "tags": [
+    "tools"
+  ],
   "type": "tag",
   "slug": "tools",
   "date": "2014-09-13T23:46:09",

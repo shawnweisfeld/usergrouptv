@@ -1,6 +1,9 @@
 {
   "title": "Basics of Data Modeling for BI Reporting",
   "type": "recording",
+  "tags": [
+    "Reporting"
+  ],
   "date": "2020-02-08T16:20:52",
   "draft": false,
   "slug": "basics-of-data-modeling-for-bi-reporting",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Reporting",
       "slug": "reporting",

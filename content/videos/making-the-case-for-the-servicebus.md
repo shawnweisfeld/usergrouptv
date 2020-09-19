@@ -1,6 +1,9 @@
 {
   "title": "Making the case for the ServiceBus",
   "type": "recording",
+  "tags": [
+    "Azure Service Bus"
+  ],
   "date": "2017-04-22T13:08:54",
   "draft": false,
   "slug": "making-the-case-for-the-servicebus",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure Service Bus",
       "slug": "azure-service-bus",

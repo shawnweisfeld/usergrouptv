@@ -1,6 +1,9 @@
 {
   "title": "The Pleasures and Perils of a Programming Polyglot",
   "type": "recording",
+  "tags": [
+    "Polyglot"
+  ],
   "date": "2017-08-04T14:22:36",
   "draft": false,
   "slug": "the-pleasures-and-perils-of-a-programming-polyglot",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Polyglot",
       "slug": "polyglot",

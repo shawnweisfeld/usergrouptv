@@ -1,6 +1,9 @@
 {
   "title": "Confessions of a MEF Addict",
   "type": "recording",
+  "tags": [
+    "MEF"
+  ],
   "date": "2011-03-15T21:18:45",
   "draft": false,
   "slug": "confessions-of-a-mef-addict",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MEF",
       "slug": "mef",

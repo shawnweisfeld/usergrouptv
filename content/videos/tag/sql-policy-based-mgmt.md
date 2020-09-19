@@ -1,5 +1,8 @@
 {
   "title": "SQL Policy Based Mgmt",
+  "tags": [
+    "SQL Policy Based Mgmt"
+  ],
   "type": "tag",
   "slug": "sql-policy-based-mgmt",
   "date": "2011-08-27T02:51:05",

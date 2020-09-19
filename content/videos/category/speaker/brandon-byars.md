@@ -1,5 +1,8 @@
 {
   "title": "Brandon Byars",
+  "tags": [
+    "Brandon Byars"
+  ],
   "type": "speaker",
   "slug": "brandon-byars",
   "date": "2014-10-10T11:26:28",

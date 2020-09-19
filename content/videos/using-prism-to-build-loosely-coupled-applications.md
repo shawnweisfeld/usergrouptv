@@ -1,6 +1,10 @@
 {
   "title": "Using Prism to Build Loosely Coupled Applications",
   "type": "recording",
+  "tags": [
+    "Prism",
+    "XAML"
+  ],
   "date": "2012-07-03T21:59:29",
   "draft": false,
   "slug": "using-prism-to-build-loosely-coupled-applications",
@@ -16,7 +20,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Prism",
       "slug": "prism",

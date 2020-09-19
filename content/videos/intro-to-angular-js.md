@@ -1,6 +1,9 @@
 {
   "title": "Intro To Angular.js",
   "type": "recording",
+  "tags": [
+    "Angular.js"
+  ],
   "date": "2014-09-26T18:36:34",
   "draft": false,
   "slug": "intro-to-angular-js",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Angular.js",
       "slug": "angular-js",

@@ -1,5 +1,8 @@
 {
   "title": "CI",
+  "tags": [
+    "CI"
+  ],
   "type": "tag",
   "slug": "ci",
   "date": "2017-10-09T16:26:42",

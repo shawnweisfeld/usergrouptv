@@ -1,6 +1,9 @@
 {
   "title": "Lean-Agile Learning Through Games",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2017-10-06T16:04:21",
   "draft": false,
   "slug": "lean-agile-learning-through-games",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

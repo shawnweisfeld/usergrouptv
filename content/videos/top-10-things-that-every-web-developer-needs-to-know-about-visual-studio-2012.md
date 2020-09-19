@@ -1,6 +1,9 @@
 {
   "title": "Top 10 things that every web developer needs to know about Visual Studio 2012",
   "type": "recording",
+  "tags": [
+    "VS2012"
+  ],
   "date": "2012-09-25T15:17:04",
   "draft": false,
   "slug": "top-10-things-that-every-web-developer-needs-to-know-about-visual-studio-2012",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "VS2012",
       "slug": "vs2012",

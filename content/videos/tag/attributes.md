@@ -1,5 +1,8 @@
 {
   "title": "Attributes",
+  "tags": [
+    "Attributes"
+  ],
   "type": "tag",
   "slug": "attributes",
   "date": "2011-10-11T02:58:12",

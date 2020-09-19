@@ -1,5 +1,8 @@
 {
   "title": "Nina Toscano",
+  "tags": [
+    "Nina Toscano"
+  ],
   "type": "speaker",
   "slug": "nina-toscano",
   "date": "2017-08-04T14:25:19",

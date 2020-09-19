@@ -1,6 +1,9 @@
 {
   "title": "Have You Got the Urge to (T-SQL) Merge?",
   "type": "recording",
+  "tags": [
+    "Merge"
+  ],
   "date": "2013-08-24T11:30:36",
   "draft": false,
   "slug": "have-you-got-the-urge-to-t-sql-merge",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Merge",
       "slug": "merge",

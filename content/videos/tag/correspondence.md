@@ -1,5 +1,8 @@
 {
   "title": "Correspondence",
+  "tags": [
+    "Correspondence"
+  ],
   "type": "tag",
   "slug": "correspondence",
   "date": "2013-04-27T13:10:15",

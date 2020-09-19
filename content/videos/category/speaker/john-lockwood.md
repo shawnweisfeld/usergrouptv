@@ -1,5 +1,8 @@
 {
   "title": "John Lockwood",
+  "tags": [
+    "John Lockwood"
+  ],
   "type": "speaker",
   "slug": "john-lockwood",
   "date": "2012-08-24T00:50:30",

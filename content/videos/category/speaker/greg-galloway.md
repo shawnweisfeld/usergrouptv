@@ -1,5 +1,8 @@
 {
   "title": "Greg Galloway",
+  "tags": [
+    "Greg Galloway"
+  ],
   "type": "speaker",
   "slug": "greg-galloway",
   "date": "2018-05-19T23:08:38",

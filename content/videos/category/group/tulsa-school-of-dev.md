@@ -1,6 +1,9 @@
 {
   "title": "Tulsa School of Dev",
   "type": "meetup",
+  "tags": [
+    "Tulsa School of Dev"
+  ],
   "slug": "tulsa-school-of-dev",
   "date": "2017-07-20T14:21:23",
   "draft": false,

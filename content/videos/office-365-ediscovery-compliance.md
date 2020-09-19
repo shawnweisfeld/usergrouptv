@@ -1,6 +1,9 @@
 {
   "title": "Office 365 eDiscovery & Compliance",
   "type": "recording",
+  "tags": [
+    "O365"
+  ],
   "date": "2017-08-09T14:31:31",
   "draft": false,
   "slug": "office-365-ediscovery-compliance",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "O365",
       "slug": "o365",

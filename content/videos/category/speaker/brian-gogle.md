@@ -1,5 +1,8 @@
 {
   "title": "Brian Gogle",
+  "tags": [
+    "Brian Gogle"
+  ],
   "type": "speaker",
   "slug": "brian-gogle",
   "date": "2014-05-03T19:44:24",

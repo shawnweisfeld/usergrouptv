@@ -1,6 +1,9 @@
 {
   "title": "Plex",
   "type": "recording",
+  "tags": [
+    "Plex"
+  ],
   "date": "2017-10-14T11:42:46",
   "draft": false,
   "slug": "plex",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Plex",
       "slug": "plex",

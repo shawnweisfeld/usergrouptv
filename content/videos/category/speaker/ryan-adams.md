@@ -1,5 +1,8 @@
 {
   "title": "Ryan Adams",
+  "tags": [
+    "Ryan Adams"
+  ],
   "type": "speaker",
   "slug": "ryan-adams",
   "date": "2019-07-13T13:44:10",

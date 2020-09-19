@@ -1,6 +1,9 @@
 {
   "title": "Building Cross Device Experiences with Project Rome",
   "type": "recording",
+  "tags": [
+    "Project Rome"
+  ],
   "date": "2018-04-09T13:42:10",
   "draft": false,
   "slug": "building-cross-device-experiences-with-project-rome",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Project Rome",
       "slug": "project-rome",

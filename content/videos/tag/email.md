@@ -1,5 +1,8 @@
 {
   "title": "email",
+  "tags": [
+    "email"
+  ],
   "type": "tag",
   "slug": "email",
   "date": "2017-08-05T17:14:36",

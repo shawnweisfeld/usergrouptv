@@ -1,5 +1,8 @@
 {
   "title": "FDD",
+  "tags": [
+    "FDD"
+  ],
   "type": "tag",
   "slug": "fdd",
   "date": "2011-05-27T01:16:47",

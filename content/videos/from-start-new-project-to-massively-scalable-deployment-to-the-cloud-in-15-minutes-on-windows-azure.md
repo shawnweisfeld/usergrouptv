@@ -1,6 +1,9 @@
 {
   "title": "From Start - New Project to Massively Scalable Deployment to the Cloud in 15 minutes on Windows Azure",
   "type": "recording",
+  "tags": [
+    "Azure"
+  ],
   "date": "2012-08-24T00:35:05",
   "draft": false,
   "slug": "from-start-new-project-to-massively-scalable-deployment-to-the-cloud-in-15-minutes-on-windows-azure",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

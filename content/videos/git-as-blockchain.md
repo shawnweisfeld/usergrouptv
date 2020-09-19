@@ -1,6 +1,9 @@
 {
   "title": "Git As Blockchain",
   "type": "recording",
+  "tags": [
+    "Blockchain"
+  ],
   "date": "2018-10-13T14:08:41",
   "draft": false,
   "slug": "git-as-blockchain",
@@ -16,7 +19,7 @@
       "count": 22
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Blockchain",
       "slug": "blockchain",

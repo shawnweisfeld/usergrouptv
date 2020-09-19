@@ -1,6 +1,9 @@
 {
   "title": "Git Workshop ",
   "type": "recording",
+  "tags": [
+    "git"
+  ],
   "date": "2013-06-04T15:27:08",
   "draft": false,
   "slug": "git-workshop",
@@ -16,7 +19,7 @@
       "count": 13
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "git",
       "slug": "git",

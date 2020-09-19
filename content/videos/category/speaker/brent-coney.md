@@ -1,5 +1,8 @@
 {
   "title": "Brent Coney",
+  "tags": [
+    "Brent Coney"
+  ],
   "type": "speaker",
   "slug": "brent-coney",
   "date": "2015-10-16T02:08:48",

@@ -1,6 +1,9 @@
 {
   "title": "Windows Phone 7 Development for Silverlight Developers ",
   "type": "recording",
+  "tags": [
+    "WP7"
+  ],
   "date": "2011-02-22T17:19:59",
   "draft": false,
   "slug": "windows-phone-7-development-for-silverlight-developers",
@@ -16,7 +19,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "WP7",
       "slug": "wp7",

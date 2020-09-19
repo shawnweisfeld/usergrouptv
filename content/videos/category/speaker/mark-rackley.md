@@ -1,5 +1,8 @@
 {
   "title": "Mark Rackley",
+  "tags": [
+    "Mark Rackley"
+  ],
   "type": "speaker",
   "slug": "mark-rackley",
   "date": "2013-10-11T21:19:13",

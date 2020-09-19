@@ -1,6 +1,9 @@
 {
   "title": "The HTML5 Future is Now: Using Modernizr, Poly-fills, and HTML5 Boilerplate",
   "type": "recording",
+  "tags": [
+    "HTML5"
+  ],
   "date": "2011-10-07T21:58:25",
   "draft": false,
   "slug": "the-html5-future-is-now-using-modernizr-poly-fills-and-html5-boilerplate",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "HTML5",
       "slug": "html5",

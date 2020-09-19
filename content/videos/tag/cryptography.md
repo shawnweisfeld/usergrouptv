@@ -1,5 +1,8 @@
 {
   "title": "Cryptography",
+  "tags": [
+    "Cryptography"
+  ],
   "type": "tag",
   "slug": "cryptography",
   "date": "2013-08-17T22:13:38",

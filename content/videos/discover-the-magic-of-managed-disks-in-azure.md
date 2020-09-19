@@ -1,6 +1,9 @@
 {
   "title": "Discover the Magic of Managed Disks in Azure ",
   "type": "recording",
+  "tags": [
+    "Azure IaaS"
+  ],
   "date": "2017-04-19T14:14:35",
   "draft": false,
   "slug": "discover-the-magic-of-managed-disks-in-azure",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure IaaS",
       "slug": "azure-iaas",

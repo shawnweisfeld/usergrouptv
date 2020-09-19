@@ -1,5 +1,8 @@
 {
   "title": "Michael Kappel",
+  "tags": [
+    "Michael Kappel"
+  ],
   "type": "speaker",
   "slug": "michael-kappel",
   "date": "2011-11-02T02:07:51",

@@ -1,5 +1,8 @@
 {
   "title": "David Reid",
+  "tags": [
+    "David Reid"
+  ],
   "type": "speaker",
   "slug": "david-reid",
   "date": "2018-08-11T15:53:56",

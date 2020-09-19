@@ -1,5 +1,8 @@
 {
   "title": "Tony Sneed",
+  "tags": [
+    "Tony Sneed"
+  ],
   "type": "speaker",
   "slug": "tony-sneed",
   "date": "2011-11-10T14:26:56",

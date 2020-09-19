@@ -1,5 +1,8 @@
 {
   "title": "Jon Robinson",
+  "tags": [
+    "Jon Robinson"
+  ],
   "type": "speaker",
   "slug": "jon-robinson",
   "date": "2017-10-06T22:12:55",

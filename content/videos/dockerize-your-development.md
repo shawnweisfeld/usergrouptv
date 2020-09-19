@@ -1,6 +1,9 @@
 {
   "title": "Dockerize Your Development",
   "type": "recording",
+  "tags": [
+    "Docker"
+  ],
   "date": "2017-07-20T14:18:34",
   "draft": false,
   "slug": "dockerize-your-development",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Docker",
       "slug": "docker",

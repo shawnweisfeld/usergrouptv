@@ -1,6 +1,9 @@
 {
   "title": "Azure Machine Learning",
   "type": "recording",
+  "tags": [
+    "Azure ML"
+  ],
   "date": "2015-03-18T19:08:34",
   "draft": false,
   "slug": "azure-machine-learning",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure ML",
       "slug": "azure-ml",

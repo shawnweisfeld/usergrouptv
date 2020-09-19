@@ -1,6 +1,9 @@
 {
   "title": "Contracting for Techies 101: 10 Tips For Making It On Your Own ",
   "type": "recording",
+  "tags": [
+    "Developer"
+  ],
   "date": "2015-10-16T02:10:04",
   "draft": false,
   "slug": "contracting-for-techies-101-10-tips-for-making-it-on-your-own",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Developer",
       "slug": "developer",

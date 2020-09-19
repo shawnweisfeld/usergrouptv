@@ -1,6 +1,9 @@
 {
   "title": "OOP in Javascript using MooTools instead of Jquery",
   "type": "recording",
+  "tags": [
+    "MooTools"
+  ],
   "date": "2011-09-10T03:53:39",
   "draft": false,
   "slug": "oop-in-javascript-using-mootools-instead-of-jquery",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MooTools",
       "slug": "mootools",

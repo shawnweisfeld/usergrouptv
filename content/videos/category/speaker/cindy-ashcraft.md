@@ -1,5 +1,8 @@
 {
   "title": "Cindy Ashcraft",
+  "tags": [
+    "Cindy Ashcraft"
+  ],
   "type": "speaker",
   "slug": "cindy-ashcraft",
   "date": "2017-10-06T22:07:05",

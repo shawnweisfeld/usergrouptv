@@ -1,5 +1,8 @@
 {
   "title": "Zeb Frantzich",
+  "tags": [
+    "Zeb Frantzich"
+  ],
   "type": "speaker",
   "slug": "zeb-frantzich",
   "date": "2020-07-21T18:08:37",

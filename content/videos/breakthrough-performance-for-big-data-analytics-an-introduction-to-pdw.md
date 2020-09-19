@@ -1,6 +1,9 @@
 {
   "title": "Breakthrough Performance for Big Data Analytics - An Introduction to PDW",
   "type": "recording",
+  "tags": [
+    "PDW"
+  ],
   "date": "2014-05-03T19:59:18",
   "draft": false,
   "slug": "breakthrough-performance-for-big-data-analytics-an-introduction-to-pdw",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "PDW",
       "slug": "pdw",

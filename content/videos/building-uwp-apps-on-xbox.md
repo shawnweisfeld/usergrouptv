@@ -1,6 +1,9 @@
 {
   "title": "Building UWP apps on Xbox ",
   "type": "recording",
+  "tags": [
+    "Xbox"
+  ],
   "date": "2017-03-13T14:13:27",
   "draft": false,
   "slug": "building-uwp-apps-on-xbox",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Xbox",
       "slug": "xbox",

@@ -1,5 +1,8 @@
 {
   "title": "mono",
+  "tags": [
+    "mono"
+  ],
   "type": "tag",
   "slug": "mono",
   "date": "2012-01-17T15:41:53",

@@ -1,5 +1,8 @@
 {
   "title": "Hanu Kommalapati",
+  "tags": [
+    "Hanu Kommalapati"
+  ],
   "type": "speaker",
   "slug": "hanu-kommalapati",
   "date": "2012-09-08T01:42:56",

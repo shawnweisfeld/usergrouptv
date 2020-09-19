@@ -1,5 +1,8 @@
 {
   "title": "Reinaldo Kibel",
+  "tags": [
+    "Reinaldo Kibel"
+  ],
   "type": "speaker",
   "slug": "reinaldo-kibel",
   "date": "2015-01-31T14:01:39",

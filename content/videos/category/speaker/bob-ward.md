@@ -1,5 +1,8 @@
 {
   "title": "Bob Ward",
+  "tags": [
+    "Bob Ward"
+  ],
   "type": "speaker",
   "slug": "bob-ward",
   "date": "2018-05-19T23:02:34",

@@ -1,5 +1,8 @@
 {
   "title": "Mark Wilkinson",
+  "tags": [
+    "Mark Wilkinson"
+  ],
   "type": "speaker",
   "slug": "mark-wilkinson",
   "date": "2017-10-14T11:43:45",

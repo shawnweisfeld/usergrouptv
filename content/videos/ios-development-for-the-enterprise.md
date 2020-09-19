@@ -1,6 +1,9 @@
 {
   "title": "iOS Development for the Enterprise",
   "type": "recording",
+  "tags": [
+    "iOS"
+  ],
   "date": "2014-09-26T11:26:00",
   "draft": false,
   "slug": "ios-development-for-the-enterprise",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "iOS",
       "slug": "ios",

@@ -1,5 +1,8 @@
 {
   "title": "Mark Ulferts",
+  "tags": [
+    "Mark Ulferts"
+  ],
   "type": "speaker",
   "slug": "mark-ulferts",
   "date": "2019-10-04T16:40:15",

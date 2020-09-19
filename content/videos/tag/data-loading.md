@@ -1,5 +1,8 @@
 {
   "title": "Data Loading",
+  "tags": [
+    "Data Loading"
+  ],
   "type": "tag",
   "slug": "data-loading",
   "date": "2017-03-04T21:53:45",

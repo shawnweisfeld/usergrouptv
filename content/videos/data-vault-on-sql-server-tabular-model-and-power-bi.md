@@ -1,6 +1,10 @@
 {
   "title": "Data Vault on SQL Server Tabular Model and Power BI",
   "type": "recording",
+  "tags": [
+    "Power BI",
+    "MS SQL"
+  ],
   "date": "2020-02-08T16:11:11",
   "draft": false,
   "slug": "data-vault-on-sql-server-tabular-model-and-power-bi",
@@ -16,7 +20,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Power BI",
       "slug": "power-bi",

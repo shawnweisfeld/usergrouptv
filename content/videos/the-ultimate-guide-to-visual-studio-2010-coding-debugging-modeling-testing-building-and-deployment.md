@@ -1,6 +1,10 @@
 {
   "title": "The Ultimate Guide to Visual Studio 2010: Coding Debugging, Modeling, Testing, Building and Deployment",
   "type": "recording",
+  "tags": [
+    "VS11",
+    "VS2010"
+  ],
   "date": "2012-01-24T01:19:35",
   "draft": false,
   "slug": "the-ultimate-guide-to-visual-studio-2010-coding-debugging-modeling-testing-building-and-deployment",
@@ -16,7 +20,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "VS11",
       "slug": "vs11",

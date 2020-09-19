@@ -1,5 +1,8 @@
 {
   "title": "Mark Watson",
+  "tags": [
+    "Mark Watson"
+  ],
   "type": "speaker",
   "slug": "mark-watson",
   "date": "2012-09-18T15:11:40",

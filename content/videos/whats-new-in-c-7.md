@@ -1,6 +1,9 @@
 {
   "title": "What’s new in C# 7 ",
   "type": "recording",
+  "tags": [
+    "C#"
+  ],
   "date": "2017-05-08T11:50:10",
   "draft": false,
   "slug": "whats-new-in-c-7",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "C#",
       "slug": "c",

@@ -1,5 +1,8 @@
 {
   "title": "Cori Drew",
+  "tags": [
+    "Cori Drew"
+  ],
   "type": "speaker",
   "slug": "cori-drew",
   "date": "2014-06-14T14:54:40",

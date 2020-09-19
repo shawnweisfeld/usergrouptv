@@ -1,5 +1,8 @@
 {
   "title": "Josh Cypher",
+  "tags": [
+    "Josh Cypher"
+  ],
   "type": "speaker",
   "slug": "josh-cypher",
   "date": "2017-10-06T22:29:44",

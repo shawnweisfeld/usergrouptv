@@ -1,5 +1,8 @@
 {
   "title": "Continuous Deployment",
+  "tags": [
+    "Continuous Deployment"
+  ],
   "type": "tag",
   "slug": "continuous-deployment",
   "date": "2017-07-18T13:56:51",

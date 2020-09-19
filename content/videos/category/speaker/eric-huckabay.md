@@ -1,5 +1,8 @@
 {
   "title": "Eric Huckabay",
+  "tags": [
+    "Eric Huckabay"
+  ],
   "type": "speaker",
   "slug": "eric-huckabay",
   "date": "2018-06-23T19:39:43",

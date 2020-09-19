@@ -1,5 +1,8 @@
 {
   "title": "Meredith Hassett",
+  "tags": [
+    "Meredith Hassett"
+  ],
   "type": "speaker",
   "slug": "meredith-hassett",
   "date": "2017-08-06T16:47:55",

@@ -1,5 +1,8 @@
 {
   "title": "Matt Galloway",
+  "tags": [
+    "Matt Galloway"
+  ],
   "type": "speaker",
   "slug": "matt-galloway",
   "date": "2012-10-12T15:39:43",

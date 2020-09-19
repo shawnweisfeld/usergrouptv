@@ -1,6 +1,9 @@
 {
   "title": "Technical Debt: The Silent Killer",
   "type": "recording",
+  "tags": [
+    "Technical Debt"
+  ],
   "date": "2017-10-05T21:43:58",
   "draft": false,
   "slug": "technical-debt-the-silent-killer",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Technical Debt",
       "slug": "technical-debt",

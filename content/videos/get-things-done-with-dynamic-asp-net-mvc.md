@@ -1,6 +1,9 @@
 {
   "title": "Get Things Done with dynamic ASP.NET MVC",
   "type": "recording",
+  "tags": [
+    "ASP.NET MVC"
+  ],
   "date": "2011-10-05T21:48:08",
   "draft": false,
   "slug": "get-things-done-with-dynamic-asp-net-mvc",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "ASP.NET MVC",
       "slug": "asp-net-mvc",

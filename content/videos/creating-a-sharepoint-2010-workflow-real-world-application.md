@@ -1,6 +1,9 @@
 {
   "title": "Creating A SharePoint 2010 Workflow Real World Application",
   "type": "recording",
+  "tags": [
+    "Sharepoint"
+  ],
   "date": "2011-08-13T20:23:46",
   "draft": false,
   "slug": "creating-a-sharepoint-2010-workflow-real-world-application",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Sharepoint",
       "slug": "sharepoint",

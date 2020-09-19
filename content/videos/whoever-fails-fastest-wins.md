@@ -1,6 +1,9 @@
 {
   "title": "Whoever Fails Fastest - Wins",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2019-10-04T16:43:37",
   "draft": false,
   "slug": "whoever-fails-fastest-wins",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

@@ -1,5 +1,8 @@
 {
   "title": "Ruth Holloway",
+  "tags": [
+    "Ruth Holloway"
+  ],
   "type": "speaker",
   "slug": "ruth-holloway",
   "date": "2017-08-05T17:19:59",

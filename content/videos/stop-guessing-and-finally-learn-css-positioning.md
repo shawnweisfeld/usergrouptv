@@ -1,6 +1,9 @@
 {
   "title": "Stop guessing and finally learn CSS positioning",
   "type": "recording",
+  "tags": [
+    "CSS"
+  ],
   "date": "2014-09-13T23:51:22",
   "draft": false,
   "slug": "stop-guessing-and-finally-learn-css-positioning",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "CSS",
       "slug": "css",

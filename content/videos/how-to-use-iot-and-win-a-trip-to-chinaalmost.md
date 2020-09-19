@@ -1,6 +1,9 @@
 {
   "title": "How to use IoT and win a trip to China(almost)!",
   "type": "recording",
+  "tags": [
+    "IOT"
+  ],
   "date": "2017-07-20T14:13:44",
   "draft": false,
   "slug": "how-to-use-iot-and-win-a-trip-to-chinaalmost",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "IOT",
       "slug": "iot",

@@ -1,5 +1,8 @@
 {
   "title": "DSL",
+  "tags": [
+    "DSL"
+  ],
   "type": "tag",
   "slug": "dsl",
   "date": "2016-01-11T12:09:18",

@@ -1,5 +1,8 @@
 {
   "title": "Ron Dagdag",
+  "tags": [
+    "Ron Dagdag"
+  ],
   "type": "speaker",
   "slug": "ron-dagdag",
   "date": "2018-10-13T14:15:33",

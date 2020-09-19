@@ -1,5 +1,8 @@
 {
   "title": "backbone.js",
+  "tags": [
+    "backbone.js"
+  ],
   "type": "tag",
   "slug": "backbone-js",
   "date": "2012-06-09T10:37:11",

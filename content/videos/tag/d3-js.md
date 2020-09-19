@@ -1,5 +1,8 @@
 {
   "title": "D3.js",
+  "tags": [
+    "D3.js"
+  ],
   "type": "tag",
   "slug": "d3-js",
   "date": "2012-09-08T16:02:40",

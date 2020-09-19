@@ -1,6 +1,9 @@
 {
   "title": "Attacking Things Incrementally",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2019-10-04T16:48:04",
   "draft": false,
   "slug": "attacking-things-incrementally",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

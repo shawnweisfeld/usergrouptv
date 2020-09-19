@@ -1,6 +1,9 @@
 {
   "title": "Intro to C# Delegates",
   "type": "recording",
+  "tags": [
+    "C#"
+  ],
   "date": "2017-07-20T14:07:35",
   "draft": false,
   "slug": "intro-to-c-delegates",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "C#",
       "slug": "c",

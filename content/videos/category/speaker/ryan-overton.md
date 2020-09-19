@@ -1,5 +1,8 @@
 {
   "title": "Ryan Overton",
+  "tags": [
+    "Ryan Overton"
+  ],
   "type": "speaker",
   "slug": "ryan-overton",
   "date": "2016-08-05T14:45:23",

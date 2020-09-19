@@ -1,5 +1,8 @@
 {
   "title": "RIA",
+  "tags": [
+    "RIA"
+  ],
   "type": "tag",
   "slug": "ria",
   "date": "2011-06-07T18:29:01",

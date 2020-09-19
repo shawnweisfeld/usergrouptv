@@ -1,5 +1,8 @@
 {
   "title": "David Powell",
+  "tags": [
+    "David Powell"
+  ],
   "type": "speaker",
   "slug": "david-powell",
   "date": "2015-11-12T13:21:05",

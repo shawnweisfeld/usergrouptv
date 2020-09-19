@@ -1,5 +1,8 @@
 {
   "title": "Samantha Needham",
+  "tags": [
+    "Samantha Needham"
+  ],
   "type": "speaker",
   "slug": "samantha-needham",
   "date": "2017-08-05T17:10:45",

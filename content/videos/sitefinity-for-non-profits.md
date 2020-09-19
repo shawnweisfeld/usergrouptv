@@ -1,6 +1,9 @@
 {
   "title": "Sitefinity for Non-Profits",
   "type": "recording",
+  "tags": [
+    "Sitefinity"
+  ],
   "date": "2011-10-22T23:20:14",
   "draft": false,
   "slug": "sitefinity-for-non-profits",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Sitefinity",
       "slug": "sitefinity",

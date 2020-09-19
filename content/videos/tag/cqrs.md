@@ -1,5 +1,8 @@
 {
   "title": "CQRS",
+  "tags": [
+    "CQRS"
+  ],
   "type": "tag",
   "slug": "cqrs",
   "date": "2015-09-26T12:15:10",

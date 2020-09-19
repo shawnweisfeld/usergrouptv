@@ -1,5 +1,8 @@
 {
   "title": "David Walker",
+  "tags": [
+    "David Walker"
+  ],
   "type": "speaker",
   "slug": "david-walker",
   "date": "2017-07-21T14:08:22",

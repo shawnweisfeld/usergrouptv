@@ -1,5 +1,8 @@
 {
   "title": "Akhterul Mustafa",
+  "tags": [
+    "Akhterul Mustafa"
+  ],
   "type": "speaker",
   "slug": "akhterul-mustafa",
   "date": "2019-04-27T13:39:31",

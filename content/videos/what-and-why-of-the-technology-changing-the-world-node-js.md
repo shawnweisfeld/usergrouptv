@@ -1,6 +1,9 @@
 {
   "title": "What and Why of the Technology Changing the World: Node.js",
   "type": "recording",
+  "tags": [
+    "Node.js"
+  ],
   "date": "2012-10-12T15:44:00",
   "draft": false,
   "slug": "what-and-why-of-the-technology-changing-the-world-node-js",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Node.js",
       "slug": "node-js",

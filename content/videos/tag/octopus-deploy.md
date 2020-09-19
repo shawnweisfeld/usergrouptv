@@ -1,5 +1,8 @@
 {
   "title": "Octopus Deploy",
+  "tags": [
+    "Octopus Deploy"
+  ],
   "type": "tag",
   "slug": "octopus-deploy",
   "date": "2014-09-26T19:06:18",

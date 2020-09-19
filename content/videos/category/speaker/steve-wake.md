@@ -1,5 +1,8 @@
 {
   "title": "Steve Wake",
+  "tags": [
+    "Steve Wake"
+  ],
   "type": "speaker",
   "slug": "steve-wake",
   "date": "2015-01-31T18:44:00",

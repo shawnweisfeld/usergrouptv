@@ -1,6 +1,9 @@
 {
   "title": "Consistent Deployments / Team Development",
   "type": "recording",
+  "tags": [
+    "DevOps"
+  ],
   "date": "2018-06-23T19:55:55",
   "draft": false,
   "slug": "consistent-deployments-team-development",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "DevOps",
       "slug": "devops",

@@ -1,6 +1,9 @@
 {
   "title": "Emergent Design",
   "type": "recording",
+  "tags": [
+    "Emergent Design"
+  ],
   "date": "2012-06-14T14:31:44",
   "draft": false,
   "slug": "emergent-design",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Emergent Design",
       "slug": "emergent-design",

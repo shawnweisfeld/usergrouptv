@@ -1,5 +1,8 @@
 {
   "title": "IOT",
+  "tags": [
+    "IOT"
+  ],
   "type": "tag",
   "slug": "iot",
   "date": "2019-06-24T16:47:24",

@@ -1,5 +1,8 @@
 {
   "title": "Bill Hartzer",
+  "tags": [
+    "Bill Hartzer"
+  ],
   "type": "speaker",
   "slug": "bill-hartzer",
   "date": "2014-09-26T18:54:24",

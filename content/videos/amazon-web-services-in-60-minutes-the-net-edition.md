@@ -1,6 +1,9 @@
 {
   "title": "Amazon Web Services in 60 minutes: The .NET edition",
   "type": "recording",
+  "tags": [
+    "AWS"
+  ],
   "date": "2012-09-18T15:11:40",
   "draft": false,
   "slug": "amazon-web-services-in-60-minutes-the-net-edition",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "AWS",
       "slug": "aws",

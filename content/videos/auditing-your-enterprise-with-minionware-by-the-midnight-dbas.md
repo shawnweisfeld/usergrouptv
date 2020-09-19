@@ -1,6 +1,9 @@
 {
   "title": "Auditing your Enterprise with MinionWare By The Midnight DBAs",
   "type": "recording",
+  "tags": [
+    "SQL Admin"
+  ],
   "date": "2018-08-25T19:24:17",
   "draft": false,
   "slug": "auditing-your-enterprise-with-minionware-by-the-midnight-dbas",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Admin",
       "slug": "sql-admin",

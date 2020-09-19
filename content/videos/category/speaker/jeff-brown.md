@@ -1,5 +1,8 @@
 {
   "title": "Jeff Brown",
+  "tags": [
+    "Jeff Brown"
+  ],
   "type": "speaker",
   "slug": "jeff-brown",
   "date": "2018-11-15T16:56:12",

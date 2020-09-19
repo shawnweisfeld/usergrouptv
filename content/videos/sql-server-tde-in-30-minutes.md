@@ -1,6 +1,9 @@
 {
   "title": "SQL Server TDE in 30 Minutes",
   "type": "recording",
+  "tags": [
+    "SQL TDE"
+  ],
   "date": "2011-08-27T22:52:03",
   "draft": false,
   "slug": "sql-server-tde-in-30-minutes",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL TDE",
       "slug": "sql-tde",

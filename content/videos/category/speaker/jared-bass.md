@@ -1,5 +1,8 @@
 {
   "title": "Jared Bass",
+  "tags": [
+    "Jared Bass"
+  ],
   "type": "speaker",
   "slug": "jared-bass",
   "date": "2011-06-07T18:29:01",

@@ -1,6 +1,9 @@
 {
   "title": "Refactoring the Architect's role",
   "type": "recording",
+  "tags": [
+    "Architecture"
+  ],
   "date": "2020-02-10T21:35:29",
   "draft": false,
   "slug": "refactoring-the-architects-role",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Architecture",
       "slug": "architecture",

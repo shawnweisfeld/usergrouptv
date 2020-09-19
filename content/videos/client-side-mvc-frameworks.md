@@ -1,6 +1,9 @@
 {
   "title": "Client-Side MVC frameworks",
   "type": "recording",
+  "tags": [
+    "MVC"
+  ],
   "date": "2012-01-05T01:15:45",
   "draft": false,
   "slug": "client-side-mvc-frameworks",
@@ -16,7 +19,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MVC",
       "slug": "mvc",

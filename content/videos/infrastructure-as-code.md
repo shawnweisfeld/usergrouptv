@@ -1,6 +1,9 @@
 {
   "title": "Infrastructure as code",
   "type": "recording",
+  "tags": [
+    "Azure"
+  ],
   "date": "2015-07-15T13:41:36",
   "draft": false,
   "slug": "infrastructure-as-code",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

@@ -1,6 +1,9 @@
 {
   "title": "That's bad mkay! (How to quantify when things aren't right)",
   "type": "recording",
+  "tags": [
+    "SQL Admin"
+  ],
   "date": "2018-06-23T19:52:24",
   "draft": false,
   "slug": "thats-bad-mkay-how-to-quantify-when-things-arent-right",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Admin",
       "slug": "sql-admin",

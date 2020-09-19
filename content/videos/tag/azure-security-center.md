@@ -1,5 +1,8 @@
 {
   "title": "Azure Security Center",
+  "tags": [
+    "Azure Security Center"
+  ],
   "type": "tag",
   "slug": "azure-security-center",
   "date": "2017-04-22T13:11:53",

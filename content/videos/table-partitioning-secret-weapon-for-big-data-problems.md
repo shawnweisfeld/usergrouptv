@@ -1,6 +1,9 @@
 {
   "title": "Table Partitioning: Secret Weapon for Big Data Problems",
   "type": "recording",
+  "tags": [
+    "MS SQL"
+  ],
   "date": "2018-11-13T16:52:15",
   "draft": false,
   "slug": "table-partitioning-secret-weapon-for-big-data-problems",
@@ -16,7 +19,7 @@
       "count": 18
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MS SQL",
       "slug": "ms-sql",

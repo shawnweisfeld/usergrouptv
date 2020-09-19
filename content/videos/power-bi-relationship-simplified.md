@@ -1,6 +1,9 @@
 {
   "title": "Power BI Relationship Simplified",
   "type": "recording",
+  "tags": [
+    "PowerBI"
+  ],
   "date": "2020-05-13T12:43:18",
   "draft": false,
   "slug": "power-bi-relationship-simplified",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "PowerBI",
       "slug": "powerbi",

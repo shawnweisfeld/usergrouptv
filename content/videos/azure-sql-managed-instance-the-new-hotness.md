@@ -1,6 +1,9 @@
 {
   "title": "Azure SQL Managed Instance the New Hotness",
   "type": "recording",
+  "tags": [
+    "Azure SQL Database"
+  ],
   "date": "2018-06-23T19:48:28",
   "draft": false,
   "slug": "azure-sql-managed-instance-the-new-hotness",
@@ -16,7 +19,7 @@
       "count": 7
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure SQL Database",
       "slug": "azure-sql-database",

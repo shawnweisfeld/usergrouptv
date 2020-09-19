@@ -1,5 +1,8 @@
 {
   "title": "Azure",
+  "tags": [
+    "Azure"
+  ],
   "type": "tag",
   "slug": "azure",
   "date": "2020-09-15T17:47:45",

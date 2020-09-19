@@ -1,6 +1,9 @@
 {
   "title": "North Dallas .NET UG",
   "type": "meetup",
+  "tags": [
+    "North Dallas .NET UG"
+  ],
   "slug": "north-dallas-net-ug",
   "date": "2016-04-06T10:25:59",
   "draft": false,

@@ -1,5 +1,8 @@
 {
   "title": "Joseph Fluckiger",
+  "tags": [
+    "Joseph Fluckiger"
+  ],
   "type": "speaker",
   "slug": "joseph-fluckiger",
   "date": "2017-06-12T13:57:52",

@@ -1,6 +1,9 @@
 {
   "title": "Azure - The building blocks of a modern cloud application",
   "type": "recording",
+  "tags": [
+    "Azure"
+  ],
   "date": "2015-05-26T21:16:30",
   "draft": false,
   "slug": "azure-the-building-blocks-of-a-modern-cloud-application",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

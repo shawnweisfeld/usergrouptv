@@ -1,6 +1,9 @@
 {
   "title": "Introducing Universal Windows App Development",
   "type": "recording",
+  "tags": [
+    "UWP"
+  ],
   "date": "2015-09-12T16:24:37",
   "draft": false,
   "slug": "introducing-universal-windows-app-development",
@@ -16,7 +19,7 @@
       "count": 12
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "UWP",
       "slug": "uwp",

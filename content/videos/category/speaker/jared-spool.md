@@ -1,5 +1,8 @@
 {
   "title": "Jared Spool",
+  "tags": [
+    "Jared Spool"
+  ],
   "type": "speaker",
   "slug": "jared-spool",
   "date": "2014-10-10T11:07:08",

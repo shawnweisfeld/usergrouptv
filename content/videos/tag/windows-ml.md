@@ -1,5 +1,8 @@
 {
   "title": "Windows ML",
+  "tags": [
+    "Windows ML"
+  ],
   "type": "tag",
   "slug": "windows-ml",
   "date": "2018-10-13T14:15:33",

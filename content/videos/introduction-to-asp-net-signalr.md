@@ -1,6 +1,9 @@
 {
   "title": "Introduction to ASP.NET SignalR",
   "type": "recording",
+  "tags": [
+    "SignalR"
+  ],
   "date": "2013-02-06T13:34:44",
   "draft": false,
   "slug": "introduction-to-asp-net-signalr",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SignalR",
       "slug": "signalr",

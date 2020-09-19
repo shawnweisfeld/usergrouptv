@@ -1,6 +1,9 @@
 {
   "title": "Hot-reload your UI with F#",
   "type": "recording",
+  "tags": [
+    "F#"
+  ],
   "date": "2019-02-21T17:52:59",
   "draft": false,
   "slug": "hot-reload-your-ui-with-f",
@@ -16,7 +19,7 @@
       "count": 7
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "F#",
       "slug": "f",

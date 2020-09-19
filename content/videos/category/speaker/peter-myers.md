@@ -1,5 +1,8 @@
 {
   "title": "Peter Myers",
+  "tags": [
+    "Peter Myers"
+  ],
   "type": "speaker",
   "slug": "peter-myers",
   "date": "2017-03-04T21:54:37",

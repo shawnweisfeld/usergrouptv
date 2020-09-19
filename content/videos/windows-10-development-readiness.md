@@ -1,6 +1,9 @@
 {
   "title": "Windows 10 Development Readiness",
   "type": "recording",
+  "tags": [
+    "Win10"
+  ],
   "date": "2015-09-26T12:20:23",
   "draft": false,
   "slug": "windows-10-development-readiness",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Win10",
       "slug": "win10",

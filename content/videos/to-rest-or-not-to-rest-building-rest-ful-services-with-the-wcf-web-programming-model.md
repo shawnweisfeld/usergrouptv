@@ -1,6 +1,9 @@
 {
   "title": "To REST or Not To REST? Building REST-ful Services with the WCF Web Programming Model",
   "type": "recording",
+  "tags": [
+    "REST"
+  ],
   "date": "2011-09-08T03:39:18",
   "draft": false,
   "slug": "to-rest-or-not-to-rest-building-rest-ful-services-with-the-wcf-web-programming-model",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "REST",
       "slug": "rest",

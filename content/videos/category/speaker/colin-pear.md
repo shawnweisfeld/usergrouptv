@@ -1,5 +1,8 @@
 {
   "title": "Colin Pear",
+  "tags": [
+    "Colin Pear"
+  ],
   "type": "speaker",
   "slug": "colin-pear",
   "date": "2015-09-26T12:06:35",

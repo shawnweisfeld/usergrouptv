@@ -1,6 +1,9 @@
 {
   "title": "Being Lazy in the Cloud - Finding Efficiencies in AWS to Make Life Easier",
   "type": "recording",
+  "tags": [
+    "AWS"
+  ],
   "date": "2017-10-06T16:25:02",
   "draft": false,
   "slug": "being-lazy-in-the-cloud-finding-efficiencies-in-aws-to-make-life-easier",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "AWS",
       "slug": "aws",

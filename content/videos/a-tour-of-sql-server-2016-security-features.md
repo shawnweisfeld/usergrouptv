@@ -1,6 +1,9 @@
 {
   "title": "A Tour of SQL Server 2016 Security Features",
   "type": "recording",
+  "tags": [
+    "SQL Admin"
+  ],
   "date": "2018-08-11T15:47:41",
   "draft": false,
   "slug": "a-tour-of-sql-server-2016-security-features",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Admin",
       "slug": "sql-admin",

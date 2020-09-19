@@ -1,5 +1,8 @@
 {
   "title": "Mohammad Azam",
+  "tags": [
+    "Mohammad Azam"
+  ],
   "type": "speaker",
   "slug": "mohammad-azam",
   "date": "2018-05-05T15:33:09",

@@ -1,5 +1,8 @@
 {
   "title": "XAML",
+  "tags": [
+    "XAML"
+  ],
   "type": "tag",
   "slug": "xaml",
   "date": "2013-02-05T23:04:59",

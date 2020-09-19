@@ -1,5 +1,8 @@
 {
   "title": "Reid Havens",
+  "tags": [
+    "Reid Havens"
+  ],
   "type": "speaker",
   "slug": "reid-havens",
   "date": "2020-08-12T14:05:27",

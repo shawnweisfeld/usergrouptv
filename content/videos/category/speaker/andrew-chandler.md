@@ -1,5 +1,8 @@
 {
   "title": "Andrew Chandler",
+  "tags": [
+    "Andrew Chandler"
+  ],
   "type": "speaker",
   "slug": "andrew-chandler",
   "date": "2012-10-12T15:30:15",

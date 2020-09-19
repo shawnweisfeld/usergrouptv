@@ -1,5 +1,8 @@
 {
   "title": "Tessa Snodgrass",
+  "tags": [
+    "Tessa Snodgrass"
+  ],
   "type": "speaker",
   "slug": "tessa-snodgrass",
   "date": "2019-09-28T16:57:50",

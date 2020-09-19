@@ -1,6 +1,9 @@
 {
   "title": "The Leading Measures of Velocity",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2015-09-26T12:16:59",
   "draft": false,
   "slug": "the-leading-measures-of-velocity",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

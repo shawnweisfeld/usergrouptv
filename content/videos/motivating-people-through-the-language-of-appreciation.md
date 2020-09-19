@@ -1,6 +1,9 @@
 {
   "title": "MOTIVATING PEOPLE THROUGH THE LANGUAGE OF APPRECIATION",
   "type": "recording",
+  "tags": [
+    "Motivation"
+  ],
   "date": "2014-08-22T17:29:45",
   "draft": false,
   "slug": "motivating-people-through-the-language-of-appreciation",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Motivation",
       "slug": "motivation",

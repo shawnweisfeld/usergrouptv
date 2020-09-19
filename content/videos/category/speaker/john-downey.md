@@ -1,5 +1,8 @@
 {
   "title": "John Downey",
+  "tags": [
+    "John Downey"
+  ],
   "type": "speaker",
   "slug": "john-downey",
   "date": "2015-10-16T01:57:08",

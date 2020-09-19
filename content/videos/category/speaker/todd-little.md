@@ -1,5 +1,8 @@
 {
   "title": "Todd Little",
+  "tags": [
+    "Todd Little"
+  ],
   "type": "speaker",
   "slug": "todd-little",
   "date": "2018-09-29T15:06:25",

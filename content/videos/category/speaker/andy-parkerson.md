@@ -1,5 +1,8 @@
 {
   "title": "Andy Parkerson",
+  "tags": [
+    "Andy Parkerson"
+  ],
   "type": "speaker",
   "slug": "andy-parkerson",
   "date": "2018-05-05T15:39:09",

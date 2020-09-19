@@ -1,5 +1,8 @@
 {
   "title": "J Sawyer",
+  "tags": [
+    "J Sawyer"
+  ],
   "type": "speaker",
   "slug": "j-sawyer",
   "date": "2017-10-14T11:42:46",

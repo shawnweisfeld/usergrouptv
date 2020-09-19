@@ -1,6 +1,9 @@
 {
   "title": "Windows Phone to Windows 8 - Part 5: WP to W8 Migration",
   "type": "recording",
+  "tags": [
+    "wp8"
+  ],
   "date": "2012-06-13T00:28:43",
   "draft": false,
   "slug": "windows-phone-to-windows-8-part-5-wp-to-w8-migration",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "wp8",
       "slug": "wp8",

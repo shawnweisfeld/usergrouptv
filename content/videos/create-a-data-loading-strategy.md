@@ -1,6 +1,9 @@
 {
   "title": "Create a Data Loading Strategy",
   "type": "recording",
+  "tags": [
+    "Data Loading"
+  ],
   "date": "2017-03-04T21:53:45",
   "draft": false,
   "slug": "create-a-data-loading-strategy",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Data Loading",
       "slug": "data-loading",

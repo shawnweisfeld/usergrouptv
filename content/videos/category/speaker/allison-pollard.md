@@ -1,5 +1,8 @@
 {
   "title": "Allison Pollard",
+  "tags": [
+    "Allison Pollard"
+  ],
   "type": "speaker",
   "slug": "allison-pollard",
   "date": "2016-09-24T19:46:37",

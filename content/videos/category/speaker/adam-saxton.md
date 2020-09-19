@@ -1,5 +1,8 @@
 {
   "title": "Adam Saxton",
+  "tags": [
+    "Adam Saxton"
+  ],
   "type": "speaker",
   "slug": "adam-saxton",
   "date": "2018-06-23T19:35:48",

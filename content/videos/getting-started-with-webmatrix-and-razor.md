@@ -1,6 +1,10 @@
 {
   "title": "Getting Started with WebMatrix and Razor",
   "type": "recording",
+  "tags": [
+    "Razor",
+    "WebMatrix"
+  ],
   "date": "2012-04-04T12:19:27",
   "draft": false,
   "slug": "getting-started-with-webmatrix-and-razor",
@@ -16,7 +20,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Razor",
       "slug": "razor",

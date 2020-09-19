@@ -1,5 +1,8 @@
 {
   "title": "Candase Hokanson",
+  "tags": [
+    "Candase Hokanson"
+  ],
   "type": "speaker",
   "slug": "candase-hokanson",
   "date": "2018-05-24T16:55:02",

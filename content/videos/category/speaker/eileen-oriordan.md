@@ -1,5 +1,8 @@
 {
   "title": "Eileen O'Riordan",
+  "tags": [
+    "Eileen O'Riordan"
+  ],
   "type": "speaker",
   "slug": "eileen-oriordan",
   "date": "2017-08-05T17:16:53",

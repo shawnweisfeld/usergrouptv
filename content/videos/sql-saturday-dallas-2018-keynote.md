@@ -1,6 +1,9 @@
 {
   "title": "SQL Saturday Dallas 2018 Keynote",
   "type": "recording",
+  "tags": [
+    "SQL Server"
+  ],
   "date": "2018-05-19T22:56:13",
   "draft": false,
   "slug": "sql-saturday-dallas-2018-keynote",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Server",
       "slug": "sql-server",

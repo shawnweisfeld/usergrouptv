@@ -1,6 +1,9 @@
 {
   "title": "Better Estimates",
   "type": "recording",
+  "tags": [
+    "Developer"
+  ],
   "date": "2019-04-08T20:07:38",
   "draft": false,
   "slug": "better-estimates",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Developer",
       "slug": "developer",

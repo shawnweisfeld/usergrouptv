@@ -1,6 +1,9 @@
 {
   "title": "SQL Watchdog - find out instantly when SQL change",
   "type": "recording",
+  "tags": [
+    "SQL Watchdog"
+  ],
   "date": "2015-01-31T23:11:26",
   "draft": false,
   "slug": "sql-watchdog-find-out-instantly-when-sql-change",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Watchdog",
       "slug": "sql-watchdog",

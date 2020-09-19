@@ -1,5 +1,8 @@
 {
   "title": "Rudr",
+  "tags": [
+    "Rudr"
+  ],
   "type": "tag",
   "slug": "rudr",
   "date": "2020-01-08T16:19:26",

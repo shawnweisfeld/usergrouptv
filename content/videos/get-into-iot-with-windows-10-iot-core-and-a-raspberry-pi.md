@@ -1,6 +1,9 @@
 {
   "title": "Get into IoT with Windows 10 IoT core and a raspberry pi",
   "type": "recording",
+  "tags": [
+    "IOT"
+  ],
   "date": "2017-07-20T14:12:19",
   "draft": false,
   "slug": "get-into-iot-with-windows-10-iot-core-and-a-raspberry-pi",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "IOT",
       "slug": "iot",

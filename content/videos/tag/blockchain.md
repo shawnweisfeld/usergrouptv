@@ -1,5 +1,8 @@
 {
   "title": "Blockchain",
+  "tags": [
+    "Blockchain"
+  ],
   "type": "tag",
   "slug": "blockchain",
   "date": "2019-10-09T23:37:13",

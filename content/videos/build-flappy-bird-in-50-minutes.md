@@ -1,6 +1,9 @@
 {
   "title": "Build Flappy Bird in 50 Minutes",
   "type": "recording",
+  "tags": [
+    "Game Dev"
+  ],
   "date": "2014-09-26T19:11:26",
   "draft": false,
   "slug": "build-flappy-bird-in-50-minutes",
@@ -16,7 +19,7 @@
       "count": 22
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Game Dev",
       "slug": "game-dev",

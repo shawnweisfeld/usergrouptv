@@ -1,5 +1,8 @@
 {
   "title": "John Cavnar-Johnson",
+  "tags": [
+    "John Cavnar-Johnson"
+  ],
   "type": "speaker",
   "slug": "john-cavnar-johnson",
   "date": "2018-05-05T15:59:55",

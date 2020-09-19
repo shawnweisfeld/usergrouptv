@@ -1,6 +1,9 @@
 {
   "title": "CSS positioning ",
   "type": "recording",
+  "tags": [
+    "CSS"
+  ],
   "date": "2015-12-14T18:24:56",
   "draft": false,
   "slug": "css-positioning",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "CSS",
       "slug": "css",

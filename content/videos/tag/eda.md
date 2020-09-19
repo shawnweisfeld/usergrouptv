@@ -1,5 +1,8 @@
 {
   "title": "EDA",
+  "tags": [
+    "EDA"
+  ],
   "type": "tag",
   "slug": "eda",
   "date": "2011-05-27T01:13:49",

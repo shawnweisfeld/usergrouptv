@@ -1,6 +1,9 @@
 {
   "title": "How to build your personal brand",
   "type": "recording",
+  "tags": [
+    "Career"
+  ],
   "date": "2018-06-23T19:35:48",
   "draft": false,
   "slug": "how-to-build-your-personal-brand",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Career",
       "slug": "career",

@@ -1,6 +1,9 @@
 {
   "title": "Azure DevOps for .Net- Fall into the Pit of Success",
   "type": "recording",
+  "tags": [
+    "Azure DevOps"
+  ],
   "date": "2020-03-09T18:29:59",
   "draft": false,
   "slug": "azure-devops-for-net-fall-into-the-pit-of-success",
@@ -16,7 +19,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure DevOps",
       "slug": "azure-devops",

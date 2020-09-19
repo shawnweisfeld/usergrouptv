@@ -1,5 +1,8 @@
 {
   "title": "Caleb Jenkins",
+  "tags": [
+    "Caleb Jenkins"
+  ],
   "type": "speaker",
   "slug": "caleb-jenkins",
   "date": "2013-04-03T17:41:28",

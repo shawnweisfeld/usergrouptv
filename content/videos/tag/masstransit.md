@@ -1,5 +1,8 @@
 {
   "title": "MassTransit",
+  "tags": [
+    "MassTransit"
+  ],
   "type": "tag",
   "slug": "masstransit",
   "date": "2013-01-10T02:01:16",

@@ -1,6 +1,9 @@
 {
   "title": "SQL Server Security from the ground up",
   "type": "recording",
+  "tags": [
+    "SQL Security"
+  ],
   "date": "2018-08-25T19:25:44",
   "draft": false,
   "slug": "sql-server-security-from-the-ground-up",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Security",
       "slug": "sql-security",

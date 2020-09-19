@@ -1,6 +1,9 @@
 {
   "title": "Correspondence: Building Occasionally-Connected Out-of-Browser Silverlight Applications",
   "type": "recording",
+  "tags": [
+    "Silverlight"
+  ],
   "date": "2011-06-09T18:50:19",
   "draft": false,
   "slug": "correspondence-building-occasionally-connected-out-of-browser-silverlight-applications",
@@ -16,7 +19,7 @@
       "count": 22
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Silverlight",
       "slug": "silverlight",

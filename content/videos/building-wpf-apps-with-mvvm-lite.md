@@ -1,6 +1,9 @@
 {
   "title": "Building WPF Apps with MVVM Lite",
   "type": "recording",
+  "tags": [
+    "mvvm"
+  ],
   "date": "2015-09-12T16:19:13",
   "draft": false,
   "slug": "building-wpf-apps-with-mvvm-lite",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "mvvm",
       "slug": "mvvm",

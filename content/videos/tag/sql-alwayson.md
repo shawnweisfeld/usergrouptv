@@ -1,5 +1,8 @@
 {
   "title": "SQL AlwaysOn",
+  "tags": [
+    "SQL AlwaysOn"
+  ],
   "type": "tag",
   "slug": "sql-alwayson",
   "date": "2017-07-18T13:59:05",

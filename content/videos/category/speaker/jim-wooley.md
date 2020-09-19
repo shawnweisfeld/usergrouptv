@@ -1,5 +1,8 @@
 {
   "title": "Jim Wooley",
+  "tags": [
+    "Jim Wooley"
+  ],
   "type": "speaker",
   "slug": "jim-wooley",
   "date": "2018-10-13T14:11:03",

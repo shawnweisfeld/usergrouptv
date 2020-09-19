@@ -1,5 +1,8 @@
 {
   "title": "Hannes Lowette",
+  "tags": [
+    "Hannes Lowette"
+  ],
   "type": "speaker",
   "slug": "hannes-lowette",
   "date": "2020-08-17T15:14:10",

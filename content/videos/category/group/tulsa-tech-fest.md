@@ -1,6 +1,9 @@
 {
   "title": "Tulsa Tech Fest",
   "type": "meetup",
+  "tags": [
+    "Tulsa Tech Fest"
+  ],
   "slug": "tulsa-tech-fest",
   "date": "2017-07-21T14:17:40",
   "draft": false,

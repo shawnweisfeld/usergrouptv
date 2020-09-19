@@ -1,5 +1,8 @@
 {
   "title": "Highway.Data",
+  "tags": [
+    "Highway.Data"
+  ],
   "type": "tag",
   "slug": "highway-data",
   "date": "2012-08-24T12:56:03",

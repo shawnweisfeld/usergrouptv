@@ -1,6 +1,9 @@
 {
   "title": "SQL Server Reporting Services: Creating and Managing Reports",
   "type": "recording",
+  "tags": [
+    "SSRS"
+  ],
   "date": "2013-08-17T20:31:14",
   "draft": false,
   "slug": "sql-server-reporting-services-creating-and-managing-reports",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SSRS",
       "slug": "ssrs",

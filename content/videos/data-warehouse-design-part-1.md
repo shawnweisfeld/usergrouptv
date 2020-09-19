@@ -1,6 +1,9 @@
 {
   "title": "Data Warehouse Design Part 1",
   "type": "recording",
+  "tags": [
+    "Data Warehouse"
+  ],
   "date": "2015-09-12T16:30:02",
   "draft": false,
   "slug": "data-warehouse-design-part-1",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Data Warehouse",
       "slug": "data-warehouse",

@@ -1,6 +1,9 @@
 {
   "title": "Bless Your Heart!: Tips on dealing with unhappy clients",
   "type": "recording",
+  "tags": [
+    "joomla"
+  ],
   "date": "2019-09-28T16:57:50",
   "draft": false,
   "slug": "bless-your-heart-tips-on-dealing-with-unhappy-clients",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "joomla",
       "slug": "joomla",

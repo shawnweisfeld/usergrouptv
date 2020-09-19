@@ -1,6 +1,9 @@
 {
   "title": "Agile = No Planning = Bull$h!t",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2018-05-24T16:54:04",
   "draft": false,
   "slug": "agile-no-planning-bullht",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

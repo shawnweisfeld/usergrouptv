@@ -1,6 +1,9 @@
 {
   "title": "Becoming a Better Developer - Part 1",
   "type": "recording",
+  "tags": [
+    "Developer"
+  ],
   "date": "2018-09-29T15:20:09",
   "draft": false,
   "slug": "becoming-a-better-developer-part-1",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Developer",
       "slug": "developer",

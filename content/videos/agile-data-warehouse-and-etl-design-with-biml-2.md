@@ -1,6 +1,9 @@
 {
   "title": "Agile Data Warehouse and ETL Design with Biml",
   "type": "recording",
+  "tags": [
+    "BIML"
+  ],
   "date": "2017-06-17T14:09:52",
   "draft": false,
   "slug": "agile-data-warehouse-and-etl-design-with-biml-2",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "BIML",
       "slug": "biml",

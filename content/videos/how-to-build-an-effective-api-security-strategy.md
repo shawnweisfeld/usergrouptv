@@ -1,6 +1,9 @@
 {
   "title": "How to Build an Effective API Security Strategy",
   "type": "recording",
+  "tags": [
+    "API"
+  ],
   "date": "2020-01-13T16:20:57",
   "draft": false,
   "slug": "how-to-build-an-effective-api-security-strategy",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "API",
       "slug": "api",

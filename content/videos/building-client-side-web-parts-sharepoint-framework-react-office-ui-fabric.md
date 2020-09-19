@@ -1,6 +1,9 @@
 {
   "title": "Building Client Side Web Parts: SharePoint Framework, React & Office UI Fabric ",
   "type": "recording",
+  "tags": [
+    "Office365"
+  ],
   "date": "2016-11-09T11:43:32",
   "draft": false,
   "slug": "building-client-side-web-parts-sharepoint-framework-react-office-ui-fabric",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Office365",
       "slug": "office365",

@@ -1,6 +1,9 @@
 {
   "title": "GIVING YOUR WAY TO GREATNESS",
   "type": "recording",
+  "tags": [
+    "Career"
+  ],
   "date": "2014-08-22T17:33:14",
   "draft": false,
   "slug": "giving-your-way-to-greatness",
@@ -16,7 +19,7 @@
       "count": 13
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Career",
       "slug": "career",

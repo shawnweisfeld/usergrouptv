@@ -1,5 +1,8 @@
 {
   "title": "Data Warehouse",
+  "tags": [
+    "Data Warehouse"
+  ],
   "type": "tag",
   "slug": "data-warehouse",
   "date": "2017-06-17T14:11:05",

@@ -1,5 +1,8 @@
 {
   "title": "MooTools",
+  "tags": [
+    "MooTools"
+  ],
   "type": "tag",
   "slug": "mootools",
   "date": "2011-09-10T03:53:39",

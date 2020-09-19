@@ -1,6 +1,9 @@
 {
   "title": "How to talk to millions of IoT devices without pulling out your hair",
   "type": "recording",
+  "tags": [
+    "IOT"
+  ],
   "date": "2016-09-24T20:02:33",
   "draft": false,
   "slug": "how-to-talk-to-millions-of-iot-devices-without-pulling-out-your-hair",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "IOT",
       "slug": "iot",

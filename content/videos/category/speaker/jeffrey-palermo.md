@@ -1,5 +1,8 @@
 {
   "title": "Jeffrey Palermo",
+  "tags": [
+    "Jeffrey Palermo"
+  ],
   "type": "speaker",
   "slug": "jeffrey-palermo",
   "date": "2020-09-14T17:44:41",

@@ -1,6 +1,9 @@
 {
   "title": "Yellow Belt Document Databases with .NET",
   "type": "recording",
+  "tags": [
+    "Document Databases"
+  ],
   "date": "2014-06-14T10:58:37",
   "draft": false,
   "slug": "yellow-belt-document-databases-with-net",
@@ -16,7 +19,7 @@
       "count": 13
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Document Databases",
       "slug": "document-databases",

@@ -1,5 +1,8 @@
 {
   "title": "Career",
+  "tags": [
+    "Career"
+  ],
   "type": "tag",
   "slug": "career",
   "date": "2020-02-08T16:12:39",

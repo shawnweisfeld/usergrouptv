@@ -1,5 +1,8 @@
 {
   "title": "BIML",
+  "tags": [
+    "BIML"
+  ],
   "type": "tag",
   "slug": "biml",
   "date": "2018-06-23T19:37:12",

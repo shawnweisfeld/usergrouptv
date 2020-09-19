@@ -1,6 +1,9 @@
 {
   "title": "Azure Austin Meetup",
   "type": "meetup",
+  "tags": [
+    "Azure Austin Meetup"
+  ],
   "slug": "azure-austin-meetup",
   "date": "2020-09-15T17:47:45",
   "draft": false,

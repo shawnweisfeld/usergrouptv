@@ -1,6 +1,9 @@
 {
   "title": "Make Your Queries Go Faster",
   "type": "recording",
+  "tags": [
+    "SQL Performance"
+  ],
   "date": "2018-04-17T18:19:17",
   "draft": false,
   "slug": "make-your-queries-go-faster",
@@ -16,7 +19,7 @@
       "count": 18
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Performance",
       "slug": "sql-performance",

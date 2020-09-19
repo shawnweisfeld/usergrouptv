@@ -1,6 +1,9 @@
 {
   "title": "Experience SQL Server 2017: The Modern Database Platform",
   "type": "recording",
+  "tags": [
+    "SQL Server 2017"
+  ],
   "date": "2018-05-19T23:02:34",
   "draft": false,
   "slug": "experience-sql-server-2017-the-modern-database-platform",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Server 2017",
       "slug": "sql-server-2017",

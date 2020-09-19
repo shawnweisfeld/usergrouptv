@@ -1,5 +1,8 @@
 {
   "title": "Tim Rayburn",
+  "tags": [
+    "Tim Rayburn"
+  ],
   "type": "speaker",
   "slug": "tim-rayburn",
   "date": "2014-08-22T17:39:13",

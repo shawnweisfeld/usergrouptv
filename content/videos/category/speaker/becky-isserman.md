@@ -1,5 +1,8 @@
 {
   "title": "Becky Isserman",
+  "tags": [
+    "Becky Isserman"
+  ],
   "type": "speaker",
   "slug": "becky-isserman",
   "date": "2019-03-13T15:44:36",

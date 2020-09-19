@@ -1,6 +1,9 @@
 {
   "title": "ACT-W",
   "type": "meetup",
+  "tags": [
+    "ACT-W"
+  ],
   "slug": "act-w",
   "date": "2017-08-06T17:09:02",
   "draft": false,

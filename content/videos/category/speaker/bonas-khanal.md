@@ -1,5 +1,8 @@
 {
   "title": "Bonas Khanal",
+  "tags": [
+    "Bonas Khanal"
+  ],
   "type": "speaker",
   "slug": "bonas-khanal",
   "date": "2012-03-22T12:00:36",

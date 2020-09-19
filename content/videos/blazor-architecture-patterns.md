@@ -1,6 +1,9 @@
 {
   "title": "Blazor Architecture Patterns",
   "type": "recording",
+  "tags": [
+    "Blazor"
+  ],
   "date": "2020-09-14T17:44:41",
   "draft": false,
   "slug": "blazor-architecture-patterns",
@@ -16,7 +19,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Blazor",
       "slug": "blazor",

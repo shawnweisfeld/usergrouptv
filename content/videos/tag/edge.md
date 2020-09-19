@@ -1,5 +1,8 @@
 {
   "title": "edge",
+  "tags": [
+    "edge"
+  ],
   "type": "tag",
   "slug": "edge",
   "date": "2015-09-22T14:16:12",

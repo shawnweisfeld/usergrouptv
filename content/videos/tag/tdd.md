@@ -1,5 +1,8 @@
 {
   "title": "TDD",
+  "tags": [
+    "TDD"
+  ],
   "type": "tag",
   "slug": "tdd",
   "date": "2017-10-05T21:54:11",

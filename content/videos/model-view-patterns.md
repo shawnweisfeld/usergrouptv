@@ -1,6 +1,11 @@
 {
   "title": "Model-View Patterns",
   "type": "recording",
+  "tags": [
+    "mvvm",
+    "MVC",
+    "MVP"
+  ],
   "date": "2012-06-19T11:33:03",
   "draft": false,
   "slug": "model-view-patterns",
@@ -16,7 +21,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "mvvm",
       "slug": "mvvm",

@@ -1,5 +1,8 @@
 {
   "title": "David Hudson",
+  "tags": [
+    "David Hudson"
+  ],
   "type": "speaker",
   "slug": "david-hudson",
   "date": "2017-10-06T16:10:02",

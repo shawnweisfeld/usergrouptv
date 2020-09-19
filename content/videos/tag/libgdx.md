@@ -1,5 +1,8 @@
 {
   "title": "LibGDX",
+  "tags": [
+    "LibGDX"
+  ],
   "type": "tag",
   "slug": "libgdx",
   "date": "2014-09-26T18:49:01",

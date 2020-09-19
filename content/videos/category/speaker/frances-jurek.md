@@ -1,5 +1,8 @@
 {
   "title": "Frances Jurek",
+  "tags": [
+    "Frances Jurek"
+  ],
   "type": "speaker",
   "slug": "frances-jurek",
   "date": "2017-10-14T11:56:08",

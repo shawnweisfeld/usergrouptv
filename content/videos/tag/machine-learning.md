@@ -1,5 +1,8 @@
 {
   "title": "Machine Learning",
+  "tags": [
+    "Machine Learning"
+  ],
   "type": "tag",
   "slug": "machine-learning",
   "date": "2017-10-05T22:01:51",

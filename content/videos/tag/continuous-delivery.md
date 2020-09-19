@@ -1,5 +1,8 @@
 {
   "title": "Continuous Delivery",
+  "tags": [
+    "Continuous Delivery"
+  ],
   "type": "tag",
   "slug": "continuous-delivery",
   "date": "2017-07-20T14:20:01",

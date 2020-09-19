@@ -1,5 +1,8 @@
 {
   "title": "Stan Geiger",
+  "tags": [
+    "Stan Geiger"
+  ],
   "type": "speaker",
   "slug": "stan-geiger",
   "date": "2015-12-16T18:28:33",

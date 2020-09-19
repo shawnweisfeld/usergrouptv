@@ -1,6 +1,9 @@
 {
   "title": "OWIN – Katana 101",
   "type": "recording",
+  "tags": [
+    "OWIN"
+  ],
   "date": "2014-09-08T14:49:26",
   "draft": false,
   "slug": "owin-katana-101",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "OWIN",
       "slug": "owin",

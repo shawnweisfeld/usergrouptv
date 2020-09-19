@@ -1,5 +1,8 @@
 {
   "title": "AWS",
+  "tags": [
+    "AWS"
+  ],
   "type": "tag",
   "slug": "aws",
   "date": "2018-05-05T15:57:19",

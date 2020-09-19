@@ -1,6 +1,9 @@
 {
   "title": "OFFICE 365 MIGRATION MINI-CASE STUDY",
   "type": "recording",
+  "tags": [
+    "O365"
+  ],
   "date": "2018-04-11T21:10:00",
   "draft": false,
   "slug": "office-365-migration-mini-case-study-2",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "O365",
       "slug": "o365",

@@ -1,6 +1,9 @@
 {
   "title": "Mobile & UX: Inside the Eye of the Perfect Storm",
   "type": "recording",
+  "tags": [
+    "UX"
+  ],
   "date": "2014-10-10T11:07:08",
   "draft": false,
   "slug": "mobile-ux-inside-the-eye-of-the-perfect-storm",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "UX",
       "slug": "ux",

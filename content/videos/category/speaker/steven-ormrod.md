@@ -1,5 +1,8 @@
 {
   "title": "Steven Ormrod",
+  "tags": [
+    "Steven Ormrod"
+  ],
   "type": "speaker",
   "slug": "steven-ormrod",
   "date": "2016-05-14T12:32:55",

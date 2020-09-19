@@ -1,6 +1,9 @@
 {
   "title": "IS INDEPENDENT CONSULTING FOR ME?",
   "type": "recording",
+  "tags": [
+    "Consulting"
+  ],
   "date": "2014-09-16T16:24:48",
   "draft": false,
   "slug": "is-independent-consulting-for-me",
@@ -22,7 +25,7 @@
       "count": 18
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Consulting",
       "slug": "consulting",

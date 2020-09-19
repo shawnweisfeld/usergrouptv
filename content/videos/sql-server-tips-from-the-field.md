@@ -1,6 +1,9 @@
 {
   "title": "SQL Server Tips from the Field",
   "type": "recording",
+  "tags": [
+    "SQL Server"
+  ],
   "date": "2017-10-14T11:50:04",
   "draft": false,
   "slug": "sql-server-tips-from-the-field",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Server",
       "slug": "sql-server",

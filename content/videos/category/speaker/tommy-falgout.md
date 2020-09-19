@@ -1,5 +1,8 @@
 {
   "title": "Tommy Falgout",
+  "tags": [
+    "Tommy Falgout"
+  ],
   "type": "speaker",
   "slug": "tommy-falgout",
   "date": "2019-02-19T15:31:47",

@@ -1,6 +1,9 @@
 {
   "title": "Getting started with Tabular Analysis Services",
   "type": "recording",
+  "tags": [
+    "SQL Tabular"
+  ],
   "date": "2015-01-31T18:47:03",
   "draft": false,
   "slug": "getting-started-with-tabular-analysis-services",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Tabular",
       "slug": "sql-tabular",

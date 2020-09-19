@@ -1,5 +1,8 @@
 {
   "title": "Steve Donie",
+  "tags": [
+    "Steve Donie"
+  ],
   "type": "speaker",
   "slug": "steve-donie",
   "date": "2012-06-09T10:37:11",

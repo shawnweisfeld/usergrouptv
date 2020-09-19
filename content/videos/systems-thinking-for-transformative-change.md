@@ -1,6 +1,9 @@
 {
   "title": "Systems thinking for transformative change",
   "type": "recording",
+  "tags": [
+    "Developer"
+  ],
   "date": "2018-09-29T15:26:19",
   "draft": false,
   "slug": "systems-thinking-for-transformative-change",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Developer",
       "slug": "developer",

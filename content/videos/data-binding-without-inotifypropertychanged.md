@@ -1,6 +1,11 @@
 {
   "title": "Data Binding without INotifyPropertyChanged",
   "type": "recording",
+  "tags": [
+    "mvvm",
+    "databinding",
+    "wpf"
+  ],
   "date": "2011-02-15T18:00:44",
   "draft": false,
   "slug": "data-binding-without-inotifypropertychanged",
@@ -16,7 +21,7 @@
       "count": 22
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "mvvm",
       "slug": "mvvm",

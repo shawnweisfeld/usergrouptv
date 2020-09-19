@@ -1,5 +1,8 @@
 {
   "title": "Dhaval Panchal",
+  "tags": [
+    "Dhaval Panchal"
+  ],
   "type": "speaker",
   "slug": "dhaval-panchal",
   "date": "2018-09-29T15:26:19",

@@ -1,5 +1,8 @@
 {
   "title": "Adam Berguem",
+  "tags": [
+    "Adam Berguem"
+  ],
   "type": "speaker",
   "slug": "adam-berguem",
   "date": "2019-04-27T13:47:42",

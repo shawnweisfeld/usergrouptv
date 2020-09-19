@@ -1,5 +1,8 @@
 {
   "title": "Luke Crouch",
+  "tags": [
+    "Luke Crouch"
+  ],
   "type": "speaker",
   "slug": "luke-crouch",
   "date": "2011-10-07T04:57:17",

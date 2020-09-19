@@ -1,5 +1,8 @@
 {
   "title": "Jeremy Jones",
+  "tags": [
+    "Jeremy Jones"
+  ],
   "type": "speaker",
   "slug": "jeremy-jones",
   "date": "2017-10-06T22:11:34",

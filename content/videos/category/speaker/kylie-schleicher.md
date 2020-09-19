@@ -1,5 +1,8 @@
 {
   "title": "Kylie Schleicher",
+  "tags": [
+    "Kylie Schleicher"
+  ],
   "type": "speaker",
   "slug": "kylie-schleicher",
   "date": "2017-10-05T22:03:20",

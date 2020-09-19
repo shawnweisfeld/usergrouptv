@@ -1,6 +1,9 @@
 {
   "title": "Successfully Delivering Agile with Remotely Located Teams",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2017-07-20T14:10:33",
   "draft": false,
   "slug": "successfully-delivering-agile-with-remotely-located-teams",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

@@ -1,5 +1,8 @@
 {
   "title": "Tim Mitchell",
+  "tags": [
+    "Tim Mitchell"
+  ],
   "type": "speaker",
   "slug": "tim-mitchell",
   "date": "2017-03-04T22:01:54",

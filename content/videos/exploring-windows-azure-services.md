@@ -1,6 +1,9 @@
 {
   "title": "Exploring Windows Azure Services",
   "type": "recording",
+  "tags": [
+    "Azure"
+  ],
   "date": "2012-09-08T14:42:50",
   "draft": false,
   "slug": "exploring-windows-azure-services",
@@ -16,7 +19,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

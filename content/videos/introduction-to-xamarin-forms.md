@@ -1,6 +1,9 @@
 {
   "title": "Introduction to Xamarin.Forms",
   "type": "recording",
+  "tags": [
+    "xamarin"
+  ],
   "date": "2017-07-21T14:14:35",
   "draft": false,
   "slug": "introduction-to-xamarin-forms",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "xamarin",
       "slug": "xamarin",

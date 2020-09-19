@@ -1,5 +1,8 @@
 {
   "title": "Greg Jordan",
+  "tags": [
+    "Greg Jordan"
+  ],
   "type": "speaker",
   "slug": "greg-jordan",
   "date": "2017-10-06T22:27:23",

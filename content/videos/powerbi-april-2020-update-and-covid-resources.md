@@ -1,6 +1,9 @@
 {
   "title": "PowerBI April 2020 Update and COVID Resources",
   "type": "recording",
+  "tags": [
+    "PowerBI"
+  ],
   "date": "2020-04-08T18:37:43",
   "draft": false,
   "slug": "powerbi-april-2020-update-and-covid-resources",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "PowerBI",
       "slug": "powerbi",

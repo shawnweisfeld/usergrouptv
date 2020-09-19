@@ -1,6 +1,9 @@
 {
   "title": "Austin Office 365 and SharePoint User Group",
   "type": "meetup",
+  "tags": [
+    "Austin Office 365 and SharePoint User Group"
+  ],
   "slug": "austin-office-365-and-sharepoint-user-group",
   "date": "2020-01-08T16:14:38",
   "draft": false,

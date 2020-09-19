@@ -1,6 +1,9 @@
 {
   "title": "The DevOps Silver Bullet",
   "type": "recording",
+  "tags": [
+    "DevOps"
+  ],
   "date": "2015-09-26T12:08:46",
   "draft": false,
   "slug": "the-devops-silver-bullet",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "DevOps",
       "slug": "devops",

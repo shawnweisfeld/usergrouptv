@@ -1,5 +1,8 @@
 {
   "title": "VSO",
+  "tags": [
+    "VSO"
+  ],
   "type": "tag",
   "slug": "vso",
   "date": "2015-02-18T13:29:42",

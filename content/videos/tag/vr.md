@@ -1,5 +1,8 @@
 {
   "title": "VR",
+  "tags": [
+    "VR"
+  ],
   "type": "tag",
   "slug": "vr",
   "date": "2017-08-05T17:10:45",

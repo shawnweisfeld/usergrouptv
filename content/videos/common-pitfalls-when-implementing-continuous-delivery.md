@@ -1,6 +1,9 @@
 {
   "title": "Common Pitfalls when Implementing Continuous Delivery ",
   "type": "recording",
+  "tags": [
+    "Continuous Delivery"
+  ],
   "date": "2016-08-08T15:16:52",
   "draft": false,
   "slug": "common-pitfalls-when-implementing-continuous-delivery",
@@ -16,7 +19,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Continuous Delivery",
       "slug": "continuous-delivery",

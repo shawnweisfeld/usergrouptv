@@ -1,5 +1,8 @@
 {
   "title": "CD",
+  "tags": [
+    "CD"
+  ],
   "type": "tag",
   "slug": "cd",
   "date": "2017-10-09T16:26:42",

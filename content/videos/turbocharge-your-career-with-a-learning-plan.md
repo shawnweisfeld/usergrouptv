@@ -1,6 +1,9 @@
 {
   "title": "Turbocharge Your Career With a Learning Plan",
   "type": "recording",
+  "tags": [
+    "Job"
+  ],
   "date": "2015-01-31T18:52:58",
   "draft": false,
   "slug": "turbocharge-your-career-with-a-learning-plan",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Job",
       "slug": "job",

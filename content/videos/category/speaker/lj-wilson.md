@@ -1,5 +1,8 @@
 {
   "title": "LJ Wilson",
+  "tags": [
+    "LJ Wilson"
+  ],
   "type": "speaker",
   "slug": "lj-wilson",
   "date": "2014-09-26T11:26:00",

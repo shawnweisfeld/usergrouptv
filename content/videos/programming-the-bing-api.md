@@ -1,6 +1,9 @@
 {
   "title": "Programming The Bing API",
   "type": "recording",
+  "tags": [
+    "Bing"
+  ],
   "date": "2011-08-13T02:00:26",
   "draft": false,
   "slug": "programming-the-bing-api",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Bing",
       "slug": "bing",

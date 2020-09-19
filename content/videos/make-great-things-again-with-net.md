@@ -1,6 +1,7 @@
 {
   "title": "Make Great Things Again with .NET",
   "type": "recording",
+  "tags": [],
   "date": "2018-02-15T16:48:11",
   "draft": false,
   "slug": "make-great-things-again-with-net",
@@ -16,7 +17,7 @@
       "count": 1
     }
   ],
-  "tags": [],
+  "ugtvtags": [],
   "meetups": [
     {
       "name": "Austin Cloud Native Meetup",

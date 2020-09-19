@@ -1,6 +1,9 @@
 {
   "title": "Building a Testable Data Access Layer",
   "type": "recording",
+  "tags": [
+    "DAL"
+  ],
   "date": "2011-05-05T23:46:55",
   "draft": false,
   "slug": "building-a-testable-data-access-layer",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "DAL",
       "slug": "dal",

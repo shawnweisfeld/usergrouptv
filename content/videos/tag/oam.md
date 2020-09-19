@@ -1,5 +1,8 @@
 {
   "title": "OAM",
+  "tags": [
+    "OAM"
+  ],
   "type": "tag",
   "slug": "oam",
   "date": "2020-01-08T16:19:26",

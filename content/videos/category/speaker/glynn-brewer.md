@@ -1,5 +1,8 @@
 {
   "title": "Glynn Brewer",
+  "tags": [
+    "Glynn Brewer"
+  ],
   "type": "speaker",
   "slug": "glynn-brewer",
   "date": "2014-08-22T17:37:57",

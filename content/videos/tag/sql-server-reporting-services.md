@@ -1,5 +1,8 @@
 {
   "title": "SQL Server Reporting Services",
+  "tags": [
+    "SQL Server Reporting Services"
+  ],
   "type": "tag",
   "slug": "sql-server-reporting-services",
   "date": "2011-09-10T04:45:51",

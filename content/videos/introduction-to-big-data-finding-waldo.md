@@ -1,6 +1,12 @@
 {
   "title": "Introduction to Big Data - Finding Waldo",
   "type": "recording",
+  "tags": [
+    "Hive",
+    "Hadoop",
+    "Sqoop",
+    "Big Data"
+  ],
   "date": "2012-08-24T00:03:38",
   "draft": false,
   "slug": "introduction-to-big-data-finding-waldo",
@@ -16,7 +22,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Hive",
       "slug": "hive",

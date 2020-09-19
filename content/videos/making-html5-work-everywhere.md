@@ -1,6 +1,7 @@
 {
   "title": "Making HTML5 Work Everywhere",
   "type": "recording",
+  "tags": [],
   "date": "2012-09-08T02:40:02",
   "draft": false,
   "slug": "making-html5-work-everywhere",
@@ -16,7 +17,7 @@
       "count": 3
     }
   ],
-  "tags": [],
+  "ugtvtags": [],
   "meetups": [
     {
       "name": "Houston Techfest",

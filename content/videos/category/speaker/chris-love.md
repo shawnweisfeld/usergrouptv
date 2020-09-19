@@ -1,5 +1,8 @@
 {
   "title": "Chris Love",
+  "tags": [
+    "Chris Love"
+  ],
   "type": "speaker",
   "slug": "chris-love",
   "date": "2018-10-13T14:12:24",

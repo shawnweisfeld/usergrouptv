@@ -1,5 +1,8 @@
 {
   "title": "Wayne Smith",
+  "tags": [
+    "Wayne Smith"
+  ],
   "type": "speaker",
   "slug": "wayne-smith",
   "date": "2019-07-10T13:40:57",

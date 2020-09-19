@@ -1,5 +1,8 @@
 {
   "title": "Groovy",
+  "tags": [
+    "Groovy"
+  ],
   "type": "tag",
   "slug": "groovy",
   "date": "2018-09-29T15:18:28",

@@ -1,6 +1,9 @@
 {
   "title": "Introduction to SQL Notebooks ",
   "type": "recording",
+  "tags": [
+    "SQL Notebooks"
+  ],
   "date": "2019-05-21T14:33:30",
   "draft": false,
   "slug": "introduction-to-sql-notebooks",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Notebooks",
       "slug": "sql-notebooks",

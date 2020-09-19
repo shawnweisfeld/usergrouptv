@@ -1,5 +1,8 @@
 {
   "title": "Joseph Reynolds",
+  "tags": [
+    "Joseph Reynolds"
+  ],
   "type": "speaker",
   "slug": "joseph-reynolds",
   "date": "2015-09-26T12:20:23",

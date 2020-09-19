@@ -1,5 +1,8 @@
 {
   "title": "Brandon Satrom",
+  "tags": [
+    "Brandon Satrom"
+  ],
   "type": "speaker",
   "slug": "brandon-satrom",
   "date": "2011-05-16T01:04:01",

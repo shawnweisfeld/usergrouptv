@@ -1,6 +1,9 @@
 {
   "title": "CRUD, Our Grand Failure...and how to rectifiy it",
   "type": "recording",
+  "tags": [
+    "CQRS"
+  ],
   "date": "2015-09-12T16:27:45",
   "draft": false,
   "slug": "crud-our-grand-failure-and-how-to-rectifiy-it",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "CQRS",
       "slug": "cqrs",

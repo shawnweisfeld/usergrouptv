@@ -1,5 +1,8 @@
 {
   "title": "SODA.net",
+  "tags": [
+    "SODA.net"
+  ],
   "type": "tag",
   "slug": "soda-net",
   "date": "2017-10-06T16:13:09",

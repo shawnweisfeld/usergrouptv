@@ -1,5 +1,8 @@
 {
   "title": "Steve Jones",
+  "tags": [
+    "Steve Jones"
+  ],
   "type": "speaker",
   "slug": "steve-jones",
   "date": "2019-07-13T13:55:01",

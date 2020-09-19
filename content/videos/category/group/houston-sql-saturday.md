@@ -1,6 +1,9 @@
 {
   "title": "Houston SQL Saturday",
   "type": "meetup",
+  "tags": [
+    "Houston SQL Saturday"
+  ],
   "slug": "houston-sql-saturday",
   "date": "2018-06-23T20:01:12",
   "draft": false,

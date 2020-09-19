@@ -1,6 +1,9 @@
 {
   "title": "Monitoring Availability Groups",
   "type": "recording",
+  "tags": [
+    "SQL Availability"
+  ],
   "date": "2018-06-23T19:42:34",
   "draft": false,
   "slug": "monitoring-availability-groups",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Availability",
       "slug": "sql-availability",

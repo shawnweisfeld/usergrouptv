@@ -1,5 +1,8 @@
 {
   "title": "Jason Fox",
+  "tags": [
+    "Jason Fox"
+  ],
   "type": "speaker",
   "slug": "jason-fox",
   "date": "2018-10-13T14:09:42",

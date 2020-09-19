@@ -1,6 +1,10 @@
 {
   "title": "Developers, Databases, and Team Velocity – Getting the most from database tasks on an agile team",
   "type": "recording",
+  "tags": [
+    "Agile",
+    "Databases"
+  ],
   "date": "2012-04-20T13:28:56",
   "draft": false,
   "slug": "developers-databases-and-team-velocity-getting-the-most-from-database-tasks-on-an-agile-team",
@@ -16,7 +20,7 @@
       "count": 11
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

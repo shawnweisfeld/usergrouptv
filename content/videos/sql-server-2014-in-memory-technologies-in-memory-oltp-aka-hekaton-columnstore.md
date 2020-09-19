@@ -1,6 +1,9 @@
 {
   "title": "SQL Server 2014 In Memory technologies - In Memory OLTP (aka Hekaton) & ColumnStore",
   "type": "recording",
+  "tags": [
+    "Hekaton"
+  ],
   "date": "2015-01-31T14:01:39",
   "draft": false,
   "slug": "sql-server-2014-in-memory-technologies-in-memory-oltp-aka-hekaton-columnstore",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Hekaton",
       "slug": "hekaton",

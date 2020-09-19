@@ -1,6 +1,9 @@
 {
   "title": "Don't make your customers be your tester, use Xamarin Test Cloud instead",
   "type": "recording",
+  "tags": [
+    "xamarin"
+  ],
   "date": "2016-08-05T14:45:23",
   "draft": false,
   "slug": "dont-make-your-customers-be-your-tester-use-xamarin-test-cloud-instead",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "xamarin",
       "slug": "xamarin",

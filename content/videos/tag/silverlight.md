@@ -1,5 +1,8 @@
 {
   "title": "Silverlight",
+  "tags": [
+    "Silverlight"
+  ],
   "type": "tag",
   "slug": "silverlight",
   "date": "2011-11-01T14:14:49",

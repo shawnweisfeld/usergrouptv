@@ -1,6 +1,9 @@
 {
   "title": "Web API Quick Start",
   "type": "recording",
+  "tags": [
+    "WebAPI"
+  ],
   "date": "2013-08-17T19:54:13",
   "draft": false,
   "slug": "web-api-quick-start",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "WebAPI",
       "slug": "webapi",

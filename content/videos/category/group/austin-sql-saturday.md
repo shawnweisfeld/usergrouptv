@@ -1,6 +1,9 @@
 {
   "title": "Austin SQL Saturday",
   "type": "meetup",
+  "tags": [
+    "Austin SQL Saturday"
+  ],
   "slug": "austin-sql-saturday",
   "date": "2020-02-08T16:30:20",
   "draft": false,

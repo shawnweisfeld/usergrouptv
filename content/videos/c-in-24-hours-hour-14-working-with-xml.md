@@ -1,6 +1,10 @@
 {
   "title": "C# in 24 Hours: Hour 14 - Working with XML",
   "type": "recording",
+  "tags": [
+    "C#",
+    "XML"
+  ],
   "date": "2012-04-28T13:43:54",
   "draft": false,
   "slug": "c-in-24-hours-hour-14-working-with-xml",
@@ -16,7 +20,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "C#",
       "slug": "c",

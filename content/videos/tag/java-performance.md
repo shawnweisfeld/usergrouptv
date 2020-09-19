@@ -1,5 +1,8 @@
 {
   "title": "Java Performance",
+  "tags": [
+    "Java Performance"
+  ],
   "type": "tag",
   "slug": "java-performance",
   "date": "2017-10-06T22:05:28",

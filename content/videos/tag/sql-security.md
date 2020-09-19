@@ -1,5 +1,8 @@
 {
   "title": "SQL Security",
+  "tags": [
+    "SQL Security"
+  ],
   "type": "tag",
   "slug": "sql-security",
   "date": "2018-08-25T19:25:44",

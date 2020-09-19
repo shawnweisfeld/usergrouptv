@@ -1,5 +1,8 @@
 {
   "title": "Jake Stevenson",
+  "tags": [
+    "Jake Stevenson"
+  ],
   "type": "speaker",
   "slug": "jake-stevenson",
   "date": "2017-10-14T11:58:32",

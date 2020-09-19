@@ -1,6 +1,9 @@
 {
   "title": " Tell Better Stories with Microsoft BI and PowerMap",
   "type": "recording",
+  "tags": [
+    "Power Map"
+  ],
   "date": "2014-05-03T19:49:54",
   "draft": false,
   "slug": "tell-better-stories-with-microsoft-bi-and-powermap",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Power Map",
       "slug": "power-map",

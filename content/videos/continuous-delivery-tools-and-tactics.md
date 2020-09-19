@@ -1,6 +1,9 @@
 {
   "title": "Continuous Delivery: Tools and Tactics",
   "type": "recording",
+  "tags": [
+    "Continuous Delivery"
+  ],
   "date": "2014-09-13T23:40:04",
   "draft": false,
   "slug": "continuous-delivery-tools-and-tactics",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Continuous Delivery",
       "slug": "continuous-delivery",

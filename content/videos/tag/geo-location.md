@@ -1,5 +1,8 @@
 {
   "title": "Geo Location",
+  "tags": [
+    "Geo Location"
+  ],
   "type": "tag",
   "slug": "geo-location",
   "date": "2011-04-14T22:43:38",

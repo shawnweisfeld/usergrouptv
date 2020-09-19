@@ -1,5 +1,8 @@
 {
   "title": "Mike Huguet",
+  "tags": [
+    "Mike Huguet"
+  ],
   "type": "speaker",
   "slug": "mike-huguet",
   "date": "2015-09-12T16:21:40",

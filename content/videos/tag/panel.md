@@ -1,5 +1,8 @@
 {
   "title": "Panel",
+  "tags": [
+    "Panel"
+  ],
   "type": "tag",
   "slug": "panel",
   "date": "2016-10-20T11:24:52",

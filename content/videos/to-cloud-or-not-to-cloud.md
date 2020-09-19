@@ -1,6 +1,9 @@
 {
   "title": "To cloud or not to cloud?",
   "type": "recording",
+  "tags": [
+    "Azure"
+  ],
   "date": "2014-10-10T11:35:21",
   "draft": false,
   "slug": "to-cloud-or-not-to-cloud",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

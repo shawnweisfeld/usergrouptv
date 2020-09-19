@@ -1,5 +1,8 @@
 {
   "title": "Microservices",
+  "tags": [
+    "Microservices"
+  ],
   "type": "tag",
   "slug": "microservices",
   "date": "2020-07-09T18:32:55",

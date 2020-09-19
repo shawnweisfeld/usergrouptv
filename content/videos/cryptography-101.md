@@ -1,6 +1,9 @@
 {
   "title": "Cryptography 101",
   "type": "recording",
+  "tags": [
+    "Cryptography"
+  ],
   "date": "2013-08-17T22:13:38",
   "draft": false,
   "slug": "cryptography-101",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Cryptography",
       "slug": "cryptography",

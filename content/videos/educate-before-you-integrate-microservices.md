@@ -1,6 +1,9 @@
 {
   "title": "Educate before you integrate microservices",
   "type": "recording",
+  "tags": [
+    "Microservices"
+  ],
   "date": "2018-09-10T21:18:32",
   "draft": false,
   "slug": "educate-before-you-integrate-microservices",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Microservices",
       "slug": "microservices",

@@ -1,5 +1,8 @@
 {
   "title": "SQL Watchdog",
+  "tags": [
+    "SQL Watchdog"
+  ],
   "type": "tag",
   "slug": "sql-watchdog",
   "date": "2015-01-31T23:11:26",

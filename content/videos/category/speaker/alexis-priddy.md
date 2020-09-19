@@ -1,5 +1,8 @@
 {
   "title": "Alexis Priddy",
+  "tags": [
+    "Alexis Priddy"
+  ],
   "type": "speaker",
   "slug": "alexis-priddy",
   "date": "2019-09-28T17:00:09",

@@ -1,5 +1,8 @@
 {
   "title": "Node.js",
+  "tags": [
+    "Node.js"
+  ],
   "type": "tag",
   "slug": "node-js",
   "date": "2016-04-20T23:43:58",

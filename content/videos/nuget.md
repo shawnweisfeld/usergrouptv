@@ -1,6 +1,9 @@
 {
   "title": "Nuget",
   "type": "recording",
+  "tags": [
+    "Nuget"
+  ],
   "date": "2011-07-13T19:34:43",
   "draft": false,
   "slug": "nuget",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Nuget",
       "slug": "nuget",

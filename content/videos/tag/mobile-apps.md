@@ -1,5 +1,8 @@
 {
   "title": "Mobile Apps",
+  "tags": [
+    "Mobile Apps"
+  ],
   "type": "tag",
   "slug": "mobile-apps",
   "date": "2017-10-14T11:39:33",

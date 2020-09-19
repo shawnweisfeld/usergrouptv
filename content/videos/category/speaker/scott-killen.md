@@ -1,5 +1,8 @@
 {
   "title": "Scott Killen",
+  "tags": [
+    "Scott Killen"
+  ],
   "type": "speaker",
   "slug": "scott-killen",
   "date": "2019-10-04T16:46:40",

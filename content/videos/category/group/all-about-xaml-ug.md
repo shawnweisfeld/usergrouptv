@@ -1,6 +1,9 @@
 {
   "title": "All About XAML UG",
   "type": "meetup",
+  "tags": [
+    "All About XAML UG"
+  ],
   "slug": "all-about-xaml-ug",
   "date": "2011-07-06T18:03:29",
   "draft": false,

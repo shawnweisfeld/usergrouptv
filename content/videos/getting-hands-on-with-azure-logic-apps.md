@@ -1,6 +1,9 @@
 {
   "title": "Getting Hands-on with Azure Logic Apps",
   "type": "recording",
+  "tags": [
+    "Logic Apps"
+  ],
   "date": "2018-04-21T13:17:28",
   "draft": false,
   "slug": "getting-hands-on-with-azure-logic-apps",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Logic Apps",
       "slug": "logic-apps",

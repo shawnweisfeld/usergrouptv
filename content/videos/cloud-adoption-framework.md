@@ -1,6 +1,9 @@
 {
   "title": "Cloud Adoption Framework",
   "type": "recording",
+  "tags": [
+    "caf"
+  ],
   "date": "2020-07-21T18:08:37",
   "draft": false,
   "slug": "cloud-adoption-framework",
@@ -22,7 +25,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "caf",
       "slug": "caf",

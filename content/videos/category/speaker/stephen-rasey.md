@@ -1,5 +1,8 @@
 {
   "title": "Stephen Rasey",
+  "tags": [
+    "Stephen Rasey"
+  ],
   "type": "speaker",
   "slug": "stephen-rasey",
   "date": "2015-09-12T16:28:50",

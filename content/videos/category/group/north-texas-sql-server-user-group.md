@@ -1,6 +1,9 @@
 {
   "title": "North Texas SQL Server User Group",
   "type": "meetup",
+  "tags": [
+    "North Texas SQL Server User Group"
+  ],
   "slug": "north-texas-sql-server-user-group",
   "date": "2019-07-18T13:08:59",
   "draft": false,

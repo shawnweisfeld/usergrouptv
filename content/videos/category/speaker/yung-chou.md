@@ -1,5 +1,8 @@
 {
   "title": "Yung Chou",
+  "tags": [
+    "Yung Chou"
+  ],
   "type": "speaker",
   "slug": "yung-chou",
   "date": "2016-09-24T20:00:29",

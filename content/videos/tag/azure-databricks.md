@@ -1,5 +1,8 @@
 {
   "title": "Azure Databricks",
+  "tags": [
+    "Azure Databricks"
+  ],
   "type": "tag",
   "slug": "azure-databricks",
   "date": "2020-02-08T16:30:20",

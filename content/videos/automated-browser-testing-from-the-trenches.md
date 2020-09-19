@@ -1,6 +1,9 @@
 {
   "title": "Automated Browser Testing From The Trenches ",
   "type": "recording",
+  "tags": [
+    "Testing"
+  ],
   "date": "2016-07-11T11:23:34",
   "draft": false,
   "slug": "automated-browser-testing-from-the-trenches",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Testing",
       "slug": "testing",

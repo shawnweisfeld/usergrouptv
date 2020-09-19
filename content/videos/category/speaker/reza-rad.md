@@ -1,5 +1,8 @@
 {
   "title": "Reza Rad",
+  "tags": [
+    "Reza Rad"
+  ],
   "type": "speaker",
   "slug": "reza-rad",
   "date": "2020-05-13T12:43:18",

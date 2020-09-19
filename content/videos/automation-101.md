@@ -1,6 +1,9 @@
 {
   "title": "Automation 101",
   "type": "recording",
+  "tags": [
+    "Automation"
+  ],
   "date": "2017-10-06T22:12:55",
   "draft": false,
   "slug": "automation-101",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Automation",
       "slug": "automation",

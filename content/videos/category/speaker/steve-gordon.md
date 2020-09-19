@@ -1,5 +1,8 @@
 {
   "title": "Steve Gordon",
+  "tags": [
+    "Steve Gordon"
+  ],
   "type": "speaker",
   "slug": "steve-gordon",
   "date": "2020-04-28T21:17:13",

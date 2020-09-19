@@ -1,6 +1,9 @@
 {
   "title": "Scrum Fundamentals",
   "type": "recording",
+  "tags": [
+    "Scrum"
+  ],
   "date": "2014-05-16T09:59:51",
   "draft": false,
   "slug": "scrum-fundamentals",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Scrum",
       "slug": "scrum",

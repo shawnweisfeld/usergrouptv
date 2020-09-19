@@ -1,5 +1,8 @@
 {
   "title": "wpf",
+  "tags": [
+    "wpf"
+  ],
   "type": "tag",
   "slug": "wpf",
   "date": "2011-08-12T20:03:04",

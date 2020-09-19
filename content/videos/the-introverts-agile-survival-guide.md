@@ -1,6 +1,9 @@
 {
   "title": "THE INTROVERT'S AGILE SURVIVAL GUIDE",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2014-08-22T16:35:40",
   "draft": false,
   "slug": "the-introverts-agile-survival-guide",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

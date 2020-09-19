@@ -1,6 +1,9 @@
 {
   "title": "MVVM for mobile, don't do it cause comeone told you.",
   "type": "recording",
+  "tags": [
+    "mvvm"
+  ],
   "date": "2017-10-14T11:43:45",
   "draft": false,
   "slug": "mvvm-for-mobile-dont-do-it-cause-comeone-told-you",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "mvvm",
       "slug": "mvvm",

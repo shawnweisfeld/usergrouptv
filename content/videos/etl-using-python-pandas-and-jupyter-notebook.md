@@ -1,6 +1,11 @@
 {
   "title": "ETL Using Python, Pandas, and Jupyter Notebook",
   "type": "recording",
+  "tags": [
+    "Python",
+    "Jupyter Notebook",
+    "ETL"
+  ],
   "date": "2020-02-08T16:14:32",
   "draft": false,
   "slug": "etl-using-python-pandas-and-jupyter-notebook",
@@ -16,7 +21,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Python",
       "slug": "python",

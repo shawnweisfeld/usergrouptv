@@ -1,5 +1,8 @@
 {
   "title": "David Belcher",
+  "tags": [
+    "David Belcher"
+  ],
   "type": "speaker",
   "slug": "david-belcher",
   "date": "2014-08-22T17:37:06",

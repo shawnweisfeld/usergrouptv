@@ -1,5 +1,8 @@
 {
   "title": "Ann Hudspeth",
+  "tags": [
+    "Ann Hudspeth"
+  ],
   "type": "speaker",
   "slug": "ann-hudspeth",
   "date": "2017-08-06T16:24:37",

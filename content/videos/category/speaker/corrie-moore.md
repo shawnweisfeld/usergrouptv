@@ -1,5 +1,8 @@
 {
   "title": "Corrie Moore",
+  "tags": [
+    "Corrie Moore"
+  ],
   "type": "speaker",
   "slug": "corrie-moore",
   "date": "2017-10-05T21:51:41",

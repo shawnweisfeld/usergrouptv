@@ -1,5 +1,8 @@
 {
   "title": "Jeff Johnston",
+  "tags": [
+    "Jeff Johnston"
+  ],
   "type": "speaker",
   "slug": "jeff-johnston",
   "date": "2014-05-03T19:47:11",

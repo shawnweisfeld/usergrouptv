@@ -1,5 +1,8 @@
 {
   "title": "Scott Dockendorf",
+  "tags": [
+    "Scott Dockendorf"
+  ],
   "type": "speaker",
   "slug": "scott-dockendorf",
   "date": "2019-08-12T14:12:57",

@@ -1,6 +1,10 @@
 {
   "title": "A Tale of Two Clouds: Building An App Across AWS and Azure",
   "type": "recording",
+  "tags": [
+    "Azure",
+    "AWS"
+  ],
   "date": "2017-07-20T14:05:46",
   "draft": false,
   "slug": "a-tale-of-two-clouds-building-an-app-across-aws-and-azure",
@@ -16,7 +20,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

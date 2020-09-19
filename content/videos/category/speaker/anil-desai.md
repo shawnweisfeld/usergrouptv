@@ -1,5 +1,8 @@
 {
   "title": "Anil Desai",
+  "tags": [
+    "Anil Desai"
+  ],
   "type": "speaker",
   "slug": "anil-desai",
   "date": "2014-04-14T12:11:21",

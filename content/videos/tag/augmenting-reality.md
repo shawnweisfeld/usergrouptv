@@ -1,5 +1,8 @@
 {
   "title": "Augmenting Reality",
+  "tags": [
+    "Augmenting Reality"
+  ],
   "type": "tag",
   "slug": "augmenting-reality",
   "date": "2012-10-12T15:39:43",

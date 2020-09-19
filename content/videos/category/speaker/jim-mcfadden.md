@@ -1,5 +1,8 @@
 {
   "title": "Jim McFadden",
+  "tags": [
+    "Jim McFadden"
+  ],
   "type": "speaker",
   "slug": "jim-mcfadden",
   "date": "2018-04-11T21:07:50",

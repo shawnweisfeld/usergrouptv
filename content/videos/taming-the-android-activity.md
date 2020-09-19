@@ -1,6 +1,9 @@
 {
   "title": "Taming the Android Activity ",
   "type": "recording",
+  "tags": [
+    "xamarin"
+  ],
   "date": "2015-08-19T12:01:05",
   "draft": false,
   "slug": "taming-the-android-activity",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "xamarin",
       "slug": "xamarin",

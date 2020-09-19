@@ -1,6 +1,9 @@
 {
   "title": "Team Foundation Server 2013 Update 2",
   "type": "recording",
+  "tags": [
+    "TFS"
+  ],
   "date": "2014-05-30T10:47:21",
   "draft": false,
   "slug": "team-foundation-server-2013-update-2",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "TFS",
       "slug": "tfs",

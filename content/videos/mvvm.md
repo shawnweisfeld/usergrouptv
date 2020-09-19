@@ -1,6 +1,9 @@
 {
   "title": "MVVM",
   "type": "recording",
+  "tags": [
+    "mvvm"
+  ],
   "date": "2011-09-10T03:50:12",
   "draft": false,
   "slug": "mvvm",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "mvvm",
       "slug": "mvvm",

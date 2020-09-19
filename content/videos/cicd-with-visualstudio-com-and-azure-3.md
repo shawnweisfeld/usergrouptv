@@ -1,6 +1,12 @@
 {
   "title": "CI/CD with VisualStudio.com and Azure ",
   "type": "recording",
+  "tags": [
+    "VisualStudio.com",
+    "CD",
+    "CI",
+    "Azure"
+  ],
   "date": "2017-10-09T16:26:42",
   "draft": false,
   "slug": "cicd-with-visualstudio-com-and-azure-3",
@@ -16,7 +22,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "VisualStudio.com",
       "slug": "visualstudio-com",

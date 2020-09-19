@@ -1,5 +1,8 @@
 {
   "title": "Wenbin Zhao",
+  "tags": [
+    "Wenbin Zhao"
+  ],
   "type": "speaker",
   "slug": "wenbin-zhao",
   "date": "2020-02-08T16:14:32",

@@ -1,6 +1,9 @@
 {
   "title": "Code PaLOUsa",
   "type": "meetup",
+  "tags": [
+    "Code PaLOUsa"
+  ],
   "slug": "code-palousa",
   "date": "2013-04-27T13:10:15",
   "draft": false,

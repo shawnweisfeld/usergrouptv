@@ -1,5 +1,8 @@
 {
   "title": "OWIN",
+  "tags": [
+    "OWIN"
+  ],
   "type": "tag",
   "slug": "owin",
   "date": "2014-09-08T14:49:26",

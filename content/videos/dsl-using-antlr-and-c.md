@@ -1,6 +1,9 @@
 {
   "title": "DSL using Antlr and C# ",
   "type": "recording",
+  "tags": [
+    "DSL"
+  ],
   "date": "2016-01-11T12:09:18",
   "draft": false,
   "slug": "dsl-using-antlr-and-c",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "DSL",
       "slug": "dsl",

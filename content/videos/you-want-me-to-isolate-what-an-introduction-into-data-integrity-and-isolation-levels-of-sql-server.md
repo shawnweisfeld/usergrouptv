@@ -1,6 +1,9 @@
 {
   "title": "You want me to Isolate what? An introduction into data integrity and Isolation Levels of SQL Server",
   "type": "recording",
+  "tags": [
+    "Isolation Levels"
+  ],
   "date": "2017-06-17T14:16:28",
   "draft": false,
   "slug": "you-want-me-to-isolate-what-an-introduction-into-data-integrity-and-isolation-levels-of-sql-server",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Isolation Levels",
       "slug": "isolation-levels",

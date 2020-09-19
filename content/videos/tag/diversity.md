@@ -1,5 +1,8 @@
 {
   "title": "Diversity",
+  "tags": [
+    "Diversity"
+  ],
   "type": "tag",
   "slug": "diversity",
   "date": "2017-10-14T11:56:08",

@@ -1,5 +1,8 @@
 {
   "title": "Robert Jacobi",
+  "tags": [
+    "Robert Jacobi"
+  ],
   "type": "speaker",
   "slug": "robert-jacobi",
   "date": "2019-09-28T16:55:13",

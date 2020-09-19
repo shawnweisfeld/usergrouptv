@@ -1,5 +1,8 @@
 {
   "title": "Jack Bailey",
+  "tags": [
+    "Jack Bailey"
+  ],
   "type": "speaker",
   "slug": "jack-bailey",
   "date": "2018-06-23T19:50:46",

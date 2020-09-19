@@ -1,6 +1,9 @@
 {
   "title": "All Requests are Asynchronous",
   "type": "recording",
+  "tags": [
+    "async"
+  ],
   "date": "2016-08-05T14:52:38",
   "draft": false,
   "slug": "all-requests-are-asynchronous",
@@ -16,7 +19,7 @@
       "count": 22
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "async",
       "slug": "async",

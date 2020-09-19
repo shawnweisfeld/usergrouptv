@@ -1,5 +1,8 @@
 {
   "title": "Devlin Liles",
+  "tags": [
+    "Devlin Liles"
+  ],
   "type": "speaker",
   "slug": "devlin-liles",
   "date": "2018-09-29T15:08:00",

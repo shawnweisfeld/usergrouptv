@@ -1,6 +1,10 @@
 {
   "title": "Html5 Canvas: Drawing Cool Stuff With JavaScript",
   "type": "recording",
+  "tags": [
+    "HTML5",
+    "Canvas"
+  ],
   "date": "2012-11-07T15:56:32",
   "draft": false,
   "slug": "html5-canvas-drawing-cool-stuff-with-javascript",
@@ -16,7 +20,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "HTML5",
       "slug": "html5",

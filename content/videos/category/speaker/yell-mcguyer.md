@@ -1,5 +1,8 @@
 {
   "title": "Yell McGuyer",
+  "tags": [
+    "Yell McGuyer"
+  ],
   "type": "speaker",
   "slug": "yell-mcguyer",
   "date": "2017-03-21T14:15:14",

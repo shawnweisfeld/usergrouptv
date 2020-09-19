@@ -1,5 +1,8 @@
 {
   "title": "Gary McCants",
+  "tags": [
+    "Gary McCants"
+  ],
   "type": "speaker",
   "slug": "gary-mccants",
   "date": "2011-02-25T14:25:07",

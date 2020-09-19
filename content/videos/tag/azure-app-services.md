@@ -1,5 +1,8 @@
 {
   "title": "Azure App Services",
+  "tags": [
+    "Azure App Services"
+  ],
   "type": "tag",
   "slug": "azure-app-services",
   "date": "2019-04-27T13:39:31",

@@ -1,6 +1,9 @@
 {
   "title": "JavaScript Deep Dive ",
   "type": "recording",
+  "tags": [
+    "JavaScript"
+  ],
   "date": "2013-05-28T21:10:07",
   "draft": false,
   "slug": "javascript-deep-dive",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "JavaScript",
       "slug": "javascript",

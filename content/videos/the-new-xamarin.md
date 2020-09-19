@@ -1,6 +1,9 @@
 {
   "title": "The new Xamarin",
   "type": "recording",
+  "tags": [
+    "xamarin"
+  ],
   "date": "2016-04-20T10:52:36",
   "draft": false,
   "slug": "the-new-xamarin",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "xamarin",
       "slug": "xamarin",

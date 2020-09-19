@@ -1,6 +1,9 @@
 {
   "title": "Introducing Domain-Driven Design",
   "type": "recording",
+  "tags": [
+    "DDD"
+  ],
   "date": "2020-07-07T13:07:52",
   "draft": false,
   "slug": "introducing-domain-driven-design",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "DDD",
       "slug": "ddd",

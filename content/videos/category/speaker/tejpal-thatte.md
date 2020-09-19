@@ -1,5 +1,8 @@
 {
   "title": "Tejpal Thatte",
+  "tags": [
+    "Tejpal Thatte"
+  ],
   "type": "speaker",
   "slug": "tejpal-thatte",
   "date": "2018-05-19T22:53:23",

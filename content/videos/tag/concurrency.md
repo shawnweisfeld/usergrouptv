@@ -1,5 +1,8 @@
 {
   "title": "Concurrency",
+  "tags": [
+    "Concurrency"
+  ],
   "type": "tag",
   "slug": "concurrency",
   "date": "2013-09-28T15:34:36",

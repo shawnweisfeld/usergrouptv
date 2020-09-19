@@ -1,5 +1,8 @@
 {
   "title": "Udi Dahan",
+  "tags": [
+    "Udi Dahan"
+  ],
   "type": "speaker",
   "slug": "udi-dahan",
   "date": "2013-01-08T20:31:01",

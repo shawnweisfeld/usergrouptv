@@ -1,5 +1,8 @@
 {
   "title": "Reese Schmit",
+  "tags": [
+    "Reese Schmit"
+  ],
   "type": "speaker",
   "slug": "reese-schmit",
   "date": "2018-05-24T16:54:04",

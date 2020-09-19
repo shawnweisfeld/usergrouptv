@@ -1,5 +1,8 @@
 {
   "title": "PWA",
+  "tags": [
+    "PWA"
+  ],
   "type": "tag",
   "slug": "pwa",
   "date": "2018-05-05T15:54:32",

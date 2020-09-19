@@ -1,6 +1,9 @@
 {
   "title": "Designing for Optimal Performance in SharePoint Online",
   "type": "recording",
+  "tags": [
+    "SharePoint Online"
+  ],
   "date": "2018-05-09T16:06:08",
   "draft": false,
   "slug": "designing-for-optimal-performance-in-sharepoint-online",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SharePoint Online",
       "slug": "sharepoint-online",

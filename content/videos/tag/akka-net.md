@@ -1,5 +1,8 @@
 {
   "title": "Akka.NET",
+  "tags": [
+    "Akka.NET"
+  ],
   "type": "tag",
   "slug": "akka-net",
   "date": "2020-08-17T15:14:10",

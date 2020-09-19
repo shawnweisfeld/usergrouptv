@@ -1,6 +1,9 @@
 {
   "title": "What is the SSIS Catalog? and Why do I care?",
   "type": "recording",
+  "tags": [
+    "SSIS"
+  ],
   "date": "2015-12-16T18:28:33",
   "draft": false,
   "slug": "what-is-the-ssis-catalog-and-why-do-i-care",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SSIS",
       "slug": "ssis",

@@ -1,5 +1,8 @@
 {
   "title": "Azure Security",
+  "tags": [
+    "Azure Security"
+  ],
   "type": "tag",
   "slug": "azure-security",
   "date": "2012-09-08T19:06:37",

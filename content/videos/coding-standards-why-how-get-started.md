@@ -1,6 +1,9 @@
 {
   "title": "Coding Standards - Why? How? Get Started!",
   "type": "recording",
+  "tags": [
+    "Developer"
+  ],
   "date": "2016-08-05T14:49:46",
   "draft": false,
   "slug": "coding-standards-why-how-get-started",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Developer",
       "slug": "developer",

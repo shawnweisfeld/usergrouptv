@@ -1,6 +1,9 @@
 {
   "title": "Introduction to AngularJs with Web API",
   "type": "recording",
+  "tags": [
+    "AngularJS"
+  ],
   "date": "2014-07-21T11:30:05",
   "draft": false,
   "slug": "introduction-to-angularjs-with-web-api",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "AngularJS",
       "slug": "angularjs",

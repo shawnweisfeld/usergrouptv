@@ -1,6 +1,9 @@
 {
   "title": "What's New for Web Developers in Visual Studio 2013",
   "type": "recording",
+  "tags": [
+    "VS2013"
+  ],
   "date": "2014-09-13T23:48:51",
   "draft": false,
   "slug": "whats-new-for-web-developers-in-visual-studio-2013",
@@ -16,7 +19,7 @@
       "count": 12
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "VS2013",
       "slug": "vs2013",

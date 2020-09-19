@@ -1,6 +1,9 @@
 {
   "title": "Why Do We Want C#7?",
   "type": "recording",
+  "tags": [
+    "C#"
+  ],
   "date": "2018-05-05T15:35:16",
   "draft": false,
   "slug": "why-do-we-want-c7",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "C#",
       "slug": "c",

@@ -1,6 +1,9 @@
 {
   "title": "Database Project Makes Deployment Consistent",
   "type": "recording",
+  "tags": [
+    "DB Project"
+  ],
   "date": "2017-06-17T14:13:22",
   "draft": false,
   "slug": "database-project-makes-deployment-consistent",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "DB Project",
       "slug": "db-project",

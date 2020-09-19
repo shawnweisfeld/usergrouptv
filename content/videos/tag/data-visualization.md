@@ -1,5 +1,8 @@
 {
   "title": "Data Visualization",
+  "tags": [
+    "Data Visualization"
+  ],
   "type": "tag",
   "slug": "data-visualization",
   "date": "2015-09-12T16:28:50",

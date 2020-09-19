@@ -1,5 +1,8 @@
 {
   "title": "Brent Schooley",
+  "tags": [
+    "Brent Schooley"
+  ],
   "type": "speaker",
   "slug": "brent-schooley",
   "date": "2013-05-09T13:24:23",

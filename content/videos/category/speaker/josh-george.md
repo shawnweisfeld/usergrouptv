@@ -1,5 +1,8 @@
 {
   "title": "Josh George",
+  "tags": [
+    "Josh George"
+  ],
   "type": "speaker",
   "slug": "josh-george",
   "date": "2014-05-03T19:56:46",

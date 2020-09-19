@@ -1,5 +1,8 @@
 {
   "title": "Alese Stroud",
+  "tags": [
+    "Alese Stroud"
+  ],
   "type": "speaker",
   "slug": "alese-stroud",
   "date": "2015-10-16T02:10:04",

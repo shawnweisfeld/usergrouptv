@@ -1,6 +1,9 @@
 {
   "title": "Introduction to R",
   "type": "recording",
+  "tags": [
+    "R"
+  ],
   "date": "2018-09-29T15:11:38",
   "draft": false,
   "slug": "introduction-to-r",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "R",
       "slug": "r",

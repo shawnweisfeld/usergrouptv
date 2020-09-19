@@ -1,5 +1,8 @@
 {
   "title": "Ryan Casey",
+  "tags": [
+    "Ryan Casey"
+  ],
   "type": "speaker",
   "slug": "ryan-casey",
   "date": "2018-02-20T19:18:13",

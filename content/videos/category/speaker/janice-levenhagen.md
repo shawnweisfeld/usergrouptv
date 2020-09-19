@@ -1,5 +1,8 @@
 {
   "title": "Janice Levenhagen",
+  "tags": [
+    "Janice Levenhagen"
+  ],
   "type": "speaker",
   "slug": "janice-levenhagen",
   "date": "2017-08-05T17:21:07",

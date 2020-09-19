@@ -1,5 +1,8 @@
 {
   "title": "Aurelia",
+  "tags": [
+    "Aurelia"
+  ],
   "type": "tag",
   "slug": "aurelia",
   "date": "2016-09-24T19:48:07",

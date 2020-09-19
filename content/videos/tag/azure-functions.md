@@ -1,5 +1,8 @@
 {
   "title": "Azure Functions",
+  "tags": [
+    "Azure Functions"
+  ],
   "type": "tag",
   "slug": "azure-functions",
   "date": "2017-10-18T11:35:56",

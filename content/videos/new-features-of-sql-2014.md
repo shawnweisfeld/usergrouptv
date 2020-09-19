@@ -1,6 +1,9 @@
 {
   "title": "New features of SQL 2014",
   "type": "recording",
+  "tags": [
+    "SQL Server"
+  ],
   "date": "2014-08-19T18:15:14",
   "draft": false,
   "slug": "new-features-of-sql-2014",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Server",
       "slug": "sql-server",

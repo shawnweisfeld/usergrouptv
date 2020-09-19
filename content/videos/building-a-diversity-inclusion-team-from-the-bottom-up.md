@@ -1,6 +1,9 @@
 {
   "title": "BUILDING A DIVERSITY & INCLUSION TEAM FROM THE BOTTOM UP",
   "type": "recording",
+  "tags": [
+    "Team building"
+  ],
   "date": "2017-08-06T16:44:08",
   "draft": false,
   "slug": "building-a-diversity-inclusion-team-from-the-bottom-up",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Team building",
       "slug": "team-building",

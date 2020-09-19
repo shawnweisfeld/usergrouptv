@@ -1,6 +1,9 @@
 {
   "title": "Debugging Tips with Visual Studio",
   "type": "recording",
+  "tags": [
+    "debuging"
+  ],
   "date": "2014-08-15T16:54:07",
   "draft": false,
   "slug": "debugging-tips-with-visual-studio",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "debuging",
       "slug": "debuging",

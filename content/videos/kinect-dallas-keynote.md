@@ -1,6 +1,9 @@
 {
   "title": "Kinect Dallas Keynote",
   "type": "recording",
+  "tags": [
+    "Kinect"
+  ],
   "date": "2012-01-28T15:36:29",
   "draft": false,
   "slug": "kinect-dallas-keynote",
@@ -22,7 +25,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Kinect",
       "slug": "kinect",

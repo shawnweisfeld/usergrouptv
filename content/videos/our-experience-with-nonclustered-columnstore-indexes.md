@@ -1,6 +1,9 @@
 {
   "title": "Our experience with nonclustered columnstore indexes",
   "type": "recording",
+  "tags": [
+    "MS SQL"
+  ],
   "date": "2017-03-21T14:15:14",
   "draft": false,
   "slug": "our-experience-with-nonclustered-columnstore-indexes",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MS SQL",
       "slug": "ms-sql",

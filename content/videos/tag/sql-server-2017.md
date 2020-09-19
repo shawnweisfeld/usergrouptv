@@ -1,5 +1,8 @@
 {
   "title": "SQL Server 2017",
+  "tags": [
+    "SQL Server 2017"
+  ],
   "type": "tag",
   "slug": "sql-server-2017",
   "date": "2018-05-19T23:04:05",

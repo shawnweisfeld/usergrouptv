@@ -1,6 +1,9 @@
 {
   "title": "The Best of SharePoint Conference 2011 - Chris Geier",
   "type": "recording",
+  "tags": [
+    "Sharepoint"
+  ],
   "date": "2011-11-03T23:00:05",
   "draft": false,
   "slug": "the-best-of-sharepoint-conference-2011-chris-geier",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Sharepoint",
       "slug": "sharepoint",

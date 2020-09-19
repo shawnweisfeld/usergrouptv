@@ -1,6 +1,9 @@
 {
   "title": "What's New In SQL Server 2017",
   "type": "recording",
+  "tags": [
+    "SQL Server 2017"
+  ],
   "date": "2018-05-19T23:04:05",
   "draft": false,
   "slug": "whats-new-in-sql-server-2017-2",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Server 2017",
       "slug": "sql-server-2017",

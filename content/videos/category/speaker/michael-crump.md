@@ -1,5 +1,8 @@
 {
   "title": "Michael Crump",
+  "tags": [
+    "Michael Crump"
+  ],
   "type": "speaker",
   "slug": "michael-crump",
   "date": "2011-07-06T18:03:29",

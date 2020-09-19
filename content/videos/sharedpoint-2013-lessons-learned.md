@@ -1,6 +1,9 @@
 {
   "title": "SharedPoint 2013 Lessons Learned",
   "type": "recording",
+  "tags": [
+    "Sharepoint"
+  ],
   "date": "2013-10-11T21:16:57",
   "draft": false,
   "slug": "sharedpoint-2013-lessons-learned",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Sharepoint",
       "slug": "sharepoint",

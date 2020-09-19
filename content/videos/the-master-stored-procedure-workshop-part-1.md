@@ -1,6 +1,9 @@
 {
   "title": "The Master Stored Procedure Workshop: Part 1",
   "type": "recording",
+  "tags": [
+    "MS SQL"
+  ],
   "date": "2019-07-13T13:47:46",
   "draft": false,
   "slug": "the-master-stored-procedure-workshop-part-1",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MS SQL",
       "slug": "ms-sql",

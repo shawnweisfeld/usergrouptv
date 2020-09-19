@@ -1,6 +1,10 @@
 {
   "title": "REST Services and WP7",
   "type": "recording",
+  "tags": [
+    "REST",
+    "WP7"
+  ],
   "date": "2011-05-09T00:00:27",
   "draft": false,
   "slug": "rest-services-and-wp7",
@@ -16,7 +20,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "REST",
       "slug": "rest",

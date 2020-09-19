@@ -1,6 +1,9 @@
 {
   "title": "Behaviors in Blend",
   "type": "recording",
+  "tags": [
+    "Behaviors"
+  ],
   "date": "2011-04-05T22:09:13",
   "draft": false,
   "slug": "behaviors-in-blend",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Behaviors",
       "slug": "behaviors",

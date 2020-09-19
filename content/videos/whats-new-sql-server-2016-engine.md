@@ -1,6 +1,9 @@
 {
   "title": "What's New SQL Server 2016 (engine)",
   "type": "recording",
+  "tags": [
+    "SQL Server"
+  ],
   "date": "2016-05-24T23:11:13",
   "draft": false,
   "slug": "whats-new-sql-server-2016-engine",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Server",
       "slug": "sql-server",

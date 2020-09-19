@@ -1,5 +1,8 @@
 {
   "title": "Marsha Pierce",
+  "tags": [
+    "Marsha Pierce"
+  ],
   "type": "speaker",
   "slug": "marsha-pierce",
   "date": "2017-03-04T22:00:09",

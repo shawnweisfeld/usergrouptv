@@ -1,6 +1,9 @@
 {
   "title": "When to Promote, Encourage, or Fire Your Scrum Master",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2019-10-04T16:49:15",
   "draft": false,
   "slug": "when-to-promote-encourage-or-fire-your-scrum-master",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

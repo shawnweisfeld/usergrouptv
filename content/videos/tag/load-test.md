@@ -1,5 +1,8 @@
 {
   "title": "Load Test",
+  "tags": [
+    "Load Test"
+  ],
   "type": "tag",
   "slug": "load-test",
   "date": "2015-02-18T13:29:42",

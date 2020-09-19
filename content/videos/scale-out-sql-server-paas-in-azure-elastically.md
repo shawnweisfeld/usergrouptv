@@ -1,6 +1,9 @@
 {
   "title": "Scale out SQL Server PaaS in Azure Elastically",
   "type": "recording",
+  "tags": [
+    "Azure Database"
+  ],
   "date": "2016-05-14T12:30:04",
   "draft": false,
   "slug": "scale-out-sql-server-paas-in-azure-elastically",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure Database",
       "slug": "azure-database",

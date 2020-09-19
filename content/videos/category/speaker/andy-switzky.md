@@ -1,5 +1,8 @@
 {
   "title": "Andy Switzky",
+  "tags": [
+    "Andy Switzky"
+  ],
   "type": "speaker",
   "slug": "andy-switzky",
   "date": "2019-10-04T16:51:06",

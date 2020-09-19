@@ -1,6 +1,9 @@
 {
   "title": "Change Your Questions - Change Your World",
   "type": "recording",
+  "tags": [
+    "Questions"
+  ],
   "date": "2014-10-10T11:17:18",
   "draft": false,
   "slug": "change-your-questions-change-your-world",
@@ -22,7 +25,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Questions",
       "slug": "questions",

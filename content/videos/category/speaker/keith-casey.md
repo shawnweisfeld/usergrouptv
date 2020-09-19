@@ -1,5 +1,8 @@
 {
   "title": "Keith Casey",
+  "tags": [
+    "Keith Casey"
+  ],
   "type": "speaker",
   "slug": "keith-casey",
   "date": "2020-01-13T16:20:57",

@@ -1,6 +1,10 @@
 {
   "title": "Windows Phone 30-To-Launch: Session 2 Exploring the Windows Phone Capabilities ",
   "type": "recording",
+  "tags": [
+    "Windows Phone",
+    "WP7"
+  ],
   "date": "2012-02-08T01:37:18",
   "draft": false,
   "slug": "windows-phone-30-to-launch-session-2-exploring-the-windows-phone-capabilities",
@@ -16,7 +20,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Windows Phone",
       "slug": "windows-phone",

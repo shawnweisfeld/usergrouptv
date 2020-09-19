@@ -1,6 +1,9 @@
 {
   "title": "WINNING TOGETHER",
   "type": "recording",
+  "tags": [
+    "privilege"
+  ],
   "date": "2017-08-05T17:21:07",
   "draft": false,
   "slug": "winning-together",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "privilege",
       "slug": "privilege",

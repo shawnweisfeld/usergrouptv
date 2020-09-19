@@ -1,6 +1,9 @@
 {
   "title": "Experience of Migrating a Mid-sized team from Disconnected ALM tools to TFS",
   "type": "recording",
+  "tags": [
+    "TFS"
+  ],
   "date": "2013-09-27T02:37:22",
   "draft": false,
   "slug": "experience-of-migrating-a-mid-sized-team-from-disconnected-alm-tools-to-tfs",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "TFS",
       "slug": "tfs",

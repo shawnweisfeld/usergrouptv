@@ -1,5 +1,8 @@
 {
   "title": "Nick Volgas",
+  "tags": [
+    "Nick Volgas"
+  ],
   "type": "speaker",
   "slug": "nick-volgas",
   "date": "2017-10-06T16:25:02",

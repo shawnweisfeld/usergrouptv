@@ -1,6 +1,9 @@
 {
   "title": "ETL The Old Fashioned Way ",
   "type": "recording",
+  "tags": [
+    "ETL"
+  ],
   "date": "2017-06-20T22:06:47",
   "draft": false,
   "slug": "etl-the-old-fashioned-way",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "ETL",
       "slug": "etl",

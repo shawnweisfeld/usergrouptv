@@ -1,5 +1,8 @@
 {
   "title": "Durandal",
+  "tags": [
+    "Durandal"
+  ],
   "type": "tag",
   "slug": "durandal",
   "date": "2014-06-14T10:55:45",

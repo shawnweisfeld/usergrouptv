@@ -1,6 +1,9 @@
 {
   "title": "Making Teams Fly with Continuous Delivery to Azure",
   "type": "recording",
+  "tags": [
+    "Continuous Delivery"
+  ],
   "date": "2017-04-22T13:10:50",
   "draft": false,
   "slug": "making-teams-fly-with-continuous-delivery-to-azure",
@@ -16,7 +19,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Continuous Delivery",
       "slug": "continuous-delivery",

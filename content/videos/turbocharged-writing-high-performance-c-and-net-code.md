@@ -1,6 +1,9 @@
 {
   "title": "Turbocharged: Writing High-Performance C# and .NET Code",
   "type": "recording",
+  "tags": [
+    "C#"
+  ],
   "date": "2020-04-28T21:17:13",
   "draft": false,
   "slug": "turbocharged-writing-high-performance-c-and-net-code",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "C#",
       "slug": "c",

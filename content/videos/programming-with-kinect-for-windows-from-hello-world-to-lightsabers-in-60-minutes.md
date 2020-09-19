@@ -1,6 +1,9 @@
 {
   "title": "Programming with Kinect for Windows: From Hello World to Lightsabers in 60 minutes",
   "type": "recording",
+  "tags": [
+    "Kinect"
+  ],
   "date": "2013-08-17T22:09:28",
   "draft": false,
   "slug": "programming-with-kinect-for-windows-from-hello-world-to-lightsabers-in-60-minutes",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Kinect",
       "slug": "kinect",

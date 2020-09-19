@@ -1,6 +1,9 @@
 {
   "title": "Cross-platform Development with PCLs",
   "type": "recording",
+  "tags": [
+    "PCL"
+  ],
   "date": "2014-09-13T19:28:41",
   "draft": false,
   "slug": "cross-platform-development-with-pcls-2",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "PCL",
       "slug": "pcl",

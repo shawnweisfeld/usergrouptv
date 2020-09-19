@@ -1,6 +1,9 @@
 {
   "title": "Understanding Storage Systems and SQL Server",
   "type": "recording",
+  "tags": [
+    "SQL Storage"
+  ],
   "date": "2011-08-27T20:49:06",
   "draft": false,
   "slug": "understanding-storage-systems-and-sql-server",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Storage",
       "slug": "sql-storage",

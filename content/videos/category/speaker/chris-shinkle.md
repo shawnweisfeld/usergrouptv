@@ -1,5 +1,8 @@
 {
   "title": "Chris Shinkle",
+  "tags": [
+    "Chris Shinkle"
+  ],
   "type": "speaker",
   "slug": "chris-shinkle",
   "date": "2019-10-04T16:28:58",

@@ -1,5 +1,8 @@
 {
   "title": "BabelJS",
+  "tags": [
+    "BabelJS"
+  ],
   "type": "tag",
   "slug": "babeljs",
   "date": "2015-09-26T12:25:26",

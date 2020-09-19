@@ -1,6 +1,9 @@
 {
   "title": "Building a Strong Foundation for Data Analysis",
   "type": "recording",
+  "tags": [
+    "Data"
+  ],
   "date": "2020-02-08T16:07:08",
   "draft": false,
   "slug": "building-a-strong-foundation-for-data-analysis",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Data",
       "slug": "data",

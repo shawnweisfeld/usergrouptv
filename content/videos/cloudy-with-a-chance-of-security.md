@@ -1,6 +1,9 @@
 {
   "title": "Cloudy with a chance of Security",
   "type": "recording",
+  "tags": [
+    "Cloud"
+  ],
   "date": "2016-08-05T14:36:50",
   "draft": false,
   "slug": "cloudy-with-a-chance-of-security",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Cloud",
       "slug": "cloud",

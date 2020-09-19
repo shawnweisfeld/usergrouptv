@@ -1,6 +1,9 @@
 {
   "title": "Houston TechFest 2015 Keynote",
   "type": "recording",
+  "tags": [
+    "Keynote"
+  ],
   "date": "2015-09-12T16:18:14",
   "draft": false,
   "slug": "houston-techfest-2015-keynote",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Keynote",
       "slug": "keynote",

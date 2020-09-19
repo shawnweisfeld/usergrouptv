@@ -1,5 +1,8 @@
 {
   "title": "Bill DeVoe",
+  "tags": [
+    "Bill DeVoe"
+  ],
   "type": "speaker",
   "slug": "bill-devoe",
   "date": "2017-10-06T16:04:21",

@@ -1,6 +1,9 @@
 {
   "title": "Using iOS Gesture Recognizers ",
   "type": "recording",
+  "tags": [
+    "xamarin"
+  ],
   "date": "2015-10-21T02:05:35",
   "draft": false,
   "slug": "using-ios-gesture-recognizers",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "xamarin",
       "slug": "xamarin",

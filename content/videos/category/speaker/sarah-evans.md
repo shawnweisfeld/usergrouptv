@@ -1,5 +1,8 @@
 {
   "title": "Sarah Evans",
+  "tags": [
+    "Sarah Evans"
+  ],
   "type": "speaker",
   "slug": "sarah-evans",
   "date": "2017-08-06T16:51:00",

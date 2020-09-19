@@ -1,5 +1,8 @@
 {
   "title": "Xamarin Forms",
+  "tags": [
+    "Xamarin Forms"
+  ],
   "type": "tag",
   "slug": "xamarin-forms",
   "date": "2017-10-14T11:41:37",

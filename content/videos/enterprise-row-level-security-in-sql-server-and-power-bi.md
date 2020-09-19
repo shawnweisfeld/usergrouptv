@@ -1,6 +1,9 @@
 {
   "title": "Enterprise Row Level Security in SQL Server and Power BI",
   "type": "recording",
+  "tags": [
+    "Power BI"
+  ],
   "date": "2018-08-11T15:56:58",
   "draft": false,
   "slug": "enterprise-row-level-security-in-sql-server-and-power-bi",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Power BI",
       "slug": "power-bi",

@@ -1,5 +1,8 @@
 {
   "title": "Marshall Copeland",
+  "tags": [
+    "Marshall Copeland"
+  ],
   "type": "speaker",
   "slug": "marshall-copeland",
   "date": "2017-04-22T13:11:53",

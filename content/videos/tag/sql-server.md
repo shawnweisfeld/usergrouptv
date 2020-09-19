@@ -1,5 +1,8 @@
 {
   "title": "SQL Server",
+  "tags": [
+    "SQL Server"
+  ],
   "type": "tag",
   "slug": "sql-server",
   "date": "2018-08-25T19:32:15",

@@ -1,5 +1,8 @@
 {
   "title": "Russel Loski",
+  "tags": [
+    "Russel Loski"
+  ],
   "type": "speaker",
   "slug": "russel-loski",
   "date": "2020-02-08T16:19:15",

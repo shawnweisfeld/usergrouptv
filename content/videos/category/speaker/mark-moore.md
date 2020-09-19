@@ -1,5 +1,8 @@
 {
   "title": "Mark Moore",
+  "tags": [
+    "Mark Moore"
+  ],
   "type": "speaker",
   "slug": "mark-moore",
   "date": "2020-08-18T15:15:50",

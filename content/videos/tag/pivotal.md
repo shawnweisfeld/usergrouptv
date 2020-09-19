@@ -1,5 +1,8 @@
 {
   "title": "pivotal",
+  "tags": [
+    "pivotal"
+  ],
   "type": "tag",
   "slug": "pivotal",
   "date": "2018-07-10T19:10:37",

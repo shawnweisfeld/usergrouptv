@@ -1,6 +1,9 @@
 {
   "title": "DFW C++ User Group",
   "type": "meetup",
+  "tags": [
+    "DFW C++ User Group"
+  ],
   "slug": "dfw-c-user-group",
   "date": "2012-09-11T15:04:58",
   "draft": false,

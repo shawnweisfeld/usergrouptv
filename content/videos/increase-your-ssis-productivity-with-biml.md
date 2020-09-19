@@ -1,6 +1,9 @@
 {
   "title": "Increase your SSIS productivity with Biml",
   "type": "recording",
+  "tags": [
+    "BIML"
+  ],
   "date": "2015-01-31T14:06:07",
   "draft": false,
   "slug": "increase-your-ssis-productivity-with-biml",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "BIML",
       "slug": "biml",

@@ -1,6 +1,9 @@
 {
   "title": "Why should I care about ... the plan cache?",
   "type": "recording",
+  "tags": [
+    "Plan Cache"
+  ],
   "date": "2017-06-17T14:15:04",
   "draft": false,
   "slug": "why-should-i-care-about-the-plan-cache-2",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Plan Cache",
       "slug": "plan-cache",

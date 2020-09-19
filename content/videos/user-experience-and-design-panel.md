@@ -1,6 +1,9 @@
 {
   "title": "USER EXPERIENCE AND DESIGN PANEL",
   "type": "recording",
+  "tags": [
+    "UX"
+  ],
   "date": "2017-08-06T16:24:37",
   "draft": false,
   "slug": "user-experience-and-design-panel",
@@ -34,7 +37,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "UX",
       "slug": "ux",

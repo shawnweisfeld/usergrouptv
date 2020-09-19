@@ -1,6 +1,9 @@
 {
   "title": "Ext Js",
   "type": "recording",
+  "tags": [
+    "Ext Js"
+  ],
   "date": "2012-03-22T12:11:43",
   "draft": false,
   "slug": "ext-js",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Ext Js",
       "slug": "ext-js",

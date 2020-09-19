@@ -1,5 +1,8 @@
 {
   "title": "David O'Hara",
+  "tags": [
+    "David O'Hara"
+  ],
   "type": "speaker",
   "slug": "david-ohara",
   "date": "2012-02-02T15:26:43",

@@ -1,6 +1,9 @@
 {
   "title": "Keeping Code Clean with Visual Studio 2015 Live Code Analyzers",
   "type": "recording",
+  "tags": [
+    "VS2015"
+  ],
   "date": "2015-09-12T16:21:40",
   "draft": false,
   "slug": "keeping-code-clean-with-visual-studio-2015-live-code-analyzers",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "VS2015",
       "slug": "vs2015",

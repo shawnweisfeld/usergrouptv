@@ -1,6 +1,9 @@
 {
   "title": "Cryptography Pitfalls ",
   "type": "recording",
+  "tags": [
+    "Security"
+  ],
   "date": "2015-10-16T01:57:08",
   "draft": false,
   "slug": "cryptography-pitfalls",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Security",
       "slug": "security",

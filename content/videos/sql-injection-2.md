@@ -1,6 +1,9 @@
 {
   "title": "SQL Injection",
   "type": "recording",
+  "tags": [
+    "sql injection"
+  ],
   "date": "2015-01-31T23:17:05",
   "draft": false,
   "slug": "sql-injection-2",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "sql injection",
       "slug": "sql-injection",

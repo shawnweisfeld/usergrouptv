@@ -1,6 +1,9 @@
 {
   "title": "Gravity Center",
   "type": "meetup",
+  "tags": [
+    "Gravity Center"
+  ],
   "slug": "gravity-center",
   "date": "2012-01-29T14:40:11",
   "draft": false,

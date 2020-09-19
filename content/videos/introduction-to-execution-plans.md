@@ -1,6 +1,9 @@
 {
   "title": "Introduction to Execution Plans",
   "type": "recording",
+  "tags": [
+    "SQL Performance"
+  ],
   "date": "2017-10-14T11:47:49",
   "draft": false,
   "slug": "introduction-to-execution-plans",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Performance",
       "slug": "sql-performance",

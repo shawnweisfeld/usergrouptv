@@ -1,5 +1,8 @@
 {
   "title": "Glen Block",
+  "tags": [
+    "Glen Block"
+  ],
   "type": "speaker",
   "slug": "glen-block",
   "date": "2011-10-07T02:45:43",

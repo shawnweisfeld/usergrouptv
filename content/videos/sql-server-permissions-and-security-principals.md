@@ -1,6 +1,9 @@
 {
   "title": "SQL Server Permissions and Security Principals",
   "type": "recording",
+  "tags": [
+    "SQL Server Security"
+  ],
   "date": "2016-05-14T12:31:34",
   "draft": false,
   "slug": "sql-server-permissions-and-security-principals",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Server Security",
       "slug": "sql-server-security",

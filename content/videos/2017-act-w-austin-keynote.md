@@ -1,6 +1,9 @@
 {
   "title": "2017 ACT-W Austin Keynote",
   "type": "recording",
+  "tags": [
+    "Keynote"
+  ],
   "date": "2017-08-05T17:22:48",
   "draft": false,
   "slug": "2017-act-w-austin-keynote",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Keynote",
       "slug": "keynote",

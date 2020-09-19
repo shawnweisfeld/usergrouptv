@@ -1,5 +1,8 @@
 {
   "title": "Andy Warren",
+  "tags": [
+    "Andy Warren"
+  ],
   "type": "speaker",
   "slug": "andy-warren",
   "date": "2018-06-23T19:49:32",

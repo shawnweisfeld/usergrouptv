@@ -1,5 +1,8 @@
 {
   "title": "Daniel Janik",
+  "tags": [
+    "Daniel Janik"
+  ],
   "type": "speaker",
   "slug": "daniel-janik",
   "date": "2019-02-19T15:30:18",

@@ -1,6 +1,9 @@
 {
   "title": "Getting started with Azure Infrastructure as a Service (IaaS)",
   "type": "recording",
+  "tags": [
+    "Azure"
+  ],
   "date": "2016-04-16T11:00:56",
   "draft": false,
   "slug": "getting-started-with-azure-infrastructure-as-a-service-iaas",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

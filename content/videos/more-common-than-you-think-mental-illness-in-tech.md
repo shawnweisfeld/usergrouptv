@@ -1,6 +1,9 @@
 {
   "title": "More Common Than You Think: Mental Illness in Tech",
   "type": "recording",
+  "tags": [
+    "Career"
+  ],
   "date": "2020-02-08T16:12:39",
   "draft": false,
   "slug": "more-common-than-you-think-mental-illness-in-tech",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Career",
       "slug": "career",

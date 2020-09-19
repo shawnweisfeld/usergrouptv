@@ -1,5 +1,8 @@
 {
   "title": "Data Sovereignty",
+  "tags": [
+    "Data Sovereignty"
+  ],
   "type": "tag",
   "slug": "data-sovereignty",
   "date": "2017-07-21T14:05:24",

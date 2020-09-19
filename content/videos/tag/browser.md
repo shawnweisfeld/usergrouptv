@@ -1,5 +1,8 @@
 {
   "title": "Browser",
+  "tags": [
+    "Browser"
+  ],
   "type": "tag",
   "slug": "browser",
   "date": "2016-09-24T19:41:14",

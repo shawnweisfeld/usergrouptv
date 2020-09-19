@@ -1,6 +1,9 @@
 {
   "title": "Introduction to Web Components & Polymer",
   "type": "recording",
+  "tags": [
+    "Web Components"
+  ],
   "date": "2017-10-05T21:50:10",
   "draft": false,
   "slug": "introduction-to-web-components-polymer",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Web Components",
       "slug": "web-components",

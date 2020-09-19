@@ -1,6 +1,9 @@
 {
   "title": "HTML5: Code for all the platforms!",
   "type": "recording",
+  "tags": [
+    "HTML5"
+  ],
   "date": "2011-10-07T04:57:17",
   "draft": false,
   "slug": "html5-code-for-all-the-platforms",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "HTML5",
       "slug": "html5",

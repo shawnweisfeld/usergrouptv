@@ -1,5 +1,8 @@
 {
   "title": "Rebekah Post",
+  "tags": [
+    "Rebekah Post"
+  ],
   "type": "speaker",
   "slug": "rebekah-post",
   "date": "2017-08-04T14:26:53",

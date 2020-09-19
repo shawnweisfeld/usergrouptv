@@ -1,5 +1,8 @@
 {
   "title": "Fiddler",
+  "tags": [
+    "Fiddler"
+  ],
   "type": "tag",
   "slug": "fiddler",
   "date": "2014-03-10T18:57:24",

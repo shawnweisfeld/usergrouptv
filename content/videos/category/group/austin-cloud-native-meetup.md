@@ -1,6 +1,9 @@
 {
   "title": "Austin Cloud Native Meetup",
   "type": "meetup",
+  "tags": [
+    "Austin Cloud Native Meetup"
+  ],
   "slug": "austin-cloud-native-meetup",
   "date": "2018-11-15T16:56:12",
   "draft": false,

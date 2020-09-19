@@ -1,6 +1,9 @@
 {
   "title": "Microservice-Powere­d Applications - It worked for Voltron, it can work for you!",
   "type": "recording",
+  "tags": [
+    "Microservices"
+  ],
   "date": "2017-10-06T22:09:19",
   "draft": false,
   "slug": "microservice-powere%c2%add-applications-it-worked-for-voltron-it-can-work-for-you",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Microservices",
       "slug": "microservices",

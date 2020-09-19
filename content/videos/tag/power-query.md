@@ -1,5 +1,8 @@
 {
   "title": "Power Query",
+  "tags": [
+    "Power Query"
+  ],
   "type": "tag",
   "slug": "power-query",
   "date": "2014-05-03T19:53:02",

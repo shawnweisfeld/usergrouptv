@@ -1,6 +1,9 @@
 {
   "title": "A brutal journey: Lessons learned while traveling the world as a CEO/CTO.",
   "type": "recording",
+  "tags": [
+    "Job"
+  ],
   "date": "2017-10-06T16:10:02",
   "draft": false,
   "slug": "a-brutal-journey-lessons-learned-while-traveling-the-world-as-a-ceocto",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Job",
       "slug": "job",

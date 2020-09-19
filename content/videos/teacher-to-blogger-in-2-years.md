@@ -1,6 +1,9 @@
 {
   "title": "TEACHER TO BLOGGER IN 2 YEARS",
   "type": "recording",
+  "tags": [
+    "blogger"
+  ],
   "date": "2017-08-05T17:03:05",
   "draft": false,
   "slug": "teacher-to-blogger-in-2-years",
@@ -9,7 +12,7 @@
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650697877_295x166.jpg",
   "speakers": [],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "blogger",
       "slug": "blogger",

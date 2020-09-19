@@ -1,6 +1,9 @@
 {
   "title": "An Introduction to Tabular Editor",
   "type": "recording",
+  "tags": [
+    "Power BI"
+  ],
   "date": "2020-09-09T15:22:13",
   "draft": false,
   "slug": "an-introduction-to-tabular-editor",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Power BI",
       "slug": "power-bi",

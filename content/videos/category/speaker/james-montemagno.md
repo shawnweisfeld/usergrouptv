@@ -1,5 +1,8 @@
 {
   "title": "James Montemagno",
+  "tags": [
+    "James Montemagno"
+  ],
   "type": "speaker",
   "slug": "james-montemagno",
   "date": "2015-05-31T13:36:23",

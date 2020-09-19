@@ -1,5 +1,8 @@
 {
   "title": "PDW",
+  "tags": [
+    "PDW"
+  ],
   "type": "tag",
   "slug": "pdw",
   "date": "2014-05-03T19:59:18",

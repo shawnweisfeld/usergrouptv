@@ -1,6 +1,9 @@
 {
   "title": "The Backup Tune-up for Speed",
   "type": "recording",
+  "tags": [
+    "SQL Backup"
+  ],
   "date": "2017-02-21T11:40:27",
   "draft": false,
   "slug": "the-backup-tune-up-for-speed",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Backup",
       "slug": "sql-backup",

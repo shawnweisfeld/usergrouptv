@@ -1,6 +1,9 @@
 {
   "title": "Get in the ORM fast lane with NPoco",
   "type": "recording",
+  "tags": [
+    "ORM"
+  ],
   "date": "2014-09-13T23:54:33",
   "draft": false,
   "slug": "get-in-the-orm-fast-lane-with-npoco",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "ORM",
       "slug": "orm",

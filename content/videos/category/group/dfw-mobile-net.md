@@ -1,6 +1,9 @@
 {
   "title": "DFW Mobile .NET",
   "type": "meetup",
+  "tags": [
+    "DFW Mobile .NET"
+  ],
   "slug": "dfw-mobile-net",
   "date": "2015-05-13T13:21:34",
   "draft": false,

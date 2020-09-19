@@ -1,6 +1,9 @@
 {
   "title": "MVVM with Xamarin.Forms",
   "type": "recording",
+  "tags": [
+    "xamarin"
+  ],
   "date": "2015-05-31T13:35:07",
   "draft": false,
   "slug": "mvvm-with-xamarin-forms",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "xamarin",
       "slug": "xamarin",

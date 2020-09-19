@@ -1,5 +1,8 @@
 {
   "title": "EF",
+  "tags": [
+    "EF"
+  ],
   "type": "tag",
   "slug": "ef",
   "date": "2012-08-24T12:56:03",

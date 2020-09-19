@@ -1,6 +1,9 @@
 {
   "title": "SharePoint Success Strategy",
   "type": "recording",
+  "tags": [
+    "Sharepoint"
+  ],
   "date": "2016-09-24T19:52:16",
   "draft": false,
   "slug": "sharepoint-success-strategy",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Sharepoint",
       "slug": "sharepoint",

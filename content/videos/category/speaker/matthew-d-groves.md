@@ -1,5 +1,8 @@
 {
   "title": "Matthew D. Groves",
+  "tags": [
+    "Matthew D. Groves"
+  ],
   "type": "speaker",
   "slug": "matthew-d-groves",
   "date": "2016-10-10T11:59:51",

@@ -1,6 +1,9 @@
 {
   "title": "LiDAR - Measuring Distance with Photons",
   "type": "recording",
+  "tags": [
+    "LiDAR"
+  ],
   "date": "2018-10-13T14:16:42",
   "draft": false,
   "slug": "lidar-measuring-distance-with-photons",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "LiDAR",
       "slug": "lidar",

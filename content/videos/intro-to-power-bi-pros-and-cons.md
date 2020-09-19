@@ -1,6 +1,9 @@
 {
   "title": "Intro to Power BI, Pros and Cons",
   "type": "recording",
+  "tags": [
+    "Power BI"
+  ],
   "date": "2019-04-16T13:35:56",
   "draft": false,
   "slug": "intro-to-power-bi-pros-and-cons",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Power BI",
       "slug": "power-bi",

@@ -1,5 +1,8 @@
 {
   "title": "Kevin Boles",
+  "tags": [
+    "Kevin Boles"
+  ],
   "type": "speaker",
   "slug": "kevin-boles",
   "date": "2019-11-19T16:20:04",

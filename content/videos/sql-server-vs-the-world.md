@@ -1,6 +1,10 @@
 {
   "title": "SQL Server vs The World",
   "type": "recording",
+  "tags": [
+    "NoSQL",
+    "Open Source DB"
+  ],
   "date": "2013-08-24T11:37:00",
   "draft": false,
   "slug": "sql-server-vs-the-world",
@@ -16,7 +20,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "NoSQL",
       "slug": "nosql",

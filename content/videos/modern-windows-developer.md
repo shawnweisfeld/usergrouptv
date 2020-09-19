@@ -1,6 +1,9 @@
 {
   "title": "Modern Windows developer",
   "type": "recording",
+  "tags": [
+    "Developer"
+  ],
   "date": "2019-07-08T13:36:37",
   "draft": false,
   "slug": "modern-windows-developer",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Developer",
       "slug": "developer",

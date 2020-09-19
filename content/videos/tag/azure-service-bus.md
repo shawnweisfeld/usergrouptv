@@ -1,5 +1,8 @@
 {
   "title": "Azure Service Bus",
+  "tags": [
+    "Azure Service Bus"
+  ],
   "type": "tag",
   "slug": "azure-service-bus",
   "date": "2017-04-22T13:08:54",

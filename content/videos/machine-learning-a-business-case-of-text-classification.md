@@ -1,6 +1,9 @@
 {
   "title": "Machine Learning: a business case of text classification",
   "type": "recording",
+  "tags": [
+    "Machine Learning"
+  ],
   "date": "2017-10-05T22:01:51",
   "draft": false,
   "slug": "machine-learning-a-business-case-of-text-classification",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Machine Learning",
       "slug": "machine-learning",

@@ -1,6 +1,9 @@
 {
   "title": "Bash on Ubuntu on Windows -- The \"how\" and \"why\"! ",
   "type": "recording",
+  "tags": [
+    "Bash"
+  ],
   "date": "2016-05-31T11:11:39",
   "draft": false,
   "slug": "bash-on-ubuntu-on-windows-the-how-and-why",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Bash",
       "slug": "bash",

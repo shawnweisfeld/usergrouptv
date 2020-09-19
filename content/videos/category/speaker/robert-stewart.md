@@ -1,5 +1,8 @@
 {
   "title": "Robert Stewart",
+  "tags": [
+    "Robert Stewart"
+  ],
   "type": "speaker",
   "slug": "robert-stewart",
   "date": "2019-07-13T14:09:40",

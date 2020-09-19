@@ -1,6 +1,9 @@
 {
   "title": "SQL Server Encryption",
   "type": "recording",
+  "tags": [
+    "SQL Server Security"
+  ],
   "date": "2018-08-25T19:35:49",
   "draft": false,
   "slug": "sql-server-encryption",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Server Security",
       "slug": "sql-server-security",

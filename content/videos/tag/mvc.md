@@ -1,5 +1,8 @@
 {
   "title": "MVC",
+  "tags": [
+    "MVC"
+  ],
   "type": "tag",
   "slug": "mvc",
   "date": "2013-06-05T19:38:11",

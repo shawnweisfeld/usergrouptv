@@ -1,5 +1,8 @@
 {
   "title": "ACI",
+  "tags": [
+    "ACI"
+  ],
   "type": "tag",
   "slug": "aci",
   "date": "2019-04-27T13:45:58",

@@ -1,5 +1,8 @@
 {
   "title": "Band",
+  "tags": [
+    "Band"
+  ],
   "type": "tag",
   "slug": "band",
   "date": "2015-08-19T12:07:24",

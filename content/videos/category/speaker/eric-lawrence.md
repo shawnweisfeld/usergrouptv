@@ -1,5 +1,8 @@
 {
   "title": "Eric Lawrence",
+  "tags": [
+    "Eric Lawrence"
+  ],
   "type": "speaker",
   "slug": "eric-lawrence",
   "date": "2014-03-10T18:57:24",

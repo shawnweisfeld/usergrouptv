@@ -1,5 +1,8 @@
 {
   "title": "WebMatrix",
+  "tags": [
+    "WebMatrix"
+  ],
   "type": "tag",
   "slug": "webmatrix",
   "date": "2012-04-04T12:19:27",

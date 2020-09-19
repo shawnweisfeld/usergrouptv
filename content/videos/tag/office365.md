@@ -1,5 +1,8 @@
 {
   "title": "Office365",
+  "tags": [
+    "Office365"
+  ],
   "type": "tag",
   "slug": "office365",
   "date": "2016-11-09T11:43:32",

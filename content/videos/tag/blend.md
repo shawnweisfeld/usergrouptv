@@ -1,5 +1,8 @@
 {
   "title": "Blend",
+  "tags": [
+    "Blend"
+  ],
   "type": "tag",
   "slug": "blend",
   "date": "2013-05-07T13:17:58",

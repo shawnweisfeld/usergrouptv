@@ -1,6 +1,9 @@
 {
   "title": "Make Your Company Conversational using Azure Cognitive Services",
   "type": "recording",
+  "tags": [
+    "Cognitive Services"
+  ],
   "date": "2020-02-08T16:08:46",
   "draft": false,
   "slug": "make-your-company-conversational-using-azure-cognitive-services",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Cognitive Services",
       "slug": "cognitive-services",

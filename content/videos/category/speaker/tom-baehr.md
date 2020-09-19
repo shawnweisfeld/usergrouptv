@@ -1,5 +1,8 @@
 {
   "title": "Tom Baehr",
+  "tags": [
+    "Tom Baehr"
+  ],
   "type": "speaker",
   "slug": "tom-baehr",
   "date": "2013-09-28T12:44:30",

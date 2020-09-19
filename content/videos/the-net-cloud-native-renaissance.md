@@ -1,6 +1,9 @@
 {
   "title": "The .NET Cloud-Native Renaissance",
   "type": "recording",
+  "tags": [
+    "pivotal"
+  ],
   "date": "2018-07-10T19:10:37",
   "draft": false,
   "slug": "the-net-cloud-native-renaissance",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "pivotal",
       "slug": "pivotal",

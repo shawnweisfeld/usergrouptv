@@ -1,6 +1,10 @@
 {
   "title": "Microservices and the Cloud",
   "type": "recording",
+  "tags": [
+    "Azure",
+    "Microservices"
+  ],
   "date": "2017-10-14T12:01:42",
   "draft": false,
   "slug": "microservices-and-the-cloud-2",
@@ -16,7 +20,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

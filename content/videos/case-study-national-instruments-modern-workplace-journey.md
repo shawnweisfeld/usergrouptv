@@ -1,6 +1,9 @@
 {
   "title": "Case Study: National Instruments' Modern Workplace Journey",
   "type": "recording",
+  "tags": [
+    "O365"
+  ],
   "date": "2019-08-14T14:14:42",
   "draft": false,
   "slug": "case-study-national-instruments-modern-workplace-journey",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "O365",
       "slug": "o365",

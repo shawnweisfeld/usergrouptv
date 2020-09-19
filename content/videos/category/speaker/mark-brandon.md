@@ -1,5 +1,8 @@
 {
   "title": "Mark Brandon",
+  "tags": [
+    "Mark Brandon"
+  ],
   "type": "speaker",
   "slug": "mark-brandon",
   "date": "2012-08-24T00:31:30",

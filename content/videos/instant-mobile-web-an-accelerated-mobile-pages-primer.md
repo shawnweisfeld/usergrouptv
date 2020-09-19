@@ -1,6 +1,9 @@
 {
   "title": "Instant Mobile Web: An Accelerated Mobile Pages primer",
   "type": "recording",
+  "tags": [
+    "Accelerated Mobile Pages"
+  ],
   "date": "2017-10-05T21:56:40",
   "draft": false,
   "slug": "instant-mobile-web-an-accelerated-mobile-pages-primer",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Accelerated Mobile Pages",
       "slug": "accelerated-mobile-pages",

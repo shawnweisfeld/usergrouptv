@@ -1,6 +1,9 @@
 {
   "title": "T-SQL Brush-up:The Best Things You Forgot You Knew",
   "type": "recording",
+  "tags": [
+    "TSQL"
+  ],
   "date": "2012-08-25T21:40:30",
   "draft": false,
   "slug": "t-sql-brush-upthe-best-things-you-forgot-you-knew",
@@ -16,7 +19,7 @@
       "count": 7
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "TSQL",
       "slug": "tsql",

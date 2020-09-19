@@ -1,6 +1,9 @@
 {
   "title": "Building Your Evil(?) Empire with Azure Functions",
   "type": "recording",
+  "tags": [
+    "Azure Functions"
+  ],
   "date": "2017-10-05T21:55:35",
   "draft": false,
   "slug": "building-your-evil-empire-with-azure-functions",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure Functions",
       "slug": "azure-functions",

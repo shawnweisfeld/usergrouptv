@@ -1,6 +1,9 @@
 {
   "title": "Dallas TechFest",
   "type": "meetup",
+  "tags": [
+    "Dallas TechFest"
+  ],
   "slug": "dallas-techfest",
   "date": "2014-10-10T11:35:21",
   "draft": false,

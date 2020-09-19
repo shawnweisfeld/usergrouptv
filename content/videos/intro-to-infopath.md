@@ -1,6 +1,9 @@
 {
   "title": "Intro to InfoPath",
   "type": "recording",
+  "tags": [
+    "InfoPath"
+  ],
   "date": "2016-09-24T19:53:26",
   "draft": false,
   "slug": "intro-to-infopath",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "InfoPath",
       "slug": "infopath",

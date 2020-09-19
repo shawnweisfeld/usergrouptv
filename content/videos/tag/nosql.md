@@ -1,5 +1,8 @@
 {
   "title": "NoSQL",
+  "tags": [
+    "NoSQL"
+  ],
   "type": "tag",
   "slug": "nosql",
   "date": "2014-10-10T11:22:54",

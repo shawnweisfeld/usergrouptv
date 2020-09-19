@@ -1,6 +1,10 @@
 {
   "title": "Crazy Web Performance with Azure Static Web Apps",
   "type": "recording",
+  "tags": [
+    "Static Web",
+    "Azure"
+  ],
   "date": "2020-08-25T13:52:05",
   "draft": false,
   "slug": "crazy-web-performance-with-azure-static-web-apps",
@@ -16,7 +20,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Static Web",
       "slug": "static-web",

@@ -1,5 +1,8 @@
 {
   "title": "Mobile",
+  "tags": [
+    "Mobile"
+  ],
   "type": "tag",
   "slug": "mobile",
   "date": "2013-06-05T19:38:11",

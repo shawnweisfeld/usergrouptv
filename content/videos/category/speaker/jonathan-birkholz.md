@@ -1,5 +1,8 @@
 {
   "title": "Jonathan Birkholz",
+  "tags": [
+    "Jonathan Birkholz"
+  ],
   "type": "speaker",
   "slug": "jonathan-birkholz",
   "date": "2012-09-08T16:02:40",

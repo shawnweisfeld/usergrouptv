@@ -1,6 +1,9 @@
 {
   "title": "Performance on a Budget",
   "type": "recording",
+  "tags": [
+    "Performance"
+  ],
   "date": "2012-06-09T10:23:54",
   "draft": false,
   "slug": "performance-on-a-budget",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Performance",
       "slug": "performance",

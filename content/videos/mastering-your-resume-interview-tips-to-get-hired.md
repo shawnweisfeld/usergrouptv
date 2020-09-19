@@ -1,6 +1,9 @@
 {
   "title": "Mastering your Resume & Interview: Tips to Get Hired",
   "type": "recording",
+  "tags": [
+    "Job"
+  ],
   "date": "2013-09-28T18:39:33",
   "draft": false,
   "slug": "mastering-your-resume-interview-tips-to-get-hired",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Job",
       "slug": "job",

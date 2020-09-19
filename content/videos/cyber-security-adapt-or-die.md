@@ -1,6 +1,9 @@
 {
   "title": "Cyber Security - Adapt or Die",
   "type": "recording",
+  "tags": [
+    "Cyber Security"
+  ],
   "date": "2019-04-27T13:47:42",
   "draft": false,
   "slug": "cyber-security-adapt-or-die",
@@ -22,7 +25,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Cyber Security",
       "slug": "cyber-security",

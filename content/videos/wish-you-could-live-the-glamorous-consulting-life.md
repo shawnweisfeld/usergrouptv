@@ -1,6 +1,9 @@
 {
   "title": "Wish you could live the glamorous consulting life?",
   "type": "recording",
+  "tags": [
+    "Career"
+  ],
   "date": "2018-05-19T23:05:15",
   "draft": false,
   "slug": "wish-you-could-live-the-glamorous-consulting-life",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Career",
       "slug": "career",

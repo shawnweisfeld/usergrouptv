@@ -1,5 +1,8 @@
 {
   "title": "Bryan Soltis",
+  "tags": [
+    "Bryan Soltis"
+  ],
   "type": "speaker",
   "slug": "bryan-soltis",
   "date": "2018-11-14T16:55:09",

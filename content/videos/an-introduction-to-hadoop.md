@@ -1,6 +1,9 @@
 {
   "title": "An Introduction to Hadoop ",
   "type": "recording",
+  "tags": [
+    "Hadoop"
+  ],
   "date": "2014-05-03T19:42:00",
   "draft": false,
   "slug": "an-introduction-to-hadoop",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Hadoop",
       "slug": "hadoop",

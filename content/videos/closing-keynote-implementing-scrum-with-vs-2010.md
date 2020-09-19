@@ -1,6 +1,10 @@
 {
   "title": "Closing Keynote - Implementing Scrum With VS 2010",
   "type": "recording",
+  "tags": [
+    "Scrum",
+    "VS2010"
+  ],
   "date": "2011-02-25T13:44:30",
   "draft": false,
   "slug": "closing-keynote-implementing-scrum-with-vs-2010",
@@ -16,7 +20,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Scrum",
       "slug": "scrum",

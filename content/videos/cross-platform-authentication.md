@@ -1,6 +1,10 @@
 {
   "title": "Cross-Platform Authentication",
   "type": "recording",
+  "tags": [
+    "AD",
+    "Azure"
+  ],
   "date": "2015-11-12T13:21:05",
   "draft": false,
   "slug": "cross-platform-authentication",
@@ -16,7 +20,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "AD",
       "slug": "ad",

@@ -1,6 +1,9 @@
 {
   "title": "F# + NodeJS + VSCode = <3",
   "type": "recording",
+  "tags": [
+    "F#"
+  ],
   "date": "2019-03-21T14:05:16",
   "draft": false,
   "slug": "f-nodejs-vscode",
@@ -16,7 +19,7 @@
       "count": 7
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "F#",
       "slug": "f",

@@ -1,6 +1,9 @@
 {
   "title": "A Rocket Scientist Perspective on Index Column Selection ",
   "type": "recording",
+  "tags": [
+    "MS SQL"
+  ],
   "date": "2019-07-13T14:03:08",
   "draft": false,
   "slug": "a-rocket-scientist-perspective-on-index-column-selection",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MS SQL",
       "slug": "ms-sql",

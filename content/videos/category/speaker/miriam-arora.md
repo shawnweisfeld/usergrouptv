@@ -1,5 +1,8 @@
 {
   "title": "Miriam Arora",
+  "tags": [
+    "Miriam Arora"
+  ],
   "type": "speaker",
   "slug": "miriam-arora",
   "date": "2017-08-04T14:21:01",

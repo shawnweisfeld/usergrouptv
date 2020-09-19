@@ -1,5 +1,8 @@
 {
   "title": "Drupal",
+  "tags": [
+    "Drupal"
+  ],
   "type": "tag",
   "slug": "drupal",
   "date": "2017-10-06T16:20:55",

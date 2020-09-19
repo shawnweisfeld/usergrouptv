@@ -1,6 +1,9 @@
 {
   "title": "C.S. Education and Preparing Students",
   "type": "recording",
+  "tags": [
+    "Computer Science Edution"
+  ],
   "date": "2017-10-06T22:07:05",
   "draft": false,
   "slug": "c-s-education-and-preparing-students",
@@ -34,7 +37,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Computer Science Edution",
       "slug": "computer-science-edution",

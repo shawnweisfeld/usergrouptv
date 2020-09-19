@@ -1,5 +1,8 @@
 {
   "title": "Keyvan Nayyeri",
+  "tags": [
+    "Keyvan Nayyeri"
+  ],
   "type": "speaker",
   "slug": "keyvan-nayyeri",
   "date": "2013-02-06T13:34:44",

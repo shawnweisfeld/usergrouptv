@@ -1,6 +1,9 @@
 {
   "title": "What's New With Windows Azure?",
   "type": "recording",
+  "tags": [
+    "Azure"
+  ],
   "date": "2012-07-24T15:40:10",
   "draft": false,
   "slug": "whats-new-with-windows-azure",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

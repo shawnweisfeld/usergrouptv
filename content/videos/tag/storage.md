@@ -1,5 +1,8 @@
 {
   "title": "Storage",
+  "tags": [
+    "Storage"
+  ],
   "type": "tag",
   "slug": "storage",
   "date": "2017-03-04T22:00:09",

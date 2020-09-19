@@ -1,5 +1,8 @@
 {
   "title": "Scott Hunter",
+  "tags": [
+    "Scott Hunter"
+  ],
   "type": "speaker",
   "slug": "scott-hunter",
   "date": "2020-05-26T14:03:48",

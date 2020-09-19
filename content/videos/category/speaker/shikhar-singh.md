@@ -1,5 +1,8 @@
 {
   "title": "Shikhar Singh",
+  "tags": [
+    "Shikhar Singh"
+  ],
   "type": "speaker",
   "slug": "shikhar-singh",
   "date": "2017-05-10T20:18:34",

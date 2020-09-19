@@ -1,6 +1,9 @@
 {
   "title": "Chicago IT Architects Group",
   "type": "meetup",
+  "tags": [
+    "Chicago IT Architects Group"
+  ],
   "slug": "citag",
   "date": "2011-11-02T02:07:51",
   "draft": false,

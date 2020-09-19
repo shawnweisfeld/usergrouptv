@@ -1,6 +1,9 @@
 {
   "title": "Optimizing Code Reusability For SharePoint using Linq to SharePoint and the MVP Design Pattern.",
   "type": "recording",
+  "tags": [
+    "Sharepoint"
+  ],
   "date": "2014-09-13T23:55:44",
   "draft": false,
   "slug": "optimizing-code-reusability-for-sharepoint-using-linq-to-sharepoint-and-the-mvp-design-pattern",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Sharepoint",
       "slug": "sharepoint",

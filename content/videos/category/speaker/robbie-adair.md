@@ -1,5 +1,8 @@
 {
   "title": "Robbie Adair",
+  "tags": [
+    "Robbie Adair"
+  ],
   "type": "speaker",
   "slug": "robbie-adair",
   "date": "2019-09-28T17:02:10",

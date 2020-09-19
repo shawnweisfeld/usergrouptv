@@ -1,5 +1,8 @@
 {
   "title": "Update Controls",
+  "tags": [
+    "Update Controls"
+  ],
   "type": "tag",
   "slug": "update-controls",
   "date": "2013-03-05T20:48:41",

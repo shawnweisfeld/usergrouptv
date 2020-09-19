@@ -1,6 +1,9 @@
 {
   "title": "Empowering Users, Several Documents at a Time",
   "type": "recording",
+  "tags": [
+    "Sharepoint"
+  ],
   "date": "2017-05-10T20:18:34",
   "draft": false,
   "slug": "empowering-users-several-documents-at-a-time",
@@ -22,7 +25,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Sharepoint",
       "slug": "sharepoint",

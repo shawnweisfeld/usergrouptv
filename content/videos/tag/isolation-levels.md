@@ -1,5 +1,8 @@
 {
   "title": "Isolation Levels",
+  "tags": [
+    "Isolation Levels"
+  ],
   "type": "tag",
   "slug": "isolation-levels",
   "date": "2017-06-17T14:16:28",

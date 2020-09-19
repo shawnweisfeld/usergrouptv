@@ -1,5 +1,8 @@
 {
   "title": "SQL Performance",
+  "tags": [
+    "SQL Performance"
+  ],
   "type": "tag",
   "slug": "sql-performance",
   "date": "2018-08-25T19:39:30",

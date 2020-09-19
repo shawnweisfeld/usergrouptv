@@ -1,5 +1,8 @@
 {
   "title": "Delegates",
+  "tags": [
+    "Delegates"
+  ],
   "type": "tag",
   "slug": "delegates",
   "date": "2011-05-10T00:35:57",

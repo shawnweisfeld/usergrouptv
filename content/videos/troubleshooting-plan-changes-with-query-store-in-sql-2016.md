@@ -1,6 +1,9 @@
 {
   "title": "Troubleshooting Plan Changes with Query Store in SQL 2016",
   "type": "recording",
+  "tags": [
+    "SQL"
+  ],
   "date": "2015-10-20T12:37:45",
   "draft": false,
   "slug": "troubleshooting-plan-changes-with-query-store-in-sql-2016",
@@ -16,7 +19,7 @@
       "count": 18
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL",
       "slug": "sql",

@@ -1,6 +1,9 @@
 {
   "title": "Practical Benefits of Using a Domain Model ",
   "type": "recording",
+  "tags": [
+    "DDD"
+  ],
   "date": "2014-01-14T11:35:34",
   "draft": false,
   "slug": "practical-benefits-of-using-a-domain-model",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "DDD",
       "slug": "ddd",

@@ -1,6 +1,9 @@
 {
   "title": "VS 2010 Tips and Tricks - Advanced",
   "type": "recording",
+  "tags": [
+    "VS2010"
+  ],
   "date": "2011-10-15T22:42:04",
   "draft": false,
   "slug": "vs-2010-tips-and-tricks-advanced",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "VS2010",
       "slug": "vs2010",

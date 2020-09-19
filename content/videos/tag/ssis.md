@@ -1,5 +1,8 @@
 {
   "title": "SSIS",
+  "tags": [
+    "SSIS"
+  ],
   "type": "tag",
   "slug": "ssis",
   "date": "2020-02-08T16:19:15",

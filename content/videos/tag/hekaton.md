@@ -1,5 +1,8 @@
 {
   "title": "Hekaton",
+  "tags": [
+    "Hekaton"
+  ],
   "type": "tag",
   "slug": "hekaton",
   "date": "2017-06-17T14:12:15",

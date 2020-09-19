@@ -1,5 +1,8 @@
 {
   "title": "Selenium",
+  "tags": [
+    "Selenium"
+  ],
   "type": "tag",
   "slug": "selenium",
   "date": "2012-03-14T13:01:38",

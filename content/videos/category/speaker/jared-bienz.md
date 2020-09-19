@@ -1,5 +1,8 @@
 {
   "title": "Jared Bienz",
+  "tags": [
+    "Jared Bienz"
+  ],
   "type": "speaker",
   "slug": "jared-bienz",
   "date": "2012-06-13T00:28:43",

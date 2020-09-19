@@ -1,5 +1,8 @@
 {
   "title": "Franklin Gamboa",
+  "tags": [
+    "Franklin Gamboa"
+  ],
   "type": "speaker",
   "slug": "franklin-gamboa",
   "date": "2018-06-23T19:58:42",

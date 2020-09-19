@@ -1,6 +1,9 @@
 {
   "title": "10 Practices of an Agile Developer ",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2011-02-25T02:02:23",
   "draft": false,
   "slug": "10-practices-of-an-agile-developer",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

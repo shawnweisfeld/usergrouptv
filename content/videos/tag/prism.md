@@ -1,5 +1,8 @@
 {
   "title": "Prism",
+  "tags": [
+    "Prism"
+  ],
   "type": "tag",
   "slug": "prism",
   "date": "2012-07-03T21:59:29",

@@ -1,5 +1,8 @@
 {
   "title": "Teresa Burger",
+  "tags": [
+    "Teresa Burger"
+  ],
   "type": "speaker",
   "slug": "teresa-burger",
   "date": "2011-03-22T21:25:17",

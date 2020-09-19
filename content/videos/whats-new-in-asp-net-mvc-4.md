@@ -1,6 +1,9 @@
 {
   "title": "What's New in ASP.NET MVC 4",
   "type": "recording",
+  "tags": [
+    "ASP.NET MVC"
+  ],
   "date": "2013-03-01T20:37:25",
   "draft": false,
   "slug": "whats-new-in-asp-net-mvc-4",
@@ -16,7 +19,7 @@
       "count": 12
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "ASP.NET MVC",
       "slug": "asp-net-mvc",

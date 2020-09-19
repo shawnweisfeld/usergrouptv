@@ -1,6 +1,9 @@
 {
   "title": "Public Cloud, Private Cloud, Hybrid Cloud, What’s Really The Truth?",
   "type": "recording",
+  "tags": [
+    "Cloud"
+  ],
   "date": "2011-08-13T20:14:51",
   "draft": false,
   "slug": "public-cloud-private-cloud-hybrid-cloud-whats-really-the-truth",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Cloud",
       "slug": "cloud",

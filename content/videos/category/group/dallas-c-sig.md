@@ -1,6 +1,9 @@
 {
   "title": "Dallas C# SIG",
   "type": "meetup",
+  "tags": [
+    "Dallas C# SIG"
+  ],
   "slug": "dallas-c-sig",
   "date": "2013-02-07T00:50:11",
   "draft": false,

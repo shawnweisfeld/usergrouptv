@@ -1,5 +1,8 @@
 {
   "title": "Authentication",
+  "tags": [
+    "Authentication"
+  ],
   "type": "tag",
   "slug": "authentication",
   "date": "2018-10-13T14:14:30",

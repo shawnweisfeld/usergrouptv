@@ -1,6 +1,9 @@
 {
   "title": "Ethics in Data",
   "type": "recording",
+  "tags": [
+    "Data"
+  ],
   "date": "2020-02-08T16:17:42",
   "draft": false,
   "slug": "ethics-in-data",
@@ -22,7 +25,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Data",
       "slug": "data",

@@ -1,5 +1,8 @@
 {
   "title": "CODES OF CONDUCT",
+  "tags": [
+    "CODES OF CONDUCT"
+  ],
   "type": "tag",
   "slug": "codes-of-conduct",
   "date": "2017-08-05T17:19:59",

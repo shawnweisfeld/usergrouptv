@@ -1,5 +1,8 @@
 {
   "title": "Graph Databases",
+  "tags": [
+    "Graph Databases"
+  ],
   "type": "tag",
   "slug": "graph-databases",
   "date": "2017-10-06T22:27:23",

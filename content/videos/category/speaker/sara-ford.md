@@ -1,5 +1,8 @@
 {
   "title": "Sara Ford",
+  "tags": [
+    "Sara Ford"
+  ],
   "type": "speaker",
   "slug": "sara-ford",
   "date": "2020-06-23T13:06:06",

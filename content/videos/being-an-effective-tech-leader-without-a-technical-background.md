@@ -1,6 +1,9 @@
 {
   "title": "BEING AN EFFECTIVE TECH LEADER WITHOUT A TECHNICAL BACKGROUND",
   "type": "recording",
+  "tags": [
+    "Tech Leader"
+  ],
   "date": "2017-08-06T16:45:13",
   "draft": false,
   "slug": "being-an-effective-tech-leader-without-a-technical-background",
@@ -22,7 +25,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Tech Leader",
       "slug": "tech-leader",

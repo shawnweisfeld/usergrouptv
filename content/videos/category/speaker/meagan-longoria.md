@@ -1,5 +1,8 @@
 {
   "title": "Meagan Longoria",
+  "tags": [
+    "Meagan Longoria"
+  ],
   "type": "speaker",
   "slug": "meagan-longoria",
   "date": "2020-02-08T16:26:29",

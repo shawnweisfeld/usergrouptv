@@ -1,5 +1,8 @@
 {
   "title": "Sharepoint",
+  "tags": [
+    "Sharepoint"
+  ],
   "type": "tag",
   "slug": "sharepoint",
   "date": "2018-04-11T20:58:52",

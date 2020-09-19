@@ -1,6 +1,9 @@
 {
   "title": "This is Your Brain on Unconscious Bias",
   "type": "recording",
+  "tags": [
+    "Career"
+  ],
   "date": "2017-08-04T14:25:19",
   "draft": false,
   "slug": "this-is-your-brain-on-unconscious-bias",
@@ -22,7 +25,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Career",
       "slug": "career",

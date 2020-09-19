@@ -1,5 +1,8 @@
 {
   "title": "Ben Ilegbodu",
+  "tags": [
+    "Ben Ilegbodu"
+  ],
   "type": "speaker",
   "slug": "ben-ilegbodu",
   "date": "2015-10-16T02:02:53",

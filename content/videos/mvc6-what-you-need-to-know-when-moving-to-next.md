@@ -1,6 +1,9 @@
 {
   "title": "MVC6 – What You Need to Know When Moving to Next",
   "type": "recording",
+  "tags": [
+    "ASP.NET vNext"
+  ],
   "date": "2015-09-26T12:10:38",
   "draft": false,
   "slug": "mvc6-what-you-need-to-know-when-moving-to-next",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "ASP.NET vNext",
       "slug": "asp-net-vnext",

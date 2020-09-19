@@ -1,6 +1,10 @@
 {
   "title": "Small Mobile Apps with Big Back Ends",
   "type": "recording",
+  "tags": [
+    "Azure",
+    "win8"
+  ],
   "date": "2012-12-04T16:09:50",
   "draft": false,
   "slug": "small-mobile-apps-with-big-back-ends",
@@ -16,7 +20,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

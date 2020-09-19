@@ -1,5 +1,8 @@
 {
   "title": "unit testing",
+  "tags": [
+    "unit testing"
+  ],
   "type": "tag",
   "slug": "unit-testing",
   "date": "2016-08-05T14:47:30",

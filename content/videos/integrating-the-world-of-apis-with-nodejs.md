@@ -1,6 +1,9 @@
 {
   "title": "INTEGRATING THE WORLD OF APIS WITH NODEJS",
   "type": "recording",
+  "tags": [
+    "Nodejs"
+  ],
   "date": "2017-08-06T16:47:55",
   "draft": false,
   "slug": "integrating-the-world-of-apis-with-nodejs",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Nodejs",
       "slug": "nodejs",

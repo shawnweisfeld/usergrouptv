@@ -1,6 +1,9 @@
 {
   "title": "Setting up a test lab with Hyper-V",
   "type": "recording",
+  "tags": [
+    "hyperv"
+  ],
   "date": "2019-12-07T19:21:50",
   "draft": false,
   "slug": "setting-up-a-test-lab-with-hyper-v",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "hyperv",
       "slug": "hyperv",

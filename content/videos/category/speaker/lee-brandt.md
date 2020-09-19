@@ -1,5 +1,8 @@
 {
   "title": "Lee Brandt",
+  "tags": [
+    "Lee Brandt"
+  ],
   "type": "speaker",
   "slug": "lee-brandt",
   "date": "2017-07-20T14:18:34",

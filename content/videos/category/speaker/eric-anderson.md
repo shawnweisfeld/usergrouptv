@@ -1,5 +1,8 @@
 {
   "title": "Eric Anderson",
+  "tags": [
+    "Eric Anderson"
+  ],
   "type": "speaker",
   "slug": "eric-anderson",
   "date": "2016-07-11T11:23:34",

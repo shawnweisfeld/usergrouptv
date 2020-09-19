@@ -1,5 +1,8 @@
 {
   "title": "Grant Fritchey",
+  "tags": [
+    "Grant Fritchey"
+  ],
   "type": "speaker",
   "slug": "grant-fritchey",
   "date": "2012-08-25T21:54:32",

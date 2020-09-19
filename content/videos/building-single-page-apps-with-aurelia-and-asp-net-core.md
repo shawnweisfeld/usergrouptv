@@ -1,6 +1,11 @@
 {
   "title": "Building Single Page Apps with Aurelia and ASP.NET Core",
   "type": "recording",
+  "tags": [
+    "SPA",
+    "ASP.NET Core",
+    "Aurelia"
+  ],
   "date": "2016-09-24T19:48:07",
   "draft": false,
   "slug": "building-single-page-apps-with-aurelia-and-asp-net-core",
@@ -16,7 +21,7 @@
       "count": 12
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SPA",
       "slug": "spa",

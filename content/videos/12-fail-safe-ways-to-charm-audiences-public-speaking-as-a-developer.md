@@ -1,6 +1,9 @@
 {
   "title": "12 Fail-Safe Ways to Charm Audiences: Public Speaking as a Developer",
   "type": "recording",
+  "tags": [
+    "Public speaking"
+  ],
   "date": "2017-08-04T14:26:53",
   "draft": false,
   "slug": "12-fail-safe-ways-to-charm-audiences-public-speaking-as-a-developer",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Public speaking",
       "slug": "public-speaking",

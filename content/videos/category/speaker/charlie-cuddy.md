@@ -1,5 +1,8 @@
 {
   "title": "Charlie Cuddy",
+  "tags": [
+    "Charlie Cuddy"
+  ],
   "type": "speaker",
   "slug": "charlie-cuddy",
   "date": "2020-07-21T18:08:37",

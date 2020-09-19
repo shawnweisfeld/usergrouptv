@@ -1,5 +1,8 @@
 {
   "title": "Kerry Lambert",
+  "tags": [
+    "Kerry Lambert"
+  ],
   "type": "speaker",
   "slug": "kerry-lambert",
   "date": "2019-08-14T14:14:42",

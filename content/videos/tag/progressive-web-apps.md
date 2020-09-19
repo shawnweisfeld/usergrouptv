@@ -1,5 +1,8 @@
 {
   "title": "Progressive Web Apps",
+  "tags": [
+    "Progressive Web Apps"
+  ],
   "type": "tag",
   "slug": "progressive-web-apps",
   "date": "2018-10-13T14:12:24",

@@ -1,5 +1,8 @@
 {
   "title": "Web Forms",
+  "tags": [
+    "Web Forms"
+  ],
   "type": "tag",
   "slug": "web-forms",
   "date": "2011-05-16T01:04:01",

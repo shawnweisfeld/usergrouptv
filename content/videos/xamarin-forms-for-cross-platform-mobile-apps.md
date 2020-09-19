@@ -1,6 +1,9 @@
 {
   "title": "Xamarin.Forms for Cross Platform Mobile Apps",
   "type": "recording",
+  "tags": [
+    "xamarin"
+  ],
   "date": "2015-03-18T16:05:03",
   "draft": false,
   "slug": "xamarin-forms-for-cross-platform-mobile-apps",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "xamarin",
       "slug": "xamarin",

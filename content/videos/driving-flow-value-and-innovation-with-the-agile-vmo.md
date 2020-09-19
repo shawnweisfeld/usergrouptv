@@ -1,6 +1,9 @@
 {
   "title": "Driving Flow, Value, and Innovation with the Agile VMO",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2019-10-04T16:30:23",
   "draft": false,
   "slug": "driving-flow-value-and-innovation-with-the-agile-vmo",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

@@ -1,6 +1,9 @@
 {
   "title": "New Azure Configuration Scanner tool and Common Attack Chains in the Cloud",
   "type": "recording",
+  "tags": [
+    "Cloud Security"
+  ],
   "date": "2018-09-12T21:19:52",
   "draft": false,
   "slug": "new-azure-configuration-scanner-tool-and-common-attack-chains-in-the-cloud",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Cloud Security",
       "slug": "cloud-security",

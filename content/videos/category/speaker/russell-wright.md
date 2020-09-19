@@ -1,5 +1,8 @@
 {
   "title": "Russell Wright",
+  "tags": [
+    "Russell Wright"
+  ],
   "type": "speaker",
   "slug": "russell-wright",
   "date": "2011-08-13T20:23:46",

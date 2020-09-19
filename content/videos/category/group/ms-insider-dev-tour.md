@@ -1,6 +1,9 @@
 {
   "title": "MS Insider Dev Tour",
   "type": "meetup",
+  "tags": [
+    "MS Insider Dev Tour"
+  ],
   "slug": "ms-insider-dev-tour",
   "date": "2019-06-24T16:47:24",
   "draft": false,

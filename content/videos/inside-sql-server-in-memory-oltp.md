@@ -1,6 +1,9 @@
 {
   "title": "Inside SQL Server In-Memory OLTP",
   "type": "recording",
+  "tags": [
+    "Hekaton"
+  ],
   "date": "2017-06-17T14:12:15",
   "draft": false,
   "slug": "inside-sql-server-in-memory-oltp",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Hekaton",
       "slug": "hekaton",

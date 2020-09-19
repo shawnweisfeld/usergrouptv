@@ -1,5 +1,8 @@
 {
   "title": "David Penton",
+  "tags": [
+    "David Penton"
+  ],
   "type": "speaker",
   "slug": "david-penton",
   "date": "2012-04-04T12:19:27",

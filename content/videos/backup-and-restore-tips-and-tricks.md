@@ -1,6 +1,9 @@
 {
   "title": "Backup and Restore Tips and Tricks",
   "type": "recording",
+  "tags": [
+    "SQL Backup"
+  ],
   "date": "2015-08-29T14:27:58",
   "draft": false,
   "slug": "backup-and-restore-tips-and-tricks",
@@ -16,7 +19,7 @@
       "count": 7
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Backup",
       "slug": "sql-backup",

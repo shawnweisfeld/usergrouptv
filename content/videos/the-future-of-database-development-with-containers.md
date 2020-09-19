@@ -1,6 +1,9 @@
 {
   "title": "The Future of Database Development with Containers",
   "type": "recording",
+  "tags": [
+    "MS SQL"
+  ],
   "date": "2019-07-13T13:55:01",
   "draft": false,
   "slug": "the-future-of-database-development-with-containers",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MS SQL",
       "slug": "ms-sql",

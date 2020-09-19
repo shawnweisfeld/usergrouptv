@@ -1,6 +1,9 @@
 {
   "title": "Self-Service Data Visualizations with Excel Power View ",
   "type": "recording",
+  "tags": [
+    "Power View"
+  ],
   "date": "2014-05-03T19:47:11",
   "draft": false,
   "slug": "self-service-data-visualizations-with-excel-power-view",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Power View",
       "slug": "power-view",

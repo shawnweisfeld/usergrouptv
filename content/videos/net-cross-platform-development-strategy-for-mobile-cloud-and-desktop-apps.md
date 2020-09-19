@@ -1,6 +1,9 @@
 {
   "title": ".NET Cross Platform Development Strategy for Mobile, Cloud and Desktop Apps ",
   "type": "recording",
+  "tags": [
+    "xamarin"
+  ],
   "date": "2014-06-09T10:49:16",
   "draft": false,
   "slug": "net-cross-platform-development-strategy-for-mobile-cloud-and-desktop-apps",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "xamarin",
       "slug": "xamarin",

@@ -1,5 +1,8 @@
 {
   "title": "Jennifer Plummer",
+  "tags": [
+    "Jennifer Plummer"
+  ],
   "type": "speaker",
   "slug": "jennifer-plummer",
   "date": "2017-10-14T11:56:08",

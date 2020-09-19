@@ -1,5 +1,8 @@
 {
   "title": "Event Hubs",
+  "tags": [
+    "Event Hubs"
+  ],
   "type": "tag",
   "slug": "event-hubs",
   "date": "2020-08-18T15:15:50",

@@ -1,5 +1,8 @@
 {
   "title": ".net",
+  "tags": [
+    ".net"
+  ],
   "type": "tag",
   "slug": "net",
   "date": "2020-05-26T14:03:48",

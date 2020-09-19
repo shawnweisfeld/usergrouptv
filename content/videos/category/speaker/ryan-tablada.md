@@ -1,5 +1,8 @@
 {
   "title": "Ryan Tablada",
+  "tags": [
+    "Ryan Tablada"
+  ],
   "type": "speaker",
   "slug": "ryan-tablada",
   "date": "2017-10-05T21:54:11",

@@ -1,6 +1,9 @@
 {
   "title": "Coding your Future with the Windows Insider Program",
   "type": "recording",
+  "tags": [
+    "Career"
+  ],
   "date": "2019-06-24T16:46:01",
   "draft": false,
   "slug": "coding-your-future-with-the-windows-insider-program",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Career",
       "slug": "career",

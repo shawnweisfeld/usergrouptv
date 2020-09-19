@@ -1,5 +1,8 @@
 {
   "title": "Moriba Jah",
+  "tags": [
+    "Moriba Jah"
+  ],
   "type": "speaker",
   "slug": "moriba-jah",
   "date": "2019-10-04T16:26:45",

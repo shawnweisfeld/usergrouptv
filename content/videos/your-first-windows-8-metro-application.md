@@ -1,6 +1,9 @@
 {
   "title": "Your First Windows 8 Metro Application",
   "type": "recording",
+  "tags": [
+    "win8"
+  ],
   "date": "2012-06-09T10:29:16",
   "draft": false,
   "slug": "your-first-windows-8-metro-application",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "win8",
       "slug": "win8",

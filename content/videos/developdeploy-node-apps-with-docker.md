@@ -1,6 +1,9 @@
 {
   "title": "Develop/Deploy Node Apps with Docker",
   "type": "recording",
+  "tags": [
+    "Docker"
+  ],
   "date": "2017-07-20T14:16:36",
   "draft": false,
   "slug": "developdeploy-node-apps-with-docker",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Docker",
       "slug": "docker",

@@ -1,6 +1,9 @@
 {
   "title": "Unraveling Tangled Code",
   "type": "recording",
+  "tags": [
+    "SQL"
+  ],
   "date": "2013-08-24T11:33:16",
   "draft": false,
   "slug": "unraveling-tangled-code",
@@ -16,7 +19,7 @@
       "count": 7
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL",
       "slug": "sql",

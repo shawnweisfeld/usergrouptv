@@ -1,6 +1,9 @@
 {
   "title": "Intro to Azure SQL Data Warehouse",
   "type": "recording",
+  "tags": [
+    "Azure SQL Data Warehouse"
+  ],
   "date": "2017-06-17T14:23:54",
   "draft": false,
   "slug": "intro-to-azure-sql-data-warehouse-2",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure SQL Data Warehouse",
       "slug": "azure-sql-data-warehouse",

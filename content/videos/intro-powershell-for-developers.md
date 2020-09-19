@@ -1,6 +1,9 @@
 {
   "title": "Intro PowerShell for Developers",
   "type": "recording",
+  "tags": [
+    "PowerShell"
+  ],
   "date": "2013-09-28T02:44:03",
   "draft": false,
   "slug": "intro-powershell-for-developers",
@@ -16,7 +19,7 @@
       "count": 13
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "PowerShell",
       "slug": "powershell",

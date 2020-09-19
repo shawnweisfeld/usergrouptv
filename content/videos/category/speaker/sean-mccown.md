@@ -1,5 +1,8 @@
 {
   "title": "Sean McCown",
+  "tags": [
+    "Sean McCown"
+  ],
   "type": "speaker",
   "slug": "sean-mccown",
   "date": "2019-07-13T13:49:16",

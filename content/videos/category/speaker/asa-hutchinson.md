@@ -1,5 +1,8 @@
 {
   "title": "Asa Hutchinson",
+  "tags": [
+    "Asa Hutchinson"
+  ],
   "type": "speaker",
   "slug": "asa-hutchinson",
   "date": "2015-10-16T02:21:20",

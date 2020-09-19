@@ -1,5 +1,8 @@
 {
   "title": "Scott Whigham",
+  "tags": [
+    "Scott Whigham"
+  ],
   "type": "speaker",
   "slug": "scott-whigham",
   "date": "2011-04-02T21:36:33",

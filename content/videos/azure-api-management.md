@@ -1,6 +1,9 @@
 {
   "title": "Azure API Management",
   "type": "recording",
+  "tags": [
+    "API"
+  ],
   "date": "2015-04-15T23:07:07",
   "draft": false,
   "slug": "azure-api-management",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "API",
       "slug": "api",

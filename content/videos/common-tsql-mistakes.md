@@ -1,6 +1,9 @@
 {
   "title": "Common TSQL Mistakes",
   "type": "recording",
+  "tags": [
+    "TSQL"
+  ],
   "date": "2019-11-19T16:20:04",
   "draft": false,
   "slug": "common-tsql-mistakes",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "TSQL",
       "slug": "tsql",

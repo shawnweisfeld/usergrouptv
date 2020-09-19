@@ -1,6 +1,9 @@
 {
   "title": "How HTML5 and the Cloud Will Make You a Mobile Champion",
   "type": "recording",
+  "tags": [
+    "HTML5 Mobile"
+  ],
   "date": "2011-12-07T00:05:51",
   "draft": false,
   "slug": "how-html5-and-the-cloud-will-make-you-a-mobile-champion",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "HTML5 Mobile",
       "slug": "html5-mobile",

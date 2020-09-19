@@ -1,5 +1,8 @@
 {
   "title": "SQL Notebooks",
+  "tags": [
+    "SQL Notebooks"
+  ],
   "type": "tag",
   "slug": "sql-notebooks",
   "date": "2019-05-21T14:33:30",

@@ -1,6 +1,9 @@
 {
   "title": "Analyze your query plan like a Microsoft Engineer! (SQL 2016 Edition)",
   "type": "recording",
+  "tags": [
+    "SQL Performance"
+  ],
   "date": "2016-08-27T12:49:31",
   "draft": false,
   "slug": "analyze-your-query-plan-like-a-microsoft-engineer-sql-2016-edition",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Performance",
       "slug": "sql-performance",

@@ -1,5 +1,8 @@
 {
   "title": "Cory Brown",
+  "tags": [
+    "Cory Brown"
+  ],
   "type": "speaker",
   "slug": "cory-brown",
   "date": "2019-06-23T16:21:23",

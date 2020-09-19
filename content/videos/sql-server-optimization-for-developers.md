@@ -1,6 +1,9 @@
 {
   "title": "SQL Server Optimization for Developers",
   "type": "recording",
+  "tags": [
+    "SQL"
+  ],
   "date": "2014-04-14T12:11:21",
   "draft": false,
   "slug": "sql-server-optimization-for-developers",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL",
       "slug": "sql",

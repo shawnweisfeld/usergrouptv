@@ -1,6 +1,9 @@
 {
   "title": "CI/CD Pipeline options when Azure is your datacenter",
   "type": "recording",
+  "tags": [
+    "DevOps"
+  ],
   "date": "2018-10-10T13:22:16",
   "draft": false,
   "slug": "cicd-pipeline-options-when-azure-is-your-datacenter",
@@ -16,7 +19,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "DevOps",
       "slug": "devops",

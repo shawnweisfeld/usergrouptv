@@ -1,5 +1,8 @@
 {
   "title": "SQL Backup",
+  "tags": [
+    "SQL Backup"
+  ],
   "type": "tag",
   "slug": "sql-backup",
   "date": "2017-10-14T11:45:47",

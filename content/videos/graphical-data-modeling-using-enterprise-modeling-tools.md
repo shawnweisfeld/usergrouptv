@@ -1,6 +1,7 @@
 {
   "title": "Graphical data modeling using enterprise modeling tools",
   "type": "recording",
+  "tags": [],
   "date": "2018-02-20T19:18:13",
   "draft": false,
   "slug": "graphical-data-modeling-using-enterprise-modeling-tools",
@@ -16,7 +17,7 @@
       "count": 2
     }
   ],
-  "tags": [],
+  "ugtvtags": [],
   "meetups": [
     {
       "name": "Capitol Area Central Texas Users of SQL Server",

@@ -1,5 +1,8 @@
 {
   "title": "Nuget",
+  "tags": [
+    "Nuget"
+  ],
   "type": "tag",
   "slug": "nuget",
   "date": "2012-05-15T11:09:37",

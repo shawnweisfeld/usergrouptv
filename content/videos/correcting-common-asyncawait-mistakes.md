@@ -1,6 +1,9 @@
 {
   "title": "Correcting Common Async/Await Mistakes",
   "type": "recording",
+  "tags": [
+    "async"
+  ],
   "date": "2018-10-13T14:17:50",
   "draft": false,
   "slug": "correcting-common-asyncawait-mistakes",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "async",
       "slug": "async",

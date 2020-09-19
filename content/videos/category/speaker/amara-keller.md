@@ -1,5 +1,8 @@
 {
   "title": "Amara Keller",
+  "tags": [
+    "Amara Keller"
+  ],
   "type": "speaker",
   "slug": "amara-keller",
   "date": "2018-10-13T14:19:01",

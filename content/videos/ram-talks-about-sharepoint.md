@@ -1,6 +1,9 @@
 {
   "title": "Ram on SharePoint March 2011",
   "type": "recording",
+  "tags": [
+    "Sharepoint"
+  ],
   "date": "2011-03-12T19:58:20",
   "draft": false,
   "slug": "ram-talks-about-sharepoint",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Sharepoint",
       "slug": "sharepoint",

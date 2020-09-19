@@ -1,5 +1,8 @@
 {
   "title": "Daniel Pollock",
+  "tags": [
+    "Daniel Pollock"
+  ],
   "type": "speaker",
   "slug": "daniel-pollock",
   "date": "2017-10-06T22:26:24",

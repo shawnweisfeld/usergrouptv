@@ -1,5 +1,8 @@
 {
   "title": "Brian Sullivan",
+  "tags": [
+    "Brian Sullivan"
+  ],
   "type": "speaker",
   "slug": "brian-sullivan",
   "date": "2016-09-24T19:48:07",

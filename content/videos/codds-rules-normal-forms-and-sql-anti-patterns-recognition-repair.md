@@ -1,6 +1,9 @@
 {
   "title": "Codd's Rules, Normal Forms, and SQL Anti-Patterns - Recognition & Repair",
   "type": "recording",
+  "tags": [
+    "Database"
+  ],
   "date": "2016-05-14T12:34:16",
   "draft": false,
   "slug": "codds-rules-normal-forms-and-sql-anti-patterns-recognition-repair",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Database",
       "slug": "database",

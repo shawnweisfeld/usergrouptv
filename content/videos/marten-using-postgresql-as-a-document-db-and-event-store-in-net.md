@@ -1,6 +1,9 @@
 {
   "title": "Marten: Using Postgresql as a Document Db and Event Store in .Net",
   "type": "recording",
+  "tags": [
+    "Marten"
+  ],
   "date": "2018-07-09T19:08:42",
   "draft": false,
   "slug": "marten-using-postgresql-as-a-document-db-and-event-store-in-net",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Marten",
       "slug": "marten",

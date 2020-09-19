@@ -1,5 +1,8 @@
 {
   "title": "Braz Brandt",
+  "tags": [
+    "Braz Brandt"
+  ],
   "type": "speaker",
   "slug": "braz-brandt",
   "date": "2018-05-24T16:47:13",

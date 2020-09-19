@@ -1,6 +1,9 @@
 {
   "title": "Inside SQL Server Machine Learning Services: Database Intelligence at Scale",
   "type": "recording",
+  "tags": [
+    "Machine Learning"
+  ],
   "date": "2017-06-17T14:08:15",
   "draft": false,
   "slug": "inside-sql-server-machine-learning-services-database-intelligence-at-scale",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Machine Learning",
       "slug": "machine-learning",

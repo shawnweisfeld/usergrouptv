@@ -1,5 +1,8 @@
 {
   "title": "Xbox",
+  "tags": [
+    "Xbox"
+  ],
   "type": "tag",
   "slug": "xbox",
   "date": "2017-03-13T14:13:27",

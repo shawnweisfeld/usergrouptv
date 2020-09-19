@@ -1,5 +1,8 @@
 {
   "title": "InfoPath",
+  "tags": [
+    "InfoPath"
+  ],
   "type": "tag",
   "slug": "infopath",
   "date": "2016-09-24T19:53:26",

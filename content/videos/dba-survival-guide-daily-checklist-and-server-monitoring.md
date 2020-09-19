@@ -1,6 +1,9 @@
 {
   "title": "DBA Survival Guide: Daily Checklist and Server Monitoring",
   "type": "recording",
+  "tags": [
+    "DBA"
+  ],
   "date": "2016-02-16T13:33:02",
   "draft": false,
   "slug": "dba-survival-guide-daily-checklist-and-server-monitoring",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "DBA",
       "slug": "dba",

@@ -1,5 +1,8 @@
 {
   "title": "Cloud",
+  "tags": [
+    "Cloud"
+  ],
   "type": "tag",
   "slug": "cloud",
   "date": "2018-10-13T14:06:53",

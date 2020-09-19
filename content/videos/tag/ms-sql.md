@@ -1,5 +1,8 @@
 {
   "title": "MS SQL",
+  "tags": [
+    "MS SQL"
+  ],
   "type": "tag",
   "slug": "ms-sql",
   "date": "2020-02-18T12:08:41",

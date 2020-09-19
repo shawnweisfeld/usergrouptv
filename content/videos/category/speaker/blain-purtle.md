@@ -1,5 +1,8 @@
 {
   "title": "Blain Purtle",
+  "tags": [
+    "Blain Purtle"
+  ],
   "type": "speaker",
   "slug": "blain-purtle",
   "date": "2017-10-05T21:51:41",

@@ -1,6 +1,9 @@
 {
   "title": "The Future is Now with ASP.NET Core 3.0",
   "type": "recording",
+  "tags": [
+    "ASP.NET Core"
+  ],
   "date": "2019-06-24T16:40:24",
   "draft": false,
   "slug": "the-future-is-now-with-asp-net-core-3-0",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "ASP.NET Core",
       "slug": "asp-net-core",

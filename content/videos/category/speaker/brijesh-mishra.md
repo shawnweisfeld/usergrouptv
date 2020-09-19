@@ -1,5 +1,8 @@
 {
   "title": "Brijesh Mishra",
+  "tags": [
+    "Brijesh Mishra"
+  ],
   "type": "speaker",
   "slug": "brijesh-mishra",
   "date": "2012-02-14T15:23:50",

@@ -1,5 +1,8 @@
 {
   "title": "API",
+  "tags": [
+    "API"
+  ],
   "type": "tag",
   "slug": "api",
   "date": "2020-09-15T17:47:45",

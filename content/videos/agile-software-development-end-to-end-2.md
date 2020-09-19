@@ -1,6 +1,9 @@
 {
   "title": "Agile Software Development – End to End",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2012-06-07T11:44:15",
   "draft": false,
   "slug": "agile-software-development-end-to-end-2",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

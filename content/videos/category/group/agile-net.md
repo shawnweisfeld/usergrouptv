@@ -1,6 +1,9 @@
 {
   "title": "Agile .NET",
   "type": "meetup",
+  "tags": [
+    "Agile .NET"
+  ],
   "slug": "agile-net",
   "date": "2012-04-20T19:03:59",
   "draft": false,

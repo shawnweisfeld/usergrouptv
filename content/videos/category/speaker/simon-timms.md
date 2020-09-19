@@ -1,5 +1,8 @@
 {
   "title": "Simon Timms",
+  "tags": [
+    "Simon Timms"
+  ],
   "type": "speaker",
   "slug": "simon-timms",
   "date": "2017-10-18T11:35:56",

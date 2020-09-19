@@ -1,6 +1,9 @@
 {
   "title": "Houston Techfest",
   "type": "meetup",
+  "tags": [
+    "Houston Techfest"
+  ],
   "slug": "houston-techfest",
   "date": "2018-09-30T14:45:11",
   "draft": false,

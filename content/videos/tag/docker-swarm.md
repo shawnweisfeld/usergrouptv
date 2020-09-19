@@ -1,5 +1,8 @@
 {
   "title": "Docker Swarm",
+  "tags": [
+    "Docker Swarm"
+  ],
   "type": "tag",
   "slug": "docker-swarm",
   "date": "2016-04-21T10:57:35",

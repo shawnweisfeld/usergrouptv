@@ -1,6 +1,9 @@
 {
   "title": "Big|Small|Tiny Data + The Hybrid Cloud",
   "type": "recording",
+  "tags": [
+    "Hybrid Cloud"
+  ],
   "date": "2017-06-17T14:20:35",
   "draft": false,
   "slug": "bigsmalltiny-data-the-hybrid-cloud",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Hybrid Cloud",
       "slug": "hybrid-cloud",

@@ -1,6 +1,9 @@
 {
   "title": "The Backup Tune-up",
   "type": "recording",
+  "tags": [
+    "SQL Backup"
+  ],
   "date": "2011-08-27T03:03:52",
   "draft": false,
   "slug": "the-backup-tune-up",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Backup",
       "slug": "sql-backup",

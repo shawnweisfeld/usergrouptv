@@ -1,6 +1,9 @@
 {
   "title": "Visual Studio 2012 - What's In It for Me?",
   "type": "recording",
+  "tags": [
+    "VS2012"
+  ],
   "date": "2012-10-12T15:51:11",
   "draft": false,
   "slug": "visual-studio-2012-whats-in-it-for-me",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "VS2012",
       "slug": "vs2012",

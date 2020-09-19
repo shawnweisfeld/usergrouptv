@@ -1,6 +1,9 @@
 {
   "title": "Automated Deployment for .NET with Octopus Deploy",
   "type": "recording",
+  "tags": [
+    "Octopus Deploy"
+  ],
   "date": "2014-09-26T19:06:18",
   "draft": false,
   "slug": "automated-deployment-for-net-with-octopus-deploy",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Octopus Deploy",
       "slug": "octopus-deploy",

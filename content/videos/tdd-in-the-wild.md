@@ -1,6 +1,9 @@
 {
   "title": "TDD IN THE WILD",
   "type": "recording",
+  "tags": [
+    "TDD"
+  ],
   "date": "2014-08-22T17:32:38",
   "draft": false,
   "slug": "tdd-in-the-wild",
@@ -16,7 +19,7 @@
       "count": 11
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "TDD",
       "slug": "tdd",

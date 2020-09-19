@@ -1,5 +1,8 @@
 {
   "title": "Power View",
+  "tags": [
+    "Power View"
+  ],
   "type": "tag",
   "slug": "power-view",
   "date": "2014-05-03T19:47:11",

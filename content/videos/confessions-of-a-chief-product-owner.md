@@ -1,6 +1,9 @@
 {
   "title": "Confessions of a Chief Product Owner",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2018-05-24T16:48:16",
   "draft": false,
   "slug": "confessions-of-a-chief-product-owner",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

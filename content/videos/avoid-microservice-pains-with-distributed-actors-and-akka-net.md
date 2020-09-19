@@ -1,6 +1,9 @@
 {
   "title": "Avoid Microservice Pains with Distributed Actors and Akka.NET",
   "type": "recording",
+  "tags": [
+    "Akka.NET"
+  ],
   "date": "2019-04-10T20:09:06",
   "draft": false,
   "slug": "avoid-microservice-pains-with-distributed-actors-and-akka-net",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Akka.NET",
       "slug": "akka-net",

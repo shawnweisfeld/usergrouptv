@@ -1,6 +1,9 @@
 {
   "title": "Solid Software Development Principles",
   "type": "recording",
+  "tags": [
+    "SOLID"
+  ],
   "date": "2011-08-16T02:40:07",
   "draft": false,
   "slug": "solid-software-development-principles",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SOLID",
       "slug": "solid",

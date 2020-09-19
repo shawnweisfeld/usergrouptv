@@ -1,6 +1,9 @@
 {
   "title": "Just JavaScript",
   "type": "recording",
+  "tags": [
+    "JavaScript"
+  ],
   "date": "2012-05-24T11:20:32",
   "draft": false,
   "slug": "just-javascript",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "JavaScript",
       "slug": "javascript",

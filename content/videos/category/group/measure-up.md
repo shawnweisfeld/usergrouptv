@@ -1,6 +1,9 @@
 {
   "title": "MeasureUp",
   "type": "meetup",
+  "tags": [
+    "MeasureUp"
+  ],
   "slug": "measure-up",
   "date": "2015-09-26T12:25:26",
   "draft": false,

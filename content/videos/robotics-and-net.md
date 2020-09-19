@@ -1,6 +1,9 @@
 {
   "title": "Robotics and .Net",
   "type": "recording",
+  "tags": [
+    "Robotics"
+  ],
   "date": "2013-09-28T12:52:20",
   "draft": false,
   "slug": "robotics-and-net",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Robotics",
       "slug": "robotics",

@@ -1,5 +1,8 @@
 {
   "title": "Leland Newsom",
+  "tags": [
+    "Leland Newsom"
+  ],
   "type": "speaker",
   "slug": "leland-newsom",
   "date": "2018-05-24T16:40:48",

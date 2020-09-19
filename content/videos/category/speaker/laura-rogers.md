@@ -1,5 +1,8 @@
 {
   "title": "Laura Rogers",
+  "tags": [
+    "Laura Rogers"
+  ],
   "type": "speaker",
   "slug": "laura-rogers",
   "date": "2018-09-12T21:21:11",

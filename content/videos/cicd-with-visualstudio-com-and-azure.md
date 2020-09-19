@@ -1,6 +1,9 @@
 {
   "title": "CI/CD with VisualStudio.com and Azure",
   "type": "recording",
+  "tags": [
+    "Continuous Deployment"
+  ],
   "date": "2017-07-18T13:56:51",
   "draft": false,
   "slug": "cicd-with-visualstudio-com-and-azure",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Continuous Deployment",
       "slug": "continuous-deployment",

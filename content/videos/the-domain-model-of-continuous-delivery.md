@@ -1,6 +1,9 @@
 {
   "title": "The Domain Model of Continuous Delivery",
   "type": "recording",
+  "tags": [
+    "DevOps"
+  ],
   "date": "2018-04-21T13:19:39",
   "draft": false,
   "slug": "the-domain-model-of-continuous-delivery",
@@ -16,7 +19,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "DevOps",
       "slug": "devops",

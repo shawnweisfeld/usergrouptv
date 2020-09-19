@@ -1,5 +1,8 @@
 {
   "title": "Messaging",
+  "tags": [
+    "Messaging"
+  ],
   "type": "tag",
   "slug": "messaging",
   "date": "2013-09-28T12:49:32",

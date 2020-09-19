@@ -1,6 +1,9 @@
 {
   "title": "The Magic of Code Generation ",
   "type": "recording",
+  "tags": [
+    "Code Generation"
+  ],
   "date": "2011-11-22T14:33:47",
   "draft": false,
   "slug": "the-magic-of-code-generation",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Code Generation",
       "slug": "code-generation",

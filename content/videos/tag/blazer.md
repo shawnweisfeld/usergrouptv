@@ -1,5 +1,8 @@
 {
   "title": "Blazer",
+  "tags": [
+    "Blazer"
+  ],
   "type": "tag",
   "slug": "blazer",
   "date": "2020-05-26T14:03:48",

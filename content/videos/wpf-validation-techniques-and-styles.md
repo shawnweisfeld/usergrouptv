@@ -1,6 +1,9 @@
 {
   "title": "WPF Validation: Techniques And Styles",
   "type": "recording",
+  "tags": [
+    "wpf"
+  ],
   "date": "2011-08-12T20:03:04",
   "draft": false,
   "slug": "wpf-validation-techniques-and-styles",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "wpf",
       "slug": "wpf",

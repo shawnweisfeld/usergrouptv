@@ -1,5 +1,8 @@
 {
   "title": "Design Patterns",
+  "tags": [
+    "Design Patterns"
+  ],
   "type": "tag",
   "slug": "design-patterns",
   "date": "2011-10-15T22:35:33",

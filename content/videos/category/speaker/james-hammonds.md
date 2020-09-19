@@ -1,5 +1,8 @@
 {
   "title": "James Hammonds",
+  "tags": [
+    "James Hammonds"
+  ],
   "type": "speaker",
   "slug": "james-hammonds",
   "date": "2018-11-14T16:53:41",

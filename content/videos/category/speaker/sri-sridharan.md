@@ -1,5 +1,8 @@
 {
   "title": "Sri Sridharan",
+  "tags": [
+    "Sri Sridharan"
+  ],
   "type": "speaker",
   "slug": "sri-sridharan",
   "date": "2011-08-27T22:41:24",

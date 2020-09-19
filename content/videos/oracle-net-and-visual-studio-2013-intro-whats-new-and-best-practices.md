@@ -1,6 +1,9 @@
 {
   "title": "Oracle, .NET and Visual Studio 2013: Intro, What’s New, and Best Practices",
   "type": "recording",
+  "tags": [
+    "Oracle"
+  ],
   "date": "2014-05-19T20:50:26",
   "draft": false,
   "slug": "oracle-net-and-visual-studio-2013-intro-whats-new-and-best-practices",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Oracle",
       "slug": "oracle",

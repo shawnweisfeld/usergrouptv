@@ -1,5 +1,8 @@
 {
   "title": "Brian Moran",
+  "tags": [
+    "Brian Moran"
+  ],
   "type": "speaker",
   "slug": "brian-moran",
   "date": "2014-09-16T16:24:48",

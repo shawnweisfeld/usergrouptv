@@ -1,5 +1,8 @@
 {
   "title": "Data",
+  "tags": [
+    "Data"
+  ],
   "type": "tag",
   "slug": "data",
   "date": "2020-02-08T16:17:42",

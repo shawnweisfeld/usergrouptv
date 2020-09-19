@@ -1,5 +1,8 @@
 {
   "title": "Parallelism",
+  "tags": [
+    "Parallelism"
+  ],
   "type": "tag",
   "slug": "parallelism",
   "date": "2013-09-28T15:34:36",

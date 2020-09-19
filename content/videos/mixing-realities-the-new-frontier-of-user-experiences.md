@@ -1,6 +1,9 @@
 {
   "title": "Mixing Realities - The New Frontier Of User Experiences",
   "type": "recording",
+  "tags": [
+    "Mixed Reality"
+  ],
   "date": "2018-10-13T14:09:42",
   "draft": false,
   "slug": "mixing-realities-the-new-frontier-of-user-experiences",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Mixed Reality",
       "slug": "mixed-reality",

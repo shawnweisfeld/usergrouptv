@@ -1,6 +1,9 @@
 {
   "title": "Building a Power BI Report: DAX, Slicers & More",
   "type": "recording",
+  "tags": [
+    "Power BI"
+  ],
   "date": "2019-07-25T13:12:48",
   "draft": false,
   "slug": "building-a-power-bi-report-dax-slicers-more",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Power BI",
       "slug": "power-bi",

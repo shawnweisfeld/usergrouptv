@@ -1,5 +1,8 @@
 {
   "title": "David McCarter",
+  "tags": [
+    "David McCarter"
+  ],
   "type": "speaker",
   "slug": "david-mccarter",
   "date": "2018-10-29T22:47:41",

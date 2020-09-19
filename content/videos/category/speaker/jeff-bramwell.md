@@ -1,5 +1,8 @@
 {
   "title": "Jeff Bramwell",
+  "tags": [
+    "Jeff Bramwell"
+  ],
   "type": "speaker",
   "slug": "jeff-bramwell",
   "date": "2012-10-12T15:51:11",

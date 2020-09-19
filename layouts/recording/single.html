@@ -50,7 +50,7 @@
         <h2>Tags: </h2>
         <div>
             <ul>
-                {{ range .Params.tags }}
+                {{ range .Params.ugtvtags }}
                 <li>
                     <a href="/videos/tag/{{.slug}}">{{ .name }}</a> {{ partial "countbadge.html" .count }}
                 </li>

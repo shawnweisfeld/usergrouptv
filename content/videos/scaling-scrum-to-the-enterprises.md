@@ -1,6 +1,9 @@
 {
   "title": "Scaling Scrum to the Enterprises",
   "type": "recording",
+  "tags": [
+    "Scrum"
+  ],
   "date": "2012-04-20T13:24:36",
   "draft": false,
   "slug": "scaling-scrum-to-the-enterprises",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Scrum",
       "slug": "scrum",

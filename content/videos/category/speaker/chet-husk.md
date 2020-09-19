@@ -1,5 +1,8 @@
 {
   "title": "Chet Husk",
+  "tags": [
+    "Chet Husk"
+  ],
   "type": "speaker",
   "slug": "chet-husk",
   "date": "2019-11-11T17:23:37",

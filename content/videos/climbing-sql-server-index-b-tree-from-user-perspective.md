@@ -1,6 +1,9 @@
 {
   "title": "Climbing SQL Server Index B-Tree (from user perspective)",
   "type": "recording",
+  "tags": [
+    "SQL Performance"
+  ],
   "date": "2018-05-15T22:01:28",
   "draft": false,
   "slug": "climbing-sql-server-index-b-tree-from-user-perspective",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Performance",
       "slug": "sql-performance",

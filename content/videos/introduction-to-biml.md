@@ -1,6 +1,9 @@
 {
   "title": "Introduction to Biml",
   "type": "recording",
+  "tags": [
+    "BIML"
+  ],
   "date": "2016-05-14T12:16:11",
   "draft": false,
   "slug": "introduction-to-biml",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "BIML",
       "slug": "biml",

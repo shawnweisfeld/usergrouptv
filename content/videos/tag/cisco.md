@@ -1,5 +1,8 @@
 {
   "title": "Cisco",
+  "tags": [
+    "Cisco"
+  ],
   "type": "tag",
   "slug": "cisco",
   "date": "2015-01-31T23:13:05",

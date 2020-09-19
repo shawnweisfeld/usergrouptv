@@ -1,6 +1,9 @@
 {
   "title": "Not All Data is Relational: An introduction to Cosmos DB",
   "type": "recording",
+  "tags": [
+    "Cosmos DB"
+  ],
   "date": "2019-07-18T13:08:59",
   "draft": false,
   "slug": "not-all-data-is-relational-an-introduction-to-cosmos-db-2",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Cosmos DB",
       "slug": "cosmos-db",

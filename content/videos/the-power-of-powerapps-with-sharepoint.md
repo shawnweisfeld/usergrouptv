@@ -1,6 +1,9 @@
 {
   "title": "The Power of PowerApps with SharePoint",
   "type": "recording",
+  "tags": [
+    "PowerApps"
+  ],
   "date": "2018-09-12T21:21:11",
   "draft": false,
   "slug": "the-power-of-powerapps-with-sharepoint",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "PowerApps",
       "slug": "powerapps",

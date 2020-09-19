@@ -1,6 +1,10 @@
 {
   "title": "Accessing a TFS Git Repo Programmatically ",
   "type": "recording",
+  "tags": [
+    "git",
+    "TFS"
+  ],
   "date": "2014-04-11T23:40:08",
   "draft": false,
   "slug": "accessing-a-tfs-git-repo-programmatically",
@@ -16,7 +20,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "git",
       "slug": "git",

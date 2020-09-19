@@ -1,5 +1,8 @@
 {
   "title": "Kanban",
+  "tags": [
+    "Kanban"
+  ],
   "type": "tag",
   "slug": "kanban",
   "date": "2014-08-24T18:03:23",

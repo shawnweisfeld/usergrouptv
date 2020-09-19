@@ -1,6 +1,9 @@
 {
   "title": "DRESSING PROFESSIONALLY IN AUSTIN, TEXAS",
   "type": "recording",
+  "tags": [
+    "Dress for Success"
+  ],
   "date": "2017-08-05T17:18:19",
   "draft": false,
   "slug": "dressing-professionally-in-austin-texas",
@@ -22,7 +25,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Dress for Success",
       "slug": "dress-for-success",

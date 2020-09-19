@@ -1,6 +1,9 @@
 {
   "title": "Orchestrate Containers with Azure Kubernetes Service",
   "type": "recording",
+  "tags": [
+    "K8S"
+  ],
   "date": "2019-02-19T15:31:47",
   "draft": false,
   "slug": "orchestrate-containers-with-azure-kubernetes-service",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "K8S",
       "slug": "k8s",

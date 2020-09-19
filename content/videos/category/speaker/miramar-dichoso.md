@@ -1,5 +1,8 @@
 {
   "title": "Miramar Dichoso",
+  "tags": [
+    "Miramar Dichoso"
+  ],
   "type": "speaker",
   "slug": "miramar-dichoso",
   "date": "2017-08-05T17:18:19",

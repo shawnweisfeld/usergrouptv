@@ -1,6 +1,9 @@
 {
   "title": "How can so many have been so wrong about so much for so long?",
   "type": "recording",
+  "tags": [
+    "Practices"
+  ],
   "date": "2013-01-08T20:31:01",
   "draft": false,
   "slug": "how-can-so-many-have-been-so-wrong-about-so-much-for-so-long",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Practices",
       "slug": "practices",

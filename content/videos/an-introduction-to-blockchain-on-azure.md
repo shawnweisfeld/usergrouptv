@@ -1,6 +1,9 @@
 {
   "title": "An Introduction to Blockchain on Azure",
   "type": "recording",
+  "tags": [
+    "Blockchain"
+  ],
   "date": "2018-04-21T13:16:02",
   "draft": false,
   "slug": "an-introduction-to-blockchain-on-azure",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Blockchain",
       "slug": "blockchain",

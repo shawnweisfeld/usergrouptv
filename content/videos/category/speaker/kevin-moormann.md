@@ -1,5 +1,8 @@
 {
   "title": "Kevin Moormann",
+  "tags": [
+    "Kevin Moormann"
+  ],
   "type": "speaker",
   "slug": "kevin-moormann",
   "date": "2015-09-12T16:27:45",

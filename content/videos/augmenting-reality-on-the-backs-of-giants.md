@@ -1,6 +1,9 @@
 {
   "title": "Augmenting Reality on the Backs of Giants",
   "type": "recording",
+  "tags": [
+    "Augmenting Reality"
+  ],
   "date": "2012-10-12T15:39:43",
   "draft": false,
   "slug": "augmenting-reality-on-the-backs-of-giants",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Augmenting Reality",
       "slug": "augmenting-reality",

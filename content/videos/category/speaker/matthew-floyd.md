@@ -1,5 +1,8 @@
 {
   "title": "Matthew Floyd",
+  "tags": [
+    "Matthew Floyd"
+  ],
   "type": "speaker",
   "slug": "matthew-floyd",
   "date": "2020-07-08T13:40:12",

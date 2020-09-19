@@ -1,5 +1,8 @@
 {
   "title": "Christina Liles",
+  "tags": [
+    "Christina Liles"
+  ],
   "type": "speaker",
   "slug": "christina-liles",
   "date": "2017-10-14T11:54:08",

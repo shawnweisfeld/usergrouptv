@@ -1,5 +1,8 @@
 {
   "title": "Maximilian Ekesi",
+  "tags": [
+    "Maximilian Ekesi"
+  ],
   "type": "speaker",
   "slug": "maximilian-ekesi",
   "date": "2018-05-24T16:49:12",

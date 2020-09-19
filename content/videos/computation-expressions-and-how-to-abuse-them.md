@@ -1,6 +1,9 @@
 {
   "title": "Computation Expressions and how to (ab)use them",
   "type": "recording",
+  "tags": [
+    "F#"
+  ],
   "date": "2018-12-20T16:54:35",
   "draft": false,
   "slug": "computation-expressions-and-how-to-abuse-them",
@@ -16,7 +19,7 @@
       "count": 7
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "F#",
       "slug": "f",

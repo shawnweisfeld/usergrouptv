@@ -1,6 +1,9 @@
 {
   "title": "Keep Austin Agile 2018 Keynote Intro",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2018-05-24T16:44:36",
   "draft": false,
   "slug": "keep-austin-agile-2018-keynote-intro",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

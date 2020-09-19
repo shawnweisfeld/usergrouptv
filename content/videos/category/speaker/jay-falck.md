@@ -1,5 +1,8 @@
 {
   "title": "Jay Falck",
+  "tags": [
+    "Jay Falck"
+  ],
   "type": "speaker",
   "slug": "jay-falck",
   "date": "2019-12-07T19:21:50",

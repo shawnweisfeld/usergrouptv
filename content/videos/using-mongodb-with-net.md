@@ -1,6 +1,9 @@
 {
   "title": "Using MongoDB with .NET ",
   "type": "recording",
+  "tags": [
+    "Mongo DB"
+  ],
   "date": "2017-06-12T13:57:52",
   "draft": false,
   "slug": "using-mongodb-with-net",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Mongo DB",
       "slug": "mongo-db",

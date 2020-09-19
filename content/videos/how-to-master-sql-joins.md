@@ -1,6 +1,9 @@
 {
   "title": "How to Master SQL Joins",
   "type": "recording",
+  "tags": [
+    "TSQL"
+  ],
   "date": "2011-04-02T21:36:33",
   "draft": false,
   "slug": "how-to-master-sql-joins",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "TSQL",
       "slug": "tsql",

@@ -1,6 +1,9 @@
 {
   "title": "Learn a repeatable home page structure that turns browsers into buyers",
   "type": "recording",
+  "tags": [
+    "joomla"
+  ],
   "date": "2019-09-28T16:17:16",
   "draft": false,
   "slug": "learn-a-repeatable-home-page-structure-that-turns-browsers-into-buyers",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "joomla",
       "slug": "joomla",

@@ -1,5 +1,8 @@
 {
   "title": "Nancy",
+  "tags": [
+    "Nancy"
+  ],
   "type": "tag",
   "slug": "nancy",
   "date": "2014-09-13T23:57:10",

@@ -1,5 +1,8 @@
 {
   "title": "Kevin Griffin",
+  "tags": [
+    "Kevin Griffin"
+  ],
   "type": "speaker",
   "slug": "kevin-griffin",
   "date": "2020-08-25T13:52:05",

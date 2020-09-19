@@ -1,6 +1,9 @@
 {
   "title": "ASP.NET Roadmap: One ASP.NET – Web Forms, MVC, Web API, and more",
   "type": "recording",
+  "tags": [
+    "ASP.NET"
+  ],
   "date": "2012-09-08T17:55:41",
   "draft": false,
   "slug": "asp-net-roadmap-one-asp-net-web-forms-mvc-web-api-and-more",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "ASP.NET",
       "slug": "asp-net",

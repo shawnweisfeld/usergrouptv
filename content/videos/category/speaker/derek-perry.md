@@ -1,5 +1,8 @@
 {
   "title": "Derek Perry",
+  "tags": [
+    "Derek Perry"
+  ],
   "type": "speaker",
   "slug": "derek-perry",
   "date": "2017-07-20T14:10:33",

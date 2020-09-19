@@ -1,6 +1,9 @@
 {
   "title": "Drinking a river of IoT data with Akka.NET",
   "type": "recording",
+  "tags": [
+    "Akka.NET"
+  ],
   "date": "2020-08-17T15:14:10",
   "draft": false,
   "slug": "drinking-a-river-of-iot-data-with-akka-net",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Akka.NET",
       "slug": "akka-net",

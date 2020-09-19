@@ -1,5 +1,8 @@
 {
   "title": "Toi Wright",
+  "tags": [
+    "Toi Wright"
+  ],
   "type": "speaker",
   "slug": "toi-wright",
   "date": "2012-09-25T15:17:04",

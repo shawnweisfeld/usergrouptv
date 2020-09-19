@@ -1,5 +1,8 @@
 {
   "title": "Paul Hacker",
+  "tags": [
+    "Paul Hacker"
+  ],
   "type": "speaker",
   "slug": "paul-hacker",
   "date": "2016-08-05T14:43:07",

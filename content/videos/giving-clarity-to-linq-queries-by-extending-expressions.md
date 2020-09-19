@@ -1,6 +1,9 @@
 {
   "title": "Giving Clarity to LINQ Queries by Extending Expressions",
   "type": "recording",
+  "tags": [
+    "LINQ"
+  ],
   "date": "2015-09-12T16:25:34",
   "draft": false,
   "slug": "giving-clarity-to-linq-queries-by-extending-expressions",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "LINQ",
       "slug": "linq",

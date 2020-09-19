@@ -1,5 +1,8 @@
 {
   "title": "Mike Burek",
+  "tags": [
+    "Mike Burek"
+  ],
   "type": "speaker",
   "slug": "mike-burek",
   "date": "2019-10-15T15:09:32",

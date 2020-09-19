@@ -1,5 +1,8 @@
 {
   "title": "xamarin",
+  "tags": [
+    "xamarin"
+  ],
   "type": "tag",
   "slug": "xamarin",
   "date": "2017-07-21T14:17:40",

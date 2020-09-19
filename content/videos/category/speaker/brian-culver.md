@@ -1,5 +1,8 @@
 {
   "title": "Brian Culver",
+  "tags": [
+    "Brian Culver"
+  ],
   "type": "speaker",
   "slug": "brian-culver",
   "date": "2017-10-14T11:52:18",

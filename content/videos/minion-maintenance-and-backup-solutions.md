@@ -1,6 +1,9 @@
 {
   "title": "Minion Maintenance and Backup Solutions",
   "type": "recording",
+  "tags": [
+    "Minion Solutions"
+  ],
   "date": "2015-08-29T14:18:04",
   "draft": false,
   "slug": "minion-maintenance-and-backup-solutions",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Minion Solutions",
       "slug": "minion-solutions",

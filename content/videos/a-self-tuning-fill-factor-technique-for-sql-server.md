@@ -1,6 +1,9 @@
 {
   "title": "A Self-Tuning Fill Factor Technique for SQL Server",
   "type": "recording",
+  "tags": [
+    "MS SQL"
+  ],
   "date": "2019-08-20T13:38:30",
   "draft": false,
   "slug": "a-self-tuning-fill-factor-technique-for-sql-server",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MS SQL",
       "slug": "ms-sql",

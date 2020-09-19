@@ -1,6 +1,9 @@
 {
   "title": "When Strategy Needs Agile: Understanding Agile Operating Models",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2018-05-24T16:55:58",
   "draft": false,
   "slug": "when-strategy-needs-agile-understanding-agile-operating-models",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

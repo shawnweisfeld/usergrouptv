@@ -1,5 +1,8 @@
 {
   "title": "Matt Hester",
+  "tags": [
+    "Matt Hester"
+  ],
   "type": "speaker",
   "slug": "matt-hester",
   "date": "2014-10-10T11:35:21",

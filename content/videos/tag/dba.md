@@ -1,5 +1,8 @@
 {
   "title": "DBA",
+  "tags": [
+    "DBA"
+  ],
   "type": "tag",
   "slug": "dba",
   "date": "2016-02-16T13:33:02",

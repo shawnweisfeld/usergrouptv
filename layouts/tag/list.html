@@ -19,7 +19,7 @@
 
         <h2>Tags: </h2>
         <div class="row row-cols-1 row-cols-md-3">
-            {{ range .Params.tags }}
+            {{ range .Params.ugtvtags }}
             <div class="col mb-4" >
               <div class="card" data-title="{{ .title }}">
                 <a href="/videos/tag/{{.slug}}"><img src="{{ .thumbnail }}" class="card-img-top" alt={{ .title }}></a>

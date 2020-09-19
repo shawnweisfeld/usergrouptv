@@ -1,5 +1,8 @@
 {
   "title": "sql injection",
+  "tags": [
+    "sql injection"
+  ],
   "type": "tag",
   "slug": "sql-injection",
   "date": "2015-01-31T23:17:05",

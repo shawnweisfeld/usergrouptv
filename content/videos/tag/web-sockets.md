@@ -1,5 +1,8 @@
 {
   "title": "web sockets",
+  "tags": [
+    "web sockets"
+  ],
   "type": "tag",
   "slug": "web-sockets",
   "date": "2012-08-14T19:35:46",

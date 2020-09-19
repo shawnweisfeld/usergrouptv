@@ -1,5 +1,8 @@
 {
   "title": "Louis Frederick",
+  "tags": [
+    "Louis Frederick"
+  ],
   "type": "speaker",
   "slug": "louis-frederick",
   "date": "2017-10-06T22:07:05",

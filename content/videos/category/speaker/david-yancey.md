@@ -1,5 +1,8 @@
 {
   "title": "David Yancey",
+  "tags": [
+    "David Yancey"
+  ],
   "type": "speaker",
   "slug": "david-yancey",
   "date": "2012-06-14T14:31:44",

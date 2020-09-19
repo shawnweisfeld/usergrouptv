@@ -1,5 +1,8 @@
 {
   "title": "UWP",
+  "tags": [
+    "UWP"
+  ],
   "type": "tag",
   "slug": "uwp",
   "date": "2019-06-24T16:43:47",

@@ -1,5 +1,8 @@
 {
   "title": "SignalR",
+  "tags": [
+    "SignalR"
+  ],
   "type": "tag",
   "slug": "signalr",
   "date": "2014-08-15T20:04:41",

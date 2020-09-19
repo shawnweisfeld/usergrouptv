@@ -1,5 +1,8 @@
 {
   "title": "Michael Washam",
+  "tags": [
+    "Michael Washam"
+  ],
   "type": "speaker",
   "slug": "michael-washam",
   "date": "2016-04-16T11:00:27",

@@ -1,6 +1,11 @@
 {
   "title": "What You Can Do Today with Html 5 and Css 3 on Mobile Devices",
   "type": "recording",
+  "tags": [
+    "Mobile",
+    "HTML5",
+    "CSS3"
+  ],
   "date": "2012-01-04T01:02:42",
   "draft": false,
   "slug": "what-you-can-do-today-with-html-5-and-css-3-on-mobile-devices",
@@ -16,7 +21,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Mobile",
       "slug": "mobile",

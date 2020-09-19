@@ -1,6 +1,9 @@
 {
   "title": "User Experience Design Principles",
   "type": "recording",
+  "tags": [
+    "UX"
+  ],
   "date": "2014-08-15T20:06:41",
   "draft": false,
   "slug": "user-experience-design-principles",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "UX",
       "slug": "ux",

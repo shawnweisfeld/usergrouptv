@@ -1,5 +1,8 @@
 {
   "title": "Eddie Villalba",
+  "tags": [
+    "Eddie Villalba"
+  ],
   "type": "speaker",
   "slug": "eddie-villalba",
   "date": "2018-04-21T13:08:30",

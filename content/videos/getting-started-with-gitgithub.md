@@ -1,6 +1,9 @@
 {
   "title": "Getting Started with Git/GitHub",
   "type": "recording",
+  "tags": [
+    "git"
+  ],
   "date": "2018-08-11T15:49:54",
   "draft": false,
   "slug": "getting-started-with-gitgithub",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "git",
       "slug": "git",

@@ -1,5 +1,8 @@
 {
   "title": "Proxy Product Owner",
+  "tags": [
+    "Proxy Product Owner"
+  ],
   "type": "tag",
   "slug": "proxy-product-owner",
   "date": "2015-09-26T11:57:13",

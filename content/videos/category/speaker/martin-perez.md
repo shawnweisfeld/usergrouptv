@@ -1,5 +1,8 @@
 {
   "title": "Martin Perez",
+  "tags": [
+    "Martin Perez"
+  ],
   "type": "speaker",
   "slug": "martin-perez",
   "date": "2017-08-15T14:34:00",

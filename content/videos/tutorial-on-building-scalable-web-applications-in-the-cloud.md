@@ -1,6 +1,9 @@
 {
   "title": "Tutorial on Building Scalable Web Applications in the Cloud",
   "type": "recording",
+  "tags": [
+    "Cloud"
+  ],
   "date": "2016-08-05T14:31:33",
   "draft": false,
   "slug": "tutorial-on-building-scalable-web-applications-in-the-cloud",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Cloud",
       "slug": "cloud",

@@ -1,6 +1,9 @@
 {
   "title": "SEO For Web Developers",
   "type": "recording",
+  "tags": [
+    "SEO"
+  ],
   "date": "2014-09-26T18:54:24",
   "draft": false,
   "slug": "seo-for-web-developers",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SEO",
       "slug": "seo",

@@ -1,6 +1,9 @@
 {
   "title": "From problem to Power BI: A journey in data visualization",
   "type": "recording",
+  "tags": [
+    "Power BI"
+  ],
   "date": "2017-03-04T22:07:29",
   "draft": false,
   "slug": "from-problem-to-power-bi-a-journey-in-data-visualization",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Power BI",
       "slug": "power-bi",

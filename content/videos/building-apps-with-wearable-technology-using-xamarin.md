@@ -1,6 +1,9 @@
 {
   "title": "Building apps with Wearable Technology using Xamarin",
   "type": "recording",
+  "tags": [
+    "xamarin"
+  ],
   "date": "2015-06-06T16:45:54",
   "draft": false,
   "slug": "building-apps-with-wearable-technology-using-xamarin",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "xamarin",
       "slug": "xamarin",

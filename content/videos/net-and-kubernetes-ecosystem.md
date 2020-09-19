@@ -1,6 +1,9 @@
 {
   "title": ".NET and Kubernetes ecosystem",
   "type": "recording",
+  "tags": [
+    "K8S"
+  ],
   "date": "2018-05-14T22:02:59",
   "draft": false,
   "slug": "net-and-kubernetes-ecosystem",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "K8S",
       "slug": "k8s",

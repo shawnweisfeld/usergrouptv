@@ -1,5 +1,8 @@
 {
   "title": "Sergey Rathon",
+  "tags": [
+    "Sergey Rathon"
+  ],
   "type": "speaker",
   "slug": "sergey-rathon",
   "date": "2012-03-14T13:01:38",

@@ -1,6 +1,9 @@
 {
   "title": "Identity in the Cloud",
   "type": "recording",
+  "tags": [
+    "Azure AD"
+  ],
   "date": "2019-05-08T17:39:14",
   "draft": false,
   "slug": "identity-in-the-cloud",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure AD",
       "slug": "azure-ad",

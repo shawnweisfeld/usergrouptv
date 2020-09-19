@@ -1,6 +1,9 @@
 {
   "title": "The Mind of the Developer",
   "type": "recording",
+  "tags": [
+    "Developer"
+  ],
   "date": "2015-09-26T12:23:43",
   "draft": false,
   "slug": "the-mind-of-the-developer",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Developer",
       "slug": "developer",

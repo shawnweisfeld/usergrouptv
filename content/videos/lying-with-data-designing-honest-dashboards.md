@@ -1,6 +1,9 @@
 {
   "title": "Lying with Data: Designing Honest Dashboards",
   "type": "recording",
+  "tags": [
+    "Dashboards"
+  ],
   "date": "2017-10-06T22:11:34",
   "draft": false,
   "slug": "lying-with-data-designing-honest-dashboards",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Dashboards",
       "slug": "dashboards",

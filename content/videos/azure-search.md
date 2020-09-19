@@ -1,6 +1,9 @@
 {
   "title": "Azure Search",
   "type": "recording",
+  "tags": [
+    "Search"
+  ],
   "date": "2014-10-15T21:28:04",
   "draft": false,
   "slug": "azure-search",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Search",
       "slug": "search",

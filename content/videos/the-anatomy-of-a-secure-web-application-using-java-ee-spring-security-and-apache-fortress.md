@@ -1,6 +1,9 @@
 {
   "title": "The Anatomy of a Secure Web Application Using Java EE, Spring Security and Apache Fortress",
   "type": "recording",
+  "tags": [
+    "Secure Web Application"
+  ],
   "date": "2017-10-05T22:00:33",
   "draft": false,
   "slug": "the-anatomy-of-a-secure-web-application-using-java-ee-spring-security-and-apache-fortress",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Secure Web Application",
       "slug": "secure-web-application",

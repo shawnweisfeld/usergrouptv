@@ -1,6 +1,9 @@
 {
   "title": "Back from the Brink: Clean, Secure, and Resubmit after a hack",
   "type": "recording",
+  "tags": [
+    "joomla"
+  ],
   "date": "2019-09-28T17:00:09",
   "draft": false,
   "slug": "back-from-the-brink-clean-secure-and-resubmit-after-a-hack",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "joomla",
       "slug": "joomla",

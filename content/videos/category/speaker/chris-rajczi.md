@@ -1,5 +1,8 @@
 {
   "title": "Chris Rajczi",
+  "tags": [
+    "Chris Rajczi"
+  ],
   "type": "speaker",
   "slug": "chris-rajczi",
   "date": "2011-08-02T19:48:24",

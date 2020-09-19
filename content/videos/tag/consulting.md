@@ -1,5 +1,8 @@
 {
   "title": "Consulting",
+  "tags": [
+    "Consulting"
+  ],
   "type": "tag",
   "slug": "consulting",
   "date": "2014-09-16T16:24:48",

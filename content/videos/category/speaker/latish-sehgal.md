@@ -1,5 +1,8 @@
 {
   "title": "Latish Sehgal",
+  "tags": [
+    "Latish Sehgal"
+  ],
   "type": "speaker",
   "slug": "latish-sehgal",
   "date": "2013-08-17T22:11:20",

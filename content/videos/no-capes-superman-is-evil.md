@@ -1,6 +1,9 @@
 {
   "title": "NO CAPES - SUPERMAN IS EVIL",
   "type": "recording",
+  "tags": [
+    "Developer"
+  ],
   "date": "2014-08-22T17:39:13",
   "draft": false,
   "slug": "no-capes-superman-is-evil",
@@ -16,7 +19,7 @@
       "count": 13
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Developer",
       "slug": "developer",

@@ -1,5 +1,8 @@
 {
   "title": "John Sterrett",
+  "tags": [
+    "John Sterrett"
+  ],
   "type": "speaker",
   "slug": "john-sterrett",
   "date": "2019-07-13T14:01:49",

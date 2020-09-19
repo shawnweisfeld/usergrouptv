@@ -1,5 +1,8 @@
 {
   "title": "Todd Anglin",
+  "tags": [
+    "Todd Anglin"
+  ],
   "type": "speaker",
   "slug": "todd-anglin",
   "date": "2012-09-08T02:40:02",

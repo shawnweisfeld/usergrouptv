@@ -1,6 +1,9 @@
 {
   "title": "Introduction to SQL 2016 Temporal Tables",
   "type": "recording",
+  "tags": [
+    "Temporal Tables"
+  ],
   "date": "2017-06-17T14:19:20",
   "draft": false,
   "slug": "introduction-to-sql-2016-temporal-tables",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Temporal Tables",
       "slug": "temporal-tables",

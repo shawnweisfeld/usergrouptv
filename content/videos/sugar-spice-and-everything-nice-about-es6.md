@@ -1,6 +1,9 @@
 {
   "title": "Sugar & Spice and everything nice about ES6 ",
   "type": "recording",
+  "tags": [
+    "JavaScript"
+  ],
   "date": "2015-10-16T02:02:53",
   "draft": false,
   "slug": "sugar-spice-and-everything-nice-about-es6",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "JavaScript",
       "slug": "javascript",

@@ -1,6 +1,9 @@
 {
   "title": "ENGAGING MILLENNIALS",
   "type": "recording",
+  "tags": [
+    "millennials"
+  ],
   "date": "2017-08-06T16:00:41",
   "draft": false,
   "slug": "engaging-millennials",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "millennials",
       "slug": "millennials",

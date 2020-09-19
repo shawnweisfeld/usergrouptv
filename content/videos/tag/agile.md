@@ -1,5 +1,8 @@
 {
   "title": "Agile",
+  "tags": [
+    "Agile"
+  ],
   "type": "tag",
   "slug": "agile",
   "date": "2019-10-04T16:51:06",

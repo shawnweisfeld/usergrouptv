@@ -1,5 +1,8 @@
 {
   "title": "Azure Service Fabric",
+  "tags": [
+    "Azure Service Fabric"
+  ],
   "type": "tag",
   "slug": "azure-service-fabric",
   "date": "2016-04-06T10:25:59",

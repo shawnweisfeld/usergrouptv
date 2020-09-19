@@ -1,6 +1,9 @@
 {
   "title": "Introduction to MVC3 - \"How I dropped ViewState and learned to love the web\"",
   "type": "recording",
+  "tags": [
+    "MVC"
+  ],
   "date": "2011-04-26T23:29:31",
   "draft": false,
   "slug": "introduction-to-mvc3-how-i-dropped-viewstate-and-learned-to-love-the-web",
@@ -16,7 +19,7 @@
       "count": 13
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MVC",
       "slug": "mvc",

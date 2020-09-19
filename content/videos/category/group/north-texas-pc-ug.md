@@ -1,6 +1,9 @@
 {
   "title": "North Texas PC UG",
   "type": "meetup",
+  "tags": [
+    "North Texas PC UG"
+  ],
   "slug": "north-texas-pc-ug",
   "date": "2012-04-28T13:43:54",
   "draft": false,

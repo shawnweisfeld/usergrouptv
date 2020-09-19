@@ -1,6 +1,9 @@
 {
   "title": "Making AR for the web a reality",
   "type": "recording",
+  "tags": [
+    "AR"
+  ],
   "date": "2018-05-05T14:57:36",
   "draft": false,
   "slug": "making-ar-for-the-web-a-reality",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "AR",
       "slug": "ar",

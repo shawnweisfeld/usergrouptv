@@ -1,6 +1,9 @@
 {
   "title": "I’m Pwned. You’re Pwned. We’re All Pwned.",
   "type": "recording",
+  "tags": [
+    "Security"
+  ],
   "date": "2018-10-13T14:13:25",
   "draft": false,
   "slug": "im-pwned-youre-pwned-were-all-pwned",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Security",
       "slug": "security",

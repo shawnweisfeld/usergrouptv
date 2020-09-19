@@ -1,6 +1,9 @@
 {
   "title": "Tulsa .NET User Group",
   "type": "meetup",
+  "tags": [
+    "Tulsa .NET User Group"
+  ],
   "slug": "tulsa-net-user-group",
   "date": "2020-09-08T13:49:27",
   "draft": false,

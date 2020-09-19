@@ -1,5 +1,8 @@
 {
   "title": "Leadership",
+  "tags": [
+    "Leadership"
+  ],
   "type": "tag",
   "slug": "leadership",
   "date": "2017-08-05T14:28:18",

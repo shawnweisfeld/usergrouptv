@@ -1,5 +1,8 @@
 {
   "title": "Hive",
+  "tags": [
+    "Hive"
+  ],
   "type": "tag",
   "slug": "hive",
   "date": "2012-08-24T00:03:38",

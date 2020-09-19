@@ -1,6 +1,9 @@
 {
   "title": "In Memory OLTP",
   "type": "recording",
+  "tags": [
+    "SQL Server"
+  ],
   "date": "2013-09-09T02:34:44",
   "draft": false,
   "slug": "in-memory-oltp",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Server",
       "slug": "sql-server",

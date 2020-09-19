@@ -1,5 +1,8 @@
 {
   "title": "Red Gate",
+  "tags": [
+    "Red Gate"
+  ],
   "type": "tag",
   "slug": "red-gate",
   "date": "2011-08-27T02:56:40",

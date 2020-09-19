@@ -1,6 +1,9 @@
 {
   "title": "CSS3 and You",
   "type": "recording",
+  "tags": [
+    "CSS"
+  ],
   "date": "2011-10-07T05:00:37",
   "draft": false,
   "slug": "css3-and-you",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "CSS",
       "slug": "css",

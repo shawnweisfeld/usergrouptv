@@ -1,5 +1,8 @@
 {
   "title": "Rackspace",
+  "tags": [
+    "Rackspace"
+  ],
   "type": "tag",
   "slug": "rackspace",
   "date": "2012-08-24T00:31:30",

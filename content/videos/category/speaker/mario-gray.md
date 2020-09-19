@@ -1,5 +1,8 @@
 {
   "title": "Mario Gray",
+  "tags": [
+    "Mario Gray"
+  ],
   "type": "speaker",
   "slug": "mario-gray",
   "date": "2018-04-05T21:44:12",

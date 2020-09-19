@@ -1,5 +1,8 @@
 {
   "title": "Daniel Lioznyansky",
+  "tags": [
+    "Daniel Lioznyansky"
+  ],
   "type": "speaker",
   "slug": "daniel-lioznyansky",
   "date": "2016-09-24T19:50:58",

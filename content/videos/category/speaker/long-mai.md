@@ -1,5 +1,8 @@
 {
   "title": "Long Mai",
+  "tags": [
+    "Long Mai"
+  ],
   "type": "speaker",
   "slug": "long-mai",
   "date": "2014-08-22T17:34:02",

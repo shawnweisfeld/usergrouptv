@@ -1,6 +1,9 @@
 {
   "title": "Windows Phone to Windows 8 - Part 2: Windows 8 Metro Design & Development",
   "type": "recording",
+  "tags": [
+    "win8"
+  ],
   "date": "2012-06-13T00:16:34",
   "draft": false,
   "slug": "windows-phone-to-windows-8-part-2-windows-8-metro-design-development",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "win8",
       "slug": "win8",

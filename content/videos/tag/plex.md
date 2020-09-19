@@ -1,5 +1,8 @@
 {
   "title": "Plex",
+  "tags": [
+    "Plex"
+  ],
   "type": "tag",
   "slug": "plex",
   "date": "2017-10-14T11:42:46",

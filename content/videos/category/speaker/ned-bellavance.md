@@ -1,5 +1,8 @@
 {
   "title": "Ned Bellavance",
+  "tags": [
+    "Ned Bellavance"
+  ],
   "type": "speaker",
   "slug": "ned-bellavance",
   "date": "2019-08-14T14:16:16",

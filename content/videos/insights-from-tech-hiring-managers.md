@@ -1,6 +1,9 @@
 {
   "title": "Insights from Tech Hiring Managers",
   "type": "recording",
+  "tags": [
+    "Career"
+  ],
   "date": "2019-10-15T15:09:32",
   "draft": false,
   "slug": "insights-from-tech-hiring-managers",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Career",
       "slug": "career",

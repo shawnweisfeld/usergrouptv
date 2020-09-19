@@ -1,6 +1,9 @@
 {
   "title": "To OWASP and Beyond - Common Application Vulnerabilities",
   "type": "recording",
+  "tags": [
+    "OWASP"
+  ],
   "date": "2014-09-26T18:59:29",
   "draft": false,
   "slug": "to-owasp-and-beyond-common-application-vulnerabilities",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "OWASP",
       "slug": "owasp",

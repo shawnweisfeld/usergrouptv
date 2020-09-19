@@ -1,5 +1,8 @@
 {
   "title": "millennials",
+  "tags": [
+    "millennials"
+  ],
   "type": "tag",
   "slug": "millennials",
   "date": "2017-08-06T16:00:41",

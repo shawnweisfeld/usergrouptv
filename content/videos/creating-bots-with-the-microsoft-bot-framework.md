@@ -1,6 +1,9 @@
 {
   "title": "Creating Bots with the Microsoft Bot Framework",
   "type": "recording",
+  "tags": [
+    "bots"
+  ],
   "date": "2017-10-06T16:24:08",
   "draft": false,
   "slug": "creating-bots-with-the-microsoft-bot-framework",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "bots",
       "slug": "bots",

@@ -1,6 +1,9 @@
 {
   "title": "This ain't your mama's CSS",
   "type": "recording",
+  "tags": [
+    "CSS"
+  ],
   "date": "2014-09-13T23:47:41",
   "draft": false,
   "slug": "this-aint-your-mamas-css",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "CSS",
       "slug": "css",

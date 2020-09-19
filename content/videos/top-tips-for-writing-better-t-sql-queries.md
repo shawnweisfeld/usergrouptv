@@ -1,6 +1,9 @@
 {
   "title": "Top Tips for Writing Better T-SQL Queries",
   "type": "recording",
+  "tags": [
+    "TSQL"
+  ],
   "date": "2012-08-25T21:54:32",
   "draft": false,
   "slug": "top-tips-for-writing-better-t-sql-queries",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "TSQL",
       "slug": "tsql",

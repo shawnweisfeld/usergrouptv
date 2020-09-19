@@ -1,6 +1,9 @@
 {
   "title": "Service Fabric: A platform for Building and Managing Highly Scalable Services",
   "type": "recording",
+  "tags": [
+    "Azure Service Fabric"
+  ],
   "date": "2015-05-14T13:19:33",
   "draft": false,
   "slug": "service-fabric-a-platform-for-building-and-managing-highly-scalable-services",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure Service Fabric",
       "slug": "azure-service-fabric",

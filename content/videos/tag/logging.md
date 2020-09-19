@@ -1,5 +1,8 @@
 {
   "title": "logging",
+  "tags": [
+    "logging"
+  ],
   "type": "tag",
   "slug": "logging",
   "date": "2017-07-21T14:03:32",

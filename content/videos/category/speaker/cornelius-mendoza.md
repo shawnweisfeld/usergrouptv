@@ -1,5 +1,8 @@
 {
   "title": "Cornelius Mendoza",
+  "tags": [
+    "Cornelius Mendoza"
+  ],
   "type": "speaker",
   "slug": "cornelius-mendoza",
   "date": "2018-02-15T16:48:11",

@@ -1,6 +1,9 @@
 {
   "title": "A Rocket Scientist Perspective on Indexes",
   "type": "recording",
+  "tags": [
+    "SQL Performance"
+  ],
   "date": "2018-08-25T19:37:01",
   "draft": false,
   "slug": "a-rocket-scientist-perspective-on-indexes",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Performance",
       "slug": "sql-performance",

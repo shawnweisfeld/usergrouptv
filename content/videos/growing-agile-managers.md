@@ -1,6 +1,9 @@
 {
   "title": "Growing Agile Managers",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2018-05-24T16:47:13",
   "draft": false,
   "slug": "growing-agile-managers",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

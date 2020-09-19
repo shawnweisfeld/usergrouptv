@@ -1,6 +1,9 @@
 {
   "title": "Adding a little DAPR to your .NET Microservices",
   "type": "recording",
+  "tags": [
+    "Dapr"
+  ],
   "date": "2020-09-08T13:49:27",
   "draft": false,
   "slug": "adding-a-little-dapr-to-your-net-microservices",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Dapr",
       "slug": "dapr",

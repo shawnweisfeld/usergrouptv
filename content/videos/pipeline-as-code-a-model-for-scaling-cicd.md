@@ -1,6 +1,10 @@
 {
   "title": "Pipeline as Code: A Model for Scaling CI/CD",
   "type": "recording",
+  "tags": [
+    "CD",
+    "CI"
+  ],
   "date": "2017-10-05T21:57:49",
   "draft": false,
   "slug": "pipeline-as-code-a-model-for-scaling-cicd",
@@ -16,7 +20,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "CD",
       "slug": "cd",

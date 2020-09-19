@@ -1,5 +1,8 @@
 {
   "title": "LiDAR",
+  "tags": [
+    "LiDAR"
+  ],
   "type": "tag",
   "slug": "lidar",
   "date": "2018-10-13T14:16:42",

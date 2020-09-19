@@ -1,5 +1,8 @@
 {
   "title": "Jon Lester",
+  "tags": [
+    "Jon Lester"
+  ],
   "type": "speaker",
   "slug": "jon-lester",
   "date": "2019-05-08T17:39:14",

@@ -1,6 +1,9 @@
 {
   "title": "Productive Front End Test Driven Development That ACTUALLY Works",
   "type": "recording",
+  "tags": [
+    "TDD"
+  ],
   "date": "2017-10-05T21:54:11",
   "draft": false,
   "slug": "productive-front-end-test-driven-development-that-actually-works",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "TDD",
       "slug": "tdd",

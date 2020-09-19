@@ -1,6 +1,9 @@
 {
   "title": "ASP.NET MVC 3 In Action",
   "type": "recording",
+  "tags": [
+    "MVC"
+  ],
   "date": "2011-08-13T02:27:39",
   "draft": false,
   "slug": "asp-net-mvc-3-in-action",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MVC",
       "slug": "mvc",

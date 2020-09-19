@@ -1,5 +1,8 @@
 {
   "title": "WCF",
+  "tags": [
+    "WCF"
+  ],
   "type": "tag",
   "slug": "wcf",
   "date": "2011-06-01T01:35:17",

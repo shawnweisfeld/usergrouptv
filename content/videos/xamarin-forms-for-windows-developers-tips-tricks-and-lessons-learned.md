@@ -1,6 +1,9 @@
 {
   "title": "Xamarin Forms for Windows Developers: Tips, Tricks and Lessons Learned",
   "type": "recording",
+  "tags": [
+    "Xamarin Forms"
+  ],
   "date": "2017-10-14T11:41:37",
   "draft": false,
   "slug": "xamarin-forms-for-windows-developers-tips-tricks-and-lessons-learned",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Xamarin Forms",
       "slug": "xamarin-forms",

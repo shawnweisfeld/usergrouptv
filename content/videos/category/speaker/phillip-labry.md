@@ -1,5 +1,8 @@
 {
   "title": "Phillip Labry",
+  "tags": [
+    "Phillip Labry"
+  ],
   "type": "speaker",
   "slug": "phillip-labry",
   "date": "2017-06-17T14:06:27",

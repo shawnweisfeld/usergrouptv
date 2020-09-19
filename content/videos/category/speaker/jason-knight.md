@@ -1,5 +1,8 @@
 {
   "title": "Jason Knight",
+  "tags": [
+    "Jason Knight"
+  ],
   "type": "speaker",
   "slug": "jason-knight",
   "date": "2014-05-16T09:59:51",

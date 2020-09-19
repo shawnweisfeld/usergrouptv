@@ -1,6 +1,9 @@
 {
   "title": "Extended Events: What are they and How do I use them",
   "type": "recording",
+  "tags": [
+    "SQL Performance"
+  ],
   "date": "2018-05-19T22:59:19",
   "draft": false,
   "slug": "extended-events-what-are-they-and-how-do-i-use-them",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Performance",
       "slug": "sql-performance",

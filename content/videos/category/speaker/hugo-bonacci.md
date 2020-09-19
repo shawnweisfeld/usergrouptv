@@ -1,5 +1,8 @@
 {
   "title": "Hugo Bonacci",
+  "tags": [
+    "Hugo Bonacci"
+  ],
   "type": "speaker",
   "slug": "hugo-bonacci",
   "date": "2013-05-28T21:10:07",

@@ -1,6 +1,9 @@
 {
   "title": "R For the SQL Server Developer",
   "type": "recording",
+  "tags": [
+    "R"
+  ],
   "date": "2017-03-04T22:04:31",
   "draft": false,
   "slug": "r-for-the-sql-server-developer",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "R",
       "slug": "r",

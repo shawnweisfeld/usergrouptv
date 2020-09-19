@@ -1,6 +1,9 @@
 {
   "title": "Real-timeWeb Programming with SignalR",
   "type": "recording",
+  "tags": [
+    "SignalR"
+  ],
   "date": "2013-03-01T20:23:13",
   "draft": false,
   "slug": "real-timeweb-programming-with-signalr",
@@ -16,7 +19,7 @@
       "count": 12
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SignalR",
       "slug": "signalr",

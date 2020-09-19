@@ -1,6 +1,9 @@
 {
   "title": "Microsoft and the Internet of Things",
   "type": "recording",
+  "tags": [
+    "IOT"
+  ],
   "date": "2016-09-24T20:01:31",
   "draft": false,
   "slug": "microsoft-and-the-internet-of-things",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "IOT",
       "slug": "iot",

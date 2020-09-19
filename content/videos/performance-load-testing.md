@@ -1,6 +1,9 @@
 {
   "title": "Performance & Load Testing",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2012-02-17T15:12:29",
   "draft": false,
   "slug": "performance-load-testing",
@@ -22,7 +25,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

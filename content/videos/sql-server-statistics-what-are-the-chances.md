@@ -1,6 +1,9 @@
 {
   "title": "SQL Server Statistics – What Are The Chances?",
   "type": "recording",
+  "tags": [
+    "SQL Performance"
+  ],
   "date": "2016-08-13T15:05:14",
   "draft": false,
   "slug": "sql-server-statistics-what-are-the-chances",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Performance",
       "slug": "sql-performance",

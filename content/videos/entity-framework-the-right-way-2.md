@@ -1,6 +1,10 @@
 {
   "title": "Entity Framework - The Right Way",
   "type": "recording",
+  "tags": [
+    "EF",
+    "EF Code First"
+  ],
   "date": "2012-07-17T14:09:08",
   "draft": false,
   "slug": "entity-framework-the-right-way-2",
@@ -16,7 +20,7 @@
       "count": 13
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "EF",
       "slug": "ef",

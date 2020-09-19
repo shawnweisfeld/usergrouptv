@@ -1,6 +1,9 @@
 {
   "title": "Best Practices of the Software Craftsman",
   "type": "recording",
+  "tags": [
+    "Practices"
+  ],
   "date": "2013-09-28T12:54:15",
   "draft": false,
   "slug": "best-practices-of-the-software-craftsman",
@@ -16,7 +19,7 @@
       "count": 11
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Practices",
       "slug": "practices",

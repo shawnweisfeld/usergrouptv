@@ -1,5 +1,8 @@
 {
   "title": "Michael Hotek",
+  "tags": [
+    "Michael Hotek"
+  ],
   "type": "speaker",
   "slug": "michael-hotek",
   "date": "2012-08-25T22:00:47",

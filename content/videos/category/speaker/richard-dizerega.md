@@ -1,5 +1,8 @@
 {
   "title": "Richard diZerega",
+  "tags": [
+    "Richard diZerega"
+  ],
   "type": "speaker",
   "slug": "richard-dizerega",
   "date": "2018-06-13T13:28:22",

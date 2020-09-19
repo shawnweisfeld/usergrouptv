@@ -1,5 +1,8 @@
 {
   "title": "Steve Smith",
+  "tags": [
+    "Steve Smith"
+  ],
   "type": "speaker",
   "slug": "steve-smith",
   "date": "2020-07-07T13:07:52",

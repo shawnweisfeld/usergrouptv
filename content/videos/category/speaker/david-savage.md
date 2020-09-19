@@ -1,5 +1,8 @@
 {
   "title": "David Savage",
+  "tags": [
+    "David Savage"
+  ],
   "type": "speaker",
   "slug": "david-savage",
   "date": "2014-09-13T23:54:33",

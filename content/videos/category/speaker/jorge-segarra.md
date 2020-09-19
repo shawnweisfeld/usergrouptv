@@ -1,5 +1,8 @@
 {
   "title": "Jorge Segarra",
+  "tags": [
+    "Jorge Segarra"
+  ],
   "type": "speaker",
   "slug": "jorge-segarra",
   "date": "2016-05-25T22:41:44",

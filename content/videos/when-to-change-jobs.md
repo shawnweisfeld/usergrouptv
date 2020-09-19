@@ -1,6 +1,9 @@
 {
   "title": "WHEN TO CHANGE JOBS",
   "type": "recording",
+  "tags": [
+    "Job"
+  ],
   "date": "2017-08-05T16:54:06",
   "draft": false,
   "slug": "when-to-change-jobs",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Job",
       "slug": "job",

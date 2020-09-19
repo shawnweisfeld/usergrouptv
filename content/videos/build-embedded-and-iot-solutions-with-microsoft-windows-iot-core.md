@@ -1,6 +1,9 @@
 {
   "title": "Build Embedded and IoT Solutions with Microsoft Windows IoT Core",
   "type": "recording",
+  "tags": [
+    "IOT"
+  ],
   "date": "2019-06-24T16:47:24",
   "draft": false,
   "slug": "build-embedded-and-iot-solutions-with-microsoft-windows-iot-core",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "IOT",
       "slug": "iot",

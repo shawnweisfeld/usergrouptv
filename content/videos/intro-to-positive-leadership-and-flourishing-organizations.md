@@ -1,6 +1,9 @@
 {
   "title": "Intro to Positive Leadership and Flourishing Organizations",
   "type": "recording",
+  "tags": [
+    "Leadership"
+  ],
   "date": "2017-08-05T14:28:18",
   "draft": false,
   "slug": "intro-to-positive-leadership-and-flourishing-organizations",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Leadership",
       "slug": "leadership",

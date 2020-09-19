@@ -1,5 +1,8 @@
 {
   "title": "dax",
+  "tags": [
+    "dax"
+  ],
   "type": "tag",
   "slug": "dax",
   "date": "2020-02-08T16:29:06",

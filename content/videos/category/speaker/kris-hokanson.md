@@ -1,5 +1,8 @@
 {
   "title": "Kris Hokanson",
+  "tags": [
+    "Kris Hokanson"
+  ],
   "type": "speaker",
   "slug": "kris-hokanson",
   "date": "2018-06-23T19:52:24",

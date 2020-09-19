@@ -1,6 +1,9 @@
 {
   "title": "Developer Springboard",
   "type": "meetup",
+  "tags": [
+    "Developer Springboard"
+  ],
   "slug": "developer-springboard",
   "date": "2017-01-26T15:25:59",
   "draft": false,

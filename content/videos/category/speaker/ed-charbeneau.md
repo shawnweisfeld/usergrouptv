@@ -1,5 +1,8 @@
 {
   "title": "Ed Charbeneau",
+  "tags": [
+    "Ed Charbeneau"
+  ],
   "type": "speaker",
   "slug": "ed-charbeneau",
   "date": "2015-09-12T16:25:34",

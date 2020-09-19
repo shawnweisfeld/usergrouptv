@@ -1,6 +1,9 @@
 {
   "title": "A Discussion on DevOps ",
   "type": "recording",
+  "tags": [
+    "DevOps"
+  ],
   "date": "2015-10-16T02:06:00",
   "draft": false,
   "slug": "a-discussion-on-devops",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "DevOps",
       "slug": "devops",

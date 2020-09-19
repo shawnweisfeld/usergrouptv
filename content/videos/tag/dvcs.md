@@ -1,5 +1,8 @@
 {
   "title": "dvcs",
+  "tags": [
+    "dvcs"
+  ],
   "type": "tag",
   "slug": "dvcs",
   "date": "2012-02-02T15:26:43",

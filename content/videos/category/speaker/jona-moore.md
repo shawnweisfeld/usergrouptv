@@ -1,5 +1,8 @@
 {
   "title": "Jona Moore",
+  "tags": [
+    "Jona Moore"
+  ],
   "type": "speaker",
   "slug": "jona-moore",
   "date": "2017-08-06T16:42:03",

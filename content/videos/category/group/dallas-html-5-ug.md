@@ -1,6 +1,9 @@
 {
   "title": "Dallas HTML 5 UG",
   "type": "meetup",
+  "tags": [
+    "Dallas HTML 5 UG"
+  ],
   "slug": "dallas-html-5-ug",
   "date": "2012-08-14T19:35:46",
   "draft": false,

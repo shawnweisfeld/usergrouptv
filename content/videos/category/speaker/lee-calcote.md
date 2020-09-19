@@ -1,5 +1,8 @@
 {
   "title": "Lee Calcote",
+  "tags": [
+    "Lee Calcote"
+  ],
   "type": "speaker",
   "slug": "lee-calcote",
   "date": "2016-04-21T10:57:35",

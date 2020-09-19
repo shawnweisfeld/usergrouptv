@@ -1,5 +1,8 @@
 {
   "title": "Harold Pulcher",
+  "tags": [
+    "Harold Pulcher"
+  ],
   "type": "speaker",
   "slug": "harold-pulcher",
   "date": "2019-06-24T16:47:24",

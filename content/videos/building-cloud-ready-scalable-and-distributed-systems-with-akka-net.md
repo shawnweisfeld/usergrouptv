@@ -1,6 +1,9 @@
 {
   "title": "Building Cloud Ready Scalable and Distributed Systems with Akka.NET",
   "type": "recording",
+  "tags": [
+    "Akka.NET"
+  ],
   "date": "2017-08-16T14:35:24",
   "draft": false,
   "slug": "building-cloud-ready-scalable-and-distributed-systems-with-akka-net",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Akka.NET",
       "slug": "akka-net",

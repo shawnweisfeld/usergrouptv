@@ -1,6 +1,9 @@
 {
   "title": "You're Not Here, Have No Fear - Agile for Distributed Teams",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2018-05-24T16:51:02",
   "draft": false,
   "slug": "youre-not-here-have-no-fear-agile-for-distributed-teams",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

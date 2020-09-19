@@ -1,5 +1,8 @@
 {
   "title": "SQL Azure",
+  "tags": [
+    "SQL Azure"
+  ],
   "type": "tag",
   "slug": "sql-azure",
   "date": "2019-07-13T13:44:10",

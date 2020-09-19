@@ -1,5 +1,8 @@
 {
   "title": "Stephen Fulcher",
+  "tags": [
+    "Stephen Fulcher"
+  ],
   "type": "speaker",
   "slug": "stephen-fulcher",
   "date": "2012-09-08T19:06:37",

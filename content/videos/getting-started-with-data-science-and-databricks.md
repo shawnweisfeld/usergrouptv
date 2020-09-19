@@ -1,6 +1,9 @@
 {
   "title": "Getting Started with Data Science and Databricks",
   "type": "recording",
+  "tags": [
+    "Azure Databricks"
+  ],
   "date": "2020-02-08T16:30:20",
   "draft": false,
   "slug": "getting-started-with-data-science-and-databricks",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure Databricks",
       "slug": "azure-databricks",

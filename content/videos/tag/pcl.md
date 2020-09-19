@@ -1,5 +1,8 @@
 {
   "title": "PCL",
+  "tags": [
+    "PCL"
+  ],
   "type": "tag",
   "slug": "pcl",
   "date": "2014-09-13T19:28:41",

@@ -1,6 +1,9 @@
 {
   "title": "Developing for Windows 10",
   "type": "recording",
+  "tags": [
+    "Win10"
+  ],
   "date": "2015-09-12T16:22:47",
   "draft": false,
   "slug": "developing-for-windows-10",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Win10",
       "slug": "win10",

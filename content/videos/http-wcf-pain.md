@@ -1,6 +1,9 @@
 {
   "title": "HTTP + WCF != Pain",
   "type": "recording",
+  "tags": [
+    "WCF"
+  ],
   "date": "2011-06-01T01:35:17",
   "draft": false,
   "slug": "http-wcf-pain",
@@ -16,7 +19,7 @@
       "count": 13
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "WCF",
       "slug": "wcf",

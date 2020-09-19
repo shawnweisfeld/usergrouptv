@@ -1,6 +1,9 @@
 {
   "title": "Chicago SharePoint UG",
   "type": "meetup",
+  "tags": [
+    "Chicago SharePoint UG"
+  ],
   "slug": "chicago-sharepoint-ug",
   "date": "2011-11-03T23:03:17",
   "draft": false,

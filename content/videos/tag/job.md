@@ -1,5 +1,8 @@
 {
   "title": "Job",
+  "tags": [
+    "Job"
+  ],
   "type": "tag",
   "slug": "job",
   "date": "2017-10-06T22:10:26",

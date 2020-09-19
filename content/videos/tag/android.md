@@ -1,5 +1,8 @@
 {
   "title": "Android",
+  "tags": [
+    "Android"
+  ],
   "type": "tag",
   "slug": "android",
   "date": "2012-10-12T15:30:15",

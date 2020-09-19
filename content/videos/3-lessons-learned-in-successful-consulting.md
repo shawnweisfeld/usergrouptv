@@ -1,6 +1,9 @@
 {
   "title": "3 Lessons Learned in Successful Consulting",
   "type": "recording",
+  "tags": [
+    "Career"
+  ],
   "date": "2018-05-19T23:07:04",
   "draft": false,
   "slug": "3-lessons-learned-in-successful-consulting",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Career",
       "slug": "career",

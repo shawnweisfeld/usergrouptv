@@ -1,6 +1,9 @@
 {
   "title": "Introduction to Azure Security Center",
   "type": "recording",
+  "tags": [
+    "Azure Security Center"
+  ],
   "date": "2017-04-22T13:11:53",
   "draft": false,
   "slug": "introduction-to-azure-security-center",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure Security Center",
       "slug": "azure-security-center",

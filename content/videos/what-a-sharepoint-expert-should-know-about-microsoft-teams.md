@@ -1,6 +1,9 @@
 {
   "title": "What a SharePoint expert should know about Microsoft Teams ",
   "type": "recording",
+  "tags": [
+    "Teams"
+  ],
   "date": "2017-06-14T12:34:57",
   "draft": false,
   "slug": "what-a-sharepoint-expert-should-know-about-microsoft-teams",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Teams",
       "slug": "teams",

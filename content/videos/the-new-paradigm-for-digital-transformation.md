@@ -1,6 +1,9 @@
 {
   "title": "The New Paradigm for Digital Transformation",
   "type": "recording",
+  "tags": [
+    "Developer"
+  ],
   "date": "2018-09-29T15:25:11",
   "draft": false,
   "slug": "the-new-paradigm-for-digital-transformation",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Developer",
       "slug": "developer",

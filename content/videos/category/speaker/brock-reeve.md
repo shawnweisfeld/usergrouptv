@@ -1,5 +1,8 @@
 {
   "title": "Brock Reeve",
+  "tags": [
+    "Brock Reeve"
+  ],
   "type": "speaker",
   "slug": "brock-reeve",
   "date": "2016-01-11T12:09:18",

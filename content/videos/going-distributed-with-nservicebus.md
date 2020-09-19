@@ -1,6 +1,9 @@
 {
   "title": "Going Distributed with NServiceBus ",
   "type": "recording",
+  "tags": [
+    "NServiceBus"
+  ],
   "date": "2015-09-26T12:03:11",
   "draft": false,
   "slug": "going-distributed-with-nservicebus",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "NServiceBus",
       "slug": "nservicebus",

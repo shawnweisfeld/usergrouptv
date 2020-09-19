@@ -1,6 +1,9 @@
 {
   "title": "Azure DevOps",
   "type": "recording",
+  "tags": [
+    "Azure DevOps"
+  ],
   "date": "2019-04-27T13:42:49",
   "draft": false,
   "slug": "azure-devops",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure DevOps",
       "slug": "azure-devops",

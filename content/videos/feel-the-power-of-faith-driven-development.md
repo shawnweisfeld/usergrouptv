@@ -1,6 +1,9 @@
 {
   "title": "Feel the POWER of FAITH Driven Development",
   "type": "recording",
+  "tags": [
+    "FDD"
+  ],
   "date": "2011-05-27T01:16:47",
   "draft": false,
   "slug": "feel-the-power-of-faith-driven-development",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "FDD",
       "slug": "fdd",

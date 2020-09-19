@@ -1,6 +1,10 @@
 {
   "title": "MassTransit",
   "type": "recording",
+  "tags": [
+    "MassTransit",
+    "ESB"
+  ],
   "date": "2011-05-27T13:48:23",
   "draft": false,
   "slug": "event-driven-architecture-2",
@@ -16,7 +20,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MassTransit",
       "slug": "masstransit",

@@ -1,5 +1,8 @@
 {
   "title": "Eric Skaggs",
+  "tags": [
+    "Eric Skaggs"
+  ],
   "type": "speaker",
   "slug": "eric-skaggs",
   "date": "2017-05-10T20:23:22",

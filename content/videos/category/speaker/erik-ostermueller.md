@@ -1,5 +1,8 @@
 {
   "title": "Erik Ostermueller",
+  "tags": [
+    "Erik Ostermueller"
+  ],
   "type": "speaker",
   "slug": "erik-ostermueller",
   "date": "2017-10-06T22:05:28",

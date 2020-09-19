@@ -1,6 +1,9 @@
 {
   "title": "Introduction to the XML Source",
   "type": "recording",
+  "tags": [
+    "XML Source"
+  ],
   "date": "2013-08-24T11:39:21",
   "draft": false,
   "slug": "introduction-to-the-xml-source",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "XML Source",
       "slug": "xml-source",

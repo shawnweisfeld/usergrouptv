@@ -1,6 +1,9 @@
 {
   "title": "FINDING PASSION FOR DATA THROUGH FANDOMS",
   "type": "recording",
+  "tags": [
+    "Data"
+  ],
   "date": "2017-08-05T16:39:02",
   "draft": false,
   "slug": "finding-passion-for-data-through-fandoms",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Data",
       "slug": "data",

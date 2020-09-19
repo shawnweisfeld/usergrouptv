@@ -1,5 +1,8 @@
 {
   "title": ".NET Tips and Tricks",
+  "tags": [
+    ".NET Tips and Tricks"
+  ],
   "type": "tag",
   "slug": "net-tips-and-tricks",
   "date": "2011-10-15T03:09:29",

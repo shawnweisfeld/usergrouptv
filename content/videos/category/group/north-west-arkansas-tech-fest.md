@@ -1,6 +1,9 @@
 {
   "title": "North West Arkansas Tech Fest",
   "type": "meetup",
+  "tags": [
+    "North West Arkansas Tech Fest"
+  ],
   "slug": "north-west-arkansas-tech-fest",
   "date": "2012-08-24T13:00:45",
   "draft": false,

@@ -1,6 +1,9 @@
 {
   "title": " Test driving Azure DocumentDB and Search",
   "type": "recording",
+  "tags": [
+    "Azure"
+  ],
   "date": "2014-09-17T11:41:57",
   "draft": false,
   "slug": "test-driving-azure-documentdb-and-search",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

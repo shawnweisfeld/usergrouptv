@@ -1,5 +1,8 @@
 {
   "title": "Nola Stowe",
+  "tags": [
+    "Nola Stowe"
+  ],
   "type": "speaker",
   "slug": "nola-stowe",
   "date": "2017-08-05T16:55:29",

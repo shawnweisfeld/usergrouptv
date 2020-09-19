@@ -1,5 +1,8 @@
 {
   "title": "Mary Thorn",
+  "tags": [
+    "Mary Thorn"
+  ],
   "type": "speaker",
   "slug": "mary-thorn",
   "date": "2019-10-04T16:39:16",

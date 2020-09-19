@@ -1,5 +1,8 @@
 {
   "title": "Patterns",
+  "tags": [
+    "Patterns"
+  ],
   "type": "tag",
   "slug": "patterns",
   "date": "2013-02-07T00:50:11",

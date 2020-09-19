@@ -1,6 +1,9 @@
 {
   "title": "Data Warehouse ETL",
   "type": "recording",
+  "tags": [
+    "ETL"
+  ],
   "date": "2013-08-24T22:27:09",
   "draft": false,
   "slug": "data-warehouse-etl",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "ETL",
       "slug": "etl",

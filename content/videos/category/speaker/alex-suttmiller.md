@@ -1,5 +1,8 @@
 {
   "title": "Alex Suttmiller",
+  "tags": [
+    "Alex Suttmiller"
+  ],
   "type": "speaker",
   "slug": "alex-suttmiller",
   "date": "2020-05-13T12:41:42",

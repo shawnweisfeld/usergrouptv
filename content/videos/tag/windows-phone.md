@@ -1,5 +1,8 @@
 {
   "title": "Windows Phone",
+  "tags": [
+    "Windows Phone"
+  ],
   "type": "tag",
   "slug": "windows-phone",
   "date": "2012-02-29T01:49:54",

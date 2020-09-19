@@ -1,5 +1,8 @@
 {
   "title": "Casey Watson",
+  "tags": [
+    "Casey Watson"
+  ],
   "type": "speaker",
   "slug": "casey-watson",
   "date": "2017-07-20T14:05:46",

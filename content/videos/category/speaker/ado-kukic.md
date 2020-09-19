@@ -1,5 +1,8 @@
 {
   "title": "Ado Kukic",
+  "tags": [
+    "Ado Kukic"
+  ],
   "type": "speaker",
   "slug": "ado-kukic",
   "date": "2018-10-13T14:14:30",

@@ -1,5 +1,8 @@
 {
   "title": "K8S",
+  "tags": [
+    "K8S"
+  ],
   "type": "tag",
   "slug": "k8s",
   "date": "2019-08-14T14:16:16",

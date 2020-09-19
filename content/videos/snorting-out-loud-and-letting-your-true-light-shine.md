@@ -1,6 +1,9 @@
 {
   "title": "SNORTING OUT LOUD AND LETTING YOUR TRUE LIGHT SHINE",
   "type": "recording",
+  "tags": [
+    "Keynote"
+  ],
   "date": "2017-08-06T16:52:31",
   "draft": false,
   "slug": "snorting-out-loud-and-letting-your-true-light-shine",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Keynote",
       "slug": "keynote",

@@ -1,5 +1,8 @@
 {
   "title": "Jonathan Stewart",
+  "tags": [
+    "Jonathan Stewart"
+  ],
   "type": "speaker",
   "slug": "jonathan-stewart",
   "date": "2017-03-04T22:07:29",

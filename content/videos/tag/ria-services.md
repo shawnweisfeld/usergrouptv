@@ -1,5 +1,8 @@
 {
   "title": "RIA Services",
+  "tags": [
+    "RIA Services"
+  ],
   "type": "tag",
   "slug": "ria-services",
   "date": "2011-03-12T19:52:14",

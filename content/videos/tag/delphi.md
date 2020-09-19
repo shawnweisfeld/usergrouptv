@@ -1,5 +1,8 @@
 {
   "title": "Delphi",
+  "tags": [
+    "Delphi"
+  ],
   "type": "tag",
   "slug": "delphi",
   "date": "2014-09-26T18:51:48",

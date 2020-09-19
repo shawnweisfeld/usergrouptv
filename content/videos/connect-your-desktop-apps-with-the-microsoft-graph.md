@@ -1,6 +1,9 @@
 {
   "title": "Connect your Desktop Apps with the Microsoft Graph",
   "type": "recording",
+  "tags": [
+    "Microsoft Graph"
+  ],
   "date": "2019-06-24T16:41:59",
   "draft": false,
   "slug": "connect-your-desktop-apps-with-the-microsoft-graph",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Microsoft Graph",
       "slug": "microsoft-graph",

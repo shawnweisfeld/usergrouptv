@@ -1,6 +1,9 @@
 {
   "title": "The Winding Road",
   "type": "recording",
+  "tags": [
+    "Keynote"
+  ],
   "date": "2011-08-27T20:40:19",
   "draft": false,
   "slug": "the-winding-road",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Keynote",
       "slug": "keynote",

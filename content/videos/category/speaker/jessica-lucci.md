@@ -1,5 +1,8 @@
 {
   "title": "Jessica Lucci",
+  "tags": [
+    "Jessica Lucci"
+  ],
   "type": "speaker",
   "slug": "jessica-lucci",
   "date": "2017-08-05T14:49:40",

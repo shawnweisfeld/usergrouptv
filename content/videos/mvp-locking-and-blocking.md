@@ -1,6 +1,9 @@
 {
   "title": "MVP Locking and Blocking",
   "type": "recording",
+  "tags": [
+    "SQL"
+  ],
   "date": "2019-02-19T15:30:18",
   "draft": false,
   "slug": "mvp-locking-and-blocking",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL",
       "slug": "sql",

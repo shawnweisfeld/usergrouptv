@@ -1,6 +1,9 @@
 {
   "title": "C# Strings",
   "type": "recording",
+  "tags": [
+    "C# Strings"
+  ],
   "date": "2011-04-12T22:37:30",
   "draft": false,
   "slug": "c-string",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "C# Strings",
       "slug": "c-strings",

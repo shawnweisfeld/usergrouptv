@@ -1,5 +1,8 @@
 {
   "title": "Jessica Mauerhan",
+  "tags": [
+    "Jessica Mauerhan"
+  ],
   "type": "speaker",
   "slug": "jessica-mauerhan",
   "date": "2015-10-16T02:04:48",

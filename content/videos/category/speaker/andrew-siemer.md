@@ -1,5 +1,8 @@
 {
   "title": "Andrew Siemer",
+  "tags": [
+    "Andrew Siemer"
+  ],
   "type": "speaker",
   "slug": "andrew-siemer",
   "date": "2016-09-24T19:56:29",

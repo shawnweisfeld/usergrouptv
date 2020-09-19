@@ -1,6 +1,9 @@
 {
   "title": "A Remote Possibility",
   "type": "recording",
+  "tags": [
+    "Job"
+  ],
   "date": "2017-10-06T22:10:26",
   "draft": false,
   "slug": "a-remote-possibility",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Job",
       "slug": "job",

@@ -1,5 +1,8 @@
 {
   "title": "Ted Wagner",
+  "tags": [
+    "Ted Wagner"
+  ],
   "type": "speaker",
   "slug": "ted-wagner",
   "date": "2014-09-13T23:55:44",

@@ -1,5 +1,8 @@
 {
   "title": "Service Bus",
+  "tags": [
+    "Service Bus"
+  ],
   "type": "tag",
   "slug": "service-bus",
   "date": "2016-09-08T18:26:16",

@@ -1,5 +1,8 @@
 {
   "title": "Ryan Rauh",
+  "tags": [
+    "Ryan Rauh"
+  ],
   "type": "speaker",
   "slug": "ryan-rauh",
   "date": "2011-09-10T03:57:08",

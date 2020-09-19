@@ -1,5 +1,8 @@
 {
   "title": "XAML User Controls",
+  "tags": [
+    "XAML User Controls"
+  ],
   "type": "tag",
   "slug": "xaml-user-controls",
   "date": "2011-09-06T03:17:42",

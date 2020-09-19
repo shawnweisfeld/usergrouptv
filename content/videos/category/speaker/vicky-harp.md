@@ -1,5 +1,8 @@
 {
   "title": "Vicky Harp",
+  "tags": [
+    "Vicky Harp"
+  ],
   "type": "speaker",
   "slug": "vicky-harp",
   "date": "2019-05-21T14:33:30",

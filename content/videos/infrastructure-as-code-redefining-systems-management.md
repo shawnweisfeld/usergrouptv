@@ -1,6 +1,9 @@
 {
   "title": "INFRASTRUCTURE AS CODE: REDEFINING SYSTEMS MANAGEMENT",
   "type": "recording",
+  "tags": [
+    "DevOps"
+  ],
   "date": "2017-08-04T14:50:48",
   "draft": false,
   "slug": "infrastructure-as-code-redefining-systems-management",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "DevOps",
       "slug": "devops",

@@ -1,6 +1,9 @@
 {
   "title": "Using T-SQL to find differences between tables",
   "type": "recording",
+  "tags": [
+    "SQL Server"
+  ],
   "date": "2017-08-15T14:34:00",
   "draft": false,
   "slug": "using-t-sql-to-find-differences-between-tables",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Server",
       "slug": "sql-server",

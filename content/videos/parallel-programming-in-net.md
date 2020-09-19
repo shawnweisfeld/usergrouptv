@@ -1,6 +1,9 @@
 {
   "title": "Parallel Programming in .NET",
   "type": "recording",
+  "tags": [
+    "Parallel Programming"
+  ],
   "date": "2011-09-07T03:22:55",
   "draft": false,
   "slug": "parallel-programming-in-net",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Parallel Programming",
       "slug": "parallel-programming",

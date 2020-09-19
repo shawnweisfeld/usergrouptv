@@ -1,5 +1,8 @@
 {
   "title": "Jon Robertson",
+  "tags": [
+    "Jon Robertson"
+  ],
   "type": "speaker",
   "slug": "jon-robertson",
   "date": "2014-09-26T18:51:48",

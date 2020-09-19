@@ -1,6 +1,9 @@
 {
   "title": "Röck Yoür Apps With >= 10 Things You Probably Aren’t Doing ",
   "type": "recording",
+  "tags": [
+    "Architecture"
+  ],
   "date": "2015-07-13T18:36:40",
   "draft": false,
   "slug": "rock-your-apps-with-10-things-you-probably-arent-doing",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Architecture",
       "slug": "architecture",

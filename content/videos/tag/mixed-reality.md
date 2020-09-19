@@ -1,5 +1,8 @@
 {
   "title": "Mixed Reality",
+  "tags": [
+    "Mixed Reality"
+  ],
   "type": "tag",
   "slug": "mixed-reality",
   "date": "2018-10-13T14:09:42",

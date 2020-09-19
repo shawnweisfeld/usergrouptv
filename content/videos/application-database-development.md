@@ -1,6 +1,7 @@
 {
   "title": "Application & Database Development",
   "type": "recording",
+  "tags": [],
   "date": "2016-08-27T16:00:12",
   "draft": false,
   "slug": "application-database-development",
@@ -16,7 +17,7 @@
       "count": 2
     }
   ],
-  "tags": [],
+  "ugtvtags": [],
   "meetups": [
     {
       "name": "Oklahoma Groups",

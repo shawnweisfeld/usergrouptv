@@ -1,6 +1,9 @@
 {
   "title": "Blockchain and its relevance to You / Your Industry",
   "type": "recording",
+  "tags": [
+    "Blockchain"
+  ],
   "date": "2019-04-27T13:49:44",
   "draft": false,
   "slug": "blockchain-and-its-relevance-to-you-your-industry",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Blockchain",
       "slug": "blockchain",

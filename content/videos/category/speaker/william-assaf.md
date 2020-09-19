@@ -1,5 +1,8 @@
 {
   "title": "William Assaf",
+  "tags": [
+    "William Assaf"
+  ],
   "type": "speaker",
   "slug": "william-assaf",
   "date": "2020-02-08T16:17:42",

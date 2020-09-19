@@ -1,6 +1,9 @@
 {
   "title": "Sharing SQL Data in SharePoint",
   "type": "recording",
+  "tags": [
+    "Sharepoint"
+  ],
   "date": "2013-08-24T11:35:03",
   "draft": false,
   "slug": "sharing-sql-data-in-sharepoint",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Sharepoint",
       "slug": "sharepoint",

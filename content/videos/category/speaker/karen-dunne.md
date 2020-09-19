@@ -1,5 +1,8 @@
 {
   "title": "Karen Dunne",
+  "tags": [
+    "Karen Dunne"
+  ],
   "type": "speaker",
   "slug": "karen-dunne",
   "date": "2019-09-28T16:17:16",

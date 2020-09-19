@@ -1,6 +1,9 @@
 {
   "title": "Lap Around Windows Azure Spring Release",
   "type": "recording",
+  "tags": [
+    "Azure"
+  ],
   "date": "2012-08-24T00:25:36",
   "draft": false,
   "slug": "lap-around-windows-azure-spring-release",
@@ -16,7 +19,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

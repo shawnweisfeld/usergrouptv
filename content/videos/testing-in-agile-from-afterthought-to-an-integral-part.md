@@ -1,6 +1,9 @@
 {
   "title": "Testing in Agile: from Afterthought to an Integral Part",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2018-09-30T14:45:11",
   "draft": false,
   "slug": "testing-in-agile-from-afterthought-to-an-integral-part",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

@@ -1,6 +1,9 @@
 {
   "title": "SQL Server Reporting Services: Develop & Deploy Reports",
   "type": "recording",
+  "tags": [
+    "SQL Server Reporting Services"
+  ],
   "date": "2011-09-10T04:45:51",
   "draft": false,
   "slug": "sql-server-reporting-services-develop-deploy-reports",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Server Reporting Services",
       "slug": "sql-server-reporting-services",

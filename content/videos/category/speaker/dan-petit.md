@@ -1,5 +1,8 @@
 {
   "title": "Dan Petit",
+  "tags": [
+    "Dan Petit"
+  ],
   "type": "speaker",
   "slug": "dan-petit",
   "date": "2017-10-05T21:57:49",

@@ -1,5 +1,8 @@
 {
   "title": "Jeff Border",
+  "tags": [
+    "Jeff Border"
+  ],
   "type": "speaker",
   "slug": "jeff-border",
   "date": "2017-04-22T13:07:37",

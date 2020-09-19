@@ -1,6 +1,9 @@
 {
   "title": "Thinking about Software Architecture",
   "type": "recording",
+  "tags": [
+    "Architecture"
+  ],
   "date": "2018-10-08T13:19:55",
   "draft": false,
   "slug": "thinking-about-software-architecture",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Architecture",
       "slug": "architecture",

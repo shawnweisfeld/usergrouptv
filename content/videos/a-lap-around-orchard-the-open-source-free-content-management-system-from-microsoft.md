@@ -1,6 +1,9 @@
 {
   "title": "A Lap around Orchard: The Open Source Free Content Management System from Microsoft",
   "type": "recording",
+  "tags": [
+    "Orchard"
+  ],
   "date": "2011-09-10T21:00:20",
   "draft": false,
   "slug": "a-lap-around-orchard-the-open-source-free-content-management-system-from-microsoft",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Orchard",
       "slug": "orchard",

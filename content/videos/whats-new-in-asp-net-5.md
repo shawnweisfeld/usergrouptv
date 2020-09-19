@@ -1,6 +1,9 @@
 {
   "title": "What's New in ASP.NET 5",
   "type": "recording",
+  "tags": [
+    "ASP.NET vNext"
+  ],
   "date": "2015-09-12T16:20:42",
   "draft": false,
   "slug": "whats-new-in-asp-net-5",
@@ -16,7 +19,7 @@
       "count": 12
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "ASP.NET vNext",
       "slug": "asp-net-vnext",

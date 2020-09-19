@@ -1,6 +1,9 @@
 {
   "title": "DIY: SQL Server Monitoring for your Enterprise",
   "type": "recording",
+  "tags": [
+    "SQL Admin"
+  ],
   "date": "2018-06-23T19:46:47",
   "draft": false,
   "slug": "diy-sql-server-monitoring-for-your-enterprise",
@@ -16,7 +19,7 @@
       "count": 18
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Admin",
       "slug": "sql-admin",

@@ -1,6 +1,9 @@
 {
   "title": "Introduction to Azure SQL Database",
   "type": "recording",
+  "tags": [
+    "Azure SQL Database"
+  ],
   "date": "2019-04-27T13:51:15",
   "draft": false,
   "slug": "introduction-to-azure-sql-database",
@@ -16,7 +19,7 @@
       "count": 18
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure SQL Database",
       "slug": "azure-sql-database",

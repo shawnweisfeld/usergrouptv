@@ -1,5 +1,8 @@
 {
   "title": "Jesse Harlin",
+  "tags": [
+    "Jesse Harlin"
+  ],
   "type": "speaker",
   "slug": "jesse-harlin",
   "date": "2014-05-16T10:06:46",

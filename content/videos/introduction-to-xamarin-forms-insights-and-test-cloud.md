@@ -1,6 +1,9 @@
 {
   "title": "Introduction to Xamarin.Forms, Insights, and Test Cloud",
   "type": "recording",
+  "tags": [
+    "xamarin"
+  ],
   "date": "2015-05-31T13:33:35",
   "draft": false,
   "slug": "introduction-to-xamarin-forms-insights-and-test-cloud",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "xamarin",
       "slug": "xamarin",

@@ -1,6 +1,9 @@
 {
   "title": "Austin F# Meetup",
   "type": "meetup",
+  "tags": [
+    "Austin F# Meetup"
+  ],
   "slug": "austin-f-meetup",
   "date": "2019-11-11T17:23:37",
   "draft": false,

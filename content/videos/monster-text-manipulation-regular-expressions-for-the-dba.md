@@ -1,6 +1,10 @@
 {
   "title": "Monster Text Manipulation: Regular Expressions for the DBA",
   "type": "recording",
+  "tags": [
+    "SQL",
+    "Regex"
+  ],
   "date": "2015-08-29T13:45:57",
   "draft": false,
   "slug": "monster-text-manipulation-regular-expressions-for-the-dba",
@@ -16,7 +20,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL",
       "slug": "sql",

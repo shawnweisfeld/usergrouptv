@@ -1,5 +1,8 @@
 {
   "title": "Mark Reynolds",
+  "tags": [
+    "Mark Reynolds"
+  ],
   "type": "speaker",
   "slug": "mark-reynolds",
   "date": "2019-03-11T15:42:48",

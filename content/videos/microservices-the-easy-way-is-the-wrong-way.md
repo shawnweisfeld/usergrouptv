@@ -1,6 +1,9 @@
 {
   "title": "Microservices -- The Easy Way is the Wrong Way",
   "type": "recording",
+  "tags": [
+    "Microservices"
+  ],
   "date": "2020-07-09T18:32:55",
   "draft": false,
   "slug": "microservices-the-easy-way-is-the-wrong-way",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Microservices",
       "slug": "microservices",

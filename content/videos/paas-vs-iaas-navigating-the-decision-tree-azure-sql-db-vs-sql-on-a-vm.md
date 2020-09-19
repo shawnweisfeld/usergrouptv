@@ -1,6 +1,9 @@
 {
   "title": "PaaS vs IaaS - Navigating the Decision Tree: Azure SQL DB vs SQL on a VM",
   "type": "recording",
+  "tags": [
+    "SQL Azure"
+  ],
   "date": "2016-08-13T15:10:14",
   "draft": false,
   "slug": "paas-vs-iaas-navigating-the-decision-tree-azure-sql-db-vs-sql-on-a-vm",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Azure",
       "slug": "sql-azure",

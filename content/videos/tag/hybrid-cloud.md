@@ -1,5 +1,8 @@
 {
   "title": "Hybrid Cloud",
+  "tags": [
+    "Hybrid Cloud"
+  ],
   "type": "tag",
   "slug": "hybrid-cloud",
   "date": "2017-06-17T14:20:35",

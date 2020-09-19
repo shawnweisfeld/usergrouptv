@@ -1,5 +1,8 @@
 {
   "title": "Ext Js",
+  "tags": [
+    "Ext Js"
+  ],
   "type": "tag",
   "slug": "ext-js",
   "date": "2012-03-22T12:11:43",

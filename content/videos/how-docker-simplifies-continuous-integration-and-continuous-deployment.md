@@ -1,6 +1,9 @@
 {
   "title": "How Docker simplifies continuous integration and continuous deployment ",
   "type": "recording",
+  "tags": [
+    "Docker"
+  ],
   "date": "2016-04-11T09:11:04",
   "draft": false,
   "slug": "how-docker-simplifies-continuous-integration-and-continuous-deployment",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Docker",
       "slug": "docker",

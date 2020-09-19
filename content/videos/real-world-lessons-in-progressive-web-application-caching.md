@@ -1,6 +1,9 @@
 {
   "title": "Real World Lessons In Progressive Web Application Caching",
   "type": "recording",
+  "tags": [
+    "Progressive Web Apps"
+  ],
   "date": "2018-10-13T14:12:24",
   "draft": false,
   "slug": "real-world-lessons-in-progressive-web-application-caching",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Progressive Web Apps",
       "slug": "progressive-web-apps",

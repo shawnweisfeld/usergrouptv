@@ -1,5 +1,8 @@
 {
   "title": "Srikanth Talla",
+  "tags": [
+    "Srikanth Talla"
+  ],
   "type": "speaker",
   "slug": "srikanth-talla",
   "date": "2019-06-24T16:37:45",

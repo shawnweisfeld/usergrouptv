@@ -1,6 +1,10 @@
 {
   "title": "What's New in Visual Studio 2012 for Web Developers",
   "type": "recording",
+  "tags": [
+    "Web",
+    "VS2012"
+  ],
   "date": "2012-09-08T23:03:13",
   "draft": false,
   "slug": "whats-new-in-visual-studio-2012-for-web-developers",
@@ -16,7 +20,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Web",
       "slug": "web",

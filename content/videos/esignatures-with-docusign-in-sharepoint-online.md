@@ -1,6 +1,9 @@
 {
   "title": "eSignatures with DocuSign in SharePoint Online",
   "type": "recording",
+  "tags": [
+    "DocuSign"
+  ],
   "date": "2017-05-10T20:17:08",
   "draft": false,
   "slug": "esignatures-with-docusign-in-sharepoint-online",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "DocuSign",
       "slug": "docusign",

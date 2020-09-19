@@ -1,6 +1,10 @@
 {
   "title": "Parallelism Versus Concurrency - Which One is Right?",
   "type": "recording",
+  "tags": [
+    "Parallelism",
+    "Concurrency"
+  ],
   "date": "2013-09-28T15:34:36",
   "draft": false,
   "slug": "parallelism-versus-concurrency-which-one-is-right",
@@ -16,7 +20,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Parallelism",
       "slug": "parallelism",

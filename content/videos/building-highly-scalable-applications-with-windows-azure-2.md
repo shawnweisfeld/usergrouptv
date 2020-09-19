@@ -1,6 +1,9 @@
 {
   "title": "Building Highly Scalable Applications with Windows Azure",
   "type": "recording",
+  "tags": [
+    "Azure"
+  ],
   "date": "2014-06-14T11:08:07",
   "draft": false,
   "slug": "building-highly-scalable-applications-with-windows-azure-2",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

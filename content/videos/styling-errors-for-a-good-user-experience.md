@@ -1,6 +1,9 @@
 {
   "title": "Styling Errors for a Good User Experience",
   "type": "recording",
+  "tags": [
+    "Silverlight"
+  ],
   "date": "2011-06-07T01:52:07",
   "draft": false,
   "slug": "styling-errors-for-a-good-user-experience",
@@ -16,7 +19,7 @@
       "count": 22
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Silverlight",
       "slug": "silverlight",

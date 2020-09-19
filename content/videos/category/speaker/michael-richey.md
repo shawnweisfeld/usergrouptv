@@ -1,5 +1,8 @@
 {
   "title": "Michael Richey",
+  "tags": [
+    "Michael Richey"
+  ],
   "type": "speaker",
   "slug": "michael-richey",
   "date": "2019-09-28T17:03:52",

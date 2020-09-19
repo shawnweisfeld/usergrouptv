@@ -1,6 +1,9 @@
 {
   "title": "What's in a Name?",
   "type": "recording",
+  "tags": [
+    "Developer"
+  ],
   "date": "2018-05-05T14:55:57",
   "draft": false,
   "slug": "whats-in-a-name",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Developer",
       "slug": "developer",

@@ -1,5 +1,8 @@
 {
   "title": "MVP",
+  "tags": [
+    "MVP"
+  ],
   "type": "tag",
   "slug": "mvp",
   "date": "2012-06-19T11:33:03",

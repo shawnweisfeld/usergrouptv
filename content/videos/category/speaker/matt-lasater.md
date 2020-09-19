@@ -1,5 +1,8 @@
 {
   "title": "Matt Lasater",
+  "tags": [
+    "Matt Lasater"
+  ],
   "type": "speaker",
   "slug": "matt-lasater",
   "date": "2019-10-04T16:43:37",

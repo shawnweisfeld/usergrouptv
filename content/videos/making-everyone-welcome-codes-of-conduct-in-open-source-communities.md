@@ -1,6 +1,9 @@
 {
   "title": "MAKING EVERYONE WELCOME: CODES OF CONDUCT IN OPEN SOURCE COMMUNITIES",
   "type": "recording",
+  "tags": [
+    "CODES OF CONDUCT"
+  ],
   "date": "2017-08-05T17:19:59",
   "draft": false,
   "slug": "making-everyone-welcome-codes-of-conduct-in-open-source-communities",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "CODES OF CONDUCT",
       "slug": "codes-of-conduct",

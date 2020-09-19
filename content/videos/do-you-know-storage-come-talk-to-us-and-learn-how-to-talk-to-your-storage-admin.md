@@ -1,6 +1,9 @@
 {
   "title": "Do You Know Storage ? Come talk to us and learn how to talk to your Storage Admin!",
   "type": "recording",
+  "tags": [
+    "Storage"
+  ],
   "date": "2017-03-04T22:00:09",
   "draft": false,
   "slug": "do-you-know-storage-come-talk-to-us-and-learn-how-to-talk-to-your-storage-admin",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Storage",
       "slug": "storage",

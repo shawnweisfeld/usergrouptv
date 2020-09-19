@@ -1,5 +1,8 @@
 {
   "title": "SQL Storage",
+  "tags": [
+    "SQL Storage"
+  ],
   "type": "tag",
   "slug": "sql-storage",
   "date": "2011-08-27T20:49:06",

@@ -1,5 +1,8 @@
 {
   "title": "Janis Griffin",
+  "tags": [
+    "Janis Griffin"
+  ],
   "type": "speaker",
   "slug": "janis-griffin",
   "date": "2018-08-11T15:52:11",

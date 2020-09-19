@@ -1,6 +1,9 @@
 {
   "title": "ROCK YOUR DEVELOPMENT WITH A REAL WORLD EXAMPLE",
   "type": "recording",
+  "tags": [
+    "Developer"
+  ],
   "date": "2018-10-29T22:47:41",
   "draft": false,
   "slug": "rock-your-development-with-a-real-world-example",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Developer",
       "slug": "developer",

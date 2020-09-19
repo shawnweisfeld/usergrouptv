@@ -1,6 +1,9 @@
 {
   "title": "T-SQL's Hidden Support Feature",
   "type": "recording",
+  "tags": [
+    "SQL"
+  ],
   "date": "2018-08-25T19:29:44",
   "draft": false,
   "slug": "t-sqls-hidden-support-feature",
@@ -16,7 +19,7 @@
       "count": 7
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL",
       "slug": "sql",

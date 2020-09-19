@@ -1,5 +1,8 @@
 {
   "title": "Joseph Hill",
+  "tags": [
+    "Joseph Hill"
+  ],
   "type": "speaker",
   "slug": "joseph-hill",
   "date": "2012-01-17T15:41:53",

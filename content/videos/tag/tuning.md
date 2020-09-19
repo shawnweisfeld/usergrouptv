@@ -1,5 +1,8 @@
 {
   "title": "Tuning",
+  "tags": [
+    "Tuning"
+  ],
   "type": "tag",
   "slug": "tuning",
   "date": "2012-08-25T22:00:47",

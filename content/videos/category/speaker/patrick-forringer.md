@@ -1,5 +1,8 @@
 {
   "title": "Patrick Forringer",
+  "tags": [
+    "Patrick Forringer"
+  ],
   "type": "speaker",
   "slug": "patrick-forringer",
   "date": "2011-10-07T05:00:37",

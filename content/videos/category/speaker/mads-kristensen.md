@@ -1,5 +1,8 @@
 {
   "title": "Mads Kristensen",
+  "tags": [
+    "Mads Kristensen"
+  ],
   "type": "speaker",
   "slug": "mads-kristensen",
   "date": "2013-03-14T20:53:02",

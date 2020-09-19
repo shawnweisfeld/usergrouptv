@@ -1,5 +1,8 @@
 {
   "title": "Shad Phillips",
+  "tags": [
+    "Shad Phillips"
+  ],
   "type": "speaker",
   "slug": "shad-phillips",
   "date": "2016-04-16T11:00:56",

@@ -1,5 +1,8 @@
 {
   "title": "David Stein",
+  "tags": [
+    "David Stein"
+  ],
   "type": "speaker",
   "slug": "david-stein",
   "date": "2017-06-17T14:09:52",

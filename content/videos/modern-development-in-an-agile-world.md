@@ -1,6 +1,9 @@
 {
   "title": "Modern Development in an Agile World",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2012-04-20T19:03:59",
   "draft": false,
   "slug": "modern-development-in-an-agile-world",
@@ -16,7 +19,7 @@
       "count": 12
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

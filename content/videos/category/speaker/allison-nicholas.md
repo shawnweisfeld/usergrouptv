@@ -1,5 +1,8 @@
 {
   "title": "Allison Nicholas",
+  "tags": [
+    "Allison Nicholas"
+  ],
   "type": "speaker",
   "slug": "allison-nicholas",
   "date": "2017-10-06T22:07:05",

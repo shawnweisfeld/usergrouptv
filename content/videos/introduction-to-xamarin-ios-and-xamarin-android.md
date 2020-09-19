@@ -1,6 +1,9 @@
 {
   "title": "Introduction to Xamarin.iOS and Xamarin.Android",
   "type": "recording",
+  "tags": [
+    "xamarin"
+  ],
   "date": "2015-02-18T13:26:23",
   "draft": false,
   "slug": "introduction-to-xamarin-ios-and-xamarin-android",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "xamarin",
       "slug": "xamarin",

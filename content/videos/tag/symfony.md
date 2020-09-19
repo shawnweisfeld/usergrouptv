@@ -1,5 +1,8 @@
 {
   "title": "Symfony",
+  "tags": [
+    "Symfony"
+  ],
   "type": "tag",
   "slug": "symfony",
   "date": "2015-10-16T02:04:48",

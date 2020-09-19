@@ -1,6 +1,9 @@
 {
   "title": "Building pragmatic mobile apps",
   "type": "recording",
+  "tags": [
+    "Mobile Apps"
+  ],
   "date": "2017-10-14T11:39:33",
   "draft": false,
   "slug": "building-pragmatic-mobile-apps-2",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Mobile Apps",
       "slug": "mobile-apps",

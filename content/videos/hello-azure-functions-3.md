@@ -1,6 +1,9 @@
 {
   "title": "Hello Azure Functions",
   "type": "recording",
+  "tags": [
+    "Azure Functions"
+  ],
   "date": "2016-08-05T14:27:45",
   "draft": false,
   "slug": "hello-azure-functions-3",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure Functions",
       "slug": "azure-functions",

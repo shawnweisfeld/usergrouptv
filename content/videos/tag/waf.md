@@ -1,5 +1,8 @@
 {
   "title": "waf",
+  "tags": [
+    "waf"
+  ],
   "type": "tag",
   "slug": "waf",
   "date": "2017-10-05T21:51:41",

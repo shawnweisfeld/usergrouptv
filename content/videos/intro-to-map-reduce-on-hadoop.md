@@ -1,6 +1,10 @@
 {
   "title": "Intro to Map Reduce on Hadoop",
   "type": "recording",
+  "tags": [
+    "Hadoop",
+    "Map Reduce"
+  ],
   "date": "2012-08-24T00:50:30",
   "draft": false,
   "slug": "intro-to-map-reduce-on-hadoop",
@@ -16,7 +20,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Hadoop",
       "slug": "hadoop",

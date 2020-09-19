@@ -1,5 +1,8 @@
 {
   "title": "Dave Bland",
+  "tags": [
+    "Dave Bland"
+  ],
   "type": "speaker",
   "slug": "dave-bland",
   "date": "2018-05-19T22:59:19",

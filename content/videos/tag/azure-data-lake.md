@@ -1,5 +1,8 @@
 {
   "title": "Azure Data Lake",
+  "tags": [
+    "Azure Data Lake"
+  ],
   "type": "tag",
   "slug": "azure-data-lake",
   "date": "2019-07-13T14:04:25",

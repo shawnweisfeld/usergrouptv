@@ -1,5 +1,8 @@
 {
   "title": "Yasser Farra",
+  "tags": [
+    "Yasser Farra"
+  ],
   "type": "speaker",
   "slug": "yasser-farra",
   "date": "2018-05-24T16:44:36",

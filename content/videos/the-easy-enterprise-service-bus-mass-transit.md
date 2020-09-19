@@ -1,6 +1,9 @@
 {
   "title": "The Easy Enterprise Service Bus: Mass Transit",
   "type": "recording",
+  "tags": [
+    "MassTransit"
+  ],
   "date": "2013-01-10T02:01:16",
   "draft": false,
   "slug": "the-easy-enterprise-service-bus-mass-transit",
@@ -16,7 +19,7 @@
       "count": 13
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MassTransit",
       "slug": "masstransit",

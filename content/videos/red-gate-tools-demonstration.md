@@ -1,6 +1,9 @@
 {
   "title": "Red Gate Tools Demonstration",
   "type": "recording",
+  "tags": [
+    "Red Gate"
+  ],
   "date": "2011-08-27T02:56:40",
   "draft": false,
   "slug": "red-gate-tools-demonstration",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Red Gate",
       "slug": "red-gate",

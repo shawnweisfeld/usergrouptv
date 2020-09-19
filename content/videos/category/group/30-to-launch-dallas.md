@@ -1,6 +1,9 @@
 {
   "title": "30 to Launch Dallas",
   "type": "meetup",
+  "tags": [
+    "30 to Launch Dallas"
+  ],
   "slug": "30-to-launch-dallas",
   "date": "2012-02-29T01:49:54",
   "draft": false,

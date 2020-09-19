@@ -1,5 +1,8 @@
 {
   "title": "George Simpson",
+  "tags": [
+    "George Simpson"
+  ],
   "type": "speaker",
   "slug": "george-simpson",
   "date": "2011-02-25T14:25:07",

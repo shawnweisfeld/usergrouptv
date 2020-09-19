@@ -1,6 +1,9 @@
 {
   "title": "Building software is a Team Sport: Women In Tech",
   "type": "recording",
+  "tags": [
+    "Women in Tech"
+  ],
   "date": "2015-09-12T16:26:40",
   "draft": false,
   "slug": "building-software-is-a-team-sport-women-in-tech",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Women in Tech",
       "slug": "women-in-tech",

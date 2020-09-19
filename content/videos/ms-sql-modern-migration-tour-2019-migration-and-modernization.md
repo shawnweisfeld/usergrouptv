@@ -1,6 +1,9 @@
 {
   "title": "MS SQL Modern Migration Tour 2019 - Migration and Modernization",
   "type": "recording",
+  "tags": [
+    "MS SQL"
+  ],
   "date": "2019-06-23T16:04:46",
   "draft": false,
   "slug": "ms-sql-modern-migration-tour-2019-migration-and-modernization",
@@ -16,7 +19,7 @@
       "count": 18
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MS SQL",
       "slug": "ms-sql",

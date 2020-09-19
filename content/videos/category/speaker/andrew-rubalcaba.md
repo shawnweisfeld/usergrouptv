@@ -1,5 +1,8 @@
 {
   "title": "Andrew Rubalcaba",
+  "tags": [
+    "Andrew Rubalcaba"
+  ],
   "type": "speaker",
   "slug": "andrew-rubalcaba",
   "date": "2011-08-12T20:11:07",

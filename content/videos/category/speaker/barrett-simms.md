@@ -1,5 +1,8 @@
 {
   "title": "Barrett Simms",
+  "tags": [
+    "Barrett Simms"
+  ],
   "type": "speaker",
   "slug": "barrett-simms",
   "date": "2016-03-14T18:34:17",

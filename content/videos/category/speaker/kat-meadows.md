@@ -1,5 +1,8 @@
 {
   "title": "Kat Meadows",
+  "tags": [
+    "Kat Meadows"
+  ],
   "type": "speaker",
   "slug": "kat-meadows",
   "date": "2013-08-24T11:28:30",

@@ -1,6 +1,9 @@
 {
   "title": "Developing Diversity",
   "type": "recording",
+  "tags": [
+    "Diversity"
+  ],
   "date": "2017-10-14T11:56:08",
   "draft": false,
   "slug": "developing-diversity",
@@ -22,7 +25,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Diversity",
       "slug": "diversity",

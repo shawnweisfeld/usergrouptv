@@ -1,6 +1,9 @@
 {
   "title": "Certainty in a Risky World",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2018-05-24T16:38:27",
   "draft": false,
   "slug": "certainty-in-a-risky-world",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

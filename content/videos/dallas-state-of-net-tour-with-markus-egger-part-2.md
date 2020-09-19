@@ -1,6 +1,7 @@
 {
   "title": "Dallas State of .NET Tour with Markus Egger! - Part 2",
   "type": "recording",
+  "tags": [],
   "date": "2015-09-22T14:13:55",
   "draft": false,
   "slug": "dallas-state-of-net-tour-with-markus-egger-part-2",
@@ -16,7 +17,7 @@
       "count": 12
     }
   ],
-  "tags": [],
+  "ugtvtags": [],
   "meetups": [
     {
       "name": "State of .NET",

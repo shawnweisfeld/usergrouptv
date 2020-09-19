@@ -1,6 +1,9 @@
 {
   "title": "SQL Server PowerShell for the Beginner",
   "type": "recording",
+  "tags": [
+    "SQL Admin"
+  ],
   "date": "2018-08-25T19:38:27",
   "draft": false,
   "slug": "sql-server-powershell-for-the-beginner",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Admin",
       "slug": "sql-admin",

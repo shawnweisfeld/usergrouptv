@@ -1,5 +1,8 @@
 {
   "title": "Sitefinity",
+  "tags": [
+    "Sitefinity"
+  ],
   "type": "tag",
   "slug": "sitefinity",
   "date": "2011-10-22T23:20:14",

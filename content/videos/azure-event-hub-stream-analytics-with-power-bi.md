@@ -1,6 +1,11 @@
 {
   "title": "Azure Event Hub & Stream Analytics with Power BI",
   "type": "recording",
+  "tags": [
+    "Stream Analytics",
+    "PowerBI",
+    "Event Hubs"
+  ],
   "date": "2020-08-18T15:15:50",
   "draft": false,
   "slug": "azure-event-hub-stream-analytics-with-power-bi",
@@ -22,7 +27,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Stream Analytics",
       "slug": "stream-analytics",

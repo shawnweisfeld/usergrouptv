@@ -1,6 +1,10 @@
 {
   "title": "From the trenches - An Open Panel and Q&A discussion all about moving to Azure ",
   "type": "recording",
+  "tags": [
+    "Panel",
+    "Azure Migration"
+  ],
   "date": "2016-10-20T11:24:52",
   "draft": false,
   "slug": "from-the-trenches-an-open-panel-and-qa-discussion-all-about-moving-to-azure",
@@ -40,7 +44,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Panel",
       "slug": "panel",

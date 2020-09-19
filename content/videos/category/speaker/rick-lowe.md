@@ -1,5 +1,8 @@
 {
   "title": "Rick Lowe",
+  "tags": [
+    "Rick Lowe"
+  ],
   "type": "speaker",
   "slug": "rick-lowe",
   "date": "2018-05-19T22:57:56",

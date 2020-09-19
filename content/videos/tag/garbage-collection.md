@@ -1,5 +1,8 @@
 {
   "title": "Garbage Collection",
+  "tags": [
+    "Garbage Collection"
+  ],
   "type": "tag",
   "slug": "garbage-collection",
   "date": "2012-09-11T14:29:26",

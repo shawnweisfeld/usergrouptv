@@ -1,5 +1,8 @@
 {
   "title": "Leslie Andrews",
+  "tags": [
+    "Leslie Andrews"
+  ],
   "type": "speaker",
   "slug": "leslie-andrews",
   "date": "2020-02-08T16:07:08",

@@ -1,6 +1,9 @@
 {
   "title": "The Independent Developer - Lessons Learned from 4+ Years of Self Employment",
   "type": "recording",
+  "tags": [
+    "Career"
+  ],
   "date": "2018-06-23T20:00:02",
   "draft": false,
   "slug": "the-independent-developer-lessons-learned-from-4-years-of-self-employment",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Career",
       "slug": "career",

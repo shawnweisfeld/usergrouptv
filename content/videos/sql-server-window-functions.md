@@ -1,6 +1,9 @@
 {
   "title": "SQL Server Window Functions",
   "type": "recording",
+  "tags": [
+    "SQL Server Window Functions"
+  ],
   "date": "2016-05-14T12:32:55",
   "draft": false,
   "slug": "sql-server-window-functions",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Server Window Functions",
       "slug": "sql-server-window-functions",

@@ -1,5 +1,8 @@
 {
   "title": "MSMQ",
+  "tags": [
+    "MSMQ"
+  ],
   "type": "tag",
   "slug": "msmq",
   "date": "2013-01-23T03:11:55",

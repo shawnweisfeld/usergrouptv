@@ -1,5 +1,8 @@
 {
   "title": "DevOps",
+  "tags": [
+    "DevOps"
+  ],
   "type": "tag",
   "slug": "devops",
   "date": "2020-06-16T15:10:57",

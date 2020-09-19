@@ -1,5 +1,8 @@
 {
   "title": "Chris Koenig",
+  "tags": [
+    "Chris Koenig"
+  ],
   "type": "speaker",
   "slug": "chris-koenig",
   "date": "2012-12-13T16:13:44",

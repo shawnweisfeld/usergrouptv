@@ -1,5 +1,8 @@
 {
   "title": "Melissa Ugiansky",
+  "tags": [
+    "Melissa Ugiansky"
+  ],
   "type": "speaker",
   "slug": "melissa-ugiansky",
   "date": "2019-10-04T16:40:15",

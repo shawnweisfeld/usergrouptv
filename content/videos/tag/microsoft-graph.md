@@ -1,5 +1,8 @@
 {
   "title": "Microsoft Graph",
+  "tags": [
+    "Microsoft Graph"
+  ],
   "type": "tag",
   "slug": "microsoft-graph",
   "date": "2019-06-24T16:41:59",

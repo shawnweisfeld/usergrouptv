@@ -1,6 +1,9 @@
 {
   "title": "Reshaping the Company- Continuous Deployment and Culture change",
   "type": "recording",
+  "tags": [
+    "Continuous Deployment"
+  ],
   "date": "2015-09-26T12:04:51",
   "draft": false,
   "slug": "reshaping-the-company-continuous-deployment-and-culture-change",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Continuous Deployment",
       "slug": "continuous-deployment",

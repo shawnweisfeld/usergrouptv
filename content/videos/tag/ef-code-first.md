@@ -1,5 +1,8 @@
 {
   "title": "EF Code First",
+  "tags": [
+    "EF Code First"
+  ],
   "type": "tag",
   "slug": "ef-code-first",
   "date": "2012-07-17T14:09:08",

@@ -1,5 +1,8 @@
 {
   "title": "Matthew Brimer",
+  "tags": [
+    "Matthew Brimer"
+  ],
   "type": "speaker",
   "slug": "matthew-brimer",
   "date": "2015-08-29T14:25:47",

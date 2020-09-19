@@ -1,6 +1,9 @@
 {
   "title": "ENTREPRENEURSHIP AS A FREELANCER",
   "type": "recording",
+  "tags": [
+    "entrepreneurship"
+  ],
   "date": "2017-08-06T16:21:37",
   "draft": false,
   "slug": "entrepreneurship-as-a-freelancer",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "entrepreneurship",
       "slug": "entrepreneurship",

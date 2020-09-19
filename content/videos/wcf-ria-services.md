@@ -1,6 +1,9 @@
 {
   "title": "WCF RIA Services",
   "type": "recording",
+  "tags": [
+    "RIA"
+  ],
   "date": "2011-04-20T14:30:23",
   "draft": false,
   "slug": "wcf-ria-services",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "RIA",
       "slug": "ria",

@@ -1,5 +1,8 @@
 {
   "title": "Plan Cache",
+  "tags": [
+    "Plan Cache"
+  ],
   "type": "tag",
   "slug": "plan-cache",
   "date": "2017-06-17T14:15:04",

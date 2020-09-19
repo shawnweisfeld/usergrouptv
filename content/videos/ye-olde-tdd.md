@@ -1,6 +1,9 @@
 {
   "title": "Ye Olde TDD",
   "type": "recording",
+  "tags": [
+    "TDD"
+  ],
   "date": "2011-02-25T13:30:42",
   "draft": false,
   "slug": "ye-olde-tdd",
@@ -22,7 +25,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "TDD",
       "slug": "tdd",

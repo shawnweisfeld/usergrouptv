@@ -1,6 +1,9 @@
 {
   "title": "Austin .NET UG",
   "type": "meetup",
+  "tags": [
+    "Austin .NET UG"
+  ],
   "slug": "austin-net-ug",
   "date": "2020-09-14T17:44:41",
   "draft": false,

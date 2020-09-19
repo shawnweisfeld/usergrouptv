@@ -1,5 +1,8 @@
 {
   "title": "Search",
+  "tags": [
+    "Search"
+  ],
   "type": "tag",
   "slug": "search",
   "date": "2019-10-09T23:38:43",

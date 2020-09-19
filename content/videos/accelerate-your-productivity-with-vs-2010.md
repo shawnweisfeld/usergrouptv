@@ -1,6 +1,9 @@
 {
   "title": "Accelerate Your Productivity with VS 2010",
   "type": "recording",
+  "tags": [
+    "VS2010"
+  ],
   "date": "2011-08-23T02:45:37",
   "draft": false,
   "slug": "accelerate-your-productivity-with-vs-2010",
@@ -16,7 +19,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "VS2010",
       "slug": "vs2010",

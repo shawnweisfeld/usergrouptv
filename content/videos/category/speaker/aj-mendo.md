@@ -1,5 +1,8 @@
 {
   "title": "AJ Mendo",
+  "tags": [
+    "AJ Mendo"
+  ],
   "type": "speaker",
   "slug": "aj-mendo",
   "date": "2016-02-16T13:33:02",

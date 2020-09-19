@@ -1,6 +1,9 @@
 {
   "title": "Lets build a PWA showing real time streaming data",
   "type": "recording",
+  "tags": [
+    "PWA"
+  ],
   "date": "2018-05-05T15:54:32",
   "draft": false,
   "slug": "lets-build-a-pwa-showing-real-time-streaming-data",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "PWA",
       "slug": "pwa",

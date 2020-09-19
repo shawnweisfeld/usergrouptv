@@ -1,6 +1,9 @@
 {
   "title": "Microsoft Web Camp",
   "type": "meetup",
+  "tags": [
+    "Microsoft Web Camp"
+  ],
   "slug": "microsoft-web-camp",
   "date": "2011-05-16T01:04:01",
   "draft": false,

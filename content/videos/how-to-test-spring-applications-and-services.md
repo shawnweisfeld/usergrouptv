@@ -1,6 +1,10 @@
 {
   "title": "How to test Spring applications and services",
   "type": "recording",
+  "tags": [
+    "Spring",
+    "Testing"
+  ],
   "date": "2018-04-05T21:44:12",
   "draft": false,
   "slug": "how-to-test-spring-applications-and-services",
@@ -16,7 +20,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Spring",
       "slug": "spring",

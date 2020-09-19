@@ -1,6 +1,12 @@
 {
   "title": "Data Integration: Who, What, When and Why",
   "type": "recording",
+  "tags": [
+    "ETL",
+    "replication",
+    "Data Profiling",
+    "Data Quality"
+  ],
   "date": "2012-08-24T00:11:05",
   "draft": false,
   "slug": "data-integration-who-what-when-and-why",
@@ -16,7 +22,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "ETL",
       "slug": "etl",

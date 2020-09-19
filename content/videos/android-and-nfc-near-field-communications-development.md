@@ -1,6 +1,10 @@
 {
   "title": "Android and NFC (Near Field Communications) development",
   "type": "recording",
+  "tags": [
+    "Android",
+    "NFC"
+  ],
   "date": "2012-10-12T15:30:15",
   "draft": false,
   "slug": "android-and-nfc-near-field-communications-development",
@@ -16,7 +20,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Android",
       "slug": "android",

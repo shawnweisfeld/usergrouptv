@@ -1,5 +1,8 @@
 {
   "title": "3D Printers",
+  "tags": [
+    "3D Printers"
+  ],
   "type": "tag",
   "slug": "3d-printers",
   "date": "2013-09-28T12:56:59",

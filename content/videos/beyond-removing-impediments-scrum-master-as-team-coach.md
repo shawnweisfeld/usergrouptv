@@ -1,6 +1,9 @@
 {
   "title": "BEYOND REMOVING IMPEDIMENTS - SCRUM MASTER AS TEAM COACH",
   "type": "recording",
+  "tags": [
+    "Scrum"
+  ],
   "date": "2014-08-22T17:31:41",
   "draft": false,
   "slug": "beyond-removing-impediments-scrum-master-as-team-coach",
@@ -22,7 +25,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Scrum",
       "slug": "scrum",

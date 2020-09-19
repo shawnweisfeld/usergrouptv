@@ -1,6 +1,9 @@
 {
   "title": "Practical Test Driven Development ",
   "type": "recording",
+  "tags": [
+    "TDD"
+  ],
   "date": "2011-03-10T19:20:44",
   "draft": false,
   "slug": "practical-test-driven-development",
@@ -16,7 +19,7 @@
       "count": 13
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "TDD",
       "slug": "tdd",

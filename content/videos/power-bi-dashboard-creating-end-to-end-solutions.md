@@ -1,6 +1,9 @@
 {
   "title": "Power BI Dashboard - Creating End to End Solutions",
   "type": "recording",
+  "tags": [
+    "Power BI"
+  ],
   "date": "2019-07-13T13:46:05",
   "draft": false,
   "slug": "power-bi-dashboard-creating-end-to-end-solutions",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Power BI",
       "slug": "power-bi",

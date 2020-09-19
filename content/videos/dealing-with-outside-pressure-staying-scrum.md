@@ -1,6 +1,9 @@
 {
   "title": "DEALING WITH OUTSIDE PRESSURE - STAYING SCRUM",
   "type": "recording",
+  "tags": [
+    "Scrum"
+  ],
   "date": "2014-08-22T17:30:44",
   "draft": false,
   "slug": "dealing-with-outside-pressure-staying-scrum",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Scrum",
       "slug": "scrum",

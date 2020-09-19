@@ -1,6 +1,9 @@
 {
   "title": "XAML Validation Basics",
   "type": "recording",
+  "tags": [
+    "XAML"
+  ],
   "date": "2011-06-07T18:37:49",
   "draft": false,
   "slug": "xaml-validation-basics",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "XAML",
       "slug": "xaml",

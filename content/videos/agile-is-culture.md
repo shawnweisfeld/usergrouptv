@@ -1,6 +1,9 @@
 {
   "title": "Agile is Culture",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2012-04-20T13:19:19",
   "draft": false,
   "slug": "agile-is-culture",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

@@ -1,6 +1,9 @@
 {
   "title": "Build Analytics Models with Excel Power Pivot ",
   "type": "recording",
+  "tags": [
+    "Power Pivot"
+  ],
   "date": "2014-05-03T19:44:24",
   "draft": false,
   "slug": "build-analytics-models-with-excel-power-pivot",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Power Pivot",
       "slug": "power-pivot",

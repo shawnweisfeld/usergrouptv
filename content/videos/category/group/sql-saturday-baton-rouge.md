@@ -1,6 +1,9 @@
 {
   "title": "SQL Saturday Baton Rouge",
   "type": "meetup",
+  "tags": [
+    "SQL Saturday Baton Rouge"
+  ],
   "slug": "sql-saturday-baton-rouge",
   "date": "2018-08-11T15:59:10",
   "draft": false,

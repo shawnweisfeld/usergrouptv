@@ -1,6 +1,9 @@
 {
   "title": "Release Management with Team Services",
   "type": "recording",
+  "tags": [
+    "TFS"
+  ],
   "date": "2016-08-05T14:43:07",
   "draft": false,
   "slug": "release-management-with-team-services",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "TFS",
       "slug": "tfs",

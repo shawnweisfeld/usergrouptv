@@ -1,6 +1,9 @@
 {
   "title": "VALUE IN 60 MINUTES",
   "type": "recording",
+  "tags": [
+    "Developer"
+  ],
   "date": "2014-08-22T17:35:13",
   "draft": false,
   "slug": "value-in-60-minutes",
@@ -16,7 +19,7 @@
       "count": 13
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Developer",
       "slug": "developer",

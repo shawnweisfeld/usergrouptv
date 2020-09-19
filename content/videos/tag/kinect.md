@@ -1,5 +1,8 @@
 {
   "title": "Kinect",
+  "tags": [
+    "Kinect"
+  ],
   "type": "tag",
   "slug": "kinect",
   "date": "2013-08-17T22:09:28",

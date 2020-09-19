@@ -1,6 +1,9 @@
 {
   "title": "Value Stream Mapping: Seeing and Improving Your Product Flow and Process",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2019-10-04T16:42:30",
   "draft": false,
   "slug": "value-stream-mapping-seeing-and-improving-your-product-flow-and-process",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

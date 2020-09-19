@@ -1,5 +1,8 @@
 {
   "title": "Uday Adhikari",
+  "tags": [
+    "Uday Adhikari"
+  ],
   "type": "speaker",
   "slug": "uday-adhikari",
   "date": "2020-01-08T16:14:38",

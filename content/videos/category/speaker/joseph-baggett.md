@@ -1,5 +1,8 @@
 {
   "title": "Joseph Baggett",
+  "tags": [
+    "Joseph Baggett"
+  ],
   "type": "speaker",
   "slug": "joseph-baggett",
   "date": "2011-11-22T14:33:47",

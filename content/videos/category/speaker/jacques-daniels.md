@@ -1,5 +1,8 @@
 {
   "title": "Jacques Daniels",
+  "tags": [
+    "Jacques Daniels"
+  ],
   "type": "speaker",
   "slug": "jacques-daniels",
   "date": "2019-06-24T16:46:01",

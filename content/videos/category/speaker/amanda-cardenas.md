@@ -1,5 +1,8 @@
 {
   "title": "Amanda Cardenas",
+  "tags": [
+    "Amanda Cardenas"
+  ],
   "type": "speaker",
   "slug": "amanda-cardenas",
   "date": "2019-10-04T16:37:45",

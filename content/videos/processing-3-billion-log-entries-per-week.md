@@ -1,6 +1,9 @@
 {
   "title": "Processing 3 Billion Log Entries Per Week",
   "type": "recording",
+  "tags": [
+    "logging"
+  ],
   "date": "2017-07-21T14:03:32",
   "draft": false,
   "slug": "processing-3-billion-log-entries-per-week",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "logging",
       "slug": "logging",

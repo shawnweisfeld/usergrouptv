@@ -1,5 +1,8 @@
 {
   "title": "Justin Self",
+  "tags": [
+    "Justin Self"
+  ],
   "type": "speaker",
   "slug": "justin-self",
   "date": "2017-04-22T13:08:54",

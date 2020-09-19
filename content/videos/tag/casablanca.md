@@ -1,5 +1,8 @@
 {
   "title": "Casablanca",
+  "tags": [
+    "Casablanca"
+  ],
   "type": "tag",
   "slug": "casablanca",
   "date": "2012-09-11T15:04:58",

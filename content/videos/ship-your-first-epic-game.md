@@ -1,6 +1,9 @@
 {
   "title": "Ship Your First Epic Game",
   "type": "recording",
+  "tags": [
+    "Unity"
+  ],
   "date": "2014-06-14T11:00:42",
   "draft": false,
   "slug": "ship-your-first-epic-game",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Unity",
       "slug": "unity",

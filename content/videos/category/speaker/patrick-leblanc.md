@@ -1,5 +1,8 @@
 {
   "title": "Patrick LeBlanc",
+  "tags": [
+    "Patrick LeBlanc"
+  ],
   "type": "speaker",
   "slug": "patrick-leblanc",
   "date": "2016-05-14T12:25:19",

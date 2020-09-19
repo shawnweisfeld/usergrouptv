@@ -1,5 +1,8 @@
 {
   "title": "Matthew McDermott",
+  "tags": [
+    "Matthew McDermott"
+  ],
   "type": "speaker",
   "slug": "matthew-mcdermott",
   "date": "2019-10-09T23:38:43",

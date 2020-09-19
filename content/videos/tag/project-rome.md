@@ -1,5 +1,8 @@
 {
   "title": "Project Rome",
+  "tags": [
+    "Project Rome"
+  ],
   "type": "tag",
   "slug": "project-rome",
   "date": "2018-04-09T13:42:10",

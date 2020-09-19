@@ -1,5 +1,8 @@
 {
   "title": "CSS3",
+  "tags": [
+    "CSS3"
+  ],
   "type": "tag",
   "slug": "css3",
   "date": "2012-01-04T01:02:42",

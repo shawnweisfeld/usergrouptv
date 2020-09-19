@@ -1,6 +1,9 @@
 {
   "title": "Why Should I Care About … The Plan Cache",
   "type": "recording",
+  "tags": [
+    "SQL Performance"
+  ],
   "date": "2016-08-13T15:01:07",
   "draft": false,
   "slug": "why-should-i-care-about-the-plan-cache",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Performance",
       "slug": "sql-performance",

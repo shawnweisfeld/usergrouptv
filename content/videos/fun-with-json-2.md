@@ -1,6 +1,9 @@
 {
   "title": "Fun with Json",
   "type": "recording",
+  "tags": [
+    "Json"
+  ],
   "date": "2013-03-01T20:26:42",
   "draft": false,
   "slug": "fun-with-json-2",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Json",
       "slug": "json",

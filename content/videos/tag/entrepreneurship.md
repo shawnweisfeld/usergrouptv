@@ -1,5 +1,8 @@
 {
   "title": "entrepreneurship",
+  "tags": [
+    "entrepreneurship"
+  ],
   "type": "tag",
   "slug": "entrepreneurship",
   "date": "2017-08-06T16:21:37",

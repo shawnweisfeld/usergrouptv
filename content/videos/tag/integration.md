@@ -1,5 +1,8 @@
 {
   "title": "Integration",
+  "tags": [
+    "Integration"
+  ],
   "type": "tag",
   "slug": "integration",
   "date": "2017-07-21T14:08:22",

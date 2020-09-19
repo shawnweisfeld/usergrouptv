@@ -1,5 +1,8 @@
 {
   "title": "Reporting",
+  "tags": [
+    "Reporting"
+  ],
   "type": "tag",
   "slug": "reporting",
   "date": "2020-02-08T16:20:52",

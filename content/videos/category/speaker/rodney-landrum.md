@@ -1,5 +1,8 @@
 {
   "title": "Rodney Landrum",
+  "tags": [
+    "Rodney Landrum"
+  ],
   "type": "speaker",
   "slug": "rodney-landrum",
   "date": "2019-07-13T14:07:03",

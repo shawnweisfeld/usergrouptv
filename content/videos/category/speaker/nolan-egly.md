@@ -1,5 +1,8 @@
 {
   "title": "Nolan Egly",
+  "tags": [
+    "Nolan Egly"
+  ],
   "type": "speaker",
   "slug": "nolan-egly",
   "date": "2013-08-17T22:13:38",

@@ -1,5 +1,8 @@
 {
   "title": "Docker",
+  "tags": [
+    "Docker"
+  ],
   "type": "tag",
   "slug": "docker",
   "date": "2017-07-20T14:18:34",

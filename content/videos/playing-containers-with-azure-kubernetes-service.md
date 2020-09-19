@@ -1,6 +1,9 @@
 {
   "title": "Playing Containers with Azure Kubernetes Service",
   "type": "recording",
+  "tags": [
+    "K8S"
+  ],
   "date": "2019-04-27T13:44:15",
   "draft": false,
   "slug": "playing-containers-with-azure-kubernetes-service",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "K8S",
       "slug": "k8s",

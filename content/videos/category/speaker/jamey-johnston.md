@@ -1,5 +1,8 @@
 {
   "title": "Jamey Johnston",
+  "tags": [
+    "Jamey Johnston"
+  ],
   "type": "speaker",
   "slug": "jamey-johnston",
   "date": "2018-08-11T15:56:58",

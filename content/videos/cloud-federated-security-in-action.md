@@ -1,6 +1,9 @@
 {
   "title": "Cloud Federated Security In Action",
   "type": "recording",
+  "tags": [
+    "Azure Security"
+  ],
   "date": "2012-09-08T19:06:37",
   "draft": false,
   "slug": "cloud-federated-security-in-action",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure Security",
       "slug": "azure-security",

@@ -1,6 +1,9 @@
 {
   "title": "Big Data & Analytics in Azure",
   "type": "recording",
+  "tags": [
+    "Azure"
+  ],
   "date": "2016-04-16T10:56:28",
   "draft": false,
   "slug": "big-data-analytics-in-azure",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

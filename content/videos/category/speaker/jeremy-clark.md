@@ -1,5 +1,8 @@
 {
   "title": "Jeremy Clark",
+  "tags": [
+    "Jeremy Clark"
+  ],
   "type": "speaker",
   "slug": "jeremy-clark",
   "date": "2020-07-23T02:10:01",

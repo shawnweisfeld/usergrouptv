@@ -1,6 +1,9 @@
 {
   "title": "Coding Standards - Effective Not Just Efficient",
   "type": "recording",
+  "tags": [
+    "Developer"
+  ],
   "date": "2019-03-11T15:42:48",
   "draft": false,
   "slug": "coding-standards-effective-not-just-efficient",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Developer",
       "slug": "developer",

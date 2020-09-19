@@ -1,6 +1,9 @@
 {
   "title": "How we solved our batch SQL processing problems with Hadoop",
   "type": "recording",
+  "tags": [
+    "Hadoop"
+  ],
   "date": "2013-11-11T13:14:49",
   "draft": false,
   "slug": "how-we-solved-our-batch-sql-processing-problems-with-hadoop",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Hadoop",
       "slug": "hadoop",

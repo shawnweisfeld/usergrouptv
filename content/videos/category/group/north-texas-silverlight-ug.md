@@ -1,6 +1,9 @@
 {
   "title": "North Texas Silverlight UG",
   "type": "meetup",
+  "tags": [
+    "North Texas Silverlight UG"
+  ],
   "slug": "north-texas-silverlight-ug",
   "date": "2011-05-09T00:00:27",
   "draft": false,

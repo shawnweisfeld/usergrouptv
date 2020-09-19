@@ -1,6 +1,9 @@
 {
   "title": "PoShDBA: Practical PowerShell for the DBA",
   "type": "recording",
+  "tags": [
+    "PowerShell"
+  ],
   "date": "2016-08-27T12:46:44",
   "draft": false,
   "slug": "poshdba-practical-powershell-for-the-dba",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "PowerShell",
       "slug": "powershell",

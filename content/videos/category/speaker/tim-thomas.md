@@ -1,5 +1,8 @@
 {
   "title": "Tim Thomas",
+  "tags": [
+    "Tim Thomas"
+  ],
   "type": "speaker",
   "slug": "tim-thomas",
   "date": "2012-06-09T10:19:39",

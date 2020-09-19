@@ -1,5 +1,8 @@
 {
   "title": "Michael Russell",
+  "tags": [
+    "Michael Russell"
+  ],
   "type": "speaker",
   "slug": "michael-russell",
   "date": "2011-10-22T23:20:14",

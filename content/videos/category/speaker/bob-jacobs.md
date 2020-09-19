@@ -1,5 +1,8 @@
 {
   "title": "Bob Jacobs",
+  "tags": [
+    "Bob Jacobs"
+  ],
   "type": "speaker",
   "slug": "bob-jacobs",
   "date": "2019-10-09T23:37:13",

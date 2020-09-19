@@ -1,5 +1,8 @@
 {
   "title": "Reaz Haq",
+  "tags": [
+    "Reaz Haq"
+  ],
   "type": "speaker",
   "slug": "reaz-haq",
   "date": "2017-05-08T11:50:10",

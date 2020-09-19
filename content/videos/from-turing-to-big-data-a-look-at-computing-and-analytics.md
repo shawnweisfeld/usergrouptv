@@ -1,6 +1,9 @@
 {
   "title": "From Turing to Big Data: A Look at Computing and Analytics",
   "type": "recording",
+  "tags": [
+    "Analytics"
+  ],
   "date": "2017-10-06T16:22:44",
   "draft": false,
   "slug": "from-turing-to-big-data-a-look-at-computing-and-analytics",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Analytics",
       "slug": "analytics",

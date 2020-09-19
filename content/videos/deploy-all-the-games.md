@@ -1,6 +1,9 @@
 {
   "title": "Deploy All The Games!",
   "type": "recording",
+  "tags": [
+    "Unity"
+  ],
   "date": "2014-06-14T11:06:19",
   "draft": false,
   "slug": "deploy-all-the-games",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Unity",
       "slug": "unity",

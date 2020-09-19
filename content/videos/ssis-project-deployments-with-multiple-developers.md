@@ -1,6 +1,9 @@
 {
   "title": "SSIS project deployments with multiple developers",
   "type": "recording",
+  "tags": [
+    "SSIS"
+  ],
   "date": "2014-05-03T20:02:50",
   "draft": false,
   "slug": "ssis-project-deployments-with-multiple-developers",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SSIS",
       "slug": "ssis",

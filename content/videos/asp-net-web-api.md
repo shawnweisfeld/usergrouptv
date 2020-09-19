@@ -1,6 +1,9 @@
 {
   "title": "ASP.NET Web API",
   "type": "recording",
+  "tags": [
+    "WebAPI"
+  ],
   "date": "2012-06-09T10:32:41",
   "draft": false,
   "slug": "asp-net-web-api",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "WebAPI",
       "slug": "webapi",

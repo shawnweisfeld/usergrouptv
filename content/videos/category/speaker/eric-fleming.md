@@ -1,5 +1,8 @@
 {
   "title": "Eric Fleming",
+  "tags": [
+    "Eric Fleming"
+  ],
   "type": "speaker",
   "slug": "eric-fleming",
   "date": "2017-10-18T11:35:56",

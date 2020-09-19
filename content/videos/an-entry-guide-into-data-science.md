@@ -1,6 +1,9 @@
 {
   "title": "An Entry Guide into Data Science",
   "type": "recording",
+  "tags": [
+    "Big Data"
+  ],
   "date": "2019-03-13T15:44:36",
   "draft": false,
   "slug": "an-entry-guide-into-data-science",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Big Data",
       "slug": "big-data",

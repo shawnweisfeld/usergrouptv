@@ -1,5 +1,8 @@
 {
   "title": "SQL Config Man",
+  "tags": [
+    "SQL Config Man"
+  ],
   "type": "tag",
   "slug": "sql-config-man",
   "date": "2015-09-08T11:59:04",

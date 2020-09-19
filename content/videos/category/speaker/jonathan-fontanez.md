@@ -1,5 +1,8 @@
 {
   "title": "Jonathan Fontanez",
+  "tags": [
+    "Jonathan Fontanez"
+  ],
   "type": "speaker",
   "slug": "jonathan-fontanez",
   "date": "2015-10-16T02:01:02",

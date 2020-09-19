@@ -1,5 +1,8 @@
 {
   "title": "Server Performance",
+  "tags": [
+    "Server Performance"
+  ],
   "type": "tag",
   "slug": "server-performance",
   "date": "2011-09-10T04:04:42",

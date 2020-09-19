@@ -1,5 +1,8 @@
 {
   "title": "Nikkia Carter",
+  "tags": [
+    "Nikkia Carter"
+  ],
   "type": "speaker",
   "slug": "nikkia-carter",
   "date": "2016-09-24T19:55:36",

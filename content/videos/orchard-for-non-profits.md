@@ -1,6 +1,9 @@
 {
   "title": "Orchard for Non-Profits",
   "type": "recording",
+  "tags": [
+    "Orchard"
+  ],
   "date": "2011-10-22T14:11:29",
   "draft": false,
   "slug": "orchard-for-non-profits",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Orchard",
       "slug": "orchard",

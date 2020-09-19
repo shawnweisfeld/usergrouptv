@@ -1,5 +1,8 @@
 {
   "title": "Rabi Satter",
+  "tags": [
+    "Rabi Satter"
+  ],
   "type": "speaker",
   "slug": "rabi-satter",
   "date": "2016-04-20T10:52:36",

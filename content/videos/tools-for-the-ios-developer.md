@@ -1,6 +1,9 @@
 {
   "title": "Tools for the iOS Developer",
   "type": "recording",
+  "tags": [
+    "iOS"
+  ],
   "date": "2014-06-14T11:04:26",
   "draft": false,
   "slug": "tools-for-the-ios-developer",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "iOS",
       "slug": "ios",

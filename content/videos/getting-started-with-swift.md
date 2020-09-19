@@ -1,6 +1,9 @@
 {
   "title": "Getting Started with Swift",
   "type": "recording",
+  "tags": [
+    "Swift"
+  ],
   "date": "2014-10-10T10:57:37",
   "draft": false,
   "slug": "getting-started-with-swift",
@@ -16,7 +19,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Swift",
       "slug": "swift",

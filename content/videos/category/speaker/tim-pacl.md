@@ -1,5 +1,8 @@
 {
   "title": "Tim Pacl",
+  "tags": [
+    "Tim Pacl"
+  ],
   "type": "speaker",
   "slug": "tim-pacl",
   "date": "2015-02-07T03:43:49",

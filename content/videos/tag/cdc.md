@@ -1,5 +1,8 @@
 {
   "title": "CDC",
+  "tags": [
+    "CDC"
+  ],
   "type": "tag",
   "slug": "cdc",
   "date": "2015-01-31T18:44:00",

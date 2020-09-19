@@ -1,6 +1,9 @@
 {
   "title": "Capitol Area Central Texas Users of SQL Server",
   "type": "meetup",
+  "tags": [
+    "Capitol Area Central Texas Users of SQL Server"
+  ],
   "slug": "capitol-area-central-texas-users-of-sql-server",
   "date": "2020-02-18T12:08:41",
   "draft": false,

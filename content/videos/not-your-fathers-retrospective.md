@@ -1,6 +1,9 @@
 {
   "title": "Not Your Father's Retrospective!",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2019-10-04T16:46:40",
   "draft": false,
   "slug": "not-your-fathers-retrospective",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

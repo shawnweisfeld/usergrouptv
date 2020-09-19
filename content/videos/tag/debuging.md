@@ -1,5 +1,8 @@
 {
   "title": "debuging",
+  "tags": [
+    "debuging"
+  ],
   "type": "tag",
   "slug": "debuging",
   "date": "2014-08-15T16:54:07",

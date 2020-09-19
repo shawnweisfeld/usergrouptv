@@ -1,5 +1,8 @@
 {
   "title": "George Walkey",
+  "tags": [
+    "George Walkey"
+  ],
   "type": "speaker",
   "slug": "george-walkey",
   "date": "2015-08-29T14:23:15",

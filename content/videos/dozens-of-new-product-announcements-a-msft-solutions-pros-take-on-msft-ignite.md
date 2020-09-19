@@ -1,6 +1,9 @@
 {
   "title": "DOZENS of New Product Announcements, a MSFT Solutions Pro's Take on MSFT Ignite",
   "type": "recording",
+  "tags": [
+    "O365"
+  ],
   "date": "2018-11-14T16:53:41",
   "draft": false,
   "slug": "dozens-of-new-product-announcements-a-msft-solutions-pros-take-on-msft-ignite",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "O365",
       "slug": "o365",

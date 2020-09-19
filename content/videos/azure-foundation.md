@@ -1,6 +1,7 @@
 {
   "title": "Azure Foundation",
   "type": "recording",
+  "tags": [],
   "date": "2017-04-22T13:07:37",
   "draft": false,
   "slug": "azure-foundation",
@@ -16,7 +17,7 @@
       "count": 1
     }
   ],
-  "tags": [],
+  "ugtvtags": [],
   "meetups": [
     {
       "name": "Austin Global Azure Bootcamp",

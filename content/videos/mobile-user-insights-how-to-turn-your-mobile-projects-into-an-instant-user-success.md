@@ -1,6 +1,9 @@
 {
   "title": "Mobile User Insights - How to turn your mobile projects into an instant user success",
   "type": "recording",
+  "tags": [
+    "Moble"
+  ],
   "date": "2014-08-15T20:11:13",
   "draft": false,
   "slug": "mobile-user-insights-how-to-turn-your-mobile-projects-into-an-instant-user-success",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Moble",
       "slug": "moble",

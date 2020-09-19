@@ -1,5 +1,8 @@
 {
   "title": "Keynote",
+  "tags": [
+    "Keynote"
+  ],
   "type": "tag",
   "slug": "keynote",
   "date": "2017-10-06T22:26:24",

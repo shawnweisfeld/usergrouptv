@@ -1,5 +1,8 @@
 {
   "title": "Questions",
+  "tags": [
+    "Questions"
+  ],
   "type": "tag",
   "slug": "questions",
   "date": "2014-10-10T11:17:18",

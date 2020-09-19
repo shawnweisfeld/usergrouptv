@@ -1,5 +1,8 @@
 {
   "title": "Elwanda Bennett",
+  "tags": [
+    "Elwanda Bennett"
+  ],
   "type": "speaker",
   "slug": "elwanda-bennett",
   "date": "2016-09-24T19:52:16",

@@ -1,6 +1,9 @@
 {
   "title": "Introduction to Swift",
   "type": "recording",
+  "tags": [
+    "Swift"
+  ],
   "date": "2014-09-13T23:58:37",
   "draft": false,
   "slug": "introduction-to-swift",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Swift",
       "slug": "swift",

@@ -1,5 +1,8 @@
 {
   "title": "Alberto Ferrari",
+  "tags": [
+    "Alberto Ferrari"
+  ],
   "type": "speaker",
   "slug": "alberto-ferrari",
   "date": "2020-02-08T16:29:06",

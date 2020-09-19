@@ -1,5 +1,8 @@
 {
   "title": "Ben Rogers",
+  "tags": [
+    "Ben Rogers"
+  ],
   "type": "speaker",
   "slug": "ben-rogers",
   "date": "2018-05-24T16:38:27",

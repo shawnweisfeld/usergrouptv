@@ -1,6 +1,11 @@
 {
   "title": "Full Stack Web Day - Part 2",
   "type": "recording",
+  "tags": [
+    "MVC",
+    "HTML",
+    "CSS"
+  ],
   "date": "2011-12-03T23:54:35",
   "draft": false,
   "slug": "full-stack-web-day-part-2",
@@ -16,7 +21,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MVC",
       "slug": "mvc",

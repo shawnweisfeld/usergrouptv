@@ -1,5 +1,8 @@
 {
   "title": "Justin Weinberg",
+  "tags": [
+    "Justin Weinberg"
+  ],
   "type": "speaker",
   "slug": "justin-weinberg",
   "date": "2012-06-06T11:27:56",

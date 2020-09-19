@@ -1,5 +1,8 @@
 {
   "title": "Carl Ott",
+  "tags": [
+    "Carl Ott"
+  ],
   "type": "speaker",
   "slug": "carl-ott",
   "date": "2018-10-13T14:16:42",

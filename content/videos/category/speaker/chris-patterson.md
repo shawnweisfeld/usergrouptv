@@ -1,5 +1,8 @@
 {
   "title": "Chris Patterson",
+  "tags": [
+    "Chris Patterson"
+  ],
   "type": "speaker",
   "slug": "chris-patterson",
   "date": "2011-05-27T13:48:23",

@@ -1,5 +1,8 @@
 {
   "title": "VB.NET",
+  "tags": [
+    "VB.NET"
+  ],
   "type": "tag",
   "slug": "vb-net",
   "date": "2013-01-15T21:35:39",

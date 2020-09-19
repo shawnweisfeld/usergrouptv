@@ -1,5 +1,8 @@
 {
   "title": "Nicole Engard",
+  "tags": [
+    "Nicole Engard"
+  ],
   "type": "speaker",
   "slug": "nicole-engard",
   "date": "2017-08-05T17:22:48",

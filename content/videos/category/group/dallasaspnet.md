@@ -1,6 +1,9 @@
 {
   "title": "Dallas ASP.NET UG",
   "type": "meetup",
+  "tags": [
+    "Dallas ASP.NET UG"
+  ],
   "slug": "dallasaspnet",
   "date": "2017-05-23T11:07:26",
   "draft": false,

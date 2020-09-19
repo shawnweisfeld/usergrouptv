@@ -1,5 +1,8 @@
 {
   "title": "Jim Lavin",
+  "tags": [
+    "Jim Lavin"
+  ],
   "type": "speaker",
   "slug": "jim-lavin",
   "date": "2014-06-14T11:02:26",

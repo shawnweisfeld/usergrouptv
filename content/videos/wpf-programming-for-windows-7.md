@@ -1,6 +1,9 @@
 {
   "title": "WPF Programming for Windows 7",
   "type": "recording",
+  "tags": [
+    "wpf"
+  ],
   "date": "2011-08-12T19:57:30",
   "draft": false,
   "slug": "wpf-programming-for-windows-7",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "wpf",
       "slug": "wpf",

@@ -1,5 +1,8 @@
 {
   "title": "databinding",
+  "tags": [
+    "databinding"
+  ],
   "type": "tag",
   "slug": "databinding",
   "date": "2011-02-15T18:00:44",

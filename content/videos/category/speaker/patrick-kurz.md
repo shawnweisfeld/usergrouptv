@@ -1,5 +1,8 @@
 {
   "title": "Patrick Kurz",
+  "tags": [
+    "Patrick Kurz"
+  ],
   "type": "speaker",
   "slug": "patrick-kurz",
   "date": "2017-07-21T14:16:01",

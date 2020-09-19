@@ -1,6 +1,9 @@
 {
   "title": "Making CSS and ASP.NET Work ",
   "type": "recording",
+  "tags": [
+    "CSS"
+  ],
   "date": "2012-11-27T16:00:42",
   "draft": false,
   "slug": "making-css-and-asp-net-work",
@@ -22,7 +25,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "CSS",
       "slug": "css",

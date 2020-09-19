@@ -1,5 +1,8 @@
 {
   "title": "Power Automate",
+  "tags": [
+    "Power Automate"
+  ],
   "type": "tag",
   "slug": "power-automate",
   "date": "2020-06-10T16:35:48",

@@ -1,5 +1,8 @@
 {
   "title": "Liza C. Willmore",
+  "tags": [
+    "Liza C. Willmore"
+  ],
   "type": "speaker",
   "slug": "liza-c-willmore",
   "date": "2017-08-04T14:23:43",

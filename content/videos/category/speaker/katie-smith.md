@@ -1,5 +1,8 @@
 {
   "title": "Katie Smith",
+  "tags": [
+    "Katie Smith"
+  ],
   "type": "speaker",
   "slug": "katie-smith",
   "date": "2017-08-06T16:24:37",

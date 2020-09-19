@@ -1,5 +1,8 @@
 {
   "title": "DB Project",
+  "tags": [
+    "DB Project"
+  ],
   "type": "tag",
   "slug": "db-project",
   "date": "2017-06-17T14:13:22",

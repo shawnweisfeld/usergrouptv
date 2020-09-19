@@ -1,6 +1,10 @@
 {
   "title": "Asyncing and Awaiting Windows 8",
   "type": "recording",
+  "tags": [
+    "async",
+    "win8"
+  ],
   "date": "2012-07-05T19:40:21",
   "draft": false,
   "slug": "asyncing-and-awaiting-windows-8-3",
@@ -16,7 +20,7 @@
       "count": 22
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "async",
       "slug": "async",

@@ -1,6 +1,10 @@
 {
   "title": "Security for Silverlight and Click-Once Applications",
   "type": "recording",
+  "tags": [
+    "Silverlight",
+    "Security"
+  ],
   "date": "2011-11-01T14:14:49",
   "draft": false,
   "slug": "security-for-silverlight-and-click-once-applications",
@@ -16,7 +20,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Silverlight",
       "slug": "silverlight",

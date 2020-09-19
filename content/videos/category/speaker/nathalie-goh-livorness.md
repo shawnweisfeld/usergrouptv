@@ -1,5 +1,8 @@
 {
   "title": "Nathalie Goh Livorness",
+  "tags": [
+    "Nathalie Goh Livorness"
+  ],
   "type": "speaker",
   "slug": "nathalie-goh-livorness",
   "date": "2014-06-14T11:00:42",

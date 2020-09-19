@@ -1,5 +1,8 @@
 {
   "title": "Zane Moreign",
+  "tags": [
+    "Zane Moreign"
+  ],
   "type": "speaker",
   "slug": "zane-moreign",
   "date": "2018-06-23T19:45:03",

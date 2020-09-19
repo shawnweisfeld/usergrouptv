@@ -1,6 +1,9 @@
 {
   "title": "Bits to Atoms - The World of 3D Printers",
   "type": "recording",
+  "tags": [
+    "3D Printers"
+  ],
   "date": "2013-09-28T12:56:59",
   "draft": false,
   "slug": "bits-to-atoms-the-world-of-3d-printers",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "3D Printers",
       "slug": "3d-printers",

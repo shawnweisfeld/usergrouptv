@@ -1,5 +1,8 @@
 {
   "title": "Josh Handel",
+  "tags": [
+    "Josh Handel"
+  ],
   "type": "speaker",
   "slug": "josh-handel",
   "date": "2014-10-15T21:28:04",

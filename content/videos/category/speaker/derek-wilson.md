@@ -1,5 +1,8 @@
 {
   "title": "Derek Wilson",
+  "tags": [
+    "Derek Wilson"
+  ],
   "type": "speaker",
   "slug": "derek-wilson",
   "date": "2020-02-08T16:11:11",

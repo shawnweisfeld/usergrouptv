@@ -1,5 +1,8 @@
 {
   "title": "Sails.js",
+  "tags": [
+    "Sails.js"
+  ],
   "type": "tag",
   "slug": "sails-js",
   "date": "2014-05-16T10:09:17",

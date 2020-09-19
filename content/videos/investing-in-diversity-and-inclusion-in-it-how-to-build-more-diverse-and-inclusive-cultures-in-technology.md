@@ -1,6 +1,9 @@
 {
   "title": "Investing in Diversity and Inclusion in IT: How to build more diverse and inclusive cultures in Technology",
   "type": "recording",
+  "tags": [
+    "Developer"
+  ],
   "date": "2018-09-29T15:23:52",
   "draft": false,
   "slug": "investing-in-diversity-and-inclusion-in-it-how-to-build-more-diverse-and-inclusive-cultures-in-technology",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Developer",
       "slug": "developer",

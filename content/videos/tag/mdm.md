@@ -1,5 +1,8 @@
 {
   "title": "MDM",
+  "tags": [
+    "MDM"
+  ],
   "type": "tag",
   "slug": "mdm",
   "date": "2015-01-31T18:51:15",

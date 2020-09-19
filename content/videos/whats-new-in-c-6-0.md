@@ -1,6 +1,9 @@
 {
   "title": "What’s New in C# 6.0 ",
   "type": "recording",
+  "tags": [
+    "C#"
+  ],
   "date": "2015-10-12T02:07:36",
   "draft": false,
   "slug": "whats-new-in-c-6-0",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "C#",
       "slug": "c",

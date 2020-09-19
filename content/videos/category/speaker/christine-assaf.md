@@ -1,5 +1,8 @@
 {
   "title": "Christine Assaf",
+  "tags": [
+    "Christine Assaf"
+  ],
   "type": "speaker",
   "slug": "christine-assaf",
   "date": "2020-02-08T16:17:42",

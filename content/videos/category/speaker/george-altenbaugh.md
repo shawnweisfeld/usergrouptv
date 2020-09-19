@@ -1,5 +1,8 @@
 {
   "title": "George Altenbaugh",
+  "tags": [
+    "George Altenbaugh"
+  ],
   "type": "speaker",
   "slug": "george-altenbaugh",
   "date": "2015-02-07T03:43:49",

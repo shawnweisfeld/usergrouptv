@@ -1,6 +1,9 @@
 {
   "title": "Dallas GiveCamp",
   "type": "meetup",
+  "tags": [
+    "Dallas GiveCamp"
+  ],
   "slug": "dallas-givecamp",
   "date": "2011-10-22T23:30:25",
   "draft": false,

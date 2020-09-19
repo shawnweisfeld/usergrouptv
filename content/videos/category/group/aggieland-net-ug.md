@@ -1,6 +1,9 @@
 {
   "title": "Aggieland .NET UG",
   "type": "meetup",
+  "tags": [
+    "Aggieland .NET UG"
+  ],
   "slug": "aggieland-net-ug",
   "date": "2017-07-18T13:56:51",
   "draft": false,

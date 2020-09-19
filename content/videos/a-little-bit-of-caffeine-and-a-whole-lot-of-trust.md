@@ -1,6 +1,9 @@
 {
   "title": "A little bit of Caffeine and a whole lot of Trust",
   "type": "recording",
+  "tags": [
+    "Trust"
+  ],
   "date": "2017-10-14T11:54:08",
   "draft": false,
   "slug": "a-little-bit-of-caffeine-and-a-whole-lot-of-trust",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Trust",
       "slug": "trust",

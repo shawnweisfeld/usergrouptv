@@ -1,6 +1,9 @@
 {
   "title": "Get insights from data with Cognitive Services",
   "type": "recording",
+  "tags": [
+    "Cognitive Services"
+  ],
   "date": "2018-05-19T22:55:07",
   "draft": false,
   "slug": "get-insights-from-data-with-cognitive-services",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Cognitive Services",
       "slug": "cognitive-services",

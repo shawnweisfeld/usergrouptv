@@ -1,6 +1,9 @@
 {
   "title": "The Future of Javascript Today: ES 6 with BabelJS",
   "type": "recording",
+  "tags": [
+    "BabelJS"
+  ],
   "date": "2015-09-26T12:25:26",
   "draft": false,
   "slug": "the-future-of-javascript-today-es-6-with-babeljs",
@@ -16,7 +19,7 @@
       "count": 12
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "BabelJS",
       "slug": "babeljs",

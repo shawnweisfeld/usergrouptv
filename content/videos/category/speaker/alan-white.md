@@ -1,5 +1,8 @@
 {
   "title": "Alan White",
+  "tags": [
+    "Alan White"
+  ],
   "type": "speaker",
   "slug": "alan-white",
   "date": "2016-08-05T14:36:50",

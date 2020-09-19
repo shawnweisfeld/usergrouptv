@@ -1,6 +1,9 @@
 {
   "title": "Dynamic SQL: Tables and Pivots",
   "type": "recording",
+  "tags": [
+    "SQL"
+  ],
   "date": "2017-10-14T11:50:58",
   "draft": false,
   "slug": "dynamic-sql-tables-and-pivots",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL",
       "slug": "sql",

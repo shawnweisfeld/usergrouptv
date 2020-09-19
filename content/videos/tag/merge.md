@@ -1,5 +1,8 @@
 {
   "title": "Merge",
+  "tags": [
+    "Merge"
+  ],
   "type": "tag",
   "slug": "merge",
   "date": "2013-08-24T11:30:36",

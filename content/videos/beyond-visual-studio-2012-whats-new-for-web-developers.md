@@ -1,6 +1,10 @@
 {
   "title": "Beyond Visual Studio 2012: What’s new for Web Developers",
   "type": "recording",
+  "tags": [
+    "tools",
+    "VS2012"
+  ],
   "date": "2013-03-14T20:53:02",
   "draft": false,
   "slug": "beyond-visual-studio-2012-whats-new-for-web-developers",
@@ -16,7 +20,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "tools",
       "slug": "tools",

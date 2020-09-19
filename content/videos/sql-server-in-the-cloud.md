@@ -1,6 +1,9 @@
 {
   "title": "SQL Server in the Cloud",
   "type": "recording",
+  "tags": [
+    "SQL Azure"
+  ],
   "date": "2012-08-25T21:47:22",
   "draft": false,
   "slug": "sql-server-in-the-cloud",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Azure",
       "slug": "sql-azure",

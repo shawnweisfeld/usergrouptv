@@ -1,6 +1,9 @@
 {
   "title": "T-SQL Windowing Functions",
   "type": "recording",
+  "tags": [
+    "T-SQL"
+  ],
   "date": "2017-12-19T13:08:16",
   "draft": false,
   "slug": "t-sql-windowing-functions",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "T-SQL",
       "slug": "t-sql",

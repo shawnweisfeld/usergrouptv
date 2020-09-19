@@ -1,6 +1,9 @@
 {
   "title": "Dynamic Data Flows in SSIS without Programming",
   "type": "recording",
+  "tags": [
+    "SSIS"
+  ],
   "date": "2017-03-04T21:56:18",
   "draft": false,
   "slug": "dynamic-data-flows-in-ssis-without-programming",
@@ -22,7 +25,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SSIS",
       "slug": "ssis",

@@ -1,6 +1,9 @@
 {
   "title": "Dallas Dev Fest Weekend",
   "type": "meetup",
+  "tags": [
+    "Dallas Dev Fest Weekend"
+  ],
   "slug": "dallas-dev-fest-weekend",
   "date": "2018-10-13T14:20:16",
   "draft": false,

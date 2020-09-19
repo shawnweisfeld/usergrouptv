@@ -1,6 +1,9 @@
 {
   "title": "It's 2018. Why aren't you using Azure Search?",
   "type": "recording",
+  "tags": [
+    "Search"
+  ],
   "date": "2018-11-14T16:55:09",
   "draft": false,
   "slug": "its-2018-why-arent-you-using-azure-search",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Search",
       "slug": "search",

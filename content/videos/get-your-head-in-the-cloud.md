@@ -1,6 +1,9 @@
 {
   "title": "Get Your Head In The Cloud",
   "type": "recording",
+  "tags": [
+    "Cloud"
+  ],
   "date": "2018-10-13T14:06:53",
   "draft": false,
   "slug": "get-your-head-in-the-cloud",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Cloud",
       "slug": "cloud",

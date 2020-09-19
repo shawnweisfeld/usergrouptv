@@ -1,5 +1,8 @@
 {
   "title": "Kevin Chenal",
+  "tags": [
+    "Kevin Chenal"
+  ],
   "type": "speaker",
   "slug": "kevin-chenal",
   "date": "2017-10-05T22:01:51",

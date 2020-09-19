@@ -1,6 +1,9 @@
 {
   "title": "Hands On Coding .NET Dallas",
   "type": "meetup",
+  "tags": [
+    "Hands On Coding .NET Dallas"
+  ],
   "slug": "hands-on-coding-net-dallas",
   "date": "2012-02-14T15:23:50",
   "draft": false,

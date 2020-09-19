@@ -1,5 +1,8 @@
 {
   "title": "Shawn Weisfeld",
+  "tags": [
+    "Shawn Weisfeld"
+  ],
   "type": "speaker",
   "slug": "shawn-weisfeld",
   "date": "2019-11-19T16:17:46",

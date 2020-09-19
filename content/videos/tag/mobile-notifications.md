@@ -1,5 +1,8 @@
 {
   "title": "Mobile Notifications",
+  "tags": [
+    "Mobile Notifications"
+  ],
   "type": "tag",
   "slug": "mobile-notifications",
   "date": "2017-10-06T22:28:33",

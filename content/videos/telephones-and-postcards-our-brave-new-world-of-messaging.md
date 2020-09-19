@@ -1,6 +1,9 @@
 {
   "title": "Telephones and Postcards: Our Brave New World of Messaging",
   "type": "recording",
+  "tags": [
+    "Messaging"
+  ],
   "date": "2013-09-28T12:49:32",
   "draft": false,
   "slug": "telephones-and-postcards-our-brave-new-world-of-messaging",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Messaging",
       "slug": "messaging",

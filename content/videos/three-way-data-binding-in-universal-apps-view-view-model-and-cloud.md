@@ -1,6 +1,9 @@
 {
   "title": "Three-Way Data Binding in Universal Apps: View, View Model, and Cloud",
   "type": "recording",
+  "tags": [
+    "Universal Apps"
+  ],
   "date": "2014-10-10T02:14:48",
   "draft": false,
   "slug": "three-way-data-binding-in-universal-apps-view-view-model-and-cloud",
@@ -16,7 +19,7 @@
       "count": 22
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Universal Apps",
       "slug": "universal-apps",

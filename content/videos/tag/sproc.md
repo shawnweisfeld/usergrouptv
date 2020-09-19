@@ -1,5 +1,8 @@
 {
   "title": "Sproc",
+  "tags": [
+    "Sproc"
+  ],
   "type": "tag",
   "slug": "sproc",
   "date": "2015-08-29T14:21:45",

@@ -1,6 +1,9 @@
 {
   "title": "Multidimensional Data Cubes and Data Mining in the Real World",
   "type": "recording",
+  "tags": [
+    "SSAS"
+  ],
   "date": "2019-07-13T14:09:40",
   "draft": false,
   "slug": "multidimensional-data-cubes-and-data-mining-in-the-real-world",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SSAS",
       "slug": "ssas",

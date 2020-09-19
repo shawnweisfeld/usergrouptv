@@ -1,6 +1,9 @@
 {
   "title": "The SQL Career Roadmap for Women (and Men)",
   "type": "recording",
+  "tags": [
+    "Career"
+  ],
   "date": "2019-07-13T13:52:09",
   "draft": false,
   "slug": "the-sql-career-roadmap-for-women-and-men",
@@ -16,7 +19,7 @@
       "count": 7
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Career",
       "slug": "career",

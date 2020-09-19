@@ -1,5 +1,8 @@
 {
   "title": "HierarchyID",
+  "tags": [
+    "HierarchyID"
+  ],
   "type": "tag",
   "slug": "hierarchyid",
   "date": "2011-11-02T02:07:51",

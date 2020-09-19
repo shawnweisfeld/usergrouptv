@@ -1,5 +1,8 @@
 {
   "title": "Tone Shelby",
+  "tags": [
+    "Tone Shelby"
+  ],
   "type": "speaker",
   "slug": "tone-shelby",
   "date": "2019-10-09T23:41:28",

@@ -1,5 +1,8 @@
 {
   "title": "Rex Backman",
+  "tags": [
+    "Rex Backman"
+  ],
   "type": "speaker",
   "slug": "rex-backman",
   "date": "2015-01-31T23:13:05",

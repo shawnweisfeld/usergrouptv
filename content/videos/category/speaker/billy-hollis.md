@@ -1,5 +1,8 @@
 {
   "title": "Billy Hollis",
+  "tags": [
+    "Billy Hollis"
+  ],
   "type": "speaker",
   "slug": "billy-hollis",
   "date": "2018-10-13T14:06:53",

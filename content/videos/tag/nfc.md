@@ -1,5 +1,8 @@
 {
   "title": "NFC",
+  "tags": [
+    "NFC"
+  ],
   "type": "tag",
   "slug": "nfc",
   "date": "2012-10-12T15:30:15",

@@ -1,6 +1,9 @@
 {
   "title": "Austin Mobile .NET Developers Group",
   "type": "meetup",
+  "tags": [
+    "Austin Mobile .NET Developers Group"
+  ],
   "slug": "austin-mobile-net-developers-group",
   "date": "2016-11-16T15:26:56",
   "draft": false,

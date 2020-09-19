@@ -1,5 +1,8 @@
 {
   "title": "Kent Sloan",
+  "tags": [
+    "Kent Sloan"
+  ],
   "type": "speaker",
   "slug": "kent-sloan",
   "date": "2018-08-25T19:30:52",

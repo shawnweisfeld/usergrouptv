@@ -1,6 +1,9 @@
 {
   "title": "Design Patterns by Example",
   "type": "recording",
+  "tags": [
+    "Design Patterns"
+  ],
   "date": "2011-04-14T22:56:46",
   "draft": false,
   "slug": "design-patterns-by-example",
@@ -16,7 +19,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Design Patterns",
       "slug": "design-patterns",

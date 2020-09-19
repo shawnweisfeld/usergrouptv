@@ -1,6 +1,9 @@
 {
   "title": "Using calculation groups in DAX",
   "type": "recording",
+  "tags": [
+    "dax"
+  ],
   "date": "2020-02-08T16:29:06",
   "draft": false,
   "slug": "using-calculation-groups-in-dax",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "dax",
       "slug": "dax",

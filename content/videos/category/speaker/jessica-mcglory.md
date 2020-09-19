@@ -1,5 +1,8 @@
 {
   "title": "Jessica McGlory",
+  "tags": [
+    "Jessica McGlory"
+  ],
   "type": "speaker",
   "slug": "jessica-mcglory",
   "date": "2017-08-05T16:39:02",

@@ -1,6 +1,9 @@
 {
   "title": "Validation with RIA Services",
   "type": "recording",
+  "tags": [
+    "RIA"
+  ],
   "date": "2011-06-07T18:29:01",
   "draft": false,
   "slug": "validation-with-ria-services",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "RIA",
       "slug": "ria",

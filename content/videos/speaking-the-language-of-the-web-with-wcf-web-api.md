@@ -1,6 +1,9 @@
 {
   "title": "Speaking the language of the web with WCF Web API.",
   "type": "recording",
+  "tags": [
+    "WCF Web API"
+  ],
   "date": "2011-10-07T02:45:43",
   "draft": false,
   "slug": "speaking-the-language-of-the-web-with-wcf-web-api",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "WCF Web API",
       "slug": "wcf-web-api",

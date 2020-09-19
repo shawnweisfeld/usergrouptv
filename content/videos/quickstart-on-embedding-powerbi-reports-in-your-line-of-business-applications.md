@@ -1,6 +1,9 @@
 {
   "title": "QuickStart on embedding PowerBI reports in your line of business applications",
   "type": "recording",
+  "tags": [
+    "Power BI"
+  ],
   "date": "2018-05-19T22:53:23",
   "draft": false,
   "slug": "quickstart-on-embedding-powerbi-reports-in-your-line-of-business-applications",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Power BI",
       "slug": "power-bi",

@@ -1,5 +1,8 @@
 {
   "title": "Judd Wheeler",
+  "tags": [
+    "Judd Wheeler"
+  ],
   "type": "speaker",
   "slug": "judd-wheeler",
   "date": "2014-08-15T20:11:13",

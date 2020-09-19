@@ -1,6 +1,9 @@
 {
   "title": "Currying in a Hurry (Intro to Functional Programming in F#) ",
   "type": "recording",
+  "tags": [
+    "F#"
+  ],
   "date": "2015-10-16T02:01:55",
   "draft": false,
   "slug": "currying-in-a-hurry-intro-to-functional-programming-in-f",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "F#",
       "slug": "f",

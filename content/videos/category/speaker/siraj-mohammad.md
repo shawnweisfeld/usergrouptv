@@ -1,5 +1,8 @@
 {
   "title": "Siraj Mohammad",
+  "tags": [
+    "Siraj Mohammad"
+  ],
   "type": "speaker",
   "slug": "siraj-mohammad",
   "date": "2017-04-19T14:14:35",

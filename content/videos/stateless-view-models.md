@@ -1,6 +1,9 @@
 {
   "title": "Stateless View Models",
   "type": "recording",
+  "tags": [
+    "Update Controls"
+  ],
   "date": "2013-03-05T20:48:41",
   "draft": false,
   "slug": "stateless-view-models",
@@ -16,7 +19,7 @@
       "count": 22
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Update Controls",
       "slug": "update-controls",

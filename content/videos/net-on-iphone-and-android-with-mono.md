@@ -1,6 +1,11 @@
 {
   "title": ".NET on iPhone and Android with Mono",
   "type": "recording",
+  "tags": [
+    "mono",
+    "iPhone",
+    "WP7"
+  ],
   "date": "2012-01-17T15:41:53",
   "draft": false,
   "slug": "net-on-iphone-and-android-with-mono",
@@ -16,7 +21,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "mono",
       "slug": "mono",

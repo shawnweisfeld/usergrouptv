@@ -1,6 +1,9 @@
 {
   "title": "What’s New in Microsoft Modern Search",
   "type": "recording",
+  "tags": [
+    "Search"
+  ],
   "date": "2019-10-09T23:38:43",
   "draft": false,
   "slug": "whats-new-in-microsoft-modern-search",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Search",
       "slug": "search",

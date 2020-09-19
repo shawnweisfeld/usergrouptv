@@ -1,6 +1,9 @@
 {
   "title": "Random Acts of Senseless Databasing",
   "type": "recording",
+  "tags": [
+    "SQL Server"
+  ],
   "date": "2017-06-17T14:17:44",
   "draft": false,
   "slug": "random-acts-of-senseless-databasing",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Server",
       "slug": "sql-server",

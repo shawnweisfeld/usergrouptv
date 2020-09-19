@@ -1,5 +1,8 @@
 {
   "title": "Mike Byrd",
+  "tags": [
+    "Mike Byrd"
+  ],
   "type": "speaker",
   "slug": "mike-byrd",
   "date": "2020-02-18T12:08:41",

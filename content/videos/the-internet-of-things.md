@@ -1,6 +1,9 @@
 {
   "title": "The Internet of Things",
   "type": "recording",
+  "tags": [
+    "hardware"
+  ],
   "date": "2012-09-08T14:46:15",
   "draft": false,
   "slug": "the-internet-of-things",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "hardware",
       "slug": "hardware",

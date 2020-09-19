@@ -1,6 +1,9 @@
 {
   "title": "Integration Testing of Entity Framework Applications",
   "type": "recording",
+  "tags": [
+    "Entity Framework"
+  ],
   "date": "2017-07-20T14:21:23",
   "draft": false,
   "slug": "integration-testing-of-entity-framework-applications",
@@ -16,7 +19,7 @@
       "count": 22
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Entity Framework",
       "slug": "entity-framework",

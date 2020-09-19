@@ -1,6 +1,9 @@
 {
   "title": "Make Shift Happen Harnessing Culture for Change",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2019-10-04T16:32:54",
   "draft": false,
   "slug": "make-shift-happen-harnessing-culture-for-change",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

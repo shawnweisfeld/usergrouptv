@@ -1,5 +1,8 @@
 {
   "title": "Reddy Sucharit",
+  "tags": [
+    "Reddy Sucharit"
+  ],
   "type": "speaker",
   "slug": "reddy-sucharit",
   "date": "2019-04-27T13:49:44",

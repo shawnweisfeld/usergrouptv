@@ -1,5 +1,8 @@
 {
   "title": "Json",
+  "tags": [
+    "Json"
+  ],
   "type": "tag",
   "slug": "json",
   "date": "2013-03-01T20:26:42",

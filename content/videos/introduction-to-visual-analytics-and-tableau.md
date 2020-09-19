@@ -1,6 +1,9 @@
 {
   "title": "Introduction to Visual Analytics and Tableau",
   "type": "recording",
+  "tags": [
+    "Tableau"
+  ],
   "date": "2018-08-25T19:30:52",
   "draft": false,
   "slug": "introduction-to-visual-analytics-and-tableau",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Tableau",
       "slug": "tableau",

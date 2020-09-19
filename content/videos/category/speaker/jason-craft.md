@@ -1,5 +1,8 @@
 {
   "title": "Jason Craft",
+  "tags": [
+    "Jason Craft"
+  ],
   "type": "speaker",
   "slug": "jason-craft",
   "date": "2018-10-13T14:20:16",

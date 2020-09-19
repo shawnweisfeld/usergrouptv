@@ -1,6 +1,9 @@
 {
   "title": "Don't Assume You're Creating Value - Prove It!",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2018-05-24T16:50:04",
   "draft": false,
   "slug": "dont-assume-youre-creating-value-prove-it",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

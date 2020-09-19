@@ -1,6 +1,9 @@
 {
   "title": "Running AI on the Edge with Windows ML",
   "type": "recording",
+  "tags": [
+    "Windows ML"
+  ],
   "date": "2018-10-13T14:15:33",
   "draft": false,
   "slug": "running-ai-on-the-edge-with-windows-ml",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Windows ML",
       "slug": "windows-ml",

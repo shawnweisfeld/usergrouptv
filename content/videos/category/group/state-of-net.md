@@ -1,6 +1,9 @@
 {
   "title": "State of .NET",
   "type": "meetup",
+  "tags": [
+    "State of .NET"
+  ],
   "slug": "state-of-net",
   "date": "2016-12-15T12:54:46",
   "draft": false,

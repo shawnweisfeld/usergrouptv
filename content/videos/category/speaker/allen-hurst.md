@@ -1,5 +1,8 @@
 {
   "title": "Allen Hurst",
+  "tags": [
+    "Allen Hurst"
+  ],
   "type": "speaker",
   "slug": "allen-hurst",
   "date": "2015-09-26T12:16:59",

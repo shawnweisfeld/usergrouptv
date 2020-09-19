@@ -1,6 +1,9 @@
 {
   "title": "Performance Tuning for Pirates",
   "type": "recording",
+  "tags": [
+    "SQL Performance"
+  ],
   "date": "2012-08-25T00:07:40",
   "draft": false,
   "slug": "performance-tuning-for-pirates",
@@ -16,7 +19,7 @@
       "count": 18
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Performance",
       "slug": "sql-performance",

@@ -1,5 +1,8 @@
 {
   "title": "Azure DevOps",
+  "tags": [
+    "Azure DevOps"
+  ],
   "type": "tag",
   "slug": "azure-devops",
   "date": "2020-03-09T18:29:59",

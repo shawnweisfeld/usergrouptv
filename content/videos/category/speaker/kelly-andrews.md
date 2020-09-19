@@ -1,5 +1,8 @@
 {
   "title": "Kelly Andrews",
+  "tags": [
+    "Kelly Andrews"
+  ],
   "type": "speaker",
   "slug": "kelly-andrews",
   "date": "2017-07-20T14:16:36",

@@ -1,5 +1,8 @@
 {
   "title": "Garret Edmondson",
+  "tags": [
+    "Garret Edmondson"
+  ],
   "type": "speaker",
   "slug": "garret-edmondson",
   "date": "2013-08-24T22:27:09",

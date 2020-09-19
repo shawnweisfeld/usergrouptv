@@ -1,6 +1,9 @@
 {
   "title": "Intro to Agile",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2011-05-27T01:27:15",
   "draft": false,
   "slug": "intro-to-agile",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

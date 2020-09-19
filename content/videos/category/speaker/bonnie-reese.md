@@ -1,5 +1,8 @@
 {
   "title": "Bonnie Reese",
+  "tags": [
+    "Bonnie Reese"
+  ],
   "type": "speaker",
   "slug": "bonnie-reese",
   "date": "2017-08-06T16:24:37",

@@ -1,5 +1,8 @@
 {
   "title": "Jay Callicott",
+  "tags": [
+    "Jay Callicott"
+  ],
   "type": "speaker",
   "slug": "jay-callicott",
   "date": "2017-10-06T16:20:55",

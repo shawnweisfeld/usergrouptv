@@ -1,6 +1,9 @@
 {
   "title": "Demystifying JSON in SQL Server",
   "type": "recording",
+  "tags": [
+    "SQL Server"
+  ],
   "date": "2018-08-25T19:32:15",
   "draft": false,
   "slug": "demystifying-json-in-sql-server",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Server",
       "slug": "sql-server",

@@ -1,6 +1,9 @@
 {
   "title": "The Best of SharePoint Conference 2011 - Coskun Cavusoglu",
   "type": "recording",
+  "tags": [
+    "Sharepoint"
+  ],
   "date": "2011-11-03T14:06:42",
   "draft": false,
   "slug": "the-best-of-sharepoint-conference-2011-coskun-cavusoglu",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Sharepoint",
       "slug": "sharepoint",

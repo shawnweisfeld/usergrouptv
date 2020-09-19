@@ -1,5 +1,8 @@
 {
   "title": "SketchFlow",
+  "tags": [
+    "SketchFlow"
+  ],
   "type": "tag",
   "slug": "sketchflow",
   "date": "2011-03-22T21:25:17",

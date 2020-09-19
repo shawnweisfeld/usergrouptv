@@ -1,5 +1,8 @@
 {
   "title": "joomla",
+  "tags": [
+    "joomla"
+  ],
   "type": "tag",
   "slug": "joomla",
   "date": "2019-09-28T17:03:52",

@@ -1,5 +1,8 @@
 {
   "title": "Rob Sullivan",
+  "tags": [
+    "Rob Sullivan"
+  ],
   "type": "speaker",
   "slug": "rob-sullivan",
   "date": "2013-08-24T11:37:00",

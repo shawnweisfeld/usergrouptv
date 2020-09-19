@@ -1,6 +1,10 @@
 {
   "title": "Collaborative Windows Phone Apps with Correspondence",
   "type": "recording",
+  "tags": [
+    "WinPhone",
+    "Correspondence"
+  ],
   "date": "2012-10-12T15:26:11",
   "draft": false,
   "slug": "collaborative-windows-phone-apps-with-correspondence",
@@ -16,7 +20,7 @@
       "count": 22
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "WinPhone",
       "slug": "winphone",

@@ -1,5 +1,8 @@
 {
   "title": "Laura Musa",
+  "tags": [
+    "Laura Musa"
+  ],
   "type": "speaker",
   "slug": "laura-musa",
   "date": "2017-08-06T16:45:13",

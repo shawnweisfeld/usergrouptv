@@ -1,5 +1,8 @@
 {
   "title": "Christian Shay",
+  "tags": [
+    "Christian Shay"
+  ],
   "type": "speaker",
   "slug": "christian-shay",
   "date": "2014-05-19T20:50:26",

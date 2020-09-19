@@ -1,6 +1,9 @@
 {
   "title": "Big Data in Azure",
   "type": "recording",
+  "tags": [
+    "Big Data"
+  ],
   "date": "2017-04-22T13:14:38",
   "draft": false,
   "slug": "big-data-in-azure",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Big Data",
       "slug": "big-data",

@@ -1,6 +1,9 @@
 {
   "title": "15 Quick Tips for SSIS Performance",
   "type": "recording",
+  "tags": [
+    "SSIS"
+  ],
   "date": "2015-02-06T18:50:52",
   "draft": false,
   "slug": "15-quick-tips-for-ssis-performance",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SSIS",
       "slug": "ssis",

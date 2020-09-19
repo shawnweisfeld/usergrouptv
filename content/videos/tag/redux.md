@@ -1,5 +1,8 @@
 {
   "title": "redux",
+  "tags": [
+    "redux"
+  ],
   "type": "tag",
   "slug": "redux",
   "date": "2017-01-26T15:25:59",

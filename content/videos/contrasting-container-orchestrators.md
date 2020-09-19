@@ -1,6 +1,10 @@
 {
   "title": "Contrasting Container Orchestrators ",
   "type": "recording",
+  "tags": [
+    "Kubernetes",
+    "Docker Swarm"
+  ],
   "date": "2016-04-21T10:57:35",
   "draft": false,
   "slug": "contrasting-container-orchestrators",
@@ -16,7 +20,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Kubernetes",
       "slug": "kubernetes",

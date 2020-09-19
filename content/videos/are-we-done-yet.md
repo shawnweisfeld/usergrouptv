@@ -1,6 +1,9 @@
 {
   "title": "Are We Done Yet?",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2018-05-24T16:37:01",
   "draft": false,
   "slug": "are-we-done-yet",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

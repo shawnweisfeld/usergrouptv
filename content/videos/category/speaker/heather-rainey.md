@@ -1,5 +1,8 @@
 {
   "title": "Heather Rainey",
+  "tags": [
+    "Heather Rainey"
+  ],
   "type": "speaker",
   "slug": "heather-rainey",
   "date": "2014-08-22T17:30:44",

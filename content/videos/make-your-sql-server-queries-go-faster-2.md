@@ -1,6 +1,9 @@
 {
   "title": "Make your SQL Server Queries Go Faster!",
   "type": "recording",
+  "tags": [
+    "SQL Performance"
+  ],
   "date": "2017-10-14T11:46:48",
   "draft": false,
   "slug": "make-your-sql-server-queries-go-faster-2",
@@ -16,7 +19,7 @@
       "count": 18
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Performance",
       "slug": "sql-performance",

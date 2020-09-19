@@ -1,5 +1,8 @@
 {
   "title": "hyperv",
+  "tags": [
+    "hyperv"
+  ],
   "type": "tag",
   "slug": "hyperv",
   "date": "2019-12-07T19:21:50",

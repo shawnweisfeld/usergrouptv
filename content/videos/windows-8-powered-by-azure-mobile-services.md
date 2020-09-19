@@ -1,6 +1,10 @@
 {
   "title": "Windows 8 powered by Azure Mobile Services",
   "type": "recording",
+  "tags": [
+    "Azure Mobile Services",
+    "win8"
+  ],
   "date": "2013-03-01T20:42:47",
   "draft": false,
   "slug": "windows-8-powered-by-azure-mobile-services",
@@ -16,7 +20,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure Mobile Services",
       "slug": "azure-mobile-services",

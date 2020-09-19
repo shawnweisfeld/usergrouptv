@@ -1,5 +1,8 @@
 {
   "title": "Pablo Moreno",
+  "tags": [
+    "Pablo Moreno"
+  ],
   "type": "speaker",
   "slug": "pablo-moreno",
   "date": "2019-10-09T23:40:11",

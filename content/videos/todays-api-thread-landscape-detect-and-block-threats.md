@@ -1,6 +1,10 @@
 {
   "title": "Today’s API Thread Landscape: Detect and Block Threats",
   "type": "recording",
+  "tags": [
+    "API",
+    "Azure"
+  ],
   "date": "2020-09-15T17:47:45",
   "draft": false,
   "slug": "todays-api-thread-landscape-detect-and-block-threats",
@@ -16,7 +20,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "API",
       "slug": "api",

@@ -1,5 +1,8 @@
 {
   "title": "Seth Valdetero",
+  "tags": [
+    "Seth Valdetero"
+  ],
   "type": "speaker",
   "slug": "seth-valdetero",
   "date": "2014-09-13T19:28:41",

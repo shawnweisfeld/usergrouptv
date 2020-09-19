@@ -1,6 +1,9 @@
 {
   "title": "Social Media for Non-Profits",
   "type": "recording",
+  "tags": [
+    "Social Media"
+  ],
   "date": "2011-10-22T23:11:42",
   "draft": false,
   "slug": "social-media-for-non-profits",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Social Media",
       "slug": "social-media",

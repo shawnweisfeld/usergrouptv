@@ -1,5 +1,8 @@
 {
   "title": "Micronaut",
+  "tags": [
+    "Micronaut"
+  ],
   "type": "tag",
   "slug": "micronaut",
   "date": "2018-11-15T16:56:12",

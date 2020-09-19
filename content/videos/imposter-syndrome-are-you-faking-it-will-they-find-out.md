@@ -1,6 +1,9 @@
 {
   "title": "Imposter Syndrome: Are You Faking It & Will they Find Out?",
   "type": "recording",
+  "tags": [
+    "Developer"
+  ],
   "date": "2016-08-13T15:06:52",
   "draft": false,
   "slug": "imposter-syndrome-are-you-faking-it-will-they-find-out",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Developer",
       "slug": "developer",

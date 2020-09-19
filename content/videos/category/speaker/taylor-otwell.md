@@ -1,5 +1,8 @@
 {
   "title": "Taylor Otwell",
+  "tags": [
+    "Taylor Otwell"
+  ],
   "type": "speaker",
   "slug": "taylor-otwell",
   "date": "2017-10-06T16:05:41",

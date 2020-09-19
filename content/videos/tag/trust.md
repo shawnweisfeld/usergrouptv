@@ -1,5 +1,8 @@
 {
   "title": "Trust",
+  "tags": [
+    "Trust"
+  ],
   "type": "tag",
   "slug": "trust",
   "date": "2017-10-14T11:54:08",

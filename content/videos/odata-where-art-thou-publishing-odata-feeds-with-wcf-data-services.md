@@ -1,6 +1,9 @@
 {
   "title": "OData, Where Art Thou? Publishing OData Feeds with WCF Data Services",
   "type": "recording",
+  "tags": [
+    "OData"
+  ],
   "date": "2011-11-10T14:26:56",
   "draft": false,
   "slug": "odata-where-art-thou-publishing-odata-feeds-with-wcf-data-services",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "OData",
       "slug": "odata",

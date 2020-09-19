@@ -1,6 +1,9 @@
 {
   "title": "Microservices and Containers Austin",
   "type": "meetup",
+  "tags": [
+    "Microservices and Containers Austin"
+  ],
   "slug": "microservices-and-containers-austin",
   "date": "2016-04-21T10:57:35",
   "draft": false,

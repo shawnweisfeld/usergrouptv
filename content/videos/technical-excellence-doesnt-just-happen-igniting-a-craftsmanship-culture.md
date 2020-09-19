@@ -1,6 +1,9 @@
 {
   "title": "Technical Excellence Doesn't Just Happen – Igniting a Craftsmanship Culture",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2016-09-24T19:46:37",
   "draft": false,
   "slug": "technical-excellence-doesnt-just-happen-igniting-a-craftsmanship-culture",
@@ -22,7 +25,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

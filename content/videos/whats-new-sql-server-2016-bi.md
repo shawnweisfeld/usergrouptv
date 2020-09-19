@@ -1,6 +1,9 @@
 {
   "title": "What's New SQL Server 2016 (BI) ",
   "type": "recording",
+  "tags": [
+    "SQL Server"
+  ],
   "date": "2016-05-25T22:41:44",
   "draft": false,
   "slug": "whats-new-sql-server-2016-bi",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Server",
       "slug": "sql-server",

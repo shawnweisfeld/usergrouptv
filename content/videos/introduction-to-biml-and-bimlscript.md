@@ -1,6 +1,9 @@
 {
   "title": "Introduction to BIML and BIMLScript",
   "type": "recording",
+  "tags": [
+    "BIML"
+  ],
   "date": "2013-08-24T21:36:40",
   "draft": false,
   "slug": "introduction-to-biml-and-bimlscript",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "BIML",
       "slug": "biml",

@@ -1,6 +1,9 @@
 {
   "title": "Getting Started with Apache Spark",
   "type": "recording",
+  "tags": [
+    "Spark"
+  ],
   "date": "2020-02-08T16:27:50",
   "draft": false,
   "slug": "getting-started-with-apache-spark",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Spark",
       "slug": "spark",

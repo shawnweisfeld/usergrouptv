@@ -1,5 +1,8 @@
 {
   "title": "Logan McLain",
+  "tags": [
+    "Logan McLain"
+  ],
   "type": "speaker",
   "slug": "logan-mclain",
   "date": "2014-08-15T20:06:41",

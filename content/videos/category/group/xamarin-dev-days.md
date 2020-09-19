@@ -1,6 +1,9 @@
 {
   "title": "Xamarin Dev Days",
   "type": "meetup",
+  "tags": [
+    "Xamarin Dev Days"
+  ],
   "slug": "xamarin-dev-days",
   "date": "2015-06-06T16:45:54",
   "draft": false,

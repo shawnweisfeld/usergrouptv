@@ -1,6 +1,9 @@
 {
   "title": ".NET Reflection",
   "type": "recording",
+  "tags": [
+    "Reflection"
+  ],
   "date": "2011-09-13T04:48:29",
   "draft": false,
   "slug": "net-reflection",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Reflection",
       "slug": "reflection",

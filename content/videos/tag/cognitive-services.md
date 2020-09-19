@@ -1,5 +1,8 @@
 {
   "title": "Cognitive Services",
+  "tags": [
+    "Cognitive Services"
+  ],
   "type": "tag",
   "slug": "cognitive-services",
   "date": "2020-02-08T16:08:46",

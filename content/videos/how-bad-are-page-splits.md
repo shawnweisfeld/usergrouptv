@@ -1,6 +1,9 @@
 {
   "title": "How Bad Are Page Splits",
   "type": "recording",
+  "tags": [
+    "MS SQL"
+  ],
   "date": "2020-02-18T12:08:41",
   "draft": false,
   "slug": "how-bad-are-page-splits",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MS SQL",
       "slug": "ms-sql",

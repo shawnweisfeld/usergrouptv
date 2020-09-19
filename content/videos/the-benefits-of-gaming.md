@@ -1,6 +1,9 @@
 {
   "title": "The Benefits of Gaming",
   "type": "recording",
+  "tags": [
+    "Gaming"
+  ],
   "date": "2018-06-23T19:54:44",
   "draft": false,
   "slug": "the-benefits-of-gaming",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Gaming",
       "slug": "gaming",

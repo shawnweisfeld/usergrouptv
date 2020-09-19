@@ -1,6 +1,9 @@
 {
   "title": "Great Architecture is Easy",
   "type": "recording",
+  "tags": [
+    "Architecture"
+  ],
   "date": "2014-09-13T23:38:52",
   "draft": false,
   "slug": "great-architecture-is-easy",
@@ -16,7 +19,7 @@
       "count": 11
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Architecture",
       "slug": "architecture",

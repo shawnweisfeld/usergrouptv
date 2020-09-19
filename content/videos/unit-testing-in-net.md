@@ -1,6 +1,9 @@
 {
   "title": "Unit Testing in .NET",
   "type": "recording",
+  "tags": [
+    "unit testing"
+  ],
   "date": "2016-08-05T14:47:30",
   "draft": false,
   "slug": "unit-testing-in-net",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "unit testing",
       "slug": "unit-testing",

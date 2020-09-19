@@ -1,5 +1,8 @@
 {
   "title": "Women in Tech",
+  "tags": [
+    "Women in Tech"
+  ],
   "type": "tag",
   "slug": "women-in-tech",
   "date": "2015-09-12T16:26:40",

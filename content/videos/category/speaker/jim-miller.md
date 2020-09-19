@@ -1,5 +1,8 @@
 {
   "title": "Jim Miller",
+  "tags": [
+    "Jim Miller"
+  ],
   "type": "speaker",
   "slug": "jim-miller",
   "date": "2018-06-23T19:37:12",

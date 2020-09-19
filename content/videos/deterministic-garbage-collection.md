@@ -1,6 +1,10 @@
 {
   "title": "Deterministic Garbage Collection",
   "type": "recording",
+  "tags": [
+    "C#",
+    "Garbage Collection"
+  ],
   "date": "2012-09-11T14:29:26",
   "draft": false,
   "slug": "deterministic-garbage-collection",
@@ -16,7 +20,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "C#",
       "slug": "c",

@@ -1,5 +1,8 @@
 {
   "title": "SOLID",
+  "tags": [
+    "SOLID"
+  ],
   "type": "tag",
   "slug": "solid",
   "date": "2017-10-05T21:47:23",

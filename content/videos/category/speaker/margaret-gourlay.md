@@ -1,5 +1,8 @@
 {
   "title": "Margaret Gourlay",
+  "tags": [
+    "Margaret Gourlay"
+  ],
   "type": "speaker",
   "slug": "margaret-gourlay",
   "date": "2017-08-05T17:15:33",

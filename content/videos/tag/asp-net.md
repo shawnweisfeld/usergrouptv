@@ -1,5 +1,8 @@
 {
   "title": "ASP.NET",
+  "tags": [
+    "ASP.NET"
+  ],
   "type": "tag",
   "slug": "asp-net",
   "date": "2020-05-26T14:03:48",

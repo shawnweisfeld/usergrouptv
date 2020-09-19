@@ -1,6 +1,9 @@
 {
   "title": "Building Micro Services with Service Fabric",
   "type": "recording",
+  "tags": [
+    "Azure Service Fabric"
+  ],
   "date": "2016-04-06T10:25:59",
   "draft": false,
   "slug": "building-micro-services-with-service-fabric",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure Service Fabric",
       "slug": "azure-service-fabric",

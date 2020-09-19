@@ -1,5 +1,8 @@
 {
   "title": "jQuery Mobile",
+  "tags": [
+    "jQuery Mobile"
+  ],
   "type": "tag",
   "slug": "jquery-mobile",
   "date": "2012-10-12T15:36:01",

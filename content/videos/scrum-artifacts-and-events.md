@@ -1,6 +1,9 @@
 {
   "title": "Scrum Artifacts and Events",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2018-09-29T15:08:00",
   "draft": false,
   "slug": "scrum-artifacts-and-events",
@@ -16,7 +19,7 @@
       "count": 11
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

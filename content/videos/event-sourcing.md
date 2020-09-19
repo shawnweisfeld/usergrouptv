@@ -1,6 +1,11 @@
 {
   "title": "Event Sourcing",
   "type": "recording",
+  "tags": [
+    "DDD",
+    "CQRS",
+    "Event Sourcing"
+  ],
   "date": "2015-04-13T12:09:48",
   "draft": false,
   "slug": "event-sourcing",
@@ -16,7 +21,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "DDD",
       "slug": "ddd",

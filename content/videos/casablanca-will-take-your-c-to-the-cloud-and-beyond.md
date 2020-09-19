@@ -1,6 +1,10 @@
 {
   "title": "Casablanca will take your C++ to the Cloud and beyond",
   "type": "recording",
+  "tags": [
+    "C#",
+    "Casablanca"
+  ],
   "date": "2012-09-08T14:37:00",
   "draft": false,
   "slug": "casablanca-will-take-your-c-to-the-cloud-and-beyond",
@@ -16,7 +20,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "C#",
       "slug": "c",

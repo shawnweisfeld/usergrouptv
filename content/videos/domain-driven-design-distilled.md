@@ -1,6 +1,9 @@
 {
   "title": "Domain-Driven Design, Distilled ",
   "type": "recording",
+  "tags": [
+    "DDD"
+  ],
   "date": "2015-10-16T01:58:19",
   "draft": false,
   "slug": "domain-driven-design-distilled",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "DDD",
       "slug": "ddd",

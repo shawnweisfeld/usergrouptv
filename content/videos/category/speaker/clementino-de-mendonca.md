@@ -1,5 +1,8 @@
 {
   "title": "Clementino de Mendonca",
+  "tags": [
+    "Clementino de Mendonca"
+  ],
   "type": "speaker",
   "slug": "clementino-de-mendonca",
   "date": "2014-04-11T23:40:08",

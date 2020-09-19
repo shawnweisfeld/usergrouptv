@@ -1,6 +1,10 @@
 {
   "title": "Silverlight HTML Bridge with jQuery and ASP.NET MVC 3 ",
   "type": "recording",
+  "tags": [
+    "Silverlight",
+    "jQuery"
+  ],
   "date": "2011-10-04T04:53:54",
   "draft": false,
   "slug": "silverlight-html-bridge-with-jquery-and-asp-net-mvc-3",
@@ -16,7 +20,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Silverlight",
       "slug": "silverlight",

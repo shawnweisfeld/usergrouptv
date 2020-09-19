@@ -1,6 +1,10 @@
 {
   "title": "WebMatrix to ASP.NET MVC Web Camp: Part 5 - ASP.NET Web Forms vs. MVC",
   "type": "recording",
+  "tags": [
+    "MVC",
+    "Web Forms"
+  ],
   "date": "2011-05-16T01:04:01",
   "draft": false,
   "slug": "webmatrix-to-asp-net-mvc-web-camp-part-5-asp-net-web-forms-vs-mvc",
@@ -22,7 +26,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MVC",
       "slug": "mvc",

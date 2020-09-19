@@ -1,6 +1,9 @@
 {
   "title": "Connect with your Kinect",
   "type": "recording",
+  "tags": [
+    "Kinect"
+  ],
   "date": "2012-06-06T11:27:56",
   "draft": false,
   "slug": "connect-with-your-kinect",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Kinect",
       "slug": "kinect",

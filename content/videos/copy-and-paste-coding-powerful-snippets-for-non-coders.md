@@ -1,6 +1,9 @@
 {
   "title": "Copy and Paste Coding - Powerful snippets for non-coders",
   "type": "recording",
+  "tags": [
+    "joomla"
+  ],
   "date": "2019-09-28T16:15:32",
   "draft": false,
   "slug": "copy-and-paste-coding-powerful-snippets-for-non-coders",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "joomla",
       "slug": "joomla",

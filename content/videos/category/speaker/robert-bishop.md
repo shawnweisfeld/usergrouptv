@@ -1,5 +1,8 @@
 {
   "title": "Robert Bishop",
+  "tags": [
+    "Robert Bishop"
+  ],
   "type": "speaker",
   "slug": "robert-bishop",
   "date": "2017-06-17T14:16:28",

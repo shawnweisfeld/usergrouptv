@@ -1,5 +1,8 @@
 {
   "title": "Lisa Huang",
+  "tags": [
+    "Lisa Huang"
+  ],
   "type": "speaker",
   "slug": "lisa-huang",
   "date": "2017-10-05T21:56:40",

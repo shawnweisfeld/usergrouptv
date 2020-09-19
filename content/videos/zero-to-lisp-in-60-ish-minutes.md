@@ -1,6 +1,9 @@
 {
   "title": "Zero To Lisp In 60-ish Minutes",
   "type": "recording",
+  "tags": [
+    "Lisp"
+  ],
   "date": "2014-09-13T23:53:12",
   "draft": false,
   "slug": "zero-to-lisp-in-60-ish-minutes",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Lisp",
       "slug": "lisp",

@@ -1,5 +1,8 @@
 {
   "title": "Roberto Cavalcanti",
+  "tags": [
+    "Roberto Cavalcanti"
+  ],
   "type": "speaker",
   "slug": "roberto-cavalcanti",
   "date": "2017-03-04T22:12:22",

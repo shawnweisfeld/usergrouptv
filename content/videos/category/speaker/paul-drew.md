@@ -1,5 +1,8 @@
 {
   "title": "Paul Drew",
+  "tags": [
+    "Paul Drew"
+  ],
   "type": "speaker",
   "slug": "paul-drew",
   "date": "2014-11-19T12:33:51",

@@ -1,5 +1,8 @@
 {
   "title": "Mongo DB",
+  "tags": [
+    "Mongo DB"
+  ],
   "type": "tag",
   "slug": "mongo-db",
   "date": "2017-06-12T13:57:52",

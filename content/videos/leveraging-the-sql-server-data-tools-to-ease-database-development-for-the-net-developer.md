@@ -1,6 +1,9 @@
 {
   "title": "Leveraging the SQL Server Data Tools to ease Database development for the .NET Developer",
   "type": "recording",
+  "tags": [
+    "SSDT"
+  ],
   "date": "2014-05-16T10:05:10",
   "draft": false,
   "slug": "leveraging-the-sql-server-data-tools-to-ease-database-development-for-the-net-developer",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SSDT",
       "slug": "ssdt",

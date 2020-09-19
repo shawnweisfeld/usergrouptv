@@ -1,6 +1,9 @@
 {
   "title": "C# 6, 7 And Beyond",
   "type": "recording",
+  "tags": [
+    "C#"
+  ],
   "date": "2018-10-13T14:11:03",
   "draft": false,
   "slug": "c-6-7-and-beyond",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "C#",
       "slug": "c",

@@ -1,6 +1,7 @@
 {
   "title": "Full Stack Development with .NET and NoSQL ",
   "type": "recording",
+  "tags": [],
   "date": "2016-10-10T11:59:51",
   "draft": false,
   "slug": "full-stack-development-with-net-and-nosql",
@@ -16,7 +17,7 @@
       "count": 2
     }
   ],
-  "tags": [],
+  "ugtvtags": [],
   "meetups": [
     {
       "name": "Austin .NET UG",

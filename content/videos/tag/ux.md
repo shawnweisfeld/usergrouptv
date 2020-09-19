@@ -1,5 +1,8 @@
 {
   "title": "UX",
+  "tags": [
+    "UX"
+  ],
   "type": "tag",
   "slug": "ux",
   "date": "2017-08-06T16:24:37",

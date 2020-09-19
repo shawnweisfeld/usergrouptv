@@ -1,5 +1,8 @@
 {
   "title": "Wes Brown",
+  "tags": [
+    "Wes Brown"
+  ],
   "type": "speaker",
   "slug": "wes-brown",
   "date": "2011-08-27T20:49:06",

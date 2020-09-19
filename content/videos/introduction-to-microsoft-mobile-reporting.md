@@ -1,6 +1,9 @@
 {
   "title": "Introduction to Microsoft Mobile Reporting",
   "type": "recording",
+  "tags": [
+    "Microsoft Mobile Reporting"
+  ],
   "date": "2016-05-14T12:25:19",
   "draft": false,
   "slug": "introduction-to-microsoft-mobile-reporting",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Microsoft Mobile Reporting",
       "slug": "microsoft-mobile-reporting",

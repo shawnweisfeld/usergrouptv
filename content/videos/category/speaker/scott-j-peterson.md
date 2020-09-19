@@ -1,5 +1,8 @@
 {
   "title": "Scott J Peterson",
+  "tags": [
+    "Scott J Peterson"
+  ],
   "type": "speaker",
   "slug": "scott-j-peterson",
   "date": "2017-10-14T11:41:37",

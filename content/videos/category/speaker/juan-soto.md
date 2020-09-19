@@ -1,5 +1,8 @@
 {
   "title": "Juan Soto",
+  "tags": [
+    "Juan Soto"
+  ],
   "type": "speaker",
   "slug": "juan-soto",
   "date": "2018-05-19T23:05:15",

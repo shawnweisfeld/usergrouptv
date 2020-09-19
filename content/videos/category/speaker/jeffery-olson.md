@@ -1,5 +1,8 @@
 {
   "title": "Jeffery Olson",
+  "tags": [
+    "Jeffery Olson"
+  ],
   "type": "speaker",
   "slug": "jeffery-olson",
   "date": "2014-09-13T23:53:12",

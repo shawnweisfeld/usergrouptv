@@ -1,5 +1,8 @@
 {
   "title": "caf",
+  "tags": [
+    "caf"
+  ],
   "type": "tag",
   "slug": "caf",
   "date": "2020-07-21T18:08:37",

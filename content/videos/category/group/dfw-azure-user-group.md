@@ -1,6 +1,9 @@
 {
   "title": "DFW Azure User Group",
   "type": "meetup",
+  "tags": [
+    "DFW Azure User Group"
+  ],
   "slug": "dfw-azure-user-group",
   "date": "2020-09-15T17:47:45",
   "draft": false,

@@ -1,6 +1,9 @@
 {
   "title": "Backlog Confessions - Technical User Stories",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2018-05-24T16:55:02",
   "draft": false,
   "slug": "backlog-confessions-technical-user-stories",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

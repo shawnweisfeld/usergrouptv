@@ -1,5 +1,8 @@
 {
   "title": "Kenneth Fisher",
+  "tags": [
+    "Kenneth Fisher"
+  ],
   "type": "speaker",
   "slug": "kenneth-fisher",
   "date": "2018-08-25T19:25:44",

@@ -1,5 +1,8 @@
 {
   "title": "Jupyter Notebook",
+  "tags": [
+    "Jupyter Notebook"
+  ],
   "type": "tag",
   "slug": "jupyter-notebook",
   "date": "2020-02-08T16:14:32",

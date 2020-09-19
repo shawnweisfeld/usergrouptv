@@ -1,6 +1,9 @@
 {
   "title": "Durandal - Finally a SPA Framework that Works",
   "type": "recording",
+  "tags": [
+    "Durandal"
+  ],
   "date": "2014-06-14T10:55:45",
   "draft": false,
   "slug": "durandal-finally-a-spa-framework-that-works",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Durandal",
       "slug": "durandal",

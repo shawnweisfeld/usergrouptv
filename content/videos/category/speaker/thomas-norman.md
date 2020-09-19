@@ -1,5 +1,8 @@
 {
   "title": "Thomas Norman",
+  "tags": [
+    "Thomas Norman"
+  ],
   "type": "speaker",
   "slug": "thomas-norman",
   "date": "2018-06-23T19:55:55",

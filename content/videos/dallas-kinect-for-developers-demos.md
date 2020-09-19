@@ -1,6 +1,9 @@
 {
   "title": "Dallas Kinect for Developers Demos",
   "type": "recording",
+  "tags": [
+    "Kinect"
+  ],
   "date": "2012-01-29T14:40:11",
   "draft": false,
   "slug": "dallas-kinect-for-developers-demos",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Kinect",
       "slug": "kinect",

@@ -1,6 +1,9 @@
 {
   "title": "Online and Offline Mobile Applications with Correspondence ",
   "type": "recording",
+  "tags": [
+    "Correspondence"
+  ],
   "date": "2013-04-27T13:10:15",
   "draft": false,
   "slug": "online-and-offline-mobile-applications-with-correspondence",
@@ -16,7 +19,7 @@
       "count": 22
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Correspondence",
       "slug": "correspondence",

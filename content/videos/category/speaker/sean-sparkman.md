@@ -1,5 +1,8 @@
 {
   "title": "Sean Sparkman",
+  "tags": [
+    "Sean Sparkman"
+  ],
   "type": "speaker",
   "slug": "sean-sparkman",
   "date": "2017-10-06T22:28:33",

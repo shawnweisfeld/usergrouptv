@@ -1,6 +1,9 @@
 {
   "title": "Austin Power BI User Group",
   "type": "meetup",
+  "tags": [
+    "Austin Power BI User Group"
+  ],
   "slug": "austin-power-bi-user-group",
   "date": "2020-09-09T15:22:13",
   "draft": false,

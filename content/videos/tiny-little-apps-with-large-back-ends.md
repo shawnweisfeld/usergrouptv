@@ -1,6 +1,10 @@
 {
   "title": " Tiny little apps with large back-ends",
   "type": "recording",
+  "tags": [
+    "Azure",
+    "win8"
+  ],
   "date": "2012-12-13T16:13:44",
   "draft": false,
   "slug": "tiny-little-apps-with-large-back-ends",
@@ -16,7 +20,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

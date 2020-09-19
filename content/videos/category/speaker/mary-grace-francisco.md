@@ -1,5 +1,8 @@
 {
   "title": "Mary Grace Francisco",
+  "tags": [
+    "Mary Grace Francisco"
+  ],
   "type": "speaker",
   "slug": "mary-grace-francisco",
   "date": "2019-10-04T16:51:06",

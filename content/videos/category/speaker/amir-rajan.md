@@ -1,5 +1,8 @@
 {
   "title": "Amir Rajan",
+  "tags": [
+    "Amir Rajan"
+  ],
   "type": "speaker",
   "slug": "amir-rajan",
   "date": "2011-10-05T21:48:08",

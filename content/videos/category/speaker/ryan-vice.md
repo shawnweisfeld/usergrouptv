@@ -1,5 +1,8 @@
 {
   "title": "Ryan Vice",
+  "tags": [
+    "Ryan Vice"
+  ],
   "type": "speaker",
   "slug": "ryan-vice",
   "date": "2017-01-26T15:25:59",

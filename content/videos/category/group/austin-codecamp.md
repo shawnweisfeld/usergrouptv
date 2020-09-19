@@ -1,6 +1,9 @@
 {
   "title": "Austin CodeCamp",
   "type": "meetup",
+  "tags": [
+    "Austin CodeCamp"
+  ],
   "slug": "austin-codecamp",
   "date": "2013-08-17T22:13:38",
   "draft": false,

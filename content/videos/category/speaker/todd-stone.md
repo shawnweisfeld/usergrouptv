@@ -1,5 +1,8 @@
 {
   "title": "Todd Stone",
+  "tags": [
+    "Todd Stone"
+  ],
   "type": "speaker",
   "slug": "todd-stone",
   "date": "2011-05-24T18:16:17",

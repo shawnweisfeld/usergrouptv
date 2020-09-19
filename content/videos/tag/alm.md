@@ -1,5 +1,8 @@
 {
   "title": "ALM",
+  "tags": [
+    "ALM"
+  ],
   "type": "tag",
   "slug": "alm",
   "date": "2013-03-01T20:39:55",

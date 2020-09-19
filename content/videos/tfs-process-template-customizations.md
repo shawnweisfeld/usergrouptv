@@ -1,6 +1,9 @@
 {
   "title": "TFS Process Template Customizations",
   "type": "recording",
+  "tags": [
+    "TFS"
+  ],
   "date": "2015-02-07T03:43:49",
   "draft": false,
   "slug": "tfs-process-template-customizations",
@@ -22,7 +25,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "TFS",
       "slug": "tfs",

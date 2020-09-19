@@ -1,6 +1,9 @@
 {
   "title": "Modern UIs with Knockoutjs and Stateful CSS ",
   "type": "recording",
+  "tags": [
+    "Knockout.js"
+  ],
   "date": "2015-10-16T02:08:48",
   "draft": false,
   "slug": "modern-uis-with-knockoutjs-and-stateful-css",
@@ -22,7 +25,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Knockout.js",
       "slug": "knockout-js",

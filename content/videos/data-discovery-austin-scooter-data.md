@@ -1,6 +1,9 @@
 {
   "title": "Data Discovery: Austin Scooter Data",
   "type": "recording",
+  "tags": [
+    "Power BI"
+  ],
   "date": "2020-01-08T16:17:29",
   "draft": false,
   "slug": "data-discovery-austin-scooter-data",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Power BI",
       "slug": "power-bi",

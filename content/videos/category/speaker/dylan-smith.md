@@ -1,5 +1,8 @@
 {
   "title": "Dylan Smith",
+  "tags": [
+    "Dylan Smith"
+  ],
   "type": "speaker",
   "slug": "dylan-smith",
   "date": "2017-01-18T19:22:32",

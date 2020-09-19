@@ -1,6 +1,9 @@
 {
   "title": "Why Should I Care About ... Partitioned Views?",
   "type": "recording",
+  "tags": [
+    "SQL Performance"
+  ],
   "date": "2018-05-19T22:57:56",
   "draft": false,
   "slug": "why-should-i-care-about-partitioned-views",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Performance",
       "slug": "sql-performance",

@@ -1,5 +1,8 @@
 {
   "title": "jQuery",
+  "tags": [
+    "jQuery"
+  ],
   "type": "tag",
   "slug": "jquery",
   "date": "2013-10-11T21:19:13",

@@ -1,5 +1,8 @@
 {
   "title": "Robert Taylor",
+  "tags": [
+    "Robert Taylor"
+  ],
   "type": "speaker",
   "slug": "robert-taylor",
   "date": "2019-06-24T16:41:59",

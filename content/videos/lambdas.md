@@ -1,6 +1,10 @@
 {
   "title": "Lambdas",
   "type": "recording",
+  "tags": [
+    "Lambdas",
+    "C#"
+  ],
   "date": "2011-03-08T19:08:20",
   "draft": false,
   "slug": "lambdas",
@@ -16,7 +20,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Lambdas",
       "slug": "lambdas",

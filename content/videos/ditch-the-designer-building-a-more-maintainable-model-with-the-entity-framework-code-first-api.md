@@ -1,6 +1,9 @@
 {
   "title": "Ditch the Designer: Building a More Maintainable Model with the Entity Framework Code-First API ",
   "type": "recording",
+  "tags": [
+    "EF Code First"
+  ],
   "date": "2011-09-27T04:51:42",
   "draft": false,
   "slug": "ditch-the-designer-building-a-more-maintainable-model-with-the-entity-framework-code-first-api",
@@ -16,7 +19,7 @@
       "count": 12
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "EF Code First",
       "slug": "ef-code-first",

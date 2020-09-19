@@ -1,5 +1,8 @@
 {
   "title": "Steven Lowe",
+  "tags": [
+    "Steven Lowe"
+  ],
   "type": "speaker",
   "slug": "steven-lowe",
   "date": "2015-10-16T01:58:19",

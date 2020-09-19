@@ -1,6 +1,9 @@
 {
   "title": "A Primer on SQL Server Clustered Index Architecture",
   "type": "recording",
+  "tags": [
+    "MS SQL"
+  ],
   "date": "2019-01-15T15:51:29",
   "draft": false,
   "slug": "a-primer-on-sql-server-clustered-index-architecture",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MS SQL",
       "slug": "ms-sql",

@@ -1,5 +1,8 @@
 {
   "title": "Raif Harik",
+  "tags": [
+    "Raif Harik"
+  ],
   "type": "speaker",
   "slug": "raif-harik",
   "date": "2015-04-13T12:09:48",

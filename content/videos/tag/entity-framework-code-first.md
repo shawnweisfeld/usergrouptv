@@ -1,5 +1,8 @@
 {
   "title": "Entity Framework Code First",
+  "tags": [
+    "Entity Framework Code First"
+  ],
   "type": "tag",
   "slug": "entity-framework-code-first",
   "date": "2011-06-02T01:45:08",

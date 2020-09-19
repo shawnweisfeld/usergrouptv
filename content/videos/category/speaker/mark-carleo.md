@@ -1,5 +1,8 @@
 {
   "title": "Mark Carleo",
+  "tags": [
+    "Mark Carleo"
+  ],
   "type": "speaker",
   "slug": "mark-carleo",
   "date": "2017-10-05T21:45:34",

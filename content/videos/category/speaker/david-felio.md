@@ -1,5 +1,8 @@
 {
   "title": "David Felio",
+  "tags": [
+    "David Felio"
+  ],
   "type": "speaker",
   "slug": "david-felio",
   "date": "2014-09-26T18:59:29",

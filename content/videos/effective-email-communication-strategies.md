@@ -1,6 +1,9 @@
 {
   "title": "EFFECTIVE EMAIL COMMUNICATION STRATEGIES",
   "type": "recording",
+  "tags": [
+    "email"
+  ],
   "date": "2017-08-05T17:14:36",
   "draft": false,
   "slug": "effective-email-communication-strategies",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "email",
       "slug": "email",

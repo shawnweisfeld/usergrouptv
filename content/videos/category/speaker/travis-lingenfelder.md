@@ -1,5 +1,8 @@
 {
   "title": "Travis Lingenfelder",
+  "tags": [
+    "Travis Lingenfelder"
+  ],
   "type": "speaker",
   "slug": "travis-lingenfelder",
   "date": "2017-05-10T20:17:08",

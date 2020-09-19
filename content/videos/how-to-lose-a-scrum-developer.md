@@ -1,6 +1,9 @@
 {
   "title": "HOW TO LOSE A SCRUM DEVELOPER",
   "type": "recording",
+  "tags": [
+    "Scrum"
+  ],
   "date": "2014-08-22T16:38:39",
   "draft": false,
   "slug": "how-to-lose-a-scrum-developer",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Scrum",
       "slug": "scrum",

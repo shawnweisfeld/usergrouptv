@@ -1,6 +1,9 @@
 {
   "title": "What's New for ALM in Visual Studio 2013 and Team Foundation Server 2013",
   "type": "recording",
+  "tags": [
+    "VS2013"
+  ],
   "date": "2014-09-26T19:10:12",
   "draft": false,
   "slug": "whats-new-for-alm-in-visual-studio-2013-and-team-foundation-server-2013",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "VS2013",
       "slug": "vs2013",

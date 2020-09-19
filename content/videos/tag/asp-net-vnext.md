@@ -1,5 +1,8 @@
 {
   "title": "ASP.NET vNext",
+  "tags": [
+    "ASP.NET vNext"
+  ],
   "type": "tag",
   "slug": "asp-net-vnext",
   "date": "2015-09-26T12:10:38",

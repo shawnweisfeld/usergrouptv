@@ -1,5 +1,8 @@
 {
   "title": "Miguel Gonzalez",
+  "tags": [
+    "Miguel Gonzalez"
+  ],
   "type": "speaker",
   "slug": "miguel-gonzalez",
   "date": "2016-09-24T19:56:29",

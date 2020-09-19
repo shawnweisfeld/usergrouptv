@@ -1,6 +1,9 @@
 {
   "title": "New in Windows 8 - Search and Share",
   "type": "recording",
+  "tags": [
+    "win8"
+  ],
   "date": "2012-08-21T21:09:18",
   "draft": false,
   "slug": "new-in-windows-8-search-and-share",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "win8",
       "slug": "win8",

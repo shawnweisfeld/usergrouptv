@@ -1,5 +1,8 @@
 {
   "title": "Mike Rieser",
+  "tags": [
+    "Mike Rieser"
+  ],
   "type": "speaker",
   "slug": "mike-rieser",
   "date": "2016-09-24T19:46:37",

@@ -1,6 +1,9 @@
 {
   "title": "The class that knew too much: refactoring spaghetti code",
   "type": "recording",
+  "tags": [
+    "Single Responsibility"
+  ],
   "date": "2013-08-17T22:05:55",
   "draft": false,
   "slug": "the-class-that-knew-too-much-refactoring-spaghetti-code",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Single Responsibility",
       "slug": "single-responsibility",

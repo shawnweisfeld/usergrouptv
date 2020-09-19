@@ -1,6 +1,9 @@
 {
   "title": "In-Memory Indexes: SpaceX® Performance!",
   "type": "recording",
+  "tags": [
+    "SQL Performance"
+  ],
   "date": "2018-06-23T19:41:14",
   "draft": false,
   "slug": "in-memory-indexes-spacex-performance",
@@ -16,7 +19,7 @@
       "count": 9
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Performance",
       "slug": "sql-performance",

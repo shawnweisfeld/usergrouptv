@@ -1,5 +1,8 @@
 {
   "title": "Big Data",
+  "tags": [
+    "Big Data"
+  ],
   "type": "tag",
   "slug": "big-data",
   "date": "2019-03-13T15:44:36",

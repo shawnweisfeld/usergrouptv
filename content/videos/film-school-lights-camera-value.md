@@ -1,6 +1,9 @@
 {
   "title": "FILM SCHOOL - LIGHTS, CAMERA, VALUE",
   "type": "recording",
+  "tags": [
+    "Developer"
+  ],
   "date": "2014-08-22T17:28:39",
   "draft": false,
   "slug": "film-school-lights-camera-value",
@@ -16,7 +19,7 @@
       "count": 11
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Developer",
       "slug": "developer",

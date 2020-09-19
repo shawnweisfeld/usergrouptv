@@ -1,6 +1,9 @@
 {
   "title": "HA 101 - Which High Availability Feature(s) Are For You?",
   "type": "recording",
+  "tags": [
+    "SQL AlwaysOn"
+  ],
   "date": "2017-07-18T13:59:05",
   "draft": false,
   "slug": "ha-101-which-high-availability-features-are-for-you",
@@ -16,7 +19,7 @@
       "count": 18
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL AlwaysOn",
       "slug": "sql-alwayson",

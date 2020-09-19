@@ -1,5 +1,8 @@
 {
   "title": "NServiceBus",
+  "tags": [
+    "NServiceBus"
+  ],
   "type": "tag",
   "slug": "nservicebus",
   "date": "2015-09-26T12:03:11",

@@ -1,6 +1,9 @@
 {
   "title": "DESIGNING, ARCHITECTING AND BUILDING TEAMS FOR DISRUPTIVE TECHNOLOGIES",
   "type": "recording",
+  "tags": [
+    "Team building"
+  ],
   "date": "2017-08-06T16:42:03",
   "draft": false,
   "slug": "designing-architecting-and-building-teams-for-disruptive-technologies",
@@ -22,7 +25,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Team building",
       "slug": "team-building",

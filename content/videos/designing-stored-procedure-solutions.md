@@ -1,6 +1,9 @@
 {
   "title": "Designing Stored Procedure Solutions",
   "type": "recording",
+  "tags": [
+    "Sproc"
+  ],
   "date": "2015-08-29T14:21:45",
   "draft": false,
   "slug": "designing-stored-procedure-solutions",
@@ -16,7 +19,7 @@
       "count": 7
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Sproc",
       "slug": "sproc",

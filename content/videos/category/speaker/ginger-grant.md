@@ -1,5 +1,8 @@
 {
   "title": "Ginger Grant",
+  "tags": [
+    "Ginger Grant"
+  ],
   "type": "speaker",
   "slug": "ginger-grant",
   "date": "2020-02-08T16:30:20",

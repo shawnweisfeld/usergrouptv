@@ -1,5 +1,8 @@
 {
   "title": "Pete Hodgson",
+  "tags": [
+    "Pete Hodgson"
+  ],
   "type": "speaker",
   "slug": "pete-hodgson",
   "date": "2014-10-10T11:26:28",

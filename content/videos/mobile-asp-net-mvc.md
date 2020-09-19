@@ -1,6 +1,11 @@
 {
   "title": "Mobile ASP.NET MVC",
   "type": "recording",
+  "tags": [
+    "MVC",
+    "Mobile",
+    "ASP.NET"
+  ],
   "date": "2013-06-05T19:38:11",
   "draft": false,
   "slug": "mobile-asp-net-mvc",
@@ -16,7 +21,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MVC",
       "slug": "mvc",

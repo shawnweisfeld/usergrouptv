@@ -1,6 +1,9 @@
 {
   "title": "Scripting out SQL Server for Documentation and Disaster Recovery",
   "type": "recording",
+  "tags": [
+    "SQL Admin"
+  ],
   "date": "2015-08-29T14:23:15",
   "draft": false,
   "slug": "scripting-out-sql-server-for-documentation-and-disaster-recovery",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Admin",
       "slug": "sql-admin",

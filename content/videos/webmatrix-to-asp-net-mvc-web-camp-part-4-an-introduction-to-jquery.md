@@ -1,6 +1,9 @@
 {
   "title": "WebMatrix to ASP.NET MVC Web Camp: Part 4 - An Introduction to jQuery",
   "type": "recording",
+  "tags": [
+    "jQuery"
+  ],
   "date": "2011-05-16T01:01:40",
   "draft": false,
   "slug": "webmatrix-to-asp-net-mvc-web-camp-part-4-an-introduction-to-jquery",
@@ -22,7 +25,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "jQuery",
       "slug": "jquery",

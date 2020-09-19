@@ -1,6 +1,9 @@
 {
   "title": "THE AGILE BA",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2014-08-22T17:36:13",
   "draft": false,
   "slug": "the-agile-ba",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

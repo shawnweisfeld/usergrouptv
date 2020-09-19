@@ -1,6 +1,9 @@
 {
   "title": "Little Rock Tech Fest 2017 Opening Remarks",
   "type": "recording",
+  "tags": [
+    "Keynote"
+  ],
   "date": "2017-10-05T21:42:16",
   "draft": false,
   "slug": "little-rock-tech-fest-2017-opening-remarks",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Keynote",
       "slug": "keynote",

@@ -1,6 +1,9 @@
 {
   "title": "On the Edge: Introducing the new browser and rendering engine from Microsoft",
   "type": "recording",
+  "tags": [
+    "edge"
+  ],
   "date": "2015-07-15T13:42:47",
   "draft": false,
   "slug": "on-the-edge-introducing-the-new-browser-and-rendering-engine-from-microsoft",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "edge",
       "slug": "edge",

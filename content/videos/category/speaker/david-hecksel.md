@@ -1,5 +1,8 @@
 {
   "title": "David Hecksel",
+  "tags": [
+    "David Hecksel"
+  ],
   "type": "speaker",
   "slug": "david-hecksel",
   "date": "2012-08-24T00:11:05",

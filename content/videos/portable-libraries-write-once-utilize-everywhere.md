@@ -1,6 +1,9 @@
 {
   "title": "Portable Libraries: Write Once, Utilize Everywhere",
   "type": "recording",
+  "tags": [
+    "Portable Class Library"
+  ],
   "date": "2012-08-09T17:18:12",
   "draft": false,
   "slug": "portable-libraries-write-once-utilize-everywhere",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Portable Class Library",
       "slug": "portable-class-library",

@@ -1,5 +1,8 @@
 {
   "title": "Paul DeCarlo",
+  "tags": [
+    "Paul DeCarlo"
+  ],
   "type": "speaker",
   "slug": "paul-decarlo",
   "date": "2017-10-14T12:00:28",

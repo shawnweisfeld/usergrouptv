@@ -1,6 +1,9 @@
 {
   "title": "Using Azure ARM Templates for Dev and Test Environments ",
   "type": "recording",
+  "tags": [
+    "Azure"
+  ],
   "date": "2017-01-18T19:22:32",
   "draft": false,
   "slug": "using-azure-arm-templates-for-dev-and-test-environments",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",

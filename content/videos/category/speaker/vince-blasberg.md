@@ -1,5 +1,8 @@
 {
   "title": "Vince Blasberg",
+  "tags": [
+    "Vince Blasberg"
+  ],
   "type": "speaker",
   "slug": "vince-blasberg",
   "date": "2012-06-05T11:24:18",

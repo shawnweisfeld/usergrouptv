@@ -1,5 +1,8 @@
 {
   "title": "Robert Burger",
+  "tags": [
+    "Robert Burger"
+  ],
   "type": "speaker",
   "slug": "robert-burger",
   "date": "2011-03-12T19:52:14",

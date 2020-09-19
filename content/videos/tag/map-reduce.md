@@ -1,5 +1,8 @@
 {
   "title": "Map Reduce",
+  "tags": [
+    "Map Reduce"
+  ],
   "type": "tag",
   "slug": "map-reduce",
   "date": "2012-08-24T00:50:30",

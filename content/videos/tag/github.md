@@ -1,5 +1,8 @@
 {
   "title": "GitHub",
+  "tags": [
+    "GitHub"
+  ],
   "type": "tag",
   "slug": "github",
   "date": "2019-11-19T16:17:46",

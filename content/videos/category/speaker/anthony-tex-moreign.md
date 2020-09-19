@@ -1,5 +1,8 @@
 {
   "title": "Anthony Tex Moreign",
+  "tags": [
+    "Anthony Tex Moreign"
+  ],
   "type": "speaker",
   "slug": "anthony-tex-moreign",
   "date": "2018-06-23T19:45:03",

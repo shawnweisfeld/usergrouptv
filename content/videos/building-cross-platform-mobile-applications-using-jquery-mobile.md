@@ -1,6 +1,9 @@
 {
   "title": "Building cross-platform mobile applications using jQuery Mobile",
   "type": "recording",
+  "tags": [
+    "jQuery Mobile"
+  ],
   "date": "2012-10-12T15:36:01",
   "draft": false,
   "slug": "building-cross-platform-mobile-applications-using-jquery-mobile",
@@ -16,7 +19,7 @@
       "count": 3
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "jQuery Mobile",
       "slug": "jquery-mobile",

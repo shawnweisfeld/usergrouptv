@@ -1,6 +1,9 @@
 {
   "title": "Using PowerBI to mine data from the web",
   "type": "recording",
+  "tags": [
+    "PowerBI"
+  ],
   "date": "2019-06-20T15:54:13",
   "draft": false,
   "slug": "using-powerbi-to-mine-data-from-the-web",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "PowerBI",
       "slug": "powerbi",

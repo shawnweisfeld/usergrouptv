@@ -1,6 +1,11 @@
 {
   "title": "HTML5 WEBSOCKETS: Real-Time Web",
   "type": "recording",
+  "tags": [
+    "Nodejs",
+    "HTML5",
+    "web sockets"
+  ],
   "date": "2012-08-14T19:35:46",
   "draft": false,
   "slug": "html5-websockets-real-time-web",
@@ -16,7 +21,7 @@
       "count": 10
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Nodejs",
       "slug": "nodejs",

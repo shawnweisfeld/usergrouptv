@@ -1,5 +1,8 @@
 {
   "title": "TypeScript",
+  "tags": [
+    "TypeScript"
+  ],
   "type": "tag",
   "slug": "typescript",
   "date": "2013-10-11T21:22:29",

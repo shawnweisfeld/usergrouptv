@@ -1,6 +1,9 @@
 {
   "title": "Have Your Best Season Yet: Becoming a (Microsoft) MVP",
   "type": "recording",
+  "tags": [
+    "Microsoft MVP"
+  ],
   "date": "2017-10-05T21:48:47",
   "draft": false,
   "slug": "have-your-best-season-yet-becoming-a-microsoft-mvp",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Microsoft MVP",
       "slug": "microsoft-mvp",

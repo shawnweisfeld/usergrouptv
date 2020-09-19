@@ -1,5 +1,8 @@
 {
   "title": "Cecy Correa",
+  "tags": [
+    "Cecy Correa"
+  ],
   "type": "speaker",
   "slug": "cecy-correa",
   "date": "2017-08-06T17:01:27",

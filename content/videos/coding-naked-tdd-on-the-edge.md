@@ -1,6 +1,9 @@
 {
   "title": "CODING NAKED - TDD ON THE EDGE",
   "type": "recording",
+  "tags": [
+    "TDD"
+  ],
   "date": "2013-03-16T20:59:00",
   "draft": false,
   "slug": "coding-naked-tdd-on-the-edge",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "TDD",
       "slug": "tdd",

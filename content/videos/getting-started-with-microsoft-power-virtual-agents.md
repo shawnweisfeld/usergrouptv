@@ -1,6 +1,9 @@
 {
   "title": "Getting started with Microsoft Power Virtual Agents",
   "type": "recording",
+  "tags": [
+    "Power Virtual Agents"
+  ],
   "date": "2020-01-08T16:14:38",
   "draft": false,
   "slug": "getting-started-with-microsoft-power-virtual-agents",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Power Virtual Agents",
       "slug": "power-virtual-agents",

@@ -1,6 +1,9 @@
 {
   "title": "What can Python in SQL Server do for you?",
   "type": "recording",
+  "tags": [
+    "MS SQL"
+  ],
   "date": "2018-09-18T23:10:26",
   "draft": false,
   "slug": "what-can-python-in-sql-server-do-for-you",
@@ -16,7 +19,7 @@
       "count": 4
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MS SQL",
       "slug": "ms-sql",

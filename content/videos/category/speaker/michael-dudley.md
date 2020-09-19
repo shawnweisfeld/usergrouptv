@@ -1,5 +1,8 @@
 {
   "title": "Michael Dudley",
+  "tags": [
+    "Michael Dudley"
+  ],
   "type": "speaker",
   "slug": "michael-dudley",
   "date": "2014-06-14T10:55:45",

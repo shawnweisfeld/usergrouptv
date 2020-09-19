@@ -1,5 +1,8 @@
 {
   "title": "Joydeep Ghosh",
+  "tags": [
+    "Joydeep Ghosh"
+  ],
   "type": "speaker",
   "slug": "joydeep-ghosh",
   "date": "2019-04-27T13:44:15",

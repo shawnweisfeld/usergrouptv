@@ -1,5 +1,8 @@
 {
   "title": "Eric Sowell",
+  "tags": [
+    "Eric Sowell"
+  ],
   "type": "speaker",
   "slug": "eric-sowell",
   "date": "2014-10-10T10:57:37",

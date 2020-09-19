@@ -1,5 +1,8 @@
 {
   "title": "TSQL",
+  "tags": [
+    "TSQL"
+  ],
   "type": "tag",
   "slug": "tsql",
   "date": "2019-11-19T16:20:04",

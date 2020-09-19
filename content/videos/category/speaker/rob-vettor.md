@@ -1,5 +1,8 @@
 {
   "title": "Rob Vettor",
+  "tags": [
+    "Rob Vettor"
+  ],
   "type": "speaker",
   "slug": "rob-vettor",
   "date": "2012-06-19T11:33:03",

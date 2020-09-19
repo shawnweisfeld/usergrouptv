@@ -1,5 +1,8 @@
 {
   "title": "Sunil Kowlgi",
+  "tags": [
+    "Sunil Kowlgi"
+  ],
   "type": "speaker",
   "slug": "sunil-kowlgi",
   "date": "2018-05-05T15:57:19",

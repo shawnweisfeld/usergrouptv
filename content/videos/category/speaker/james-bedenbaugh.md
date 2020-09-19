@@ -1,5 +1,8 @@
 {
   "title": "James Bedenbaugh",
+  "tags": [
+    "James Bedenbaugh"
+  ],
   "type": "speaker",
   "slug": "james-bedenbaugh",
   "date": "2017-07-21T14:07:04",

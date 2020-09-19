@@ -1,6 +1,9 @@
 {
   "title": "Building a DevOps Culture",
   "type": "recording",
+  "tags": [
+    "DevOps"
+  ],
   "date": "2014-09-13T23:35:58",
   "draft": false,
   "slug": "building-a-devops-culture",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "DevOps",
       "slug": "devops",

@@ -1,5 +1,8 @@
 {
   "title": "Jay Smith",
+  "tags": [
+    "Jay Smith"
+  ],
   "type": "speaker",
   "slug": "jay-smith",
   "date": "2012-08-24T12:56:03",

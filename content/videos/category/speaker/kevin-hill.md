@@ -1,5 +1,8 @@
 {
   "title": "Kevin Hill",
+  "tags": [
+    "Kevin Hill"
+  ],
   "type": "speaker",
   "slug": "kevin-hill",
   "date": "2017-06-17T14:22:38",

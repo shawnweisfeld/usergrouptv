@@ -1,5 +1,8 @@
 {
   "title": "Troy Hunt",
+  "tags": [
+    "Troy Hunt"
+  ],
   "type": "speaker",
   "slug": "troy-hunt",
   "date": "2018-10-13T14:13:25",

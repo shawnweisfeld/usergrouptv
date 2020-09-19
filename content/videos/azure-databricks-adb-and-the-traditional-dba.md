@@ -1,6 +1,9 @@
 {
   "title": "Azure Databricks (ADB) and the Traditional DBA",
   "type": "recording",
+  "tags": [
+    "Azure Databricks"
+  ],
   "date": "2019-07-13T14:07:03",
   "draft": false,
   "slug": "azure-databricks-adb-and-the-traditional-dba",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure Databricks",
       "slug": "azure-databricks",

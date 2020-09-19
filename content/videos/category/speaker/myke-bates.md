@@ -1,5 +1,8 @@
 {
   "title": "Myke Bates",
+  "tags": [
+    "Myke Bates"
+  ],
   "type": "speaker",
   "slug": "myke-bates",
   "date": "2017-07-21T14:10:29",

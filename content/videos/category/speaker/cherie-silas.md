@@ -1,5 +1,8 @@
 {
   "title": "Cherie Silas",
+  "tags": [
+    "Cherie Silas"
+  ],
   "type": "speaker",
   "slug": "cherie-silas",
   "date": "2014-10-10T11:17:18",

@@ -1,6 +1,9 @@
 {
   "title": "Sams Teach Yourself C# in 24 Hours - Hour 8: Using Strings and Regular Expressions",
   "type": "recording",
+  "tags": [
+    "c# in 24 hrs"
+  ],
   "date": "2011-03-12T13:42:25",
   "draft": false,
   "slug": "sams-teach-yourself-c-in-24-hours-hour-8-using-strings-and-regular-expressions",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "c# in 24 hrs",
       "slug": "c-in-24-hrs",

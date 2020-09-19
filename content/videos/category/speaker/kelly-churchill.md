@@ -1,5 +1,8 @@
 {
   "title": "Kelly Churchill",
+  "tags": [
+    "Kelly Churchill"
+  ],
   "type": "speaker",
   "slug": "kelly-churchill",
   "date": "2017-08-05T16:36:42",

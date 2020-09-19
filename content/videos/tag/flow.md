@@ -1,5 +1,8 @@
 {
   "title": "Flow",
+  "tags": [
+    "Flow"
+  ],
   "type": "tag",
   "slug": "flow",
   "date": "2019-03-13T23:34:23",

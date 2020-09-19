@@ -1,5 +1,8 @@
 {
   "title": "Kyle Hale",
+  "tags": [
+    "Kyle Hale"
+  ],
   "type": "speaker",
   "slug": "kyle-hale",
   "date": "2017-10-14T11:48:49",

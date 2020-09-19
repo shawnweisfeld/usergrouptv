@@ -1,6 +1,9 @@
 {
   "title": "Introduction to iPhone Development",
   "type": "recording",
+  "tags": [
+    "iPhone"
+  ],
   "date": "2017-10-14T11:44:46",
   "draft": false,
   "slug": "introduction-to-iphone-development",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "iPhone",
       "slug": "iphone",

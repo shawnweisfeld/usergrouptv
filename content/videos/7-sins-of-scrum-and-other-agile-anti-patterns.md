@@ -1,6 +1,9 @@
 {
   "title": "7 Sins of Scrum and other Agile Anti-Patterns",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2018-09-29T15:06:25",
   "draft": false,
   "slug": "7-sins-of-scrum-and-other-agile-anti-patterns",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

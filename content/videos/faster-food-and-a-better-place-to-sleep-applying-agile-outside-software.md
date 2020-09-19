@@ -1,6 +1,9 @@
 {
   "title": "Faster Food and a Better Place to Sleep: Applying Agile Outside Software",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2018-05-24T16:52:00",
   "draft": false,
   "slug": "faster-food-and-a-better-place-to-sleep-applying-agile-outside-software",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

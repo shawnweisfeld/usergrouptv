@@ -1,6 +1,9 @@
 {
   "title": "Domain-Specific Languages with Groovy",
   "type": "recording",
+  "tags": [
+    "Groovy"
+  ],
   "date": "2018-09-29T15:18:28",
   "draft": false,
   "slug": "domain-specific-languages-with-groovy",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Groovy",
       "slug": "groovy",

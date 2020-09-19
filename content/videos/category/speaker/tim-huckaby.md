@@ -1,5 +1,8 @@
 {
   "title": "Tim Huckaby",
+  "tags": [
+    "Tim Huckaby"
+  ],
   "type": "speaker",
   "slug": "tim-huckaby",
   "date": "2012-01-28T15:36:29",

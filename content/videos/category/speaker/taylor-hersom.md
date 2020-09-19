@@ -1,5 +1,8 @@
 {
   "title": "Taylor Hersom",
+  "tags": [
+    "Taylor Hersom"
+  ],
   "type": "speaker",
   "slug": "taylor-hersom",
   "date": "2019-04-27T13:47:42",

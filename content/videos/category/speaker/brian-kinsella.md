@@ -1,5 +1,8 @@
 {
   "title": "Brian Kinsella",
+  "tags": [
+    "Brian Kinsella"
+  ],
   "type": "speaker",
   "slug": "brian-kinsella",
   "date": "2018-04-11T20:58:52",

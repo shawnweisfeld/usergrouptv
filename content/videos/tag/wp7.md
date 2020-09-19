@@ -1,5 +1,8 @@
 {
   "title": "WP7",
+  "tags": [
+    "WP7"
+  ],
   "type": "tag",
   "slug": "wp7",
   "date": "2012-02-29T01:49:54",

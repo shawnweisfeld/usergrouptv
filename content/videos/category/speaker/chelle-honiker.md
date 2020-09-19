@@ -1,5 +1,8 @@
 {
   "title": "Chelle Honiker",
+  "tags": [
+    "Chelle Honiker"
+  ],
   "type": "speaker",
   "slug": "chelle-honiker",
   "date": "2017-08-06T16:21:37",

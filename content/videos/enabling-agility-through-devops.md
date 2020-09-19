@@ -1,6 +1,9 @@
 {
   "title": "Enabling Agility through DevOps",
   "type": "recording",
+  "tags": [
+    "Agile"
+  ],
   "date": "2018-05-24T16:40:48",
   "draft": false,
   "slug": "enabling-agility-through-devops",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Agile",
       "slug": "agile",

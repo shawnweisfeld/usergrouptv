@@ -1,6 +1,11 @@
 {
   "title": "Basic UI Design for iPhone, Android and Windows Phone",
   "type": "recording",
+  "tags": [
+    "Android",
+    "iPhone",
+    "WP7"
+  ],
   "date": "2011-10-15T22:24:51",
   "draft": false,
   "slug": "basic-ui-design-for-iphone-android-and-windows-phone",
@@ -16,7 +21,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Android",
       "slug": "android",

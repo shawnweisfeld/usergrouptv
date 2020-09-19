@@ -1,5 +1,8 @@
 {
   "title": "Reflection",
+  "tags": [
+    "Reflection"
+  ],
   "type": "tag",
   "slug": "reflection",
   "date": "2011-09-13T04:48:29",

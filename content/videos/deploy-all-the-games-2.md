@@ -1,6 +1,9 @@
 {
   "title": "DEPLOY ALL THE GAMES!!!",
   "type": "recording",
+  "tags": [
+    "Game Dev"
+  ],
   "date": "2014-09-26T18:56:52",
   "draft": false,
   "slug": "deploy-all-the-games-2",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Game Dev",
       "slug": "game-dev",

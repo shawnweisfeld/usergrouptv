@@ -1,6 +1,9 @@
 {
   "title": "git AND TFS > git OR TFS",
   "type": "recording",
+  "tags": [
+    "git"
+  ],
   "date": "2014-06-14T14:54:40",
   "draft": false,
   "slug": "git-and-tfs-git-or-tfs",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "git",
       "slug": "git",

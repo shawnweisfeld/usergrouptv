@@ -1,5 +1,8 @@
 {
   "title": "Sean Feldman",
+  "tags": [
+    "Sean Feldman"
+  ],
   "type": "speaker",
   "slug": "sean-feldman",
   "date": "2016-09-08T18:26:16",

@@ -1,5 +1,8 @@
 {
   "title": "Sanjiv Augustine",
+  "tags": [
+    "Sanjiv Augustine"
+  ],
   "type": "speaker",
   "slug": "sanjiv-augustine",
   "date": "2019-10-04T16:30:23",

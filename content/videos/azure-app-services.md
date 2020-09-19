@@ -1,6 +1,9 @@
 {
   "title": "Azure App Services",
   "type": "recording",
+  "tags": [
+    "Azure App Services"
+  ],
   "date": "2019-04-27T13:39:31",
   "draft": false,
   "slug": "azure-app-services",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure App Services",
       "slug": "azure-app-services",

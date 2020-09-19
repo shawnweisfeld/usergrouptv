@@ -1,5 +1,8 @@
 {
   "title": "Todd Girvin",
+  "tags": [
+    "Todd Girvin"
+  ],
   "type": "speaker",
   "slug": "todd-girvin",
   "date": "2012-06-07T11:44:15",

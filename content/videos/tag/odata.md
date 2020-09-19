@@ -1,5 +1,8 @@
 {
   "title": "OData",
+  "tags": [
+    "OData"
+  ],
   "type": "tag",
   "slug": "odata",
   "date": "2011-11-10T14:26:56",

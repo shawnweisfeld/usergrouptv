@@ -1,6 +1,9 @@
 {
   "title": "Design a data warehouse dimension the Agile way!",
   "type": "recording",
+  "tags": [
+    "Data Warehouse"
+  ],
   "date": "2016-08-13T15:08:52",
   "draft": false,
   "slug": "design-a-data-warehouse-dimension-the-agile-way",
@@ -16,7 +19,7 @@
       "count": 6
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Data Warehouse",
       "slug": "data-warehouse",

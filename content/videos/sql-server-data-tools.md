@@ -1,6 +1,9 @@
 {
   "title": "SQL Server Data Tools",
   "type": "recording",
+  "tags": [
+    "SSDT"
+  ],
   "date": "2015-01-31T13:59:33",
   "draft": false,
   "slug": "sql-server-data-tools",
@@ -16,7 +19,7 @@
       "count": 69
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SSDT",
       "slug": "ssdt",

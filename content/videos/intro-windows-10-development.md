@@ -1,6 +1,9 @@
 {
   "title": "Intro Windows 10 Development",
   "type": "recording",
+  "tags": [
+    "Win10"
+  ],
   "date": "2015-09-12T16:23:51",
   "draft": false,
   "slug": "intro-windows-10-development",
@@ -16,7 +19,7 @@
       "count": 5
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Win10",
       "slug": "win10",

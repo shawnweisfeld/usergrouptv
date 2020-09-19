@@ -1,6 +1,9 @@
 {
   "title": "SQL Server on Linux ",
   "type": "recording",
+  "tags": [
+    "MS SQL"
+  ],
   "date": "2017-04-18T13:03:59",
   "draft": false,
   "slug": "sql-server-on-linux",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MS SQL",
       "slug": "ms-sql",

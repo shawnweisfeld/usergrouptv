@@ -1,5 +1,8 @@
 {
   "title": "Azure Migration",
+  "tags": [
+    "Azure Migration"
+  ],
   "type": "tag",
   "slug": "azure-migration",
   "date": "2016-10-20T11:24:52",

@@ -1,5 +1,8 @@
 {
   "title": "Redis",
+  "tags": [
+    "Redis"
+  ],
   "type": "tag",
   "slug": "redis",
   "date": "2014-12-16T17:57:15",

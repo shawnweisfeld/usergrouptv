@@ -1,5 +1,8 @@
 {
   "title": "Angela Tidwell",
+  "tags": [
+    "Angela Tidwell"
+  ],
   "type": "speaker",
   "slug": "angela-tidwell",
   "date": "2019-06-18T15:39:15",

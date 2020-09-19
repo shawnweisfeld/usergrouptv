@@ -1,6 +1,11 @@
 {
   "title": "Don’t Click Submit Twice!!! ",
   "type": "recording",
+  "tags": [
+    "MSMQ",
+    "Service Bus",
+    "Distributed Transactions"
+  ],
   "date": "2013-01-23T03:11:55",
   "draft": false,
   "slug": "dont-click-submit-twice",
@@ -16,7 +21,7 @@
       "count": 22
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "MSMQ",
       "slug": "msmq",

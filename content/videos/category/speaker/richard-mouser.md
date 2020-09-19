@@ -1,5 +1,8 @@
 {
   "title": "Richard Mouser",
+  "tags": [
+    "Richard Mouser"
+  ],
   "type": "speaker",
   "slug": "richard-mouser",
   "date": "2014-08-22T17:41:02",

@@ -1,5 +1,8 @@
 {
   "title": "Pete Buletza",
+  "tags": [
+    "Pete Buletza"
+  ],
   "type": "speaker",
   "slug": "pete-buletza",
   "date": "2015-10-16T02:06:00",

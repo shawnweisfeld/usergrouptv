@@ -1,6 +1,9 @@
 {
   "title": "Azure Machine Learning: From Design to Integration",
   "type": "recording",
+  "tags": [
+    "Azure ML"
+  ],
   "date": "2017-03-04T21:54:37",
   "draft": false,
   "slug": "azure-machine-learning-from-design-to-integration",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "Azure ML",
       "slug": "azure-ml",

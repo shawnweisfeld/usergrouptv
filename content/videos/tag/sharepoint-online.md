@@ -1,5 +1,8 @@
 {
   "title": "SharePoint Online",
+  "tags": [
+    "SharePoint Online"
+  ],
   "type": "tag",
   "slug": "sharepoint-online",
   "date": "2018-05-09T16:06:08",

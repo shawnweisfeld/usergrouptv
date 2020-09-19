@@ -1,6 +1,9 @@
 {
   "title": "What's new in Application Lifecycle Management 2013",
   "type": "recording",
+  "tags": [
+    "ALM"
+  ],
   "date": "2013-03-01T20:39:55",
   "draft": false,
   "slug": "whats-new-in-application-lifecycle-management-2013",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "ALM",
       "slug": "alm",

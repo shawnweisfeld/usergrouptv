@@ -1,5 +1,8 @@
 {
   "title": "Randy Walker",
+  "tags": [
+    "Randy Walker"
+  ],
   "type": "speaker",
   "slug": "randy-walker",
   "date": "2014-09-26T19:03:43",

@@ -1,6 +1,9 @@
 {
   "title": "Make your Augmented Reality \"Speak\" with Video & 3D Characters",
   "type": "recording",
+  "tags": [
+    "joomla"
+  ],
   "date": "2019-09-28T17:02:10",
   "draft": false,
   "slug": "make-your-augmented-reality-speak-with-video-3d-characters",
@@ -16,7 +19,7 @@
       "count": 2
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "joomla",
       "slug": "joomla",

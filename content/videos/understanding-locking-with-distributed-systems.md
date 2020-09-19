@@ -1,6 +1,9 @@
 {
   "title": "Understanding Locking with Distributed Systems",
   "type": "recording",
+  "tags": [
+    "SQL Performance"
+  ],
   "date": "2017-01-17T11:27:30",
   "draft": false,
   "slug": "understanding-locking-with-distributed-systems",
@@ -16,7 +19,7 @@
       "count": 18
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "SQL Performance",
       "slug": "sql-performance",

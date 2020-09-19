@@ -1,6 +1,9 @@
 {
   "title": "Modern Artificial Intelligence for the Curious Layman ",
   "type": "recording",
+  "tags": [
+    "AI"
+  ],
   "date": "2014-08-11T11:36:15",
   "draft": false,
   "slug": "modern-artificial-intelligence-for-the-curious-layman",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "AI",
       "slug": "ai",

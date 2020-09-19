@@ -1,6 +1,9 @@
 {
   "title": "Microsoft 365: Finding your way through the Microsoft cloud",
   "type": "recording",
+  "tags": [
+    "m365"
+  ],
   "date": "2020-05-13T12:41:42",
   "draft": false,
   "slug": "microsoft-365-finding-your-way-through-the-microsoft-cloud",
@@ -16,7 +19,7 @@
       "count": 1
     }
   ],
-  "tags": [
+  "ugtvtags": [
     {
       "name": "m365",
       "slug": "m365",

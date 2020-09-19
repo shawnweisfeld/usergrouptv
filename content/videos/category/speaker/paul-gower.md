@@ -1,5 +1,8 @@
 {
   "title": "Paul Gower",
+  "tags": [
+    "Paul Gower"
+  ],
   "type": "speaker",
   "slug": "paul-gower",
   "date": "2015-10-16T02:03:49",

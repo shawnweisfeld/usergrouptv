@@ -1,5 +1,8 @@
 {
   "title": "Kim Fisher",
+  "tags": [
+    "Kim Fisher"
+  ],
   "type": "speaker",
   "slug": "kim-fisher",
   "date": "2011-02-25T14:25:07",

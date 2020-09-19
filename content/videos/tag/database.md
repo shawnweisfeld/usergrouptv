@@ -1,5 +1,8 @@
 {
   "title": "Database",
+  "tags": [
+    "Database"
+  ],
   "type": "tag",
   "slug": "database",
   "date": "2019-07-13T13:58:57",

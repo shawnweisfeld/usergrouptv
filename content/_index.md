@@ -1,8 +1,11 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2020-09-19T14:36:19.8618596Z",
+  "date": "2020-09-19T21:49:31.0609719Z",
   "draft": false,
+  "recordingCount": "1,031",
+  "speakerCount": "573",
+  "groupCount": "66",
   "newest": [
     {
       "title": "Today’s API Thread Landscape: Detect and Block Threats",

@@ -7,7 +7,7 @@
   "slug": "pete-hodgson",
   "date": "2014-10-10T11:26:28",
   "draft": false,
-  "bio": "<p>Pete Hodgson - Glorified Typist - Thought Works</p>\r\n<p>Brandon Byars - Principal Consultant - Thought Works</p>",
+  "bio": "<p>Pete Hodgson - Glorified Typist - Thought Works</p>",
   "recordings": [
     {
       "title": "Keeping Up With JavaScript",

@@ -15,13 +15,13 @@
     {
       "name": "Brent Coney",
       "slug": "brent-coney",
-      "bio": "<p>Brent Coney is a full stack web developer at Inuvo with a passion for all things code. He graduated from the University of Arkansas at Little Rock with a Bachelors in Information Science in 2009. When he is not writing code he can be found enjoying time with family, playing bass guitar or watching Formula One.</p>\r\n<p>Jordan Little designs and develops UIs at Inuvo, teaches design at the University of Arkansas Little Rock, and generally has a good time. He firmly believes that anyone can learn to design and advocates the blurring of the line between designer and developer.</p>",
+      "bio": "<p>Brent Coney is a full stack web developer at Inuvo with a passion for all things code. He graduated from the University of Arkansas at Little Rock with a Bachelors in Information Science in 2009. When he is not writing code he can be found enjoying time with family, playing bass guitar or watching Formula One.</p>",
       "count": 1
     },
     {
       "name": "Jordan Little",
       "slug": "jordan-little",
-      "bio": "<p>Brent Coney is a full stack web developer at Inuvo with a passion for all things code. He graduated from the University of Arkansas at Little Rock with a Bachelors in Information Science in 2009. When he is not writing code he can be found enjoying time with family, playing bass guitar or watching Formula One.</p>\r\n<p>Jordan Little designs and develops UIs at Inuvo, teaches design at the University of Arkansas Little Rock, and generally has a good time. He firmly believes that anyone can learn to design and advocates the blurring of the line between designer and developer.</p>",
+      "bio": "<p>Jordan Little designs and develops Uis at Inuvo, teaches design at the University of Arkansas Little Rock, and generally has a good time. He firmly believes that anyone can learn to design and advocates the blurring of the line between designer and developer.</p>",
       "count": 1
     }
   ],

@@ -15,13 +15,13 @@
     {
       "name": "Pete Hodgson",
       "slug": "pete-hodgson",
-      "bio": "<p>Pete Hodgson - Glorified Typist - Thought Works</p>\r\n<p>Brandon Byars - Principal Consultant - Thought Works</p>",
+      "bio": "<p>Pete Hodgson - Glorified Typist - Thought Works</p>",
       "count": 1
     },
     {
       "name": "Brandon Byars",
       "slug": "brandon-byars",
-      "bio": "<p>Pete Hodgson - Glorified Typist - Thought Works</p>\r\n<p>Brandon Byars - Principal Consultant - Thought Works</p>",
+      "bio": "<p>Brandon Byars - Principal Consultant - Thought Works</p>",
       "count": 1
     }
   ],

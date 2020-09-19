@@ -15,13 +15,13 @@
     {
       "name": "Diane Schuster",
       "slug": "diane-schuster",
-      "bio": "<p>Diane has worked with COZYROC since 2012. She enjoys representing COZYROC at trade shows in the United States and Europe. She also enjoys mastering the use of the COZYROC components so that she can provide short and informative demonstration videos, showing step-by-step instructions on how to get started. In the past, Diane worked in the data networking arena and performed a variety of roles for IBM and Lucent Technologies. She has a passion for travel and enjoys spending time in Latin America.</p>\r\n<p>Ivan is the CEO, COZYROC LLC</p>",
+      "bio": "<p>Diane has worked with COZYROC since 2012. She enjoys representing COZYROC at trade shows in the United States and Europe. She also enjoys mastering the use of the COZYROC components so that she can provide short and informative demonstration videos, showing step-by-step instructions on how to get started. In the past, Diane worked in the data networking arena and performed a variety of roles for IBM and Lucent Technologies. She has a passion for travel and enjoys spending time in Latin America.</p>",
       "count": 1
     },
     {
       "name": "Ivan Peev",
       "slug": "ivan-peev",
-      "bio": "<p>Diane has worked with COZYROC since 2012. She enjoys representing COZYROC at trade shows in the United States and Europe. She also enjoys mastering the use of the COZYROC components so that she can provide short and informative demonstration videos, showing step-by-step instructions on how to get started. In the past, Diane worked in the data networking arena and performed a variety of roles for IBM and Lucent Technologies. She has a passion for travel and enjoys spending time in Latin America.</p>\r\n<p>Ivan is the CEO, COZYROC LLC</p>",
+      "bio": "<p>Ivan is the CEO, COZYROC LLC</p>",
       "count": 1
     }
   ],

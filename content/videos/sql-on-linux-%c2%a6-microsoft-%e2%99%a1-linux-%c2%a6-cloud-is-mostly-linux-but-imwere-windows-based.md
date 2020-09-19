@@ -15,13 +15,13 @@
     {
       "name": "Anthony Tex Moreign",
       "slug": "anthony-tex-moreign",
-      "bio": "<p>Anthony {Tex} Moreign is a Technologist, Speaker, Writer, Founder with 25 years & counting in the business. he is the founder and Chief Architect, Hybrid Decisions® Corp   (www.HybridDecisions.com  | 2005) and the Founder & President, Houston Cloud Computing User Group   (www.HCCUG.org  | 2008). For more info see http://linkedin.com/in/AnthonyTexM</p>\r\n<p>Zane Moreign is a burgeoning Technologist, Speaker, Polyglot  {English, Chinese/Mandarin, French, German, some Spanish} … more info https://www.linkedin.com/in/ZaneMoreign/</p>",
+      "bio": "<p>Anthony {Tex} Moreign is a Technologist, Speaker, Writer, Founder with 25 years & counting in the business. he is the founder and Chief Architect, Hybrid Decisions® Corp   (www.HybridDecisions.com  | 2005) and the Founder & President, Houston Cloud Computing User Group   (www.HCCUG.org  | 2008). For more info see http://linkedin.com/in/AnthonyTexM</p>",
       "count": 4
     },
     {
       "name": "Zane Moreign",
       "slug": "zane-moreign",
-      "bio": "<p>Anthony {Tex} Moreign is a Technologist, Speaker, Writer, Founder with 25 years & counting in the business. he is the founder and Chief Architect, Hybrid Decisions® Corp   (www.HybridDecisions.com  | 2005) and the Founder & President, Houston Cloud Computing User Group   (www.HCCUG.org  | 2008). For more info see http://linkedin.com/in/AnthonyTexM</p>\r\n<p>Zane Moreign is a burgeoning Technologist, Speaker, Polyglot  {English, Chinese/Mandarin, French, German, some Spanish} … more info https://www.linkedin.com/in/ZaneMoreign/</p>",
+      "bio": "<p>Zane Moreign is a burgeoning Technologist, Speaker, Polyglot  {English, Chinese/Mandarin, French, German, some Spanish} … more info https://www.linkedin.com/in/ZaneMoreign/</p>",
       "count": 1
     }
   ],

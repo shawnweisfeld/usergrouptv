@@ -6,11 +6,20 @@
 
     <div class="container mt-3 mb-3">
 
+
+      <div class="container mt-3 mb-3">
+
+        <div class="row">
+        <div class="col offset-md-8 mb-4">
+          Filter: <input id="filter" type="text" name="title" />
+        </div>
+      </div>      
+
         <h2>Groups: </h2>
         <div class="row row-cols-1 row-cols-md-3">
             {{ range .Params.meetups }}
             <div class="col mb-4">
-              <div class="card">
+              <div class="card" data-title="{{ .title }}">
                 <a href="/videos/category/group/{{.slug}}"><img src="{{ .thumbnail }}" class="card-img-top" alt={{ .title }}></a>
                 <div class="card-body">
                 <h5 class="card-title"><a href="/videos/category/group/{{.slug}}">{{ .title }}</a></h5>

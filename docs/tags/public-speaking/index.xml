@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Public speaking on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/public-speaking/</link>
+    <description>Recent content in Public speaking on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Aug 2017 14:26:53 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/public-speaking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>12 Fail-Safe Ways to Charm Audiences: Public Speaking as a Developer</title>
+      <link>https://usergroup.tv/videos/12-fail-safe-ways-to-charm-audiences-public-speaking-as-a-developer/</link>
+      <pubDate>Fri, 04 Aug 2017 14:26:53 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/12-fail-safe-ways-to-charm-audiences-public-speaking-as-a-developer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public speaking</title>
+      <link>https://usergroup.tv/videos/tag/public-speaking/</link>
+      <pubDate>Fri, 04 Aug 2017 14:26:53 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/public-speaking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

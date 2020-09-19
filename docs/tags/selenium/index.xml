@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selenium on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/selenium/</link>
+    <description>Recent content in Selenium on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Mar 2012 13:01:38 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/selenium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Selenium</title>
+      <link>https://usergroup.tv/videos/tag/selenium/</link>
+      <pubDate>Wed, 14 Mar 2012 13:01:38 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/selenium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UI Test Automation with Selenium</title>
+      <link>https://usergroup.tv/videos/ui-test-automation-with-selenium/</link>
+      <pubDate>Wed, 14 Mar 2012 13:01:38 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/ui-test-automation-with-selenium/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

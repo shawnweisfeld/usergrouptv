@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Redis on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/redis/</link>
+    <description>Recent content in Redis on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Dec 2014 17:57:15 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/redis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redis</title>
+      <link>https://usergroup.tv/videos/tag/redis/</link>
+      <pubDate>Tue, 16 Dec 2014 17:57:15 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/redis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redis - Caching for .NET Developers</title>
+      <link>https://usergroup.tv/videos/redis-caching-for-net-developers/</link>
+      <pubDate>Tue, 16 Dec 2014 17:57:15 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/redis-caching-for-net-developers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redis - Caching for .NET Developer </title>
+      <link>https://usergroup.tv/videos/redis-caching-for-net-developer/</link>
+      <pubDate>Tue, 25 Nov 2014 12:31:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/redis-caching-for-net-developer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redis</title>
+      <link>https://usergroup.tv/videos/redis/</link>
+      <pubDate>Fri, 26 Sep 2014 19:18:53 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/redis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

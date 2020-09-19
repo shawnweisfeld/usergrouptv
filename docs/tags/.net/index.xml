@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>.net on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/.net/</link>
+    <description>Recent content in .net on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 May 2020 14:03:48 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>.net</title>
+      <link>https://usergroup.tv/videos/tag/net/</link>
+      <pubDate>Tue, 26 May 2020 14:03:48 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Meeting with Scott Hunter !!</title>
+      <link>https://usergroup.tv/videos/a-meeting-with-scott-hunter/</link>
+      <pubDate>Tue, 26 May 2020 14:03:48 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/a-meeting-with-scott-hunter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dallas State of .NET Part 2</title>
+      <link>https://usergroup.tv/videos/dallas-state-of-net-part-2/</link>
+      <pubDate>Wed, 10 Sep 2014 00:07:33 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/dallas-state-of-net-part-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dallas State of .NET Part 1</title>
+      <link>https://usergroup.tv/videos/dallas-state-of-net-part-1/</link>
+      <pubDate>Wed, 10 Sep 2014 00:06:20 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/dallas-state-of-net-part-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Road to Windows 8! Part 2</title>
+      <link>https://usergroup.tv/videos/the-road-to-windows-8-part-2/</link>
+      <pubDate>Tue, 19 Jun 2012 11:00:07 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/the-road-to-windows-8-part-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Road to Windows 8! Part 1</title>
+      <link>https://usergroup.tv/videos/the-road-to-windows-8-part-1/</link>
+      <pubDate>Tue, 19 Jun 2012 10:57:27 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/the-road-to-windows-8-part-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

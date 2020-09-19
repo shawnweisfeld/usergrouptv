@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MDM on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/mdm/</link>
+    <description>Recent content in MDM on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Jan 2015 18:51:15 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/mdm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn How To Build A Golden Record for Any Subject Over Lunch!</title>
+      <link>https://usergroup.tv/videos/learn-how-to-build-a-golden-record-for-any-subject-over-lunch/</link>
+      <pubDate>Sat, 31 Jan 2015 18:51:15 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/learn-how-to-build-a-golden-record-for-any-subject-over-lunch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MDM</title>
+      <link>https://usergroup.tv/videos/tag/mdm/</link>
+      <pubDate>Sat, 31 Jan 2015 18:51:15 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/mdm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

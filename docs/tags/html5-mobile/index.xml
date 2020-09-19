@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML5 Mobile on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/html5-mobile/</link>
+    <description>Recent content in HTML5 Mobile on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Dec 2011 00:05:51 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/html5-mobile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How HTML5 and the Cloud Will Make You a Mobile Champion</title>
+      <link>https://usergroup.tv/videos/how-html5-and-the-cloud-will-make-you-a-mobile-champion/</link>
+      <pubDate>Wed, 07 Dec 2011 00:05:51 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/how-html5-and-the-cloud-will-make-you-a-mobile-champion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML5 Mobile</title>
+      <link>https://usergroup.tv/videos/tag/html5-mobile/</link>
+      <pubDate>Wed, 07 Dec 2011 00:05:51 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/html5-mobile/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

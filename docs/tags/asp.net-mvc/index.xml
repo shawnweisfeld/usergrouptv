@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ASP.NET MVC on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/asp.net-mvc/</link>
+    <description>Recent content in ASP.NET MVC on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Mar 2013 20:37:25 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/asp.net-mvc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ASP.NET MVC</title>
+      <link>https://usergroup.tv/videos/tag/asp-net-mvc/</link>
+      <pubDate>Fri, 01 Mar 2013 20:37:25 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/asp-net-mvc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What&#39;s New in ASP.NET MVC 4</title>
+      <link>https://usergroup.tv/videos/whats-new-in-asp-net-mvc-4/</link>
+      <pubDate>Fri, 01 Mar 2013 20:37:25 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/whats-new-in-asp-net-mvc-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Get Things Done with dynamic ASP.NET MVC</title>
+      <link>https://usergroup.tv/videos/get-things-done-with-dynamic-asp-net-mvc/</link>
+      <pubDate>Wed, 05 Oct 2011 21:48:08 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/get-things-done-with-dynamic-asp-net-mvc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

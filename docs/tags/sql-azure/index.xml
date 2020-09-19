@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL Azure on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/sql-azure/</link>
+    <description>Recent content in SQL Azure on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jul 2019 13:44:10 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql-azure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure SQL Managed Instance the New Hotness</title>
+      <link>https://usergroup.tv/videos/azure-sql-managed-instance-the-new-hotness-3/</link>
+      <pubDate>Sat, 13 Jul 2019 13:44:10 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/azure-sql-managed-instance-the-new-hotness-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Azure</title>
+      <link>https://usergroup.tv/videos/tag/sql-azure/</link>
+      <pubDate>Sat, 13 Jul 2019 13:44:10 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql-azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PaaS vs IaaS - Navigating the Decision Tree: Azure SQL DB vs SQL on a VM</title>
+      <link>https://usergroup.tv/videos/paas-vs-iaas-navigating-the-decision-tree-azure-sql-db-vs-sql-on-a-vm/</link>
+      <pubDate>Sat, 13 Aug 2016 15:10:14 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/paas-vs-iaas-navigating-the-decision-tree-azure-sql-db-vs-sql-on-a-vm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enterprise Row Level Security in SQL Server 2016 and Azure SQL DB</title>
+      <link>https://usergroup.tv/videos/enterprise-row-level-security-in-sql-server-2016-and-azure-sql-db/</link>
+      <pubDate>Sat, 13 Aug 2016 15:03:03 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/enterprise-row-level-security-in-sql-server-2016-and-azure-sql-db/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure SQL Database Elastic Scale</title>
+      <link>https://usergroup.tv/videos/azure-sql-database-elastic-scale/</link>
+      <pubDate>Sat, 29 Aug 2015 14:27:09 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/azure-sql-database-elastic-scale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server in the Cloud</title>
+      <link>https://usergroup.tv/videos/sql-server-in-the-cloud/</link>
+      <pubDate>Sat, 25 Aug 2012 21:47:22 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/sql-server-in-the-cloud/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

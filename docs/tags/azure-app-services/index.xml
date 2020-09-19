@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure App Services on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/azure-app-services/</link>
+    <description>Recent content in Azure App Services on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Apr 2019 13:39:31 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/azure-app-services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure App Services</title>
+      <link>https://usergroup.tv/videos/azure-app-services/</link>
+      <pubDate>Sat, 27 Apr 2019 13:39:31 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/azure-app-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure App Services</title>
+      <link>https://usergroup.tv/videos/tag/azure-app-services/</link>
+      <pubDate>Sat, 27 Apr 2019 13:39:31 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure-app-services/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

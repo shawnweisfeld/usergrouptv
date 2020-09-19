@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SSRS on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/ssrs/</link>
+    <description>Recent content in SSRS on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 May 2016 12:23:45 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/ssrs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SSRS</title>
+      <link>https://usergroup.tv/videos/tag/ssrs/</link>
+      <pubDate>Sat, 14 May 2016 12:23:45 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/ssrs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What&#39;s New in SSRS 2016</title>
+      <link>https://usergroup.tv/videos/whats-new-in-ssrs-2016/</link>
+      <pubDate>Sat, 14 May 2016 12:23:45 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/whats-new-in-ssrs-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server Reporting Services: Creating and Managing Reports</title>
+      <link>https://usergroup.tv/videos/sql-server-reporting-services-creating-and-managing-reports/</link>
+      <pubDate>Sat, 17 Aug 2013 20:31:14 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/sql-server-reporting-services-creating-and-managing-reports/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

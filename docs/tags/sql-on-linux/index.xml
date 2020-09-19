@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sql on linux on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/sql-on-linux/</link>
+    <description>Recent content in sql on linux on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Aug 2018 15:52:11 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql-on-linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HiHo! HiHo! SQL Server on Linux, We Go!</title>
+      <link>https://usergroup.tv/videos/hiho-hiho-sql-server-on-linux-we-go/</link>
+      <pubDate>Sat, 11 Aug 2018 15:52:11 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/hiho-hiho-sql-server-on-linux-we-go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sql on linux</title>
+      <link>https://usergroup.tv/videos/tag/sql-on-linux/</link>
+      <pubDate>Sat, 11 Aug 2018 15:52:11 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql-on-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Linux for SQL Server Professionals</title>
+      <link>https://usergroup.tv/videos/introduction-to-linux-for-sql-server-professionals/</link>
+      <pubDate>Sat, 23 Jun 2018 19:57:05 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/introduction-to-linux-for-sql-server-professionals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL on Linux ¦ Microsoft ? Linux ¦ Cloud is mostly Linux …… but I&#39;m/WE&#39;re Windows based?</title>
+      <link>https://usergroup.tv/videos/sql-on-linux-%c2%a6-microsoft-%e2%99%a1-linux-%c2%a6-cloud-is-mostly-linux-but-imwere-windows-based/</link>
+      <pubDate>Sat, 23 Jun 2018 19:45:03 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/sql-on-linux-%c2%a6-microsoft-%e2%99%a1-linux-%c2%a6-cloud-is-mostly-linux-but-imwere-windows-based/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

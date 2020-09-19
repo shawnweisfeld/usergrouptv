@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Power View on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/power-view/</link>
+    <description>Recent content in Power View on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 May 2014 19:47:11 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/power-view/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Power View</title>
+      <link>https://usergroup.tv/videos/tag/power-view/</link>
+      <pubDate>Sat, 03 May 2014 19:47:11 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/power-view/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Service Data Visualizations with Excel Power View </title>
+      <link>https://usergroup.tv/videos/self-service-data-visualizations-with-excel-power-view/</link>
+      <pubDate>Sat, 03 May 2014 19:47:11 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/self-service-data-visualizations-with-excel-power-view/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

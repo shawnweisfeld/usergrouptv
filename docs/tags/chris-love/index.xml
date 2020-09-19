@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Love on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/chris-love/</link>
+    <description>Recent content in Chris Love on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Oct 2018 14:12:24 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/chris-love/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chris Love</title>
+      <link>https://usergroup.tv/videos/category/speaker/chris-love/</link>
+      <pubDate>Sat, 13 Oct 2018 14:12:24 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/chris-love/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

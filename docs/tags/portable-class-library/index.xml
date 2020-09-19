@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portable Class Library on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/portable-class-library/</link>
+    <description>Recent content in Portable Class Library on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Aug 2012 17:18:12 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/portable-class-library/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portable Class Library</title>
+      <link>https://usergroup.tv/videos/tag/portable-class-library/</link>
+      <pubDate>Thu, 09 Aug 2012 17:18:12 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/portable-class-library/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portable Libraries: Write Once, Utilize Everywhere</title>
+      <link>https://usergroup.tv/videos/portable-libraries-write-once-utilize-everywhere/</link>
+      <pubDate>Thu, 09 Aug 2012 17:18:12 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/portable-libraries-write-once-utilize-everywhere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portable Library: Write Once, Utilize Everywhere</title>
+      <link>https://usergroup.tv/videos/portable-library-write-once-utilize-everywhere/</link>
+      <pubDate>Wed, 18 Jul 2012 14:11:41 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/portable-library-write-once-utilize-everywhere/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

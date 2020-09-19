@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automation on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/automation/</link>
+    <description>Recent content in Automation on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Oct 2017 22:12:55 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation</title>
+      <link>https://usergroup.tv/videos/tag/automation/</link>
+      <pubDate>Fri, 06 Oct 2017 22:12:55 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automation 101</title>
+      <link>https://usergroup.tv/videos/automation-101/</link>
+      <pubDate>Fri, 06 Oct 2017 22:12:55 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/automation-101/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL Config Man on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/sql-config-man/</link>
+    <description>Recent content in SQL Config Man on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Sep 2015 11:59:04 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql-config-man/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL Config Man</title>
+      <link>https://usergroup.tv/videos/tag/sql-config-man/</link>
+      <pubDate>Tue, 08 Sep 2015 11:59:04 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql-config-man/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server for the Configuration Manager 2012 administrator</title>
+      <link>https://usergroup.tv/videos/sql-server-for-the-configuration-manager-2012-administrator/</link>
+      <pubDate>Tue, 08 Sep 2015 11:59:04 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/sql-server-for-the-configuration-manager-2012-administrator/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

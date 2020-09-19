@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>API on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/api/</link>
+    <description>Recent content in API on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2020 17:47:45 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>API</title>
+      <link>https://usergroup.tv/videos/tag/api/</link>
+      <pubDate>Tue, 15 Sep 2020 17:47:45 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Today’s API Thread Landscape: Detect and Block Threats</title>
+      <link>https://usergroup.tv/videos/todays-api-thread-landscape-detect-and-block-threats/</link>
+      <pubDate>Tue, 15 Sep 2020 17:47:45 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/todays-api-thread-landscape-detect-and-block-threats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Build an Effective API Security Strategy</title>
+      <link>https://usergroup.tv/videos/how-to-build-an-effective-api-security-strategy/</link>
+      <pubDate>Mon, 13 Jan 2020 16:20:57 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/how-to-build-an-effective-api-security-strategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure API Management</title>
+      <link>https://usergroup.tv/videos/azure-api-management/</link>
+      <pubDate>Wed, 15 Apr 2015 23:07:07 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/azure-api-management/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

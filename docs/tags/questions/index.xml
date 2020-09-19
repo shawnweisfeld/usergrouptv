@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Questions on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/questions/</link>
+    <description>Recent content in Questions on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Oct 2014 11:17:18 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/questions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Change Your Questions - Change Your World</title>
+      <link>https://usergroup.tv/videos/change-your-questions-change-your-world/</link>
+      <pubDate>Fri, 10 Oct 2014 11:17:18 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/change-your-questions-change-your-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Questions</title>
+      <link>https://usergroup.tv/videos/tag/questions/</link>
+      <pubDate>Fri, 10 Oct 2014 11:17:18 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/questions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

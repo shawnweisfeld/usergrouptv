@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Event Sourcing on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/event-sourcing/</link>
+    <description>Recent content in Event Sourcing on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Sep 2015 12:15:10 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/event-sourcing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CQRS, DDD, &amp; Event Sourcing</title>
+      <link>https://usergroup.tv/videos/cqrs-ddd-event-sourcing/</link>
+      <pubDate>Sat, 26 Sep 2015 12:15:10 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/cqrs-ddd-event-sourcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event Sourcing</title>
+      <link>https://usergroup.tv/videos/tag/event-sourcing/</link>
+      <pubDate>Sat, 26 Sep 2015 12:15:10 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/event-sourcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event Sourcing</title>
+      <link>https://usergroup.tv/videos/event-sourcing/</link>
+      <pubDate>Mon, 13 Apr 2015 12:09:48 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/event-sourcing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

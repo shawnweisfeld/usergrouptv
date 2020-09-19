@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rudr on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/rudr/</link>
+    <description>Recent content in Rudr on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jan 2020 16:19:26 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/rudr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dapr, Rudr, Porter &amp; OAM - New OSS projects</title>
+      <link>https://usergroup.tv/videos/dapr-rudr-porter-oam-new-oss-projects/</link>
+      <pubDate>Wed, 08 Jan 2020 16:19:26 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/dapr-rudr-porter-oam-new-oss-projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rudr</title>
+      <link>https://usergroup.tv/videos/tag/rudr/</link>
+      <pubDate>Wed, 08 Jan 2020 16:19:26 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/rudr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

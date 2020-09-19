@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UWP on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/uwp/</link>
+    <description>Recent content in UWP on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jun 2019 16:43:47 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/uwp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create Powerful User Interfaces with the Latest Windows APIs and Open Source Libraries</title>
+      <link>https://usergroup.tv/videos/create-powerful-user-interfaces-with-the-latest-windows-apis-and-open-source-libraries/</link>
+      <pubDate>Mon, 24 Jun 2019 16:43:47 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/create-powerful-user-interfaces-with-the-latest-windows-apis-and-open-source-libraries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UWP</title>
+      <link>https://usergroup.tv/videos/tag/uwp/</link>
+      <pubDate>Mon, 24 Jun 2019 16:43:47 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/uwp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introducing Universal Windows App Development</title>
+      <link>https://usergroup.tv/videos/introducing-universal-windows-app-development/</link>
+      <pubDate>Sat, 12 Sep 2015 16:24:37 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/introducing-universal-windows-app-development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Architecture on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/architecture/</link>
+    <description>Recent content in Architecture on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2020 21:35:29 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Architecture</title>
+      <link>https://usergroup.tv/videos/tag/architecture/</link>
+      <pubDate>Mon, 10 Feb 2020 21:35:29 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refactoring the Architect&#39;s role</title>
+      <link>https://usergroup.tv/videos/refactoring-the-architects-role/</link>
+      <pubDate>Mon, 10 Feb 2020 21:35:29 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/refactoring-the-architects-role/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thinking about Software Architecture</title>
+      <link>https://usergroup.tv/videos/thinking-about-software-architecture/</link>
+      <pubDate>Mon, 08 Oct 2018 13:19:55 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/thinking-about-software-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exposing an Extensibility API for your Applications</title>
+      <link>https://usergroup.tv/videos/exposing-an-extensibility-api-for-your-applications/</link>
+      <pubDate>Wed, 18 May 2016 11:34:04 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/exposing-an-extensibility-api-for-your-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Röck Yoür Apps With &gt;= 10 Things You Probably Aren’t Doing </title>
+      <link>https://usergroup.tv/videos/rock-your-apps-with-10-things-you-probably-arent-doing/</link>
+      <pubDate>Mon, 13 Jul 2015 18:36:40 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/rock-your-apps-with-10-things-you-probably-arent-doing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Great Architecture is Easy</title>
+      <link>https://usergroup.tv/videos/great-architecture-is-easy/</link>
+      <pubDate>Sat, 13 Sep 2014 23:38:52 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/great-architecture-is-easy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

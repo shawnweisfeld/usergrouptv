@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moble on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/moble/</link>
+    <description>Recent content in Moble on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Aug 2014 20:11:13 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/moble/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mobile User Insights - How to turn your mobile projects into an instant user success</title>
+      <link>https://usergroup.tv/videos/mobile-user-insights-how-to-turn-your-mobile-projects-into-an-instant-user-success/</link>
+      <pubDate>Fri, 15 Aug 2014 20:11:13 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/mobile-user-insights-how-to-turn-your-mobile-projects-into-an-instant-user-success/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moble</title>
+      <link>https://usergroup.tv/videos/tag/moble/</link>
+      <pubDate>Fri, 15 Aug 2014 20:11:13 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/moble/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

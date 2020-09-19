@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MEF on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/mef/</link>
+    <description>Recent content in MEF on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jul 2011 19:12:08 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/mef/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MEF</title>
+      <link>https://usergroup.tv/videos/tag/mef/</link>
+      <pubDate>Tue, 05 Jul 2011 19:12:08 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/mef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using MEF with Silverlight and WPF</title>
+      <link>https://usergroup.tv/videos/using-mef-with-silverlight-and-wpf/</link>
+      <pubDate>Tue, 05 Jul 2011 19:12:08 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/using-mef-with-silverlight-and-wpf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confessions of a MEF Addict</title>
+      <link>https://usergroup.tv/videos/confessions-of-a-mef-addict/</link>
+      <pubDate>Tue, 15 Mar 2011 21:18:45 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/confessions-of-a-mef-addict/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

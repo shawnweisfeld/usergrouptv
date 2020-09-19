@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>metro on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/metro/</link>
+    <description>Recent content in metro on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Jun 2012 11:00:07 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/metro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>metro</title>
+      <link>https://usergroup.tv/videos/tag/metro/</link>
+      <pubDate>Tue, 19 Jun 2012 11:00:07 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/metro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Road to Windows 8! Part 2</title>
+      <link>https://usergroup.tv/videos/the-road-to-windows-8-part-2/</link>
+      <pubDate>Tue, 19 Jun 2012 11:00:07 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/the-road-to-windows-8-part-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Road to Windows 8! Part 1</title>
+      <link>https://usergroup.tv/videos/the-road-to-windows-8-part-1/</link>
+      <pubDate>Tue, 19 Jun 2012 10:57:27 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/the-road-to-windows-8-part-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Windows 8 Metro apps in XAML</title>
+      <link>https://usergroup.tv/videos/building-windows-8-metro-apps-in-xaml/</link>
+      <pubDate>Tue, 14 Feb 2012 15:23:50 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/building-windows-8-metro-apps-in-xaml/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

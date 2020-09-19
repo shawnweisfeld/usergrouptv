@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MassTransit on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/masstransit/</link>
+    <description>Recent content in MassTransit on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Jan 2013 02:01:16 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/masstransit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MassTransit</title>
+      <link>https://usergroup.tv/videos/tag/masstransit/</link>
+      <pubDate>Thu, 10 Jan 2013 02:01:16 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/masstransit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Easy Enterprise Service Bus: Mass Transit</title>
+      <link>https://usergroup.tv/videos/the-easy-enterprise-service-bus-mass-transit/</link>
+      <pubDate>Thu, 10 Jan 2013 02:01:16 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/the-easy-enterprise-service-bus-mass-transit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MassTransit</title>
+      <link>https://usergroup.tv/videos/event-driven-architecture-2/</link>
+      <pubDate>Fri, 27 May 2011 13:48:23 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/event-driven-architecture-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>State of .NET on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/state-of-.net/</link>
+    <description>Recent content in State of .NET on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Dec 2016 12:54:46 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/state-of-.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>State of .NET</title>
+      <link>https://usergroup.tv/videos/category/group/state-of-net/</link>
+      <pubDate>Thu, 15 Dec 2016 12:54:46 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/state-of-net/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

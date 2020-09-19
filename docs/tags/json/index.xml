@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Json on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/json/</link>
+    <description>Recent content in Json on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Mar 2013 20:26:42 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/json/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fun with Json</title>
+      <link>https://usergroup.tv/videos/fun-with-json-2/</link>
+      <pubDate>Fri, 01 Mar 2013 20:26:42 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/fun-with-json-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Json</title>
+      <link>https://usergroup.tv/videos/tag/json/</link>
+      <pubDate>Fri, 01 Mar 2013 20:26:42 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fun with Json</title>
+      <link>https://usergroup.tv/videos/fun-with-json/</link>
+      <pubDate>Fri, 24 Aug 2012 13:00:45 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/fun-with-json/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

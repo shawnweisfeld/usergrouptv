@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design Patterns on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/design-patterns/</link>
+    <description>Recent content in Design Patterns on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Oct 2011 22:35:33 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/design-patterns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design Patterns</title>
+      <link>https://usergroup.tv/videos/tag/design-patterns/</link>
+      <pubDate>Sat, 15 Oct 2011 22:35:33 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/design-patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Patterns by Example</title>
+      <link>https://usergroup.tv/videos/design-patterns-by-example-2/</link>
+      <pubDate>Sat, 15 Oct 2011 22:35:33 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/design-patterns-by-example-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Repository Pattern</title>
+      <link>https://usergroup.tv/videos/the-repository-pattern/</link>
+      <pubDate>Tue, 12 Jul 2011 19:31:35 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/the-repository-pattern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Patterns by Example</title>
+      <link>https://usergroup.tv/videos/design-patterns-by-example/</link>
+      <pubDate>Thu, 14 Apr 2011 22:56:46 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/design-patterns-by-example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

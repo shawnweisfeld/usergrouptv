@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NServiceBus on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/nservicebus/</link>
+    <description>Recent content in NServiceBus on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Sep 2015 12:03:11 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/nservicebus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Going Distributed with NServiceBus </title>
+      <link>https://usergroup.tv/videos/going-distributed-with-nservicebus/</link>
+      <pubDate>Sat, 26 Sep 2015 12:03:11 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/going-distributed-with-nservicebus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NServiceBus</title>
+      <link>https://usergroup.tv/videos/tag/nservicebus/</link>
+      <pubDate>Sat, 26 Sep 2015 12:03:11 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/nservicebus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

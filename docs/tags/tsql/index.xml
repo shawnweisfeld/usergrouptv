@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TSQL on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/tsql/</link>
+    <description>Recent content in TSQL on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Nov 2019 16:20:04 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/tsql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Common TSQL Mistakes</title>
+      <link>https://usergroup.tv/videos/common-tsql-mistakes/</link>
+      <pubDate>Tue, 19 Nov 2019 16:20:04 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/common-tsql-mistakes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TSQL</title>
+      <link>https://usergroup.tv/videos/tag/tsql/</link>
+      <pubDate>Tue, 19 Nov 2019 16:20:04 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/tsql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Top Tips for Writing Better T-SQL Queries</title>
+      <link>https://usergroup.tv/videos/top-tips-for-writing-better-t-sql-queries/</link>
+      <pubDate>Sat, 25 Aug 2012 21:54:32 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/top-tips-for-writing-better-t-sql-queries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T-SQL Brush-up:The Best Things You Forgot You Knew</title>
+      <link>https://usergroup.tv/videos/t-sql-brush-upthe-best-things-you-forgot-you-knew/</link>
+      <pubDate>Sat, 25 Aug 2012 21:40:30 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/t-sql-brush-upthe-best-things-you-forgot-you-knew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Master SQL Joins</title>
+      <link>https://usergroup.tv/videos/how-to-master-sql-joins/</link>
+      <pubDate>Sat, 02 Apr 2011 21:36:33 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/how-to-master-sql-joins/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

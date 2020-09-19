@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Databases on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/databases/</link>
+    <description>Recent content in Databases on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Apr 2012 13:28:56 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/databases/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Databases</title>
+      <link>https://usergroup.tv/videos/tag/databases/</link>
+      <pubDate>Fri, 20 Apr 2012 13:28:56 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developers, Databases, and Team Velocity – Getting the most from database tasks on an agile team</title>
+      <link>https://usergroup.tv/videos/developers-databases-and-team-velocity-getting-the-most-from-database-tasks-on-an-agile-team/</link>
+      <pubDate>Fri, 20 Apr 2012 13:28:56 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/developers-databases-and-team-velocity-getting-the-most-from-database-tasks-on-an-agile-team/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

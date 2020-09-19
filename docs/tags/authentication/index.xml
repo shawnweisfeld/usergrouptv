@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authentication on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/authentication/</link>
+    <description>Recent content in Authentication on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Oct 2018 14:14:30 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/authentication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Authentication</title>
+      <link>https://usergroup.tv/videos/tag/authentication/</link>
+      <pubDate>Sat, 13 Oct 2018 14:14:30 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/authentication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Papers Please! A Non-Dystopian Look at Modern Authentication</title>
+      <link>https://usergroup.tv/videos/papers-please-a-non-dystopian-look-at-modern-authentication/</link>
+      <pubDate>Sat, 13 Oct 2018 14:14:30 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/papers-please-a-non-dystopian-look-at-modern-authentication/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

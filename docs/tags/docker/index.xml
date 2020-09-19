@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/docker/</link>
+    <description>Recent content in Docker on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jul 2017 14:18:34 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>https://usergroup.tv/videos/tag/docker/</link>
+      <pubDate>Thu, 20 Jul 2017 14:18:34 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dockerize Your Development</title>
+      <link>https://usergroup.tv/videos/dockerize-your-development/</link>
+      <pubDate>Thu, 20 Jul 2017 14:18:34 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/dockerize-your-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Develop/Deploy Node Apps with Docker</title>
+      <link>https://usergroup.tv/videos/developdeploy-node-apps-with-docker/</link>
+      <pubDate>Thu, 20 Jul 2017 14:16:36 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/developdeploy-node-apps-with-docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Docker simplifies continuous integration and continuous deployment </title>
+      <link>https://usergroup.tv/videos/how-docker-simplifies-continuous-integration-and-continuous-deployment/</link>
+      <pubDate>Mon, 11 Apr 2016 09:11:04 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/how-docker-simplifies-continuous-integration-and-continuous-deployment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://usergroup.tv/videos/docker/</link>
+      <pubDate>Sat, 26 Sep 2015 12:18:28 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/docker/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

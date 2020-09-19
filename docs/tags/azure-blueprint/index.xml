@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Blueprint on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/azure-blueprint/</link>
+    <description>Recent content in Azure Blueprint on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Apr 2020 18:34:29 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/azure-blueprint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Blueprint</title>
+      <link>https://usergroup.tv/videos/tag/azure-blueprint/</link>
+      <pubDate>Wed, 08 Apr 2020 18:34:29 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure-blueprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Blueprint 101</title>
+      <link>https://usergroup.tv/videos/azure-blueprint-101/</link>
+      <pubDate>Wed, 08 Apr 2020 18:34:29 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/azure-blueprint-101/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

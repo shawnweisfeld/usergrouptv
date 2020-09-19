@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WebMatrix on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/webmatrix/</link>
+    <description>Recent content in WebMatrix on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Apr 2012 12:19:27 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/webmatrix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with WebMatrix and Razor</title>
+      <link>https://usergroup.tv/videos/getting-started-with-webmatrix-and-razor/</link>
+      <pubDate>Wed, 04 Apr 2012 12:19:27 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/getting-started-with-webmatrix-and-razor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WebMatrix</title>
+      <link>https://usergroup.tv/videos/tag/webmatrix/</link>
+      <pubDate>Wed, 04 Apr 2012 12:19:27 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/webmatrix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WebMatrix to ASP.NET MVC Web Camp: Part 3 - What is Microsoft WebMatrix?</title>
+      <link>https://usergroup.tv/videos/webmatrix-to-asp-net-mvc-web-camp-part-3-what-is-microsoft-webmatrix/</link>
+      <pubDate>Mon, 16 May 2011 00:57:24 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/webmatrix-to-asp-net-mvc-web-camp-part-3-what-is-microsoft-webmatrix/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

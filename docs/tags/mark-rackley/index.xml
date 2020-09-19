@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Rackley on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/mark-rackley/</link>
+    <description>Recent content in Mark Rackley on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Oct 2013 21:19:13 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/mark-rackley/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mark Rackley</title>
+      <link>https://usergroup.tv/videos/category/speaker/mark-rackley/</link>
+      <pubDate>Fri, 11 Oct 2013 21:19:13 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/mark-rackley/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

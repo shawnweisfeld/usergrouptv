@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EF Code First on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/ef-code-first/</link>
+    <description>Recent content in EF Code First on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jul 2012 14:09:08 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/ef-code-first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EF Code First</title>
+      <link>https://usergroup.tv/videos/tag/ef-code-first/</link>
+      <pubDate>Tue, 17 Jul 2012 14:09:08 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/ef-code-first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entity Framework - The Right Way</title>
+      <link>https://usergroup.tv/videos/entity-framework-the-right-way-2/</link>
+      <pubDate>Tue, 17 Jul 2012 14:09:08 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/entity-framework-the-right-way-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code First Development with Entity Framework</title>
+      <link>https://usergroup.tv/videos/code-first-development-with-entity-framework/</link>
+      <pubDate>Thu, 01 Dec 2011 14:36:21 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/code-first-development-with-entity-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ditch the Designer: Building a More Maintainable Model with the Entity Framework Code-First API </title>
+      <link>https://usergroup.tv/videos/ditch-the-designer-building-a-more-maintainable-model-with-the-entity-framework-code-first-api/</link>
+      <pubDate>Tue, 27 Sep 2011 04:51:42 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/ditch-the-designer-building-a-more-maintainable-model-with-the-entity-framework-code-first-api/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

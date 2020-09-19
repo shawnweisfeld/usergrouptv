@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dapr on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/dapr/</link>
+    <description>Recent content in Dapr on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Sep 2020 13:49:27 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/dapr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adding a little DAPR to your .NET Microservices</title>
+      <link>https://usergroup.tv/videos/adding-a-little-dapr-to-your-net-microservices/</link>
+      <pubDate>Tue, 08 Sep 2020 13:49:27 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/adding-a-little-dapr-to-your-net-microservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dapr</title>
+      <link>https://usergroup.tv/videos/tag/dapr/</link>
+      <pubDate>Tue, 08 Sep 2020 13:49:27 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/dapr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dapr, Rudr, Porter &amp; OAM - New OSS projects</title>
+      <link>https://usergroup.tv/videos/dapr-rudr-porter-oam-new-oss-projects/</link>
+      <pubDate>Wed, 08 Jan 2020 16:19:26 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/dapr-rudr-porter-oam-new-oss-projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

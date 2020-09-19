@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/devops/</link>
+    <description>Recent content in DevOps on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jun 2020 15:10:57 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure DevOps for .Net- Fall into the Pit of Success</title>
+      <link>https://usergroup.tv/videos/azure-devops-for-net-fall-into-the-pit-of-success-2/</link>
+      <pubDate>Tue, 16 Jun 2020 15:10:57 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/azure-devops-for-net-fall-into-the-pit-of-success-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://usergroup.tv/videos/tag/devops/</link>
+      <pubDate>Tue, 16 Jun 2020 15:10:57 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps in a Cloud World</title>
+      <link>https://usergroup.tv/videos/devops-in-a-cloud-world-2/</link>
+      <pubDate>Mon, 14 Jan 2019 15:49:50 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/devops-in-a-cloud-world-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CI/CD Pipeline options when Azure is your datacenter</title>
+      <link>https://usergroup.tv/videos/cicd-pipeline-options-when-azure-is-your-datacenter/</link>
+      <pubDate>Wed, 10 Oct 2018 13:22:16 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/cicd-pipeline-options-when-azure-is-your-datacenter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building A Bridge for the Future, How can DevOps Change Your Organization</title>
+      <link>https://usergroup.tv/videos/building-a-bridge-for-the-future-how-can-devops-change-your-organization/</link>
+      <pubDate>Sat, 29 Sep 2018 15:22:32 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/building-a-bridge-for-the-future-how-can-devops-change-your-organization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps in a Cloud World</title>
+      <link>https://usergroup.tv/videos/devops-in-a-cloud-world/</link>
+      <pubDate>Sat, 29 Sep 2018 15:13:01 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/devops-in-a-cloud-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistent Deployments / Team Development</title>
+      <link>https://usergroup.tv/videos/consistent-deployments-team-development/</link>
+      <pubDate>Sat, 23 Jun 2018 19:55:55 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/consistent-deployments-team-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps: The Domain Model of Continuous Delivery</title>
+      <link>https://usergroup.tv/videos/devops-the-domain-model-of-continuous-delivery-2/</link>
+      <pubDate>Mon, 11 Jun 2018 22:57:18 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/devops-the-domain-model-of-continuous-delivery-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Domain Model of Continuous Delivery</title>
+      <link>https://usergroup.tv/videos/the-domain-model-of-continuous-delivery/</link>
+      <pubDate>Sat, 21 Apr 2018 13:19:39 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/the-domain-model-of-continuous-delivery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DEVOPS VS RAIDS : HOW DEVOPS IS LIKE AN MMO</title>
+      <link>https://usergroup.tv/videos/devops-vs-raids-how-devops-is-like-an-mmo/</link>
+      <pubDate>Sat, 05 Aug 2017 17:15:33 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/devops-vs-raids-how-devops-is-like-an-mmo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INFRASTRUCTURE AS CODE: REDEFINING SYSTEMS MANAGEMENT</title>
+      <link>https://usergroup.tv/videos/infrastructure-as-code-redefining-systems-management/</link>
+      <pubDate>Fri, 04 Aug 2017 14:50:48 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/infrastructure-as-code-redefining-systems-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Discussion on DevOps </title>
+      <link>https://usergroup.tv/videos/a-discussion-on-devops/</link>
+      <pubDate>Fri, 16 Oct 2015 02:06:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/a-discussion-on-devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The DevOps Silver Bullet</title>
+      <link>https://usergroup.tv/videos/the-devops-silver-bullet/</link>
+      <pubDate>Sat, 26 Sep 2015 12:08:46 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/the-devops-silver-bullet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Easy Wins for Enhancing Your Development Process</title>
+      <link>https://usergroup.tv/videos/easy-wins-for-enhancing-your-development-process/</link>
+      <pubDate>Sat, 26 Sep 2015 12:06:35 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/easy-wins-for-enhancing-your-development-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BoxStarter and other tools for Environments as code in Azure</title>
+      <link>https://usergroup.tv/videos/boxstarter-and-other-tools-for-environments-as-code-in-azure/</link>
+      <pubDate>Wed, 19 Nov 2014 12:33:51 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/boxstarter-and-other-tools-for-environments-as-code-in-azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a DevOps Culture</title>
+      <link>https://usergroup.tv/videos/building-a-devops-culture/</link>
+      <pubDate>Sat, 13 Sep 2014 23:35:58 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/building-a-devops-culture/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

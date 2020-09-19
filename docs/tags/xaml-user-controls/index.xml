@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XAML User Controls on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/xaml-user-controls/</link>
+    <description>Recent content in XAML User Controls on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Sep 2011 03:17:42 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/xaml-user-controls/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>XAML User Controls</title>
+      <link>https://usergroup.tv/videos/tag/xaml-user-controls/</link>
+      <pubDate>Tue, 06 Sep 2011 03:17:42 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/xaml-user-controls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XAML User Controls</title>
+      <link>https://usergroup.tv/videos/xaml-user-controls/</link>
+      <pubDate>Tue, 06 Sep 2011 03:17:42 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/xaml-user-controls/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

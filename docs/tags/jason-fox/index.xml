@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jason Fox on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/jason-fox/</link>
+    <description>Recent content in Jason Fox on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Oct 2018 14:09:42 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/jason-fox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jason Fox</title>
+      <link>https://usergroup.tv/videos/category/speaker/jason-fox/</link>
+      <pubDate>Sat, 13 Oct 2018 14:09:42 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/jason-fox/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

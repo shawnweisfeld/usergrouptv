@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/testing/</link>
+    <description>Recent content in Testing on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Apr 2018 21:44:12 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to test Spring applications and services</title>
+      <link>https://usergroup.tv/videos/how-to-test-spring-applications-and-services/</link>
+      <pubDate>Thu, 05 Apr 2018 21:44:12 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/how-to-test-spring-applications-and-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing</title>
+      <link>https://usergroup.tv/videos/tag/testing/</link>
+      <pubDate>Thu, 05 Apr 2018 21:44:12 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Testing With React, Storybook, and WebdriverIO</title>
+      <link>https://usergroup.tv/videos/continuous-testing-with-react-storybook-and-webdriverio/</link>
+      <pubDate>Fri, 06 Oct 2017 22:29:44 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/continuous-testing-with-react-storybook-and-webdriverio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Browser Testing From The Trenches </title>
+      <link>https://usergroup.tv/videos/automated-browser-testing-from-the-trenches/</link>
+      <pubDate>Mon, 11 Jul 2016 11:23:34 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/automated-browser-testing-from-the-trenches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Performance and Load Testing</title>
+      <link>https://usergroup.tv/videos/web-performance-and-load-testing/</link>
+      <pubDate>Sat, 26 Sep 2015 12:01:07 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/web-performance-and-load-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silverlight Testing Extravaganza! </title>
+      <link>https://usergroup.tv/videos/silverlight-testing-extravaganza/</link>
+      <pubDate>Mon, 11 Apr 2011 22:14:37 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/silverlight-testing-extravaganza/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

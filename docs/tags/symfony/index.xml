@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Symfony on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/symfony/</link>
+    <description>Recent content in Symfony on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Oct 2015 02:04:48 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/symfony/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rebuilding our Foundation: How We Used Symfony To Rewrite Our Application </title>
+      <link>https://usergroup.tv/videos/rebuilding-our-foundation-how-we-used-symfony-to-rewrite-our-application/</link>
+      <pubDate>Fri, 16 Oct 2015 02:04:48 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/rebuilding-our-foundation-how-we-used-symfony-to-rewrite-our-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symfony</title>
+      <link>https://usergroup.tv/videos/tag/symfony/</link>
+      <pubDate>Fri, 16 Oct 2015 02:04:48 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/symfony/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

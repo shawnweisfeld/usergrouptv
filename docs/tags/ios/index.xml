@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iOS on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/ios/</link>
+    <description>Recent content in iOS on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Sep 2014 11:26:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iOS</title>
+      <link>https://usergroup.tv/videos/tag/ios/</link>
+      <pubDate>Fri, 26 Sep 2014 11:26:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iOS Development for the Enterprise</title>
+      <link>https://usergroup.tv/videos/ios-development-for-the-enterprise/</link>
+      <pubDate>Fri, 26 Sep 2014 11:26:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/ios-development-for-the-enterprise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iOS for the .Net Web Guy</title>
+      <link>https://usergroup.tv/videos/ios-for-the-net-web-guy/</link>
+      <pubDate>Fri, 15 Aug 2014 20:08:48 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/ios-for-the-net-web-guy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools for the iOS Developer</title>
+      <link>https://usergroup.tv/videos/tools-for-the-ios-developer/</link>
+      <pubDate>Sat, 14 Jun 2014 11:04:26 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tools-for-the-ios-developer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

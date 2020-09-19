@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C# on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/c#/</link>
+    <description>Recent content in C# on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jul 2020 02:10:01 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/c#/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C#</title>
+      <link>https://usergroup.tv/videos/tag/c/</link>
+      <pubDate>Thu, 23 Jul 2020 02:10:01 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What&#39;s New in C# 8 Interfaces (and how to use them effectively)</title>
+      <link>https://usergroup.tv/videos/whats-new-in-c-8-interfaces-and-how-to-use-them-effectively/</link>
+      <pubDate>Thu, 23 Jul 2020 02:10:01 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/whats-new-in-c-8-interfaces-and-how-to-use-them-effectively/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turbocharged: Writing High-Performance C# and .NET Code</title>
+      <link>https://usergroup.tv/videos/turbocharged-writing-high-performance-c-and-net-code/</link>
+      <pubDate>Tue, 28 Apr 2020 21:17:13 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/turbocharged-writing-high-performance-c-and-net-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C# 6, 7 And Beyond</title>
+      <link>https://usergroup.tv/videos/c-6-7-and-beyond/</link>
+      <pubDate>Sat, 13 Oct 2018 14:11:03 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/c-6-7-and-beyond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why Do We Want C#7?</title>
+      <link>https://usergroup.tv/videos/why-do-we-want-c7/</link>
+      <pubDate>Sat, 05 May 2018 15:35:16 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/why-do-we-want-c7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to C# Delegates</title>
+      <link>https://usergroup.tv/videos/intro-to-c-delegates/</link>
+      <pubDate>Thu, 20 Jul 2017 14:07:35 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/intro-to-c-delegates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What’s new in C# 7 </title>
+      <link>https://usergroup.tv/videos/whats-new-in-c-7/</link>
+      <pubDate>Mon, 08 May 2017 11:50:10 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/whats-new-in-c-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What’s New in C# 6.0 </title>
+      <link>https://usergroup.tv/videos/whats-new-in-c-6-0/</link>
+      <pubDate>Mon, 12 Oct 2015 02:07:36 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/whats-new-in-c-6-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Casablanca will take your C&#43;&#43; to the Cloud and beyond</title>
+      <link>https://usergroup.tv/videos/casablanca-will-take-your-c-to-the-cloud-and-beyond-2/</link>
+      <pubDate>Tue, 11 Sep 2012 15:04:58 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/casablanca-will-take-your-c-to-the-cloud-and-beyond-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deterministic Garbage Collection</title>
+      <link>https://usergroup.tv/videos/deterministic-garbage-collection/</link>
+      <pubDate>Tue, 11 Sep 2012 14:29:26 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/deterministic-garbage-collection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Casablanca will take your C&#43;&#43; to the Cloud and beyond</title>
+      <link>https://usergroup.tv/videos/casablanca-will-take-your-c-to-the-cloud-and-beyond/</link>
+      <pubDate>Sat, 08 Sep 2012 14:37:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/casablanca-will-take-your-c-to-the-cloud-and-beyond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C# in 24 Hours: Hour 14 - Working with XML</title>
+      <link>https://usergroup.tv/videos/c-in-24-hours-hour-14-working-with-xml/</link>
+      <pubDate>Sat, 28 Apr 2012 13:43:54 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/c-in-24-hours-hour-14-working-with-xml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lambdas</title>
+      <link>https://usergroup.tv/videos/lambdas/</link>
+      <pubDate>Tue, 08 Mar 2011 19:08:20 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/lambdas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

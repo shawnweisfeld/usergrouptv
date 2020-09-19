@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dallas GiveCamp on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/dallas-givecamp/</link>
+    <description>Recent content in Dallas GiveCamp on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Oct 2011 23:30:25 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/dallas-givecamp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dallas GiveCamp</title>
+      <link>https://usergroup.tv/videos/category/group/dallas-givecamp/</link>
+      <pubDate>Sat, 22 Oct 2011 23:30:25 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/dallas-givecamp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

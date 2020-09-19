@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source DB on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/open-source-db/</link>
+    <description>Recent content in Open Source DB on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Aug 2013 11:37:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/open-source-db/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Source DB</title>
+      <link>https://usergroup.tv/videos/tag/open-source-db/</link>
+      <pubDate>Sat, 24 Aug 2013 11:37:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/open-source-db/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server vs The World</title>
+      <link>https://usergroup.tv/videos/sql-server-vs-the-world/</link>
+      <pubDate>Sat, 24 Aug 2013 11:37:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/sql-server-vs-the-world/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

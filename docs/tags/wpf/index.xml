@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wpf on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/wpf/</link>
+    <description>Recent content in wpf on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Aug 2011 20:03:04 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/wpf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>wpf</title>
+      <link>https://usergroup.tv/videos/tag/wpf/</link>
+      <pubDate>Fri, 12 Aug 2011 20:03:04 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/wpf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WPF Validation: Techniques And Styles</title>
+      <link>https://usergroup.tv/videos/wpf-validation-techniques-and-styles/</link>
+      <pubDate>Fri, 12 Aug 2011 20:03:04 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/wpf-validation-techniques-and-styles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WPF Programming for Windows 7</title>
+      <link>https://usergroup.tv/videos/wpf-programming-for-windows-7/</link>
+      <pubDate>Fri, 12 Aug 2011 19:57:30 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/wpf-programming-for-windows-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Binding without INotifyPropertyChanged</title>
+      <link>https://usergroup.tv/videos/data-binding-without-inotifypropertychanged/</link>
+      <pubDate>Tue, 15 Feb 2011 18:00:44 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/data-binding-without-inotifypropertychanged/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

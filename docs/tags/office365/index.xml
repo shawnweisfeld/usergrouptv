@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Office365 on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/office365/</link>
+    <description>Recent content in Office365 on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Nov 2016 11:43:32 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/office365/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building Client Side Web Parts: SharePoint Framework, React &amp; Office UI Fabric </title>
+      <link>https://usergroup.tv/videos/building-client-side-web-parts-sharepoint-framework-react-office-ui-fabric/</link>
+      <pubDate>Wed, 09 Nov 2016 11:43:32 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/building-client-side-web-parts-sharepoint-framework-react-office-ui-fabric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Office365</title>
+      <link>https://usergroup.tv/videos/tag/office365/</link>
+      <pubDate>Wed, 09 Nov 2016 11:43:32 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/office365/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to Office 365 Admin Center</title>
+      <link>https://usergroup.tv/videos/intro-to-office-365-admin-center/</link>
+      <pubDate>Sat, 24 Sep 2016 19:55:36 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/intro-to-office-365-admin-center/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real World Add-in Development for Office365 and SharePoint 2013</title>
+      <link>https://usergroup.tv/videos/real-world-add-in-development-for-office365-and-sharepoint-2013/</link>
+      <pubDate>Sat, 24 Sep 2016 19:49:30 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/real-world-add-in-development-for-office365-and-sharepoint-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

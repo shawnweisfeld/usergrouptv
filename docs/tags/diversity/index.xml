@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diversity on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/diversity/</link>
+    <description>Recent content in Diversity on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Oct 2017 11:56:08 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/diversity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Developing Diversity</title>
+      <link>https://usergroup.tv/videos/developing-diversity/</link>
+      <pubDate>Sat, 14 Oct 2017 11:56:08 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/developing-diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversity</title>
+      <link>https://usergroup.tv/videos/tag/diversity/</link>
+      <pubDate>Sat, 14 Oct 2017 11:56:08 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASSEMBLE YOUR X TEAM</title>
+      <link>https://usergroup.tv/videos/assemble-your-x-team/</link>
+      <pubDate>Sat, 05 Aug 2017 17:13:06 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/assemble-your-x-team/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

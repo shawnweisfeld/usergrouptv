@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sails.js on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/sails.js/</link>
+    <description>Recent content in Sails.js on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 May 2014 10:09:17 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sails.js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sails.js</title>
+      <link>https://usergroup.tv/videos/tag/sails-js/</link>
+      <pubDate>Fri, 16 May 2014 10:09:17 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sails-js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sails.js: A High-Productivity Node.js Web App Framework</title>
+      <link>https://usergroup.tv/videos/sails-js-a-high-productivity-node-js-web-app-framework/</link>
+      <pubDate>Fri, 16 May 2014 10:09:17 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/sails-js-a-high-productivity-node-js-web-app-framework/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

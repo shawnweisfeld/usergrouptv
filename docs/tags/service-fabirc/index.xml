@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service Fabirc on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/service-fabirc/</link>
+    <description>Recent content in Service Fabirc on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Sep 2016 18:22:06 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/service-fabirc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building Micro Services with Service Fabric </title>
+      <link>https://usergroup.tv/videos/building-micro-services-with-service-fabric-4/</link>
+      <pubDate>Thu, 08 Sep 2016 18:22:06 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/building-micro-services-with-service-fabric-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service Fabirc</title>
+      <link>https://usergroup.tv/videos/tag/service-fabirc/</link>
+      <pubDate>Thu, 08 Sep 2016 18:22:06 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/service-fabirc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Micro Services with Service Fabric</title>
+      <link>https://usergroup.tv/videos/building-micro-services-with-service-fabric-3/</link>
+      <pubDate>Thu, 28 Apr 2016 13:02:52 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/building-micro-services-with-service-fabric-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Micro Services with Service Fabric</title>
+      <link>https://usergroup.tv/videos/building-micro-services-with-service-fabric-2/</link>
+      <pubDate>Tue, 19 Apr 2016 17:51:38 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/building-micro-services-with-service-fabric-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

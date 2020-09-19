@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PowerApps on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/powerapps/</link>
+    <description>Recent content in PowerApps on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Nov 2019 17:25:35 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/powerapps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PowerApps</title>
+      <link>https://usergroup.tv/videos/tag/powerapps/</link>
+      <pubDate>Wed, 13 Nov 2019 17:25:35 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/powerapps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quick Tips for Elegant Business Apps</title>
+      <link>https://usergroup.tv/videos/quick-tips-for-elegant-business-apps/</link>
+      <pubDate>Wed, 13 Nov 2019 17:25:35 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/quick-tips-for-elegant-business-apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PowerApps and Flow – What’s in it for me and why now?</title>
+      <link>https://usergroup.tv/videos/powerapps-and-flow-whats-in-it-for-me-and-why-now/</link>
+      <pubDate>Wed, 13 Mar 2019 23:34:23 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/powerapps-and-flow-whats-in-it-for-me-and-why-now/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Power of PowerApps with SharePoint</title>
+      <link>https://usergroup.tv/videos/the-power-of-powerapps-with-sharepoint/</link>
+      <pubDate>Wed, 12 Sep 2018 21:21:11 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/the-power-of-powerapps-with-sharepoint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

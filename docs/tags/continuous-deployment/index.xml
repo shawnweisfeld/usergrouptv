@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Continuous Deployment on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/continuous-deployment/</link>
+    <description>Recent content in Continuous Deployment on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jul 2017 13:56:51 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/continuous-deployment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CI/CD with VisualStudio.com and Azure</title>
+      <link>https://usergroup.tv/videos/cicd-with-visualstudio-com-and-azure/</link>
+      <pubDate>Tue, 18 Jul 2017 13:56:51 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/cicd-with-visualstudio-com-and-azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Deployment</title>
+      <link>https://usergroup.tv/videos/tag/continuous-deployment/</link>
+      <pubDate>Tue, 18 Jul 2017 13:56:51 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/continuous-deployment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reshaping the Company- Continuous Deployment and Culture change</title>
+      <link>https://usergroup.tv/videos/reshaping-the-company-continuous-deployment-and-culture-change/</link>
+      <pubDate>Sat, 26 Sep 2015 12:04:51 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/reshaping-the-company-continuous-deployment-and-culture-change/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

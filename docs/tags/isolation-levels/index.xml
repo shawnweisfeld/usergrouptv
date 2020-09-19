@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Isolation Levels on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/isolation-levels/</link>
+    <description>Recent content in Isolation Levels on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Jun 2017 14:16:28 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/isolation-levels/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Isolation Levels</title>
+      <link>https://usergroup.tv/videos/tag/isolation-levels/</link>
+      <pubDate>Sat, 17 Jun 2017 14:16:28 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/isolation-levels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>You want me to Isolate what? An introduction into data integrity and Isolation Levels of SQL Server</title>
+      <link>https://usergroup.tv/videos/you-want-me-to-isolate-what-an-introduction-into-data-integrity-and-isolation-levels-of-sql-server/</link>
+      <pubDate>Sat, 17 Jun 2017 14:16:28 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/you-want-me-to-isolate-what-an-introduction-into-data-integrity-and-isolation-levels-of-sql-server/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

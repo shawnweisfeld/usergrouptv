@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ASP.NET on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/asp.net/</link>
+    <description>Recent content in ASP.NET on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 May 2020 14:03:48 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/asp.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Meeting with Scott Hunter !!</title>
+      <link>https://usergroup.tv/videos/a-meeting-with-scott-hunter/</link>
+      <pubDate>Tue, 26 May 2020 14:03:48 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/a-meeting-with-scott-hunter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASP.NET</title>
+      <link>https://usergroup.tv/videos/tag/asp-net/</link>
+      <pubDate>Tue, 26 May 2020 14:03:48 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/asp-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile ASP.NET MVC</title>
+      <link>https://usergroup.tv/videos/mobile-asp-net-mvc/</link>
+      <pubDate>Wed, 05 Jun 2013 19:38:11 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/mobile-asp-net-mvc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASP.NET Roadmap: One ASP.NET – Web Forms, MVC, Web API, and more</title>
+      <link>https://usergroup.tv/videos/asp-net-roadmap-one-asp-net-web-forms-mvc-web-api-and-more/</link>
+      <pubDate>Sat, 08 Sep 2012 17:55:41 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/asp-net-roadmap-one-asp-net-web-forms-mvc-web-api-and-more/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building composable web applications</title>
+      <link>https://usergroup.tv/videos/building-composable-web-applications/</link>
+      <pubDate>Sat, 08 Sep 2012 00:51:39 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/building-composable-web-applications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

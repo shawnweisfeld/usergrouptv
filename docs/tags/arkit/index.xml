@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ARKit on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/arkit/</link>
+    <description>Recent content in ARKit on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 May 2018 15:33:09 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/arkit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ARKit</title>
+      <link>https://usergroup.tv/videos/tag/arkit/</link>
+      <pubDate>Sat, 05 May 2018 15:33:09 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/arkit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Augmented Reality Apps Using ARKit</title>
+      <link>https://usergroup.tv/videos/building-augmented-reality-apps-using-arkit/</link>
+      <pubDate>Sat, 05 May 2018 15:33:09 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/building-augmented-reality-apps-using-arkit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Augmented Reality Apps Using ARKit for iOS</title>
+      <link>https://usergroup.tv/videos/building-augmented-reality-apps-using-arkit-for-ios/</link>
+      <pubDate>Sat, 14 Oct 2017 11:37:59 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/building-augmented-reality-apps-using-arkit-for-ios/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

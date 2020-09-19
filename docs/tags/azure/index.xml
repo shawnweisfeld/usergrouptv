@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/azure/</link>
+    <description>Recent content in Azure on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2020 17:47:45 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/azure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure</title>
+      <link>https://usergroup.tv/videos/tag/azure/</link>
+      <pubDate>Tue, 15 Sep 2020 17:47:45 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Today’s API Thread Landscape: Detect and Block Threats</title>
+      <link>https://usergroup.tv/videos/todays-api-thread-landscape-detect-and-block-threats/</link>
+      <pubDate>Tue, 15 Sep 2020 17:47:45 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/todays-api-thread-landscape-detect-and-block-threats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crazy Web Performance with Azure Static Web Apps</title>
+      <link>https://usergroup.tv/videos/crazy-web-performance-with-azure-static-web-apps/</link>
+      <pubDate>Tue, 25 Aug 2020 13:52:05 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/crazy-web-performance-with-azure-static-web-apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Cloud Adoption Framework for Azure in a Nutshell</title>
+      <link>https://usergroup.tv/videos/microsoft-cloud-adoption-framework-for-azure-in-a-nutshell/</link>
+      <pubDate>Wed, 13 Nov 2019 17:28:13 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/microsoft-cloud-adoption-framework-for-azure-in-a-nutshell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2019 Austin Global Azure Bootcamp Opening Remarks</title>
+      <link>https://usergroup.tv/videos/2019-austin-global-azure-bootcamp-opening-remarks/</link>
+      <pubDate>Sat, 27 Apr 2019 13:38:08 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/2019-austin-global-azure-bootcamp-opening-remarks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring options for Azure</title>
+      <link>https://usergroup.tv/videos/monitoring-options-for-azure/</link>
+      <pubDate>Wed, 12 Dec 2018 16:51:12 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/monitoring-options-for-azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure in 60 Minutes</title>
+      <link>https://usergroup.tv/videos/azure-in-60-minutes-2/</link>
+      <pubDate>Sat, 05 May 2018 15:04:15 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/azure-in-60-minutes-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure in 60 minutes</title>
+      <link>https://usergroup.tv/videos/azure-in-60-minutes/</link>
+      <pubDate>Sat, 21 Apr 2018 13:07:30 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/azure-in-60-minutes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices and the Cloud</title>
+      <link>https://usergroup.tv/videos/microservices-and-the-cloud-2/</link>
+      <pubDate>Sat, 14 Oct 2017 12:01:42 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/microservices-and-the-cloud-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CI/CD with VisualStudio.com and Azure </title>
+      <link>https://usergroup.tv/videos/cicd-with-visualstudio-com-and-azure-3/</link>
+      <pubDate>Mon, 09 Oct 2017 16:26:42 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/cicd-with-visualstudio-com-and-azure-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CI/CD with VisualStudio.com and Azure</title>
+      <link>https://usergroup.tv/videos/cicd-with-visualstudio-com-and-azure-2/</link>
+      <pubDate>Fri, 06 Oct 2017 16:18:23 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/cicd-with-visualstudio-com-and-azure-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tale of Two Clouds: Building An App Across AWS and Azure</title>
+      <link>https://usergroup.tv/videos/a-tale-of-two-clouds-building-an-app-across-aws-and-azure/</link>
+      <pubDate>Thu, 20 Jul 2017 14:05:46 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/a-tale-of-two-clouds-building-an-app-across-aws-and-azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis Services is in Azure? Seriously!? Let&#39;s build a model!</title>
+      <link>https://usergroup.tv/videos/analysis-services-is-in-azure-seriously-lets-build-a-model/</link>
+      <pubDate>Sat, 17 Jun 2017 14:06:27 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/analysis-services-is-in-azure-seriously-lets-build-a-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Azure ARM Templates for Dev and Test Environments </title>
+      <link>https://usergroup.tv/videos/using-azure-arm-templates-for-dev-and-test-environments/</link>
+      <pubDate>Wed, 18 Jan 2017 19:22:32 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/using-azure-arm-templates-for-dev-and-test-environments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Azure Fundamentals: Compute, Network, Storage, Identity and Automation</title>
+      <link>https://usergroup.tv/videos/microsoft-azure-fundamentals-compute-network-storage-identity-and-automation/</link>
+      <pubDate>Sat, 24 Sep 2016 20:00:29 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/microsoft-azure-fundamentals-compute-network-storage-identity-and-automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting started with Azure Infrastructure as a Service (IaaS)</title>
+      <link>https://usergroup.tv/videos/getting-started-with-azure-infrastructure-as-a-service-iaas/</link>
+      <pubDate>Sat, 16 Apr 2016 11:00:56 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/getting-started-with-azure-infrastructure-as-a-service-iaas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Azure and cloud</title>
+      <link>https://usergroup.tv/videos/introduction-to-azure-and-cloud/</link>
+      <pubDate>Sat, 16 Apr 2016 11:00:27 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/introduction-to-azure-and-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data &amp; Analytics in Azure</title>
+      <link>https://usergroup.tv/videos/big-data-analytics-in-azure/</link>
+      <pubDate>Sat, 16 Apr 2016 10:56:28 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/big-data-analytics-in-azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Platform Authentication</title>
+      <link>https://usergroup.tv/videos/cross-platform-authentication/</link>
+      <pubDate>Thu, 12 Nov 2015 13:21:05 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/cross-platform-authentication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure - The building blocks of a modern cloud application - Part 2</title>
+      <link>https://usergroup.tv/videos/azure-the-building-blocks-of-a-modern-cloud-application-part-2/</link>
+      <pubDate>Fri, 16 Oct 2015 02:00:20 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/azure-the-building-blocks-of-a-modern-cloud-application-part-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure - The building blocks of a modern cloud application - Part 1</title>
+      <link>https://usergroup.tv/videos/azure-the-building-blocks-of-a-modern-cloud-application-part-1/</link>
+      <pubDate>Fri, 16 Oct 2015 01:59:31 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/azure-the-building-blocks-of-a-modern-cloud-application-part-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure - The building blocks of a modern cloud application </title>
+      <link>https://usergroup.tv/videos/azure-the-building-blocks-of-a-modern-cloud-application-2/</link>
+      <pubDate>Tue, 08 Sep 2015 11:58:35 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/azure-the-building-blocks-of-a-modern-cloud-application-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infrastructure as code</title>
+      <link>https://usergroup.tv/videos/infrastructure-as-code/</link>
+      <pubDate>Wed, 15 Jul 2015 13:41:36 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/infrastructure-as-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure - The building blocks of a modern cloud application</title>
+      <link>https://usergroup.tv/videos/azure-the-building-blocks-of-a-modern-cloud-application/</link>
+      <pubDate>Tue, 26 May 2015 21:16:30 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/azure-the-building-blocks-of-a-modern-cloud-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To cloud or not to cloud?</title>
+      <link>https://usergroup.tv/videos/to-cloud-or-not-to-cloud/</link>
+      <pubDate>Fri, 10 Oct 2014 11:35:21 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/to-cloud-or-not-to-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Test driving Azure DocumentDB and Search</title>
+      <link>https://usergroup.tv/videos/test-driving-azure-documentdb-and-search/</link>
+      <pubDate>Wed, 17 Sep 2014 11:41:57 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/test-driving-azure-documentdb-and-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Highly Scalable Applications with Windows Azure</title>
+      <link>https://usergroup.tv/videos/building-highly-scalable-applications-with-windows-azure-2/</link>
+      <pubDate>Sat, 14 Jun 2014 11:08:07 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/building-highly-scalable-applications-with-windows-azure-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Highly Scalable Applications with Windows Azure</title>
+      <link>https://usergroup.tv/videos/building-highly-scalable-applications-with-windows-azure/</link>
+      <pubDate>Thu, 13 Mar 2014 18:59:50 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/building-highly-scalable-applications-with-windows-azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Tiny little apps with large back-ends</title>
+      <link>https://usergroup.tv/videos/tiny-little-apps-with-large-back-ends/</link>
+      <pubDate>Thu, 13 Dec 2012 16:13:44 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tiny-little-apps-with-large-back-ends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Small Mobile Apps with Big Back Ends</title>
+      <link>https://usergroup.tv/videos/small-mobile-apps-with-big-back-ends/</link>
+      <pubDate>Tue, 04 Dec 2012 16:09:50 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/small-mobile-apps-with-big-back-ends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Introduction to Azure Cloud Storage</title>
+      <link>https://usergroup.tv/videos/an-introduction-to-azure-cloud-storage/</link>
+      <pubDate>Wed, 03 Oct 2012 15:21:14 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/an-introduction-to-azure-cloud-storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Windows Azure Services</title>
+      <link>https://usergroup.tv/videos/exploring-windows-azure-services/</link>
+      <pubDate>Sat, 08 Sep 2012 14:42:50 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/exploring-windows-azure-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Start - New Project to Massively Scalable Deployment to the Cloud in 15 minutes on Windows Azure</title>
+      <link>https://usergroup.tv/videos/from-start-new-project-to-massively-scalable-deployment-to-the-cloud-in-15-minutes-on-windows-azure/</link>
+      <pubDate>Fri, 24 Aug 2012 00:35:05 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/from-start-new-project-to-massively-scalable-deployment-to-the-cloud-in-15-minutes-on-windows-azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amazon Web Services vs. Rackspace vs. Azure Smackdown</title>
+      <link>https://usergroup.tv/videos/amazon-web-services-vs-rackspace-vs-azure-smackdown/</link>
+      <pubDate>Fri, 24 Aug 2012 00:31:30 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/amazon-web-services-vs-rackspace-vs-azure-smackdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lap Around Windows Azure Spring Release</title>
+      <link>https://usergroup.tv/videos/lap-around-windows-azure-spring-release/</link>
+      <pubDate>Fri, 24 Aug 2012 00:25:36 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/lap-around-windows-azure-spring-release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What&#39;s New With Windows Azure?</title>
+      <link>https://usergroup.tv/videos/whats-new-with-windows-azure/</link>
+      <pubDate>Tue, 24 Jul 2012 15:40:10 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/whats-new-with-windows-azure/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

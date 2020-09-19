@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AD on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/ad/</link>
+    <description>Recent content in AD on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Nov 2015 13:21:05 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/ad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AD</title>
+      <link>https://usergroup.tv/videos/tag/ad/</link>
+      <pubDate>Thu, 12 Nov 2015 13:21:05 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/ad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Platform Authentication</title>
+      <link>https://usergroup.tv/videos/cross-platform-authentication/</link>
+      <pubDate>Thu, 12 Nov 2015 13:21:05 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/cross-platform-authentication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Active Directory affects SQL Server</title>
+      <link>https://usergroup.tv/videos/how-active-directory-affects-sql-server-2/</link>
+      <pubDate>Sat, 31 Jan 2015 23:37:33 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/how-active-directory-affects-sql-server-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

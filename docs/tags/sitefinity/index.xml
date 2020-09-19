@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sitefinity on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/sitefinity/</link>
+    <description>Recent content in Sitefinity on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Oct 2011 23:20:14 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sitefinity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sitefinity</title>
+      <link>https://usergroup.tv/videos/tag/sitefinity/</link>
+      <pubDate>Sat, 22 Oct 2011 23:20:14 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sitefinity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sitefinity for Non-Profits</title>
+      <link>https://usergroup.tv/videos/sitefinity-for-non-profits/</link>
+      <pubDate>Sat, 22 Oct 2011 23:20:14 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/sitefinity-for-non-profits/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

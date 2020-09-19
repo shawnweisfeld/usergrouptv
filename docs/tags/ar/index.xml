@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AR on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/ar/</link>
+    <description>Recent content in AR on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Oct 2018 14:19:01 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/ar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AR</title>
+      <link>https://usergroup.tv/videos/tag/ar/</link>
+      <pubDate>Sat, 13 Oct 2018 14:19:01 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/ar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AR You Ready, Watson? (Augmented Reality with Unity and Watson)</title>
+      <link>https://usergroup.tv/videos/ar-you-ready-watson-augmented-reality-with-unity-and-watson/</link>
+      <pubDate>Sat, 13 Oct 2018 14:19:01 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/ar-you-ready-watson-augmented-reality-with-unity-and-watson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making AR for the web a reality</title>
+      <link>https://usergroup.tv/videos/making-ar-for-the-web-a-reality/</link>
+      <pubDate>Sat, 05 May 2018 14:57:36 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/making-ar-for-the-web-a-reality/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

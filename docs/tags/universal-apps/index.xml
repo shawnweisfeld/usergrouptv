@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Universal Apps on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/universal-apps/</link>
+    <description>Recent content in Universal Apps on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Oct 2014 02:14:48 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/universal-apps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three-Way Data Binding in Universal Apps: View, View Model, and Cloud</title>
+      <link>https://usergroup.tv/videos/three-way-data-binding-in-universal-apps-view-view-model-and-cloud/</link>
+      <pubDate>Fri, 10 Oct 2014 02:14:48 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/three-way-data-binding-in-universal-apps-view-view-model-and-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal Apps</title>
+      <link>https://usergroup.tv/videos/tag/universal-apps/</link>
+      <pubDate>Fri, 10 Oct 2014 02:14:48 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/universal-apps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

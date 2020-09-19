@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mvvm on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/mvvm/</link>
+    <description>Recent content in mvvm on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Oct 2017 11:43:45 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/mvvm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mvvm</title>
+      <link>https://usergroup.tv/videos/tag/mvvm/</link>
+      <pubDate>Sat, 14 Oct 2017 11:43:45 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/mvvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MVVM for mobile, don&#39;t do it cause comeone told you.</title>
+      <link>https://usergroup.tv/videos/mvvm-for-mobile-dont-do-it-cause-comeone-told-you/</link>
+      <pubDate>Sat, 14 Oct 2017 11:43:45 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/mvvm-for-mobile-dont-do-it-cause-comeone-told-you/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building WPF Apps with MVVM Lite</title>
+      <link>https://usergroup.tv/videos/building-wpf-apps-with-mvvm-lite/</link>
+      <pubDate>Sat, 12 Sep 2015 16:19:13 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/building-wpf-apps-with-mvvm-lite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-View Patterns</title>
+      <link>https://usergroup.tv/videos/model-view-patterns/</link>
+      <pubDate>Tue, 19 Jun 2012 11:33:03 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/model-view-patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MVVM</title>
+      <link>https://usergroup.tv/videos/mvvm/</link>
+      <pubDate>Sat, 10 Sep 2011 03:50:12 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/mvvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Binding without INotifyPropertyChanged</title>
+      <link>https://usergroup.tv/videos/data-binding-without-inotifypropertychanged/</link>
+      <pubDate>Tue, 15 Feb 2011 18:00:44 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/data-binding-without-inotifypropertychanged/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

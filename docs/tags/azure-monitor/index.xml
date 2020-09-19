@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Monitor on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/azure-monitor/</link>
+    <description>Recent content in Azure Monitor on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Dec 2018 16:51:12 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/azure-monitor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Monitor</title>
+      <link>https://usergroup.tv/videos/tag/azure-monitor/</link>
+      <pubDate>Wed, 12 Dec 2018 16:51:12 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure-monitor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring options for Azure</title>
+      <link>https://usergroup.tv/videos/monitoring-options-for-azure/</link>
+      <pubDate>Wed, 12 Dec 2018 16:51:12 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/monitoring-options-for-azure/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

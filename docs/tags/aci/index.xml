@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ACI on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/aci/</link>
+    <description>Recent content in ACI on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Apr 2019 13:45:58 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/aci/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACI</title>
+      <link>https://usergroup.tv/videos/tag/aci/</link>
+      <pubDate>Sat, 27 Apr 2019 13:45:58 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/aci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Containers without Servers, the coolest thing in Azure</title>
+      <link>https://usergroup.tv/videos/containers-without-servers-the-coolest-thing-in-azure/</link>
+      <pubDate>Sat, 27 Apr 2019 13:45:58 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/containers-without-servers-the-coolest-thing-in-azure/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

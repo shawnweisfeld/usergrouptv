@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cisco on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/cisco/</link>
+    <description>Recent content in Cisco on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Jan 2015 23:13:05 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/cisco/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cisco</title>
+      <link>https://usergroup.tv/videos/tag/cisco/</link>
+      <pubDate>Sat, 31 Jan 2015 23:13:05 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/cisco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Happens When SQL Server 2014 Meets Cisco UCS? Better Business Intelligence</title>
+      <link>https://usergroup.tv/videos/what-happens-when-sql-server-2014-meets-cisco-ucs-better-business-intelligence/</link>
+      <pubDate>Sat, 31 Jan 2015 23:13:05 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/what-happens-when-sql-server-2014-meets-cisco-ucs-better-business-intelligence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

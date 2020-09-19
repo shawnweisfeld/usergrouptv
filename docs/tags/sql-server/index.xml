@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL Server on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/sql-server/</link>
+    <description>Recent content in SQL Server on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Aug 2018 19:32:15 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql-server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demystifying JSON in SQL Server</title>
+      <link>https://usergroup.tv/videos/demystifying-json-in-sql-server/</link>
+      <pubDate>Sat, 25 Aug 2018 19:32:15 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/demystifying-json-in-sql-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server</title>
+      <link>https://usergroup.tv/videos/tag/sql-server/</link>
+      <pubDate>Sat, 25 Aug 2018 19:32:15 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Saturday Dallas 2018 Keynote</title>
+      <link>https://usergroup.tv/videos/sql-saturday-dallas-2018-keynote/</link>
+      <pubDate>Sat, 19 May 2018 22:56:13 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/sql-saturday-dallas-2018-keynote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server Tips from the Field</title>
+      <link>https://usergroup.tv/videos/sql-server-tips-from-the-field/</link>
+      <pubDate>Sat, 14 Oct 2017 11:50:04 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/sql-server-tips-from-the-field/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using T-SQL to find differences between tables</title>
+      <link>https://usergroup.tv/videos/using-t-sql-to-find-differences-between-tables/</link>
+      <pubDate>Tue, 15 Aug 2017 14:34:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/using-t-sql-to-find-differences-between-tables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Think Like the SQL Server Engine</title>
+      <link>https://usergroup.tv/videos/how-to-think-like-the-sql-server-engine/</link>
+      <pubDate>Sat, 17 Jun 2017 14:24:57 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/how-to-think-like-the-sql-server-engine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Acts of Senseless Databasing</title>
+      <link>https://usergroup.tv/videos/random-acts-of-senseless-databasing/</link>
+      <pubDate>Sat, 17 Jun 2017 14:17:44 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/random-acts-of-senseless-databasing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What&#39;s New SQL Server 2016 (BI) </title>
+      <link>https://usergroup.tv/videos/whats-new-sql-server-2016-bi/</link>
+      <pubDate>Wed, 25 May 2016 22:41:44 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/whats-new-sql-server-2016-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What&#39;s New SQL Server 2016 (engine)</title>
+      <link>https://usergroup.tv/videos/whats-new-sql-server-2016-engine/</link>
+      <pubDate>Tue, 24 May 2016 23:11:13 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/whats-new-sql-server-2016-engine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New features of SQL 2014</title>
+      <link>https://usergroup.tv/videos/new-features-of-sql-2014/</link>
+      <pubDate>Tue, 19 Aug 2014 18:15:14 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/new-features-of-sql-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Memory OLTP</title>
+      <link>https://usergroup.tv/videos/in-memory-oltp/</link>
+      <pubDate>Mon, 09 Sep 2013 02:34:44 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/in-memory-oltp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Analysis – Finding What Needs Tuning</title>
+      <link>https://usergroup.tv/videos/performance-analysis-finding-what-needs-tuning/</link>
+      <pubDate>Sat, 25 Aug 2012 22:00:47 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/performance-analysis-finding-what-needs-tuning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/r/</link>
+    <description>Recent content in R on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Sep 2018 15:11:38 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to R</title>
+      <link>https://usergroup.tv/videos/introduction-to-r/</link>
+      <pubDate>Sat, 29 Sep 2018 15:11:38 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/introduction-to-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://usergroup.tv/videos/tag/r/</link>
+      <pubDate>Sat, 29 Sep 2018 15:11:38 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code Like a Pirate ... Intro to R and Data Science Tools in MS</title>
+      <link>https://usergroup.tv/videos/code-like-a-pirate-intro-to-r-and-data-science-tools-in-ms/</link>
+      <pubDate>Sat, 11 Aug 2018 15:55:45 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/code-like-a-pirate-intro-to-r-and-data-science-tools-in-ms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R and SQL Server: Two Great Tastes That Taste Great Together</title>
+      <link>https://usergroup.tv/videos/r-and-sql-server-two-great-tastes-that-taste-great-together/</link>
+      <pubDate>Sat, 14 Oct 2017 11:48:49 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/r-and-sql-server-two-great-tastes-that-taste-great-together/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R For the SQL Server Developer</title>
+      <link>https://usergroup.tv/videos/r-for-the-sql-server-developer/</link>
+      <pubDate>Sat, 04 Mar 2017 22:04:31 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/r-for-the-sql-server-developer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

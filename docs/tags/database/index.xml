@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/database/</link>
+    <description>Recent content in Database on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jul 2019 13:58:57 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Database</title>
+      <link>https://usergroup.tv/videos/tag/database/</link>
+      <pubDate>Sat, 13 Jul 2019 13:58:57 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scales, Measurements and Encoding Schemes</title>
+      <link>https://usergroup.tv/videos/scales-measurements-and-encoding-schemes/</link>
+      <pubDate>Sat, 13 Jul 2019 13:58:57 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/scales-measurements-and-encoding-schemes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codd&#39;s Rules, Normal Forms, and SQL Anti-Patterns - Recognition &amp; Repair</title>
+      <link>https://usergroup.tv/videos/codds-rules-normal-forms-and-sql-anti-patterns-recognition-repair/</link>
+      <pubDate>Sat, 14 May 2016 12:34:16 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/codds-rules-normal-forms-and-sql-anti-patterns-recognition-repair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database Design from User Requirements</title>
+      <link>https://usergroup.tv/videos/database-design-from-user-requirements/</link>
+      <pubDate>Sat, 24 Aug 2013 11:28:30 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/database-design-from-user-requirements/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

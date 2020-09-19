@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MS SQL on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/ms-sql/</link>
+    <description>Recent content in MS SQL on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Feb 2020 12:08:41 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/ms-sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Bad Are Page Splits</title>
+      <link>https://usergroup.tv/videos/how-bad-are-page-splits/</link>
+      <pubDate>Tue, 18 Feb 2020 12:08:41 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/how-bad-are-page-splits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MS SQL</title>
+      <link>https://usergroup.tv/videos/tag/ms-sql/</link>
+      <pubDate>Tue, 18 Feb 2020 12:08:41 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/ms-sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Vault on SQL Server Tabular Model and Power BI</title>
+      <link>https://usergroup.tv/videos/data-vault-on-sql-server-tabular-model-and-power-bi/</link>
+      <pubDate>Sat, 08 Feb 2020 16:11:11 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/data-vault-on-sql-server-tabular-model-and-power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Self-Tuning Fill Factor Technique for SQL Server</title>
+      <link>https://usergroup.tv/videos/a-self-tuning-fill-factor-technique-for-sql-server/</link>
+      <pubDate>Tue, 20 Aug 2019 13:38:30 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/a-self-tuning-fill-factor-technique-for-sql-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Rocket Scientist Perspective on Index Column Selection </title>
+      <link>https://usergroup.tv/videos/a-rocket-scientist-perspective-on-index-column-selection/</link>
+      <pubDate>Sat, 13 Jul 2019 14:03:08 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/a-rocket-scientist-perspective-on-index-column-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make Database Documentation your Minion</title>
+      <link>https://usergroup.tv/videos/make-database-documentation-your-minion/</link>
+      <pubDate>Sat, 13 Jul 2019 13:57:43 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/make-database-documentation-your-minion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Future of Database Development with Containers</title>
+      <link>https://usergroup.tv/videos/the-future-of-database-development-with-containers/</link>
+      <pubDate>Sat, 13 Jul 2019 13:55:01 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/the-future-of-database-development-with-containers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Master Stored Procedure Workshop: Part 2</title>
+      <link>https://usergroup.tv/videos/the-master-stored-procedure-workshop-part-2/</link>
+      <pubDate>Sat, 13 Jul 2019 13:49:16 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/the-master-stored-procedure-workshop-part-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Master Stored Procedure Workshop: Part 1</title>
+      <link>https://usergroup.tv/videos/the-master-stored-procedure-workshop-part-1/</link>
+      <pubDate>Sat, 13 Jul 2019 13:47:46 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/the-master-stored-procedure-workshop-part-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MS SQL In Containers</title>
+      <link>https://usergroup.tv/videos/ms-sql-in-containers/</link>
+      <pubDate>Sun, 23 Jun 2019 16:21:23 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/ms-sql-in-containers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MS SQL Modern Migration Tour 2019 - Features and Reasons to modernize</title>
+      <link>https://usergroup.tv/videos/ms-sql-modern-migration-tour-2019-features-and-reasons-to-modernize/</link>
+      <pubDate>Sun, 23 Jun 2019 16:06:04 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/ms-sql-modern-migration-tour-2019-features-and-reasons-to-modernize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MS SQL Modern Migration Tour 2019 - Migration and Modernization</title>
+      <link>https://usergroup.tv/videos/ms-sql-modern-migration-tour-2019-migration-and-modernization/</link>
+      <pubDate>Sun, 23 Jun 2019 16:04:46 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/ms-sql-modern-migration-tour-2019-migration-and-modernization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server 2019 New Features</title>
+      <link>https://usergroup.tv/videos/sql-server-2019-new-features/</link>
+      <pubDate>Tue, 19 Mar 2019 16:24:05 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/sql-server-2019-new-features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Primer on SQL Server Clustered Index Architecture</title>
+      <link>https://usergroup.tv/videos/a-primer-on-sql-server-clustered-index-architecture/</link>
+      <pubDate>Tue, 15 Jan 2019 15:51:29 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/a-primer-on-sql-server-clustered-index-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Table Partitioning: Secret Weapon for Big Data Problems</title>
+      <link>https://usergroup.tv/videos/table-partitioning-secret-weapon-for-big-data-problems/</link>
+      <pubDate>Tue, 13 Nov 2018 16:52:15 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/table-partitioning-secret-weapon-for-big-data-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What can Python in SQL Server do for you?</title>
+      <link>https://usergroup.tv/videos/what-can-python-in-sql-server-do-for-you/</link>
+      <pubDate>Tue, 18 Sep 2018 23:10:26 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/what-can-python-in-sql-server-do-for-you/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server on Linux </title>
+      <link>https://usergroup.tv/videos/sql-server-on-linux/</link>
+      <pubDate>Tue, 18 Apr 2017 13:03:59 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/sql-server-on-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our experience with nonclustered columnstore indexes</title>
+      <link>https://usergroup.tv/videos/our-experience-with-nonclustered-columnstore-indexes/</link>
+      <pubDate>Tue, 21 Mar 2017 14:15:14 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/our-experience-with-nonclustered-columnstore-indexes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameter Sniffing the Good, the Bad, and the Ugly</title>
+      <link>https://usergroup.tv/videos/parameter-sniffing-the-good-the-bad-and-the-ugly/</link>
+      <pubDate>Tue, 18 Oct 2016 10:43:46 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/parameter-sniffing-the-good-the-bad-and-the-ugly/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

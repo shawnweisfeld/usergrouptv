@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exploratory Testing on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/exploratory-testing/</link>
+    <description>Recent content in Exploratory Testing on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Oct 2017 22:03:20 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/exploratory-testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploratory Testing</title>
+      <link>https://usergroup.tv/videos/tag/exploratory-testing/</link>
+      <pubDate>Thu, 05 Oct 2017 22:03:20 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/exploratory-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thrill of the Hunt: Return to Exploratory Testing</title>
+      <link>https://usergroup.tv/videos/thrill-of-the-hunt-return-to-exploratory-testing/</link>
+      <pubDate>Thu, 05 Oct 2017 22:03:20 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/thrill-of-the-hunt-return-to-exploratory-testing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

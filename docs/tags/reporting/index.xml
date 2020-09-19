@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reporting on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/reporting/</link>
+    <description>Recent content in Reporting on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Feb 2020 16:20:52 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/reporting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basics of Data Modeling for BI Reporting</title>
+      <link>https://usergroup.tv/videos/basics-of-data-modeling-for-bi-reporting/</link>
+      <pubDate>Sat, 08 Feb 2020 16:20:52 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/basics-of-data-modeling-for-bi-reporting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reporting</title>
+      <link>https://usergroup.tv/videos/tag/reporting/</link>
+      <pubDate>Sat, 08 Feb 2020 16:20:52 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/reporting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

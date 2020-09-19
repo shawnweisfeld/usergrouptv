@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SOLID on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/solid/</link>
+    <description>Recent content in SOLID on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Oct 2017 21:47:23 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/solid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SOLID</title>
+      <link>https://usergroup.tv/videos/tag/solid/</link>
+      <pubDate>Thu, 05 Oct 2017 21:47:23 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/solid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOLID Principles in Action: from Slack to Twilio</title>
+      <link>https://usergroup.tv/videos/solid-principles-in-action-from-slack-to-twilio/</link>
+      <pubDate>Thu, 05 Oct 2017 21:47:23 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/solid-principles-in-action-from-slack-to-twilio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solid Software Development Principles</title>
+      <link>https://usergroup.tv/videos/solid-software-development-principles/</link>
+      <pubDate>Tue, 16 Aug 2011 02:40:07 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/solid-software-development-principles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond the Core Concepts of OOP - SOLID </title>
+      <link>https://usergroup.tv/videos/beyond-the-core-concepts-of-oop-solid/</link>
+      <pubDate>Fri, 25 Feb 2011 02:12:06 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/beyond-the-core-concepts-of-oop-solid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

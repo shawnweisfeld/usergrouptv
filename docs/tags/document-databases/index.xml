@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Document Databases on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/document-databases/</link>
+    <description>Recent content in Document Databases on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Jun 2014 10:58:37 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/document-databases/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Document Databases</title>
+      <link>https://usergroup.tv/videos/tag/document-databases/</link>
+      <pubDate>Sat, 14 Jun 2014 10:58:37 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/document-databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yellow Belt Document Databases with .NET</title>
+      <link>https://usergroup.tv/videos/yellow-belt-document-databases-with-net/</link>
+      <pubDate>Sat, 14 Jun 2014 10:58:37 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/yellow-belt-document-databases-with-net/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

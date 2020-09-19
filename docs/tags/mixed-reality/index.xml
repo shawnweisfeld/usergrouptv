@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mixed Reality on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/mixed-reality/</link>
+    <description>Recent content in Mixed Reality on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Oct 2018 14:09:42 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/mixed-reality/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mixed Reality</title>
+      <link>https://usergroup.tv/videos/tag/mixed-reality/</link>
+      <pubDate>Sat, 13 Oct 2018 14:09:42 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/mixed-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixing Realities - The New Frontier Of User Experiences</title>
+      <link>https://usergroup.tv/videos/mixing-realities-the-new-frontier-of-user-experiences/</link>
+      <pubDate>Sat, 13 Oct 2018 14:09:42 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/mixing-realities-the-new-frontier-of-user-experiences/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

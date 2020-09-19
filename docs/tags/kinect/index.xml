@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kinect on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/kinect/</link>
+    <description>Recent content in Kinect on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Aug 2013 22:09:28 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/kinect/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kinect</title>
+      <link>https://usergroup.tv/videos/tag/kinect/</link>
+      <pubDate>Sat, 17 Aug 2013 22:09:28 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/kinect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming with Kinect for Windows: From Hello World to Lightsabers in 60 minutes</title>
+      <link>https://usergroup.tv/videos/programming-with-kinect-for-windows-from-hello-world-to-lightsabers-in-60-minutes/</link>
+      <pubDate>Sat, 17 Aug 2013 22:09:28 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/programming-with-kinect-for-windows-from-hello-world-to-lightsabers-in-60-minutes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connect with your Kinect</title>
+      <link>https://usergroup.tv/videos/connect-with-your-kinect/</link>
+      <pubDate>Wed, 06 Jun 2012 11:27:56 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/connect-with-your-kinect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dallas Kinect for Developers Demos</title>
+      <link>https://usergroup.tv/videos/dallas-kinect-for-developers-demos/</link>
+      <pubDate>Sun, 29 Jan 2012 14:40:11 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/dallas-kinect-for-developers-demos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinect Dallas Keynote</title>
+      <link>https://usergroup.tv/videos/kinect-dallas-keynote/</link>
+      <pubDate>Sat, 28 Jan 2012 15:36:29 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/kinect-dallas-keynote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinect Hacks beyond just Games</title>
+      <link>https://usergroup.tv/videos/kinect-hacks-beyond-just-games/</link>
+      <pubDate>Sat, 28 Jan 2012 15:32:45 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/kinect-hacks-beyond-just-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting Started with the Kinect SDK</title>
+      <link>https://usergroup.tv/videos/getting-started-with-the-kinect-sdk/</link>
+      <pubDate>Wed, 06 Jul 2011 18:03:29 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/getting-started-with-the-kinect-sdk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

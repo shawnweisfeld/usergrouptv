@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accelerated Mobile Pages on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/accelerated-mobile-pages/</link>
+    <description>Recent content in Accelerated Mobile Pages on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Oct 2017 21:56:40 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/accelerated-mobile-pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accelerated Mobile Pages</title>
+      <link>https://usergroup.tv/videos/tag/accelerated-mobile-pages/</link>
+      <pubDate>Thu, 05 Oct 2017 21:56:40 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/accelerated-mobile-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instant Mobile Web: An Accelerated Mobile Pages primer</title>
+      <link>https://usergroup.tv/videos/instant-mobile-web-an-accelerated-mobile-pages-primer/</link>
+      <pubDate>Thu, 05 Oct 2017 21:56:40 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/instant-mobile-web-an-accelerated-mobile-pages-primer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blend on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/blend/</link>
+    <description>Recent content in Blend on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 May 2013 13:17:58 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/blend/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blend</title>
+      <link>https://usergroup.tv/videos/tag/blend/</link>
+      <pubDate>Tue, 07 May 2013 13:17:58 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/blend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Time Data </title>
+      <link>https://usergroup.tv/videos/design-time-data/</link>
+      <pubDate>Tue, 07 May 2013 13:17:58 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/design-time-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expression Blend and SketchFlow</title>
+      <link>https://usergroup.tv/videos/expression-blend-and-sketchflow/</link>
+      <pubDate>Tue, 22 Mar 2011 21:25:17 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/expression-blend-and-sketchflow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

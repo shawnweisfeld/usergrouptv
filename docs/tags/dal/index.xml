@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DAL on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/dal/</link>
+    <description>Recent content in DAL on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 May 2011 23:46:55 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/dal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Testable Data Access Layer</title>
+      <link>https://usergroup.tv/videos/building-a-testable-data-access-layer/</link>
+      <pubDate>Thu, 05 May 2011 23:46:55 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/building-a-testable-data-access-layer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAL</title>
+      <link>https://usergroup.tv/videos/tag/dal/</link>
+      <pubDate>Thu, 05 May 2011 23:46:55 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/dal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

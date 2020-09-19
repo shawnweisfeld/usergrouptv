@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ORM on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/orm/</link>
+    <description>Recent content in ORM on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Sep 2014 23:54:33 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/orm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get in the ORM fast lane with NPoco</title>
+      <link>https://usergroup.tv/videos/get-in-the-orm-fast-lane-with-npoco/</link>
+      <pubDate>Sat, 13 Sep 2014 23:54:33 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/get-in-the-orm-fast-lane-with-npoco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ORM</title>
+      <link>https://usergroup.tv/videos/tag/orm/</link>
+      <pubDate>Sat, 13 Sep 2014 23:54:33 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/orm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL Backup on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/sql-backup/</link>
+    <description>Recent content in SQL Backup on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Oct 2017 11:45:47 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql-backup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn SQL Backups and Master SQL Restores</title>
+      <link>https://usergroup.tv/videos/learn-sql-backups-and-master-sql-restores/</link>
+      <pubDate>Sat, 14 Oct 2017 11:45:47 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/learn-sql-backups-and-master-sql-restores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Backup</title>
+      <link>https://usergroup.tv/videos/tag/sql-backup/</link>
+      <pubDate>Sat, 14 Oct 2017 11:45:47 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql-backup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backups for non-DBAs...the Why, not the How</title>
+      <link>https://usergroup.tv/videos/backups-for-non-dbas-the-why-not-the-how/</link>
+      <pubDate>Sat, 17 Jun 2017 14:22:38 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/backups-for-non-dbas-the-why-not-the-how/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Backup Tune-up for Speed</title>
+      <link>https://usergroup.tv/videos/the-backup-tune-up-for-speed/</link>
+      <pubDate>Tue, 21 Feb 2017 11:40:27 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/the-backup-tune-up-for-speed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backup and Restore Tips and Tricks</title>
+      <link>https://usergroup.tv/videos/backup-and-restore-tips-and-tricks/</link>
+      <pubDate>Sat, 29 Aug 2015 14:27:58 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/backup-and-restore-tips-and-tricks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Backups</title>
+      <link>https://usergroup.tv/videos/understanding-backups/</link>
+      <pubDate>Sat, 25 Aug 2012 20:47:42 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/understanding-backups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Backup Tune-up</title>
+      <link>https://usergroup.tv/videos/the-backup-tune-up/</link>
+      <pubDate>Sat, 27 Aug 2011 03:03:52 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/the-backup-tune-up/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

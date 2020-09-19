@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WebAPI on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/webapi/</link>
+    <description>Recent content in WebAPI on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Aug 2013 19:54:13 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/webapi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web API Quick Start</title>
+      <link>https://usergroup.tv/videos/web-api-quick-start/</link>
+      <pubDate>Sat, 17 Aug 2013 19:54:13 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/web-api-quick-start/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WebAPI</title>
+      <link>https://usergroup.tv/videos/tag/webapi/</link>
+      <pubDate>Sat, 17 Aug 2013 19:54:13 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/webapi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASP.NET WebAPI</title>
+      <link>https://usergroup.tv/videos/asp-net-webapi-2/</link>
+      <pubDate>Fri, 12 Oct 2012 15:47:27 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/asp-net-webapi-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building composable web applications</title>
+      <link>https://usergroup.tv/videos/building-composable-web-applications/</link>
+      <pubDate>Sat, 08 Sep 2012 00:51:39 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/building-composable-web-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASP.NET Web API</title>
+      <link>https://usergroup.tv/videos/asp-net-web-api/</link>
+      <pubDate>Sat, 09 Jun 2012 10:32:41 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/asp-net-web-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASP.NET WebAPI</title>
+      <link>https://usergroup.tv/videos/asp-net-webapi/</link>
+      <pubDate>Wed, 14 Mar 2012 21:11:52 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/asp-net-webapi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

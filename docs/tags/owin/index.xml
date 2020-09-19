@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OWIN on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/owin/</link>
+    <description>Recent content in OWIN on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Sep 2014 14:49:26 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/owin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OWIN</title>
+      <link>https://usergroup.tv/videos/tag/owin/</link>
+      <pubDate>Mon, 08 Sep 2014 14:49:26 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/owin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OWIN – Katana 101</title>
+      <link>https://usergroup.tv/videos/owin-katana-101/</link>
+      <pubDate>Mon, 08 Sep 2014 14:49:26 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/owin-katana-101/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

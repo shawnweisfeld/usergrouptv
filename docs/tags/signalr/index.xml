@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SignalR on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/signalr/</link>
+    <description>Recent content in SignalR on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Aug 2014 20:04:41 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/signalr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How SignalR is Turning the Internet Upside Down</title>
+      <link>https://usergroup.tv/videos/how-signalr-is-turning-the-internet-upside-down/</link>
+      <pubDate>Fri, 15 Aug 2014 20:04:41 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/how-signalr-is-turning-the-internet-upside-down/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SignalR</title>
+      <link>https://usergroup.tv/videos/tag/signalr/</link>
+      <pubDate>Fri, 15 Aug 2014 20:04:41 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/signalr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-timeWeb Programming with SignalR</title>
+      <link>https://usergroup.tv/videos/real-timeweb-programming-with-signalr/</link>
+      <pubDate>Fri, 01 Mar 2013 20:23:13 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/real-timeweb-programming-with-signalr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to ASP.NET SignalR</title>
+      <link>https://usergroup.tv/videos/introduction-to-asp-net-signalr/</link>
+      <pubDate>Wed, 06 Feb 2013 13:34:44 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/introduction-to-asp-net-signalr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time Web Programming with SignalR</title>
+      <link>https://usergroup.tv/videos/real-time-web-programming-with-signalr/</link>
+      <pubDate>Thu, 03 Jan 2013 22:33:25 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/real-time-web-programming-with-signalr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

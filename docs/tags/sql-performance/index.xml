@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL Performance on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/sql-performance/</link>
+    <description>Recent content in SQL Performance on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Aug 2018 19:39:30 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql-performance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Climbing the SQL Server Index B-Tree (from a user perspective)</title>
+      <link>https://usergroup.tv/videos/climbing-the-sql-server-index-b-tree-from-a-user-perspective/</link>
+      <pubDate>Sat, 25 Aug 2018 19:39:30 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/climbing-the-sql-server-index-b-tree-from-a-user-perspective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Performance</title>
+      <link>https://usergroup.tv/videos/tag/sql-performance/</link>
+      <pubDate>Sat, 25 Aug 2018 19:39:30 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Rocket Scientist Perspective on Indexes</title>
+      <link>https://usergroup.tv/videos/a-rocket-scientist-perspective-on-indexes/</link>
+      <pubDate>Sat, 25 Aug 2018 19:37:01 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/a-rocket-scientist-perspective-on-indexes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DBA&#39;s guide to full stack performance troubleshooting</title>
+      <link>https://usergroup.tv/videos/dbas-guide-to-full-stack-performance-troubleshooting/</link>
+      <pubDate>Tue, 21 Aug 2018 17:36:47 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/dbas-guide-to-full-stack-performance-troubleshooting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-Memory Indexes: SpaceX® Performance!</title>
+      <link>https://usergroup.tv/videos/in-memory-indexes-spacex-performance/</link>
+      <pubDate>Sat, 23 Jun 2018 19:41:14 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/in-memory-indexes-spacex-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extended Events: What are they and How do I use them</title>
+      <link>https://usergroup.tv/videos/extended-events-what-are-they-and-how-do-i-use-them/</link>
+      <pubDate>Sat, 19 May 2018 22:59:19 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/extended-events-what-are-they-and-how-do-i-use-them/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why Should I Care About ... Partitioned Views?</title>
+      <link>https://usergroup.tv/videos/why-should-i-care-about-partitioned-views/</link>
+      <pubDate>Sat, 19 May 2018 22:57:56 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/why-should-i-care-about-partitioned-views/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>That&#39;s bad mkay!</title>
+      <link>https://usergroup.tv/videos/thats-bad-mkay/</link>
+      <pubDate>Sat, 19 May 2018 22:43:11 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/thats-bad-mkay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climbing SQL Server Index B-Tree (from user perspective)</title>
+      <link>https://usergroup.tv/videos/climbing-sql-server-index-b-tree-from-user-perspective/</link>
+      <pubDate>Tue, 15 May 2018 22:01:28 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/climbing-sql-server-index-b-tree-from-user-perspective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make Your Queries Go Faster</title>
+      <link>https://usergroup.tv/videos/make-your-queries-go-faster/</link>
+      <pubDate>Tue, 17 Apr 2018 18:19:17 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/make-your-queries-go-faster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Execution Plans</title>
+      <link>https://usergroup.tv/videos/introduction-to-execution-plans/</link>
+      <pubDate>Sat, 14 Oct 2017 11:47:49 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/introduction-to-execution-plans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make your SQL Server Queries Go Faster!</title>
+      <link>https://usergroup.tv/videos/make-your-sql-server-queries-go-faster-2/</link>
+      <pubDate>Sat, 14 Oct 2017 11:46:48 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/make-your-sql-server-queries-go-faster-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Locking with Distributed Systems</title>
+      <link>https://usergroup.tv/videos/understanding-locking-with-distributed-systems/</link>
+      <pubDate>Tue, 17 Jan 2017 11:27:30 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/understanding-locking-with-distributed-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyze your query plan like a Microsoft Engineer! (SQL 2016 Edition)</title>
+      <link>https://usergroup.tv/videos/analyze-your-query-plan-like-a-microsoft-engineer-sql-2016-edition/</link>
+      <pubDate>Sat, 27 Aug 2016 12:49:31 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/analyze-your-query-plan-like-a-microsoft-engineer-sql-2016-edition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server Statistics – What Are The Chances?</title>
+      <link>https://usergroup.tv/videos/sql-server-statistics-what-are-the-chances/</link>
+      <pubDate>Sat, 13 Aug 2016 15:05:14 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/sql-server-statistics-what-are-the-chances/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why Should I Care About … The Plan Cache</title>
+      <link>https://usergroup.tv/videos/why-should-i-care-about-the-plan-cache/</link>
+      <pubDate>Sat, 13 Aug 2016 15:01:07 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/why-should-i-care-about-the-plan-cache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mission Possible: Interactive Performance Troubleshooting - Index</title>
+      <link>https://usergroup.tv/videos/mission-possible-interactive-performance-troubleshooting-index/</link>
+      <pubDate>Sat, 13 Aug 2016 14:58:12 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/mission-possible-interactive-performance-troubleshooting-index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Stored Procedures for Developers</title>
+      <link>https://usergroup.tv/videos/optimizing-stored-procedures-for-developers/</link>
+      <pubDate>Sat, 17 Aug 2013 20:36:23 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/optimizing-stored-procedures-for-developers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Tuning for Pirates</title>
+      <link>https://usergroup.tv/videos/performance-tuning-for-pirates/</link>
+      <pubDate>Sat, 25 Aug 2012 00:07:40 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/performance-tuning-for-pirates/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

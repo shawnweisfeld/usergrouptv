@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cosmos DB on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/cosmos-db/</link>
+    <description>Recent content in Cosmos DB on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jul 2019 13:08:59 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/cosmos-db/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cosmos DB</title>
+      <link>https://usergroup.tv/videos/tag/cosmos-db/</link>
+      <pubDate>Thu, 18 Jul 2019 13:08:59 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/cosmos-db/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Not All Data is Relational: An introduction to Cosmos DB</title>
+      <link>https://usergroup.tv/videos/not-all-data-is-relational-an-introduction-to-cosmos-db-2/</link>
+      <pubDate>Thu, 18 Jul 2019 13:08:59 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/not-all-data-is-relational-an-introduction-to-cosmos-db-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Not All Data is Relational: An introduction to Cosmos DB</title>
+      <link>https://usergroup.tv/videos/not-all-data-is-relational-an-introduction-to-cosmos-db/</link>
+      <pubDate>Sat, 13 Jul 2019 14:08:25 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/not-all-data-is-relational-an-introduction-to-cosmos-db/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CosmosDB is the missing piece to your Data puzzle!</title>
+      <link>https://usergroup.tv/videos/cosmosdb-is-the-missing-piece-to-your-data-puzzle/</link>
+      <pubDate>Sat, 13 Jul 2019 14:05:39 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/cosmosdb-is-the-missing-piece-to-your-data-puzzle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cosmos DB for the Data Professional</title>
+      <link>https://usergroup.tv/videos/cosmos-db-for-the-data-professional/</link>
+      <pubDate>Sat, 23 Jun 2018 20:01:12 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/cosmos-db-for-the-data-professional/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

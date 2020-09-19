@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Visualization on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/data-visualization/</link>
+    <description>Recent content in Data Visualization on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Sep 2015 16:28:50 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Visualization</title>
+      <link>https://usergroup.tv/videos/tag/data-visualization/</link>
+      <pubDate>Sat, 12 Sep 2015 16:28:50 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Visualization Design Principles to aid Decision Making Processes</title>
+      <link>https://usergroup.tv/videos/data-visualization-design-principles-to-aid-decision-making-processes/</link>
+      <pubDate>Sat, 12 Sep 2015 16:28:50 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/data-visualization-design-principles-to-aid-decision-making-processes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

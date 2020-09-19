@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CQRS on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/cqrs/</link>
+    <description>Recent content in CQRS on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Sep 2015 12:15:10 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/cqrs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CQRS</title>
+      <link>https://usergroup.tv/videos/tag/cqrs/</link>
+      <pubDate>Sat, 26 Sep 2015 12:15:10 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/cqrs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CQRS, DDD, &amp; Event Sourcing</title>
+      <link>https://usergroup.tv/videos/cqrs-ddd-event-sourcing/</link>
+      <pubDate>Sat, 26 Sep 2015 12:15:10 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/cqrs-ddd-event-sourcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CRUD, Our Grand Failure...and how to rectifiy it</title>
+      <link>https://usergroup.tv/videos/crud-our-grand-failure-and-how-to-rectifiy-it/</link>
+      <pubDate>Sat, 12 Sep 2015 16:27:45 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/crud-our-grand-failure-and-how-to-rectifiy-it/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event Sourcing</title>
+      <link>https://usergroup.tv/videos/event-sourcing/</link>
+      <pubDate>Mon, 13 Apr 2015 12:09:48 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/event-sourcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CQRS</title>
+      <link>https://usergroup.tv/videos/cqrs/</link>
+      <pubDate>Fri, 16 May 2014 09:56:05 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/cqrs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

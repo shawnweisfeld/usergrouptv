@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Silverlight on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/silverlight/</link>
+    <description>Recent content in Silverlight on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Nov 2011 14:14:49 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/silverlight/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security for Silverlight and Click-Once Applications</title>
+      <link>https://usergroup.tv/videos/security-for-silverlight-and-click-once-applications/</link>
+      <pubDate>Tue, 01 Nov 2011 14:14:49 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/security-for-silverlight-and-click-once-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silverlight</title>
+      <link>https://usergroup.tv/videos/tag/silverlight/</link>
+      <pubDate>Tue, 01 Nov 2011 14:14:49 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/silverlight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silverlight HTML Bridge with jQuery and ASP.NET MVC 3 </title>
+      <link>https://usergroup.tv/videos/silverlight-html-bridge-with-jquery-and-asp-net-mvc-3/</link>
+      <pubDate>Tue, 04 Oct 2011 04:53:54 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/silverlight-html-bridge-with-jquery-and-asp-net-mvc-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correspondence: Building Occasionally-Connected Out-of-Browser Silverlight Applications</title>
+      <link>https://usergroup.tv/videos/correspondence-building-occasionally-connected-out-of-browser-silverlight-applications/</link>
+      <pubDate>Thu, 09 Jun 2011 18:50:19 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/correspondence-building-occasionally-connected-out-of-browser-silverlight-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Styling Errors for a Good User Experience</title>
+      <link>https://usergroup.tv/videos/styling-errors-for-a-good-user-experience/</link>
+      <pubDate>Tue, 07 Jun 2011 01:52:07 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/styling-errors-for-a-good-user-experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silverlight 5 What is new &amp; State of Silverlight</title>
+      <link>https://usergroup.tv/videos/silverlight-5-what-is-new-state-of-silverlight/</link>
+      <pubDate>Tue, 03 May 2011 23:42:03 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/silverlight-5-what-is-new-state-of-silverlight/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

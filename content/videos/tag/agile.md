@@ -1133,7 +1133,7 @@
     {
       "title": "Lunch Panel - Real World Agile ",
       "slug": "lunch-panel-real-world-agile",
-      "thumbnail": null,
+      "thumbnail": "https://i.vimeocdn.com/video/960549417_295x166.jpg",
       "date": "2011-02-25T14:25:07",
       "meetups": [
         {

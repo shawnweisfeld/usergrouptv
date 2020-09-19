@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2020-09-19T21:49:35.7149009Z",
+  "date": "2020-09-19T23:15:01.6777059Z",
   "draft": false,
   "speakers": [
     {
@@ -1253,7 +1253,7 @@
     {
       "title": "Gary McCants",
       "slug": "gary-mccants",
-      "thumbnail": null,
+      "thumbnail": "https://i.vimeocdn.com/video/960549417_295x166.jpg",
       "date": "2011-02-25T14:25:07",
       "count": 1
     },
@@ -1274,7 +1274,7 @@
     {
       "title": "George Simpson",
       "slug": "george-simpson",
-      "thumbnail": null,
+      "thumbnail": "https://i.vimeocdn.com/video/960549417_295x166.jpg",
       "date": "2011-02-25T14:25:07",
       "count": 1
     },
@@ -1582,7 +1582,7 @@
     {
       "title": "Jay Spears",
       "slug": "jay-spears",
-      "thumbnail": null,
+      "thumbnail": "https://i.vimeocdn.com/video/960549417_295x166.jpg",
       "date": "2011-02-25T14:25:07",
       "count": 1
     },
@@ -2163,7 +2163,7 @@
     {
       "title": "Kim Fisher",
       "slug": "kim-fisher",
-      "thumbnail": null,
+      "thumbnail": "https://i.vimeocdn.com/video/960549417_295x166.jpg",
       "date": "2011-02-25T14:25:07",
       "count": 1
     },

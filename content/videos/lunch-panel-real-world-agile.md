@@ -8,9 +8,9 @@
   "draft": false,
   "slug": "lunch-panel-real-world-agile",
   "abstract": "More and more companies are leveraging the benefits of Agile by adopting it organization-wide. However, successful adoption involves deep changes at the individual, team and organization levels. Learn how two of Improving’s customers actually made the transition - what worked, what didn’t and what to avoid at all costs. Join our lunch panel discussion, Real World Agile, with Kim Fisher, George Simpson and Jay Spears, moderated by Gary McCants.",
-  "vimeo": "0",
+  "vimeo": "459779158",
   "moreinfo": "http://www.improvingenterprises.com/",
-  "thumbnail": null,
+  "thumbnail": "https://i.vimeocdn.com/video/960549417_295x166.jpg",
   "speakers": [
     {
       "name": "Gary McCants",

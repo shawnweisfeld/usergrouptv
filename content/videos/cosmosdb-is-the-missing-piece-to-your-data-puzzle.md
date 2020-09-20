@@ -11,7 +11,14 @@
   "vimeo": "348235199",
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=94006",
   "thumbnail": "https://i.vimeocdn.com/video/798801249_295x166.jpg",
-  "speakers": [],
+  "speakers": [
+    {
+      "name": "Hasan Savran",
+      "slug": null,
+      "bio": null,
+      "count": 1
+    }
+  ],
   "ugtvtags": [
     {
       "name": "Cosmos DB",

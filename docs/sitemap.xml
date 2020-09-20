@@ -3,23 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://usergroup.tv/</loc>
-    <lastmod>2020-09-20T18:28:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2020-09-20T18:28:03+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2020-09-20T18:09:23+00:00</lastmod>
+    <lastmod>2020-09-20T18:39:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/speaker/</loc>
+    <lastmod>2020-09-20T18:39:57+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2020-09-20T18:09:22+00:00</lastmod>
+    <lastmod>2020-09-20T18:39:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/</loc>
+    <lastmod>2020-09-20T18:39:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/</loc>
+    <lastmod>2020-09-20T18:39:56+00:00</lastmod>
   </url>
   
   <url>
@@ -1984,6 +1989,16 @@
   
   <url>
     <loc>https://usergroup.tv/videos/cosmosdb-is-the-missing-piece-to-your-data-puzzle/</loc>
+    <lastmod>2019-07-13T14:05:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/hasan-savran/</loc>
+    <lastmod>2019-07-13T14:05:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/speaker/hasan-savran/</loc>
     <lastmod>2019-07-13T14:05:39+00:00</lastmod>
   </url>
   

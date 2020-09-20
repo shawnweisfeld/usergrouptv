@@ -14,7 +14,7 @@
   "speakers": [
     {
       "name": "Hasan Savran",
-      "slug": null,
+      "slug": "hasan-savran",
       "bio": null,
       "count": 1
     }

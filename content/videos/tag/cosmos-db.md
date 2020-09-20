@@ -63,7 +63,12 @@
           "slug": "sql-saturday"
         }
       ],
-      "speakers": []
+      "speakers": [
+        {
+          "name": "Hasan Savran",
+          "slug": "hasan-savran"
+        }
+      ]
     },
     {
       "title": "Cosmos DB for the Data Professional",

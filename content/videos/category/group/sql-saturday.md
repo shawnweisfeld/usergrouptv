@@ -67,7 +67,12 @@
       "slug": "cosmosdb-is-the-missing-piece-to-your-data-puzzle",
       "thumbnail": "https://i.vimeocdn.com/video/798801249_295x166.jpg",
       "date": "2019-07-13T14:05:39",
-      "speakers": [],
+      "speakers": [
+        {
+          "name": "Hasan Savran",
+          "slug": "hasan-savran"
+        }
+      ],
       "tags": [
         {
           "name": "Cosmos DB",

@@ -11,7 +11,14 @@
   "vimeo": "107458519",
   "moreinfo": "http://lrtechfest.com/speakers#sean-townsend",
   "thumbnail": "https://i.vimeocdn.com/video/490861175_295x166.jpg",
-  "speakers": [],
+  "speakers": [
+    {
+      "name": "Sean Townsend",
+      "slug": "sean-townsend",
+      "bio": null,
+      "count": 1
+    }
+  ],
   "ugtvtags": [
     {
       "name": "LibGDX",

@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2020-09-20T19:21:16.4436982Z",
+  "date": "2020-09-20T19:35:52.8366677Z",
   "draft": false,
   "speakers": [
     {
@@ -1480,6 +1480,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/719328503_295x166.jpg",
       "date": "2018-08-11T15:56:58",
       "count": 3
+    },
+    {
+      "title": "Jamie Dorobek",
+      "slug": "jamie-dorobek",
+      "thumbnail": "https://i.vimeocdn.com/video/650697877_295x166.jpg",
+      "date": "2017-08-05T17:03:05",
+      "count": 1
     },
     {
       "title": "Jane Prusakova",
@@ -3435,6 +3442,13 @@
       "count": 5
     },
     {
+      "title": "Sean Townsend",
+      "slug": "sean-townsend",
+      "thumbnail": "https://i.vimeocdn.com/video/490861175_295x166.jpg",
+      "date": "2014-09-26T18:49:01",
+      "count": 1
+    },
+    {
       "title": "Sean Whitesell",
       "slug": "sean-whitesell",
       "thumbnail": "https://i.vimeocdn.com/video/926019495_295x166.jpg",
@@ -3488,7 +3502,7 @@
       "slug": "shawn-weisfeld",
       "thumbnail": "https://i.vimeocdn.com/video/833796599_295x166.jpg",
       "date": "2019-11-19T16:17:46",
-      "count": 69
+      "count": 72
     },
     {
       "title": "Shelby Dremely",

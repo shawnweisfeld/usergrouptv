@@ -90,6 +90,28 @@
       ]
     },
     {
+      "title": "2019 Austin Global Azure Bootcamp Opening Remarks",
+      "slug": "2019-austin-global-azure-bootcamp-opening-remarks",
+      "thumbnail": "https://i.vimeocdn.com/video/778862386_295x166.jpg",
+      "date": "2019-04-27T13:38:08",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "Austin Global Azure Bootcamp",
+          "slug": "austin-global-azure-bootcamp"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
+      ]
+    },
+    {
       "title": "DevOps in a Cloud World",
       "slug": "devops-in-a-cloud-world-2",
       "thumbnail": "https://i.vimeocdn.com/video/752682612_295x166.jpg",
@@ -414,6 +436,19 @@
       ]
     },
     {
+      "title": "2017 Austin Global Azure Bootcamp Close",
+      "slug": "2017-austin-global-azure-bootcamp-close",
+      "thumbnail": "https://i.vimeocdn.com/video/631744426_295x166.jpg",
+      "date": "2017-04-22T13:15:31",
+      "meetups": [
+        {
+          "name": "Austin Global Azure Bootcamp",
+          "slug": "austin-global-azure-bootcamp"
+        }
+      ],
+      "tags": []
+    },
+    {
       "title": "Big Data in Azure",
       "slug": "big-data-in-azure",
       "thumbnail": "https://i.vimeocdn.com/video/631746147_295x166.jpg",
@@ -430,6 +465,19 @@
           "slug": "big-data"
         }
       ]
+    },
+    {
+      "title": "2017 Austin Global Azure Bootcamp Welcome",
+      "slug": "2017-austin-global-azure-bootcamp-welcome",
+      "thumbnail": "https://i.vimeocdn.com/video/631736156_295x166.jpg",
+      "date": "2017-04-22T13:06:15",
+      "meetups": [
+        {
+          "name": "Austin Global Azure Bootcamp",
+          "slug": "austin-global-azure-bootcamp"
+        }
+      ],
+      "tags": []
     },
     {
       "title": "Caching in Microsoft Azure",

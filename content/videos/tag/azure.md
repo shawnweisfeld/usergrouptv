@@ -81,7 +81,12 @@
           "slug": "austin-global-azure-bootcamp"
         }
       ],
-      "speakers": []
+      "speakers": [
+        {
+          "name": "Shawn Weisfeld",
+          "slug": "shawn-weisfeld"
+        }
+      ]
     },
     {
       "title": "Monitoring options for Azure",

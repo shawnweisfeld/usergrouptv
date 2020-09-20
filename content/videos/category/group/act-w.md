@@ -397,7 +397,12 @@
       "slug": "teacher-to-blogger-in-2-years",
       "thumbnail": "https://i.vimeocdn.com/video/650697877_295x166.jpg",
       "date": "2017-08-05T17:03:05",
-      "speakers": [],
+      "speakers": [
+        {
+          "name": "Jamie Dorobek",
+          "slug": "jamie-dorobek"
+        }
+      ],
       "tags": [
         {
           "name": "blogger",

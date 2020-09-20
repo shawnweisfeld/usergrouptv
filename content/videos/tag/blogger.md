@@ -19,7 +19,12 @@
           "slug": "act-w"
         }
       ],
-      "speakers": []
+      "speakers": [
+        {
+          "name": "Jamie Dorobek",
+          "slug": "jamie-dorobek"
+        }
+      ]
     }
   ]
 }

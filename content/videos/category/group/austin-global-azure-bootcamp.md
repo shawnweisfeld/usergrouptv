@@ -143,7 +143,12 @@
       "slug": "2019-austin-global-azure-bootcamp-opening-remarks",
       "thumbnail": "https://i.vimeocdn.com/video/778862386_295x166.jpg",
       "date": "2019-04-27T13:38:08",
-      "speakers": [],
+      "speakers": [
+        {
+          "name": "Shawn Weisfeld",
+          "slug": "shawn-weisfeld"
+        }
+      ],
       "tags": [
         {
           "name": "Azure",
@@ -264,7 +269,12 @@
       "slug": "2017-austin-global-azure-bootcamp-close",
       "thumbnail": "https://i.vimeocdn.com/video/631744426_295x166.jpg",
       "date": "2017-04-22T13:15:31",
-      "speakers": [],
+      "speakers": [
+        {
+          "name": "Shawn Weisfeld",
+          "slug": "shawn-weisfeld"
+        }
+      ],
       "tags": []
     },
     {
@@ -375,7 +385,12 @@
       "slug": "2017-austin-global-azure-bootcamp-welcome",
       "thumbnail": "https://i.vimeocdn.com/video/631736156_295x166.jpg",
       "date": "2017-04-22T13:06:15",
-      "speakers": [],
+      "speakers": [
+        {
+          "name": "Shawn Weisfeld",
+          "slug": "shawn-weisfeld"
+        }
+      ],
       "tags": []
     }
   ]

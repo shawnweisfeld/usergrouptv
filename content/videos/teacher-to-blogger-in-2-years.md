@@ -11,7 +11,14 @@
   "vimeo": "230192251",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650697877_295x166.jpg",
-  "speakers": [],
+  "speakers": [
+    {
+      "name": "Jamie Dorobek",
+      "slug": "jamie-dorobek",
+      "bio": null,
+      "count": 1
+    }
+  ],
   "ugtvtags": [
     {
       "name": "blogger",

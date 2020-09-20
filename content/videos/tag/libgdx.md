@@ -19,7 +19,12 @@
           "slug": "little-rock-tech-fest"
         }
       ],
-      "speakers": []
+      "speakers": [
+        {
+          "name": "Sean Townsend",
+          "slug": "sean-townsend"
+        }
+      ]
     }
   ]
 }

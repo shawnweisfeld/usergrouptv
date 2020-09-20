@@ -4,7 +4,7 @@ date: 2020-09-17T22:13:37-05:00
 draft: false
 ---
 
-User Group.tv was founded in January of 2011 by Shawn Weisfeld, with the mission of providing User Group content online for free.
+UserGroup.tv was founded in January of 2011 by Shawn Weisfeld, with the mission of providing User Group content online for free.
 
 ## Founder
 Shawn Weisfeld ([http://www.shawnweisfeld.com](http://www.shawnweisfeld.com)) is passionate about building awesome applications and websites with .NET technologies and Azure. He is currently a Azure Storage PM for Microsoft based in Austin, TX and founder of [http://UserGroup.tv](http://UserGroup.tv). Read his full bio at [http://about.me/shawnweisfeld](http://about.me/shawnweisfeld) or connect with him on LinkedIn [https://www.linkedin.com/in/shawnweisfeld/](https://www.linkedin.com/in/shawnweisfeld/)

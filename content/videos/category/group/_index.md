@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2020-09-20T19:02:40.1707007Z",
+  "date": "2020-09-20T19:21:17.8428577Z",
   "draft": false,
   "meetups": [
     {

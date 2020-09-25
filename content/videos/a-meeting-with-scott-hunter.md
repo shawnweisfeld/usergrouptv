@@ -26,7 +26,7 @@
     {
       "name": ".net",
       "slug": "net",
-      "count": 5
+      "count": 6
     },
     {
       "name": "Blazer",
@@ -36,7 +36,7 @@
     {
       "name": ".NET Core",
       "slug": "net-core",
-      "count": 2
+      "count": 3
     },
     {
       "name": "ASP.NET",
@@ -48,7 +48,7 @@
     {
       "name": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "count": 8
+      "count": 9
     }
   ]
 }

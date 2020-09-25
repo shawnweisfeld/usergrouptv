@@ -6,7 +6,43 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Sep 2020 19:47:29 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Sep 2020 14:33:59 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>.net</title>
+      <link>https://usergroup.tv/videos/tag/net/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>.NET Core</title>
+      <link>https://usergroup.tv/videos/tag/net-core/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/net-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C#</title>
+      <link>https://usergroup.tv/videos/tag/c/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft</title>
+      <link>https://usergroup.tv/videos/tag/microsoft/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/microsoft/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>API</title>
       <link>https://usergroup.tv/videos/tag/api/</link>
@@ -98,15 +134,6 @@
     </item>
     
     <item>
-      <title>C#</title>
-      <link>https://usergroup.tv/videos/tag/c/</link>
-      <pubDate>Thu, 23 Jul 2020 02:10:01 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>caf</title>
       <link>https://usergroup.tv/videos/tag/caf/</link>
       <pubDate>Tue, 21 Jul 2020 18:08:37 +0000</pubDate>
@@ -166,24 +193,6 @@
       <pubDate>Wed, 10 Jun 2020 16:35:48 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/power-automate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>.net</title>
-      <link>https://usergroup.tv/videos/tag/net/</link>
-      <pubDate>Tue, 26 May 2020 14:03:48 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/net/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>.NET Core</title>
-      <link>https://usergroup.tv/videos/tag/net-core/</link>
-      <pubDate>Tue, 26 May 2020 14:03:48 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/net-core/</guid>
       <description></description>
     </item>
     

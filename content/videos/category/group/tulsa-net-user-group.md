@@ -5,9 +5,39 @@
     "Tulsa .NET User Group"
   ],
   "slug": "tulsa-net-user-group",
-  "date": "2020-09-08T13:49:27",
+  "date": "2020-09-22T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "The Future of C",
+      "slug": "the-future-of-c",
+      "thumbnail": "https://i.vimeocdn.com/video/964019398_295x166.jpg",
+      "date": "2020-09-22T00:00:00",
+      "speakers": [
+        {
+          "name": "Mads Torgersen",
+          "slug": "mads-torgersen"
+        }
+      ],
+      "tags": [
+        {
+          "name": "C#",
+          "slug": "c"
+        },
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": ".NET Core",
+          "slug": "net-core"
+        },
+        {
+          "name": "Microsoft",
+          "slug": "microsoft"
+        }
+      ]
+    },
     {
       "title": "Adding a little DAPR to your .NET Microservices",
       "slug": "adding-a-little-dapr-to-your-net-microservices",

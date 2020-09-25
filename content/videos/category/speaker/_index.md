@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2020-09-20T19:47:28.9202573Z",
+  "date": "2020-09-25T14:33:57.9646564Z",
   "draft": false,
   "speakers": [
     {
@@ -2347,6 +2347,13 @@
       "slug": "mads-kristensen",
       "thumbnail": "https://i.vimeocdn.com/video/485084627_295x166.jpg",
       "date": "2013-03-14T20:53:02",
+      "count": 1
+    },
+    {
+      "title": "Mads Torgersen",
+      "slug": "mads-torgersen",
+      "thumbnail": "https://i.vimeocdn.com/video/964019398_295x166.jpg",
+      "date": "2020-09-22T00:00:00",
       "count": 1
     },
     {

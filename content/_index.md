@@ -1,12 +1,48 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2020-09-20T19:47:28.5923514Z",
+  "date": "2020-09-25T14:33:53.0238092Z",
   "draft": false,
-  "recordingCount": "1,031",
-  "speakerCount": "576",
+  "recordingCount": "1,032",
+  "speakerCount": "577",
   "groupCount": "66",
   "newest": [
+    {
+      "title": "The Future of C",
+      "slug": "the-future-of-c",
+      "thumbnail": "https://i.vimeocdn.com/video/964019398_295x166.jpg",
+      "date": "2020-09-22T00:00:00",
+      "speakers": [
+        {
+          "name": "Mads Torgersen",
+          "slug": "mads-torgersen"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "C#",
+          "slug": "c"
+        },
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": ".NET Core",
+          "slug": "net-core"
+        },
+        {
+          "name": "Microsoft",
+          "slug": "microsoft"
+        }
+      ]
+    },
     {
       "title": "Today’s API Thread Landscape: Detect and Block Threats",
       "slug": "todays-api-thread-landscape-detect-and-block-threats",
@@ -464,30 +500,6 @@
         {
           "name": "ASP.NET",
           "slug": "asp-net"
-        }
-      ]
-    },
-    {
-      "title": "ACID 2.0: Designing Better APIs and Messages",
-      "slug": "acid-2-0-designing-better-apis-and-messages",
-      "thumbnail": "https://i.vimeocdn.com/video/898661059_295x166.jpg",
-      "date": "2020-05-14T12:03:20",
-      "speakers": [
-        {
-          "name": "Michael L Perry",
-          "slug": "michael-l-perry"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "ACID",
-          "slug": "acid"
         }
       ]
     }

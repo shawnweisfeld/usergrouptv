@@ -6,7 +6,70 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Sep 2020 19:47:28 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Sep 2020 14:33:53 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>.net</title>
+      <link>https://usergroup.tv/videos/tag/net/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>.NET Core</title>
+      <link>https://usergroup.tv/videos/tag/net-core/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/net-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C#</title>
+      <link>https://usergroup.tv/videos/tag/c/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mads Torgersen</title>
+      <link>https://usergroup.tv/videos/category/speaker/mads-torgersen/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/mads-torgersen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft</title>
+      <link>https://usergroup.tv/videos/tag/microsoft/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/microsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Future of C</title>
+      <link>https://usergroup.tv/videos/the-future-of-c/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/the-future-of-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>About Us</title>
       <link>https://usergroup.tv/about-us/</link>
@@ -182,15 +245,6 @@ What do we use your information for?</description>
     </item>
     
     <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
-      <pubDate>Tue, 08 Sep 2020 13:49:27 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Crazy Web Performance with Azure Static Web Apps</title>
       <link>https://usergroup.tv/videos/crazy-web-performance-with-azure-static-web-apps/</link>
       <pubDate>Tue, 25 Aug 2020 13:52:05 +0000</pubDate>
@@ -313,15 +367,6 @@ What do we use your information for?</description>
       <pubDate>Wed, 12 Aug 2020 14:05:27 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/unlocking-new-visualizations-and-features-in-power-bi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C#</title>
-      <link>https://usergroup.tv/videos/tag/c/</link>
-      <pubDate>Thu, 23 Jul 2020 02:10:01 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/c/</guid>
       <description></description>
     </item>
     
@@ -538,24 +583,6 @@ What do we use your information for?</description>
       <pubDate>Wed, 10 Jun 2020 16:35:48 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/power-automate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>.net</title>
-      <link>https://usergroup.tv/videos/tag/net/</link>
-      <pubDate>Tue, 26 May 2020 14:03:48 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/net/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>.NET Core</title>
-      <link>https://usergroup.tv/videos/tag/net-core/</link>
-      <pubDate>Tue, 26 May 2020 14:03:48 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/net-core/</guid>
       <description></description>
     </item>
     

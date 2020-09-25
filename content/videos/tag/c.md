@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "c",
-  "date": "2020-07-23T02:10:01",
+  "date": "2020-09-22T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "The Future of C",
+      "slug": "the-future-of-c",
+      "thumbnail": "https://i.vimeocdn.com/video/964019398_295x166.jpg",
+      "date": "2020-09-22T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Mads Torgersen",
+          "slug": "mads-torgersen"
+        }
+      ]
+    },
     {
       "title": "What's New in C# 8 Interfaces (and how to use them effectively)",
       "slug": "whats-new-in-c-8-interfaces-and-how-to-use-them-effectively",

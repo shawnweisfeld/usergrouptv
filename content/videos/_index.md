@@ -1,14 +1,14 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2020-09-25T14:33:53.0238092Z",
+  "date": "2020-09-25T14:42:16.7177678Z",
   "draft": false,
   "recordingCount": "1,032",
   "speakerCount": "577",
   "groupCount": "66",
   "newest": [
     {
-      "title": "The Future of C",
+      "title": "The Future of C#",
       "slug": "the-future-of-c",
       "thumbnail": "https://i.vimeocdn.com/video/964019398_295x166.jpg",
       "date": "2020-09-22T00:00:00",

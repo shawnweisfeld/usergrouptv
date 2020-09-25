@@ -1,5 +1,5 @@
 {
-  "title": "The Future of C",
+  "title": "The Future of C#",
   "type": "recording",
   "tags": [
     "C#",

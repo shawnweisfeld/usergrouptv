@@ -9,7 +9,7 @@
   "draft": false,
   "recordings": [
     {
-      "title": "The Future of C",
+      "title": "The Future of C#",
       "slug": "the-future-of-c",
       "thumbnail": "https://i.vimeocdn.com/video/964019398_295x166.jpg",
       "date": "2020-09-22T00:00:00",

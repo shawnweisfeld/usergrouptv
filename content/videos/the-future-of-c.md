@@ -18,7 +18,7 @@
     {
       "name": "Mads Torgersen",
       "slug": "mads-torgersen",
-      "bio": "Mads Torgersen Mads is the Program Manager for the C# Programming Language. He runs the C# language design process and maintain the language specification. He also participates in the design of TypeScript and Visual Basic",
+      "bio": "Mads is the Program Manager for the C# Programming Language. He runs the C# language design process and maintain the language specification. He also participates in the design of TypeScript and Visual Basic",
       "count": 1
     }
   ],
@@ -31,12 +31,12 @@
     {
       "name": ".net",
       "slug": "net",
-      "count": 6
+      "count": 7
     },
     {
       "name": ".NET Core",
       "slug": "net-core",
-      "count": 3
+      "count": 4
     },
     {
       "name": "Microsoft",
@@ -48,7 +48,7 @@
     {
       "name": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "count": 9
+      "count": 10
     }
   ]
 }

@@ -5,9 +5,35 @@
     "Tulsa .NET User Group"
   ],
   "slug": "tulsa-net-user-group",
-  "date": "2020-09-22T00:00:00",
+  "date": "2020-10-08T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Using the Compiler API in Real-World Scenarios",
+      "slug": "using-the-compiler-api-in-realworld-scenarios",
+      "thumbnail": "https://i.vimeocdn.com/video/972800786_295x166.jpg",
+      "date": "2020-10-08T00:00:00",
+      "speakers": [
+        {
+          "name": "Jason Bock",
+          "slug": "jason-bock"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": ".NET Core",
+          "slug": "net-core"
+        },
+        {
+          "name": "Compiler",
+          "slug": "compiler"
+        }
+      ]
+    },
     {
       "title": "The Future of C#",
       "slug": "the-future-of-c",

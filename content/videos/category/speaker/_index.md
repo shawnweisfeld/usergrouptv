@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2020-09-25T14:42:19.3855099Z",
+  "date": "2020-10-10T15:25:42.9171734Z",
   "draft": false,
   "speakers": [
     {
@@ -1543,6 +1543,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/709500590_295x166.jpg",
       "date": "2018-06-23T20:00:02",
       "count": 2
+    },
+    {
+      "title": "Jason Bock",
+      "slug": "jason-bock",
+      "thumbnail": "https://i.vimeocdn.com/video/972800786_295x166.jpg",
+      "date": "2020-10-08T00:00:00",
+      "count": 1
     },
     {
       "title": "Jason Craft",

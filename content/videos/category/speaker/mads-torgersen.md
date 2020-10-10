@@ -7,7 +7,7 @@
   "slug": "mads-torgersen",
   "date": "2020-09-22T00:00:00",
   "draft": false,
-  "bio": "Mads Torgersen Mads is the Program Manager for the C# Programming Language. He runs the C# language design process and maintain the language specification. He also participates in the design of TypeScript and Visual Basic",
+  "bio": "Mads is the Program Manager for the C# Programming Language. He runs the C# language design process and maintain the language specification. He also participates in the design of TypeScript and Visual Basic",
   "recordings": [
     {
       "title": "The Future of C#",

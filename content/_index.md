@@ -1,12 +1,44 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2020-09-25T14:42:16.7177678Z",
+  "date": "2020-10-10T15:25:41.766858Z",
   "draft": false,
-  "recordingCount": "1,032",
-  "speakerCount": "577",
+  "recordingCount": "1,033",
+  "speakerCount": "578",
   "groupCount": "66",
   "newest": [
+    {
+      "title": "Using the Compiler API in Real-World Scenarios",
+      "slug": "using-the-compiler-api-in-realworld-scenarios",
+      "thumbnail": "https://i.vimeocdn.com/video/972800786_295x166.jpg",
+      "date": "2020-10-08T00:00:00",
+      "speakers": [
+        {
+          "name": "Jason Bock",
+          "slug": "jason-bock"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": ".NET Core",
+          "slug": "net-core"
+        },
+        {
+          "name": "Compiler",
+          "slug": "compiler"
+        }
+      ]
+    },
     {
       "title": "The Future of C#",
       "slug": "the-future-of-c",
@@ -464,42 +496,6 @@
         {
           "name": "Power BI",
           "slug": "power-bi"
-        }
-      ]
-    },
-    {
-      "title": "A Meeting with Scott Hunter !!",
-      "slug": "a-meeting-with-scott-hunter",
-      "thumbnail": "https://i.vimeocdn.com/video/901233634_295x166.jpg",
-      "date": "2020-05-26T14:03:48",
-      "speakers": [
-        {
-          "name": "Scott Hunter",
-          "slug": "scott-hunter"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": ".net",
-          "slug": "net"
-        },
-        {
-          "name": "Blazer",
-          "slug": "blazer"
-        },
-        {
-          "name": ".NET Core",
-          "slug": "net-core"
-        },
-        {
-          "name": "ASP.NET",
-          "slug": "asp-net"
         }
       ]
     }

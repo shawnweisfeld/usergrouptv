@@ -4,47 +4,87 @@
   
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2020-09-25T14:42:21+00:00</lastmod>
+    <lastmod>2020-10-10T15:25:44+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2020-09-25T14:42:20+00:00</lastmod>
+    <lastmod>2020-10-10T15:25:43+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2020-09-25T14:42:19+00:00</lastmod>
+    <lastmod>2020-10-10T15:25:42+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2020-09-25T14:42:16+00:00</lastmod>
+    <lastmod>2020-10-10T15:25:41+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2020-09-25T14:42:16+00:00</lastmod>
+    <lastmod>2020-10-10T15:25:41+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/tags/.net/</loc>
-    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/videos/tag/net/</loc>
-    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/tags/.net-core/</loc>
-    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/videos/tag/net-core/</loc>
-    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/compiler/</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/tag/compiler/</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/jason-bock/</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/speaker/jason-bock/</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/using-the-compiler-api-in-realworld-scenarios/</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -78,22 +118,7 @@
   </url>
   
   <url>
-    <loc>https://usergroup.tv/tags/</loc>
-    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://usergroup.tv/videos/the-future-of-c/</loc>
-    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
-    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
     <lastmod>2020-09-22T00:00:00+00:00</lastmod>
   </url>
   

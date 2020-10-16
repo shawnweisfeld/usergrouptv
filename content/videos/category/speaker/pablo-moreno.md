@@ -5,10 +5,28 @@
   ],
   "type": "speaker",
   "slug": "pablo-moreno",
-  "date": "2019-10-09T23:40:11",
+  "date": "2020-10-14T00:00:00",
   "draft": false,
   "bio": "",
   "recordings": [
+    {
+      "title": "Machine Learning in Power BI with Python",
+      "slug": "machine-learning-in-power-bi-with-python",
+      "thumbnail": "https://i.vimeocdn.com/video/976555636_295x166.jpg",
+      "date": "2020-10-14T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "Power Platform World Tour - Madrid",
       "slug": "power-platform-world-tour-madrid",

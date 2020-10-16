@@ -4,37 +4,102 @@
   
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2020-10-10T15:25:44+00:00</lastmod>
+    <lastmod>2020-10-16T18:06:18+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2020-10-10T15:25:43+00:00</lastmod>
+    <lastmod>2020-10-16T18:06:16+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2020-10-10T15:25:42+00:00</lastmod>
+    <lastmod>2020-10-16T18:06:15+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2020-10-10T15:25:41+00:00</lastmod>
+    <lastmod>2020-10-16T18:06:10+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2020-10-10T15:25:41+00:00</lastmod>
+    <lastmod>2020-10-16T18:06:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/machine-learning-in-power-bi-with-python/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/pablo-moreno/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/speaker/pablo-moreno/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/power-bi/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/tag/power-bi/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/tags/.net/</loc>
-    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/videos/tag/net/</loc>
-    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/austin-.net-ug/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/group/austin-net-ug/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/david-mccarter/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/speaker/david-mccarter/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/rck-yor-cde-defensive-programming-for-microsoft-net/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -64,11 +129,6 @@
   
   <url>
     <loc>https://usergroup.tv/videos/category/speaker/jason-bock/</loc>
-    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -188,16 +248,6 @@
   </url>
   
   <url>
-    <loc>https://usergroup.tv/tags/austin-.net-ug/</loc>
-    <lastmod>2020-09-14T17:44:41+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/category/group/austin-net-ug/</loc>
-    <lastmod>2020-09-14T17:44:41+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://usergroup.tv/tags/blazor/</loc>
     <lastmod>2020-09-14T17:44:41+00:00</lastmod>
   </url>
@@ -234,26 +284,6 @@
   
   <url>
     <loc>https://usergroup.tv/videos/an-introduction-to-tabular-editor/</loc>
-    <lastmod>2020-09-09T15:22:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
-    <lastmod>2020-09-09T15:22:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
-    <lastmod>2020-09-09T15:22:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/power-bi/</loc>
-    <lastmod>2020-09-09T15:22:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/tag/power-bi/</loc>
     <lastmod>2020-09-09T15:22:13+00:00</lastmod>
   </url>
   
@@ -1415,16 +1445,6 @@
   <url>
     <loc>https://usergroup.tv/videos/category/speaker/tone-shelby/</loc>
     <lastmod>2019-10-09T23:41:28+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/pablo-moreno/</loc>
-    <lastmod>2019-10-09T23:40:11+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/category/speaker/pablo-moreno/</loc>
-    <lastmod>2019-10-09T23:40:11+00:00</lastmod>
   </url>
   
   <url>
@@ -2930,16 +2950,6 @@
   <url>
     <loc>https://usergroup.tv/videos/table-partitioning-secret-weapon-for-big-data-problems/</loc>
     <lastmod>2018-11-13T16:52:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/david-mccarter/</loc>
-    <lastmod>2018-10-29T22:47:41+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/category/speaker/david-mccarter/</loc>
-    <lastmod>2018-10-29T22:47:41+00:00</lastmod>
   </url>
   
   <url>

@@ -25,7 +25,7 @@
     {
       "name": ".net",
       "slug": "net",
-      "count": 7
+      "count": 8
     },
     {
       "name": ".NET Core",

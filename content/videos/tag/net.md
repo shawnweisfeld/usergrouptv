@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "net",
-  "date": "2020-10-08T00:00:00",
+  "date": "2020-10-12T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Röck Yoür Cöde: Defensive Programming for Microsoft .NET",
+      "slug": "rck-yor-cde-defensive-programming-for-microsoft-net",
+      "thumbnail": "https://i.vimeocdn.com/video/976577166_295x166.jpg",
+      "date": "2020-10-12T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "David McCarter",
+          "slug": "david-mccarter"
+        }
+      ]
+    },
     {
       "title": "Using the Compiler API in Real-World Scenarios",
       "slug": "using-the-compiler-api-in-realworld-scenarios",

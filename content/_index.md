@@ -1,12 +1,60 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2020-10-10T15:25:41.766858Z",
+  "date": "2020-10-16T18:06:10.6455278Z",
   "draft": false,
-  "recordingCount": "1,033",
+  "recordingCount": "1,035",
   "speakerCount": "578",
   "groupCount": "66",
   "newest": [
+    {
+      "title": "Machine Learning in Power BI with Python",
+      "slug": "machine-learning-in-power-bi-with-python",
+      "thumbnail": "https://i.vimeocdn.com/video/976555636_295x166.jpg",
+      "date": "2020-10-14T00:00:00",
+      "speakers": [
+        {
+          "name": "Pablo Moreno",
+          "slug": "pablo-moreno"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
+    {
+      "title": "Röck Yoür Cöde: Defensive Programming for Microsoft .NET",
+      "slug": "rck-yor-cde-defensive-programming-for-microsoft-net",
+      "thumbnail": "https://i.vimeocdn.com/video/976577166_295x166.jpg",
+      "date": "2020-10-12T00:00:00",
+      "speakers": [
+        {
+          "name": "David McCarter",
+          "slug": "david-mccarter"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        }
+      ]
+    },
     {
       "title": "Using the Compiler API in Real-World Scenarios",
       "slug": "using-the-compiler-api-in-realworld-scenarios",
@@ -440,62 +488,6 @@
         {
           "name": "git",
           "slug": "git"
-        }
-      ]
-    },
-    {
-      "title": "Azure DevOps for .Net- Fall into the Pit of Success",
-      "slug": "azure-devops-for-net-fall-into-the-pit-of-success-2",
-      "thumbnail": "https://i.vimeocdn.com/video/910379644_295x166.jpg",
-      "date": "2020-06-16T15:10:57",
-      "speakers": [
-        {
-          "name": "Jeffrey Palermo",
-          "slug": "jeffrey-palermo"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        }
-      ],
-      "tags": [
-        {
-          "name": "DevOps",
-          "slug": "devops"
-        }
-      ]
-    },
-    {
-      "title": "Creating Power BI Reports that enable updating the underlying data using Power Apps and Power Automate",
-      "slug": "creating-power-bi-reports-that-enable-updating-the-underlying-data-using-power-apps-and-power-automate",
-      "thumbnail": "https://i.vimeocdn.com/video/908442500_295x166.jpg",
-      "date": "2020-06-10T16:35:48",
-      "speakers": [
-        {
-          "name": "Charles Sterling",
-          "slug": "charles-sterling"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Power Automate",
-          "slug": "power-automate"
-        },
-        {
-          "name": "Power Apps",
-          "slug": "power-apps"
-        },
-        {
-          "name": "Power BI",
-          "slug": "power-bi"
         }
       ]
     }

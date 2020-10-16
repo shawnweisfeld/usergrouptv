@@ -5,9 +5,27 @@
     "Austin .NET UG"
   ],
   "slug": "austin-net-ug",
-  "date": "2020-09-14T17:44:41",
+  "date": "2020-10-12T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Röck Yoür Cöde: Defensive Programming for Microsoft .NET",
+      "slug": "rck-yor-cde-defensive-programming-for-microsoft-net",
+      "thumbnail": "https://i.vimeocdn.com/video/976577166_295x166.jpg",
+      "date": "2020-10-12T00:00:00",
+      "speakers": [
+        {
+          "name": "David McCarter",
+          "slug": "david-mccarter"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        }
+      ]
+    },
     {
       "title": "Blazor Architecture Patterns",
       "slug": "blazor-architecture-patterns",

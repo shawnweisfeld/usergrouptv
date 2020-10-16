@@ -1,15 +1,15 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2020-10-10T15:25:43.4779626Z",
+  "date": "2020-10-16T18:06:16.9286675Z",
   "draft": false,
   "ugtvtags": [
     {
       "title": ".net",
       "slug": "net",
-      "thumbnail": "https://i.vimeocdn.com/video/972800786_295x166.jpg",
-      "date": "2020-10-08T00:00:00",
-      "count": 7
+      "thumbnail": "https://i.vimeocdn.com/video/976577166_295x166.jpg",
+      "date": "2020-10-12T00:00:00",
+      "count": 8
     },
     {
       "title": ".NET Core",
@@ -1960,9 +1960,9 @@
     {
       "title": "Power BI",
       "slug": "power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/955146027_295x166.jpg",
-      "date": "2020-09-09T15:22:13",
-      "count": 18
+      "thumbnail": "https://i.vimeocdn.com/video/976555636_295x166.jpg",
+      "date": "2020-10-14T00:00:00",
+      "count": 19
     },
     {
       "title": "Power Map",

@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2020-10-10T15:25:42.9171734Z",
+  "date": "2020-10-16T18:06:15.8400792Z",
   "draft": false,
   "speakers": [
     {
@@ -910,9 +910,9 @@
     {
       "title": "David McCarter",
       "slug": "david-mccarter",
-      "thumbnail": "https://i.vimeocdn.com/video/736365140_295x166.jpg",
-      "date": "2018-10-29T22:47:41",
-      "count": 2
+      "thumbnail": "https://i.vimeocdn.com/video/976577166_295x166.jpg",
+      "date": "2020-10-12T00:00:00",
+      "count": 3
     },
     {
       "title": "David O'Hara",
@@ -2898,9 +2898,9 @@
     {
       "title": "Pablo Moreno",
       "slug": "pablo-moreno",
-      "thumbnail": "https://i.vimeocdn.com/video/822338922_295x166.jpg",
-      "date": "2019-10-09T23:40:11",
-      "count": 2
+      "thumbnail": "https://i.vimeocdn.com/video/976555636_295x166.jpg",
+      "date": "2020-10-14T00:00:00",
+      "count": 3
     },
     {
       "title": "Patrick Abbs",

@@ -5,9 +5,27 @@
     "Austin Power BI User Group"
   ],
   "slug": "austin-power-bi-user-group",
-  "date": "2020-09-09T15:22:13",
+  "date": "2020-10-14T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Machine Learning in Power BI with Python",
+      "slug": "machine-learning-in-power-bi-with-python",
+      "thumbnail": "https://i.vimeocdn.com/video/976555636_295x166.jpg",
+      "date": "2020-10-14T00:00:00",
+      "speakers": [
+        {
+          "name": "Pablo Moreno",
+          "slug": "pablo-moreno"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "An Introduction to Tabular Editor",
       "slug": "an-introduction-to-tabular-editor",

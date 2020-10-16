@@ -16,7 +16,7 @@
       "name": "Pablo Moreno",
       "slug": "pablo-moreno",
       "bio": "",
-      "count": 2
+      "count": 3
     }
   ],
   "ugtvtags": [
@@ -30,7 +30,7 @@
     {
       "name": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "count": 12
+      "count": 13
     }
   ]
 }

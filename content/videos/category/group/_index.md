@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2020-10-10T15:25:44.2505884Z",
+  "date": "2020-10-16T18:06:18.9872415Z",
   "draft": false,
   "meetups": [
     {
@@ -49,9 +49,9 @@
     {
       "title": "Austin .NET UG",
       "slug": "austin-net-ug",
-      "thumbnail": "https://i.vimeocdn.com/video/958530841_295x166.jpg",
-      "date": "2020-09-14T17:44:41",
-      "count": 51
+      "thumbnail": "https://i.vimeocdn.com/video/976577166_295x166.jpg",
+      "date": "2020-10-12T00:00:00",
+      "count": 52
     },
     {
       "title": "Austin Agile",
@@ -112,9 +112,9 @@
     {
       "title": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/955146027_295x166.jpg",
-      "date": "2020-09-09T15:22:13",
-      "count": 12
+      "thumbnail": "https://i.vimeocdn.com/video/976555636_295x166.jpg",
+      "date": "2020-10-14T00:00:00",
+      "count": 13
     },
     {
       "title": "Austin SQL Saturday",

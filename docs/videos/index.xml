@@ -6,7 +6,25 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2020 15:25:41 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Oct 2020 18:06:10 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning in Power BI with Python</title>
+      <link>https://usergroup.tv/videos/machine-learning-in-power-bi-with-python/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/machine-learning-in-power-bi-with-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Röck Yoür Cöde: Defensive Programming for Microsoft .NET</title>
+      <link>https://usergroup.tv/videos/rck-yor-cde-defensive-programming-for-microsoft-net/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/rck-yor-cde-defensive-programming-for-microsoft-net/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Using the Compiler API in Real-World Scenarios</title>
       <link>https://usergroup.tv/videos/using-the-compiler-api-in-realworld-scenarios/</link>

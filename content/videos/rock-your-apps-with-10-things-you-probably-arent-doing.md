@@ -16,7 +16,7 @@
       "name": "David McCarter",
       "slug": "david-mccarter",
       "bio": "<p>David McCarter is a Microsoft MVP (Most Valuable Professional), C# Corner MVP, solutions architect, speaker, consultant, professional code reviewer and interviewer in San Diego, California.</p>",
-      "count": 2
+      "count": 3
     }
   ],
   "ugtvtags": [
@@ -30,7 +30,7 @@
     {
       "name": "Austin .NET UG",
       "slug": "austin-net-ug",
-      "count": 51
+      "count": 52
     }
   ]
 }

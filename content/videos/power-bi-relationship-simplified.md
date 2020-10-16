@@ -30,7 +30,7 @@
     {
       "name": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "count": 12
+      "count": 13
     }
   ]
 }

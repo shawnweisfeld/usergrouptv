@@ -5,9 +5,39 @@
     "Capitol Area Central Texas Users of SQL Server"
   ],
   "slug": "capitol-area-central-texas-users-of-sql-server",
-  "date": "2020-02-18T12:08:41",
+  "date": "2020-10-20T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "How to get the best TCO while running SQL Server on Azure VM",
+      "slug": "how-to-get-the-best-tco-while-running-sql-server-on-azure-vm",
+      "thumbnail": "https://i.vimeocdn.com/video/980844918_295x166.jpg",
+      "date": "2020-10-20T00:00:00",
+      "speakers": [
+        {
+          "name": "Amit Banerjee",
+          "slug": "amit-banerjee"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "MS SQL",
+          "slug": "ms-sql"
+        },
+        {
+          "name": "SQL Server",
+          "slug": "sql-server"
+        }
+      ]
+    },
     {
       "title": "How Bad Are Page Splits",
       "slug": "how-bad-are-page-splits",

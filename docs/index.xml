@@ -6,7 +6,88 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2020 18:06:10 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Oct 2020 16:07:02 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amit Banerjee</title>
+      <link>https://usergroup.tv/videos/category/speaker/amit-banerjee/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/amit-banerjee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure</title>
+      <link>https://usergroup.tv/videos/tag/azure/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Austin Meetup</title>
+      <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/azure-austin-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capitol Area Central Texas Users of SQL Server</title>
+      <link>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFW Azure User Group</title>
+      <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to get the best TCO while running SQL Server on Azure VM</title>
+      <link>https://usergroup.tv/videos/how-to-get-the-best-tco-while-running-sql-server-on-azure-vm/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/how-to-get-the-best-tco-while-running-sql-server-on-azure-vm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MS SQL</title>
+      <link>https://usergroup.tv/videos/tag/ms-sql/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/ms-sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://usergroup.tv/videos/tag/sql/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server</title>
+      <link>https://usergroup.tv/videos/tag/sql-server/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql-server/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Austin Power BI User Group</title>
       <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
@@ -196,33 +277,6 @@ What do we use your information for?</description>
       <pubDate>Tue, 15 Sep 2020 17:47:45 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/api/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure</title>
-      <link>https://usergroup.tv/videos/tag/azure/</link>
-      <pubDate>Tue, 15 Sep 2020 17:47:45 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/azure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure Austin Meetup</title>
-      <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
-      <pubDate>Tue, 15 Sep 2020 17:47:45 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/azure-austin-meetup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DFW Azure User Group</title>
-      <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
-      <pubDate>Tue, 15 Sep 2020 17:47:45 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
       <description></description>
     </item>
     
@@ -830,15 +884,6 @@ What do we use your information for?</description>
     </item>
     
     <item>
-      <title>Capitol Area Central Texas Users of SQL Server</title>
-      <link>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</link>
-      <pubDate>Tue, 18 Feb 2020 12:08:41 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>How Bad Are Page Splits</title>
       <link>https://usergroup.tv/videos/how-bad-are-page-splits/</link>
       <pubDate>Tue, 18 Feb 2020 12:08:41 +0000</pubDate>
@@ -853,15 +898,6 @@ What do we use your information for?</description>
       <pubDate>Tue, 18 Feb 2020 12:08:41 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/mike-byrd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MS SQL</title>
-      <link>https://usergroup.tv/videos/tag/ms-sql/</link>
-      <pubDate>Tue, 18 Feb 2020 12:08:41 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/ms-sql/</guid>
       <description></description>
     </item>
     
@@ -3161,15 +3197,6 @@ What do we use your information for?</description>
     </item>
     
     <item>
-      <title>SQL</title>
-      <link>https://usergroup.tv/videos/tag/sql/</link>
-      <pubDate>Tue, 19 Feb 2019 15:30:18 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/sql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A Primer on SQL Server Clustered Index Architecture</title>
       <link>https://usergroup.tv/videos/a-primer-on-sql-server-clustered-index-architecture/</link>
       <pubDate>Tue, 15 Jan 2019 15:51:29 +0000</pubDate>
@@ -4057,15 +4084,6 @@ What do we use your information for?</description>
       <pubDate>Sat, 25 Aug 2018 19:32:15 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/kristin-ferrier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQL Server</title>
-      <link>https://usergroup.tv/videos/tag/sql-server/</link>
-      <pubDate>Sat, 25 Aug 2018 19:32:15 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/sql-server/</guid>
       <description></description>
     </item>
     

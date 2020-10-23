@@ -5,9 +5,35 @@
   ],
   "type": "tag",
   "slug": "sql-server",
-  "date": "2018-08-25T19:32:15",
+  "date": "2020-10-20T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "How to get the best TCO while running SQL Server on Azure VM",
+      "slug": "how-to-get-the-best-tco-while-running-sql-server-on-azure-vm",
+      "thumbnail": "https://i.vimeocdn.com/video/980844918_295x166.jpg",
+      "date": "2020-10-20T00:00:00",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Amit Banerjee",
+          "slug": "amit-banerjee"
+        }
+      ]
+    },
     {
       "title": "Demystifying JSON in SQL Server",
       "slug": "demystifying-json-in-sql-server",

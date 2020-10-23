@@ -24,7 +24,7 @@
     {
       "name": "SQL Server",
       "slug": "sql-server",
-      "count": 11
+      "count": 12
     },
     {
       "name": "Tuning",

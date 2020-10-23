@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2020-10-16T18:06:15.8400792Z",
+  "date": "2020-10-23T16:07:04.2038247Z",
   "draft": false,
   "speakers": [
     {
@@ -178,6 +178,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/507719125_295x166.jpg",
       "date": "2011-10-05T21:48:08",
       "count": 2
+    },
+    {
+      "title": "Amit Banerjee",
+      "slug": "amit-banerjee",
+      "thumbnail": "https://i.vimeocdn.com/video/980844918_295x166.jpg",
+      "date": "2020-10-20T00:00:00",
+      "count": 1
     },
     {
       "title": "Andrew Chandler",

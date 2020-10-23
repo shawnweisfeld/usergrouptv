@@ -6,7 +6,43 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2020 18:06:16 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Oct 2020 16:07:05 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure</title>
+      <link>https://usergroup.tv/videos/tag/azure/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MS SQL</title>
+      <link>https://usergroup.tv/videos/tag/ms-sql/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/ms-sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://usergroup.tv/videos/tag/sql/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server</title>
+      <link>https://usergroup.tv/videos/tag/sql-server/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql-server/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Power BI</title>
       <link>https://usergroup.tv/videos/tag/power-bi/</link>
@@ -67,15 +103,6 @@
       <pubDate>Tue, 15 Sep 2020 17:47:45 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/api/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure</title>
-      <link>https://usergroup.tv/videos/tag/azure/</link>
-      <pubDate>Tue, 15 Sep 2020 17:47:45 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/azure/</guid>
       <description></description>
     </item>
     
@@ -256,15 +283,6 @@
       <pubDate>Mon, 09 Mar 2020 18:29:59 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/azure-devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MS SQL</title>
-      <link>https://usergroup.tv/videos/tag/ms-sql/</link>
-      <pubDate>Tue, 18 Feb 2020 12:08:41 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/ms-sql/</guid>
       <description></description>
     </item>
     
@@ -701,15 +719,6 @@
     </item>
     
     <item>
-      <title>SQL</title>
-      <link>https://usergroup.tv/videos/tag/sql/</link>
-      <pubDate>Tue, 19 Feb 2019 15:30:18 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/sql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Azure Monitor</title>
       <link>https://usergroup.tv/videos/tag/azure-monitor/</link>
       <pubDate>Wed, 12 Dec 2018 16:51:12 +0000</pubDate>
@@ -859,15 +868,6 @@
       <pubDate>Sat, 25 Aug 2018 19:35:49 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/sql-server-security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQL Server</title>
-      <link>https://usergroup.tv/videos/tag/sql-server/</link>
-      <pubDate>Sat, 25 Aug 2018 19:32:15 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/sql-server/</guid>
       <description></description>
     </item>
     

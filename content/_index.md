@@ -1,12 +1,56 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2020-10-16T18:06:10.6455278Z",
+  "date": "2020-10-23T16:07:02.0080405Z",
   "draft": false,
-  "recordingCount": "1,035",
-  "speakerCount": "578",
+  "recordingCount": "1,036",
+  "speakerCount": "579",
   "groupCount": "66",
   "newest": [
+    {
+      "title": "How to get the best TCO while running SQL Server on Azure VM",
+      "slug": "how-to-get-the-best-tco-while-running-sql-server-on-azure-vm",
+      "thumbnail": "https://i.vimeocdn.com/video/980844918_295x166.jpg",
+      "date": "2020-10-20T00:00:00",
+      "speakers": [
+        {
+          "name": "Amit Banerjee",
+          "slug": "amit-banerjee"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "MS SQL",
+          "slug": "ms-sql"
+        },
+        {
+          "name": "SQL Server",
+          "slug": "sql-server"
+        }
+      ]
+    },
     {
       "title": "Machine Learning in Power BI with Python",
       "slug": "machine-learning-in-power-bi-with-python",
@@ -464,30 +508,6 @@
         {
           "name": "DDD",
           "slug": "ddd"
-        }
-      ]
-    },
-    {
-      "title": "Mastering the Git porcelain commands",
-      "slug": "mastering-the-git-porcelain-commands",
-      "thumbnail": "https://i.vimeocdn.com/video/927702077_295x166.jpg",
-      "date": "2020-06-23T13:06:06",
-      "speakers": [
-        {
-          "name": "Sara Ford",
-          "slug": "sara-ford"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "git",
-          "slug": "git"
         }
       ]
     }

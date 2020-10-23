@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2020-10-16T18:06:16.9286675Z",
+  "date": "2020-10-23T16:07:05.5498835Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -224,9 +224,9 @@
     {
       "title": "Azure",
       "slug": "azure",
-      "thumbnail": "https://i.vimeocdn.com/video/958647865_295x166.jpg",
-      "date": "2020-09-15T17:47:45",
-      "count": 35
+      "thumbnail": "https://i.vimeocdn.com/video/980844918_295x166.jpg",
+      "date": "2020-10-20T00:00:00",
+      "count": 36
     },
     {
       "title": "Azure AD",
@@ -1687,9 +1687,9 @@
     {
       "title": "MS SQL",
       "slug": "ms-sql",
-      "thumbnail": "https://i.vimeocdn.com/video/859011737_295x166.jpg",
-      "date": "2020-02-18T12:08:41",
-      "count": 18
+      "thumbnail": "https://i.vimeocdn.com/video/980844918_295x166.jpg",
+      "date": "2020-10-20T00:00:00",
+      "count": 19
     },
     {
       "title": "MSMQ",
@@ -2380,9 +2380,9 @@
     {
       "title": "SQL",
       "slug": "sql",
-      "thumbnail": "https://i.vimeocdn.com/video/760925178_295x166.jpg",
-      "date": "2019-02-19T15:30:18",
-      "count": 14
+      "thumbnail": "https://i.vimeocdn.com/video/980844918_295x166.jpg",
+      "date": "2020-10-20T00:00:00",
+      "count": 15
     },
     {
       "title": "SQL Admin",
@@ -2506,9 +2506,9 @@
     {
       "title": "SQL Server",
       "slug": "sql-server",
-      "thumbnail": "https://i.vimeocdn.com/video/722234970_295x166.jpg",
-      "date": "2018-08-25T19:32:15",
-      "count": 11
+      "thumbnail": "https://i.vimeocdn.com/video/980844918_295x166.jpg",
+      "date": "2020-10-20T00:00:00",
+      "count": 12
     },
     {
       "title": "SQL Server 2017",

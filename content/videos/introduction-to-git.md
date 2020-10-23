@@ -12,6 +12,9 @@
   "vimeo": "109117124",
   "moreinfo": "http://dallas-csharp-sig.com",
   "thumbnail": "https://i.vimeocdn.com/video/492988166_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/109117124.hd.mp4?s=e0c7b631d0aaa58947f01c94b25d205b824cc136&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/109117124.sd.mp4?s=51d4b8a1e53d0c7f8f07602c6a84b1cda2be8ccd&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 729,
   "speakers": [
     {
       "name": "David O'Hara",

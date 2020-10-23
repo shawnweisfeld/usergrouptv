@@ -11,6 +11,9 @@
   "vimeo": "381545005",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/pttzvqyzqbwb/",
   "thumbnail": "https://i.vimeocdn.com/video/842319677_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/381545005.hd.mp4?s=5719960ce693b19d0390858b6b65a7c9cc72ac9c&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/381545005.sd.mp4?s=d8bd4443cd211f34de8bd5a4386785fff2fc585b&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 382,
   "speakers": [
     {
       "name": "Jay Falck",

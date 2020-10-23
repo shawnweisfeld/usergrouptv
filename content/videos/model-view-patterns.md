@@ -13,6 +13,9 @@
   "vimeo": "106882241",
   "moreinfo": "http://fwdnug.com",
   "thumbnail": "https://i.vimeocdn.com/video/490124759_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106882241.hd.mp4?s=368822eb63735196b8f5d18b466c54886dbaa86f&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106882241.sd.mp4?s=20b2d063f4f6e6438be1bc3325a601ce59a9e366&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 548,
   "speakers": [
     {
       "name": "Rob Vettor",

@@ -11,6 +11,9 @@
   "vimeo": "142865075",
   "moreinfo": "http://lrtechfest.com/speakerdetails/#John-Downey",
   "thumbnail": "https://i.vimeocdn.com/video/540279753_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/142865075.hd.mp4?s=29e9b3ad1d6bca4f036cd89c911025f124c53c94&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/142865075.sd.mp4?s=24878aa657e3bee47ad6685bf6002892e422943a&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 890,
   "speakers": [
     {
       "name": "John Downey",

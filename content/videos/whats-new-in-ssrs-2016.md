@@ -11,6 +11,9 @@
   "vimeo": "166881952",
   "moreinfo": "http://www.sqlsaturday.com/514/Sessions/Details.aspx?sid=46875",
   "thumbnail": "https://i.vimeocdn.com/video/571063205_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/166881952.hd.mp4?s=54e847061c40cebcb04958877405ae5563f2c8b1&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/166881952.sd.mp4?s=40b51743aebfd79b64c0964b9d91debe5d5d8878&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 860,
   "speakers": [
     {
       "name": "Patrick LeBlanc",

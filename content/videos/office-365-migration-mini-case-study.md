@@ -11,6 +11,9 @@
   "vimeo": "264362640",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/lsljlmyxgbpb/",
   "thumbnail": "https://i.vimeocdn.com/video/694124069_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/264362640.hd.mp4?s=ae46a62636a5df620355feeac262ec9ab9dad054&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/264362640.sd.mp4?s=5674b7b609b84730cfb9be94e88ae7025c7d4988&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 85,
   "speakers": [
     {
       "name": "Jim McFadden",

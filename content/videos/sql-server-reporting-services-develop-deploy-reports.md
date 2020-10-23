@@ -11,6 +11,9 @@
   "vimeo": "110772156",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/495140135_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/110772156.hd.mp4?s=4c93728dcbece8d12e3fb5323bb3b038858de919&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/110772156.sd.mp4?s=133374c407a96e1f16ee02e8ac8d4c9e6bd9c799&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 753,
   "speakers": [
     {
       "name": "Anil Desai",

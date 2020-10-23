@@ -11,6 +11,9 @@
   "vimeo": "104229093",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486705644_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104229093.hd.mp4?s=ce5632234e9de92b8da05334766fe364e58e167f&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104229093.sd.mp4?s=91238aa2889269d9c815dd21469c82f358d741f5&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 1017,
   "speakers": [
     {
       "name": "Richard Mouser",

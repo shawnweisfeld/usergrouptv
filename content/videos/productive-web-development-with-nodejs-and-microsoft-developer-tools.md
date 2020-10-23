@@ -11,6 +11,9 @@
   "vimeo": "346640553",
   "moreinfo": "https://developer.microsoft.com/en-us/windows/campaigns/us-tx-dallas",
   "thumbnail": "https://i.vimeocdn.com/video/796753511_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/346640553.hd.mp4?s=eaeeb9dd9ae3e86ba38638f7243826a348d9ef13&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/346640553.sd.mp4?s=cd9006d39d1fde095745972550d544badd47f62a&profile_id=139&oauth2_token_id=20985841",
+  "recordingID": 317,
   "speakers": [
     {
       "name": "Srikanth Talla",

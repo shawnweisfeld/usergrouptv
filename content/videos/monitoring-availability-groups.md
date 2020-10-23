@@ -11,6 +11,9 @@
   "vimeo": "276870233",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=78758",
   "thumbnail": "https://i.vimeocdn.com/video/709494199_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/276870233.hd.mp4?s=279a8a0b6afbdaedce056fd9a3c669d2b90475d5&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/276870233.sd.mp4?s=c5ca7d8cb9f93c5981b8d052cb3eb404ac235a7d&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 397,
   "speakers": [
     {
       "name": "Tracy Boggiano",

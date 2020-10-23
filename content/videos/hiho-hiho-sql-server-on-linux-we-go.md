@@ -11,6 +11,9 @@
   "vimeo": "284779826",
   "moreinfo": "http://www.sqlsaturday.com/749/Sessions/Details.aspx?sid=73675",
   "thumbnail": "https://i.vimeocdn.com/video/719306607_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/284779826.hd.mp4?s=223da6c1e00bc3571528f47bb870ea177d34dabb&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/284779826.sd.mp4?s=b30d81fe3586fcaf4285e17adf415b4ac7b4585a&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 416,
   "speakers": [
     {
       "name": "Janis Griffin",

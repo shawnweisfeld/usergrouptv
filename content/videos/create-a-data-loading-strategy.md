@@ -11,6 +11,9 @@
   "vimeo": "210950284",
   "moreinfo": "http://www.sqlsaturday.com/603/Sessions/Details.aspx?sid=57098",
   "thumbnail": "https://i.vimeocdn.com/video/626872823_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/210950284.hd.mp4?s=0e57424762cd2bdc2ee6c9637aa553af80cb1369&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/210950284.sd.mp4?s=e537ae46bd14638865e6ad01525c2952b7f88fee&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 164,
   "speakers": [
     {
       "name": "Ryan Casey",

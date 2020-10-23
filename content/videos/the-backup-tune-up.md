@@ -11,6 +11,9 @@
   "vimeo": "120046506",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/507716576_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/120046506.hd.mp4?s=44bc65a589c8699ee465b1e40c27b0041c5cf967&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/120046506.sd.mp4?s=d52bc56aca2a90be9d7afb40452cfc0a18cfc0f2&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 710,
   "speakers": [
     {
       "name": "Sean McCown",

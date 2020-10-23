@@ -11,6 +11,9 @@
   "vimeo": "230192192",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650697790_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230192192.hd.mp4?s=06df017aae810c69777e0c6d1f9488b0dcd79f1c&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230192192.sd.mp4?s=f5db6a516e87a8f2b759c3a7da66e3bae1b02999&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 16,
   "speakers": [
     {
       "name": "Monica Ann Arrambide",

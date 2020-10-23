@@ -11,6 +11,9 @@
   "vimeo": "238051228",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660639129_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/238051228.hd.mp4?s=0b4abcd8576a179977c053e6b4918d8018a0ac1d&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/238051228.sd.mp4?s=971e54c1fa7a806de717e5a576454985fdd33469&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 109,
   "speakers": [
     {
       "name": "Don Schenck",

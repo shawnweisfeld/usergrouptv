@@ -11,6 +11,9 @@
   "vimeo": "390487705",
   "moreinfo": "https://www.sqlsaturday.com/939/Sessions/Details.aspx?sid=101140",
   "thumbnail": "https://i.vimeocdn.com/video/854627684_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/390487705.hd.mp4?s=5f723e1dbe93363cf8dc58fa9adbb05efbc05e57&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/390487705.sd.mp4?s=2641682fc9274466313f2a98800454ffecac4c3f&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 388,
   "speakers": [
     {
       "name": "Matt Gordon",

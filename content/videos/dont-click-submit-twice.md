@@ -13,6 +13,9 @@
   "vimeo": "102967368",
   "moreinfo": "http://dallasasp.net/Meetings/3772.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/485086756_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/102967368.hd.mp4?s=faff3698fa1c2bceeac88a620d58bae937ceba56&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/102967368.sd.mp4?s=39500203467cd5569c25810baa21ea01c64fadd5&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 643,
   "speakers": [
     {
       "name": "Michael L Perry",

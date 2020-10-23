@@ -11,6 +11,9 @@
   "vimeo": "333087942",
   "moreinfo": "https://www.meetup.com/azureaustin/events/258070696/",
   "thumbnail": "https://i.vimeocdn.com/video/778966824_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/333087942.hd.mp4?s=67e6feb6527855771c63e1d6fd39cde3526dfd96&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/333087942.sd.mp4?s=3c53a988496debc332f2c6a9d940548169e7c88a&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 305,
   "speakers": [
     {
       "name": "Andy Wahrenberger",

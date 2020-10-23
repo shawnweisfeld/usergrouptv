@@ -12,6 +12,9 @@
   "vimeo": "229767458",
   "moreinfo": "http://schoolofdev.com/Tulsa/2017/Speakers/CaseyWatson/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/650163309_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/229767458.hd.mp4?s=a84e33d0be887caefadff07eecb818d8b1e2feb9&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/229767458.sd.mp4?s=d7163ec38899e4c4b52cd74f9312db11cb1fba20&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 230,
   "speakers": [
     {
       "name": "Casey Watson",

@@ -11,6 +11,9 @@
   "vimeo": "230260306",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650784553_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230260306.hd.mp4?s=56a89a9953ecbb83afd964978101fdae8410f46f&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230260306.sd.mp4?s=fc801197f3405ed87ac177eb04fcc584342515bb&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 14,
   "speakers": [
     {
       "name": "Margaret Dawson",

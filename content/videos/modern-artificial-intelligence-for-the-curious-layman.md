@@ -11,6 +11,9 @@
   "vimeo": "103221786",
   "moreinfo": "http://adnug.org/Home/august-11-2014-modern-artificial-intelligence-for-the-curious-layman/",
   "thumbnail": "https://i.vimeocdn.com/video/485394477_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/103221786.hd.mp4?s=115ab700a3664a67c98d9ae52fbd2293e831537e&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/103221786.sd.mp4?s=e902390b2e02e28d23274c6cca84734ce3ccd484&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 930,
   "speakers": [
     {
       "name": "Patrick Abbs",

@@ -11,6 +11,9 @@
   "vimeo": "375132321",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/pttzvqyzpbzb/",
   "thumbnail": "https://i.vimeocdn.com/video/833796580_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/375132321.hd.mp4?s=4dd0107da17dcc4b1de28cbaebd407c231c69cf1&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/375132321.sd.mp4?s=21f4e389062ab8eb6001bd6e21c1a6e5911fff7a&profile_id=139&oauth2_token_id=20985841",
+  "recordingID": 381,
   "speakers": [
     {
       "name": "Kevin Boles",

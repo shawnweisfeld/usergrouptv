@@ -11,6 +11,9 @@
   "vimeo": "373751308",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/lsljlmyzpbrb/",
   "thumbnail": "https://i.vimeocdn.com/video/831974276_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/373751308.hd.mp4?s=4c18ef03b145821bda4ceeb856e083d2f2eff07d&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/373751308.sd.mp4?s=243b88409845a73e03d7215b64601bc13fcc29c4&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 378,
   "speakers": [
     {
       "name": "April Dunnam",

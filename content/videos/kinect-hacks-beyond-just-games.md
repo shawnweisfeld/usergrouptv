@@ -11,6 +11,9 @@
   "vimeo": "109122249",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/492995062_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/109122249.hd.mp4?s=6910e933c397fffc82188855be5cb917e6fa368a&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/109122249.sd.mp4?s=9ffe90159d75d8cc0957f0259d682cde752e8800&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 726,
   "speakers": [
     {
       "name": "Jeremy Johnson",

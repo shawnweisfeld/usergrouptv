@@ -11,6 +11,9 @@
   "vimeo": "179315145",
   "moreinfo": "http://adnug.org/Home/august-8-2016-common-pitfalls-when-implementing-continuous-delivery/",
   "thumbnail": "https://i.vimeocdn.com/video/587191996_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/179315145.hd.mp4?s=4e660523497518c6837b2f6d335b8cdd1deaef85&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/179315145.sd.mp4?s=cf9e7c3b9b7ed1c40c758d8564ca61ef3b3ef2ce&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 184,
   "speakers": [
     {
       "name": "Jeffrey Palermo",

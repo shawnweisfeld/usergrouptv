@@ -11,6 +11,9 @@
   "vimeo": "136917910",
   "moreinfo": "http://www.meetup.com/ATX-MSFT-Devs/events/223905278/",
   "thumbnail": "https://i.vimeocdn.com/video/531612818_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/136917910.hd.mp4?s=2add1358eee70a91655f1dc963a559b044c14c3d&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/136917910.sd.mp4?s=e41ce6556a2b9f40411b8dd5db7dc8fa449bee1e&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 780,
   "speakers": [
     {
       "name": "Ryan Joy",

@@ -11,6 +11,9 @@
   "vimeo": "100980764",
   "moreinfo": "http://adnug.org/Home/november-11-how-we-solved-our-batch-sql-processing-problems-with-hadoop/",
   "thumbnail": "https://i.vimeocdn.com/video/482639317_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100980764.hd.mp4?s=a8347dae12ea84cccd280647acd9336b7138d57b&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100980764.sd.mp4?s=65ea07e66abd460aaccf4b8f0ffe70c49cafc0e1&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 958,
   "speakers": [
     {
       "name": "Brock Reeve",

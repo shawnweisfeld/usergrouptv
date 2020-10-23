@@ -11,6 +11,9 @@
   "vimeo": "105362274",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=125&amp;sessionid=9646",
   "thumbnail": "https://i.vimeocdn.com/video/488131611_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/105362274.hd.mp4?s=1909fa5f25a03c39c2e8c8e5fe6099e5ce9ba9cd&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/105362274.sd.mp4?s=fa2253c6ebbbb3504774c3c16781faeffd5037ee&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 545,
   "speakers": [
     {
       "name": "Grant Fritchey",

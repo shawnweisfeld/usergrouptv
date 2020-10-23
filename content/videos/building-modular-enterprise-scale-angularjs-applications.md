@@ -11,6 +11,9 @@
   "vimeo": "142865593",
   "moreinfo": "http://lrtechfest.com/speakerdetails/#Jonathan-Fontanez",
   "thumbnail": "https://i.vimeocdn.com/video/540280447_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/142865593.hd.mp4?s=31b142b91de2931dad6d4b0fe61f4d49e579890a&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/142865593.sd.mp4?s=2723b15402f0aed84d5a43f7bb8acddcdd04d7fe&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 894,
   "speakers": [
     {
       "name": "Jonathan Fontanez",

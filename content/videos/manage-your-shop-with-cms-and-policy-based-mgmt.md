@@ -11,6 +11,9 @@
   "vimeo": "111342054",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/495923544_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/111342054.hd.mp4?s=0ea1cdada94f57f966a99de31ed206c93e1e9a40&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/111342054.sd.mp4?s=3d6c63139279f9c1874413ebcb9273b96f652709&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 675,
   "speakers": [
     {
       "name": "Ryan Adams",

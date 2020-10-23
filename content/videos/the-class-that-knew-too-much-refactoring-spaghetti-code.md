@@ -11,6 +11,9 @@
   "vimeo": "102316776",
   "moreinfo": "http://codecamp13.adnug.org/",
   "thumbnail": "https://i.vimeocdn.com/video/484298668_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/102316776.hd.mp4?s=e0cc86a5d344976e1a77c1cde9d0c774da02acc0&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/102316776.sd.mp4?s=fe061a4af17b540b3432d7af3da6fdec83cf53a0&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 605,
   "speakers": [
     {
       "name": "Matthew D. Groves",

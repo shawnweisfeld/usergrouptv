@@ -11,6 +11,9 @@
   "vimeo": "107456525",
   "moreinfo": "http://lrtechfest.com/speakers#ryan-rousseau",
   "thumbnail": "https://i.vimeocdn.com/video/490858670_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/107456525.hd.mp4?s=dd3ca7ce3006306a2bbef3f03737ced7c129f4be&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/107456525.sd.mp4?s=1bb0fb487aaa25f12483f29bef3361eac042bc8b&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 982,
   "speakers": [
     {
       "name": "Ryan Rousseau",

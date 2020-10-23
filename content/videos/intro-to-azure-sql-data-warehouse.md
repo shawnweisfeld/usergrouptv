@@ -11,6 +11,9 @@
   "vimeo": "210945416",
   "moreinfo": "http://www.sqlsaturday.com/603/Sessions/Details.aspx?sid=57162",
   "thumbnail": "https://i.vimeocdn.com/video/626866169_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/210945416.hd.mp4?s=79c2afd31015cfa3eb212de3f5bb9dc66d91d58e&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/210945416.sd.mp4?s=466bb92073d41013319dda7978501fb4d02e310d&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 237,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

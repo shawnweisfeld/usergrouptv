@@ -11,6 +11,9 @@
   "vimeo": "108780364",
   "moreinfo": "http://www.dallastechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/492565783_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/108780364.hd.mp4?s=6435d3a19116e36a1bd33693eb2e653433e8c31e&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/108780364.sd.mp4?s=23ecf25dcd3cec4f89294a8448d36202b317f13b&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 990,
   "speakers": [
     {
       "name": "Allison Pollard",

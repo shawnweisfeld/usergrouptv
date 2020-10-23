@@ -11,6 +11,9 @@
   "vimeo": "118593605",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=29479",
   "thumbnail": "https://i.vimeocdn.com/video/505665745_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/118593605.hd.mp4?s=ed549eaa215cc03591ee08f0fcdbe318fdd8df9a&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/118593605.sd.mp4?s=06282dd7e07a0de394a626a4fe7c315574a5206a&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 818,
   "speakers": [
     {
       "name": "Rex Backman",

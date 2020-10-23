@@ -11,6 +11,9 @@
   "vimeo": "222133137",
   "moreinfo": "http://www.sqlsaturday.com/651/Sessions/Details.aspx?sid=63590",
   "thumbnail": "https://i.vimeocdn.com/video/640579433_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/222133137.hd.mp4?s=e10db34856f0c68dd716e4f384d8bf733a018343&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/222133137.sd.mp4?s=94169b61aa133861571142d249823ca703ebafc1&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 210,
   "speakers": [
     {
       "name": "Kevin Hill",

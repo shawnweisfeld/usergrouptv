@@ -11,6 +11,9 @@
   "vimeo": "363308449",
   "moreinfo": "https://www.joomladaytexas.com/",
   "thumbnail": "https://i.vimeocdn.com/video/818415610_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/363308449.hd.mp4?s=ac3dc2e4822b2b13d781ce8c8f7977d0fc7f6fa2&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/363308449.sd.mp4?s=691ff6ef0c12652c620d46b21cf1573078badac9&profile_id=139&oauth2_token_id=20985841",
+  "recordingID": 288,
   "speakers": [
     {
       "name": "Robert Jacobi",

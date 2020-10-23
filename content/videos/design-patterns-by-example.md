@@ -11,6 +11,9 @@
   "vimeo": "114763456",
   "moreinfo": "http://www.ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/500551263_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/114763456.hd.mp4?s=6407590c978526f9f05337fef104734cbd9090c4&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/114763456.sd.mp4?s=952b8d60ebfd7316ce5f1569b2a9aaf121c33d0b&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 708,
   "speakers": [
     {
       "name": "Rob Vettor",

@@ -12,6 +12,9 @@
   "vimeo": "105362328",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=125&amp;sessionid=7011",
   "thumbnail": "https://i.vimeocdn.com/video/488131594_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/105362328.hd.mp4?s=588e75a5d6383cfd42d346601925bc54ebeaa041&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/105362328.sd.mp4?s=5707e906e03b82328c687aaba21662c2fcd9a433&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 546,
   "speakers": [
     {
       "name": "Michael Hotek",

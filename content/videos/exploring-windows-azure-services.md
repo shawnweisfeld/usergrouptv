@@ -11,6 +11,9 @@
   "vimeo": "104884517",
   "moreinfo": "http://www.houstontechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/487540724_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104884517.hd.mp4?s=4928aa1b79ddd4347fd85a9250ba5bd00ed5616c&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104884517.sd.mp4?s=49b1ef51e73aed8f15f1905e0160f3ace8ae17e6&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 616,
   "speakers": [
     {
       "name": "Chris Koenig",

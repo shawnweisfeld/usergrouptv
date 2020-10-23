@@ -11,6 +11,9 @@
   "vimeo": "231057670",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/239877508/",
   "thumbnail": "https://i.vimeocdn.com/video/651775311_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/231057670.hd.mp4?s=f71e6f4755d93d13d0a85385d738492330a6dac6&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/231057670.sd.mp4?s=3c785c8e0848b0424ac1356bae5f7d900c65ee4e&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 17,
   "speakers": [
     {
       "name": "James Hammonds",

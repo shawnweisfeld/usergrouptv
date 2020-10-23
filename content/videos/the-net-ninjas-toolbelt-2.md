@@ -11,6 +11,9 @@
   "vimeo": "105363592",
   "moreinfo": "http://northdallas.net/",
   "thumbnail": "https://i.vimeocdn.com/video/488133249_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/105363592.hd.mp4?s=9f24dc3c8c137d5b7c47312781072975c9f2d852&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/105363592.sd.mp4?s=397c90320e58eb3f2da65ea3c51b38ff7ceee264&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 527,
   "speakers": [
     {
       "name": "Latish Sehgal",

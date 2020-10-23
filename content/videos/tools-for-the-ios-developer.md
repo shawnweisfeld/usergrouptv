@@ -11,6 +11,9 @@
   "vimeo": "100467736",
   "moreinfo": "http://2014.cowtowntechroundup.com/Profile/e604901c-bafa-441a-b873-8e215e237db4",
   "thumbnail": "https://i.vimeocdn.com/video/481964579_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100467736.hd.mp4?s=349660d0968fbe4e7fa9cd03532c5c09e76d641a&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100467736.sd.mp4?s=06f1aaeec1f19ac7ca3ef3051061d7fb523ec73b&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 924,
   "speakers": [
     {
       "name": "Mark Wilkinson",

@@ -11,6 +11,9 @@
   "vimeo": "405919131",
   "moreinfo": "https://www.meetup.com/azureaustin/events/269667521/",
   "thumbnail": "https://i.vimeocdn.com/video/876243475_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/405919131.hd.mp4?s=8491ac8af51ada74e5465a1fe5cf4e01d3f14fa0&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/405919131.sd.mp4?s=3053f376c4e679acee4cd1625a5bb76b73869643&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 339,
   "speakers": [
     {
       "name": "Alex Frankel",

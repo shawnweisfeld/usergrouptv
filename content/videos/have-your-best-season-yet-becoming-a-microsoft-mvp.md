@@ -11,6 +11,9 @@
   "vimeo": "237564858",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660016998_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/237564858.hd.mp4?s=4504c703302786c03f811e277c9c65a2351f7394&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/237564858.sd.mp4?s=4027012c26b910398a603311c0eefd18c5d27c71&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 26,
   "speakers": [
     {
       "name": "Lisa Anderson",

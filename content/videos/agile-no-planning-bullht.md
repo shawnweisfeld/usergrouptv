@@ -11,6 +11,9 @@
   "vimeo": "271931374",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703357756_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/271931374.hd.mp4?s=e848001c08c62a90796711565f42a775c95fec79&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/271931374.sd.mp4?s=e3340af5142372eac35da2a8efa6abec2d28c983&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 451,
   "speakers": [
     {
       "name": "Reese Schmit",

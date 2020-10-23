@@ -11,6 +11,9 @@
   "vimeo": "215095364",
   "moreinfo": "https://www.eventbrite.com/e/global-azure-bootcamp-2017-austin-tx-tickets-33085810550#",
   "thumbnail": "https://i.vimeocdn.com/video/631735934_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/215095364.hd.mp4?s=cf43c210f76130af011a73f094d83b0ba6780137&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/215095364.sd.mp4?s=dd2b06476b2fbc645bcbc7d859ceccf84c65deca&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 251,
   "speakers": [
     {
       "name": "Akhterul Mustafa",

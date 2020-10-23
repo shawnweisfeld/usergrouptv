@@ -11,6 +11,9 @@
   "vimeo": "139806223",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda",
   "thumbnail": "https://i.vimeocdn.com/video/535846230_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/139806223.hd.mp4?s=a379e85f69ed9f06d634f37d15c44f1b72b70e12&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/139806223.sd.mp4?s=68275fe4ccbdbfb6d2666a9db3185e762be10ad1&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 800,
   "speakers": [
     {
       "name": "Jane Prusakova",

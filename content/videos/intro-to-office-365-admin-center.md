@@ -11,6 +11,9 @@
   "vimeo": "184509652",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/593964486_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/184509652.hd.mp4?s=19d47896522514a25828f293aba1cb14de731a02&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/184509652.sd.mp4?s=fd249d9d15bdcbe59b73d30a0e7854ccc5cc3232&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 146,
   "speakers": [
     {
       "name": "Nikkia Carter",

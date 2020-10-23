@@ -11,6 +11,9 @@
   "vimeo": "276874232",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=81980",
   "thumbnail": "https://i.vimeocdn.com/video/709499260_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/276874232.hd.mp4?s=1ff704257cb2e07570eb0d221746dfee367235ee&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/276874232.sd.mp4?s=885f0db06bee0c80b8da7583ae41834415c74486&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 421,
   "speakers": [
     {
       "name": "Jay Falck",

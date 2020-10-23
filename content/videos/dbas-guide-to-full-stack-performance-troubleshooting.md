@@ -11,6 +11,9 @@
   "vimeo": "286199951",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/253035425/",
   "thumbnail": "https://i.vimeocdn.com/video/721045083_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/286199951.hd.mp4?s=c4337fdd046159f12770297d398705e0314c7ebd&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/286199951.sd.mp4?s=c766a5fbd79d51ae62a8fcb19a6c3f01ad6f4d41&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 486,
   "speakers": [
     {
       "name": "Daniel Janik",

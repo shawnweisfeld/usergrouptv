@@ -11,6 +11,9 @@
   "vimeo": "179314659",
   "moreinfo": "http://techfests.com/Tulsa/2016/Speakers/MichaelPerry/",
   "thumbnail": "https://i.vimeocdn.com/video/587191344_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/179314659.hd.mp4?s=b4a4520c3f044c0dd1cd61719676d009fd3d7a89&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/179314659.sd.mp4?s=8f5d1c891c86a6374233da6d40dcba04d11e6165&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 182,
   "speakers": [
     {
       "name": "Michael L Perry",

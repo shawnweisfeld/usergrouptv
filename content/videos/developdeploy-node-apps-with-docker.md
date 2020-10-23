@@ -11,6 +11,9 @@
   "vimeo": "229798153",
   "moreinfo": "http://schoolofdev.com/Tulsa/2017/Speakers/KellyAndrews/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/650203200_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/229798153.hd.mp4?s=e88652e81b1811ffee64c048373708203f2a97ef&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/229798153.sd.mp4?s=20217712a33cf6b4a3e3ae46016f2e68b6a29907&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 223,
   "speakers": [
     {
       "name": "Kelly Andrews",

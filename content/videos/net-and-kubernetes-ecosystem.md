@@ -11,6 +11,9 @@
   "vimeo": "270087205",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/250531263/",
   "thumbnail": "https://i.vimeocdn.com/video/701143460_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/270087205.hd.mp4?s=cf733eeb61a1a588b8d44d8000ce0172b3b69124&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/270087205.sd.mp4?s=b1ac216b9282473f25751b860306271430efe58f&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 425,
   "speakers": [
     {
       "name": "Dimitry Ushakov",

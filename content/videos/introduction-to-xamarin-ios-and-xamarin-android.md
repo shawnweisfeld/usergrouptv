@@ -11,6 +11,9 @@
   "vimeo": "120046052",
   "moreinfo": "http://www.meetup.com/Austin-Mobile-NET-Developers-Group/events/219107753/",
   "thumbnail": "https://i.vimeocdn.com/video/507715883_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/120046052.hd.mp4?s=4f593199f71c2eb0a2507ee474dc80a217ebab51&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/120046052.sd.mp4?s=c219b85ce2b0a9a64a15be8c236613da7ee52ace&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 824,
   "speakers": [
     {
       "name": "Adam Kemp",

@@ -11,6 +11,9 @@
   "vimeo": "266012922",
   "moreinfo": "https://global.azurebootcamp.net/locations/gobal-azure-boot-camp-2018-austin-tx/",
   "thumbnail": "https://i.vimeocdn.com/video/696163659_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/266012922.hd.mp4?s=fc3b816f90d1df1821926f055cadb4025edad828&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/266012922.sd.mp4?s=3268999e0ca8bcba382518cf20f9517213d0163a&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 90,
   "speakers": [
     {
       "name": "John Sterrett",

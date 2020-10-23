@@ -11,6 +11,9 @@
   "vimeo": "116646685",
   "moreinfo": "http://adnug.org/Home/january-12-2015-make-your-sql-server-queries-go-faster/",
   "thumbnail": "https://i.vimeocdn.com/video/503208295_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/116646685.hd.mp4?s=ac5a28224c1fc896d25e9e8aea21dfb7baca1bfe&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/116646685.sd.mp4?s=b813615a64fb139f43a70759321b29b2505c2f52&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 807,
   "speakers": [
     {
       "name": "John Sterrett",

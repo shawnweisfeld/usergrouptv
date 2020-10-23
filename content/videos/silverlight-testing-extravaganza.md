@@ -11,6 +11,9 @@
   "vimeo": "114768467",
   "moreinfo": "http://www.ntsilverlight.com/",
   "thumbnail": "https://i.vimeocdn.com/video/500558222_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/114768467.hd.mp4?s=944bee843178a4e986df3cfa476faa137fb9495d&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/114768467.sd.mp4?s=faf350270160dd7db24459b059c8bf68797b9f93&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 691,
   "speakers": [
     {
       "name": "Michael L Perry",

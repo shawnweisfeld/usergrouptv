@@ -11,6 +11,9 @@
   "vimeo": "307856875",
   "moreinfo": "https://www.meetup.com/Austin-F-Meetup/events/mbscmqyxqbbc/",
   "thumbnail": "https://i.vimeocdn.com/video/747908359_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/307856875.hd.mp4?s=14b1ad9d2843d20eee13085c3292f26897b0df2e&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/307856875.sd.mp4?s=5de5a77cf3c4c83017ff85983ed9e12ffe47fe35&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 479,
   "speakers": [
     {
       "name": "Chet Husk",

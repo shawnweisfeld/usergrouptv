@@ -11,6 +11,9 @@
   "vimeo": "140642108",
   "moreinfo": "http://measureup.io/the-leading-measures-of-velocity/",
   "thumbnail": "https://i.vimeocdn.com/video/537239050_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/140642108.hd.mp4?s=b578746c3c949a99617596da04bdf9f18345799f&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/140642108.sd.mp4?s=5345125709ede5ccfd0f5330e1940a7488749dd8&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 883,
   "speakers": [
     {
       "name": "Allen Hurst",

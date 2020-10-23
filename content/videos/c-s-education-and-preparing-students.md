@@ -11,6 +11,9 @@
   "vimeo": "237557409",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660004585_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/237557409.hd.mp4?s=2eea197f18ee999d6bf18b76d38ecbcbdbd865ff&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/237557409.sd.mp4?s=183daaaa579df61672b108c37c838974bcb1fd92&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 112,
   "speakers": [
     {
       "name": "Cindy Ashcraft",

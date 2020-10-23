@@ -11,6 +11,9 @@
   "vimeo": "104229585",
   "moreinfo": "http://fwdnug.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486706257_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104229585.hd.mp4?s=66a1e8ed6e5cce67d0fffd2ef9d3fee459f14533&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104229585.sd.mp4?s=5ebaa3c0454fe27d839b05085b6ca7e4b744a36a&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 624,
   "speakers": [
     {
       "name": "Mark Watson",

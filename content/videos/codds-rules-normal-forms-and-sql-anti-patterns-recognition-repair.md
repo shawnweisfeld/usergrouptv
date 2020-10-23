@@ -11,6 +11,9 @@
   "vimeo": "166789554",
   "moreinfo": "http://www.sqlsaturday.com/514/Sessions/Details.aspx?sid=48571",
   "thumbnail": "https://i.vimeocdn.com/video/570948383_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/166789554.hd.mp4?s=b254d40e919df5a701bbe1b67a1e5319c834a858&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/166789554.sd.mp4?s=b77505f720c0d65d7dcb1637bd838046b09584c0&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 520,
   "speakers": [
     {
       "name": "Ken Clement",

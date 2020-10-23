@@ -11,6 +11,9 @@
   "vimeo": "223016679",
   "moreinfo": "http://www.sqlsaturday.com/651/Sessions/Details.aspx?sid=63725",
   "thumbnail": "https://i.vimeocdn.com/video/641693171_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/223016679.hd.mp4?s=1fb58a3500092ad4bdf64c4b044d487e68873032&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/223016679.sd.mp4?s=0cf1e40a4a590ccc98e49989e0ffee06dce76943&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 202,
   "speakers": [
     {
       "name": "Bob Ward",

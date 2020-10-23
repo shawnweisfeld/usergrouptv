@@ -11,6 +11,9 @@
   "vimeo": "458972042",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/271818559/",
   "thumbnail": "https://i.vimeocdn.com/video/959175670_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/458972042.hd.mp4?s=f353bb37148f527bcc0573728a9a05d6cc64c704&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/458972042.sd.mp4?s=313b070b05c9544452654b4b0a68776a1b0d2a14&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 1029,
   "speakers": [
     {
       "name": "Cecil Phillip",

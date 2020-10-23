@@ -11,6 +11,9 @@
   "vimeo": "107458711",
   "moreinfo": "http://lrtechfest.com/speakers#jon-robertson",
   "thumbnail": "https://i.vimeocdn.com/video/490861399_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/107458711.hd.mp4?s=ffa7d9ba8afbdf8eb4288bd7232644307cfa9e8c&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/107458711.sd.mp4?s=dfb0971f7f9b52eb2c3fdca355aaad6e6753e97f&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 977,
   "speakers": [
     {
       "name": "Jon Robertson",

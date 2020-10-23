@@ -11,6 +11,9 @@
   "vimeo": "114763414",
   "moreinfo": "http://hands-on-coding.net",
   "thumbnail": "https://i.vimeocdn.com/video/500551233_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/114763414.hd.mp4?s=73511a10739362a9abd2bd2b76276c93e43b0cf0&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/114763414.sd.mp4?s=8de404126624c469673f2f732f0f29d9ebb470c1&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 692,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

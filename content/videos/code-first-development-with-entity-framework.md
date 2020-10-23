@@ -11,6 +11,9 @@
   "vimeo": "110068565",
   "moreinfo": "http://dallas-csharp-sig.com",
   "thumbnail": "https://i.vimeocdn.com/video/494184191_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/110068565.hd.mp4?s=f0104d36dba5dfde37bde1704a9b95d446b74648&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/110068565.sd.mp4?s=795bda2f642b99cc5455d539cd9bd458d53126f2&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 715,
   "speakers": [
     {
       "name": "Devlin Liles",

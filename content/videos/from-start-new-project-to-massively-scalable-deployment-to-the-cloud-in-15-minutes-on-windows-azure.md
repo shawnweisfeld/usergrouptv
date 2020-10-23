@@ -11,6 +11,9 @@
   "vimeo": "105360176",
   "moreinfo": "http://techfests.com/NWA/2012",
   "thumbnail": "https://i.vimeocdn.com/video/488128851_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/105360176.hd.mp4?s=51100316397d1f283feb65b860babacf9b5a7b22&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/105360176.sd.mp4?s=8c7374178e3458369b1ccb9df7d3b6e50545bf4d&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 537,
   "speakers": [
     {
       "name": "Girish Gangadharan",

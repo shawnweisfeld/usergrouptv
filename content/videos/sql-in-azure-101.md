@@ -11,6 +11,9 @@
   "vimeo": "348150972",
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=92123",
   "thumbnail": "https://i.vimeocdn.com/video/798692584_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/348150972.hd.mp4?s=8e810ec46e7db05f08799179ecd532c35bf0a3e7&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/348150972.sd.mp4?s=d351503ed3cc171af3bf2be98b5dfd616ea93598&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 267,
   "speakers": [
     {
       "name": "Mark Moore",

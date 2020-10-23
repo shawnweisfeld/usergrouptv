@@ -12,6 +12,9 @@
   "vimeo": "104229858",
   "moreinfo": "http://techfests.com/Tulsa/2012/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/486706625_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104229858.hd.mp4?s=d53ec2addfee6d41e02c5183df972046c3cbd7c1&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104229858.sd.mp4?s=99635778ea9d71717466a6c082321186b0949572&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 627,
   "speakers": [
     {
       "name": "Michael L Perry",

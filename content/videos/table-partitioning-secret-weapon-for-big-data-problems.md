@@ -11,6 +11,9 @@
   "vimeo": "301258878",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/fnxhcqyxpbbc/",
   "thumbnail": "https://i.vimeocdn.com/video/739777659_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/301258878.hd.mp4?s=2d954cea47b4c5d29a6f90e1dc12240723846380&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/301258878.sd.mp4?s=6c8c284d205d7de5abbd0a44b69b6c083a592a33&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 473,
   "speakers": [
     {
       "name": "John Sterrett",

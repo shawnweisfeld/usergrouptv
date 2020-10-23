@@ -11,6 +11,9 @@
   "vimeo": "295070950",
   "moreinfo": "https://www.devfestweekend.com/schedule",
   "thumbnail": "https://i.vimeocdn.com/video/732130583_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/295070950.hd.mp4?s=8b016412151b1197933336a8c6c13fa7b945bbee&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/295070950.sd.mp4?s=7657cbc36398d94736c9092713d20968b16b333d&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 467,
   "speakers": [
     {
       "name": "Carl Ott",

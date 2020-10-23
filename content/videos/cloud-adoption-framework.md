@@ -11,6 +11,9 @@
   "vimeo": "440691082",
   "moreinfo": "https://github.com/shawnweisfeld/AzureAustinMeetupFiles/raw/master/20200721_ZebCharlie.pdf",
   "thumbnail": "https://i.vimeocdn.com/video/928416507_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/440691082.hd.mp4?s=0df8947a04a440a5a5c51332f1da8d66c3836c2c&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/440691082.sd.mp4?s=6a8dda0cfcec1f2ea6ea114e92b9f083dfd4a253&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 352,
   "speakers": [
     {
       "name": "Zeb Frantzich",

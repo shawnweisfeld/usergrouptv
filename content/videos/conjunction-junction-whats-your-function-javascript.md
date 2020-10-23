@@ -11,6 +11,9 @@
   "vimeo": "110771091",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/495138792_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/110771091.hd.mp4?s=9c842e8c23e63171304acf2e2bec9e9ebb76b2be&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/110771091.sd.mp4?s=b08b7d5e60bb08eb4cff8cc0e56f8e2df758973d&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 751,
   "speakers": [
     {
       "name": "Ryan Rauh",

@@ -11,6 +11,9 @@
   "vimeo": "101659299",
   "moreinfo": "http://techfests.com/Tulsa/2013/Speakers/DennisBottjer/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/483487770_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/101659299.hd.mp4?s=2ece4bafac201c48132d5bc130740df0f3443d77&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/101659299.sd.mp4?s=17a71a4d7cb8affd31e77de659f6592d49f19ef8&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 953,
   "speakers": [
     {
       "name": "Dennis Bottjer",

@@ -11,6 +11,9 @@
   "vimeo": "276872257",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=83909",
   "thumbnail": "https://i.vimeocdn.com/video/709496653_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/276872257.hd.mp4?s=c65b6eb234e79d0f892efd4503093dbc3744b53f&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/276872257.sd.mp4?s=c6e8700584e616869503d5249112cb0596c9241d&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 402,
   "speakers": [
     {
       "name": "Jack Bailey",

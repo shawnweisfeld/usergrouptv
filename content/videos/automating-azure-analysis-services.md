@@ -11,6 +11,9 @@
   "vimeo": "271390704",
   "moreinfo": "http://www.sqlsaturday.com/734/Sessions/Details.aspx?sid=77768",
   "thumbnail": "https://i.vimeocdn.com/video/702679647_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/271390704.hd.mp4?s=77bbf2f765cbaabbef41e3ce9b1e0ffb8e9c6a38&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/271390704.sd.mp4?s=5f92bba5960be06e9686b13149ae6231f6c79eeb&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 437,
   "speakers": [
     {
       "name": "Greg Galloway",

@@ -11,6 +11,9 @@
   "vimeo": "184507530",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/593962045_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/184507530.hd.mp4?s=88f313a5d4689c6bb53f786b2c6531ee2a165ff0&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/184507530.sd.mp4?s=4cb82b8ffa68d8c1e236ca90382d1f1a3bbd0e55&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 142,
   "speakers": [
     {
       "name": "Daniel Lioznyansky",

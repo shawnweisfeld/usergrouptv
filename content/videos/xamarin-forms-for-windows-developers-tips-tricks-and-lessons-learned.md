@@ -11,6 +11,9 @@
   "vimeo": "239090258",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/661966027_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/239090258.hd.mp4?s=1edde5798970bddbf5e32d4cb57e10b2d67164cf&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/239090258.sd.mp4?s=31973225ef2e188d0304227d9785c715343607b8&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 124,
   "speakers": [
     {
       "name": "Scott J Peterson",

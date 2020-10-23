@@ -11,6 +11,9 @@
   "vimeo": "238045584",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660631693_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/238045584.hd.mp4?s=5c23fdcd7685edad4ebfd87eb8999492621e2a4f&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/238045584.sd.mp4?s=5d7cb8de41f178a3dc50ab816e75e9e854144e07&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 56,
   "speakers": [
     {
       "name": "Taylor Otwell",

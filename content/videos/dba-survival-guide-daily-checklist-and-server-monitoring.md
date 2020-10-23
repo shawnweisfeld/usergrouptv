@@ -11,6 +11,9 @@
   "vimeo": "159605493",
   "moreinfo": "http://cactuss.sqlpass.org/Home.aspx?EventID=4561",
   "thumbnail": "https://i.vimeocdn.com/video/561392072_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/159605493.hd.mp4?s=dd4be2f4c9866f51ab0634cec2c046cf227b6f9d&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/159605493.sd.mp4?s=4773cdae48a11763c804e44154a4eb2b1d17b465&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 845,
   "speakers": [
     {
       "name": "AJ Mendo",

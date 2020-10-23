@@ -12,6 +12,9 @@
   "vimeo": "113709693",
   "moreinfo": "http://www.webcamps.ms",
   "thumbnail": "https://i.vimeocdn.com/video/499125691_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/113709693.hd.mp4?s=32fc7591c22e8fcc06048ce1830c69e94b385a2d&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/113709693.sd.mp4?s=b084a7a4410430e0532fd65871709191b4024708&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 706,
   "speakers": [
     {
       "name": "Brandon Satrom",

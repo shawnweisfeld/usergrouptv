@@ -11,6 +11,9 @@
   "vimeo": "230140574",
   "moreinfo": "http://techfests.com/Tulsa/2017/Speakers/JamesBedenbaugh/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/650633125_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230140574.hd.mp4?s=b516b4d5d775dba9d0f84aa4cb86da2c4290ab70&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230140574.sd.mp4?s=1206cd67cc6a85854fea1ff41447878c7e5ce538&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 229,
   "speakers": [
     {
       "name": "James Bedenbaugh",

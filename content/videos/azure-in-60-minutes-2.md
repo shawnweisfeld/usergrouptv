@@ -11,6 +11,9 @@
   "vimeo": "268462793",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/699197207_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/268462793.hd.mp4?s=4be3f02cfd3e9768e29efc4ac54f6acde0e89516&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/268462793.sd.mp4?s=3524ebf6a1a83a209d068fd8f1989f46975b57dd&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 98,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

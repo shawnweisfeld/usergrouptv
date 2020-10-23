@@ -11,6 +11,9 @@
   "vimeo": "113704469",
   "moreinfo": "http://dallasasp.net",
   "thumbnail": "https://i.vimeocdn.com/video/499118405_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/113704469.hd.mp4?s=7a6e71caad0f831edf364aff5e5f9a7d81a1a88f&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/113704469.sd.mp4?s=476be964baabfc26fa5f3575cc29c1dd3c1879bb&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 707,
   "speakers": [
     {
       "name": "Todd Stone",

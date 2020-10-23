@@ -11,6 +11,9 @@
   "vimeo": "230139879",
   "moreinfo": "http://techfests.com/Tulsa/2017/Speakers/MykeBates/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/650632322_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230139879.hd.mp4?s=c34ff6d7468b8b31d31fcec4a4047e1d0d71ecc5&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230139879.sd.mp4?s=2946730b023d3fb1970691ee001de9b85d70a02b&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 231,
   "speakers": [
     {
       "name": "Myke Bates",

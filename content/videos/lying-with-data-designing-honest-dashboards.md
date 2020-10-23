@@ -11,6 +11,9 @@
   "vimeo": "237560384",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660008423_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/237560384.hd.mp4?s=da75eedcd8a6821cb62900d9ff52764f1a9735d8&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/237560384.sd.mp4?s=73d64d69944cc790557ef399b4d87c39d1e6a26f&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 115,
   "speakers": [
     {
       "name": "Jeremy Jones",

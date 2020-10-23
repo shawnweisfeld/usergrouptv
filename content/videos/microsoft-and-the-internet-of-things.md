@@ -11,6 +11,9 @@
   "vimeo": "184674088",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/594174329_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/184674088.hd.mp4?s=441f975a36b6da241defd34ed5d8532ba11f01c0&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/184674088.sd.mp4?s=7768a18f5922003744fb7f0e79126e81715c1be8&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 150,
   "speakers": [
     {
       "name": "Paul DeCarlo",

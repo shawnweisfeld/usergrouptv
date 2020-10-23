@@ -11,6 +11,9 @@
   "vimeo": "348150499",
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=93230",
   "thumbnail": "https://i.vimeocdn.com/video/798691939_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/348150499.hd.mp4?s=384e9814026220373e9f4de608ea11f3c3332dbf&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/348150499.sd.mp4?s=0a285f6897947288ff9f6c07f5967e717d3dd6c7&profile_id=139&oauth2_token_id=20985841",
+  "recordingID": 296,
   "speakers": [
     {
       "name": "Ryan Adams",

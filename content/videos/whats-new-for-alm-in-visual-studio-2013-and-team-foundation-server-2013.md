@@ -11,6 +11,9 @@
   "vimeo": "107457360",
   "moreinfo": "http://lrtechfest.com/speakers#paul-hacker",
   "thumbnail": "https://i.vimeocdn.com/video/490859682_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/107457360.hd.mp4?s=58f55ad4f4d8c57fc6d648910c61113acb757891&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/107457360.sd.mp4?s=27815b6bd334316e42cd4412bdbfb6b01473a28a&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 983,
   "speakers": [
     {
       "name": "Paul Hacker",

@@ -11,6 +11,9 @@
   "vimeo": "133830086",
   "moreinfo": "http://www.meetup.com/azureaustin/events/221920439/",
   "thumbnail": "https://i.vimeocdn.com/video/527050568_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/133830086.hd.mp4?s=7a294e28fd0e3f5b5ae130b15abd81260c32ecbe&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/133830086.sd.mp4?s=960c69e609423588979e8b00c2da147161e428e3&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 777,
   "speakers": [
     {
       "name": "James Allen",

@@ -11,6 +11,9 @@
   "vimeo": "113704779",
   "moreinfo": "http://schoolofdev.com",
   "thumbnail": "https://i.vimeocdn.com/video/499118829_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/113704779.hd.mp4?s=5f9ddc8c01da91c3a0260cbf256f6ca221e35a8c&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/113704779.sd.mp4?s=ff0d697e7231f64ac11b08d01ac1ad1836c636c0&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 693,
   "speakers": [
     {
       "name": "David Walker",

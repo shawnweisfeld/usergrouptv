@@ -11,6 +11,9 @@
   "vimeo": "200223712",
   "moreinfo": "https://www.meetup.com/azureaustin/events/236804400/",
   "thumbnail": "https://i.vimeocdn.com/video/613674178_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/200223712.hd.mp4?s=e7a45137f4cad4751a34c78492c13857625a8cf6&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/200223712.sd.mp4?s=7f98b07680a8f49d6daf658b3feb55e55bceaad9&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 160,
   "speakers": [
     {
       "name": "Dylan Smith",

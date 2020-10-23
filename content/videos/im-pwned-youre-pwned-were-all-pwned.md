@@ -11,6 +11,9 @@
   "vimeo": "295070009",
   "moreinfo": "https://www.devfestweekend.com/schedule",
   "thumbnail": "https://i.vimeocdn.com/video/732129823_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/295070009.hd.mp4?s=d2909e4820d0aea9a0e5ab9b87472019ab7e2f74&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/295070009.sd.mp4?s=76a0a3ea468df589d697db657d4c1987ad00b65f&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 464,
   "speakers": [
     {
       "name": "Troy Hunt",

@@ -11,6 +11,9 @@
   "vimeo": "139802233",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda",
   "thumbnail": "https://i.vimeocdn.com/video/535839624_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/139802233.hd.mp4?s=14f9b3f037ad82614489ed95a251501b049f2e19&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/139802233.sd.mp4?s=770b475e602a5fe4430fa25e3f0a4c2c9fddc535&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 836,
   "speakers": [
     {
       "name": "Robert Stewart",

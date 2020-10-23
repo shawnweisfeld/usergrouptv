@@ -12,6 +12,9 @@
   "vimeo": "263576248",
   "moreinfo": "https://www.meetup.com/Austin-Cloud-Native-Meetup/events/248436504/",
   "thumbnail": "https://i.vimeocdn.com/video/693144702_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/263576248.hd.mp4?s=588261528532a7893431f00ed8f442665c222000&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/263576248.sd.mp4?s=aace7897095ab4f5bf088f584a3baa3dea20f118&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 82,
   "speakers": [
     {
       "name": "Mario Gray",

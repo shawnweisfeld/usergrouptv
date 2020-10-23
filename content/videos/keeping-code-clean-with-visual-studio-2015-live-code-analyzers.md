@@ -11,6 +11,9 @@
   "vimeo": "139190703",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda",
   "thumbnail": "https://i.vimeocdn.com/video/534897542_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/139190703.hd.mp4?s=fb5987c4b58ca5b77dbbfe41a9bd6929e384fe06&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/139190703.sd.mp4?s=0feb1524b8cbc3e7c709538d0de5b562bf7a1bda&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 795,
   "speakers": [
     {
       "name": "Mike Huguet",

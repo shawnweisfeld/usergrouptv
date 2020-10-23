@@ -11,6 +11,9 @@
   "vimeo": "323914976",
   "moreinfo": "https://www.meetup.com/azureaustin/events/259562951/",
   "thumbnail": "https://i.vimeocdn.com/video/767166080_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/323914976.hd.mp4?s=479e5a24da0eeb7e20399ef80be170b8c61228e3&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/323914976.sd.mp4?s=a8e544c6b2dcf623c8d17117b2779a0f694c49ee&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 391,
   "speakers": [
     {
       "name": "Becky Isserman",

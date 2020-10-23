@@ -11,6 +11,9 @@
   "vimeo": "295150664",
   "moreinfo": "https://www.devfestweekend.com/schedule",
   "thumbnail": "https://i.vimeocdn.com/video/732232475_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/295150664.hd.mp4?s=87fe3bde7e7e911947662b210554a46a6b7ecebc&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/295150664.sd.mp4?s=cf5f95e8ca8b7a983ef1025ef4e022459f029b05&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 469,
   "speakers": [
     {
       "name": "Amara Keller",

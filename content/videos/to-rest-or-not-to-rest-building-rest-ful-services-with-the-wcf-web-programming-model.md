@@ -11,6 +11,9 @@
   "vimeo": "110770227",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/495137602_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/110770227.hd.mp4?s=1b86028d97aea30156a3ee73cf24959d61b17a55&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/110770227.sd.mp4?s=545da050e57c58c0bcd4aaefb35c5fdbf5ee4bac&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 748,
   "speakers": [
     {
       "name": "Tony Sneed",

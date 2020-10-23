@@ -11,6 +11,9 @@
   "vimeo": "284797248",
   "moreinfo": "http://www.sqlsaturday.com/749/Sessions/Details.aspx?sid=84413",
   "thumbnail": "https://i.vimeocdn.com/video/719328503_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/284797248.hd.mp4?s=bf2b67a82d92d184541af31d22d8b90b61138752&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/284797248.sd.mp4?s=70aad50f9a338341e830e6ab92bd97759aa249dd&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 419,
   "speakers": [
     {
       "name": "Jamey Johnston",

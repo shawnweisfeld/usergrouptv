@@ -11,6 +11,9 @@
   "vimeo": "230192306",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650698228_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230192306.hd.mp4?s=1a894b13633baf0f87c335bdf8c8e1a9587696fa&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230192306.sd.mp4?s=206ccf2640263275f7f977b55f2b57543db2babf&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 15,
   "speakers": [
     {
       "name": "Cecy Correa",

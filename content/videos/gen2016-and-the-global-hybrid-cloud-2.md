@@ -11,6 +11,9 @@
   "vimeo": "184508431",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/593963105_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/184508431.hd.mp4?s=6eb43b7f70a2a59bb01a5ac608faf691e8f746cf&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/184508431.sd.mp4?s=58baa6e01f5879231ba9d65409bcafad573649ea&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 145,
   "speakers": [
     {
       "name": "Anthony Tex Moreign",

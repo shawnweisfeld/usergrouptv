@@ -11,6 +11,9 @@
   "vimeo": "111925759",
   "moreinfo": "http://www.vnextdallas.org",
   "thumbnail": "https://i.vimeocdn.com/video/496719690_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/111925759.hd.mp4?s=935e6c702e7a965f22d1a1598496e551d2962321&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/111925759.sd.mp4?s=33beeb1c502adb01954fa34ba4c153a2b0007a75&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 613,
   "speakers": [
     {
       "name": "Bonas Khanal",

@@ -11,6 +11,9 @@
   "vimeo": "284779185",
   "moreinfo": "http://www.sqlsaturday.com/749/Sessions/Details.aspx?sid=83093",
   "thumbnail": "https://i.vimeocdn.com/video/719305826_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/284779185.hd.mp4?s=4b97b832647374c42ee322b876cc5938d02349a4&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/284779185.sd.mp4?s=e4a74b03cc365642d81cf36bf494298b1260c4bc&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 414,
   "speakers": [
     {
       "name": "Michael Fal",

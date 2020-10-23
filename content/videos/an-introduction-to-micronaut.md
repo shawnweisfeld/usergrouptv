@@ -11,6 +11,9 @@
   "vimeo": "301305184",
   "moreinfo": "https://www.meetup.com/Austin-Cloud-Native-Meetup/events/255733015/",
   "thumbnail": "https://i.vimeocdn.com/video/739834214_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/301305184.hd.mp4?s=da646d6908a4501cde87b43d4a3fc4f837dcd548&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/301305184.sd.mp4?s=5e1087ddd57e226e8cb334ca289c26d2ead38a66&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 476,
   "speakers": [
     {
       "name": "Jeff Brown",

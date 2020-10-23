@@ -11,6 +11,9 @@
   "vimeo": "366329919",
   "moreinfo": "https://www.meetup.com/azureaustin/events/263750562/",
   "thumbnail": "https://i.vimeocdn.com/video/822338084_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/366329919.hd.mp4?s=ed36013bded2dd683e96d82abd23a7dd43026d9f&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/366329919.sd.mp4?s=4e7276105a15b5b81880382ad49b0fdf4a68dc76&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 372,
   "speakers": [
     {
       "name": "Bob Jacobs",

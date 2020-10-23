@@ -11,6 +11,9 @@
   "vimeo": "120152285",
   "moreinfo": "http://dallastechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/507866423_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/120152285.hd.mp4?s=d4e1a1d73099c368e070596986f6b224192bdb7d&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/120152285.sd.mp4?s=e337d9111863788cbe2e0ccaf66fb60e49e94bcb&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 666,
   "speakers": [
     {
       "name": "Derek Lane",

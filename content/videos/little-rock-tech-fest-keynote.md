@@ -11,6 +11,9 @@
   "vimeo": "142864954",
   "moreinfo": "http://lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/540279596_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/142864954.hd.mp4?s=ee93014846439568ec61fe3b4ecc19b335ddfedb&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/142864954.sd.mp4?s=ba8f55bdfc1703fc8a028c1a67025740d57f4a2c&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 852,
   "speakers": [
     {
       "name": "Asa Hutchinson",

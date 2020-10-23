@@ -11,6 +11,9 @@
   "vimeo": "100981157",
   "moreinfo": "http://adnug.org/Home/january-13-2014-practical-benefits-of-using-a-domain-model/",
   "thumbnail": "https://i.vimeocdn.com/video/482639807_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100981157.hd.mp4?s=7434e9e514d1f2b0cb321728e1c2b2630c719a34&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100981157.sd.mp4?s=a064f78ef74d9b733b3a316641cbace013f52607&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 960,
   "speakers": [
     {
       "name": "Ryan Vice",

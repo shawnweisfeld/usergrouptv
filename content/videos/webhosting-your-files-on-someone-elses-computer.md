@@ -11,6 +11,9 @@
   "vimeo": "231057430",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/651774920_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/231057430.hd.mp4?s=827ee1bff67cf639384c5a43e53d5eff40721b51&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/231057430.sd.mp4?s=9f1f4fe19ea360dcea54ec1182d180ff639d311e&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 53,
   "speakers": [
     {
       "name": "Benny Vasquez",

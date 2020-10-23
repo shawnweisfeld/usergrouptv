@@ -11,6 +11,9 @@
   "vimeo": "231058707",
   "moreinfo": "https://www.meetup.com/azureaustin/events/242271308/",
   "thumbnail": "https://i.vimeocdn.com/video/651777161_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/231058707.hd.mp4?s=0d8cc3166c70a5bf51f2e813cb4e87bda497eb7b&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/231058707.sd.mp4?s=ba2b2cf356a584b06065f89080d608ff2f116008&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 20,
   "speakers": [
     {
       "name": "Aaron Stannard",

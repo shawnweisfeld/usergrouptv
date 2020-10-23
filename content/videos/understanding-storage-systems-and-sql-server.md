@@ -11,6 +11,9 @@
   "vimeo": "111341610",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/495923011_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/111341610.hd.mp4?s=bccb0f6757328c1f1e2d299d5716001acffac48d&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/111341610.sd.mp4?s=ac726c014734300199b79a17f744d4db51845f03&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 711,
   "speakers": [
     {
       "name": "Wes Brown",

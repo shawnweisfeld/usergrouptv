@@ -11,6 +11,9 @@
   "vimeo": "100591683",
   "moreinfo": "http://tulsaschoolofdev.com",
   "thumbnail": "https://i.vimeocdn.com/video/482124467_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100591683.hd.mp4?s=50b77396de254a13b99c738a134f03f4a8629b0c&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100591683.sd.mp4?s=0674141dd75a7c119f4a8ddb8eeec2ff90340aa4&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 909,
   "speakers": [
     {
       "name": "Michael L Perry",

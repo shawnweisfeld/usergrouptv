@@ -11,6 +11,9 @@
   "vimeo": "237598362",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660048171_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/237598362.hd.mp4?s=d9963e8f64e06de25920a582309c8d2fc5e778a5&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/237598362.sd.mp4?s=4d4df80b7161143abd0cc6b62f3ff55517f951bb&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 119,
   "speakers": [
     {
       "name": "Sean Sparkman",

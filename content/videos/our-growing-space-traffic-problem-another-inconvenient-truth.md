@@ -11,6 +11,9 @@
   "vimeo": "364566185",
   "moreinfo": "http://conference.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/820028823_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/364566185.hd.mp4?s=7c85b84fbcc36504ad0066ca50e975badbf17661&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/364566185.sd.mp4?s=06ac3888bc2e51e89eecebda5d1e48926a840f03&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 310,
   "speakers": [
     {
       "name": "Moriba Jah",

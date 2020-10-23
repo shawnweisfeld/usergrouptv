@@ -11,6 +11,9 @@
   "vimeo": "100537273",
   "moreinfo": "http://tulsaschoolofdev.com",
   "thumbnail": "https://i.vimeocdn.com/video/482056077_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100537273.hd.mp4?s=9aa188749a64fc6d0f6e6620d66c9f7997c2acb1&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100537273.sd.mp4?s=04873c3ab66e5d550773ef5b158317f59b7739a9&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 912,
   "speakers": [
     {
       "name": "Devlin Liles",

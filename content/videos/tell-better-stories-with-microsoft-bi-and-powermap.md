@@ -11,6 +11,9 @@
   "vimeo": "100979151",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=305&sessionid=21704",
   "thumbnail": "https://i.vimeocdn.com/video/482637298_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100979151.hd.mp4?s=a19bfdf60947e12030b45212f18945ea74715a0d&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100979151.sd.mp4?s=70a53bebb36910f5aeb54c4a73678881664d3332&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 904,
   "speakers": [
     {
       "name": "marek koenig",

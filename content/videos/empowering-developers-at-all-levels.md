@@ -11,6 +11,9 @@
   "vimeo": "295150755",
   "moreinfo": "https://www.devfestweekend.com/schedule",
   "thumbnail": "https://i.vimeocdn.com/video/732232580_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/295150755.hd.mp4?s=5737778072dda670aea39691f9afe4c53c582ce1&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/295150755.sd.mp4?s=ce976288852220efdb5c2840e9eff0b443aeafd0&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 471,
   "speakers": [
     {
       "name": "Jason Craft",

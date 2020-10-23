@@ -11,6 +11,9 @@
   "vimeo": "456592196",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/272411693/",
   "thumbnail": "https://i.vimeocdn.com/video/955146027_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/456592196.hd.mp4?s=a806b96b94bdb89667f7d14f1c4cd151f7325a50&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/456592196.sd.mp4?s=1c7c433a3a8128f23cdf828eb515bfc28cbf1646&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 1028,
   "speakers": [
     {
       "name": "Alex Powers",

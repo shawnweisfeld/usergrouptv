@@ -12,6 +12,9 @@
   "vimeo": "106374582",
   "moreinfo": "http://fwdnug.com",
   "thumbnail": "https://i.vimeocdn.com/video/489466774_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106374582.hd.mp4?s=9c7a810667b847debd4acf5588efdffe62523d2f&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106374582.sd.mp4?s=615b415325f92931ddfc4794edd9ddf53ecd305b&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 524,
   "speakers": [
     {
       "name": "Tim Rayburn",

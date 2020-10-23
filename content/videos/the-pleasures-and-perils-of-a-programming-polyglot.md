@@ -11,6 +11,9 @@
   "vimeo": "230526782",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/651116962_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230526782.hd.mp4?s=b90010db69f9f7f37a9ef06b0a8f36256a223013&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230526782.sd.mp4?s=3f8d2e44d95b5b616f771f0dce55c112cbfcfac4&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 46,
   "speakers": [
     {
       "name": "Ruth Holloway",

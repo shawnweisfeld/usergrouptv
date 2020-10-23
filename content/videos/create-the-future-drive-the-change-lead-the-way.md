@@ -11,6 +11,9 @@
   "vimeo": "230526814",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/651116988_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230526814.hd.mp4?s=2b05af8edf9fd6b3dc8bd6b7bbb3aa6352b9efa9&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230526814.sd.mp4?s=b87780a11b0767ded7ac359fbce6e32411df3d1d&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 47,
   "speakers": [
     {
       "name": "Liza C. Willmore",

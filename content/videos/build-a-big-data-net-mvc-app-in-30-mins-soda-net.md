@@ -11,6 +11,9 @@
   "vimeo": "238047428",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660634153_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/238047428.hd.mp4?s=7f7e54b83ec60205ad2f8c6d87ada99d09a5dd6b&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/238047428.sd.mp4?s=478a465e3d7f9731fbecb040d1be9993fb0124db&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 73,
   "speakers": [
     {
       "name": "Brian McKeiver",

@@ -11,6 +11,9 @@
   "vimeo": "100491279",
   "moreinfo": "http://speakerrate.com/talks/32751-ddnug-leveraging-the-sql-server-data-tools-to-ease-database-development-for-the-net-developer",
   "thumbnail": "https://i.vimeocdn.com/video/481994117_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100491279.hd.mp4?s=e8cf550ab381514505b42175991795c5e232d1a4&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100491279.sd.mp4?s=1279701b69bdd5f49d2b6c5c87b385b22320807e&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 919,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

@@ -11,6 +11,9 @@
   "vimeo": "447352942",
   "moreinfo": "https://www.havensconsulting.net/speaking-events",
   "thumbnail": "https://i.vimeocdn.com/video/940309865_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/447352942.hd.mp4?s=8578a9394a267fd92c153a4efc42fa52f376c6ca&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/447352942.sd.mp4?s=0ebbc705f74423571e21c9f4fed46e904f0e2efd&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 354,
   "speakers": [
     {
       "name": "Reid Havens",

@@ -11,6 +11,9 @@
   "vimeo": "184504923",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/593959007_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/184504923.hd.mp4?s=b8b181fc42f61c679b38237371bc9f9b4e499ef8&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/184504923.sd.mp4?s=a31c4b881ddc54ed08db769ce293a8c9f842683d&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 168,
   "speakers": [
     {
       "name": "Jason Awbrey",

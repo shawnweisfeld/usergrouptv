@@ -11,6 +11,9 @@
   "vimeo": "121919297",
   "moreinfo": "http://adnug.org/Home/march-9-2015-git-in-the-real-world/",
   "thumbnail": "https://i.vimeocdn.com/video/510518736_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/121919297.hd.mp4?s=438e45ef3b5841ed80075abc7799832a55afe8e4&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/121919297.sd.mp4?s=611768c737887e1692428039ed763ca2ed7317b1&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 826,
   "speakers": [
     {
       "name": "Yogi Aradhye",

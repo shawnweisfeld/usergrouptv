@@ -11,6 +11,9 @@
   "vimeo": "287161066",
   "moreinfo": "http://www.sqlsaturday.com/794/Sessions/Details.aspx?sid=84078",
   "thumbnail": "https://i.vimeocdn.com/video/722234970_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/287161066.hd.mp4?s=9f263816a038393e8a6ce0243fdd96c5aba422dd&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/287161066.sd.mp4?s=30f6ef3055b4b9f7920c3c453ff5df6ec16ac96c&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 494,
   "speakers": [
     {
       "name": "Kristin Ferrier",

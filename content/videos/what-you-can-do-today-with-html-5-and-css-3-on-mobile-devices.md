@@ -13,6 +13,9 @@
   "vimeo": "109120387",
   "moreinfo": "http://nddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/492992526_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/109120387.hd.mp4?s=edd65783bc8d1f4708d3fdef7be9751e38d86d47&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/109120387.sd.mp4?s=44f86909e3adb50fcfd0c23c833f0c7ce8bc4517&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 721,
   "speakers": [
     {
       "name": "Eric Sowell",

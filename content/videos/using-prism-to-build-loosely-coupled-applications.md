@@ -12,6 +12,9 @@
   "vimeo": "106883857",
   "moreinfo": "http://dallasxaml.com",
   "thumbnail": "https://i.vimeocdn.com/video/490126943_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106883857.hd.mp4?s=9825d1d46b23046196ca961b89cda303748b2582&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106883857.sd.mp4?s=87a1155552f53b80fea53a15f11b3e8e60bde8de&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 522,
   "speakers": [
     {
       "name": "Brian Lagunas",

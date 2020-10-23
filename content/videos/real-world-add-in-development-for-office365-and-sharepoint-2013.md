@@ -12,6 +12,9 @@
   "vimeo": "184506741",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/593961101_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/184506741.hd.mp4?s=598984dbb327ae44aa78cf0cc65669f108ca07ac&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/184506741.sd.mp4?s=3347a406c2abca39c30b759b57266c677c4c60b4&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 141,
   "speakers": [
     {
       "name": "Brian Culver",

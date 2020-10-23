@@ -11,6 +11,9 @@
   "vimeo": "301259306",
   "moreinfo": "https://www.meetup.com/azureaustin/events/255584388/",
   "thumbnail": "https://i.vimeocdn.com/video/739778084_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/301259306.hd.mp4?s=8fdb7aeb9ee7904516de8212ad05771678a02a0f&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/301259306.sd.mp4?s=abcf3fbf65bac05d32af84d967b0093867b3635f&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 475,
   "speakers": [
     {
       "name": "Bryan Soltis",

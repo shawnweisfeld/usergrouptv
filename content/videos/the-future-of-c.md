@@ -14,6 +14,9 @@
   "vimeo": "461826617",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/272010531",
   "thumbnail": "https://i.vimeocdn.com/video/964019398_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/461826617.hd.mp4?s=d78c2de8ae277d7d499a7268e6e91fec7760bb86&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/461826617.sd.mp4?s=87e35f6868d9f8b46725e899376f8c2b170dc149&profile_id=139&oauth2_token_id=20985841",
+  "recordingID": 1034,
   "speakers": [
     {
       "name": "Mads Torgersen",

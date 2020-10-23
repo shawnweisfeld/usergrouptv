@@ -13,6 +13,9 @@
   "vimeo": "450494361",
   "moreinfo": "https://www.meetup.com/DFW-Azure-User-Group/events/272060420/",
   "thumbnail": "https://i.vimeocdn.com/video/944756978_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/450494361.hd.mp4?s=943aae595de3b2da89e5732755be4a337bd1afe4&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/450494361.sd.mp4?s=084ee165329d40fa6d2895eb21bbe9b5cc7ea8ed&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 356,
   "speakers": [
     {
       "name": "Sha Kanjoor Anandan",

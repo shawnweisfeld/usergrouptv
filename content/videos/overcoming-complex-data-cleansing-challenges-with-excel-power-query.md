@@ -11,6 +11,9 @@
   "vimeo": "100979330",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=305&sessionid=21945",
   "thumbnail": "https://i.vimeocdn.com/video/482637503_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100979330.hd.mp4?s=75dafd50d7dead0426ead5d2488f52798e971394&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100979330.sd.mp4?s=5b0d9e4aff0521001abef79a578073d59188e685&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 905,
   "speakers": [
     {
       "name": "Bryan Smith",

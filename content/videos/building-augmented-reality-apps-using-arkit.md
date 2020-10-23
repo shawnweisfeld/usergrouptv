@@ -11,6 +11,9 @@
   "vimeo": "268471349",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/699208046_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/268471349.hd.mp4?s=edae00e21839f83288b43ecc9451132768420d05&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/268471349.sd.mp4?s=e3645e16a5f83763b83ee0372f56d46307ca16e0&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 99,
   "speakers": [
     {
       "name": "Mohammad Azam",

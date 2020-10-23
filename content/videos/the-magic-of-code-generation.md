@@ -11,6 +11,9 @@
   "vimeo": "110068943",
   "moreinfo": "http://dallasasp.net/",
   "thumbnail": "https://i.vimeocdn.com/video/494184607_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/110068943.hd.mp4?s=7de85b53ef5dde2634beb596d51f5442c84bbbb6&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/110068943.sd.mp4?s=0b85e890b56973bbf6ad50df2e915df03a5b8fb0&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 714,
   "speakers": [
     {
       "name": "Joseph Baggett",

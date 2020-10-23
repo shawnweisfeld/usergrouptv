@@ -11,6 +11,9 @@
   "vimeo": "113705110",
   "moreinfo": "http://schoolofdev.com",
   "thumbnail": "https://i.vimeocdn.com/video/499119325_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/113705110.hd.mp4?s=e6a3507f23a2c3bc6eeb040d11ad3b68ed0905ad&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/113705110.sd.mp4?s=69f48bd4a189ef064cb42be31cc07f12fd579c00&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 678,
   "speakers": [
     {
       "name": "Jay Smith",

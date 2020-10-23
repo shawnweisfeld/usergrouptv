@@ -11,6 +11,9 @@
   "vimeo": "348150158",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/262950072/",
   "thumbnail": "https://i.vimeocdn.com/video/798691581_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/348150158.hd.mp4?s=69151f762d685b9bb0fd81920521d9ebe1fa2c4a&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/348150158.sd.mp4?s=35652aee95a4fa1b2e4d56bfc73bf4c098206203&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 323,
   "speakers": [
     {
       "name": "Tony Champion",

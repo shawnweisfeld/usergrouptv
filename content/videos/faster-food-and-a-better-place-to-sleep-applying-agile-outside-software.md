@@ -11,6 +11,9 @@
   "vimeo": "271923371",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703347369_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/271923371.hd.mp4?s=613b6b99199c05f37eef73d6c288f383fb2d75c0&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/271923371.sd.mp4?s=2ac00ced794beeebabf55665aebf14160e332078&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 449,
   "speakers": [
     {
       "name": "Mike Cottmeyer",

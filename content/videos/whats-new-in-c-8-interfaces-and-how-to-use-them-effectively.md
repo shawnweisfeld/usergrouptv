@@ -11,6 +11,9 @@
   "vimeo": "441884469",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/270541791/",
   "thumbnail": "https://i.vimeocdn.com/video/930462703_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/441884469.hd.mp4?s=137ad563c7984431c2eb7c089b3767dd76f17f2c&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/441884469.sd.mp4?s=24f4ff29b7c53b3a419a07ea2fe7fc9387647ad1&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 353,
   "speakers": [
     {
       "name": "Jeremy Clark",

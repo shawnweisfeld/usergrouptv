@@ -11,6 +11,9 @@
   "vimeo": "230260415",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650784688_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230260415.hd.mp4?s=44b54217ba00d8457804aea1582322c1a0a0cc67&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230260415.sd.mp4?s=0cac8b4da309a392a1992dd1eac816a90e38e354&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 39,
   "speakers": [
     {
       "name": "Debra Cerda",

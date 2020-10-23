@@ -11,6 +11,9 @@
   "vimeo": "238051446",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660639439_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/238051446.hd.mp4?s=4fe361a44fcbe903aa521afe9bba06b6bb1e2611&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/238051446.sd.mp4?s=9bd0d05f97429305828ba1738d28f964a31087fa&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 110,
   "speakers": [
     {
       "name": "Nick Volgas",

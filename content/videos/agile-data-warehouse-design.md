@@ -11,6 +11,9 @@
   "vimeo": "101660649",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=223&sessionid=16311",
   "thumbnail": "https://i.vimeocdn.com/video/483489817_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/101660649.hd.mp4?s=913069b998aa17de700b7903ac400aaa4e288f99&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/101660649.sd.mp4?s=e791615aa66e436c815d9b669770cb43586f0904&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 937,
   "speakers": [
     {
       "name": "Tim Costello",

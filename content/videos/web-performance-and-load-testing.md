@@ -11,6 +11,9 @@
   "vimeo": "140642034",
   "moreinfo": "http://measureup.io/web-performance-and-load-testing/",
   "thumbnail": "https://i.vimeocdn.com/video/537238989_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/140642034.hd.mp4?s=c2446333646e7d09d69a23571029b1b7a675b123&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/140642034.sd.mp4?s=b8eade78dbfab3324f9deeaf64d1883543b507e0&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 875,
   "speakers": [
     {
       "name": "Joseph Reynolds",

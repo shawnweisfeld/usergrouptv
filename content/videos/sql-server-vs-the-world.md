@@ -12,6 +12,9 @@
   "vimeo": "101661613",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=223&sessionid=16329",
   "thumbnail": "https://i.vimeocdn.com/video/483491133_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/101661613.hd.mp4?s=5feed07d973c655236af5a10fad3b99c75cf54d6&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/101661613.sd.mp4?s=5297f6f5c0bf7bfdb3acaed2d2045019f168a7a5&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 774,
   "speakers": [
     {
       "name": "Rob Sullivan",

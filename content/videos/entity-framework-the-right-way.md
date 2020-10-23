@@ -11,6 +11,9 @@
   "vimeo": "106882438",
   "moreinfo": "http://dallasasp.net/",
   "thumbnail": "https://i.vimeocdn.com/video/490124999_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106882438.hd.mp4?s=960ab704f4d92306b564c3b8918381f4b363053c&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106882438.sd.mp4?s=2e3f9b3abd43ceeec5c8ce634d6ce024bc5a2648&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 521,
   "speakers": [
     {
       "name": "Tim Rayburn",

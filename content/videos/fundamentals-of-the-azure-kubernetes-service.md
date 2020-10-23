@@ -11,6 +11,9 @@
   "vimeo": "354514975",
   "moreinfo": "https://www.meetup.com/azureaustin/events/263639933/",
   "thumbnail": "https://i.vimeocdn.com/video/807051589_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/354514975.hd.mp4?s=e77fc166ac1e788e92bfb27c217b643c8b2ee7d1&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/354514975.sd.mp4?s=e2780520560637cb9870119a70b976ea490decf9&profile_id=139&oauth2_token_id=20985841",
+  "recordingID": 282,
   "speakers": [
     {
       "name": "Ned Bellavance",

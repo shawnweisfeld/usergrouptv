@@ -11,6 +11,9 @@
   "vimeo": "346640344",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/262057424/",
   "thumbnail": "https://i.vimeocdn.com/video/796753265_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/346640344.hd.mp4?s=b4703a9fec080662d5a8d896b60b25360b8bf70d&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/346640344.sd.mp4?s=37da53e0fd2e680f817d8bfd3a1a174e236b14da&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 313,
   "speakers": [
     {
       "name": "Pablo Moreno",

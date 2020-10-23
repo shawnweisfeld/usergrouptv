@@ -12,6 +12,9 @@
   "vimeo": "104884671",
   "moreinfo": "http://www.dfwcpp.com/",
   "thumbnail": "https://i.vimeocdn.com/video/487540835_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104884671.hd.mp4?s=a34d8745c21e49ea72f48f46bf36fe0de839a2b6&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104884671.sd.mp4?s=9170921a333446abb15b6b56b1b086092860da44&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 622,
   "speakers": [
     {
       "name": "Mike Naquin",

@@ -11,6 +11,9 @@
   "vimeo": "178890356",
   "moreinfo": "http://techfests.com/Tulsa/2016/Speakers/BrittanyBerwanger/",
   "thumbnail": "https://i.vimeocdn.com/video/586640250_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/178890356.hd.mp4?s=45d0b8934588011830cb299a01c8aff57fb67fc4&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/178890356.sd.mp4?s=66b1988e25126b12ec4a1cce3d82a37221248dd2&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 180,
   "speakers": [
     {
       "name": "Brittany Berwanger",

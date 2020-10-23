@@ -11,6 +11,9 @@
   "vimeo": "259807926",
   "moreinfo": "http://adnug.org/Home/march-12-2018-give-your-appweb-site-superpowers-with-cognitive-services/",
   "thumbnail": "https://i.vimeocdn.com/video/688359144_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/259807926.hd.mp4?s=81094d618a2d74c106bd912d187d8c5920ce815e&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/259807926.sd.mp4?s=965b1787ac4bac45da2323867f2de65307becd0d&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 81,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

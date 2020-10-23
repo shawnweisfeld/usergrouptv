@@ -11,6 +11,9 @@
   "vimeo": "107456439",
   "moreinfo": "http://lrtechfest.com/speakers#david-felio",
   "thumbnail": "https://i.vimeocdn.com/video/490858504_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/107456439.hd.mp4?s=44dd7c8d03f9eb8bace4415e6268c37a74f4d122&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/107456439.sd.mp4?s=ca1c4962d3f28d84c01da29d27f1535778563c68&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 981,
   "speakers": [
     {
       "name": "David Felio",

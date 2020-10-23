@@ -12,6 +12,9 @@
   "vimeo": "453292618",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/270945478/",
   "thumbnail": "https://i.vimeocdn.com/video/949513028_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/453292618.hd.mp4?s=9dbdcd955af25deb621c1039574446bbcf9d4c11&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/453292618.sd.mp4?s=26da8d8d59a340f1712313e0cc5301b76c18279d&profile_id=139&oauth2_token_id=20985841",
+  "recordingID": 773,
   "speakers": [
     {
       "name": "Kevin Griffin",

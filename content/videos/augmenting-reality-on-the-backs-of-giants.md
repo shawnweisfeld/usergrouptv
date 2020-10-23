@@ -11,6 +11,9 @@
   "vimeo": "103661043",
   "moreinfo": "http://techfests.com/Tulsa/2012/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/485963245_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/103661043.hd.mp4?s=3b01526a3df9e279e00ca1b76367b24f77314767&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/103661043.sd.mp4?s=aa65fddf33081a972f7a95de627bfc7dd58b94e4&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 644,
   "speakers": [
     {
       "name": "Matt Galloway",

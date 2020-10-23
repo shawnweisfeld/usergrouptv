@@ -11,6 +11,9 @@
   "vimeo": "179315872",
   "moreinfo": "http://www.sqlsaturday.com/550/Sessions/Details.aspx?sid=49202",
   "thumbnail": "https://i.vimeocdn.com/video/587192849_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/179315872.hd.mp4?s=cdbe2fbe230e5183e461272de9b171f273983924&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/179315872.sd.mp4?s=936268bfd9ee71ea3e66188e5f24b977dcc9073e&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 188,
   "speakers": [
     {
       "name": "Mindy Curnutt",

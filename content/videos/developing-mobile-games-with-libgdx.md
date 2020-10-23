@@ -11,6 +11,9 @@
   "vimeo": "107458519",
   "moreinfo": "http://lrtechfest.com/speakers#sean-townsend",
   "thumbnail": "https://i.vimeocdn.com/video/490861175_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/107458519.hd.mp4?s=72e6530500a97ff79e270a83961dd4bd82780ed5&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/107458519.sd.mp4?s=686694bac5c657b67736c0ea9e4a59af85101873&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 976,
   "speakers": [
     {
       "name": "Sean Townsend",

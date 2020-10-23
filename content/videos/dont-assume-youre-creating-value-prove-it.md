@@ -11,6 +11,9 @@
   "vimeo": "271913506",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703334154_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/271913506.hd.mp4?s=76a0c30fc1dee9a93ba8ef8c7031702537bbb645&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/271913506.sd.mp4?s=6c22823fb996e1dc1ff0b539df265546797abc72&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 447,
   "speakers": [
     {
       "name": "Mathias Eifert",

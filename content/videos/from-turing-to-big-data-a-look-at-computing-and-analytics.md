@@ -11,6 +11,9 @@
   "vimeo": "238050852",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660638605_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/238050852.hd.mp4?s=aebf655a5b6c2b6ee0aea06666f50717aa6b1d3a&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/238050852.sd.mp4?s=f9015156eeac888bb51b51145e9214041d37f4be&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 108,
   "speakers": [
     {
       "name": "PJ Hagerty",

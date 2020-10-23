@@ -11,6 +11,9 @@
   "vimeo": "230260343",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650784593_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230260343.hd.mp4?s=c10b6443cd5288e00e83f24f5fa28523612f2b84&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230260343.sd.mp4?s=7323f0a3a4d1679ddf76429673baa5f38409a27a&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 13,
   "speakers": [
     {
       "name": "Sarah Evans",

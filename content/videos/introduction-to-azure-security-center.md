@@ -11,6 +11,9 @@
   "vimeo": "215094742",
   "moreinfo": "https://www.eventbrite.com/e/global-azure-bootcamp-2017-austin-tx-tickets-33085810550#",
   "thumbnail": "https://i.vimeocdn.com/video/631735202_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/215094742.hd.mp4?s=2a7dd5859dd172c777ce7adaeecbd605c2b42e3d&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/215094742.sd.mp4?s=e309e5dcf6ef690e8bf08a2026ac43e1cd6e6b84&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 250,
   "speakers": [
     {
       "name": "Marshall Copeland",

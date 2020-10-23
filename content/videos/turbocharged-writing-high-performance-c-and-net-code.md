@@ -11,6 +11,9 @@
   "vimeo": "416732981",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/269682795",
   "thumbnail": "https://i.vimeocdn.com/video/890687192_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/416732981.hd.mp4?s=f9b22c1d4faccd5a820b2142745ca115713830cd&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/416732981.sd.mp4?s=e0355e20b0abee5935d47f0bcfb4a731ed96b034&profile_id=139&oauth2_token_id=20985841",
+  "recordingID": 341,
   "speakers": [
     {
       "name": "Steve Gordon",

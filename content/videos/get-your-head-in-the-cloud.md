@@ -11,6 +11,9 @@
   "vimeo": "295054373",
   "moreinfo": "https://www.devfestweekend.com/schedule",
   "thumbnail": "https://i.vimeocdn.com/video/732109019_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/295054373.hd.mp4?s=45d992fdc2072c6880d6ba25fdd516579d08057d&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/295054373.sd.mp4?s=098d22bb45828a849baacc655cb9babf6fb2457d&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 459,
   "speakers": [
     {
       "name": "Billy Hollis",

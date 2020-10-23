@@ -11,6 +11,9 @@
   "vimeo": "163219238",
   "moreinfo": "http://www.meetup.com/DFW-Azure-User-Group/events/227460670/",
   "thumbnail": "https://i.vimeocdn.com/video/566418431_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/163219238.hd.mp4?s=6ec680e4d34c05f34e6dbe01517e53d406a9017d&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/163219238.sd.mp4?s=f8b4c8e1c81f539ce7e5c7d71e34e39e2842dca5&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 850,
   "speakers": [
     {
       "name": "Michael Washam",

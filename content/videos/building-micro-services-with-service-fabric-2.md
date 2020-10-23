@@ -11,6 +11,9 @@
   "vimeo": "163539271",
   "moreinfo": "http://fwdnug.com/",
   "thumbnail": "https://i.vimeocdn.com/video/568521603_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/163539271.hd.mp4?s=ff4ee63c9e8f899fe76243686021fe75bc1d30e1&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/163539271.sd.mp4?s=682da9d08f9093a11f9a37ab95c8f07bebedc6af&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 853,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

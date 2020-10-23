@@ -11,6 +11,9 @@
   "vimeo": "230192570",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650698401_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230192570.hd.mp4?s=0a55750a0697e03479e8bf51d466799f6eeaa5fd&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230192570.sd.mp4?s=b0a75f2e691e0aa520d0b2880a29f0b74656e31f&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 58,
   "speakers": [
     {
       "name": "Nola Stowe",

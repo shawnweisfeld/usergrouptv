@@ -11,6 +11,9 @@
   "vimeo": "128245132",
   "moreinfo": "http://www.meetup.com/DallasNETUG/events/221441356/",
   "thumbnail": "https://i.vimeocdn.com/video/519305193_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/128245132.hd.mp4?s=864963538625786d3a7e148aefb5e90c9c2f1ec1&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/128245132.sd.mp4?s=29f341f456b7086ac4454da6dd355662499711b8&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 832,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

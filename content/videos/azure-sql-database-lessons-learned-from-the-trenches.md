@@ -11,6 +11,9 @@
   "vimeo": "210947611",
   "moreinfo": "http://www.sqlsaturday.com/603/Sessions/Details.aspx?sid=57101",
   "thumbnail": "https://i.vimeocdn.com/video/626869262_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/210947611.hd.mp4?s=0b31e77b445102d348bb8973193dffc3e440e4f2&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/210947611.sd.mp4?s=37a94ba6028e633c41f000c0d2765164dd21c652&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 240,
   "speakers": [
     {
       "name": "Roberto Cavalcanti",

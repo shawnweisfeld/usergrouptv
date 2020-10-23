@@ -11,6 +11,9 @@
   "vimeo": "164811675",
   "moreinfo": "http://www.meetup.com/developer-springboard/events/229785388/",
   "thumbnail": "https://i.vimeocdn.com/video/568521452_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/164811675.hd.mp4?s=1a1959c082caaff7d0fede84d8a22a673bd0855a&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/164811675.sd.mp4?s=a6724a084727a6b7572b4b59edfc01f39a95b7a4&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 856,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

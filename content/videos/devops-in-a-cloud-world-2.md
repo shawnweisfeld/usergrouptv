@@ -11,6 +11,9 @@
   "vimeo": "311787811",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/257918359/",
   "thumbnail": "https://i.vimeocdn.com/video/752682612_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/311787811.hd.mp4?s=1719984fe0c25119ee82ba587e41526d8c924768&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/311787811.sd.mp4?s=e4fcc56d73336d862e0c84aa33f530ca021e8db6&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 480,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

@@ -13,6 +13,9 @@
   "vimeo": "102320060",
   "moreinfo": "http://northdallas.net/meetings/mobile-asp-net-mvc/",
   "thumbnail": "https://i.vimeocdn.com/video/484302318_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/102320060.hd.mp4?s=fdc72d24715925f581a4c0d4fdb240539e418944&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/102320060.sd.mp4?s=06022965fb93c2685c176a532eb0cc13b02257eb&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 612,
   "speakers": [
     {
       "name": "Eric Sowell",

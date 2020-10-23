@@ -11,6 +11,9 @@
   "vimeo": "271935844",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703363477_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/271935844.hd.mp4?s=c7f4ca849d1b75d57bcbf8dce32e1396a44c1a1e&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/271935844.sd.mp4?s=1f67fcaa346d3e3f1f3923dbd498a3eac92aa375&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 452,
   "speakers": [
     {
       "name": "Candase Hokanson",

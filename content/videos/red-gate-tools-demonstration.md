@@ -11,6 +11,9 @@
   "vimeo": "111341999",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/495923509_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/111341999.hd.mp4?s=9d9d8657855d5a9621a3d484183d65c99d0da0be&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/111341999.sd.mp4?s=e285dc64b0a79497bb707e9a23a2a86d22867612&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 677,
   "speakers": [
     {
       "name": "Steve Jones",

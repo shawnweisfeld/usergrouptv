@@ -11,6 +11,9 @@
   "vimeo": "101662369",
   "moreinfo": "http://adnug.org/Home/september-9-2013-in-memory-oltp/",
   "thumbnail": "https://i.vimeocdn.com/video/483492285_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/101662369.hd.mp4?s=4c5f438effaaf101a630706d8e56682a28707a6d&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/101662369.sd.mp4?s=983dfa85d9cab685074d43b327474b5270819220&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 940,
   "speakers": [
     {
       "name": "Gregory Beamer",

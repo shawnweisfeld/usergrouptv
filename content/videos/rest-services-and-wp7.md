@@ -12,6 +12,9 @@
   "vimeo": "113707492",
   "moreinfo": "http://www.ntsilverlight.com/",
   "thumbnail": "https://i.vimeocdn.com/video/499122711_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/113707492.hd.mp4?s=f17d66f4bee3eabe60c46d935f981253dd978625&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/113707492.sd.mp4?s=e2b07b828fc4dbf76b7a9f7583d31a72e5aa2bd4&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 700,
   "speakers": [
     {
       "name": "Amir Rajan",

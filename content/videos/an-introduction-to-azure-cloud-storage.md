@@ -12,6 +12,9 @@
   "vimeo": "104229808",
   "moreinfo": "http://northdallas.net/meetings/an-introduction-to-azure-cloud-storage/",
   "thumbnail": "https://i.vimeocdn.com/video/486706550_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104229808.hd.mp4?s=8793b6ab859a70c81fc1b49cff9dad2bdf2fb560&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104229808.sd.mp4?s=6c142114af868cd930b82369aa47f5a861020be9&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 626,
   "speakers": [
     {
       "name": "Casey Watson",

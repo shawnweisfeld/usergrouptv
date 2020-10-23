@@ -11,6 +11,9 @@
   "vimeo": "100537274",
   "moreinfo": "http://tulsaschoolofdev.com",
   "thumbnail": "https://i.vimeocdn.com/video/482056179_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100537274.hd.mp4?s=9782008af7829557c8fc26a1f547a6333b225ac2&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100537274.sd.mp4?s=580002636cc2c922a700c418eed03da404a9998b&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 911,
   "speakers": [
     {
       "name": "Jason Knight",

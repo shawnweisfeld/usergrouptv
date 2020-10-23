@@ -14,6 +14,9 @@
   "vimeo": "424346253",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/270352812/",
   "thumbnail": "https://i.vimeocdn.com/video/901233634_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/424346253.hd.mp4?s=b06ea3dbe0f1ee15bc72aa45a3288d143e00d1c7&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/424346253.sd.mp4?s=5b5ce63ccb4984d8e4d9bf1384d79d030cdf0a07&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 345,
   "speakers": [
     {
       "name": "Scott Hunter",

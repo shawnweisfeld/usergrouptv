@@ -11,6 +11,9 @@
   "vimeo": "104885288",
   "moreinfo": "http://lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/487541588_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104885288.hd.mp4?s=116cf034e3f7d0f1ebf7b0fa0ff14c9a6f0e03f2&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104885288.sd.mp4?s=d71d61a861d6d6969c9d2bb97da62fdd77a26d51&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 587,
   "speakers": [
     {
       "name": "Michael Wiley",

@@ -11,6 +11,9 @@
   "vimeo": "108782901",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/492568999_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/108782901.hd.mp4?s=0bed9b21758a39e341128f3b520e3ccf07315325&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/108782901.sd.mp4?s=43d5917b95dafedbe3b61235047efc5cbfdc55b3&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 735,
   "speakers": [
     {
       "name": "Chris Tullier",

@@ -11,6 +11,9 @@
   "vimeo": "106883591",
   "moreinfo": "http://www.vnextdallas.org/",
   "thumbnail": "https://i.vimeocdn.com/video/490126580_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106883591.hd.mp4?s=c42f36c4f81ca921f90f7fd5879da67c9227cd3f&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106883591.sd.mp4?s=928a73962589be8f6f6af88c7e70954f9f6d4908&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 566,
   "speakers": [
     {
       "name": "Ken Byrd",

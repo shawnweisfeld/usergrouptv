@@ -11,6 +11,9 @@
   "vimeo": "276868637",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=77775",
   "thumbnail": "https://i.vimeocdn.com/video/709492207_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/276868637.hd.mp4?s=d74bfe610a01d4005a94ce5c3bfc226ec906d7ac&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/276868637.sd.mp4?s=95c5932447afca798ec1d2ba0caa7d028f776c1e&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 393,
   "speakers": [
     {
       "name": "Jim Miller",

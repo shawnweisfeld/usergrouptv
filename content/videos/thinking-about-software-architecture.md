@@ -11,6 +11,9 @@
   "vimeo": "294396123",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/255188504/",
   "thumbnail": "https://i.vimeocdn.com/video/731505875_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/294396123.hd.mp4?s=6c1eff56b1ead1dab80d2f1067ee0eb78cac2ff5&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/294396123.sd.mp4?s=516638840e90b37442803b46c7c9f4b529fd92c9&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 457,
   "speakers": [
     {
       "name": "Jane Prusakova",

@@ -11,6 +11,9 @@
   "vimeo": "163218217",
   "moreinfo": "http://www.meetup.com/DFW-Azure-User-Group/events/227460670/",
   "thumbnail": "https://i.vimeocdn.com/video/566415745_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/163218217.hd.mp4?s=bb65b58e1654ee2043c85d90986a4ad7a9bc7b3b&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/163218217.sd.mp4?s=e61b2084be91a1ad4da6710318559fe736dfc251&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 849,
   "speakers": [
     {
       "name": "Ben Humphrey",

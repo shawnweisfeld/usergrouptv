@@ -11,6 +11,9 @@
   "vimeo": "108061042",
   "moreinfo": "http://dallasasp.net/",
   "thumbnail": "https://i.vimeocdn.com/video/491652575_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/108061042.hd.mp4?s=75d7b324a577ab5022c3e40209efc588c3aba8d6&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/108061042.sd.mp4?s=62ec436c31024429f4e503d4670ade4a0fe5d9ea&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 564,
   "speakers": [
     {
       "name": "Todd Girvin",

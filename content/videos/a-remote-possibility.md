@@ -11,6 +11,9 @@
   "vimeo": "237559851",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660007787_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/237559851.hd.mp4?s=46cb72c49cbf9c1818622129cd5610f7b156f982&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/237559851.sd.mp4?s=1da386ca81742bfec20124bd7a45322c25beeef9&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 114,
   "speakers": [
     {
       "name": "Deanna Vickers",

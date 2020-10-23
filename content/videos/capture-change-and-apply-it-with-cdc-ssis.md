@@ -12,6 +12,9 @@
   "vimeo": "118476155",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=25396",
   "thumbnail": "https://i.vimeocdn.com/video/505504007_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/118476155.hd.mp4?s=244909c62ef31cce2024b6a54445ad37b4e7fe81&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/118476155.sd.mp4?s=8a1df669dc948f8e8f8c14d46b72d7a17dd23bb6&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 812,
   "speakers": [
     {
       "name": "Steve Wake",

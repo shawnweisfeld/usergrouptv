@@ -11,6 +11,9 @@
   "vimeo": "333087685",
   "moreinfo": "https://www.meetup.com/azureaustin/events/258070696/",
   "thumbnail": "https://i.vimeocdn.com/video/778966437_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/333087685.hd.mp4?s=694b18df41e102612ec4921a5c81a48410bdb631&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/333087685.sd.mp4?s=f6182ded475694b00e7bd6540181c7206ed9eb87&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 302,
   "speakers": [
     {
       "name": "Akhterul Mustafa",

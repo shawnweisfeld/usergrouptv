@@ -11,6 +11,9 @@
   "vimeo": "103656055",
   "moreinfo": "http://techfests.com/Tulsa/2014",
   "thumbnail": "https://i.vimeocdn.com/video/485957375_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/103656055.hd.mp4?s=dca4d854321876b6d8482799ea30b5521c16c2cd&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/103656055.sd.mp4?s=54d30100df5833d330dd0411019143df0301f413&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 999,
   "speakers": [
     {
       "name": "Judd Wheeler",

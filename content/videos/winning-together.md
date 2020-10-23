@@ -11,6 +11,9 @@
   "vimeo": "230191143",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650696673_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230191143.hd.mp4?s=ebd4c5624c59e66c9415f33922e626a380670c85&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230191143.sd.mp4?s=6febf64bed1211837262e55af3e5888ed24fb9f9&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 67,
   "speakers": [
     {
       "name": "Janice Levenhagen",

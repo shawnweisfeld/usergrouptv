@@ -12,6 +12,9 @@
   "vimeo": "104230948",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486707988_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104230948.hd.mp4?s=b527b8c6d79b9a92770ce24f8fe03256efe47729&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104230948.sd.mp4?s=bc4d0b1c1d4d1fbaeec28c97fa085f66f9880ec9&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 1018,
   "speakers": [
     {
       "name": "Allen Hurst",

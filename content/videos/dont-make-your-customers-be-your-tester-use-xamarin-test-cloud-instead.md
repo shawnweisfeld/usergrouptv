@@ -11,6 +11,9 @@
   "vimeo": "178890309",
   "moreinfo": "http://techfests.com/Tulsa/2016/Speakers/RyanOverton/",
   "thumbnail": "https://i.vimeocdn.com/video/586640231_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/178890309.hd.mp4?s=404739cdaaa1328e88e97e3da56cc2a75c460bf8&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/178890309.sd.mp4?s=ec4891b7d9f6c9aeab8f7ea32e3840c4541009be&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 179,
   "speakers": [
     {
       "name": "Ryan Overton",

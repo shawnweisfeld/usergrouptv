@@ -11,6 +11,9 @@
   "vimeo": "106885724",
   "moreinfo": "http://www.dallas-csharp-sig.com/",
   "thumbnail": "https://i.vimeocdn.com/video/490129394_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106885724.hd.mp4?s=a30bf3bd6711e8d8e016bb429dbad69c1017a8ed&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106885724.sd.mp4?s=732ef4f61cb9c53282d006c242758b92aed15f44&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 568,
   "speakers": [
     {
       "name": "Todd Girvin",

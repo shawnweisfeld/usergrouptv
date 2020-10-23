@@ -11,6 +11,9 @@
   "vimeo": "230192063",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650697608_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230192063.hd.mp4?s=3dd6559fcb563ff0ab6325a4b64702f31f8ad21e&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230192063.sd.mp4?s=45054c336b4cf932fe8d87bfc77dda6e3a818664&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 62,
   "speakers": [
     {
       "name": "Ann Hudspeth",

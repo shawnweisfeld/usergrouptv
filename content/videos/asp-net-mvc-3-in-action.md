@@ -11,6 +11,9 @@
   "vimeo": "111339988",
   "moreinfo": "http://dallastechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/495921049_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/111339988.hd.mp4?s=ae3bf400fab537d2a952cbef96a1bc84d5ebd8de&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/111339988.sd.mp4?s=a3683270268efef23888a6437271536a2c581865&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 669,
   "speakers": [
     {
       "name": "Matt Hinze",

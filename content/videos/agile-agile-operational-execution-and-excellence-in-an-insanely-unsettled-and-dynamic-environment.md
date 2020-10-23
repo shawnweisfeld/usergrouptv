@@ -11,6 +11,9 @@
   "vimeo": "271861950",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703267445_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/271861950.hd.mp4?s=42b5a8a0e6c9d88ae0acb447bb66ff822a78a033&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/271861950.sd.mp4?s=89eb54e24d2c2798bc8a809a4441baab3d77685a&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 443,
   "speakers": [
     {
       "name": "Tim Costello 2",

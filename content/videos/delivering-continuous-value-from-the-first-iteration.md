@@ -11,6 +11,9 @@
   "vimeo": "229837167",
   "moreinfo": "http://schoolofdev.com/Tulsa/2017/Speakers/MichaelPerry/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/650251698_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/229837167.hd.mp4?s=ee7c11d178bdd7892d29d2f951178fd92cf645c0&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/229837167.sd.mp4?s=7e93f12fa406f7a6d35c74388150ba8c0ea0c6af&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 225,
   "speakers": [
     {
       "name": "Michael L Perry",

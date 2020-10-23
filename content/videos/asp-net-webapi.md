@@ -11,6 +11,9 @@
   "vimeo": "108058825",
   "moreinfo": "http://dfwcsug.com/",
   "thumbnail": "https://i.vimeocdn.com/video/491649718_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/108058825.hd.mp4?s=c050382794e41398e969594713e93e93ff9230d4&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/108058825.sd.mp4?s=51bf143f4ff1b1ba75657d30ee96c09f6bba123e&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 645,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

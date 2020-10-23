@@ -11,6 +11,9 @@
   "vimeo": "174797364",
   "moreinfo": "http://adnug.org/Home/july-11-2016-automated-browser-testing-from-the-trenches/",
   "thumbnail": "https://i.vimeocdn.com/video/581848094_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/174797364.hd.mp4?s=9d0ecb07e2fff5d0477b3d5d4b622dcd7335df17&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/174797364.sd.mp4?s=602bf07f5c54a1c5d555e6c2c991ddd67c725146&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 171,
   "speakers": [
     {
       "name": "Eric Anderson",

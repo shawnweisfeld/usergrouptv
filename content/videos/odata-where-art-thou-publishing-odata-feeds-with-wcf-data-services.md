@@ -11,6 +11,9 @@
   "vimeo": "110067601",
   "moreinfo": "http://ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/494182958_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/110067601.hd.mp4?s=0d694b4fc834d18341dfdd6baeb1520f41d2d143&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/110067601.sd.mp4?s=a255dc42c5d271e4028ed4cc9c0226b41452b493&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 713,
   "speakers": [
     {
       "name": "Tony Sneed",

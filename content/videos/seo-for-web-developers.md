@@ -11,6 +11,9 @@
   "vimeo": "107457956",
   "moreinfo": "http://lrtechfest.com/speakers#bill-hartzer",
   "thumbnail": "https://i.vimeocdn.com/video/490860473_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/107457956.hd.mp4?s=3986a14b313cf742828b1b6ccbf36483500eff69&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/107457956.sd.mp4?s=6e4e15a652ffca9211588e7425589ec63e8d4a05&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 978,
   "speakers": [
     {
       "name": "Bill Hartzer",

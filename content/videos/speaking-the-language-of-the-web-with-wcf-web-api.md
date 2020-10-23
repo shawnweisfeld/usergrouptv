@@ -11,6 +11,9 @@
   "vimeo": "110773422",
   "moreinfo": "http://techfests.com/Tulsa/2011/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/495141869_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/110773422.hd.mp4?s=77e6886364e2e209e6920f306a1895ec5950068a&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/110773422.sd.mp4?s=50a028c30a70d36ca9bc233f606f7997e8ab821f&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 759,
   "speakers": [
     {
       "name": "Glen Block",

@@ -11,6 +11,9 @@
   "vimeo": "422571386",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/270482468/",
   "thumbnail": "https://i.vimeocdn.com/video/898661059_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/422571386.hd.mp4?s=212ef906b26159efdd33410effa86f7147f6b711&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/422571386.sd.mp4?s=a4f56e5f15ffa7798adcc5ec630798cad9e81d7f&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 344,
   "speakers": [
     {
       "name": "Michael L Perry",

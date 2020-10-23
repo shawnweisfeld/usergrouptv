@@ -11,6 +11,9 @@
   "vimeo": "268854007",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/699683266_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/268854007.hd.mp4?s=c1e7a738c7788ccd69afe62610ea01ab0947e1ab&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/268854007.sd.mp4?s=c3583c01d52cd83b91ffcd0adb2dc98d00299183&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 95,
   "speakers": [
     {
       "name": "Ron Dagdag",

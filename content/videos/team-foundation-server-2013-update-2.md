@@ -11,6 +11,9 @@
   "vimeo": "100516595",
   "moreinfo": "https://sites.google.com/site/tfsaustinusergroup/",
   "thumbnail": "https://i.vimeocdn.com/video/482027494_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100516595.hd.mp4?s=677154e56987a8b3a58111e2b5f1d0fb2f6ffa1a&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100516595.sd.mp4?s=b8e2a74c7d18af9c85a7786ec718adbda1c1a1f3&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 931,
   "speakers": [
     {
       "name": "Tim Pacl",

@@ -11,6 +11,9 @@
   "vimeo": "348150322",
   "moreinfo": "https://www.meetup.com/azureaustin/events/262589654/",
   "thumbnail": "https://i.vimeocdn.com/video/798691818_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/348150322.hd.mp4?s=054b1fb2a082b205fb4778645b8cc8004f0953ce&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/348150322.sd.mp4?s=46c73a727012f071109ebb262ac30ee8cd190f0b&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 324,
   "speakers": [
     {
       "name": "Wayne Smith",

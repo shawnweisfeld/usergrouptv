@@ -11,6 +11,9 @@
   "vimeo": "106169245",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#0514",
   "thumbnail": "https://i.vimeocdn.com/video/489185094_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106169245.hd.mp4?s=8c6b72ebcd1bc0dd88f44aa74d73a07d9145d98e&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106169245.sd.mp4?s=223d795d963428cac113451d35be82c297a2aff2&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 980,
   "speakers": [
     {
       "name": "Justin Self",

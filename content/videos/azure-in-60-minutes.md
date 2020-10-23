@@ -11,6 +11,9 @@
   "vimeo": "266004703",
   "moreinfo": "https://global.azurebootcamp.net/locations/gobal-azure-boot-camp-2018-austin-tx/",
   "thumbnail": "https://i.vimeocdn.com/video/696153343_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/266004703.hd.mp4?s=5c0db1cebba49a6eab33aaae325be48cfa84dd6f&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/266004703.sd.mp4?s=dc63cae007006df0535cee8f066952862be4fedc&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 89,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

@@ -11,6 +11,9 @@
   "vimeo": "229797945",
   "moreinfo": "http://schoolofdev.com/Tulsa/2017/Speakers/LeeBrandt/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/650202777_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/229797945.hd.mp4?s=07d4bad8adc7ffea9c64db3e0b6d7aef9d37c2f4&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/229797945.sd.mp4?s=64c506dc0c68124924ae39ec919d3e73f21e7ba5&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 218,
   "speakers": [
     {
       "name": "Lee Brandt",

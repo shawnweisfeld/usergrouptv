@@ -11,6 +11,9 @@
   "vimeo": "110772609",
   "moreinfo": "http://techfests.com/Tulsa/2011/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/495140813_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/110772609.hd.mp4?s=019426a43198d0021b82bba9382baee22aebed4d&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/110772609.sd.mp4?s=54fd843b7ea3702cd712fee74bed55219d45d878&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 762,
   "speakers": [
     {
       "name": "Rod Knowlton",

@@ -13,6 +13,9 @@
   "vimeo": "184506479",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/593960776_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/184506479.hd.mp4?s=b113ceb0b61fe2bf0392a745e5a1d53788d4860e&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/184506479.sd.mp4?s=44cdd2e4f99a5e7cffe455a4fd922c3cb57d1689&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 140,
   "speakers": [
     {
       "name": "Brian Sullivan",

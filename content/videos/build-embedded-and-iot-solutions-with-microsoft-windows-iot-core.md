@@ -11,6 +11,9 @@
   "vimeo": "346640681",
   "moreinfo": "https://developer.microsoft.com/en-us/windows/campaigns/us-tx-dallas",
   "thumbnail": "https://i.vimeocdn.com/video/796753701_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/346640681.hd.mp4?s=2552817e6eb7b42fcaffa4c5d7615e03d914b2a3&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/346640681.sd.mp4?s=c0dddd2a9e55f9edd013d70e0e77fa988d4395c7&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 322,
   "speakers": [
     {
       "name": "Harold Pulcher",

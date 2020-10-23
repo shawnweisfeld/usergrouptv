@@ -11,6 +11,9 @@
   "vimeo": "139189953",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda",
   "thumbnail": "https://i.vimeocdn.com/video/534896554_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/139189953.hd.mp4?s=e839f765b263eadc19ee1c74a0b03665c237e690&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/139189953.sd.mp4?s=74864e3efb96765c2ef4e0642f0309196aa8dd8a&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 793,
   "speakers": [
     {
       "name": "J Sawyer",

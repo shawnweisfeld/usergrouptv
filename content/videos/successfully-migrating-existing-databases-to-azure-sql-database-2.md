@@ -11,6 +11,9 @@
   "vimeo": "348234542",
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=92116",
   "thumbnail": "https://i.vimeocdn.com/video/798800339_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/348234542.hd.mp4?s=87a039f7e6f3cb9b491921fdb574dee1bf2bbd48&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/348234542.sd.mp4?s=0cf6433814ff429e055a8387e0fd79334d55a233&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 271,
   "speakers": [
     {
       "name": "John Sterrett",

@@ -11,6 +11,9 @@
   "vimeo": "238551518",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/661277871_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/238551518.hd.mp4?s=7a1a08c51c8d6547e0f034c91c6af207a8905be2&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/238551518.sd.mp4?s=5175dcc2518d2b0e2269c409a3831addb754c148&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 132,
   "speakers": [
     {
       "name": "Jim Murphy",

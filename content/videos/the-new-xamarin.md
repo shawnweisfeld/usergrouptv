@@ -11,6 +11,9 @@
   "vimeo": "163811617",
   "moreinfo": "http://www.meetup.com/Austin-Mobile-NET-Developers-Group/events/223948609/",
   "thumbnail": "https://i.vimeocdn.com/video/568521561_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/163811617.hd.mp4?s=70f8651fafeb0e90622a4407631118fa3db0df0d&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/163811617.sd.mp4?s=699bf6707bf9eb60f0f8b5d80d9d011cfd0c0632&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 867,
   "speakers": [
     {
       "name": "Rabi Satter",

@@ -9,6 +9,9 @@
   "vimeo": "256713834",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/lzcdrmyxdbbc/",
   "thumbnail": "https://i.vimeocdn.com/video/684451858_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/256713834.hd.mp4?s=c0485d93ea714bd0bec747b2a61c21bc0029e270&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/256713834.sd.mp4?s=d488daf44cbaf22a32e85ee9f36853658e5c1a47&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 80,
   "speakers": [
     {
       "name": "Ryan Casey",

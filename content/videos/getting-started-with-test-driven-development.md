@@ -11,6 +11,9 @@
   "vimeo": "101657556",
   "moreinfo": "http://www.houstontechfest.org/Lists/ScheduleInfo/DispForm.aspx?ID=89&Source=http%3A%2F%2Fwww%2Ehoustontechfest%2Eorg%2FSitePages%2FTabbedSchedule%2Easpx",
   "thumbnail": "https://i.vimeocdn.com/video/483485308_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/101657556.hd.mp4?s=19735e43af93f8a3f3e32f732742b70a1c47a3f5&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/101657556.sd.mp4?s=2af593f181e50158f881fa967f56242970d24751&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 944,
   "speakers": [
     {
       "name": "Tom Baehr",

@@ -11,6 +11,9 @@
   "vimeo": "210943751",
   "moreinfo": "http://www.sqlsaturday.com/603/Sessions/Details.aspx?sid=61812",
   "thumbnail": "https://i.vimeocdn.com/video/626863733_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/210943751.hd.mp4?s=738c24b1be5bb0bd1821fe3c1ff3624c459935c0&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/210943751.sd.mp4?s=7fd0a0ce0684d501bc0a55c533778345912da15a&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 201,
   "speakers": [
     {
       "name": "Adam Saxton",

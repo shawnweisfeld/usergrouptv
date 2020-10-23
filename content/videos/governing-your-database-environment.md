@@ -11,6 +11,9 @@
   "vimeo": "111342600",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/495924241_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/111342600.hd.mp4?s=5b230a4689eab9689236257696a935d5e0cbcb91&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/111342600.sd.mp4?s=7a3d6525fff9c50a94ed3f7693ad645c3f5b2598&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 744,
   "speakers": [
     {
       "name": "Sri Sridharan",

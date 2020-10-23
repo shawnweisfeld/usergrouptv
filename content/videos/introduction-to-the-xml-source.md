@@ -11,6 +11,9 @@
   "vimeo": "101661723",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=223&sessionid=14723",
   "thumbnail": "https://i.vimeocdn.com/video/483491352_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/101661723.hd.mp4?s=a932185eff1e133549f4571ef47c97edd322fec5&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/101661723.sd.mp4?s=c64c3b7c4580651d3e97452ff2bfdcb3da8b3f58&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 964,
   "speakers": [
     {
       "name": "Russel Loski",

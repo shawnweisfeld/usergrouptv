@@ -11,6 +11,9 @@
   "vimeo": "239487283",
   "moreinfo": "https://www.meetup.com/azureaustin/events/242598077/",
   "thumbnail": "https://i.vimeocdn.com/video/662472028_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/239487283.hd.mp4?s=49c0bb7d29c7ef7db6824bb269884259b9563b1e&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/239487283.sd.mp4?s=fd1430f4800cc0e648dea7cf8b612aaae4b0470a&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 77,
   "speakers": [
     {
       "name": "Simon Timms",

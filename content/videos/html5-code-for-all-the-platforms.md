@@ -11,6 +11,9 @@
   "vimeo": "120047938",
   "moreinfo": "http://techfests.com/Tulsa/2011/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/507718513_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/120047938.hd.mp4?s=ed237771b2a854c925ec1b0c4c958c7ef9cb2835&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/120047938.sd.mp4?s=8c623dbb70657e757559cb1b897291c19bd866eb&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 760,
   "speakers": [
     {
       "name": "Luke Crouch",

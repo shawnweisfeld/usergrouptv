@@ -11,6 +11,9 @@
   "vimeo": "101658047",
   "moreinfo": "http://www.houstontechfest.org/Lists/ScheduleInfo/DispForm.aspx?ID=27&Source=http%3A%2F%2Fwww%2Ehoustontechfest%2Eorg%2FSitePages%2FTabbedSchedule%2Easpx",
   "thumbnail": "https://i.vimeocdn.com/video/483486400_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/101658047.hd.mp4?s=6e8a9f6f24e5243300bde5dc774ecfd5442eac3b&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/101658047.sd.mp4?s=6f3e42081d6f3d0bc705b74762d16c1264752169&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 946,
   "speakers": [
     {
       "name": "Jimmy Bogard",

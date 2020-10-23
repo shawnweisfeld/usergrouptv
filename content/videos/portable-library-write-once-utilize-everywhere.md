@@ -12,6 +12,9 @@
   "vimeo": "106374583",
   "moreinfo": "http://northdallas.net/",
   "thumbnail": "https://i.vimeocdn.com/video/489467230_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106374583.hd.mp4?s=25f389f99a941843712357588a9e68ee32753314&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106374583.sd.mp4?s=3984f9aea69e7a5a60abcfc39cb0ed8ab9f7b725&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 525,
   "speakers": [
     {
       "name": "Cory Smith",

@@ -11,6 +11,9 @@
   "vimeo": "111927880",
   "moreinfo": "http://www.agiledotnet.com/houston-2012/",
   "thumbnail": "https://i.vimeocdn.com/video/496722236_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/111927880.hd.mp4?s=8cf290d11ee03f2839d9649e6551660753bab3de&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/111927880.sd.mp4?s=abe9037f26b6b5dbf432babe9dea4f60efa2f90a&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 559,
   "speakers": [
     {
       "name": "Markus Egger",

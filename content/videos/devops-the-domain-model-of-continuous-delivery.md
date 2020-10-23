@@ -11,6 +11,9 @@
   "vimeo": "271952598",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703386612_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/271952598.hd.mp4?s=67b71980312cca9a9bf8288d834b5873173842d9&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/271952598.sd.mp4?s=80073261ea3b6a1f6ec00f3d9470545c9e205ae2&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 440,
   "speakers": [
     {
       "name": "Jeffrey Palermo",

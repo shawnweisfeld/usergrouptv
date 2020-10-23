@@ -11,6 +11,9 @@
   "vimeo": "237597710",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660049778_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/237597710.hd.mp4?s=b2c0c5ce677338672c5a4f0b6314d3b6e504d988&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/237597710.sd.mp4?s=a915fddb2c043a9940f6ea2fa64d7689a3f704f1&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 118,
   "speakers": [
     {
       "name": "Greg Jordan",

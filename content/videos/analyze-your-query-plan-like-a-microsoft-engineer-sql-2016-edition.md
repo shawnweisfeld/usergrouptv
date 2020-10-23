@@ -11,6 +11,9 @@
   "vimeo": "181196927",
   "moreinfo": "http://www.sqlsaturday.com/553/Sessions/Details.aspx?sid=51161",
   "thumbnail": "https://i.vimeocdn.com/video/589679494_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/181196927.hd.mp4?s=841aba340e3f400352ec17127ef53035d2c9ac92&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/181196927.sd.mp4?s=2dcb00ca7bb8cd1e763f36529041a854385ecae8&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 192,
   "speakers": [
     {
       "name": "Daniel Janik",

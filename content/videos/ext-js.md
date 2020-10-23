@@ -11,6 +11,9 @@
   "vimeo": "120049445",
   "moreinfo": "http://www.vnextdallas.org",
   "thumbnail": "https://i.vimeocdn.com/video/507720824_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/120049445.hd.mp4?s=008f2a0c41278779fa31c1bf62643124cce0d7e2&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/120049445.sd.mp4?s=8adcff17e49a1865d78b194ce92032d66b4157e2&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 552,
   "speakers": [
     {
       "name": "Tim Jones",

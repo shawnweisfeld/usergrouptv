@@ -11,6 +11,9 @@
   "vimeo": "364568582",
   "moreinfo": "http://conference.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/820031719_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/364568582.hd.mp4?s=aa7f556f870180097649f6f6ecd0bb1a7524ae2b&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/364568582.sd.mp4?s=f3b244a31a4c6a9f36101c79aec03884a5ed1710&profile_id=139&oauth2_token_id=20985841",
+  "recordingID": 370,
   "speakers": [
     {
       "name": "Jason Morillo",

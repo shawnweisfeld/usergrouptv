@@ -11,6 +11,9 @@
   "vimeo": "105641111",
   "moreinfo": "http://www.ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/488499701_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/105641111.hd.mp4?s=80afe48a4ddb43787ed4a21fc88fb782b3f79bcc&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/105641111.sd.mp4?s=eeefe656db6c69eab8695b645f0bb6524cd827e7&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 551,
   "speakers": [
     {
       "name": "David Yancey",

@@ -11,6 +11,9 @@
   "vimeo": "237558084",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660005495_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/237558084.hd.mp4?s=9b090d2c22d3c76fd52dfb6c6afe600c03a41d26&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/237558084.sd.mp4?s=5e8ad1eabb0a2fdaa9dfd73387b26f1fdff57979&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 111,
   "speakers": [
     {
       "name": "Erik Ostermueller",

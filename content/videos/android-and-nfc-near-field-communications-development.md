@@ -12,6 +12,9 @@
   "vimeo": "103660488",
   "moreinfo": "http://techfests.com/Tulsa/2012/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/485962579_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/103660488.hd.mp4?s=8438f5a413fd06edbbfa5292be0ec3b209ca1fc4&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/103660488.sd.mp4?s=ac3aded6d0f816cf388c005c7e8dddcfab6420a0&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 628,
   "speakers": [
     {
       "name": "Andrew Chandler",

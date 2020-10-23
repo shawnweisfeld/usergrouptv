@@ -11,6 +11,9 @@
   "vimeo": "109122229",
   "moreinfo": "http://gravitycentredallas.com/",
   "thumbnail": "https://i.vimeocdn.com/video/492995043_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/109122229.hd.mp4?s=8f33c6ec3d225ede314b20e2b55ddd0f2828b7b0&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/109122229.sd.mp4?s=95f8e2224e6213d7c9d51646e876b42831e29821&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 727,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

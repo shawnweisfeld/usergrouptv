@@ -11,6 +11,9 @@
   "vimeo": "102965333",
   "moreinfo": "http://dallasxaml.com/",
   "thumbnail": "https://i.vimeocdn.com/video/485084413_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/102965333.hd.mp4?s=2ba6b6058e04a83521840889379c6ae912f302f7&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/102965333.sd.mp4?s=a0ed57b547ab9cd1004e4f85f982596bc8fe54f4&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 589,
   "speakers": [
     {
       "name": "Michael L Perry",

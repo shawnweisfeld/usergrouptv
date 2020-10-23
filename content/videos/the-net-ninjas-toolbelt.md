@@ -9,6 +9,9 @@
   "vimeo": "108782839",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/492568863_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/108782839.hd.mp4?s=7451f16f603fd5523c4a262bbe11c4e275260f57&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/108782839.sd.mp4?s=aa4f14a4dba625c3314ef4db6ec8da7bc25177f6&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 734,
   "speakers": [
     {
       "name": "Latish Sehgal",

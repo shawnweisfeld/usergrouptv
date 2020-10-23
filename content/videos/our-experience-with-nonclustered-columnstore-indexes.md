@@ -11,6 +11,9 @@
   "vimeo": "212454253",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/237907417/",
   "thumbnail": "https://i.vimeocdn.com/video/628438702_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/212454253.hd.mp4?s=c042a65e213c3a61b3b5b40e3950d82b771f8a36&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/212454253.sd.mp4?s=152b81aeb30f493bf351662ccfed8ef0a604d5f4&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 242,
   "speakers": [
     {
       "name": "Yell McGuyer",

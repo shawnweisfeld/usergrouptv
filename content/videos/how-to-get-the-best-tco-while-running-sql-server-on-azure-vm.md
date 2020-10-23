@@ -14,6 +14,9 @@
   "vimeo": "471447098",
   "moreinfo": "https://www.meetup.com/azureaustin/events/273258173/",
   "thumbnail": "https://i.vimeocdn.com/video/980844918_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/471447098.hd.mp4?s=e40723c6d2ce2b7631c0e6d5cafa371e28f24edf&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/471447098.sd.mp4?s=b8a44bda0f0c91425b66c63a282283057ce438db&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 1040,
   "speakers": [
     {
       "name": "Amit Banerjee",

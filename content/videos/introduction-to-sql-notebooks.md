@@ -11,6 +11,9 @@
   "vimeo": "338439466",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/fnxhcqyzhbcc/",
   "thumbnail": "https://i.vimeocdn.com/video/786032093_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/338439466.hd.mp4?s=d5b94e597a0a4de9be9b6f63cd58855ab498a279&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/338439466.sd.mp4?s=dcae846af539041b77b4e2b0a9610a619d18adb2&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 325,
   "speakers": [
     {
       "name": "Vicky Harp",

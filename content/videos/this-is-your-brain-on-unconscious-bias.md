@@ -11,6 +11,9 @@
   "vimeo": "230526875",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/651117067_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230526875.hd.mp4?s=464db9033d08f1ae72208e1fadf9ccde22e96159&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230526875.sd.mp4?s=350f294c86464747ebd32a108b1f99daeef9f04c&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 48,
   "speakers": [
     {
       "name": "Carla Crull",

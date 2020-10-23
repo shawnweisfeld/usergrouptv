@@ -11,6 +11,9 @@
   "vimeo": "102317523",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=223&sessionid=13947",
   "thumbnail": "https://i.vimeocdn.com/video/484299508_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/102317523.hd.mp4?s=55fa79978244fa4c0b00f8d10009ed8e7165c8e3&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/102317523.sd.mp4?s=0bb69d920ce63b0c0a2b244ce79fcdbabc552b89&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 609,
   "speakers": [
     {
       "name": "Kat Meadows",

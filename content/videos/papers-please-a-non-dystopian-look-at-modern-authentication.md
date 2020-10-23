@@ -11,6 +11,9 @@
   "vimeo": "295070478",
   "moreinfo": "https://www.devfestweekend.com/schedule",
   "thumbnail": "https://i.vimeocdn.com/video/732130040_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/295070478.hd.mp4?s=6229bb5cf371ae6f68c3f438425371e8c7da1836&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/295070478.sd.mp4?s=869622f8fd6c5905bddf560c1202702634a31001&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 465,
   "speakers": [
     {
       "name": "Ado Kukic",

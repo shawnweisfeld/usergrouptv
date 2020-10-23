@@ -11,6 +11,9 @@
   "vimeo": "102317140",
   "moreinfo": "http://codecamp13.adnug.org/",
   "thumbnail": "https://i.vimeocdn.com/video/484299124_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/102317140.hd.mp4?s=d46ae12ece02d3c47468edb5771c6abb369d4537&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/102317140.sd.mp4?s=9838182b924efd102a960345129d858046b4cdd5&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 606,
   "speakers": [
     {
       "name": "Latish Sehgal",

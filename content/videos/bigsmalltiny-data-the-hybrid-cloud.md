@@ -11,6 +11,9 @@
   "vimeo": "222132328",
   "moreinfo": "http://www.sqlsaturday.com/651/Sessions/Details.aspx?sid=64365",
   "thumbnail": "https://i.vimeocdn.com/video/640578412_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/222132328.hd.mp4?s=e727427c403192ea936a59b67f9f766242475244&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/222132328.sd.mp4?s=9fba039ef45a96df2aecdf942435ef8f513e9af9&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 208,
   "speakers": [
     {
       "name": "Anthony Tex Moreign",

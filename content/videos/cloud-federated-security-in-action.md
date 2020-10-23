@@ -11,6 +11,9 @@
   "vimeo": "104884053",
   "moreinfo": "http://www.houstontechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/487540064_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104884053.hd.mp4?s=869c249f4b8a063b032a05fa325e414a71ca2bd9&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104884053.sd.mp4?s=37b469041b1dee16bd4989ae4f551d0ec76951ee&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 620,
   "speakers": [
     {
       "name": "Stephen Fulcher",

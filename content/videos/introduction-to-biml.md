@@ -11,6 +11,9 @@
   "vimeo": "166789597",
   "moreinfo": "http://www.sqlsaturday.com/514/Sessions/Details.aspx?sid=44768",
   "thumbnail": "https://i.vimeocdn.com/video/570948391_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/166789597.hd.mp4?s=9d3d2f856a4c16d20776e9994d1917cb3cf0e7f7&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/166789597.sd.mp4?s=f8a1ce08efcd196d26ac32f96309c4236c6a19fd&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 857,
   "speakers": [
     {
       "name": "Tim Mitchell",

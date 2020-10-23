@@ -11,6 +11,9 @@
   "vimeo": "231058375",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/241933959/",
   "thumbnail": "https://i.vimeocdn.com/video/651776320_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/231058375.hd.mp4?s=0ddbf3e57a2ab9ecc698a272e65589df15fdd795&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/231058375.sd.mp4?s=1161689ea93ae615bc92c950e377ce0848dc826b&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 19,
   "speakers": [
     {
       "name": "Martin Perez",

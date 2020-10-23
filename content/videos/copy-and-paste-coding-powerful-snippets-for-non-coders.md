@@ -11,6 +11,9 @@
   "vimeo": "363304977",
   "moreinfo": "https://www.joomladaytexas.com/",
   "thumbnail": "https://i.vimeocdn.com/video/818411146_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/363304977.hd.mp4?s=771cfb42b5dad9b447f79ec2cc335479f44c8585&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/363304977.sd.mp4?s=bb10c0e61c376c78b4d361e157640b72c5bdd150&profile_id=139&oauth2_token_id=20985841",
+  "recordingID": 284,
   "speakers": [
     {
       "name": "Alexis Priddy",

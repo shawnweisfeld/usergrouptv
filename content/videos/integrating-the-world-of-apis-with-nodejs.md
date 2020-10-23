@@ -11,6 +11,9 @@
   "vimeo": "230260363",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650784624_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230260363.hd.mp4?s=d5c1d97e5946ffeca2751aba99a0336ffd0f7e0b&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230260363.sd.mp4?s=14685d333831b3d33d98275572c15a21b95f41ea&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 12,
   "speakers": [
     {
       "name": "Meredith Hassett",

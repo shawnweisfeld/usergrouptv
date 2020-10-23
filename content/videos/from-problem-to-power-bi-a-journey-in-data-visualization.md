@@ -11,6 +11,9 @@
   "vimeo": "210947629",
   "moreinfo": "http://www.sqlsaturday.com/603/Sessions/Details.aspx?sid=61123",
   "thumbnail": "https://i.vimeocdn.com/video/626869251_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/210947629.hd.mp4?s=0381b049e016f13ffe693f54a4ad0143d7c281ad&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/210947629.sd.mp4?s=5e85a7f8949dc942eb4cbf84984356b12ab26033&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 236,
   "speakers": [
     {
       "name": "Jonathan Stewart",

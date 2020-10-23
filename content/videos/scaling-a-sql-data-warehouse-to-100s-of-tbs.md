@@ -11,6 +11,9 @@
   "vimeo": "101660993",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=223&sessionid=14172",
   "thumbnail": "https://i.vimeocdn.com/video/483490288_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/101660993.hd.mp4?s=a1f3a39f07bce9371b4078c5e5fa4d767c085fca&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/101660993.sd.mp4?s=b7f524ba731a65736df2cfffae8aca3a57db5b84&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 938,
   "speakers": [
     {
       "name": "Garret Edmondson",

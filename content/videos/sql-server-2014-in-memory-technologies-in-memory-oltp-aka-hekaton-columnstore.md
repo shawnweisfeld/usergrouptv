@@ -11,6 +11,9 @@
   "vimeo": "118596087",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=25290",
   "thumbnail": "https://i.vimeocdn.com/video/505669133_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/118596087.hd.mp4?s=875353c126c5e05e075b6c7630957a32e31a171b&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/118596087.sd.mp4?s=16eb73b72933a016b2a90803fbbff5b1b20ed1a6&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 809,
   "speakers": [
     {
       "name": "Reinaldo Kibel",

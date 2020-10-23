@@ -11,6 +11,9 @@
   "vimeo": "268800342",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/699614881_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/268800342.hd.mp4?s=f81ad5572e50a21303dd617455e2d7d9664bf58b&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/268800342.sd.mp4?s=dab4a8d9941ac80c83ac5ecec808ffbf30ece921&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 100,
   "speakers": [
     {
       "name": "Mark Reynolds",

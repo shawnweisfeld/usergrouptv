@@ -11,6 +11,9 @@
   "vimeo": "100978201",
   "moreinfo": "http://adnug.org/Home/april-14-2014-sql-server-optimization-for-developers/",
   "thumbnail": "https://i.vimeocdn.com/video/482636013_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100978201.hd.mp4?s=582e6685ab9da2a163ba9ad875926deba4208ef2&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100978201.sd.mp4?s=02e5125b4ade424578fa30e4510598dd6f1727f1&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 948,
   "speakers": [
     {
       "name": "Anil Desai",

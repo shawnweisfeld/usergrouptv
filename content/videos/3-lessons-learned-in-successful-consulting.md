@@ -11,6 +11,9 @@
   "vimeo": "271392705",
   "moreinfo": "http://www.sqlsaturday.com/734/Sessions/Details.aspx?sid=73212",
   "thumbnail": "https://i.vimeocdn.com/video/702681929_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/271392705.hd.mp4?s=3e151d3e04346430abefc7fd7b24a76d1da8013b&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/271392705.sd.mp4?s=fdd41099cf68bafa2660a86b5585935c53c8ad97&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 436,
   "speakers": [
     {
       "name": "Mohammad Darab",

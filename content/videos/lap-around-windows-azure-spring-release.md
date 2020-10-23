@@ -11,6 +11,9 @@
   "vimeo": "105368665",
   "moreinfo": "http://techfests.com/NWA/2012",
   "thumbnail": "https://i.vimeocdn.com/video/488139654_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/105368665.hd.mp4?s=a9959b39b7c21109aa1dbabf6a6b7320fd73f908&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/105368665.sd.mp4?s=1e281ed3fa55916e62833ebe659c9858a7e5c662&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 535,
   "speakers": [
     {
       "name": "Chris Koenig",

@@ -11,6 +11,9 @@
   "vimeo": "101658627",
   "moreinfo": "http://www.houstontechfest.org/Lists/ScheduleInfo/DispForm.aspx?ID=60&Source=http%3A%2F%2Fwww%2Ehoustontechfest%2Eorg%2FSitePages%2FTabbedSchedule%2Easpx",
   "thumbnail": "https://i.vimeocdn.com/video/483486884_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/101658627.hd.mp4?s=4fc20524191b5bc11724c0a8c3434d9660e023e9&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/101658627.sd.mp4?s=8336d161796a7d9fec76fa06970619268e6c5021&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 949,
   "speakers": [
     {
       "name": "Devlin Liles",

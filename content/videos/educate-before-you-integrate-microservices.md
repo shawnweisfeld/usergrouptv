@@ -11,6 +11,9 @@
   "vimeo": "289714867",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/254469748/",
   "thumbnail": "https://i.vimeocdn.com/video/725424168_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/289714867.hd.mp4?s=18bac949dac10a6abbff6ec6ffabdce976fc7ae4&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/289714867.sd.mp4?s=ea0c86a832d910253ae8808b3462c8f335a77db8&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 500,
   "speakers": [
     {
       "name": "Yogi Aradhye",

@@ -11,6 +11,9 @@
   "vimeo": "287160951",
   "moreinfo": "http://www.sqlsaturday.com/794/Sessions/Details.aspx?sid=85484",
   "thumbnail": "https://i.vimeocdn.com/video/722234775_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/287160951.hd.mp4?s=b0fdcb76694b690a35ed28cc0be2ffdac9004eb9&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/287160951.sd.mp4?s=47e034aa038b639326527fea3d65bb822c000b75&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 493,
   "speakers": [
     {
       "name": "Kent Sloan",

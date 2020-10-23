@@ -11,6 +11,9 @@
   "vimeo": "105641110",
   "moreinfo": "http://adnug.org/Home/september-8-2014-owin-katana-101/",
   "thumbnail": "https://i.vimeocdn.com/video/488499546_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/105641110.hd.mp4?s=b1646279095f507f730a1cd91f88d6009f8a0a34&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/105641110.sd.mp4?s=9cca6d4f364c81cffe39837770c09a9787030aa1&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 1019,
   "speakers": [
     {
       "name": "Reaz Haq",

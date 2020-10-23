@@ -11,6 +11,9 @@
   "vimeo": "118594214",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=25219",
   "thumbnail": "https://i.vimeocdn.com/video/505666533_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/118594214.hd.mp4?s=9245f327b673aec497ef0c84a18eaf12a2dca60b&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/118594214.sd.mp4?s=7e4ab8ba120954e9f39227ab7b1dec96b3034f63&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 817,
   "speakers": [
     {
       "name": "Michael Bourgon",

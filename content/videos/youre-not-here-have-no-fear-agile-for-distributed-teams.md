@@ -11,6 +11,9 @@
   "vimeo": "271916606",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703338230_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/271916606.hd.mp4?s=f5489746b05b0502350a2a34b136ab982b5f1bc2&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/271916606.sd.mp4?s=5a1d5b79c875f23537df77157b4543732634adf8&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 448,
   "speakers": [
     {
       "name": "Paul Brownell",

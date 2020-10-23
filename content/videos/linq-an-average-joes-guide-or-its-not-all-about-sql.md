@@ -11,6 +11,9 @@
   "vimeo": "111339061",
   "moreinfo": "http://www.ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/495919896_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/111339061.hd.mp4?s=0f129d4af804fc59951511a5a9740072aec34f2c&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/111339061.sd.mp4?s=5f90b6b023a00885e81670fac3e0679434f8af73&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 660,
   "speakers": [
     {
       "name": "Cory Smith",

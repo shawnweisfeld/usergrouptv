@@ -12,6 +12,9 @@
   "vimeo": "111927539",
   "moreinfo": "http://www.agiledotnet.com",
   "thumbnail": "https://i.vimeocdn.com/video/496721830_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/111927539.hd.mp4?s=00eefbf5bdde0ff6d2e6e65b87c9ae6d59a1ee86&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/111927539.sd.mp4?s=ec74f9f5813f8ffabe5be21f93fd4cfc1b27a8ec&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 557,
   "speakers": [
     {
       "name": "Devlin Liles",

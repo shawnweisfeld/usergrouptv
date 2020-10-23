@@ -11,6 +11,9 @@
   "vimeo": "142867691",
   "moreinfo": "http://lrtechfest.com/speakerdetails/#Jeremy-Abbott",
   "thumbnail": "https://i.vimeocdn.com/video/540283410_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/142867691.hd.mp4?s=96c799109c53e79a9478da43d83cb9ff4c5e6f2d&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/142867691.sd.mp4?s=903adb5d248faab653ba04e0ccf4d23dbebfaa48&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 895,
   "speakers": [
     {
       "name": "Jeremy Abbott",

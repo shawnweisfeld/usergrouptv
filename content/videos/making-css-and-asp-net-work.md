@@ -11,6 +11,9 @@
   "vimeo": "103658570",
   "moreinfo": "http://dallasasp.net/Meetings/3771.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/485960271_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/103658570.hd.mp4?s=ac66ee32c74e8916ca1bbd3c4fb247bccd0b0c4b&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/103658570.sd.mp4?s=76fc7ebd628f90093183b699a7596ee6b0318b34&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 635,
   "speakers": [
     {
       "name": "Hugo Bonacci",

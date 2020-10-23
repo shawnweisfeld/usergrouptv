@@ -11,6 +11,9 @@
   "vimeo": "184507517",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/593962011_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/184507517.hd.mp4?s=de8ac120bc2977ebe181e8c709aeba3a2afda5b7&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/184507517.sd.mp4?s=5902c2a843990bb5485d3aa26716e98f320ee140&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 143,
   "speakers": [
     {
       "name": "Elwanda Bennett",

@@ -14,6 +14,9 @@
   "vimeo": "238053268",
   "moreinfo": "http://adnug.org/Home/october-9-2017-cicd-with-visualstudio-com-and-azure/",
   "thumbnail": "https://i.vimeocdn.com/video/660641859_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/238053268.hd.mp4?s=03871c12e98f78583ac362b74d7b5fd78687ee35&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/238053268.sd.mp4?s=c26770d9298023d449c065a74a56bc5e414bc10a&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 135,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

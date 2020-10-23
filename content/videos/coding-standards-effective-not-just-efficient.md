@@ -11,6 +11,9 @@
   "vimeo": "323847343",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/259519233/",
   "thumbnail": "https://i.vimeocdn.com/video/767081660_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/323847343.hd.mp4?s=19b581d97f142cfc9e69c670ead132eac1b8e82c&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/323847343.sd.mp4?s=08f0198f4deaa63af2c08f501bf32014c44c608f&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 392,
   "speakers": [
     {
       "name": "Mark Reynolds",

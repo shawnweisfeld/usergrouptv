@@ -11,6 +11,9 @@
   "vimeo": "100978221",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=305&sessionid=21731",
   "thumbnail": "https://i.vimeocdn.com/video/482636101_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100978221.hd.mp4?s=8a8e8555bcba51e51878df8d08d5a5f4b881e875&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100978221.sd.mp4?s=2f267a3402e1ca7945b54493053825485fa104d1&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 907,
   "speakers": [
     {
       "name": "Sanjay Kaul",

@@ -11,6 +11,9 @@
   "vimeo": "230139329",
   "moreinfo": "http://techfests.com/Tulsa/2017/Speakers/SeanSparkman/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/650631630_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230139329.hd.mp4?s=fa7807974e1f6fad19afb6285e6da65b2b047892&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230139329.sd.mp4?s=f1ddcf0a0b6f182ef1b865d6519d7e6dd2597f4f&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 104,
   "speakers": [
     {
       "name": "Sean Sparkman",

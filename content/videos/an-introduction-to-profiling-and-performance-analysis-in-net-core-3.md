@@ -11,6 +11,9 @@
   "vimeo": "373751118",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/266280255/",
   "thumbnail": "https://i.vimeocdn.com/video/831973973_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/373751118.hd.mp4?s=9c307286a2a814879c844c11fa6d20cf3f0c56a3&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/373751118.sd.mp4?s=8395691cf4e1bd836f8066aa0499967b027d10b0&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 377,
   "speakers": [
     {
       "name": "Chet Husk",

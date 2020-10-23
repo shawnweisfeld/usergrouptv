@@ -11,6 +11,9 @@
   "vimeo": "128245133",
   "moreinfo": "http://www.meetup.com/DFW-Mobile-NET/events/222070277/",
   "thumbnail": "https://i.vimeocdn.com/video/519304884_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/128245133.hd.mp4?s=003d0038416f75041185daa7102bd482794890f9&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/128245133.sd.mp4?s=9e01ffafe7404e1af603ced4733b1cce858aa84b&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 831,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

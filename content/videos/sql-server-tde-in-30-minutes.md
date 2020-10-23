@@ -11,6 +11,9 @@
   "vimeo": "111338154",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/495918738_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/111338154.hd.mp4?s=01d3b0069c1da46277ae69c8b1a30d3e1c52ecd7&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/111338154.sd.mp4?s=f369ff94ce804f11a02fcc3c0f2c6b089bbcaf74&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 745,
   "speakers": [
     {
       "name": "Ben Miller",

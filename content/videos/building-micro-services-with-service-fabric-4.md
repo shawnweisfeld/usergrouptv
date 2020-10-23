@@ -11,6 +11,9 @@
   "vimeo": "182111263",
   "moreinfo": "https://speakerrate.com/talks/68931-gm-ug-building-micro-services-with-service-fabric",
   "thumbnail": "https://i.vimeocdn.com/video/590925415_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/182111263.hd.mp4?s=3bee01d11f8cc01f64bbb6526b03c92fcc4ff6fb&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/182111263.sd.mp4?s=14c491d2a29e26c83ce993113e5d2653ed973a55&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 195,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

@@ -11,6 +11,9 @@
   "vimeo": "295054825",
   "moreinfo": "https://www.devfestweekend.com/schedule",
   "thumbnail": "https://i.vimeocdn.com/video/732109448_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/295054825.hd.mp4?s=a72386e2b25cd4a745cab8fb0a2bdab3996f379c&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/295054825.sd.mp4?s=60f17e1739929ef2ae8eff4c7c166fbf3c8203f9&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 461,
   "speakers": [
     {
       "name": "Jason Fox",

@@ -12,6 +12,9 @@
   "vimeo": "108064118",
   "moreinfo": "http://www.vnextdallas.org",
   "thumbnail": "https://i.vimeocdn.com/video/491656463_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/108064118.hd.mp4?s=24defb88e33013cd3d4e8183340e31ccd90a32a7&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/108064118.sd.mp4?s=0b46eab275b50378caf07143a1caa456bbd7a880&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 739,
   "speakers": [
     {
       "name": "Michael L Perry",

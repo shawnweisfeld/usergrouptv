@@ -11,6 +11,9 @@
   "vimeo": "103661386",
   "moreinfo": "http://techfests.com/Tulsa/2012/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/485963724_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/103661386.hd.mp4?s=f7306b963aae0eae8a28f8c73a8d66400729f0d8&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/103661386.sd.mp4?s=131db3997212c4b819e1e31388f606933c59bc2f&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 631,
   "speakers": [
     {
       "name": "Buddy Lindsey",

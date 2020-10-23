@@ -11,6 +11,9 @@
   "vimeo": "104229052",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486705637_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104229052.hd.mp4?s=6d220d99401e2ea83a190316f79b2502a5f359e3&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104229052.sd.mp4?s=e04e8290af0727708795413969de73346ad3fd3b&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 1016,
   "speakers": [
     {
       "name": "Don McGreal",

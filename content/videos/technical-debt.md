@@ -11,6 +11,9 @@
   "vimeo": "104228716",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486705234_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104228716.hd.mp4?s=27632955d0962f1045a91b9e22ea485f2466b149&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104228716.sd.mp4?s=cb112ee569914e4aea856ccb1f9b3a2d32abcbb9&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 1014,
   "speakers": [
     {
       "name": "Glynn Brewer",

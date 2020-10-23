@@ -11,6 +11,9 @@
   "vimeo": "113196939",
   "moreinfo": "http://www.ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/498430940_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/113196939.hd.mp4?s=258fc1309e33a97a8fe017035303ba009dc98198&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/113196939.sd.mp4?s=f0901d5aa6298a73c439c81c86c353974a0d6ebe&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 653,
   "speakers": [
     {
       "name": "Michael L Perry",

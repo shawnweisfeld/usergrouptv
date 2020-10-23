@@ -12,6 +12,9 @@
   "vimeo": "223017260",
   "moreinfo": "http://www.sqlsaturday.com/651/Sessions/Details.aspx?sid=64120",
   "thumbnail": "https://i.vimeocdn.com/video/641693852_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/223017260.hd.mp4?s=4854f3aae696b3c16284a050ac649d74868d0c8f&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/223017260.sd.mp4?s=d9dd7779fb9c406433ac027b24d268d2ba7ae14d&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 233,
   "speakers": [
     {
       "name": "Phillip Labry",

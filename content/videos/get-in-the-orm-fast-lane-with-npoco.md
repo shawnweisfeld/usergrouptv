@@ -11,6 +11,9 @@
   "vimeo": "106165137",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#0215",
   "thumbnail": "https://i.vimeocdn.com/video/489179643_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106165137.hd.mp4?s=62e9624c1e32b68ee64ec9e766b157b95379ef47&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106165137.sd.mp4?s=8e2def3d4da35580b531376c96f93a908097bfc9&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 968,
   "speakers": [
     {
       "name": "David Savage",

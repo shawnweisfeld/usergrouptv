@@ -11,6 +11,9 @@
   "vimeo": "106165980",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#0615",
   "thumbnail": "https://i.vimeocdn.com/video/489180707_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106165980.hd.mp4?s=191433c7cf2cc847d3e9f8a75a8df77bfdcdebf4&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106165980.sd.mp4?s=39e1e44d5e9f1334b62a7909e467d4fb18e65245&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 971,
   "speakers": [
     {
       "name": "Mohammad Azam",

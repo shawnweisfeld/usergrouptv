@@ -11,6 +11,9 @@
   "vimeo": "104230016",
   "moreinfo": "http://cactuss.org/",
   "thumbnail": "https://i.vimeocdn.com/video/486706769_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104230016.hd.mp4?s=802d66da1a76a5b68d3aa08c42b870f1a738edeb&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104230016.sd.mp4?s=718f2feb9c2be38ce94bebbe5d2af7298350ebc8&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 1000,
   "speakers": [
     {
       "name": "Mark Moore",

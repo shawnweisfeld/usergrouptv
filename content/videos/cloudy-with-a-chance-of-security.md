@@ -11,6 +11,9 @@
   "vimeo": "178888931",
   "moreinfo": "http://techfests.com/Tulsa/2016/Speakers/AlanWhite/",
   "thumbnail": "https://i.vimeocdn.com/video/586637896_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/178888931.hd.mp4?s=b9bd68b65f0e9fa7579d472a5796ab87e57513d0&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/178888931.sd.mp4?s=c0d72f040044bcad862bd739b88df464d2133e8e&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 177,
   "speakers": [
     {
       "name": "Alan White",

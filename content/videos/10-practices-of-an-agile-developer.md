@@ -11,6 +11,9 @@
   "vimeo": "115131265",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/501052030_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/115131265.hd.mp4?s=c1e8bbcbd8f7487f91fa04758f312bf061752172&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/115131265.sd.mp4?s=6fdc326488436752eca2a4bdc1bdf24a1a4ce65a&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 5,
   "speakers": [
     {
       "name": "Caleb Jenkins",

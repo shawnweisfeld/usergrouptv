@@ -11,6 +11,9 @@
   "vimeo": "271929175",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703355047_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/271929175.hd.mp4?s=6240565258e0b5aa2cb6101a517cc3c0c5547174&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/271929175.sd.mp4?s=e8ef32d28c8a3a80d386a88fe273262651d9240b&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 450,
   "speakers": [
     {
       "name": "David Hawks",

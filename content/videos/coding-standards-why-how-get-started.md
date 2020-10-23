@@ -11,6 +11,9 @@
   "vimeo": "179314611",
   "moreinfo": "http://techfests.com/Tulsa/2016/Speakers/MarkReynolds/",
   "thumbnail": "https://i.vimeocdn.com/video/587191234_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/179314611.hd.mp4?s=d6977de92663bb8bbc0e07893112421dbe834b5d&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/179314611.sd.mp4?s=71e16b1954c035e62d0cbc415aff26dbad4ec894&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 181,
   "speakers": [
     {
       "name": "Mark Reynolds",

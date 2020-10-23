@@ -11,6 +11,9 @@
   "vimeo": "106206683",
   "moreinfo": "http://www.codemag.com/StateOfDotNet",
   "thumbnail": "https://i.vimeocdn.com/video/489236492_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106206683.hd.mp4?s=ae7df14b2ce7f7d93528ef6eb9ebfb85d515ea15&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106206683.sd.mp4?s=d3962cbab6836115541288aa36b98f1d0857fb15&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 1021,
   "speakers": [
     {
       "name": "Markus Egger",

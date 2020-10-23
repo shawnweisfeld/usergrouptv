@@ -11,6 +11,9 @@
   "vimeo": "174797354",
   "moreinfo": "https://twitter.com/aggielanddnug",
   "thumbnail": "https://i.vimeocdn.com/video/581848051_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/174797354.hd.mp4?s=95f865eae4f83690ce49f3dd2c37355423cb14aa&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/174797354.sd.mp4?s=2f4d0c8027616a9f1fffb00d7ca3c9017dafd4fa&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 172,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

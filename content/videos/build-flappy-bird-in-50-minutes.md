@@ -11,6 +11,9 @@
   "vimeo": "107456912",
   "moreinfo": "http://lrtechfest.com/speakers#michael-perry",
   "thumbnail": "https://i.vimeocdn.com/video/490859094_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/107456912.hd.mp4?s=7efe8f5c37b41d7f01c07595b59df2d42edc93ca&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/107456912.sd.mp4?s=a47fb5fbcdc63de664aa6ca3d99217b5a5afc6ae&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 984,
   "speakers": [
     {
       "name": "Michael L Perry",

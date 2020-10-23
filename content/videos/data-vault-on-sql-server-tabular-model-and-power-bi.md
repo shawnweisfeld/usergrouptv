@@ -12,6 +12,9 @@
   "vimeo": "390487617",
   "moreinfo": "https://www.sqlsaturday.com/939/Sessions/Details.aspx?sid=99533",
   "thumbnail": "https://i.vimeocdn.com/video/854627598_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/390487617.hd.mp4?s=0a84ea09280291a9fba751dc7788196831af4bb7&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/390487617.sd.mp4?s=893bafd2d1472fded53bcfd53a278ca23ed8df12&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 360,
   "speakers": [
     {
       "name": "Derek Wilson",

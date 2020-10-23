@@ -11,6 +11,9 @@
   "vimeo": "129422807",
   "moreinfo": "http://xamarin.com/dev-days",
   "thumbnail": "https://i.vimeocdn.com/video/520899470_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/129422807.hd.mp4?s=45fb03337c75554d384559cd412aee896c390e02&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/129422807.sd.mp4?s=d7abbe0dae1daff11abdd0438b1384113818c4f1&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 804,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

@@ -11,6 +11,9 @@
   "vimeo": "119595046",
   "moreinfo": "http://www.agiledotnet.com",
   "thumbnail": "https://i.vimeocdn.com/video/507042403_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/119595046.hd.mp4?s=fae4c72b280434a43c0155a6e516e885eb433bed&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/119595046.sd.mp4?s=5f2aa8756650c120889ad7fcbfbcbf5dcf265677&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 555,
   "speakers": [
     {
       "name": "Barry Rogers",

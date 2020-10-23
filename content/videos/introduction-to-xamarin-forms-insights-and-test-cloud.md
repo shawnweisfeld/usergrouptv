@@ -11,6 +11,9 @@
   "vimeo": "129422790",
   "moreinfo": "http://xamarin.com/dev-days",
   "thumbnail": "https://i.vimeocdn.com/video/520899656_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/129422790.hd.mp4?s=74475eb0c695b4f1f576a877fec2876284afa272&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/129422790.sd.mp4?s=b264204197a205e2529df67fb0eee403c1feb8ea&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 834,
   "speakers": [
     {
       "name": "James Montemagno",

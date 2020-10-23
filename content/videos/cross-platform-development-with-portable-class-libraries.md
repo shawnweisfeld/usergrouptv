@@ -11,6 +11,9 @@
   "vimeo": "100979892",
   "moreinfo": "http://www.meetup.com/Win-App-Devs/events/184336822/",
   "thumbnail": "https://i.vimeocdn.com/video/482638181_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100979892.hd.mp4?s=236de4176db64cd189975a24c88efa6dc0fd71fb&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100979892.sd.mp4?s=4cae93cf86350ed9421a91ed2d01c851cc451cf1&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 928,
   "speakers": [
     {
       "name": "Jimmy Bogard",

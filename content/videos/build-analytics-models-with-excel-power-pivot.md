@@ -11,6 +11,9 @@
   "vimeo": "100978847",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=305&sessionid=21924",
   "thumbnail": "https://i.vimeocdn.com/video/482636875_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100978847.hd.mp4?s=358ab304f451f53821beb73ad8dc1e9967496b50&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100978847.sd.mp4?s=47631dc2cceaee2fead5c7e43bfdafba63ba8d57&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 916,
   "speakers": [
     {
       "name": "Brian Gogle",

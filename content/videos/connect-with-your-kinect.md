@@ -11,6 +11,9 @@
   "vimeo": "106884468",
   "moreinfo": "http://northdallas.net/",
   "thumbnail": "https://i.vimeocdn.com/video/490127733_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106884468.hd.mp4?s=289c5caa543c9e2abe3612574afe1be3d234ea08&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106884468.sd.mp4?s=4965b628efe2e7b01f6de5f3899fed982b2c97b8&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 567,
   "speakers": [
     {
       "name": "Justin Weinberg",

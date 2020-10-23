@@ -11,6 +11,9 @@
   "vimeo": "363306211",
   "moreinfo": "https://www.joomladaytexas.com/",
   "thumbnail": "https://i.vimeocdn.com/video/818412599_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/363306211.hd.mp4?s=694fa90ce63c0ded036845b558ece232dab7ecad&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/363306211.sd.mp4?s=b9e917013ee370b8504405189a9d2dcf0c1810dc&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 285,
   "speakers": [
     {
       "name": "Karen Dunne",

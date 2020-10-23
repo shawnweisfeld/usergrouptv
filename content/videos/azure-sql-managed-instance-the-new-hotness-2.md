@@ -11,6 +11,9 @@
   "vimeo": "295583965",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/fnxhcqyxnbvb/",
   "thumbnail": "https://i.vimeocdn.com/video/732783608_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/295583965.hd.mp4?s=adce1766708d13cc873883c743d4f6e368cf83c4&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/295583965.sd.mp4?s=6303b4444cdd0fa4a1b890d243edc2d98763a363&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 485,
   "speakers": [
     {
       "name": "Ryan Adams",

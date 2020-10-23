@@ -11,6 +11,9 @@
   "vimeo": "106169579",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#0115",
   "thumbnail": "https://i.vimeocdn.com/video/489185450_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106169579.hd.mp4?s=7ccb8049207093a59627184a29980e3b24fca40b&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106169579.sd.mp4?s=5e5a134b1355e477939e2ceb3bfecdc07bc40913&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 967,
   "speakers": [
     {
       "name": "Jeffery Olson",

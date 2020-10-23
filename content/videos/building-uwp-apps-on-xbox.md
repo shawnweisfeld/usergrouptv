@@ -11,6 +11,9 @@
   "vimeo": "212454663",
   "moreinfo": "http://adnug.org/Home/march-13-2017-building-uwp-apps-on-xbox/",
   "thumbnail": "https://i.vimeocdn.com/video/628439610_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/212454663.hd.mp4?s=f1e1bb684dcd47a368e37b59c3c7494f54fc982d&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/212454663.sd.mp4?s=7be88507e7611e8040de035abee86013396ff6dc&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 241,
   "speakers": [
     {
       "name": "Tony Champion",

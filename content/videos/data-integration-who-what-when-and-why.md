@@ -14,6 +14,9 @@
   "vimeo": "105366916",
   "moreinfo": "http://techfests.com/NWA/2012",
   "thumbnail": "https://i.vimeocdn.com/video/488137582_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/105366916.hd.mp4?s=bda288eaab2ffa5ce81db26166d6cc113d3ffb54&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/105366916.sd.mp4?s=0899faf59eb579c1029f954c7f4d301401af7079&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 534,
   "speakers": [
     {
       "name": "David Hecksel",

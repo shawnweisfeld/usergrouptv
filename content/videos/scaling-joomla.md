@@ -11,6 +11,9 @@
   "vimeo": "363311099",
   "moreinfo": "https://www.joomladaytexas.com/",
   "thumbnail": "https://i.vimeocdn.com/video/818419103_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/363311099.hd.mp4?s=524a9fcfdb0f2c405cb4ed007676a6bdb2419433&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/363311099.sd.mp4?s=4001fa2b863683985888742ddd049235263d924a&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 292,
   "speakers": [
     {
       "name": "Michael Richey",

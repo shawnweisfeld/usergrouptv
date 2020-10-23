@@ -11,6 +11,9 @@
   "vimeo": "102966076",
   "moreinfo": "http://cowtowncodecamp.com/",
   "thumbnail": "https://i.vimeocdn.com/video/485084718_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/102966076.hd.mp4?s=c4bada40a2af54a6497e9c38e7ce00beb2a0d49b&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/102966076.sd.mp4?s=e6bb4e7ddc036b3503afcf705a2d41a2e01b67f5&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 591,
   "speakers": [
     {
       "name": "Caleb Jenkins",

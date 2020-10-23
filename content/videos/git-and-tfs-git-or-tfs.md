@@ -11,6 +11,9 @@
   "vimeo": "100491277",
   "moreinfo": "http://2014.cowtowntechroundup.com/Profile/7d8a3962-eb99-48f1-9b6b-45404650c0c4",
   "thumbnail": "https://i.vimeocdn.com/video/481993967_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100491277.hd.mp4?s=b5dd70c4811cae027dedb0c349a0202b32a70fe5&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100491277.sd.mp4?s=add9dff796a073bb22b03683b5e992cfbab3a1e5&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 927,
   "speakers": [
     {
       "name": "Cori Drew",

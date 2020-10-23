@@ -12,6 +12,9 @@
   "vimeo": "103659129",
   "moreinfo": "http://dallasxaml.com/",
   "thumbnail": "https://i.vimeocdn.com/video/485961024_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/103659129.hd.mp4?s=43bb519d51d162e8df06d3f596509cd1d13c6030&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/103659129.sd.mp4?s=f1f3bee9a67089c046b31bc85fbd2f56e4b4302e&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 636,
   "speakers": [
     {
       "name": "Chris Koenig",

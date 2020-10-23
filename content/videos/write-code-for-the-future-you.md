@@ -11,6 +11,9 @@
   "vimeo": "142866659",
   "moreinfo": "http://lrtechfest.com/speakerdetails/#Paul-Gower",
   "thumbnail": "https://i.vimeocdn.com/video/540281865_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/142866659.hd.mp4?s=8ec552972dc17915a1271369ac03faa81e8b8efd&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/142866659.sd.mp4?s=75a9011ce35b5f1daf2d9c2cee93ca0ab98fba60&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 897,
   "speakers": [
     {
       "name": "Paul Gower",

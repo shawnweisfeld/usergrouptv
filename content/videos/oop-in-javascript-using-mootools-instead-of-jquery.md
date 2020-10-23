@@ -11,6 +11,9 @@
   "vimeo": "110770992",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/495138685_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/110770992.hd.mp4?s=546a89d3e02dd998319b594c6595461b95a0a3c2&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/110770992.sd.mp4?s=e339fbf060261e8e9ca11275cb1c040081fdcdc1&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 750,
   "speakers": [
     {
       "name": "Darryl Parker",

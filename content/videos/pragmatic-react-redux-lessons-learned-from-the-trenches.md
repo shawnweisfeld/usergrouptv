@@ -12,6 +12,9 @@
   "vimeo": "201263120",
   "moreinfo": "https://www.meetup.com/developer-springboard/events/236639682/",
   "thumbnail": "https://i.vimeocdn.com/video/615005495_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/201263120.hd.mp4?s=d14d4277d018b17314b19dcf7c81abd028d85d48&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/201263120.sd.mp4?s=c3512ac106538247c62bcebf40492312e3b0943b&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 161,
   "speakers": [
     {
       "name": "Ryan Vice",

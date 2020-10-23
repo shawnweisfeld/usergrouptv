@@ -11,6 +11,9 @@
   "vimeo": "142865720",
   "moreinfo": "http://lrtechfest.com/speakerdetails/#Ben-Ilegbodu",
   "thumbnail": "https://i.vimeocdn.com/video/540280587_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/142865720.hd.mp4?s=ec918bd2050885dcf19bd7c7f544f4dded0d26f0&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/142865720.sd.mp4?s=5943841b0112ac8b2215ad0532c98045bb8f5160&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 896,
   "speakers": [
     {
       "name": "Ben Ilegbodu",

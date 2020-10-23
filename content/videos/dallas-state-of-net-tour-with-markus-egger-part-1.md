@@ -9,6 +9,9 @@
   "vimeo": "140491619",
   "moreinfo": "http://www.codemag.com/Training/Detail/98690f2a-3b42-427b-b2e4-253879d25ceb",
   "thumbnail": "https://i.vimeocdn.com/video/536918312_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/140491619.hd.mp4?s=3a7904501d3baaf38516b1bfa8319b905f7f0238&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/140491619.sd.mp4?s=cb94f300352144cc4f83b5df4f5d75903ffbc5f2&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 837,
   "speakers": [
     {
       "name": "Markus Egger",

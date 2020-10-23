@@ -11,6 +11,9 @@
   "vimeo": "333236154",
   "moreinfo": "https://www.meetup.com/azureaustin/events/258070696/",
   "thumbnail": "https://i.vimeocdn.com/video/779161395_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/333236154.hd.mp4?s=cd8e40f53fbab045799ed360e44959d9f85b23ad&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/333236154.sd.mp4?s=528158355423fffa04c43610223dcac935f28aae&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 308,
   "speakers": [
     {
       "name": "John Sterrett",

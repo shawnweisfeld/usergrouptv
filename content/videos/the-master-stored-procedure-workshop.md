@@ -11,6 +11,9 @@
   "vimeo": "287161194",
   "moreinfo": "http://www.sqlsaturday.com/794/Sessions/Details.aspx?sid=82970",
   "thumbnail": "https://i.vimeocdn.com/video/722235194_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/287161194.hd.mp4?s=c9c229897b0efdc1d998d113ca7b857f324070a0&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/287161194.sd.mp4?s=55484c2a5fb20fb47d2893c6a4d605ef3ca205fe&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 495,
   "speakers": [
     {
       "name": "Sean McCown",

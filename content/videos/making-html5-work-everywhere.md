@@ -9,6 +9,9 @@
   "vimeo": "104887686",
   "moreinfo": "http://www.houstontechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/487544568_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104887686.hd.mp4?s=d3aacf7f52be955f3b0e2fa6386ee50c2193e72f&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104887686.sd.mp4?s=e8ee3e14a030bcefbf287ee502a8e6b38d4d9fb6&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 582,
   "speakers": [
     {
       "name": "Todd Anglin",

@@ -11,6 +11,9 @@
   "vimeo": "100981756",
   "moreinfo": "http://www.ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/482640602_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100981756.hd.mp4?s=d9e4d6dd451a6f85ae2b5b5d3c3188d99914ade7&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100981756.sd.mp4?s=80693af15a755983aa47960dcfd0cd725fd68fe3&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 962,
   "speakers": [
     {
       "name": "Casey Watson",

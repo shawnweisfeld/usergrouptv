@@ -13,6 +13,9 @@
   "vimeo": "105359949",
   "moreinfo": "http://techfests.com/NWA/2012",
   "thumbnail": "https://i.vimeocdn.com/video/488128550_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/105359949.hd.mp4?s=6dceb8f100882b555df988a0475986818b855b40&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/105359949.sd.mp4?s=fcb64d977038c683dab7815919a897c94f7e2ba0&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 536,
   "speakers": [
     {
       "name": "Mark Brandon",

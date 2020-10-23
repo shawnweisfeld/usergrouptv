@@ -11,6 +11,9 @@
   "vimeo": "199976708",
   "moreinfo": "http://cactuss.sqlpass.org/Home.aspx?EventID=6279",
   "thumbnail": "https://i.vimeocdn.com/video/613364449_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/199976708.hd.mp4?s=267fdfd4e35691fb2acddcd3b3538b53d5f08ec2&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/199976708.sd.mp4?s=414c49046b99cd391c3c83579b677fd8b13b0eb1&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 159,
   "speakers": [
     {
       "name": "John Sterrett",

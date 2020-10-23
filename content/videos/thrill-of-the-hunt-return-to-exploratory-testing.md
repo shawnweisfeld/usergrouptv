@@ -11,6 +11,9 @@
   "vimeo": "237557230",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660004408_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/237557230.hd.mp4?s=a2474c31c46e79844ef20633d02d177e77255cc6&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/237557230.sd.mp4?s=36b07492ab9397f50f64fce7f46a48b8a733fa92&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 37,
   "speakers": [
     {
       "name": "Kylie Schleicher",

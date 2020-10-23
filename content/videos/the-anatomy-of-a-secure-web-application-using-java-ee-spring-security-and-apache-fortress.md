@@ -11,6 +11,9 @@
   "vimeo": "237556585",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660003610_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/237556585.hd.mp4?s=ce91bd6a7dd58d33c8a9df911c50e7037cf252a2&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/237556585.sd.mp4?s=f223bbe666d46ed6cbfc45f490e072c46c34df6c&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 35,
   "speakers": [
     {
       "name": "Shawn McKinney",

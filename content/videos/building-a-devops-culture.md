@@ -11,6 +11,9 @@
   "vimeo": "106167026",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#0109",
   "thumbnail": "https://i.vimeocdn.com/video/489182188_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106167026.hd.mp4?s=8832aa294ce602e1a1a7de513cd30b234f080863&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106167026.sd.mp4?s=cbcc411d721f89ea32879d6ee340a2dfc658a713&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 1023,
   "speakers": [
     {
       "name": "Stephen Nimmo",

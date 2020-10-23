@@ -11,6 +11,9 @@
   "vimeo": "113157890",
   "moreinfo": "http://dallastechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/498379666_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/113157890.hd.mp4?s=8de1ae0803e805333fcdfe667b5d9853fde359ff&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/113157890.sd.mp4?s=eee0417902237e3a2eb4dd48e2763e29dbd4d2a5&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 663,
   "speakers": [
     {
       "name": "Rob Vettor",

@@ -11,6 +11,9 @@
   "vimeo": "268806272",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/699622186_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/268806272.hd.mp4?s=de7828c4695e233b21f2a39be2ee8034592f0dfa&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/268806272.sd.mp4?s=7e15d2541bc90130ba059dab2c094294a26f1d99&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 101,
   "speakers": [
     {
       "name": "Andy Parkerson",

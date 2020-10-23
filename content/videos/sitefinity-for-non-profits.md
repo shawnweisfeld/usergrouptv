@@ -11,6 +11,9 @@
   "vimeo": "110129678",
   "moreinfo": "http://www.dallasgivecamp.org",
   "thumbnail": "https://i.vimeocdn.com/video/494263517_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/110129678.hd.mp4?s=7e71bdda21ff44e2fad23ff203781b472eb1cdc2&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/110129678.sd.mp4?s=7d1437ea947e7d8074862e68cd3a09186cc70b8f&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 770,
   "speakers": [
     {
       "name": "Michael Russell",

@@ -11,6 +11,9 @@
   "vimeo": "139191545",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda",
   "thumbnail": "https://i.vimeocdn.com/video/534898848_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/139191545.hd.mp4?s=39a06cc563f34b5d3fbf2933e4167486d4d2c986&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/139191545.sd.mp4?s=8d9761dcc173fde58ed9218346eb9a359fa8ea38&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 798,
   "speakers": [
     {
       "name": "Markus Egger",

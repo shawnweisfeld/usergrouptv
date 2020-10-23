@@ -12,6 +12,9 @@
   "vimeo": "102964811",
   "moreinfo": "http://lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/485083169_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/102964811.hd.mp4?s=1d43c0f836ac256dfa0c9145591ca527ec106d5f&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/102964811.sd.mp4?s=86b86189fbbc00e959cfd69d2e976871e2c3bb91&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 588,
   "speakers": [
     {
       "name": "Ryan Lowdermilk",

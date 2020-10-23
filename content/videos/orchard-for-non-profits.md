@@ -11,6 +11,9 @@
   "vimeo": "110130085",
   "moreinfo": "http://www.dallasgivecamp.org",
   "thumbnail": "https://i.vimeocdn.com/video/494264138_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/110130085.hd.mp4?s=de65309db4ef0b5ccc75139a16ea888fa4779c28&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/110130085.sd.mp4?s=b3450b7f279a9931588159b00f8e322f0098efda&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 768,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

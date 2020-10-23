@@ -13,6 +13,9 @@
   "vimeo": "104884956",
   "moreinfo": "http://www.dfwcpp.com/",
   "thumbnail": "https://i.vimeocdn.com/video/487541187_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104884956.hd.mp4?s=b42de6ebf0a8f9be77df8fecc0e419af1b759ceb&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104884956.sd.mp4?s=d8a030e5f94b327f124e5f33c737a4f763b8a1f1&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 623,
   "speakers": [
     {
       "name": "David Cravey",

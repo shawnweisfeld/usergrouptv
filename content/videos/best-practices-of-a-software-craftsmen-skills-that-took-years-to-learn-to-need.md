@@ -11,6 +11,9 @@
   "vimeo": "102968074",
   "moreinfo": "http://dallas-csharp-sig.com/2013/01/03/dallas-c-sig-feb-meeting-best-practices-of-a-software-craftsmen-skills-that-took-years-to-learn-to-need/",
   "thumbnail": "https://i.vimeocdn.com/video/485087344_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/102968074.hd.mp4?s=b6f39b1d7748486018ab24066d78e746584f363b&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/102968074.sd.mp4?s=1ae0cabb063a61a30b137f33563ebc0eb5fe3bf9&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 614,
   "speakers": [
     {
       "name": "Devlin Liles",

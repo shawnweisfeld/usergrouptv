@@ -11,6 +11,9 @@
   "vimeo": "100979908",
   "moreinfo": "http://techfests.com/Tulsa/2013/Speakers/GirishGangadharan/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/482638242_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100979908.hd.mp4?s=a0b407cc744ab86512a4490c18fd5c49bb6c9cd1&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100979908.sd.mp4?s=3f6a9b11e9dad552ab66a0db86e599cfe7543478&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 957,
   "speakers": [
     {
       "name": "Girish Gangadharan",

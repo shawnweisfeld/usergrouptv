@@ -11,6 +11,9 @@
   "vimeo": "268829770",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/699652292_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/268829770.hd.mp4?s=c1afa176fdc777d0ebd4b12217150689c8c5ed29&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/268829770.sd.mp4?s=629c8e890e36c7b173fd9f92cf05f597abf5b3a3&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 263,
   "speakers": [
     {
       "name": "Sunil Kowlgi",

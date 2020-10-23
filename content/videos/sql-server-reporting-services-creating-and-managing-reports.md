@@ -11,6 +11,9 @@
   "vimeo": "104885699",
   "moreinfo": "http://codecamp13.adnug.org/",
   "thumbnail": "https://i.vimeocdn.com/video/487542102_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104885699.hd.mp4?s=f2664d702a533343de51f537821da44eb4d2d0e5&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104885699.sd.mp4?s=8654701a85cb5022f81e04e4112c2224fe8f63a4&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 602,
   "speakers": [
     {
       "name": "Anil Desai",

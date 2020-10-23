@@ -13,6 +13,9 @@
   "vimeo": "390486691",
   "moreinfo": "https://www.sqlsaturday.com/939/Sessions/Details.aspx?sid=100848",
   "thumbnail": "https://i.vimeocdn.com/video/854626443_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/390486691.hd.mp4?s=ff90d1841b486b709806eaf90cf65ca3f93d6277&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/390486691.sd.mp4?s=8ae3dcbadd3b2ec03dc7dafcc9afc698eac89ed6&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 359,
   "speakers": [
     {
       "name": "Wenbin Zhao",

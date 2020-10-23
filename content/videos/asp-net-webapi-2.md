@@ -11,6 +11,9 @@
   "vimeo": "103661446",
   "moreinfo": "http://techfests.com/Tulsa/2012/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/485963785_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/103661446.hd.mp4?s=02389972becf4f5e380577f90fbaeb5f362c39d5&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/103661446.sd.mp4?s=3f8bfce3bea5e36fcd7d6b8d5e7ad38476358503&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 632,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

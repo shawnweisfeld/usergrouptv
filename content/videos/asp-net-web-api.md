@@ -11,6 +11,9 @@
   "vimeo": "106886876",
   "moreinfo": "http://austincodecamp2012.com/",
   "thumbnail": "https://i.vimeocdn.com/video/490130893_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106886876.hd.mp4?s=3201f1a6ddc09e536d5fa737b3daffd443c07713&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106886876.sd.mp4?s=d62c1a1a04990c3fadd451a0c0cecf6f64067a85&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 572,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

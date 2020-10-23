@@ -11,6 +11,9 @@
   "vimeo": "104883951",
   "moreinfo": "http://www.houstontechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/487539912_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104883951.hd.mp4?s=118c58d076ef36bb71d9ca5a145da98635af944e&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104883951.sd.mp4?s=f0042d274922aeecbcba2158a363732b64d4609a&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 581,
   "speakers": [
     {
       "name": "Hanu Kommalapati",

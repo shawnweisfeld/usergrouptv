@@ -11,6 +11,9 @@
   "vimeo": "386765053",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/267780149/",
   "thumbnail": "https://i.vimeocdn.com/video/849445950_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/386765053.hd.mp4?s=3b94f8f522585cf4179974737c5333d047830cd0&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/386765053.sd.mp4?s=ac1bfb551487ffacf3b5a7a7281a7043928084a6&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 386,
   "speakers": [
     {
       "name": "Keith Casey",

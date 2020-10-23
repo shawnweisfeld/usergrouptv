@@ -11,6 +11,9 @@
   "vimeo": "183678706",
   "moreinfo": "http://www.meetup.com/Austin-SQL-Server-User-Group/events/232418605/",
   "thumbnail": "https://i.vimeocdn.com/video/592958259_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/183678706.hd.mp4?s=c75404f83b03dc1a3fc9590321e4ecf38a3c1b94&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/183678706.sd.mp4?s=4a18138b49fec6b64dd3193cb3227ebbed33f8fb&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 197,
   "speakers": [
     {
       "name": "Tim Costello",

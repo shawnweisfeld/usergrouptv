@@ -11,6 +11,9 @@
   "vimeo": "238047871",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660634741_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/238047871.hd.mp4?s=b5be0d7c2b7079defaf8a039416e3bfe3f4c7400&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/238047871.sd.mp4?s=ae2b79329af6919890f88493d9f4ac639e1b2a47&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 72,
   "speakers": [
     {
       "name": "David Hudson",

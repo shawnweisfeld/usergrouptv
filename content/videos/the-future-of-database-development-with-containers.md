@@ -11,6 +11,9 @@
   "vimeo": "348233872",
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=93890",
   "thumbnail": "https://i.vimeocdn.com/video/798799501_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/348233872.hd.mp4?s=6324a019dd2ffbad4abb8f7bd482632a037e1cb1&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/348233872.sd.mp4?s=a51fd80b726c851025d75347fd3977fb1be618c1&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 268,
   "speakers": [
     {
       "name": "Steve Jones",

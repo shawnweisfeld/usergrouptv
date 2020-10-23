@@ -11,6 +11,9 @@
   "vimeo": "348234127",
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=92650",
   "thumbnail": "https://i.vimeocdn.com/video/798799737_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/348234127.hd.mp4?s=049ea88ad549e8dc67b3631d09514a63f8ef36f4&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/348234127.sd.mp4?s=196e9535cf26ffd278e504d0fa46c17d092fad5d&profile_id=139&oauth2_token_id=20985841",
+  "recordingID": 269,
   "speakers": [
     {
       "name": "Jennifer McCown",

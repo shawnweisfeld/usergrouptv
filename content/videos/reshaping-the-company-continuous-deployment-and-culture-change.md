@@ -11,6 +11,9 @@
   "vimeo": "140647861",
   "moreinfo": "http://measureup2015.azurewebsites.net/reshaping-the-company-continuous-deployment-and-culture-change/",
   "thumbnail": "https://i.vimeocdn.com/video/537260192_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/140647861.hd.mp4?s=6eb4c99a54ddf9c19757be78e56bb64939734729&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/140647861.sd.mp4?s=5321aa3cea1bdedfa51f25258ce83baaaa5c1681&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 877,
   "speakers": [
     {
       "name": "Gabriel Schenker",

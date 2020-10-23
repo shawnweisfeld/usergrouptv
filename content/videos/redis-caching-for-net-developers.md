@@ -11,6 +11,9 @@
   "vimeo": "115164457",
   "moreinfo": "http://www.meetup.com/azureaustin/events/211480762/",
   "thumbnail": "https://i.vimeocdn.com/video/501095947_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/115164457.hd.mp4?s=744f0058985dd3f3a2fed71478a8f6fa59c73632&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/115164457.sd.mp4?s=1b4e901b2da57059a7fd7a3a9d7a6e2bd4cbd6bc&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 868,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

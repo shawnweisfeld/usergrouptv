@@ -11,6 +11,9 @@
   "vimeo": "184673271",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/594173211_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/184673271.hd.mp4?s=a5e005785deadc77e2a979e0e7558a8478e0eb9a&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/184673271.sd.mp4?s=a02ee916b66d37fdd7cb09028487a030096c3442&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 149,
   "speakers": [
     {
       "name": "Yung Chou",

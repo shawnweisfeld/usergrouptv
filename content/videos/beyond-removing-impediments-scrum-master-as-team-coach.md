@@ -11,6 +11,9 @@
   "vimeo": "104231753",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486708877_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104231753.hd.mp4?s=fea0afa5b173fcb4ae6d874d4e6ec71db7cf8ac6&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104231753.sd.mp4?s=ef2f7c49e84463865e8a98d3ee205cda3b86ba40&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 1007,
   "speakers": [
     {
       "name": "Allison Pollard",

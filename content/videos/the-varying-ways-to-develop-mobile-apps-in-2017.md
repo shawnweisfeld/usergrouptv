@@ -11,6 +11,9 @@
   "vimeo": "229955822",
   "moreinfo": "http://techfests.com/Tulsa/2017/Speakers/PatrickKurz/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/650402437_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/229955822.hd.mp4?s=4739587ab4bb56d8cce3447a6a9ac397d9459fbd&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/229955822.sd.mp4?s=4c7e2e64312fd3f7e65db7343abb415b2dedf8ea&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 43,
   "speakers": [
     {
       "name": "Patrick Kurz",

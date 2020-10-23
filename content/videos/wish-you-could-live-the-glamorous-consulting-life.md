@@ -11,6 +11,9 @@
   "vimeo": "271378397",
   "moreinfo": "http://www.sqlsaturday.com/734/Sessions/Details.aspx?sid=77379",
   "thumbnail": "https://i.vimeocdn.com/video/702664420_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/271378397.hd.mp4?s=0326844b12a90bd079a07cacb86c237ae69f5aa0&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/271378397.sd.mp4?s=28706f16b182f389d1deacf9d03bb950c7a96cbf&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 435,
   "speakers": [
     {
       "name": "Juan Soto",

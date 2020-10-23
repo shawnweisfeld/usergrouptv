@@ -11,6 +11,9 @@
   "vimeo": "333235933",
   "moreinfo": "https://www.meetup.com/azureaustin/events/258070696/",
   "thumbnail": "https://i.vimeocdn.com/video/779161150_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/333235933.hd.mp4?s=e4c7d23f3af11e7c00f9acea6b462e78c6a3b18b&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/333235933.sd.mp4?s=7ca1c45db339b9e274adc76307eccfaa77629450&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 306,
   "speakers": [
     {
       "name": "Taylor Hersom",

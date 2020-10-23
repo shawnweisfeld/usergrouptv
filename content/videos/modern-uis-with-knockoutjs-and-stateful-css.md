@@ -11,6 +11,9 @@
   "vimeo": "142866669",
   "moreinfo": "http://lrtechfest.com/speakerdetails/#Brent-Coney",
   "thumbnail": "https://i.vimeocdn.com/video/540281922_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/142866669.hd.mp4?s=065941289b20e475407db7c881f4cd16bbc91abc&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/142866669.sd.mp4?s=1ee920c811c4e933aee40d40330be15d9a5c5b1d&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 884,
   "speakers": [
     {
       "name": "Brent Coney",

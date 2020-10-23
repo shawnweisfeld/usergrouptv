@@ -11,6 +11,9 @@
   "vimeo": "230330906",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650871844_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230330906.hd.mp4?s=7110a010214dcf77fcfb89d32fc09929a3347af2&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230330906.sd.mp4?s=63856acabdc76fae4c4f9000c877e2d1fdb89aa1&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 42,
   "speakers": [
     {
       "name": "Katie Smith",

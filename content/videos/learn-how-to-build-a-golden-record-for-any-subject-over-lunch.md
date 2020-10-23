@@ -11,6 +11,9 @@
   "vimeo": "118476156",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=25222",
   "thumbnail": "https://i.vimeocdn.com/video/505503841_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/118476156.hd.mp4?s=41c636e784bd1820ac850be43d5888bfc64bdc87&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/118476156.sd.mp4?s=9147d787bbfc78e1b48debdd4de2de1bc9e561d7&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 814,
   "speakers": [
     {
       "name": "Gene Webb",

@@ -11,6 +11,9 @@
   "vimeo": "237561915",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660010364_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/237561915.hd.mp4?s=2d0285e036e586da19216dc8148ed039dac49a50&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/237561915.sd.mp4?s=0ccff9f5415db97fe47aa9c934f618dfaea391d0&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 23,
   "speakers": [
     {
       "name": "Jason Craft",

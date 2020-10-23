@@ -11,6 +11,9 @@
   "vimeo": "100980743",
   "moreinfo": "https://sites.google.com/site/tfsaustinusergroup/project-updates/makingagileworkonlargecomplexprojects",
   "thumbnail": "https://i.vimeocdn.com/video/482639292_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100980743.hd.mp4?s=8280bed1cbaaef8861834b6c465473049e569e52&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100980743.sd.mp4?s=eb6b0f26eea70b875ff06eaa704944bc1ff0e4e5&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 959,
   "speakers": [
     {
       "name": "Mike Haze",

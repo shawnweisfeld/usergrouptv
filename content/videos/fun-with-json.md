@@ -11,6 +11,9 @@
   "vimeo": "105367721",
   "moreinfo": "http://techfests.com/NWA/2012",
   "thumbnail": "https://i.vimeocdn.com/video/488138553_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/105367721.hd.mp4?s=946f8d3a9b33c8e5fa3675f46efb0c742960e8d2&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/105367721.sd.mp4?s=b1a94e4e25fd6eac20b96d028344e438570d1b82&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 540,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

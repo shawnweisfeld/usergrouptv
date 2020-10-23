@@ -11,6 +11,9 @@
   "vimeo": "363309641",
   "moreinfo": "https://www.joomladaytexas.com/",
   "thumbnail": "https://i.vimeocdn.com/video/818417695_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/363309641.hd.mp4?s=a25b76c79d278ebd0e5a79f15c83dcb1be204728&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/363309641.sd.mp4?s=60a0b33deb35432486b591e53033d2527a803f62&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 289,
   "speakers": [
     {
       "name": "Tessa Snodgrass",

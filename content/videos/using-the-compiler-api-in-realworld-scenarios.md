@@ -13,6 +13,9 @@
   "vimeo": "466870565",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/273105839/",
   "thumbnail": "https://i.vimeocdn.com/video/972800786_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/466870565.hd.mp4?s=54bb0a678d0dd4f95d2cdd3c3a5d04692ad2c160&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/466870565.sd.mp4?s=5316d5346a94ea1fbe55733b15b628ba76e6d200&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 1036,
   "speakers": [
     {
       "name": "Jason Bock",

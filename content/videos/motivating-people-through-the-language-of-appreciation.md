@@ -11,6 +11,9 @@
   "vimeo": "104231371",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486708418_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104231371.hd.mp4?s=10bc9cd9f151b9747e7795e2a4d3050ffefa55c2&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104231371.sd.mp4?s=96154b63e1916e91463ebf4e886737f03c6b1dba&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 1005,
   "speakers": [
     {
       "name": "Cherie Silas",

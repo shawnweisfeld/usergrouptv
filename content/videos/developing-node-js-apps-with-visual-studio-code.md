@@ -11,6 +11,9 @@
   "vimeo": "163708603",
   "moreinfo": "http://www.meetup.com/ATX-MSFT-Devs/events/229034129/",
   "thumbnail": "https://i.vimeocdn.com/video/567149928_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/163708603.hd.mp4?s=c8051c3badb20784de3393631668e82dd41d9674&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/163708603.sd.mp4?s=b0dcf59098baa75f8b643c0c51c5143e63da9532&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 854,
   "speakers": [
     {
       "name": "Jeff Linwood",

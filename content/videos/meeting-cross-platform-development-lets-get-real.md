@@ -12,6 +12,9 @@
   "vimeo": "119598272",
   "moreinfo": "http://fwdnug.com/events/january-2013-meeting.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/507048285_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/119598272.hd.mp4?s=cfe6dbc655e0cf1a54f7a6b600d9fb63e2c658c0&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/119598272.sd.mp4?s=07150a35c38b49e827c4f406e8048ec6f24665b4&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 642,
   "speakers": [
     {
       "name": "Cory Smith",

@@ -11,6 +11,9 @@
   "vimeo": "113705708",
   "moreinfo": "http://northdallas.net",
   "thumbnail": "https://i.vimeocdn.com/video/499120096_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/113705708.hd.mp4?s=15cdb66e91e0c4ba028c97596b4bd8771eac460a&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/113705708.sd.mp4?s=766adeb67b6e7d1774a05db77a2448491240dbe1&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 648,
   "speakers": [
     {
       "name": "Tim Rayburn",

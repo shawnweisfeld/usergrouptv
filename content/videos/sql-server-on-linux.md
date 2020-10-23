@@ -11,6 +11,9 @@
   "vimeo": "215097203",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/238090320/",
   "thumbnail": "https://i.vimeocdn.com/video/631738426_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/215097203.hd.mp4?s=e5e1f469ed021208bd19952eb876650ef6984bab&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/215097203.sd.mp4?s=a3e114bbd92a67bcf2d204056571348dbd1f0357&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 244,
   "speakers": [
     {
       "name": "David Williams",

@@ -11,6 +11,9 @@
   "vimeo": "292555407",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/728973646_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/292555407.hd.mp4?s=9ac46e575d66ab4dffdb01be9a6040173fe6aab7&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/292555407.sd.mp4?s=6c813f27620607b17bb6ec415645ea7786809c1d&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 505,
   "speakers": [
     {
       "name": "Drew Shefman",

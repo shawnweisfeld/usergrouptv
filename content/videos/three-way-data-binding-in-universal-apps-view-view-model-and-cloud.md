@@ -11,6 +11,9 @@
   "vimeo": "108781250",
   "moreinfo": "http://www.dallastechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/492566941_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/108781250.hd.mp4?s=2026d2f375154b903408d62043deceb2c33240c3&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/108781250.sd.mp4?s=277a1846076d13a5d026f9a49ec8ea6705f47471&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 987,
   "speakers": [
     {
       "name": "Michael L Perry",

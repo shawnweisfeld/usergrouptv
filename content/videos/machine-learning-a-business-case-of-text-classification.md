@@ -11,6 +11,9 @@
   "vimeo": "237557054",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660004211_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/237557054.hd.mp4?s=5a3c9a32477e002c8776eca68d01b91f4cc7d24d&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/237557054.sd.mp4?s=cdb1a22048518e091e3b4fe0aaeef638ffa3ee6b&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 36,
   "speakers": [
     {
       "name": "Kevin Chenal",

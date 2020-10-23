@@ -11,6 +11,9 @@
   "vimeo": "271954977",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703389833_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/271954977.hd.mp4?s=382c854b0c636c4171fd9a25648c656c9b6e19bc&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/271954977.sd.mp4?s=95654372700f40e7a7f386a89017794201ca0dce&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 441,
   "speakers": [
     {
       "name": "Leland Newsom",

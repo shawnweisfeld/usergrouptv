@@ -12,6 +12,9 @@
   "vimeo": "104887840",
   "moreinfo": "http://www.houstontechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/487544765_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104887840.hd.mp4?s=09ef021c6f04c328afe9209e3a590283a518185d&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104887840.sd.mp4?s=da39503379000a1d2a67f0ccc98a3f576ccf8365&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 621,
   "speakers": [
     {
       "name": "Scott Hunter",

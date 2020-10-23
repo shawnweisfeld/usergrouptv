@@ -11,6 +11,9 @@
   "vimeo": "210941910",
   "moreinfo": "http://www.sqlsaturday.com/603/Sessions/Details.aspx?sid=62746",
   "thumbnail": "https://i.vimeocdn.com/video/626861294_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/210941910.hd.mp4?s=9d9a80e6fada9f9d905950e5832237fbd9c2d7e5&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/210941910.sd.mp4?s=9853247c98538722ad6774f13d972586c4de68a1&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 183,
   "speakers": [
     {
       "name": "Diane Schuster",

@@ -11,6 +11,9 @@
   "vimeo": "102968618",
   "moreinfo": "http://northdallas.net/meetings/introduction-to-asp-net-signalr/",
   "thumbnail": "https://i.vimeocdn.com/video/485088139_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/102968618.hd.mp4?s=5bf03e5fbe030910ba6419f9cc4f0d0d62eeff6e&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/102968618.sd.mp4?s=050abcaf718076875d006265e6c5c092208383c3&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 629,
   "speakers": [
     {
       "name": "Keyvan Nayyeri",

@@ -13,6 +13,9 @@
   "vimeo": "140730480",
   "moreinfo": "http://measureup2015.azurewebsites.net/cqrs-ddd-event-sourcing/",
   "thumbnail": "https://i.vimeocdn.com/video/537387277_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/140730480.hd.mp4?s=8df54c1a2af0e6d5f97bbc771927d7a1ebdba734&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/140730480.sd.mp4?s=38a5fba27ee22609429feaf173acfac2677d1e07&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 882,
   "speakers": [
     {
       "name": "Gabriel Schenker",

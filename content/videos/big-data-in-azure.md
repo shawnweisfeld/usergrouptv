@@ -11,6 +11,9 @@
   "vimeo": "215103496",
   "moreinfo": "https://www.eventbrite.com/e/global-azure-bootcamp-2017-austin-tx-tickets-33085810550#",
   "thumbnail": "https://i.vimeocdn.com/video/631746147_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/215103496.hd.mp4?s=8112f70e5611d6c07e41ab9e24913ce5392cf514&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/215103496.sd.mp4?s=9cd7dabec06ef408bc6c9560bfd2f8bc65f305e2&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 252,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

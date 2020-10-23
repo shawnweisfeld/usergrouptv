@@ -12,6 +12,9 @@
   "vimeo": "106165859",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#0515",
   "thumbnail": "https://i.vimeocdn.com/video/489180541_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106165859.hd.mp4?s=8d3115ada8f8c431dcde9d187c4fb63de3a7c806&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106165859.sd.mp4?s=e82b2853aec869b4c925d57684d767bb16e90923&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 970,
   "speakers": [
     {
       "name": "Brian Sullivan",

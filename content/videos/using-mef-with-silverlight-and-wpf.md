@@ -11,6 +11,9 @@
   "vimeo": "113161085",
   "moreinfo": "http://dallasxaml.com/",
   "thumbnail": "https://i.vimeocdn.com/video/498383893_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/113161085.hd.mp4?s=ded8f5a59996db1ea66272665cba4e2b651ffb58&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/113161085.sd.mp4?s=82beef8a7749424cc9b45a9f91a894b97faebebd&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 655,
   "speakers": [
     {
       "name": "Cory Smith",

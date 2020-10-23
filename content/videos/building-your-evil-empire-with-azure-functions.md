@@ -11,6 +11,9 @@
   "vimeo": "237569460",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660020591_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/237569460.hd.mp4?s=7a15e7288f149f41fa9d00262df734ce5fd7253b&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/237569460.sd.mp4?s=34fa664450827945ca50778c00ea2cdc3579f9d5&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 31,
   "speakers": [
     {
       "name": "Bryan Soltis",

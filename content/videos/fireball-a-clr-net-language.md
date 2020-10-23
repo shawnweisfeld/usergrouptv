@@ -11,6 +11,9 @@
   "vimeo": "191669191",
   "moreinfo": "http://adnug.org/Home/november-14-2016-fireball-a-clr-net-language/",
   "thumbnail": "https://i.vimeocdn.com/video/602763795_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/191669191.hd.mp4?s=0361d3b60ffb87ec853b43cd56b909e2e1ce32d3&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/191669191.sd.mp4?s=51661c5490220aa014e4d0c2ae5e6fa2a6114b12&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 156,
   "speakers": [
     {
       "name": "Kevin Di Vincenzo",

@@ -11,6 +11,9 @@
   "vimeo": "350356538",
   "moreinfo": "https://www.meetup.com/North-Texas-SQL-Server-User-Group/events/262570004/",
   "thumbnail": "https://i.vimeocdn.com/video/801600697_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/350356538.hd.mp4?s=8f7e5b6be0f2398c779023f32a93a51c0814f97b&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/350356538.sd.mp4?s=5408dffef9a4416075dcf3b089823878a06f0cd1&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 278,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

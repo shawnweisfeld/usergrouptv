@@ -11,6 +11,9 @@
   "vimeo": "346640666",
   "moreinfo": "https://developer.microsoft.com/en-us/windows/campaigns/us-tx-dallas",
   "thumbnail": "https://i.vimeocdn.com/video/796753634_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/346640666.hd.mp4?s=57a7f20978e641abca01429fde6128380f958c2e&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/346640666.sd.mp4?s=70c2d44225babe9269939fa185878a6203886282&profile_id=139&oauth2_token_id=20985841",
+  "recordingID": 321,
   "speakers": [
     {
       "name": "Jacques Daniels",

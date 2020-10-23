@@ -11,6 +11,9 @@
   "vimeo": "168072845",
   "moreinfo": "http://www.meetup.com/Austin-SQL-Server-User-Group/events/231314355/",
   "thumbnail": "https://i.vimeocdn.com/video/572507846_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/168072845.hd.mp4?s=991df8d328f28076c35b9387232f2feaab6508cf&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/168072845.sd.mp4?s=2696b9b9f6f4550b6bbb1061b444795eecddd5fd&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 518,
   "speakers": [
     {
       "name": "Jorge Segarra",

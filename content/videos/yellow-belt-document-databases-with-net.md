@@ -11,6 +11,9 @@
   "vimeo": "100491276",
   "moreinfo": "http://2014.cowtowntechroundup.com/Profile/a7c1cb3d-556b-4508-9f3d-29ee27cf0d98",
   "thumbnail": "https://i.vimeocdn.com/video/481993974_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100491276.hd.mp4?s=ac2137f24dbe8d00c2d4df37ead2f18213f23b7e&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100491276.sd.mp4?s=036bdf2f520e2b7e6ef56ec447a9a39ade273425&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 921,
   "speakers": [
     {
       "name": "Tim Rayburn",

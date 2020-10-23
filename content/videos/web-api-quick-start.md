@@ -11,6 +11,9 @@
   "vimeo": "102320622",
   "moreinfo": "http://codecamp13.adnug.org/",
   "thumbnail": "https://i.vimeocdn.com/video/484302932_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/102320622.hd.mp4?s=3b3b4d9cfb822aaf7c7bab814ea1b334fd64adf6&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/102320622.sd.mp4?s=1055c8e2b97d40e060fadbf969b7bd5d2b6d27f2&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 600,
   "speakers": [
     {
       "name": "Ryan Vice",

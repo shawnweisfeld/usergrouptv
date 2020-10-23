@@ -11,6 +11,9 @@
   "vimeo": "106168265",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#069",
   "thumbnail": "https://i.vimeocdn.com/video/489183701_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106168265.hd.mp4?s=e7d4b8ce0e6be6737c4a51c83671a674945c31ca&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106168265.sd.mp4?s=9f9d77e1d42473c56d0bb4b8cbc9986a943f74a8&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 998,
   "speakers": [
     {
       "name": "Devlin Liles",

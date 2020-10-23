@@ -11,6 +11,9 @@
   "vimeo": "230260455",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650784762_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230260455.hd.mp4?s=a297899b623691d557e087678b8af6121406ce0e&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230260455.sd.mp4?s=23ad23aa4cc4edf12b7b10717006644080c355b8&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 40,
   "speakers": [
     {
       "name": "Alexis Puchek",

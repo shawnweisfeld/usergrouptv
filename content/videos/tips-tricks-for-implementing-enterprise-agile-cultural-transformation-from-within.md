@@ -11,6 +11,9 @@
   "vimeo": "271908156",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703327465_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/271908156.hd.mp4?s=5911c25b6f0ac41799e56ad10d20aa9cbd3b8109&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/271908156.sd.mp4?s=582b364d3f18fb2404d8411b0f682abea6de4ac0&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 446,
   "speakers": [
     {
       "name": "Maximilian Ekesi",

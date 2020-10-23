@@ -11,6 +11,9 @@
   "vimeo": "230330869",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650871796_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230330869.hd.mp4?s=a3a56e093f501ca31d7714c999d72ae9e2a715e0&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230330869.sd.mp4?s=a19e50b316e11047c3a7ed601ccd84d03fabb327&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 55,
   "speakers": [
     {
       "name": "Kelly Churchill",

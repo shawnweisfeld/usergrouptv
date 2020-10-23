@@ -11,6 +11,9 @@
   "vimeo": "118970992",
   "moreinfo": "https://sites.google.com/site/tfsaustinusergroup/project-updates/tfsprocesstemplatecustomizations",
   "thumbnail": "https://i.vimeocdn.com/video/506118777_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/118970992.hd.mp4?s=c16c88c2548f2103b4f43e91e04842d71adc1b8e&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/118970992.sd.mp4?s=5f0abeb027b53b74c3d69f75fba6afb216ee5611&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 823,
   "speakers": [
     {
       "name": "George Altenbaugh",

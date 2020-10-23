@@ -11,6 +11,9 @@
   "vimeo": "271899077",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703315551_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/271899077.hd.mp4?s=50abbd4c484b09760c0a362a38d135c4d5f2d5b7&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/271899077.sd.mp4?s=926d7c73f252f7246d1035b066745ed044cd7e09&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 445,
   "speakers": [
     {
       "name": "Jeff Brantley",

@@ -11,6 +11,9 @@
   "vimeo": "142866196",
   "moreinfo": "http://lrtechfest.com/speakerdetails/#Pete-Buletza",
   "thumbnail": "https://i.vimeocdn.com/video/540281229_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/142866196.hd.mp4?s=defb016c9df8457b9832e6984c05b480135a13ba&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/142866196.sd.mp4?s=7ad37cf81bf170304dee2671c7605da0245b0903&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 870,
   "speakers": [
     {
       "name": "Pete Buletza",

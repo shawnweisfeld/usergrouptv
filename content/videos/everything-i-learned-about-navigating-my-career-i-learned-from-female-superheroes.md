@@ -11,6 +11,9 @@
   "vimeo": "231057177",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/651774568_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/231057177.hd.mp4?s=5f63e48c7b9a9cd16b9f8aacbe413828bb0d28ea&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/231057177.sd.mp4?s=f8a9c322fb8225453939b79612b73abeffaea6c0&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 52,
   "speakers": [
     {
       "name": "Deepina Kapila",

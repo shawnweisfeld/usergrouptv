@@ -11,6 +11,9 @@
   "vimeo": "364568668",
   "moreinfo": "http://conference.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/820031943_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/364568668.hd.mp4?s=98ae8af33d43486f903f179e78c57d44ad5acf58&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/364568668.sd.mp4?s=a11784c973f279b87c5385c704950c18554b6502&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 371,
   "speakers": [
     {
       "name": "Mary Grace Francisco",

@@ -11,6 +11,9 @@
   "vimeo": "289714679",
   "moreinfo": "https://www.meetup.com/azureaustin/events/254215755/",
   "thumbnail": "https://i.vimeocdn.com/video/725423772_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/289714679.hd.mp4?s=fd0a19cf68d50a7eecdd151b9216b6195f42ca6d&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/289714679.sd.mp4?s=ad48f6a06201c910176af81000a162969ac2db34&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 501,
   "speakers": [
     {
       "name": "Kesten Broughton",

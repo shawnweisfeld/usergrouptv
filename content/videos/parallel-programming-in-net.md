@@ -11,6 +11,9 @@
   "vimeo": "111926233",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/496720197_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/111926233.hd.mp4?s=011650b068ae3d37b339d195db5ccb4c45d6d301&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/111926233.sd.mp4?s=0e5deda20826c073ccc1cd887fcb51e78fa0f884&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 747,
   "speakers": [
     {
       "name": "Keyvan Nayyeri",

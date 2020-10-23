@@ -11,6 +11,9 @@
   "vimeo": "119594227",
   "moreinfo": "http://chicagoarchitectsgroup.com/",
   "thumbnail": "https://i.vimeocdn.com/video/507040864_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/119594227.hd.mp4?s=36a3b0b242a2f3c23a3074cba9058c87333c5801&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/119594227.sd.mp4?s=4ea92c0203dfe090e9f39bcc044cc329ede25f85&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 757,
   "speakers": [
     {
       "name": "Michael Kappel",

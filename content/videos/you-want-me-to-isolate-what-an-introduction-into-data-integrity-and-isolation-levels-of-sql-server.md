@@ -11,6 +11,9 @@
   "vimeo": "222136169",
   "moreinfo": "http://www.sqlsaturday.com/651/Sessions/Details.aspx?sid=63584",
   "thumbnail": "https://i.vimeocdn.com/video/640582984_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/222136169.hd.mp4?s=e569de40cee10a45f3055073ee6cbc1678d823e9&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/222136169.sd.mp4?s=f18f8f2fa7e2b175c52e55d0db65d0eeb2c66fdb&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 205,
   "speakers": [
     {
       "name": "Robert Bishop",

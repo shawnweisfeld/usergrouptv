@@ -9,6 +9,9 @@
   "vimeo": "106167888",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#059",
   "thumbnail": "https://i.vimeocdn.com/video/489183212_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106167888.hd.mp4?s=688542af0ee99f86c84fc30a3aabd2577d877a70&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106167888.sd.mp4?s=6964636d50b2438be50c8e09a6141cc039899694&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 1026,
   "speakers": [
     {
       "name": "Breandan Considine",

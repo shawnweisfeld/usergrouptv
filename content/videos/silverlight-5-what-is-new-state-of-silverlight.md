@@ -11,6 +11,9 @@
   "vimeo": "114765449",
   "moreinfo": "http://dallasxaml.com/",
   "thumbnail": "https://i.vimeocdn.com/video/500553999_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/114765449.hd.mp4?s=76082205b4c5145b4e37cafe4ae68afeeed2c793&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/114765449.sd.mp4?s=bf03fa45f467871120d8f709594452aff61d3af7&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 698,
   "speakers": [
     {
       "name": "Todd Anglin",

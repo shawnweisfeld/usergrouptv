@@ -11,6 +11,9 @@
   "vimeo": "271853498",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703256954_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/271853498.hd.mp4?s=53ffb07324107dc40b914ca2bc5cef388361245f&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/271853498.sd.mp4?s=39f348692eea3168d33e9d79267156ad95c5dfe9&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 442,
   "speakers": [
     {
       "name": "Yasser Farra",

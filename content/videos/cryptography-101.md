@@ -11,6 +11,9 @@
   "vimeo": "102317569",
   "moreinfo": "http://codecamp13.adnug.org/",
   "thumbnail": "https://i.vimeocdn.com/video/484299595_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/102317569.hd.mp4?s=994f04c68f2ddddcbd1159c57e00a63c02a89add&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/102317569.sd.mp4?s=bd64b7ae335d6f06705157a576ee8700030d3ecf&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 608,
   "speakers": [
     {
       "name": "Nolan Egly",

@@ -11,6 +11,9 @@
   "vimeo": "104228493",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486704902_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104228493.hd.mp4?s=90db1fda5af37eb7c7268ef7e7639b63eb47778c&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104228493.sd.mp4?s=8cc534668e97a4c91be4eefd6506187beb5aaaae&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 1013,
   "speakers": [
     {
       "name": "Ken Howard",

@@ -11,6 +11,9 @@
   "vimeo": "108778175",
   "moreinfo": "http://www.dallastechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/492562986_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/108778175.hd.mp4?s=99a0c536da1e7cb87f1f65b0d5f77f1e5bd3bba0&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/108778175.sd.mp4?s=e5380be24683f791ba77df3b2e62b53b2a43d8fa&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 993,
   "speakers": [
     {
       "name": "Matt Hester",

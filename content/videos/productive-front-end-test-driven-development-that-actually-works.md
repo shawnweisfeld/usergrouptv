@@ -11,6 +11,9 @@
   "vimeo": "237568415",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660021162_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/237568415.hd.mp4?s=cd78c12ddaf871b23427adf76b7b766a9c3947c2&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/237568415.sd.mp4?s=0bc696b1d96bcca101502880f6ce510e5bc42a68&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 30,
   "speakers": [
     {
       "name": "Ryan Tablada",

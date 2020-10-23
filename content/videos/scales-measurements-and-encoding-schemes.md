@@ -11,6 +11,9 @@
   "vimeo": "348234310",
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=95520",
   "thumbnail": "https://i.vimeocdn.com/video/798800080_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/348234310.hd.mp4?s=b55f64c402b2c7dd0c6ba648232dbaa41db69d67&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/348234310.sd.mp4?s=9abe565aa3552673a89b1bf84fd5e09be9d21b9f&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 270,
   "speakers": [
     {
       "name": "Joe Celko",

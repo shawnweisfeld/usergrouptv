@@ -11,6 +11,9 @@
   "vimeo": "231056955",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/651774253_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/231056955.hd.mp4?s=42c1d945ec1776647618eb6fb2acefe5c99faa52&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/231056955.sd.mp4?s=caffc1aa53c13e99b6e5bb7cf99a35465bb1e83a&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 51,
   "speakers": [
     {
       "name": "Evan Schmiedehaus",

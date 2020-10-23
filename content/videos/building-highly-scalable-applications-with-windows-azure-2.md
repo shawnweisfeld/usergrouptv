@@ -11,6 +11,9 @@
   "vimeo": "100447085",
   "moreinfo": "http://2014.cowtowntechroundup.com/Profile/00455fc6-cd81-4d23-a8e8-5391e83ddc8d",
   "thumbnail": "https://i.vimeocdn.com/video/481936088_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100447085.hd.mp4?s=595921216de691736469f661602180323f4b0c11&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100447085.sd.mp4?s=37719f3620884a7f4bed801f2bbf2e4bca63d088&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 926,
   "speakers": [
     {
       "name": "Casey Watson",

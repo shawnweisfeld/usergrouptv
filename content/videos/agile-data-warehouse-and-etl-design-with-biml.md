@@ -11,6 +11,9 @@
   "vimeo": "207571402",
   "moreinfo": "http://www.sqlsaturday.com/603/Sessions/Details.aspx?sid=62914",
   "thumbnail": "https://i.vimeocdn.com/video/622686595_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/207571402.hd.mp4?s=b0a9d30eea4889a32fd3324924f1ce04df78e710&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/207571402.sd.mp4?s=350a6a40141c28603d7c82d0ec0beb6b4f520c6e&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 238,
   "speakers": [
     {
       "name": "David Stein",

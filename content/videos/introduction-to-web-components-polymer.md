@@ -11,6 +11,9 @@
   "vimeo": "237567459",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660019941_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/237567459.hd.mp4?s=b1502371c74da5d700b2bc6cf151d129b0a5b49e&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/237567459.sd.mp4?s=d8101d07657ba421e7c5a494a2bed442fcbf3b7f&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 27,
   "speakers": [
     {
       "name": "John Riviello",

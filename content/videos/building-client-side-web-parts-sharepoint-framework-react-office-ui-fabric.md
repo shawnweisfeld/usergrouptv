@@ -11,6 +11,9 @@
   "vimeo": "190991493",
   "moreinfo": "http://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/234345657/",
   "thumbnail": "https://i.vimeocdn.com/video/601847556_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/190991493.hd.mp4?s=e2efe69d0cffaae6ac790210b5a54ba0eee374dd&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/190991493.sd.mp4?s=e18998aaae74838a1a153b7916800bc3d690d08b&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 155,
   "speakers": [
     {
       "name": "Travis Lingenfelder",

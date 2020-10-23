@@ -11,6 +11,9 @@
   "vimeo": "140742212",
   "moreinfo": "http://measureup.io/the-future-of-javascript-today-es-6-with-babeljs/",
   "thumbnail": "https://i.vimeocdn.com/video/537394041_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/140742212.hd.mp4?s=0186616024d66c71f8f4fc777ee9cfb86cb9cbf1&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/140742212.sd.mp4?s=59cfb1fe5aeea24c05a149afe6bf5458246991d4&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 888,
   "speakers": [
     {
       "name": "Brian Sullivan",

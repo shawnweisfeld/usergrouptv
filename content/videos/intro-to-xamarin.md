@@ -11,6 +11,9 @@
   "vimeo": "192111789",
   "moreinfo": "https://www.meetup.com/AustinXamarin/events/235575584/",
   "thumbnail": "https://i.vimeocdn.com/video/603364630_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/192111789.hd.mp4?s=49b6495549cc7709ba904401cb59909b2b087b55&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/192111789.sd.mp4?s=43c7bcf9b335c1387e12cd8b995d1c7eeaa332fa&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 157,
   "speakers": [
     {
       "name": "Dan Manning",

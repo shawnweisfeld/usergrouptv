@@ -11,6 +11,9 @@
   "vimeo": "184674027",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/594174267_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/184674027.hd.mp4?s=c76d40aaeee8f2a0655bcb13c9a07f923525744c&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/184674027.sd.mp4?s=4ac3630bdf0fdb4867fbe98c32d23fb242a62360&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 151,
   "speakers": [
     {
       "name": "Harold Pulcher",

@@ -11,6 +11,9 @@
   "vimeo": "238049208",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660636501_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/238049208.hd.mp4?s=c96137e62681b7d12a04e1408003fa9fddc8a836&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/238049208.sd.mp4?s=a7d0134b51b27c6c033290c0f4c81b6b6dc5ca12&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 107,
   "speakers": [
     {
       "name": "Jay Callicott",

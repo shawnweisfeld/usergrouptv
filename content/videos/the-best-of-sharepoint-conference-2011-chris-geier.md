@@ -11,6 +11,9 @@
   "vimeo": "110064800",
   "moreinfo": "http://web.cspug.org",
   "thumbnail": "https://i.vimeocdn.com/video/494179426_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/110064800.hd.mp4?s=5490692a973314c56b431c3134971d80b3438298&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/110064800.sd.mp4?s=da0386c90c224e3626126e0a7533176cdb5dacec&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 725,
   "speakers": [
     {
       "name": "Chris Geier",

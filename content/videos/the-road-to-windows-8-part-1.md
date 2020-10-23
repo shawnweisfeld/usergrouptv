@@ -14,6 +14,9 @@
   "vimeo": "106881231",
   "moreinfo": "http://www.codemag.com/RoadToWin8",
   "thumbnail": "https://i.vimeocdn.com/video/490123620_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106881231.hd.mp4?s=28044f1fd5b5a1b613cabb732df7ab8f0c22737b&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106881231.sd.mp4?s=0bc2ba6a2a64e65d9db0fc4673598fff6e03f6ee&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 550,
   "speakers": [
     {
       "name": "Markus Egger",

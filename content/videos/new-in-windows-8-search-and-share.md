@@ -11,6 +11,9 @@
   "vimeo": "105365831",
   "moreinfo": "http://www.fwdnug.com/",
   "thumbnail": "https://i.vimeocdn.com/video/488136265_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/105365831.hd.mp4?s=46c2a11f2acd13e2b5494c1ee645dc3a7fc2f732&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/105365831.sd.mp4?s=210fe880469a6d5063f9e3bad7213e075a2979ea&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 531,
   "speakers": [
     {
       "name": "Ryan Lowdermilk",

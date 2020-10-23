@@ -11,6 +11,9 @@
   "vimeo": "103659077",
   "moreinfo": "http://northdallas.net/meetings/usergroup-tv-windows-8-edition-a-tale-of-a-developer-an-app-windows-8-and-a-store/",
   "thumbnail": "https://i.vimeocdn.com/video/485960924_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/103659077.hd.mp4?s=3a80ee6d366475438f5fc663ec015688171c8999&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/103659077.sd.mp4?s=ffe665bed602ae98b3c4bb15ebd61f6a812cfe48&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 637,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

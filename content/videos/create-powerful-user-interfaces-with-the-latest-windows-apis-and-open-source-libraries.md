@@ -11,6 +11,9 @@
   "vimeo": "346640640",
   "moreinfo": "https://developer.microsoft.com/en-us/windows/campaigns/us-tx-dallas",
   "thumbnail": "https://i.vimeocdn.com/video/796753612_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/346640640.hd.mp4?s=05db5714001c12d20d27c98fae476f3be8052436&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/346640640.sd.mp4?s=616effd61dc02e0096c4bc8c45ce1f95cbeb526f&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 320,
   "speakers": [
     {
       "name": "Jared Simpson",

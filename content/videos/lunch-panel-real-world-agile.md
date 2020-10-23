@@ -11,6 +11,9 @@
   "vimeo": "459779158",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/960549417_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/459779158.hd.mp4?s=01de9952f0efff162ca477a3c3ba86e02b791221&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/459779158.sd.mp4?s=b46d8584238bf3a81e16083f92859bf4113c538a&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 10,
   "speakers": [
     {
       "name": "Gary McCants",

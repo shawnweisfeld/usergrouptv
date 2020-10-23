@@ -11,6 +11,9 @@
   "vimeo": "237564075",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660013618_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/237564075.hd.mp4?s=bbce52bc9b218e270c631549159318f8308e46df&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/237564075.sd.mp4?s=e33b130ea1c3f05a4a4c8a059df2ebd324ee3291&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 25,
   "speakers": [
     {
       "name": "Micah Silverman",

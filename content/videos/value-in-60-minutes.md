@@ -11,6 +11,9 @@
   "vimeo": "104228279",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486704704_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104228279.hd.mp4?s=59acbf1835ba4a1f20c2759a9ec41f2569337654&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104228279.sd.mp4?s=76ed81591258882310ea241787c9c00dfd780f21&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 1011,
   "speakers": [
     {
       "name": "Tim Rayburn",

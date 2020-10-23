@@ -11,6 +11,9 @@
   "vimeo": "104231109",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486708179_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104231109.hd.mp4?s=c1c229e822410363785cf09f131897eef672a687&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104231109.sd.mp4?s=368f1177937c2f32981c7576feeb1feb3d1cbf15&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 1004,
   "speakers": [
     {
       "name": "Devlin Liles",

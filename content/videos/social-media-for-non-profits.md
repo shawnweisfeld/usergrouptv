@@ -11,6 +11,9 @@
   "vimeo": "110129745",
   "moreinfo": "http://www.dallasgivecamp.org",
   "thumbnail": "https://i.vimeocdn.com/video/494263637_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/110129745.hd.mp4?s=93572a84387fa1545234fb3f4f6e531241a0e997&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/110129745.sd.mp4?s=aff426b242846bfbca45508fdf8b606bb27ed8d4&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 769,
   "speakers": [
     {
       "name": "Greg Allbright",

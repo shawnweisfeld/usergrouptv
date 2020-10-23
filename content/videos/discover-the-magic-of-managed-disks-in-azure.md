@@ -11,6 +11,9 @@
   "vimeo": "215325271",
   "moreinfo": "https://www.meetup.com/azureaustin/events/238929285/",
   "thumbnail": "https://i.vimeocdn.com/video/632015565_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/215325271.hd.mp4?s=3c625df64375ca89b0e754d56e520cbd5325cb3f&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/215325271.sd.mp4?s=cd02c6937322bdac720541e14cc586480a76a354&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 245,
   "speakers": [
     {
       "name": "Siraj Mohammad",

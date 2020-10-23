@@ -9,6 +9,9 @@
   "vimeo": "187158392",
   "moreinfo": "http://adnug.org/Home/october-10-2016-full-stack-development-with-net-and-nosql/",
   "thumbnail": "https://i.vimeocdn.com/video/596869606_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/187158392.hd.mp4?s=4905cc0776d79eaa7c1eb11e7f25bd4bc83a1388&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/187158392.sd.mp4?s=f431745da436746b0cfb4f0088b960f8ece8e36d&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 152,
   "speakers": [
     {
       "name": "Matthew D. Groves",

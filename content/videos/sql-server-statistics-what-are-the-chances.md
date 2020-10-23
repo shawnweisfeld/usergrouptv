@@ -11,6 +11,9 @@
   "vimeo": "179315850",
   "moreinfo": "http://www.sqlsaturday.com/550/Sessions/Details.aspx?sid=51214",
   "thumbnail": "https://i.vimeocdn.com/video/587192886_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/179315850.hd.mp4?s=c4de8fd5da6ec5c36e9f8f4d3fb2261ea079baa4&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/179315850.sd.mp4?s=7a341d3e977e3fd89ec7b8a57b7dab1649e0f626&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 187,
   "speakers": [
     {
       "name": "Lori Edwards",

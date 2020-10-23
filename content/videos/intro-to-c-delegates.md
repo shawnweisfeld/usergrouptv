@@ -11,6 +11,9 @@
   "vimeo": "229767665",
   "moreinfo": "http://schoolofdev.com/Tulsa/2017/Speakers/SeanWhitesell/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/650163496_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/229767665.hd.mp4?s=51431355fea5a853623b711b276155f77270c123&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/229767665.sd.mp4?s=a551a7aaa52dd8233fa9740cc4d379cc0eb8d4e6&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 217,
   "speakers": [
     {
       "name": "Sean Whitesell",

@@ -11,6 +11,9 @@
   "vimeo": "118593298",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=25339",
   "thumbnail": "https://i.vimeocdn.com/video/505665397_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/118593298.hd.mp4?s=f815491740a3b33b5b51b62c0f9ed5f46771c51c&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/118593298.sd.mp4?s=258585e8d1445efa86e711f093dfe66328ec7d7e&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 816,
   "speakers": [
     {
       "name": "Nancy Hidy Wilson",

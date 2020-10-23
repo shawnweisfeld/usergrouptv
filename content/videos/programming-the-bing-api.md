@@ -11,6 +11,9 @@
   "vimeo": "119593755",
   "moreinfo": "http://dallastechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/507039985_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/119593755.hd.mp4?s=6e22f4a9861fc4cd3118c1ecfef873ba4e93dd35&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/119593755.sd.mp4?s=c449223b657819290b846e6f520721f814eab4a0&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 668,
   "speakers": [
     {
       "name": "Miguel Castro",

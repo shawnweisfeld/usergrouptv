@@ -11,6 +11,9 @@
   "vimeo": "162054317",
   "moreinfo": "http://northdallas.net/meetings/building-micro-services-with-service-fabric/",
   "thumbnail": "https://i.vimeocdn.com/video/564428471_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/162054317.hd.mp4?s=069fab99afdf84075d9c60511359a975fe2f34ce&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/162054317.sd.mp4?s=4b58b22f5c670295f9c87e57139337bf54619eeb&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 847,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

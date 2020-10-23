@@ -11,6 +11,9 @@
   "vimeo": "271363666",
   "moreinfo": "http://www.sqlsaturday.com/734/Sessions/Details.aspx?sid=74059",
   "thumbnail": "https://i.vimeocdn.com/video/702645343_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/271363666.hd.mp4?s=8869e11d6382ab532840259310434e8b62ecbb31&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/271363666.sd.mp4?s=6009848557548998a8cddf1f2310c66134d9b47b&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 432,
   "speakers": [
     {
       "name": "Dave Bland",

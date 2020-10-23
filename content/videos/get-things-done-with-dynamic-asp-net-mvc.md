@@ -11,6 +11,9 @@
   "vimeo": "120048283",
   "moreinfo": "http://nddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/507719125_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/120048283.hd.mp4?s=f6b11b0ba9198385ee2d78dbf1a511805ac8dd10&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/120048283.sd.mp4?s=17275b99747bf7904c14a52b84c20faa69745330&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 772,
   "speakers": [
     {
       "name": "Amir Rajan",

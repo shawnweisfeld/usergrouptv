@@ -11,6 +11,9 @@
   "vimeo": "222136786",
   "moreinfo": "http://www.sqlsaturday.com/651/Sessions/Details.aspx?sid=64022",
   "thumbnail": "https://i.vimeocdn.com/video/640583720_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/222136786.hd.mp4?s=d676d403a7842a82f9e7b873c4aac3c40fcb87a5&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/222136786.sd.mp4?s=f53eb471e7c21871366078cf0640deb39ff4957e&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 207,
   "speakers": [
     {
       "name": "Vicky Harp",

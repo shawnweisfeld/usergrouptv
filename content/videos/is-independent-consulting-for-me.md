@@ -11,6 +11,9 @@
   "vimeo": "106368038",
   "moreinfo": "http://cactuss.org/cactuss-is-independent-consulting-for-me",
   "thumbnail": "https://i.vimeocdn.com/video/489458367_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106368038.hd.mp4?s=0e4a429028e852d34e44032a1e20b65d2e8c1399&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106368038.sd.mp4?s=e244ae9cd0d5fdf88bf7216118e34b9c52b55758&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 972,
   "speakers": [
     {
       "name": "Brian Moran",

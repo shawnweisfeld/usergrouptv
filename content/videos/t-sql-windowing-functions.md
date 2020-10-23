@@ -11,6 +11,9 @@
   "vimeo": "248137985",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/lzcdrmywqbzb/",
   "thumbnail": "https://i.vimeocdn.com/video/673576571_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/248137985.hd.mp4?s=bff31dbfd963657a4af21a33a385a887955e948b&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/248137985.sd.mp4?s=63804a7634624d3bafc73f79c887b25d7bc2b7dd&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 78,
   "speakers": [
     {
       "name": "Mike Burek",

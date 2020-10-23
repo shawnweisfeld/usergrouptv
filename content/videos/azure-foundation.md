@@ -9,6 +9,9 @@
   "vimeo": "215097953",
   "moreinfo": "https://www.eventbrite.com/e/global-azure-bootcamp-2017-austin-tx-tickets-33085810550#",
   "thumbnail": "https://i.vimeocdn.com/video/631739394_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/215097953.hd.mp4?s=02a152bb71b72d1468759609a4e3c91d9b9daac0&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/215097953.sd.mp4?s=bf7e4e9ff6f7afdb562a8c6a88576315a3307d77&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 248,
   "speakers": [
     {
       "name": "Jeff Border",

@@ -11,6 +11,9 @@
   "vimeo": "100978541",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=305&sessionid=21954",
   "thumbnail": "https://i.vimeocdn.com/video/482636565_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100978541.hd.mp4?s=e156276ad64d7b892387bc391a76abfd6de3d97e&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100978541.sd.mp4?s=e07a851ec8472f05cb6d2f4225f0a75e07cf5473&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 933,
   "speakers": [
     {
       "name": "Eric Mizell",

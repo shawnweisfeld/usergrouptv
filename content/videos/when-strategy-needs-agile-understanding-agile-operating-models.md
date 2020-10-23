@@ -11,6 +11,9 @@
   "vimeo": "271940995",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703370773_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/271940995.hd.mp4?s=40a18861bbfdbcdd1120a305ff00bc27480bd4df&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/271940995.sd.mp4?s=fde796514aa701438f9ae4e73299016720d0edd7&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 424,
   "speakers": [
     {
       "name": "Stacey Louie",

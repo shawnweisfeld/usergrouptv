@@ -11,6 +11,9 @@
   "vimeo": "139192202",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda",
   "thumbnail": "https://i.vimeocdn.com/video/534899703_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/139192202.hd.mp4?s=3966afb39386676929346b65917459bacf171846&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/139192202.sd.mp4?s=55b23d47583a8499c95758f98d608fff2c596667&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 802,
   "speakers": [
     {
       "name": "Stephen Rasey",

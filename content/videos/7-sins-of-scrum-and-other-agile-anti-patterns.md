@@ -11,6 +11,9 @@
   "vimeo": "292555828",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/728974211_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/292555828.hd.mp4?s=1377ebc867febf00a0629a88c42eb8cb6145264c&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/292555828.sd.mp4?s=0c1df1501b1cbadb6aa037b2b4ba7e5b204403a0&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 507,
   "speakers": [
     {
       "name": "Todd Little",

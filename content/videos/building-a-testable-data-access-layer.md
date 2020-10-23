@@ -11,6 +11,9 @@
   "vimeo": "113707065",
   "moreinfo": "http://dallas-csharp-sig.com",
   "thumbnail": "https://i.vimeocdn.com/video/499122139_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/113707065.hd.mp4?s=58328d0e9961f136a0f59fe2b51f4582b884c89c&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/113707065.sd.mp4?s=a31f4375c7a7295a6558a432571c7556ee26a291&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 699,
   "speakers": [
     {
       "name": "Todd Anglin",

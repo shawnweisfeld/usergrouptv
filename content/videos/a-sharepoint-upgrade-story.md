@@ -11,6 +11,9 @@
   "vimeo": "110065000",
   "moreinfo": "http://web.cspug.org",
   "thumbnail": "https://i.vimeocdn.com/video/494179649_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/110065000.hd.mp4?s=52d98cc5f17f5257e52f8f20b92b797d0a937022&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/110065000.sd.mp4?s=7e9edac3c668e7777b6a601733a48b09953265de&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 712,
   "speakers": [
     {
       "name": "Jim McFadden",

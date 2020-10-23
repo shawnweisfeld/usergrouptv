@@ -11,6 +11,9 @@
   "vimeo": "113704521",
   "moreinfo": "http://schoolofdev.com",
   "thumbnail": "https://i.vimeocdn.com/video/499118463_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/113704521.hd.mp4?s=0670d44cb0757e5781f63d0fc908e37d62650c42&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/113704521.sd.mp4?s=e2d79503065705913f74f19f5a60ded0713e3405&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 679,
   "speakers": [
     {
       "name": "Chris Patterson",

@@ -11,6 +11,9 @@
   "vimeo": "103637994",
   "moreinfo": "http://techfests.com/Tulsa/2014",
   "thumbnail": "https://i.vimeocdn.com/video/485935517_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/103637994.hd.mp4?s=acb7ef89aff7632a076fb9006e78b4fa4fab89b0&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/103637994.sd.mp4?s=3abcef8685cc3f7033391c9b42e5f9d6e76b243a&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 996,
   "speakers": [
     {
       "name": "Logan McLain",

@@ -11,6 +11,9 @@
   "vimeo": "100978913",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=305&sessionid=21962",
   "thumbnail": "https://i.vimeocdn.com/video/482637779_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100978913.hd.mp4?s=52ca671545ad5ae548081a78568b924135e920bc&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100978913.sd.mp4?s=90a3a6b08f9c245ec25c883290971c3a9e9afb3f&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 903,
   "speakers": [
     {
       "name": "Jeff Johnston",

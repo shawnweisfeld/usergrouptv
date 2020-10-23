@@ -11,6 +11,9 @@
   "vimeo": "271896877",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703312800_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/271896877.hd.mp4?s=15bf135e5c9e24c1ffe8ef86313dbefebad9aad3&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/271896877.sd.mp4?s=4ab4a896518cb337f0fd7f8947bfee273192384c&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 444,
   "speakers": [
     {
       "name": "Braz Brandt",

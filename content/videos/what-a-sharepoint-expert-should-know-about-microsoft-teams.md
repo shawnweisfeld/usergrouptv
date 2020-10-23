@@ -11,6 +11,9 @@
   "vimeo": "221684727",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/238961795/",
   "thumbnail": "https://i.vimeocdn.com/video/640017038_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/221684727.hd.mp4?s=a861d76d4ab121671c1566b87f7418c8e37be467&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/221684727.sd.mp4?s=73b215360dba0b0a9b2f8fe0b1472f285ff1ab75&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 261,
   "speakers": [
     {
       "name": "Richard diZerega",

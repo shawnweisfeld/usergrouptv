@@ -11,6 +11,9 @@
   "vimeo": "390488504",
   "moreinfo": "https://www.sqlsaturday.com/939/Sessions/Details.aspx?sid=99454",
   "thumbnail": "https://i.vimeocdn.com/video/854628797_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/390488504.hd.mp4?s=be91dd2345e897eb7803f0b002364c14c2d4430d&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/390488504.sd.mp4?s=ca395df753c7bff213321c366aa038bf755d31da&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 387,
   "speakers": [
     {
       "name": "Leslie Andrews",

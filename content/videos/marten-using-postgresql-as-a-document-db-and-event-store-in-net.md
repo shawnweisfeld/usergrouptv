@@ -11,6 +11,9 @@
   "vimeo": "279474997",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/252508675/",
   "thumbnail": "https://i.vimeocdn.com/video/712738961_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/279474997.hd.mp4?s=276d22bc304a6db678b030fee72a9603d7d8f7f7&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/279474997.sd.mp4?s=f8b025d72f9e87132728e8c28b6e619f0f174c7d&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 411,
   "speakers": [
     {
       "name": "Jeremy Miller",

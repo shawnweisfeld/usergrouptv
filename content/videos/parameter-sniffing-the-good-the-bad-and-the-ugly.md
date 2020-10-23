@@ -11,6 +11,9 @@
   "vimeo": "188471190",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/232423166/",
   "thumbnail": "https://i.vimeocdn.com/video/598533698_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/188471190.hd.mp4?s=d3ecf0678c1934f1532259c7976dfd6c76ed541d&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/188471190.sd.mp4?s=7979e98ea557adad973fd701e17f761233725e71&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 153,
   "speakers": [
     {
       "name": "Lance Tidwell",

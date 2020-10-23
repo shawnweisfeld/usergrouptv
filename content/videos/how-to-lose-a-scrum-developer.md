@@ -11,6 +11,9 @@
   "vimeo": "104230808",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486707782_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104230808.hd.mp4?s=485803b412283fd57e65ca348a9ffd5b892d99f9&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104230808.sd.mp4?s=c7a1ae90efe2d25808c3a7cba16eaece767cc835&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 1003,
   "speakers": [
     {
       "name": "Justin Self",

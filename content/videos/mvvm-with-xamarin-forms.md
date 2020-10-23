@@ -11,6 +11,9 @@
   "vimeo": "129422841",
   "moreinfo": "http://xamarin.com/dev-days",
   "thumbnail": "https://i.vimeocdn.com/video/520899654_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/129422841.hd.mp4?s=084fc5352de3caa739e34deb59b26bcaef25b9b3&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/129422841.sd.mp4?s=5b0f9cb860cc6e1d8ed9fba8b670db7143f293a3&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 806,
   "speakers": [
     {
       "name": "Adam Kemp",

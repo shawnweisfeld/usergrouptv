@@ -11,6 +11,9 @@
   "vimeo": "237560992",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660009212_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/237560992.hd.mp4?s=b02b6b0e6eb7601e796682304b5d09435bbc01a5&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/237560992.sd.mp4?s=c5cb464a388a0dc43984ed184f712898ec8916af&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 116,
   "speakers": [
     {
       "name": "Jon Robinson",

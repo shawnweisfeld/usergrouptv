@@ -12,6 +12,9 @@
   "vimeo": "106374548",
   "moreinfo": "http://www.dallas-csharp-sig.com/",
   "thumbnail": "https://i.vimeocdn.com/video/489467062_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106374548.hd.mp4?s=6bcf161bf32e64cf72fba2ca57c9bf6cede00e30&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106374548.sd.mp4?s=a285950b76a3c94e590a2103c39e050bf3052a8e&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 523,
   "speakers": [
     {
       "name": "Michael L Perry",

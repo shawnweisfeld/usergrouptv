@@ -11,6 +11,9 @@
   "vimeo": "450475486",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/272527029/",
   "thumbnail": "https://i.vimeocdn.com/video/944750558_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/450475486.hd.mp4?s=0d8f7eff89bdaa88fb1fe67a857979d84eb05b10&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/450475486.sd.mp4?s=61bc61a2e02eb208f8acb580a02ad2d4309d4d58&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 355,
   "speakers": [
     {
       "name": "Hannes Lowette",

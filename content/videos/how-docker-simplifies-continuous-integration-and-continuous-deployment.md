@@ -11,6 +11,9 @@
   "vimeo": "162498538",
   "moreinfo": "http://adnug.org/Home/april-11-2016-how-docker-simplifies-continuous-integration-and-continuous-deployment/",
   "thumbnail": "https://i.vimeocdn.com/video/564967059_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/162498538.hd.mp4?s=a2289a4fb66953cab6f2ed6a5005e0d2e7b676c4&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/162498538.sd.mp4?s=8b30482450d9d1bbbea10ddefbe02b23664f72fa&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 848,
   "speakers": [
     {
       "name": "Gabriel Schenker",

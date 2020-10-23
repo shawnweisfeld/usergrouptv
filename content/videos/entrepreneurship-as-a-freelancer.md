@@ -11,6 +11,9 @@
   "vimeo": "230330945",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650871867_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230330945.hd.mp4?s=6f61b9a14db0df818ba85965c1a4297625f02925&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230330945.sd.mp4?s=5306947b37a554a4bf350c772299a3e920870a10&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 70,
   "speakers": [
     {
       "name": "Chelle Honiker",

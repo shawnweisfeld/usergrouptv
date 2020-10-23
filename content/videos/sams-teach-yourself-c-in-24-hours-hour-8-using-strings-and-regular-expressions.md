@@ -11,6 +11,9 @@
   "vimeo": "114765632",
   "moreinfo": "http://ntpcug.org/",
   "thumbnail": "https://i.vimeocdn.com/video/500554314_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/114765632.hd.mp4?s=02f498c6bb5764ba2db5b591266f6d3a9b5495f7&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/114765632.sd.mp4?s=4c2486e72e51be27a857b944d4d98083e71a67b3&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 681,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

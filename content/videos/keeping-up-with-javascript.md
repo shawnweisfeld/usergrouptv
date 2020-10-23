@@ -11,6 +11,9 @@
   "vimeo": "108779548",
   "moreinfo": "http://www.dallastechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/492564822_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/108779548.hd.mp4?s=4936373af2c15ca0383523838bb045f981e770c2&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/108779548.sd.mp4?s=70bdc0ea7055af883ed0a3fed6d6facd372525a5&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 992,
   "speakers": [
     {
       "name": "Pete Hodgson",

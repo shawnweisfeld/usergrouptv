@@ -12,6 +12,9 @@
   "vimeo": "101659374",
   "moreinfo": "http://techfests.com/Tulsa/2013/Speakers/MarkRackley/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/483487899_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/101659374.hd.mp4?s=be2ec2b37ad2a5fcc02e39dfca8210e8b6a00747&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/101659374.sd.mp4?s=f0666facf0c0f99d4b3b0278892fcf5afd69df1f&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 954,
   "speakers": [
     {
       "name": "Mark Rackley",

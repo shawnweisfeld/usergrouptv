@@ -11,6 +11,9 @@
   "vimeo": "101661196",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=223&sessionid=16312",
   "thumbnail": "https://i.vimeocdn.com/video/483490517_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/101661196.hd.mp4?s=b3e887ea20a0807ccf5356a8a7a3a67ba130bccf&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/101661196.sd.mp4?s=db12086fb17822ee3d7f92a9c2e23c2e87947931&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 709,
   "speakers": [
     {
       "name": "Allen Smith",

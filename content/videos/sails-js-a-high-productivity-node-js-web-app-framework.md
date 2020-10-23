@@ -11,6 +11,9 @@
   "vimeo": "100516598",
   "moreinfo": "http://tulsaschoolofdev.com",
   "thumbnail": "https://i.vimeocdn.com/video/482027486_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100516598.hd.mp4?s=b50e63526c1e56679111f17459d6cc10cfb2e6e4&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100516598.sd.mp4?s=1c5711a37f8941211c797f43c8192c297c671061&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 915,
   "speakers": [
     {
       "name": "Brian Sullivan",

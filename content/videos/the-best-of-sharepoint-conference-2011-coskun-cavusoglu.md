@@ -11,6 +11,9 @@
   "vimeo": "110065177",
   "moreinfo": "http://web.cspug.org",
   "thumbnail": "https://i.vimeocdn.com/video/494180096_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/110065177.hd.mp4?s=51989cfe7eea506f24f7d8df739f3b28a9bacec7&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/110065177.sd.mp4?s=976d7a4447470792192c30ed41f70028c23c20be&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 742,
   "speakers": [
     {
       "name": "Coskun Cavusoglu",

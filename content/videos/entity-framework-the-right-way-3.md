@@ -11,6 +11,9 @@
   "vimeo": "105363894",
   "moreinfo": "http://dallas-csharp-sig.com",
   "thumbnail": "https://i.vimeocdn.com/video/488133647_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/105363894.hd.mp4?s=a6e5a11124f813144636b32a111b8ff9f751a9ed&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/105363894.sd.mp4?s=71a11287f0d17d2cddc2bbbb8be8a04887d4f439&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 528,
   "speakers": [
     {
       "name": "Tim Rayburn",

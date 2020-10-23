@@ -12,6 +12,9 @@
   "vimeo": "109122210",
   "moreinfo": "http://dallasasp.net/",
   "thumbnail": "https://i.vimeocdn.com/video/492995038_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/109122210.hd.mp4?s=787d89cec401223a94cb16599e23ba818ab08985&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/109122210.sd.mp4?s=8cde3090aeba51dbc8418133d937f79abd24554e&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 724,
   "speakers": [
     {
       "name": "Zain Naboulsi",

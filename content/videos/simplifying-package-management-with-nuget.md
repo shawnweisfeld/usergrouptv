@@ -11,6 +11,9 @@
   "vimeo": "108059894",
   "moreinfo": "http://fwdnug.com",
   "thumbnail": "https://i.vimeocdn.com/video/491651148_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/108059894.hd.mp4?s=ef42a0b93cd5c7b848f11481b3ad212557ea772b&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/108059894.sd.mp4?s=7fa09c3045a34d157ba1108758a9b296162aac85&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 563,
   "speakers": [
     {
       "name": "Casey Watson",

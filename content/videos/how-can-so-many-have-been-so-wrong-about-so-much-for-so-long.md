@@ -11,6 +11,9 @@
   "vimeo": "103660376",
   "moreinfo": "http://northdallas.net/meetings/how-can-so-many-have-been-so-wrong-about-so-much-for-so-long/",
   "thumbnail": "https://i.vimeocdn.com/video/485962451_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/103660376.hd.mp4?s=9ba0ffab129c7b9758eaf95c6a0457d8965169ef&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/103660376.sd.mp4?s=663061017abee6479f455af840854aa4ebb52e04&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 640,
   "speakers": [
     {
       "name": "Udi Dahan",

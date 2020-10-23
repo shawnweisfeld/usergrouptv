@@ -11,6 +11,9 @@
   "vimeo": "100467738",
   "moreinfo": "http://2014.cowtowntechroundup.com/Profile/d84644a5-8df8-44b4-b909-e76ff4a61737",
   "thumbnail": "https://i.vimeocdn.com/video/481964618_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100467738.hd.mp4?s=c88480b3679563029a067536a56e06f34c499b2d&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100467738.sd.mp4?s=73bd86d7f575ed3385122c5a3f12833b4640f63d&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 923,
   "speakers": [
     {
       "name": "Jim Lavin",

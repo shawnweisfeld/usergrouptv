@@ -11,6 +11,9 @@
   "vimeo": "113161871",
   "moreinfo": "http://dallas-csharp-sig.com",
   "thumbnail": "https://i.vimeocdn.com/video/498384880_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/113161871.hd.mp4?s=b04e90122c76d76361bd69ff0adee32465404fad&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/113161871.sd.mp4?s=af8bfd13586a90ff4efd7f4f0377f95436d9432e&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 659,
   "speakers": [
     {
       "name": "Casey Watson",

@@ -12,6 +12,9 @@
   "vimeo": "104887479",
   "moreinfo": "http://www.houstontechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/487544326_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104887479.hd.mp4?s=eda32752302403c452c5f9b5a60ee8462da5f8a3&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104887479.sd.mp4?s=ba7034add92a03172fc406324e5916a308f6cb15&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 565,
   "speakers": [
     {
       "name": "Ryan Riley",

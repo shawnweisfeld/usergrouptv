@@ -11,6 +11,9 @@
   "vimeo": "230191086",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650696325_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230191086.hd.mp4?s=f8ee0566a5a5b6319407f1824536781e260dbcdc&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230191086.sd.mp4?s=18da9e9a739aab8f63ef1136b8ecfeaa87dcff04&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 68,
   "speakers": [
     {
       "name": "Nicole Engard",

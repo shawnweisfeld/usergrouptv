@@ -12,6 +12,9 @@
   "vimeo": "102966605",
   "moreinfo": "http://northdallas.net/meetings/scaling-scrum-to-the-enterprise/",
   "thumbnail": "https://i.vimeocdn.com/video/485085521_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/102966605.hd.mp4?s=93875f447adf29f70f81fe8cc2459b57a8492720&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/102966605.sd.mp4?s=c58e9e36ce3836e453366ce5b1cb765bda959376&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 592,
   "speakers": [
     {
       "name": "Caleb Jenkins",

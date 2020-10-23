@@ -11,6 +11,9 @@
   "vimeo": "113196940",
   "moreinfo": "http://dallasxaml.com/",
   "thumbnail": "https://i.vimeocdn.com/video/498430913_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/113196940.hd.mp4?s=237a6105c50ab4e612bd99a190a9c737ee4c80f1&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/113196940.sd.mp4?s=e57ba8b575fb1ef3e699649db2a3c52eb5c30d71&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 652,
   "speakers": [
     {
       "name": "Vince Blasberg",

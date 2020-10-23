@@ -11,6 +11,9 @@
   "vimeo": "104231528",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486708620_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104231528.hd.mp4?s=386ab8487c378003b10566cedbadb03b840a54b7&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104231528.sd.mp4?s=3eb44e2d68b9f71e0363d9047e4b9e80e8606da7&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 1006,
   "speakers": [
     {
       "name": "Heather Rainey",

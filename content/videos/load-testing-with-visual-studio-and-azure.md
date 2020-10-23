@@ -12,6 +12,9 @@
   "vimeo": "120045993",
   "moreinfo": "http://www.meetup.com/azureaustin/events/219989464/",
   "thumbnail": "https://i.vimeocdn.com/video/507715760_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/120045993.hd.mp4?s=b7321fc13a4d5fd721d2ebb18788b9d31c5844bd&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/120045993.sd.mp4?s=36385bfc95c39255c7308766ef17095415160d45&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 825,
   "speakers": [
     {
       "name": "Andrew Siemer",

@@ -11,6 +11,9 @@
   "vimeo": "114766369",
   "moreinfo": "http://fwdnug.com/",
   "thumbnail": "https://i.vimeocdn.com/video/500555308_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/114766369.hd.mp4?s=d6f3ab8aed104cd29999be4fb4ffdfc8909ac02f&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/114766369.sd.mp4?s=af93747c9a7b701b2d3abff96f5acfec8c959696&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 684,
   "speakers": [
     {
       "name": "Cory Smith",

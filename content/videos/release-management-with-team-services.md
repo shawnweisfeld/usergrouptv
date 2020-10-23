@@ -11,6 +11,9 @@
   "vimeo": "178890276",
   "moreinfo": "http://techfests.com/Tulsa/2016/Speakers/PaulHacker/",
   "thumbnail": "https://i.vimeocdn.com/video/586639846_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/178890276.hd.mp4?s=40516c40e9ffbb5e431987b24c25213806909a05&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/178890276.sd.mp4?s=5322b47994ec339caa1cf1bda4e1142da75fb5b7&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 178,
   "speakers": [
     {
       "name": "Paul Hacker",

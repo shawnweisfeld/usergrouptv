@@ -11,6 +11,9 @@
   "vimeo": "276869153",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=83389",
   "thumbnail": "https://i.vimeocdn.com/video/709492813_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/276869153.hd.mp4?s=e1cad51d3f5d533ad76365622f48c3db5ab7499f&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/276869153.sd.mp4?s=fe019791db7cdaca614c1e61de969f1f8d081cb5&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 395,
   "speakers": [
     {
       "name": "Eric Huckabay",

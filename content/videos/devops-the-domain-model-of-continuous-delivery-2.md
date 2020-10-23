@@ -11,6 +11,9 @@
   "vimeo": "274922558",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/251462529/",
   "thumbnail": "https://i.vimeocdn.com/video/707075239_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/274922558.hd.mp4?s=e4c2fe28de800555ab769d511fbcf546a70c664a&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/274922558.sd.mp4?s=3050a883ff814185d83fdd551bce23ca586f8c20&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 438,
   "speakers": [
     {
       "name": "Jeffrey Palermo",

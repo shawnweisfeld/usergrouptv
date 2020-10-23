@@ -11,6 +11,9 @@
   "vimeo": "354514652",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/lsljlmyzlbsb/",
   "thumbnail": "https://i.vimeocdn.com/video/807051205_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/354514652.hd.mp4?s=2764af2d53a65348ea06e60a7a7c3fc900ed93c9&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/354514652.sd.mp4?s=14ea8ead1d0dfbca33cf2885e885815efa9544c4&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 281,
   "speakers": [
     {
       "name": "Kerry Lambert",

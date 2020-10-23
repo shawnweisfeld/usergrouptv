@@ -11,6 +11,9 @@
   "vimeo": "276869922",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=77858",
   "thumbnail": "https://i.vimeocdn.com/video/709493839_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/276869922.hd.mp4?s=8fa447bb4ee5c4f033151bfcc7d23f92ed90eaec&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/276869922.sd.mp4?s=0a91c2687ac8cadc7d064631d992546e750eb525&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 396,
   "speakers": [
     {
       "name": "Mike Byrd",

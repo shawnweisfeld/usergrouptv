@@ -11,6 +11,9 @@
   "vimeo": "221366196",
   "moreinfo": "http://adnug.org/Home/june-12-2017-using-mongodb-with-net/",
   "thumbnail": "https://i.vimeocdn.com/video/639611979_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/221366196.hd.mp4?s=192e618350da3c1294dda73e53bf0f6cbec9d9f3&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/221366196.sd.mp4?s=80dace2c487d720d1e394ab6a04262988a09af38&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 260,
   "speakers": [
     {
       "name": "Joseph Fluckiger",

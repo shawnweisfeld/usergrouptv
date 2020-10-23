@@ -13,6 +13,9 @@
   "vimeo": "124960669",
   "moreinfo": "http://adnug.org/Home/april-13-2015-event-sourcing/",
   "thumbnail": "https://i.vimeocdn.com/video/514882019_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/124960669.hd.mp4?s=2a6a777defd254f663b60a718f7418d0e0ab10a7&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/124960669.sd.mp4?s=411bff913f81180e77fadd274f715ac2dd8f0abf&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 829,
   "speakers": [
     {
       "name": "Raif Harik",

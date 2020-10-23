@@ -11,6 +11,9 @@
   "vimeo": "419757110",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/269959063/",
   "thumbnail": "https://i.vimeocdn.com/video/894750510_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/419757110.hd.mp4?s=e02499a037bfe455b5dfc5eca19a268dddf8370b&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/419757110.sd.mp4?s=b8f58a46df805e1806842d3df6a5250af31a4c29&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 357,
   "speakers": [
     {
       "name": "Reza Rad",

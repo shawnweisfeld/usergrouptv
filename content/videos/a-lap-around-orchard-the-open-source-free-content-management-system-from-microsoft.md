@@ -11,6 +11,9 @@
   "vimeo": "110771397",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/495139148_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/110771397.hd.mp4?s=fada1601661b1f1603aaff8e413d591fd31cd0cb&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/110771397.sd.mp4?s=467af28188701d379e12a2eac90ba50622ede641&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 754,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

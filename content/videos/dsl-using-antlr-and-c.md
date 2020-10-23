@@ -11,6 +11,9 @@
   "vimeo": "151507058",
   "moreinfo": "http://adnug.org/Home/january-11-2016-dsl-using-antlr-and-c/",
   "thumbnail": "https://i.vimeocdn.com/video/551268339_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/151507058.hd.mp4?s=4337f68652142999411ae39af74228d786c0eba9&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/151507058.sd.mp4?s=fe280d8460ac6ce7b46f291208e2ce0519965cf8&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 844,
   "speakers": [
     {
       "name": "Brock Reeve",

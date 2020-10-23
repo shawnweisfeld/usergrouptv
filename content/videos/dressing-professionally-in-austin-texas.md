@@ -11,6 +11,9 @@
   "vimeo": "230191590",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650697241_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230191590.hd.mp4?s=60541e0ed431a81a79eec1ceff01757d48c42478&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230191590.sd.mp4?s=1320fae7017297e8f8dbea4c1ff9ce3832b7e87c&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 65,
   "speakers": [
     {
       "name": "Mia Johns",

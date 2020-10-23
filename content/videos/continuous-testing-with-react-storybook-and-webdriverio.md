@@ -11,6 +11,9 @@
   "vimeo": "237608830",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660062710_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/237608830.hd.mp4?s=73636d7156f958bb5d2c40a6ed4e4cd9eef99b20&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/237608830.sd.mp4?s=26b7ff8d5b64bcd8dd7a8f915506e6bc014a9d25&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 121,
   "speakers": [
     {
       "name": "Josh Cypher",

@@ -11,6 +11,9 @@
   "vimeo": "318521502",
   "moreinfo": "https://www.meetup.com/azureaustin/events/258127922/",
   "thumbnail": "https://i.vimeocdn.com/video/760925456_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/318521502.hd.mp4?s=8389f36148bb95d3575865fbfe3a051c3f8039bb&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/318521502.sd.mp4?s=9b4e6a24a9fa484dff9fc2737402d4798576a8fc&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 483,
   "speakers": [
     {
       "name": "Tommy Falgout",

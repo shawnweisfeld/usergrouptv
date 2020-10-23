@@ -11,6 +11,9 @@
   "vimeo": "271950154",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703383565_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/271950154.hd.mp4?s=1149122d866e1109d0e6570742049861244e89ef&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/271950154.sd.mp4?s=560dae51afff6a927b37ecc8a83a43f8efd2d51f&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 453,
   "speakers": [
     {
       "name": "Ben Rogers",

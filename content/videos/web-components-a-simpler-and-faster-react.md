@@ -11,6 +11,9 @@
   "vimeo": "237568244",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660020880_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/237568244.hd.mp4?s=c1c55e2234736100f627be238c7fdafe96f5dc7c&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/237568244.sd.mp4?s=e2559471c1f5857a5407e8c4e065ebe94c374c6e&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 29,
   "speakers": [
     {
       "name": "Chris Lorenzo",

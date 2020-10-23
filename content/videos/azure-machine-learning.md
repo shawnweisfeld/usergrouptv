@@ -11,6 +11,9 @@
   "vimeo": "122661656",
   "moreinfo": "http://www.meetup.com/azureaustin/events/220807679/",
   "thumbnail": "https://i.vimeocdn.com/video/511724609_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/122661656.hd.mp4?s=48212fc4bbf82688bade5a2a355ce8c7c46e37e0&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/122661656.sd.mp4?s=a132530a6a151b72076f76b868f12182ae53781b&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 828,
   "speakers": [
     {
       "name": "David Walker",

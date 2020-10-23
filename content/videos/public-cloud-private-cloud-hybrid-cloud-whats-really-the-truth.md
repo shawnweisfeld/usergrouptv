@@ -11,6 +11,9 @@
   "vimeo": "111339410",
   "moreinfo": "http://dallastechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/495920372_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/111339410.hd.mp4?s=db6a0ab6210733e18d8f58a02105952f37462837&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/111339410.sd.mp4?s=21200f139d46f0cc0a4e224f40c8d72033b6d54f&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 671,
   "speakers": [
     {
       "name": "John Weston",

@@ -11,6 +11,9 @@
   "vimeo": "390482601",
   "moreinfo": "https://www.sqlsaturday.com/939/Sessions/Details.aspx?sid=100046",
   "thumbnail": "https://i.vimeocdn.com/video/854620500_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/390482601.hd.mp4?s=a4b1407fc26a016245087675676ad7cc27801e8b&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/390482601.sd.mp4?s=4e743409c87d70269a959600679b8d80435b7201&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 334,
   "speakers": [
     {
       "name": "Ginger Grant",

@@ -11,6 +11,9 @@
   "vimeo": "266017794",
   "moreinfo": "https://global.azurebootcamp.net/locations/gobal-azure-boot-camp-2018-austin-tx/",
   "thumbnail": "https://i.vimeocdn.com/video/696169887_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/266017794.hd.mp4?s=dfdc2713143dc4528ed5e6b91625ffe51109773c&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/266017794.sd.mp4?s=93145a77191106e5f4eafe006fb509987b180c84&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 91,
   "speakers": [
     {
       "name": "Sucharit Reddy",

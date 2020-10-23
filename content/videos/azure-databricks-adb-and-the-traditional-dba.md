@@ -11,6 +11,9 @@
   "vimeo": "348360180",
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=93870",
   "thumbnail": "https://i.vimeocdn.com/video/798963741_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/348360180.hd.mp4?s=3e08abcb49366c41794a2102786412889f49287f&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/348360180.sd.mp4?s=f11e1db06108de5fe2ce5b15f89e1a688c5210d7&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 275,
   "speakers": [
     {
       "name": "Rodney Landrum",

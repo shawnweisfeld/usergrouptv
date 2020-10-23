@@ -11,6 +11,9 @@
   "vimeo": "333004266",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/fnxhcqyzgbvb/",
   "thumbnail": "https://i.vimeocdn.com/video/778862340_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/333004266.hd.mp4?s=c15f3dc3e835566522b1b688fc90a5cfe538780d&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/333004266.sd.mp4?s=f9d072980e0a552a0bc538bb4fad3847cb0af329&profile_id=139&oauth2_token_id=20985841",
+  "recordingID": 300,
   "speakers": [
     {
       "name": "John Tran",

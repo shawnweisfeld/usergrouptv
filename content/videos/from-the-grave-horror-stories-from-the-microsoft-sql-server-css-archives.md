@@ -11,6 +11,9 @@
   "vimeo": "276874932",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=76993",
   "thumbnail": "https://i.vimeocdn.com/video/709500014_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/276874932.hd.mp4?s=2502731c00b9c90df4965437537f5dd5e8c84e45&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/276874932.sd.mp4?s=cfb920ccf70bcca801d4d497b9b2a44092250b27&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 408,
   "speakers": [
     {
       "name": "Franklin Gamboa",

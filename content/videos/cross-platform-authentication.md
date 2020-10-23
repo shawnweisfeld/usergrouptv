@@ -12,6 +12,9 @@
   "vimeo": "145722349",
   "moreinfo": "http://www.meetup.com/DallasNETUG/events/226419077/",
   "thumbnail": "https://i.vimeocdn.com/video/543955534_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/145722349.hd.mp4?s=8aa38af0fb78f4dbc7f136e27b5df5cc40fdd163&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/145722349.sd.mp4?s=c152f7980e26f67525226fe7b37433fd1f584542&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 841,
   "speakers": [
     {
       "name": "David Powell",

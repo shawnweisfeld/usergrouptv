@@ -11,6 +11,9 @@
   "vimeo": "333236027",
   "moreinfo": "https://www.meetup.com/azureaustin/events/258070696/",
   "thumbnail": "https://i.vimeocdn.com/video/779161291_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/333236027.hd.mp4?s=3db9ba1f675126fa8876e944aa9efecd4e246064&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/333236027.sd.mp4?s=3cde3c2bdaa6899e78f4287443762f818e5fcdff&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 307,
   "speakers": [
     {
       "name": "Reddy Sucharit",

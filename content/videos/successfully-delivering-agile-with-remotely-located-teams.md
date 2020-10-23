@@ -11,6 +11,9 @@
   "vimeo": "229798045",
   "moreinfo": "http://schoolofdev.com/Tulsa/2017/Speakers/DerekPerry/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/650202913_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/229798045.hd.mp4?s=2424367bb3645119edd71853baf23e9d97b3c0ae&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/229798045.sd.mp4?s=5b21c106f517cea59e65a7e00845cf641eb077e0&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 219,
   "speakers": [
     {
       "name": "Derek Perry",

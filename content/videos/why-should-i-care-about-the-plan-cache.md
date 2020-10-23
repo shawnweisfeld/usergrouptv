@@ -11,6 +11,9 @@
   "vimeo": "179315221",
   "moreinfo": "http://www.sqlsaturday.com/550/Sessions/Details.aspx?sid=52706",
   "thumbnail": "https://i.vimeocdn.com/video/587192028_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/179315221.hd.mp4?s=75540463ec2e581e453f162c7503fa61baa7d53a&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/179315221.sd.mp4?s=994d0627f052dd5b95073a9f66df0e2b315423ea&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 185,
   "speakers": [
     {
       "name": "Rick Lowe",

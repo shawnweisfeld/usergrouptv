@@ -12,6 +12,9 @@
   "vimeo": "115131312",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/501052066_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/115131312.hd.mp4?s=391119abaf41f9bfc91dd2f91f36ea476946bdcb&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/115131312.sd.mp4?s=6916fc2b40e412cbde71daa5d1a9919640f62e9a&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 6,
   "speakers": [
     {
       "name": "Claudio Lassala",

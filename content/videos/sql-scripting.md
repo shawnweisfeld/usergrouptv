@@ -11,6 +11,9 @@
   "vimeo": "107457573",
   "moreinfo": "http://lrtechfest.com/speakers#randy-walker",
   "thumbnail": "https://i.vimeocdn.com/video/490859944_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/107457573.hd.mp4?s=1349bed45e64fbf567b46b2142a7768bf22e18d3&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/107457573.sd.mp4?s=bde4b398c75e6007e9e4e4a607f38b6ee85454b5&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 995,
   "speakers": [
     {
       "name": "Randy Walker",

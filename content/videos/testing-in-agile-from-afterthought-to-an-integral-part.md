@@ -11,6 +11,9 @@
   "vimeo": "292555169",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/728973418_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/292555169.hd.mp4?s=7299694c648d4e9e2dd3b03656b898b995afebac&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/292555169.sd.mp4?s=287b286398050ee55e2fddd8530e151786b5cdd3&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 470,
   "speakers": [
     {
       "name": "Claudio Lassala",

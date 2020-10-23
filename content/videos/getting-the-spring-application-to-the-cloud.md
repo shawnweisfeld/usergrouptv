@@ -12,6 +12,9 @@
   "vimeo": "113159018",
   "moreinfo": "http://dallastechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/498381085_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/113159018.hd.mp4?s=450613c4c974a8128fd58a5e11a337e1b3ad6ec9&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/113159018.sd.mp4?s=57e7cec3ba380b37e9f79ec467c8466a32c96e11&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 667,
   "speakers": [
     {
       "name": "Andrew Rubalcaba",

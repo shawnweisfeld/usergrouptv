@@ -11,6 +11,9 @@
   "vimeo": "239089043",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/661964482_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/239089043.hd.mp4?s=889daabc0e38fc065ebecc8b60ea6bb51d052748&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/239089043.sd.mp4?s=cd000ce25eb858470e3ef1457da6c55d3e2e8576&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 126,
   "speakers": [
     {
       "name": "Mark Wilkinson",

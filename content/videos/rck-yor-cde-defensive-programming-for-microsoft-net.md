@@ -11,6 +11,9 @@
   "vimeo": "469023195",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/273670091/",
   "thumbnail": "https://i.vimeocdn.com/video/976577166_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/469023195.hd.mp4?s=ff6c6797fe78ce9e0ca9e6549631cbcaa3fadfe8&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/469023195.sd.mp4?s=9ae4f5c8fdc0da36ec071c731f7f0b3cbdf402b7&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 1037,
   "speakers": [
     {
       "name": "David McCarter",

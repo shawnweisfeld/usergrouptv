@@ -11,6 +11,9 @@
   "vimeo": "363306862",
   "moreinfo": "https://www.joomladaytexas.com/",
   "thumbnail": "https://i.vimeocdn.com/video/818413689_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/363306862.hd.mp4?s=85ebfdcdb90ac3100f863621d5b55ca110603fcb&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/363306862.sd.mp4?s=d91bcd74654dd757d7c35cc2a2cb462ee58a8cba&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 286,
   "speakers": [
     {
       "name": "Robbie Adair",

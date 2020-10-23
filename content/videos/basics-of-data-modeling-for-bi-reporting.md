@@ -11,6 +11,9 @@
   "vimeo": "390484488",
   "moreinfo": "https://www.sqlsaturday.com/939/Sessions/Details.aspx?sid=101582",
   "thumbnail": "https://i.vimeocdn.com/video/854623065_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/390484488.hd.mp4?s=bcb6364abe98be0f9597cc708c4bc93f66c50182&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/390484488.sd.mp4?s=8f30859e5583ec33b3c45067c541c1b6eecd16ed&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 330,
   "speakers": [
     {
       "name": "Michael McKinley",

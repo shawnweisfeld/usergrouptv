@@ -12,6 +12,9 @@
   "vimeo": "103659784",
   "moreinfo": "http://www.ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/485961858_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/103659784.hd.mp4?s=eaf0830a1bd0efd41a2c4860f7df96a0b41e40b6&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/103659784.sd.mp4?s=5c75b4833cc5eaec8c52684153905e985f7c42ec&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 638,
   "speakers": [
     {
       "name": "Chris Koenig",

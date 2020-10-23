@@ -12,6 +12,9 @@
   "vimeo": "105367618",
   "moreinfo": "http://techfests.com/NWA/2012",
   "thumbnail": "https://i.vimeocdn.com/video/488138475_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/105367618.hd.mp4?s=ca735a9297615d910d6a4481e1c6b3a8817333e5&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/105367618.sd.mp4?s=3801fd829b30ab71d0ad1fbc73bfe1a918e63fbb&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 539,
   "speakers": [
     {
       "name": "Jay Smith",

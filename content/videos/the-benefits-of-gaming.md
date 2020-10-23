@@ -11,6 +11,9 @@
   "vimeo": "276873451",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=82868",
   "thumbnail": "https://i.vimeocdn.com/video/709498227_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/276873451.hd.mp4?s=df645d00e3f4ff082d93eda39489be599c91ab2c&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/276873451.sd.mp4?s=23023db4c9d976c2a121533e1a15bd3973028d58&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 405,
   "speakers": [
     {
       "name": "Robert Tidwell",

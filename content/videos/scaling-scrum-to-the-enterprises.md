@@ -11,6 +11,9 @@
   "vimeo": "111927352",
   "moreinfo": "http://www.agiledotnet.com",
   "thumbnail": "https://i.vimeocdn.com/video/496721608_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/111927352.hd.mp4?s=7d3967dce340989e2a1ed0d39d2dcc79060360a0&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/111927352.sd.mp4?s=bae0656e16669f118fcc67771d50eb8c89d8cfe4&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 556,
   "speakers": [
     {
       "name": "Caleb Jenkins",

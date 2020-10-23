@@ -11,6 +11,9 @@
   "vimeo": "100467735",
   "moreinfo": "http://2014.cowtowntechroundup.com/Profile/9024c3c9-3b9a-4fbb-8b12-40f971d9554a",
   "thumbnail": "https://i.vimeocdn.com/video/481964631_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100467735.hd.mp4?s=ece35a594502f40a41d92c847cd2be57e6fbf31d&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100467735.sd.mp4?s=658b89848f324e293969bf8dbfdb2f1cece8014e&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 925,
   "speakers": [
     {
       "name": "Adam Hill",

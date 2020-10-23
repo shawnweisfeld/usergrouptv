@@ -11,6 +11,9 @@
   "vimeo": "104883506",
   "moreinfo": "http://www.houstontechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/487539388_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104883506.hd.mp4?s=e047c3a00d487c056168563e047990cc720db75a&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104883506.sd.mp4?s=098540b3518526742b0b739a75e22f44b4d8aeae&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 618,
   "speakers": [
     {
       "name": "Jonathan Birkholz",

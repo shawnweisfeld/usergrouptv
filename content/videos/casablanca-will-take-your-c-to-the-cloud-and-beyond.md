@@ -12,6 +12,9 @@
   "vimeo": "103660011",
   "moreinfo": "http://www.houstontechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/485962076_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/103660011.hd.mp4?s=cf06e7f1897d6987906bd08f3ec10919f450e792&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/103660011.sd.mp4?s=12e32fe9e6492e0c299839b6602f005887e77ad4&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 583,
   "speakers": [
     {
       "name": "David Cravey",

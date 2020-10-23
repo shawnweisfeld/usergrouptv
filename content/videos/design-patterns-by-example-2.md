@@ -11,6 +11,9 @@
   "vimeo": "110774982",
   "moreinfo": "http://www.houstontechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/495143957_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/110774982.hd.mp4?s=211224b8d5d13795353c765ff91cf5835b713521&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/110774982.sd.mp4?s=41472c1964bec659d340b157519352d0655edd62&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 766,
   "speakers": [
     {
       "name": "Rob Vettor",

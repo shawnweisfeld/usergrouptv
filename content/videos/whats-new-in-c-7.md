@@ -11,6 +11,9 @@
   "vimeo": "216611448",
   "moreinfo": "http://adnug.org/Home/may-8-2017-whats-new-in-c-7/",
   "thumbnail": "https://i.vimeocdn.com/video/633620291_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/216611448.hd.mp4?s=d82771adc0f3423ad3b2c378ec92b9ce36650a6b&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/216611448.sd.mp4?s=8ea0d6411d0aeab6b44b6c0623e8e83c8e313861&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 254,
   "speakers": [
     {
       "name": "Reaz Haq",

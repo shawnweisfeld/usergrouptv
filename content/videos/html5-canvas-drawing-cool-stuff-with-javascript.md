@@ -12,6 +12,9 @@
   "vimeo": "103658367",
   "moreinfo": "http://northdallas.net/meetings/html5-canvas-drawing-cool-stuff-with-javascript/",
   "thumbnail": "https://i.vimeocdn.com/video/485959983_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/103658367.hd.mp4?s=d6dfe059d926c4c4c133718edd3398501498d2a0&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/103658367.sd.mp4?s=8951f60c7ed0a3d1721cdf427269a01780a5bffb&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 634,
   "speakers": [
     {
       "name": "Eric Sowell",

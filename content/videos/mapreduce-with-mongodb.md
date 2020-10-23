@@ -11,6 +11,9 @@
   "vimeo": "105366661",
   "moreinfo": "http://techfests.com/NWA/2012",
   "thumbnail": "https://i.vimeocdn.com/video/488137301_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/105366661.hd.mp4?s=9ec38acf9d53e75aad21495cbaea47fccc6545c8&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/105366661.sd.mp4?s=439747600e5a27b675a4fc1d982643ed3b126c89&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 533,
   "speakers": [
     {
       "name": "John Lockwood",

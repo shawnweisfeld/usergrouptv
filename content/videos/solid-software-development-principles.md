@@ -11,6 +11,9 @@
   "vimeo": "120046616",
   "moreinfo": "http://sqlconnections.org/",
   "thumbnail": "https://i.vimeocdn.com/video/507716738_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/120046616.hd.mp4?s=c79f31ba1b52ed95c88894b84c52903f2621e068&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/120046616.sd.mp4?s=3b541fa966a4f98cc5c2569a9ebdf5c32d77480d&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 673,
   "speakers": [
     {
       "name": "Michael Kappel",

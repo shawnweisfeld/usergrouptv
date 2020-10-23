@@ -11,6 +11,9 @@
   "vimeo": "295070692",
   "moreinfo": "https://www.devfestweekend.com/schedule",
   "thumbnail": "https://i.vimeocdn.com/video/732130362_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/295070692.hd.mp4?s=7d45603cd4882f07b9595117ec7e5ca03f27e3af&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/295070692.sd.mp4?s=eede610b0f53e21dae28d2eb889cb52fceba4d37&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 466,
   "speakers": [
     {
       "name": "Ron Dagdag",

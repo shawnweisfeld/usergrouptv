@@ -11,6 +11,9 @@
   "vimeo": "119597354",
   "moreinfo": "http://northdallas.net",
   "thumbnail": "https://i.vimeocdn.com/video/507046778_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/119597354.hd.mp4?s=fbe8ffdd6eb18fa7361a8014d949214c8c2849ea&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/119597354.sd.mp4?s=43f8e7dfc3ba756aa8341dba94ade759848d83b2&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 657,
   "speakers": [
     {
       "name": "David Penton",

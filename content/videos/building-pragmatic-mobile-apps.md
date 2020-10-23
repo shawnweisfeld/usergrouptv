@@ -11,6 +11,9 @@
   "vimeo": "231057931",
   "moreinfo": "http://adnug.org/Home/august-14-2017-building-pragmatic-mobile-apps/",
   "thumbnail": "https://i.vimeocdn.com/video/651775892_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/231057931.hd.mp4?s=ca77f4fc82b4339e6b9a29647e6aa7bd7050433d&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/231057931.sd.mp4?s=46754692df02ca01578fd6bdaa2b969ed8292b61&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 18,
   "speakers": [
     {
       "name": "Yogi Aradhye",

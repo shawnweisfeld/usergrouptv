@@ -14,6 +14,9 @@
   "vimeo": "384090253",
   "moreinfo": "https://www.meetup.com/azureaustin/events/267114666/",
   "thumbnail": "https://i.vimeocdn.com/video/845729821_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/384090253.hd.mp4?s=a77550b46e75ded679cfa2d2e513be9e427610c6&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/384090253.sd.mp4?s=ebc7038544f08432d07de600c53d50fb15b06431&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 385,
   "speakers": [
     {
       "name": "Sowmyan Soman Chullikkattil",

@@ -11,6 +11,9 @@
   "vimeo": "230192126",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650697719_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230192126.hd.mp4?s=4bda9832f5cd3b4b66bc18ca251078dd70b64b59&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230192126.sd.mp4?s=97500ef25fa72d388ba058a6d9bcdb494f8cdbb7&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 60,
   "speakers": [
     {
       "name": "Samantha Needham",

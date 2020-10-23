@@ -11,6 +11,9 @@
   "vimeo": "100981293",
   "moreinfo": "http://adnug.org/Home/march-10-2013-fiddler/",
   "thumbnail": "https://i.vimeocdn.com/video/482639988_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100981293.hd.mp4?s=5893654dc154ab737cefcf1504be5a8bde6453bc&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100981293.sd.mp4?s=955297aec449c6415b8e4d3c1f10502f8b5d07de&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 961,
   "speakers": [
     {
       "name": "Eric Lawrence",

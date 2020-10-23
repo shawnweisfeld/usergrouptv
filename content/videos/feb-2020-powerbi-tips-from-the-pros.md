@@ -11,6 +11,9 @@
   "vimeo": "393489595",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/267226758/",
   "thumbnail": "https://i.vimeocdn.com/video/859011285_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/393489595.hd.mp4?s=22f29095552dc5e8657b1157a9a9ce09b78cb410&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/393489595.sd.mp4?s=9ffb1462b051a7dd0195a74154e1a7b65badbbcc&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 336,
   "speakers": [
     {
       "name": "Matthew Floyd",

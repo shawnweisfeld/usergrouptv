@@ -12,6 +12,9 @@
   "vimeo": "458588442",
   "moreinfo": "https://www.meetup.com/azureaustin/events/272870898/",
   "thumbnail": "https://i.vimeocdn.com/video/958647865_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/458588442.hd.mp4?s=21b24c6f0749059d7a94c854a48f2dc8abe17936&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/458588442.sd.mp4?s=2bb116646e89ca9d9136dff6a19fa651bcc785b5&profile_id=139&oauth2_token_id=20985841",
+  "recordingID": 1031,
   "speakers": [
     {
       "name": "Aaron Lieberman",

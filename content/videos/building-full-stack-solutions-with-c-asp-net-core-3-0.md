@@ -11,6 +11,9 @@
   "vimeo": "354514510",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/263857075/",
   "thumbnail": "https://i.vimeocdn.com/video/807050783_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/354514510.hd.mp4?s=88c1f9213dccf7e5531618f1ab8b377a43867315&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/354514510.sd.mp4?s=bc75145315ab40d94e3256982c57461cb38bbebb&profile_id=139&oauth2_token_id=20985841",
+  "recordingID": 280,
   "speakers": [
     {
       "name": "Scott Dockendorf",

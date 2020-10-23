@@ -11,6 +11,9 @@
   "vimeo": "287307376",
   "moreinfo": "http://www.sqlsaturday.com/794/Sessions/Details.aspx?sid=83759",
   "thumbnail": "https://i.vimeocdn.com/video/722418765_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/287307376.hd.mp4?s=2a550cb612f3b430211b21804ed2bf900d15cabd&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/287307376.sd.mp4?s=314a773af4acc10e2ac25239e9dd3f3295023d80&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 498,
   "speakers": [
     {
       "name": "Ben Miller",

@@ -11,6 +11,9 @@
   "vimeo": "111339940",
   "moreinfo": "http://dallastechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/495920990_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/111339940.hd.mp4?s=b95b608c29814ae645b686a0f155533bb645aa09&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/111339940.sd.mp4?s=bd70568fa151f64349f3a057a7256f9596460712&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 670,
   "speakers": [
     {
       "name": "Eric Sowell",

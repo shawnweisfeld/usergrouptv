@@ -13,6 +13,9 @@
   "vimeo": "110774897",
   "moreinfo": "http://www.houstontechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/495143819_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/110774897.hd.mp4?s=fb130a22f39a8b42e67fb645e03181e6fdc531b0&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/110774897.sd.mp4?s=450b08d8f13f9f4dc98bebc3a5a617613116edb7&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 765,
   "speakers": [
     {
       "name": "Jared Bienz",

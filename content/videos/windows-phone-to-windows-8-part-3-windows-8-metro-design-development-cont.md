@@ -11,6 +11,9 @@
   "vimeo": "108062548",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/491654343_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/108062548.hd.mp4?s=9d56ca048bc1375fa832d9a36ea7f48faec30d24&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/108062548.sd.mp4?s=f21e5142ddc6ab5edecd6ca6e07e6241951177e7&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 577,
   "speakers": [
     {
       "name": "Jared Bienz",

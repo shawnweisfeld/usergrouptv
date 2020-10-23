@@ -11,6 +11,9 @@
   "vimeo": "115130985",
   "moreinfo": "http://dallasasp.net",
   "thumbnail": "https://i.vimeocdn.com/video/501051612_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/115130985.hd.mp4?s=b41da7dfa10ec30ac2caa555c381abf521237acf&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/115130985.sd.mp4?s=7daa4169c37ebb36fa81b43d4b4c7ffcde0ddd9d&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 3,
   "speakers": [
     {
       "name": "Chris Koenig",

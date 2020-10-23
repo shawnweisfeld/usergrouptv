@@ -13,6 +13,9 @@
   "vimeo": "105364843",
   "moreinfo": "http://www.meetup.com/HTML5-User-Group",
   "thumbnail": "https://i.vimeocdn.com/video/488134956_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/105364843.hd.mp4?s=9cbe6ecfbdedbd2928e4077ac24a0d1796896385&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/105364843.sd.mp4?s=573bbdc02424d920c7a0734887d2328cb30e4d99&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 530,
   "speakers": [
     {
       "name": "Eric Sowell",

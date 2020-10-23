@@ -11,6 +11,9 @@
   "vimeo": "355358224",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/pttzvqyzlbbc/",
   "thumbnail": "https://i.vimeocdn.com/video/808118447_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/355358224.hd.mp4?s=bf862930741f4c00b320a278c97d40f908e6509e&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/355358224.sd.mp4?s=a79fa2663afb3dc8f9960942af7e27912070a569&profile_id=139&oauth2_token_id=20985841",
+  "recordingID": 283,
   "speakers": [
     {
       "name": "Mike Byrd",

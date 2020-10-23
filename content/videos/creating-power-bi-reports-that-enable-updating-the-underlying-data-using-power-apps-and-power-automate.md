@@ -13,6 +13,9 @@
   "vimeo": "428796779",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/270911983/",
   "thumbnail": "https://i.vimeocdn.com/video/908442500_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/428796779.hd.mp4?s=2a93f916513de538d25df67dea242ec9a7694ea8&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/428796779.sd.mp4?s=b883efc130453587cb32f8896988acd6c3e0cba3&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 346,
   "speakers": [
     {
       "name": "Charles Sterling",

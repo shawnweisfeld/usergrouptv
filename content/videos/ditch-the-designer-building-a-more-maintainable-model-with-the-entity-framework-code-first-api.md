@@ -11,6 +11,9 @@
   "vimeo": "120047274",
   "moreinfo": "http://dallasasp.net/",
   "thumbnail": "https://i.vimeocdn.com/video/507717602_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/120047274.hd.mp4?s=dfe572e5fd61c0b0651b7f5649f7063f06c00e18&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/120047274.sd.mp4?s=9e054c3fe57f90958ff40c12ee92967a2f21689b&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 756,
   "speakers": [
     {
       "name": "Brian Sullivan",

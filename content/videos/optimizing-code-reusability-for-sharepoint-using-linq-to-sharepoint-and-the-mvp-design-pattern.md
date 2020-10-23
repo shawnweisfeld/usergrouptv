@@ -11,6 +11,9 @@
   "vimeo": "106165280",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#0415",
   "thumbnail": "https://i.vimeocdn.com/video/489179832_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106165280.hd.mp4?s=b841c5fa71d22f5e3672d4f7c9b909f705deabcd&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106165280.sd.mp4?s=fe6ed4885e27f7af456a4d67e340bf369cab84e6&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 969,
   "speakers": [
     {
       "name": "Ted Wagner",

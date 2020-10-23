@@ -11,6 +11,9 @@
   "vimeo": "142867674",
   "moreinfo": "http://lrtechfest.com/speakerdetails/#Jessica-Mauerhan",
   "thumbnail": "https://i.vimeocdn.com/video/540283369_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/142867674.hd.mp4?s=6aea1751786de6e172f33d3e767fba670dda018a&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/142867674.sd.mp4?s=5a12393f25d9d7f0420bac5fa5d39a0478f3b025&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 898,
   "speakers": [
     {
       "name": "Jessica Mauerhan",

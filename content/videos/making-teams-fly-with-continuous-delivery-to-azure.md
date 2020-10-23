@@ -11,6 +11,9 @@
   "vimeo": "215094826",
   "moreinfo": "https://www.eventbrite.com/e/global-azure-bootcamp-2017-austin-tx-tickets-33085810550#",
   "thumbnail": "https://i.vimeocdn.com/video/631735244_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/215094826.hd.mp4?s=bab49066840c0545083fc5c71c566c00c716ef09&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/215094826.sd.mp4?s=3e7575456b06a1ebb0b42bc3478da5c6fba3c805&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 249,
   "speakers": [
     {
       "name": "Jeffrey Palermo",

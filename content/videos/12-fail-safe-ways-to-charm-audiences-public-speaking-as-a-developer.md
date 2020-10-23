@@ -11,6 +11,9 @@
   "vimeo": "231056821",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/651773977_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/231056821.hd.mp4?s=e2cfda7e87f592942022ab28db733e312e53d2c5&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/231056821.sd.mp4?s=c07db384c45a1ec5d2df957242553a44ba17069e&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 49,
   "speakers": [
     {
       "name": "Rebekah Post",

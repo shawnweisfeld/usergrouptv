@@ -14,6 +14,9 @@
   "vimeo": "238049715",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660637229_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/238049715.hd.mp4?s=e5aa155277cc979f0e9cdb970a919df47fd30f0f&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/238049715.sd.mp4?s=bd5d349b4aa6b2f1b6e7b33662cf14d84b8645a0&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 74,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

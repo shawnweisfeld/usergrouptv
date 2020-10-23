@@ -11,6 +11,9 @@
   "vimeo": "222136322",
   "moreinfo": "http://www.sqlsaturday.com/651/Sessions/Details.aspx?sid=65390",
   "thumbnail": "https://i.vimeocdn.com/video/640583204_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/222136322.hd.mp4?s=b3b03bcdd355a3fe19c40d91063bb909b42a05e2&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/222136322.sd.mp4?s=41c00acd79c7750f9371fc03fb9177467d6c0bbb&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 206,
   "speakers": [
     {
       "name": "Kris Hokanson",

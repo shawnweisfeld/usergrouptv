@@ -11,6 +11,9 @@
   "vimeo": "212794740",
   "moreinfo": "http://adnug.org/Home/april-10-2017-how-to-scale-net-apps-with-distributed-caching-in-microsoft-azure/",
   "thumbnail": "https://i.vimeocdn.com/video/628873132_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/212794740.hd.mp4?s=e208b13f2cf0ed296abdde0ee888e0081a2bb37b&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/212794740.sd.mp4?s=2c2371b24618e759ddb29de48f94cc2369376c7f&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 243,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

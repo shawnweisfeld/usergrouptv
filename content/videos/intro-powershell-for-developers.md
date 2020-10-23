@@ -11,6 +11,9 @@
   "vimeo": "104886475",
   "moreinfo": "http://www.houstontechfest.org/Lists/ScheduleInfo/DispForm.aspx?ID=33&Source=http%3A%2F%2Fwww%2Ehoustontechfest%2Eorg%2FSitePages%2FTabbedSchedule%2Easpx",
   "thumbnail": "https://i.vimeocdn.com/video/487543091_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104886475.hd.mp4?s=c0f57902753b59a94400e9c00c13df9911b51b3d&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104886475.sd.mp4?s=7c593e1360549a593ffc3120f804c8c539bc1de0&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 943,
   "speakers": [
     {
       "name": "Tim Rayburn",

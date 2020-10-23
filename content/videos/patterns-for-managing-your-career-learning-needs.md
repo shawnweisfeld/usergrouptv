@@ -11,6 +11,9 @@
   "vimeo": "276871927",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=80046",
   "thumbnail": "https://i.vimeocdn.com/video/709496282_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/276871927.hd.mp4?s=98cc864fb8f071f99ddc8b9dc05d0614a9fccd33&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/276871927.sd.mp4?s=48b4566ef2473096109f14e9f2e999b4ffa55a94&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 401,
   "speakers": [
     {
       "name": "Andy Warren",

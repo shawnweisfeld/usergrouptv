@@ -12,6 +12,9 @@
   "vimeo": "104228466",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486704873_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104228466.hd.mp4?s=e3d61d8e8b3b9807d817dbd59d93e54a829ff90b&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104228466.sd.mp4?s=9ad699573d0ed4b8d9cc39d49edff1f6cb8250ea&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 1027,
   "speakers": [
     {
       "name": "David Belcher",

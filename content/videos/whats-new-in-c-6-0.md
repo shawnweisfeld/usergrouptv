@@ -11,6 +11,9 @@
   "vimeo": "142235289",
   "moreinfo": "http://adnug.org/Home/october-12-2015-whats-new-in-c-6-0/",
   "thumbnail": "https://i.vimeocdn.com/video/539466247_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/142235289.hd.mp4?s=ad418c555cde55e13e17b9373ad780e67494f9e8&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/142235289.sd.mp4?s=80527d10358725db825db50e472a86a1d0372852&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 889,
   "speakers": [
     {
       "name": "Jimmy Bogard",

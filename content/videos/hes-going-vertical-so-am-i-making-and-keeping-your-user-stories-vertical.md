@@ -11,6 +11,9 @@
   "vimeo": "364567628",
   "moreinfo": "http://conference.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/820030608_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/364567628.hd.mp4?s=787a926a2ec6b24e6fc5b1cf580d475f0c22506c&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/364567628.sd.mp4?s=0b41639b70b25de2ea33fd08139b27c8b17d368f&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 365,
   "speakers": [
     {
       "name": "Mark Ulferts",

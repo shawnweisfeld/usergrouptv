@@ -11,6 +11,9 @@
   "vimeo": "271381256",
   "moreinfo": "http://www.sqlsaturday.com/734/Sessions/Details.aspx?sid=77161",
   "thumbnail": "https://i.vimeocdn.com/video/702668038_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/271381256.hd.mp4?s=7f045f0af4cae8ef36341254656e437cfeb57d12&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/271381256.sd.mp4?s=637c970739524606f8a5c67fcaf1faf5a5c9f2ac&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 434,
   "speakers": [
     {
       "name": "William Assaf",

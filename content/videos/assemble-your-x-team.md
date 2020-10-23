@@ -11,6 +11,9 @@
   "vimeo": "230192113",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650697708_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230192113.hd.mp4?s=ebf0c1bf01429017100c4644eeefd5f2032040f3&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230192113.sd.mp4?s=55c72799574d2d64964f92728a5ad440ab287a95&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 61,
   "speakers": [
     {
       "name": "Allison Macalik Tibbits",

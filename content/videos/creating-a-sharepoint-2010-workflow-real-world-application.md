@@ -11,6 +11,9 @@
   "vimeo": "111340843",
   "moreinfo": "http://dallastechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/495922033_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/111340843.hd.mp4?s=d184d1025d241dfbebc1ead192dff953153b6f4a&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/111340843.sd.mp4?s=75ea6bb6106b692a4c7ddc2774c70cd1accce089&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 672,
   "speakers": [
     {
       "name": "Russell Wright",

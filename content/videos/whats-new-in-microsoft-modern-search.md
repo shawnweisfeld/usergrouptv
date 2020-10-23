@@ -11,6 +11,9 @@
   "vimeo": "366330347",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/lsljlmyznbmb/",
   "thumbnail": "https://i.vimeocdn.com/video/822338757_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/366330347.hd.mp4?s=a9e4b824cb6335298926a4234b2380504d092e4d&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/366330347.sd.mp4?s=ba8ac4f97d4aa3d9ae31dba23f43ac2b88b94b74&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 373,
   "speakers": [
     {
       "name": "Matthew McDermott",

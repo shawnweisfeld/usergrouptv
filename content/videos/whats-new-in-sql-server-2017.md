@@ -11,6 +11,9 @@
   "vimeo": "268816443",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/699635082_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/268816443.hd.mp4?s=b93ad450b6bc41cc3682cbcffef55b48c7633e47&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/268816443.sd.mp4?s=6653af69fbff2d1cf47eb9eddb58386320e73342&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 102,
   "speakers": [
     {
       "name": "William Assaf",

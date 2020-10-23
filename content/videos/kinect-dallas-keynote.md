@@ -11,6 +11,9 @@
   "vimeo": "109122090",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/492994856_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/109122090.hd.mp4?s=7623c73f590fe7f45559fc7293ff13d55bb79e51&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/109122090.sd.mp4?s=8965f33ef7eb87eb1d3837dd5c308b17d79005ba&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 740,
   "speakers": [
     {
       "name": "Tim Huckaby",

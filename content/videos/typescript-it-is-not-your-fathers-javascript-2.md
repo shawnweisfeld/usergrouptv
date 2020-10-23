@@ -11,6 +11,9 @@
   "vimeo": "102316807",
   "moreinfo": "http://codecamp13.adnug.org/",
   "thumbnail": "https://i.vimeocdn.com/video/484298740_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/102316807.hd.mp4?s=6c8d57ef14a96321ca2f21a7d57b0838a0ad1aad&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/102316807.sd.mp4?s=29d147ba43a52775a3b6ee3961d24aed5f201432&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 604,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

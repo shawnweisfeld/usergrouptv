@@ -11,6 +11,9 @@
   "vimeo": "109120900",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/492993370_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/109120900.hd.mp4?s=bf38b01bdfe0a836b06b579ea00e29d0c071aad8&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/109120900.sd.mp4?s=2cd11e86b47dbec55c87814f8a89ca5e8138f1a3&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 720,
   "speakers": [
     {
       "name": "Markus Egger",

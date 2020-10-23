@@ -11,6 +11,9 @@
   "vimeo": "375132455",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/pttzvqyzpbzb/",
   "thumbnail": "https://i.vimeocdn.com/video/833796599_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/375132455.hd.mp4?s=3c46a0026930e1f7388cea7d955f0974e5709d64&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/375132455.sd.mp4?s=9b23f802579cc9722a623a3636733f3ebc7d421a&profile_id=139&oauth2_token_id=20985841",
+  "recordingID": 380,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

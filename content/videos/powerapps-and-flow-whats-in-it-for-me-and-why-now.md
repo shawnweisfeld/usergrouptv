@@ -12,6 +12,9 @@
   "vimeo": "323853065",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/lsljlmyzfbrb/",
   "thumbnail": "https://i.vimeocdn.com/video/767089144_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/323853065.hd.mp4?s=ae2a9062639b4dbd4a5380af128fbda51eed1ee3&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/323853065.sd.mp4?s=d763133a59aa498a7f0fb3b2e978e297368c4107&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 390,
   "speakers": [
     {
       "name": "Uday Adhikari",

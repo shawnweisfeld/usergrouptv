@@ -11,6 +11,9 @@
   "vimeo": "111925618",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/496719510_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/111925618.hd.mp4?s=f80407f0d6e0a4d1de5141b9ad5be4508bec05b3&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/111925618.sd.mp4?s=e8eb6e9fbd6d78cf5211a8e0fe58d616a3f627ac&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 746,
   "speakers": [
     {
       "name": "Vince Blasberg",

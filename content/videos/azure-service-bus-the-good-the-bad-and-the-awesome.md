@@ -11,6 +11,9 @@
   "vimeo": "182111302",
   "moreinfo": "https://www.meetup.com/azureaustin/events/233648838/",
   "thumbnail": "https://i.vimeocdn.com/video/590927556_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/182111302.hd.mp4?s=215cd39553c28d3938cf34d9d580dd51f3006299&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/182111302.sd.mp4?s=6e895d9a6c38c1715f057f18ae146da99e5a7f19&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 196,
   "speakers": [
     {
       "name": "Sean Feldman",

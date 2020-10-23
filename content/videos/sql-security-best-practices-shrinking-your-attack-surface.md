@@ -11,6 +11,9 @@
   "vimeo": "138526328",
   "moreinfo": "http://www.sqlsaturday.com/422/Sessions/Details.aspx?sid=40175",
   "thumbnail": "https://i.vimeocdn.com/video/533915285_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/138526328.hd.mp4?s=e33b0181ea62b05948038d7e29e7a1ec6c335858&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/138526328.sd.mp4?s=1c26e940c7e88f021694366cb71f5bb14b5ebf87&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 787,
   "speakers": [
     {
       "name": "Matthew Brimer",

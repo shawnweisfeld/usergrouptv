@@ -11,6 +11,9 @@
   "vimeo": "111341707",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/495923157_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/111341707.hd.mp4?s=6bfad678e28f072ea741c5e52b0741660a00ea8d&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/111341707.sd.mp4?s=69fd3f595b77fa2557476cabd497cf0f28060d8c&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 674,
   "speakers": [
     {
       "name": "Rob Vettor",

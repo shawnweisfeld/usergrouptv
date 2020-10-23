@@ -11,6 +11,9 @@
   "vimeo": "237567458",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660018593_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/237567458.hd.mp4?s=6b00399d0b2616338524a05861365e440e7e09aa&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/237567458.sd.mp4?s=1a3a3d2cc20b3f60571dcc7ec9871f7ca071a681&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 28,
   "speakers": [
     {
       "name": "Corrie Moore",

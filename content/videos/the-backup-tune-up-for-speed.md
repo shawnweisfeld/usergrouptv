@@ -11,6 +11,9 @@
   "vimeo": "205179609",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/235751057/",
   "thumbnail": "https://i.vimeocdn.com/video/619877850_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/205179609.hd.mp4?s=8c1f4c7246cacd66c4d510b6b2a4e46cb993e755&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/205179609.sd.mp4?s=388cf137fdf06c911c6f080c7a05d44d181e6f28&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 162,
   "speakers": [
     {
       "name": "Sean McCown",

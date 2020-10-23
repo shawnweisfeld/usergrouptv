@@ -11,6 +11,9 @@
   "vimeo": "230140257",
   "moreinfo": "http://techfests.com/Tulsa/2017/Speakers/DavidWalker/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/650632734_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230140257.hd.mp4?s=9b7b0d391c01f077bd689d28c5a2d0b1b2f2bde9&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230140257.sd.mp4?s=a007f590aa0ea4fd64df894bcee2b085c2c41a61&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 138,
   "speakers": [
     {
       "name": "David Walker",

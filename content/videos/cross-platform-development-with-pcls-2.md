@@ -11,6 +11,9 @@
   "vimeo": "106166425",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#0715",
   "thumbnail": "https://i.vimeocdn.com/video/489181326_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106166425.hd.mp4?s=0c79751ba2efd0496344c9f3e0bc98e0755070d0&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106166425.sd.mp4?s=ab9070f841fce1ebcbd01a2124e40f76ccd43e93&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 1022,
   "speakers": [
     {
       "name": "Seth Valdetero",

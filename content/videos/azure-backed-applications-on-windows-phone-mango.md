@@ -12,6 +12,9 @@
   "vimeo": "113162309",
   "moreinfo": "http://dallasxaml.com/",
   "thumbnail": "https://i.vimeocdn.com/video/498385424_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/113162309.hd.mp4?s=bfdfc07414caf9d7d7a8d40bbebb2d2196f862f7&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/113162309.sd.mp4?s=aed70fdd2c4be3c7e1b3dbb867275415675769a2&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 676,
   "speakers": [
     {
       "name": "Chris Rajczi",

@@ -11,6 +11,9 @@
   "vimeo": "237562949",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660011864_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/237562949.hd.mp4?s=312b5f6d8002279c18e33d8ba2c0570b5104d4dd&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/237562949.sd.mp4?s=c51bd598b7250ca0cab98ac0b308325b59d44e05&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 24,
   "speakers": [
     {
       "name": "Mark Carleo",

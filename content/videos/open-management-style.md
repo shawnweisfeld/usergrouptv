@@ -11,6 +11,9 @@
   "vimeo": "284780126",
   "moreinfo": "http://www.sqlsaturday.com/749/Sessions/Details.aspx?sid=83065",
   "thumbnail": "https://i.vimeocdn.com/video/719306991_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/284780126.hd.mp4?s=6a50e362fbd5ca1c04f17d4ebb37b572eb16be2c&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/284780126.sd.mp4?s=ebf906206341400e74d1cfed1a575009e9ba6dcc&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 417,
   "speakers": [
     {
       "name": "David Reid",

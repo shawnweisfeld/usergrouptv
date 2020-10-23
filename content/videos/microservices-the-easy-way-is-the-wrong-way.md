@@ -11,6 +11,9 @@
   "vimeo": "438970398",
   "moreinfo": "https://www.meetup.com/DallasNETUG/events/271239377/",
   "thumbnail": "https://i.vimeocdn.com/video/926019495_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/438970398.hd.mp4?s=f3a122d2f55122031357ec9ff44ac1d22e754d8e&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/438970398.sd.mp4?s=e8942be7d166967857e0626d9a40fd9abdfbd05a&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 351,
   "speakers": [
     {
       "name": "Sean Whitesell",

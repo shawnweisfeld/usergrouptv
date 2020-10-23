@@ -11,6 +11,9 @@
   "vimeo": "119596448",
   "moreinfo": "http://www.sqlsaturday.com/63/eventhome.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/507045013_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/119596448.hd.mp4?s=e94eae3003868d740e5bd0d1db39893c3159c1c4&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/119596448.sd.mp4?s=23594311cdcdab4b805bbd296b7de9e2f764b384&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 686,
   "speakers": [
     {
       "name": "Scott Whigham",

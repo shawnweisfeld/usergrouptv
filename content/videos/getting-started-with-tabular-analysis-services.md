@@ -11,6 +11,9 @@
   "vimeo": "118476153",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=25234",
   "thumbnail": "https://i.vimeocdn.com/video/505504095_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/118476153.hd.mp4?s=b79fdfdaf397ec6ddd4ce86dd535091be4b87123&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/118476153.sd.mp4?s=89d5f442c2a2ee45c1cad5befda968525c5e5b66&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 813,
   "speakers": [
     {
       "name": "Thomas LeBlanc",

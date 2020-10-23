@@ -11,6 +11,9 @@
   "vimeo": "238045671",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660631834_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/238045671.hd.mp4?s=3f34e1e122f28ee4f8428643e708d59e8874d9ac&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/238045671.sd.mp4?s=53375e0507558df37f60f9b46260175b6f836699&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 38,
   "speakers": [
     {
       "name": "Bill DeVoe",

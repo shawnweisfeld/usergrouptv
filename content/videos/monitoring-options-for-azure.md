@@ -12,6 +12,9 @@
   "vimeo": "306272170",
   "moreinfo": "https://www.meetup.com/azureaustin/events/256066908/",
   "thumbnail": "https://i.vimeocdn.com/video/745979214_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/306272170.hd.mp4?s=4e6c09572b771acea25ed6ca22799390a19c387c&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/306272170.sd.mp4?s=bafbfd9b31671a52764600f9c05f6ddb6fd791b6&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 478,
   "speakers": [
     {
       "name": "Subramani Ananthapadmanabhan",

@@ -11,6 +11,9 @@
   "vimeo": "104885907",
   "moreinfo": "http://codecamp13.adnug.org/",
   "thumbnail": "https://i.vimeocdn.com/video/487542423_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104885907.hd.mp4?s=a6866b68306b8083489712510d3b0372aca3bb65&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104885907.sd.mp4?s=8ec93c306f1e903789a2e037997d570e99f4be48&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 603,
   "speakers": [
     {
       "name": "Mark Rosenberg",

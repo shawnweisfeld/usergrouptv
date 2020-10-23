@@ -11,6 +11,9 @@
   "vimeo": "102966491",
   "moreinfo": "http://www.codepalousa.com/speakers/speaker-directory/itemlist/user/177-michaelperry",
   "thumbnail": "https://i.vimeocdn.com/video/485085354_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/102966491.hd.mp4?s=81522f4a88c2377c7af1ada7aed88e1781e69625&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/102966491.sd.mp4?s=09a74d616ebd910d376e9421d731c69c45e92b54&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 593,
   "speakers": [
     {
       "name": "Michael L Perry",

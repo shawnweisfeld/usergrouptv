@@ -11,6 +11,9 @@
   "vimeo": "139190740",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda",
   "thumbnail": "https://i.vimeocdn.com/video/534897637_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/139190740.hd.mp4?s=36aa07627daa27fdc8f503d0b238324e7a5e6e15&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/139190740.sd.mp4?s=c5191e68fb708ff532c57a294fb0bea5632472aa&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 796,
   "speakers": [
     {
       "name": "Tony Champion",

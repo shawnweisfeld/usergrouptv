@@ -11,6 +11,9 @@
   "vimeo": "350356854",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/262715558/",
   "thumbnail": "https://i.vimeocdn.com/video/801600952_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/350356854.hd.mp4?s=fb7cb58f4cde5be9ed4fb4ceed8701207dda535f&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/350356854.sd.mp4?s=997f2b95b8bf4255b18ef076aa1417b6f23ed39f&profile_id=139&oauth2_token_id=20985841",
+  "recordingID": 279,
   "speakers": [
     {
       "name": "Mike Ford",

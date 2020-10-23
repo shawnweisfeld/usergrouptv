@@ -11,6 +11,9 @@
   "vimeo": "184505905",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/593960183_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/184505905.hd.mp4?s=a89e61b233531ad57f1e9130e34196eda9ddcb38&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/184505905.sd.mp4?s=ee97a9f0ff27d2727fbf396e60e1b09900fbd3e6&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 139,
   "speakers": [
     {
       "name": "Mike Rieser",

@@ -11,6 +11,9 @@
   "vimeo": "276875881",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=77568",
   "thumbnail": "https://i.vimeocdn.com/video/709501208_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/276875881.hd.mp4?s=3a964eec6410ba974eb363c4196825d853ef853a&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/276875881.sd.mp4?s=8ffda6cddd1576b48c0c03d4605d9206d741858f&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 410,
   "speakers": [
     {
       "name": "Steve Hughes",

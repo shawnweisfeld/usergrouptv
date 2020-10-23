@@ -11,6 +11,9 @@
   "vimeo": "100516596",
   "moreinfo": "http://adnug.org/Home/may-19-2014-oracle-net-and-visual-studio-2013-intro-whats-new-and-best-practices/",
   "thumbnail": "https://i.vimeocdn.com/video/482027562_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100516596.hd.mp4?s=471c0c44bbfbcaf0cef9209e6c843d8e10e649b4&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100516596.sd.mp4?s=6617ebb44ca18af68773029f25c57d6a5df698c4&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 917,
   "speakers": [
     {
       "name": "Christian Shay",

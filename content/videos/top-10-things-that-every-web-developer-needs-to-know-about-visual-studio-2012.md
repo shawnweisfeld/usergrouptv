@@ -11,6 +11,9 @@
   "vimeo": "104885493",
   "moreinfo": "http://www.dallasasp.net",
   "thumbnail": "https://i.vimeocdn.com/video/487541828_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104885493.hd.mp4?s=5cd0e7c42336ab05ce745652f301ca9a10ce5c28&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104885493.sd.mp4?s=76f2be29254b9b5a96a0f22ed06b20c6182a7280&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 625,
   "speakers": [
     {
       "name": "Toi Wright",

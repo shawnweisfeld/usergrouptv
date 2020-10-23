@@ -11,6 +11,9 @@
   "vimeo": "169070813",
   "moreinfo": "http://www.meetup.com/ATX-MSFT-Devs/events/229115833/",
   "thumbnail": "https://i.vimeocdn.com/video/573697664_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/169070813.hd.mp4?s=555afdd1c0141eeeb3445d56d442c58f7c7a5bf6&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/169070813.sd.mp4?s=4abb29c765ae5abec01f350609e501cb4d981e4b&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 170,
   "speakers": [
     {
       "name": "Dustin Kirkland",

@@ -11,6 +11,9 @@
   "vimeo": "229880782",
   "moreinfo": "http://schoolofdev.com/Tulsa/2017/Speakers/HaroldPulcher/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/650307802_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/229880782.hd.mp4?s=96417562f3cb4985c1683949a0ea6342c5c18ff5&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/229880782.sd.mp4?s=ca6b785a9552865cc8bb93be9192eb6fe47393af&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 220,
   "speakers": [
     {
       "name": "Harold Pulcher",

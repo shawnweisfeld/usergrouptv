@@ -11,6 +11,9 @@
   "vimeo": "390483472",
   "moreinfo": "https://www.sqlsaturday.com/939/Sessions/Details.aspx?sid=99470",
   "thumbnail": "https://i.vimeocdn.com/video/854621628_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/390483472.hd.mp4?s=15ce8653bd588d60624e973c7115b926dc5eb171&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/390483472.sd.mp4?s=8581ddc007a1a342e2a3702ac9c622c01117f0f1&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 332,
   "speakers": [
     {
       "name": "Kevin Feasel",

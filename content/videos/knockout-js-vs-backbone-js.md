@@ -12,6 +12,9 @@
   "vimeo": "106880737",
   "moreinfo": "http://austincodecamp2012.com/",
   "thumbnail": "https://i.vimeocdn.com/video/490122814_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/106880737.hd.mp4?s=db15cfa2bb97249d205c0e81fcd32afbd618d51d&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/106880737.sd.mp4?s=02aa825a5f5582b65fa43c34cb558508a727ecdf&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 574,
   "speakers": [
     {
       "name": "Steve Donie",

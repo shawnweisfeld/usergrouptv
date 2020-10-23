@@ -11,6 +11,9 @@
   "vimeo": "102319790",
   "moreinfo": "http://dallasxaml.com/",
   "thumbnail": "https://i.vimeocdn.com/video/484301969_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/102319790.hd.mp4?s=4321b7582960504bacebf14bbb748336f9f862f0&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/102319790.sd.mp4?s=532d9f85ca3e0b101c77fd450a39ebe8aef51a3a&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 598,
   "speakers": [
     {
       "name": "Tim Rayburn",

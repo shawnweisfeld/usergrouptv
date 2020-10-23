@@ -11,6 +11,9 @@
   "vimeo": "266022140",
   "moreinfo": "https://global.azurebootcamp.net/locations/gobal-azure-boot-camp-2018-austin-tx/",
   "thumbnail": "https://i.vimeocdn.com/video/696175471_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/266022140.hd.mp4?s=e0a5b939f1c7ed199699b0cda0ff472b745ece71&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/266022140.sd.mp4?s=b9623bdb048f5e0b957d7d52d99033ae06155466&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 93,
   "speakers": [
     {
       "name": "Jeffrey Palermo",

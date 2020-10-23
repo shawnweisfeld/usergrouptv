@@ -11,6 +11,9 @@
   "vimeo": "440303669",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/270511716/",
   "thumbnail": "https://i.vimeocdn.com/video/927702077_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/440303669.hd.mp4?s=e300dc05930d31a6eeb15832fe087151445c41f8&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/440303669.sd.mp4?s=5f3d88a39d23f969ab2b4b1bbabb72e949f80573&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 348,
   "speakers": [
     {
       "name": "Sara Ford",

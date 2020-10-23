@@ -12,6 +12,9 @@
   "vimeo": "102965954",
   "moreinfo": "http://northdallas.net/",
   "thumbnail": "https://i.vimeocdn.com/video/485084627_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/102965954.hd.mp4?s=bef2a9b674e29bdb9ce2335e7ddd9cddc18c4f3e&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/102965954.sd.mp4?s=5038c3ab2c667e9f64a7a77822cf1870d36e0fe0&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 590,
   "speakers": [
     {
       "name": "Mads Kristensen",

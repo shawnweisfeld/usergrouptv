@@ -11,6 +11,9 @@
   "vimeo": "108782057",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/492567944_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/108782057.hd.mp4?s=a8c6f39346e3cf90463145bc81610b74a398bfa9&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/108782057.sd.mp4?s=71adcde7861194ab6021610f59f6a33c12e1e131&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 733,
   "speakers": [
     {
       "name": "Todd Girvin",

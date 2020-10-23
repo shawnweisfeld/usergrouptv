@@ -11,6 +11,9 @@
   "vimeo": "266019212",
   "moreinfo": "https://global.azurebootcamp.net/locations/gobal-azure-boot-camp-2018-austin-tx/",
   "thumbnail": "https://i.vimeocdn.com/video/696171720_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/266019212.hd.mp4?s=bebfb8923cbe9ccf0a964d4e9e11e56bac161391&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/266019212.sd.mp4?s=fc7bd3252f51bf0f0432393886a28b077d21e790&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 92,
   "speakers": [
     {
       "name": "Stephen W. Thomas",

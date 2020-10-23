@@ -11,6 +11,9 @@
   "vimeo": "104884292",
   "moreinfo": "http://www.houstontechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/487540332_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104884292.hd.mp4?s=356d82090d43dec9f333c3387fd6dd9dd6aeea3c&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104884292.sd.mp4?s=5f22a1ead6b7de011d6d2bac6b8748e3b99af2b8&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 617,
   "speakers": [
     {
       "name": "Phil Wheat",

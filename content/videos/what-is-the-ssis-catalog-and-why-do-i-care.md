@@ -11,6 +11,9 @@
   "vimeo": "149213223",
   "moreinfo": "http://cactuss.sqlpass.org/Home.aspx?EventID=4229",
   "thumbnail": "https://i.vimeocdn.com/video/548363727_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/149213223.hd.mp4?s=0f7efb7f985641e2e4c420d365b7b67d1ea958f5&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/149213223.sd.mp4?s=a8acc1be985402023f2029526869dd2c409039f1&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 843,
   "speakers": [
     {
       "name": "Stan Geiger",

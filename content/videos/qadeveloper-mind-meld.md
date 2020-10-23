@@ -11,6 +11,9 @@
   "vimeo": "104228062",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486704489_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/104228062.hd.mp4?s=c433fabf45da39c1dedf61074b5b27a6179dcc72&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/104228062.sd.mp4?s=25f6f37986dbd8b448f51cfaa851da186c69b8fc&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 1010,
   "speakers": [
     {
       "name": "Jack Long",

@@ -11,6 +11,9 @@
   "vimeo": "346640239",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/pttzvqyzjbxb/",
   "thumbnail": "https://i.vimeocdn.com/video/796753194_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/346640239.hd.mp4?s=50941d924226d94d736c56fa27c302b54a963413&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/346640239.sd.mp4?s=a92ba4550276396fa35c528d7b969007fc4fb276&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 312,
   "speakers": [
     {
       "name": "Angela Tidwell",

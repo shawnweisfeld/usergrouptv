@@ -12,6 +12,9 @@
   "vimeo": "102318740",
   "moreinfo": "http://www.ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/484300871_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/102318740.hd.mp4?s=4ba3bb6e945fc06ca311d9ef92c4b82af477468f&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/102318740.sd.mp4?s=351341dcf11e2c46e594e1565d7a88fa43a71fe2&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 595,
   "speakers": [
     {
       "name": "Brent Schooley",

@@ -12,6 +12,9 @@
   "vimeo": "237574902",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660023557_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/237574902.hd.mp4?s=fd82c899931cd2da783958dc37c630bae7573b42&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/237574902.sd.mp4?s=e9fcc78889afe89a90b6d1845fa8d94375f2cff8&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 33,
   "speakers": [
     {
       "name": "Dan Petit",

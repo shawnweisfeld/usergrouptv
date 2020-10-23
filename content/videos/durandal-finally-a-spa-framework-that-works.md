@@ -11,6 +11,9 @@
   "vimeo": "100491278",
   "moreinfo": "http://2014.cowtowntechroundup.com/Profile/12a643ae-c005-440a-9235-d1bae4ffda6a",
   "thumbnail": "https://i.vimeocdn.com/video/481993969_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100491278.hd.mp4?s=c39b33862fcea563ca72c23293ca07727ee61d2a&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100491278.sd.mp4?s=674207e3f13adf51fec5680967e99f8436a47fab&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 920,
   "speakers": [
     {
       "name": "Michael Dudley",

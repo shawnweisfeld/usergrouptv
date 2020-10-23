@@ -11,6 +11,9 @@
   "vimeo": "163237838",
   "moreinfo": "http://www.meetup.com/DFW-Azure-User-Group/events/227460670/",
   "thumbnail": "https://i.vimeocdn.com/video/566449374_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/163237838.hd.mp4?s=000a4eca01f3b741ef2abe06afacd7dc3d495a80&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/163237838.sd.mp4?s=9fa32d095f65c5ce5dcb17f9aec6e0c26476dd7a&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 851,
   "speakers": [
     {
       "name": "Shad Phillips",

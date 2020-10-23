@@ -11,6 +11,9 @@
   "vimeo": "120049662",
   "moreinfo": "http://www.allaboutxaml.net",
   "thumbnail": "https://i.vimeocdn.com/video/507721083_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/120049662.hd.mp4?s=fa1594b79d84ed8d3d06e367cad9ca8e495b7e33&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/120049662.sd.mp4?s=5d439937d0ff1f9d0064be510b5cbfa96841f958&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 656,
   "speakers": [
     {
       "name": "Michael Crump",

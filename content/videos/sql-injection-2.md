@@ -11,6 +11,9 @@
   "vimeo": "118594774",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=26097",
   "thumbnail": "https://i.vimeocdn.com/video/505667364_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/118594774.hd.mp4?s=905b61c1a8e071ef14c514928fa9c778f68cda90&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/118594774.sd.mp4?s=ab2226112d72f5940da26254e949756c71e7f457&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 819,
   "speakers": [
     {
       "name": "Kevin Boles",

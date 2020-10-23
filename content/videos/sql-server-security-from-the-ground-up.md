@@ -11,6 +11,9 @@
   "vimeo": "287160428",
   "moreinfo": "http://www.sqlsaturday.com/794/Sessions/Details.aspx?sid=83772",
   "thumbnail": "https://i.vimeocdn.com/video/722234125_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/287160428.hd.mp4?s=825a8aeb2e62c7ae3bc188f401f417659300e494&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/287160428.sd.mp4?s=4c84be4b3622e72828fccf9e1e7a97ab2190b43f&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 489,
   "speakers": [
     {
       "name": "Kenneth Fisher",

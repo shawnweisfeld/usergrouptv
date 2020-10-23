@@ -11,6 +11,9 @@
   "vimeo": "179315183",
   "moreinfo": "http://www.sqlsaturday.com/550/Sessions/Details.aspx?sid=50342",
   "thumbnail": "https://i.vimeocdn.com/video/587192030_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/179315183.hd.mp4?s=fa04626c076065c89a585c4cb09dd48b6975ac5a&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/179315183.sd.mp4?s=afd76c9f5652a8a25a6159970950f9497ea9e333&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 198,
   "speakers": [
     {
       "name": "Jim Murphy",

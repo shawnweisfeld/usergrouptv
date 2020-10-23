@@ -11,6 +11,9 @@
   "vimeo": "268842181",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/699668162_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/268842181.hd.mp4?s=4ed978a56625fb6a47a629490de2361bbe4d6227&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/268842181.sd.mp4?s=3a9955da531da617b08bb3595b0d205ba0aa6ee2&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 94,
   "speakers": [
     {
       "name": "John Cavnar-Johnson",

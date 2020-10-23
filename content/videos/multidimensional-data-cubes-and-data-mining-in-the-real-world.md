@@ -11,6 +11,9 @@
   "vimeo": "348360491",
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=95705",
   "thumbnail": "https://i.vimeocdn.com/video/798964104_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/348360491.hd.mp4?s=19ca42a783f913809df41d4b784e8adb8d9e273e&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/348360491.sd.mp4?s=c78730fa5d6760543d4e4b83fd172d1131bcfb76&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 277,
   "speakers": [
     {
       "name": "Robert Stewart",

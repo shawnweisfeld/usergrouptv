@@ -11,6 +11,9 @@
   "vimeo": "110774181",
   "moreinfo": "http://www.houstontechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/495142844_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/110774181.hd.mp4?s=08ccf6685b501f015890438f7e99aefecb3a3661&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/110774181.sd.mp4?s=4580903ca5dcf9912539c2f5b6f325b7a356ed9e&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 764,
   "speakers": [
     {
       "name": "Jeffrey Richter",

@@ -11,6 +11,9 @@
   "vimeo": "276874039",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=82072",
   "thumbnail": "https://i.vimeocdn.com/video/709499118_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/276874039.hd.mp4?s=19444f19126a29e87b6f56de969072a11757f243&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/276874039.sd.mp4?s=e9cc8ce9521871c63c392d5f007c995c35df247f&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 407,
   "speakers": [
     {
       "name": "Thomas Norman",

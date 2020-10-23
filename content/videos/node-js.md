@@ -11,6 +11,9 @@
   "vimeo": "102968892",
   "moreinfo": "http://www.ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/485088485_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/102968892.hd.mp4?s=c1053fd5109caaa75f7e36fb19948401214e96f0&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/102968892.sd.mp4?s=cd947ee16dd5b874264ff713a9087874291d4794&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 597,
   "speakers": [
     {
       "name": "Shane Holder",

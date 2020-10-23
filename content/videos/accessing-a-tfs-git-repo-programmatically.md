@@ -12,6 +12,9 @@
   "vimeo": "100981749",
   "moreinfo": "https://sites.google.com/site/tfsaustinusergroup/project-updates/accessingatfsgitrepoprogrammatically",
   "thumbnail": "https://i.vimeocdn.com/video/482640523_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100981749.hd.mp4?s=ab33a52da56928f139f2cc20fff08b2c78e8da2d&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100981749.sd.mp4?s=e73157d99908d778c8d92aabb0f418b2ace42ee1&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 934,
   "speakers": [
     {
       "name": "Clementino de Mendonca",

@@ -11,6 +11,9 @@
   "vimeo": "133475938",
   "moreinfo": "http://adnug.org/Home/july-13-2015-rock-your-apps-with-10-things-you-probably-arent-doing/",
   "thumbnail": "https://i.vimeocdn.com/video/526557293_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/133475938.hd.mp4?s=07731d6740baf4b904f39a2b119c632f0ab24825&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/133475938.sd.mp4?s=b1b39fa99179d270be08527b6ee43628f451c73a&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 776,
   "speakers": [
     {
       "name": "David McCarter",

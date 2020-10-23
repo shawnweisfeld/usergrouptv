@@ -11,6 +11,9 @@
   "vimeo": "237570872",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660020061_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/237570872.hd.mp4?s=75a79b903f3b7543fd9ae47e7d0f4b92f1013e8c&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/237570872.sd.mp4?s=9432212d7290a96335a009b8429dff58c1cc650e&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 32,
   "speakers": [
     {
       "name": "Lisa Huang",

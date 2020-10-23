@@ -11,6 +11,9 @@
   "vimeo": "230192251",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650697877_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230192251.hd.mp4?s=920deed8bcadb260f9dfb5bbc0c50b830228091f&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230192251.sd.mp4?s=811ad27cbc4a2607be9fa9016b8e586b7c5c1ce8&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 59,
   "speakers": [
     {
       "name": "Jamie Dorobek",

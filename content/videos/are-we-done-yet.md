@@ -11,6 +11,9 @@
   "vimeo": "271946520",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703378800_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/271946520.hd.mp4?s=d575a27b4b5265bee077937d1684ae30c910f71d&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/271946520.sd.mp4?s=c275f40c47af7df8247d1e2cb22d6be2402ad57f&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 439,
   "speakers": [
     {
       "name": "Earl Everett",

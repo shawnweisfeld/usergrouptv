@@ -11,6 +11,9 @@
   "vimeo": "108785117",
   "moreinfo": "http://www.ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/492571907_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/108785117.hd.mp4?s=3e65133c7b4ca89a4f81ca45c3c4cf7e3c4929d0&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/108785117.sd.mp4?s=9909d02ef9f4562f82ee24ea97e91b9e47b294e3&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 986,
   "speakers": [
     {
       "name": "Brian Sullivan",

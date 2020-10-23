@@ -11,6 +11,9 @@
   "vimeo": "140648085",
   "moreinfo": "http://measureup2015.azurewebsites.net/mvc6/",
   "thumbnail": "https://i.vimeocdn.com/video/537261105_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/140648085.hd.mp4?s=feecf7c28315b8e48d0d4b8f74e6799851dfd9b8&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/140648085.sd.mp4?s=2713c5e5ddf3b26f03b527d7a61cda47e7832350&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 880,
   "speakers": [
     {
       "name": "James Chambers",

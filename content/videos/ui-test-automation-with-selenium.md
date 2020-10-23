@@ -12,6 +12,9 @@
   "vimeo": "110958795",
   "moreinfo": "http://dallas-csharp-sig.com",
   "thumbnail": "https://i.vimeocdn.com/video/495398321_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/110958795.hd.mp4?s=8508587ce4187c26631ce74830198bb5a41b6bdc&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/110958795.sd.mp4?s=af7a648180700acb00c4aac8945fe21cf26919f5&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 646,
   "speakers": [
     {
       "name": "Sergey Rathon",

@@ -12,6 +12,9 @@
   "vimeo": "119596286",
   "moreinfo": "http://dallasasp.net",
   "thumbnail": "https://i.vimeocdn.com/video/507044739_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/119596286.hd.mp4?s=d66dc4b246e4b1e53d6298fcf7397afe13e29ed9&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/119596286.sd.mp4?s=0f7df9ae2191f4365438adaaf8df28e7b7347500&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 685,
   "speakers": [
     {
       "name": "Teresa Burger",

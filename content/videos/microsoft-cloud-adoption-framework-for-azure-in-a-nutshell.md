@@ -11,6 +11,9 @@
   "vimeo": "373751531",
   "moreinfo": "https://www.meetup.com/azureaustin/events/266058074/",
   "thumbnail": "https://i.vimeocdn.com/video/831974744_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/373751531.hd.mp4?s=772a6853e2d5769be509c84385a528cffa20a938&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/373751531.sd.mp4?s=42ed9bd4d83df8103d75aabb05aad22f2ad16ab0&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 379,
   "speakers": [
     {
       "name": "Farida Bharmal",

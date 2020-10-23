@@ -11,6 +11,9 @@
   "vimeo": "114763036",
   "moreinfo": "http://www.ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/500550762_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/114763036.hd.mp4?s=61a894366cce55d29a3bc0a42a8deb892936fcde&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/114763036.sd.mp4?s=febc141a399c4fc7f02faf9e7f09dd3bbf916cf6&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 694,
   "speakers": [
     {
       "name": "Daniel Knoodle",

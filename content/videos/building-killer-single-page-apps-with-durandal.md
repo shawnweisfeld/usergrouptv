@@ -11,6 +11,9 @@
   "vimeo": "100980387",
   "moreinfo": "http://techfests.com/Tulsa/2013/Speakers/BrianSullivan/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/482638811_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100980387.hd.mp4?s=a018bad55b7102adb8d0641f131e21473fede276&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100980387.sd.mp4?s=5c16dfd8af8fbf4d49d2ea8e059999c6b6032729&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 956,
   "speakers": [
     {
       "name": "Brian Sullivan",

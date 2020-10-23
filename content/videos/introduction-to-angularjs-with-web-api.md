@@ -11,6 +11,9 @@
   "vimeo": "101660079",
   "moreinfo": "http://adnug.org/Home/july-21-2014-introduction-to-angularjs-with-web-api/",
   "thumbnail": "https://i.vimeocdn.com/video/483489139_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/101660079.hd.mp4?s=127adfd94e11e8f9cf1cdd924319c840047001aa&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/101660079.sd.mp4?s=40b3e4a99f126300d4cf82be69a6fb42f1ce1020&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 929,
   "speakers": [
     {
       "name": "Ryan Vice",

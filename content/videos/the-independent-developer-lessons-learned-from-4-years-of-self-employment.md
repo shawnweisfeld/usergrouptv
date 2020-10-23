@@ -11,6 +11,9 @@
   "vimeo": "276875346",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=76947",
   "thumbnail": "https://i.vimeocdn.com/video/709500590_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/276875346.hd.mp4?s=956758a8f981147086da9d566d544fc9cab04c39&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/276875346.sd.mp4?s=6e55cadcc4474e6ebe61982155d59b50bfbe921a&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 409,
   "speakers": [
     {
       "name": "Jason Awbrey",

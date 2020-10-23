@@ -12,6 +12,9 @@
   "vimeo": "109123812",
   "moreinfo": "http://usergroup.tv/videos/windows-phone-30-to-launch-session-4-publishing-your-new-wp-application",
   "thumbnail": "https://i.vimeocdn.com/video/492997174_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/109123812.hd.mp4?s=cd7a0322daa60dd1f1d9abcb2fb2146175d6e2f1&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/109123812.sd.mp4?s=2ce7e522f1dbbcb8cc28ed80018a79dc8d5ff854&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 728,
   "speakers": [
     {
       "name": "Chris Koenig",

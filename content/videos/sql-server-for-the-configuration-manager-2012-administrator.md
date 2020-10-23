@@ -11,6 +11,9 @@
   "vimeo": "138523302",
   "moreinfo": "http://www.sqlsaturday.com/422/Sessions/Details.aspx?sid=25815",
   "thumbnail": "https://i.vimeocdn.com/video/533910919_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/138523302.hd.mp4?s=dbce67b6f5085114797576b95c87e13b45d3b65a&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/138523302.sd.mp4?s=42685769230b868c3a5f10956690f1aadf230022&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 791,
   "speakers": [
     {
       "name": "Steven Rachui",

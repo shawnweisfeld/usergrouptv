@@ -11,6 +11,9 @@
   "vimeo": "184509912",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/593964660_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/184509912.hd.mp4?s=8cf218ea0fe0c4fcdf1f9ffabccff34e9199dcbc&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/184509912.sd.mp4?s=41fad884691f747a81f13a7b02389cb41d8fa962&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 147,
   "speakers": [
     {
       "name": "Miguel Gonzalez",

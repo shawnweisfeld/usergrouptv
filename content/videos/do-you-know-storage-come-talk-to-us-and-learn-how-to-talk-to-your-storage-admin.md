@@ -11,6 +11,9 @@
   "vimeo": "210942314",
   "moreinfo": "http://www.sqlsaturday.com/603/Sessions/Details.aspx?sid=63044",
   "thumbnail": "https://i.vimeocdn.com/video/626861915_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/210942314.hd.mp4?s=41b1cb4056318808238087fd5ac5117bceca3aa2&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/210942314.sd.mp4?s=53955deb07ef5d3125465251d2dd0ddfb828b455&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 199,
   "speakers": [
     {
       "name": "Marsha Pierce",

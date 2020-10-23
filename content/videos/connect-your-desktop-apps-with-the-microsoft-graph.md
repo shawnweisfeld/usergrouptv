@@ -11,6 +11,9 @@
   "vimeo": "346640612",
   "moreinfo": "https://developer.microsoft.com/en-us/windows/campaigns/us-tx-dallas",
   "thumbnail": "https://i.vimeocdn.com/video/796753583_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/346640612.hd.mp4?s=926e5d0877f27a4ecf1b6974a251401d8200b602&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/346640612.sd.mp4?s=e18acc82acab6e0871342e14e46f8f9d814201da&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 319,
   "speakers": [
     {
       "name": "Robert Taylor",

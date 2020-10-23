@@ -13,6 +13,9 @@
   "vimeo": "108782141",
   "moreinfo": "http://www.fwdnug.com/",
   "thumbnail": "https://i.vimeocdn.com/video/492567992_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/108782141.hd.mp4?s=09ff81c715c4921a1cfd7a6ca08aaedfe543f6b9&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/108782141.sd.mp4?s=34cdfefd9e72834a5dcf45758bda89d37418db41&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 723,
   "speakers": [
     {
       "name": "Joseph Hill",

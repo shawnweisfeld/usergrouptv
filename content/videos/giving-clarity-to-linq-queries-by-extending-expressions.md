@@ -11,6 +11,9 @@
   "vimeo": "139191739",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda",
   "thumbnail": "https://i.vimeocdn.com/video/534899065_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/139191739.hd.mp4?s=f79aa8db5d46d500576d7c418d6f437cc21007e3&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/139191739.sd.mp4?s=25d1c5926cfe140ef87fbd694c9b28f2958b8f15&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 799,
   "speakers": [
     {
       "name": "Ed Charbeneau",

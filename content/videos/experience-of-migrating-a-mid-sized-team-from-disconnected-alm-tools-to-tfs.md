@@ -11,6 +11,9 @@
   "vimeo": "101662310",
   "moreinfo": "https://sites.google.com/site/tfsaustinusergroup/project-updates/experienceofmigratingamid-sizedteamfromdisconnectedalmtoolstotfs",
   "thumbnail": "https://i.vimeocdn.com/video/483492112_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/101662310.hd.mp4?s=c69694e438590c35149ec2aed7198fd455ed8029&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/101662310.sd.mp4?s=eabce6e4a026b9cd7214438f7357522f386953ef&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 941,
   "speakers": [
     {
       "name": "Clementino de Mendonca",

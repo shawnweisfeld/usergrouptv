@@ -11,6 +11,9 @@
   "vimeo": "184504789",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/593958839_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/184504789.hd.mp4?s=7e81a877fc5eee8ef24fdda2f4d629d7f1e4eda8&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/184504789.sd.mp4?s=331d30028cf54c584479f8903f73fd9eec4812da&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 169,
   "speakers": [
     {
       "name": "Justin Self",

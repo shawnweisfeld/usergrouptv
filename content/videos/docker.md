@@ -11,6 +11,9 @@
   "vimeo": "140730533",
   "moreinfo": "http://measureup2015.azurewebsites.net/docker/",
   "thumbnail": "https://i.vimeocdn.com/video/537388230_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/140730533.hd.mp4?s=46fabcc29bc58a22e80b5d56a876e2a597992c90&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/140730533.sd.mp4?s=30646cfb4bede45120db235983f5551813e1e1b3&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 885,
   "speakers": [
     {
       "name": "Kyle Baley",

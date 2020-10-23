@@ -11,6 +11,9 @@
   "vimeo": "230330983",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650871884_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230330983.hd.mp4?s=e849bfcf3d500890637819cbe2b1ad1fb155891c&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230330983.sd.mp4?s=d1d11c86f8358fce249ae4b686cd8626010a6387&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 50,
   "speakers": [
     {
       "name": "Jessica Lucci",

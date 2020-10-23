@@ -11,6 +11,9 @@
   "vimeo": "108779668",
   "moreinfo": "http://www.dallastechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/492564994_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/108779668.hd.mp4?s=d7dd9f627c849ee1d867fa696263bca7cdc76dc1&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/108779668.sd.mp4?s=6f0a36cae906322873380c4714309d48574e59e0&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 991,
   "speakers": [
     {
       "name": "David Rollins",

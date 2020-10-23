@@ -11,6 +11,9 @@
   "vimeo": "140730570",
   "moreinfo": "http://measureup.io/windows-10-development-readiness/",
   "thumbnail": "https://i.vimeocdn.com/video/537387987_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/140730570.hd.mp4?s=0a621e72d9d6ccd43c277f2e386198712e8f18e4&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/140730570.sd.mp4?s=b1efe18146b7db809b73cd922fc999890814d6c1&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 899,
   "speakers": [
     {
       "name": "Joseph Reynolds",

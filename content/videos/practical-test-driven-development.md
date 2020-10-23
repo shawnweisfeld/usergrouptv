@@ -11,6 +11,9 @@
   "vimeo": "114764795",
   "moreinfo": "http://www.ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/500553151_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/114764795.hd.mp4?s=10d961d16b5c6324fa9621a3a359879e254f9ad7&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/114764795.sd.mp4?s=3ac54cbba61546f62dfb2587b54cdf60aa33f377&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 680,
   "speakers": [
     {
       "name": "Tim Rayburn",

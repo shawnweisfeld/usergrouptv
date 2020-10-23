@@ -11,6 +11,9 @@
   "vimeo": "108062579",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/491654377_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/108062579.hd.mp4?s=c103b4b43b2ef74d3a8fa84152b2e58d5df22eab&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/108062579.sd.mp4?s=3809e79f1e1883f8cb1306a4c687419ee16d6d06&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 578,
   "speakers": [
     {
       "name": "Ryan Joy",

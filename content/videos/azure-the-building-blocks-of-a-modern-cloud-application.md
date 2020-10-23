@@ -11,6 +11,9 @@
   "vimeo": "129024689",
   "moreinfo": "http://dallasasp.net/Meetings/12830.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/520365768_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/129024689.hd.mp4?s=c7c5a1a55ff2392798929d4009f6260cdaed1a39&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/129024689.sd.mp4?s=7a3a2cc66f3996ea8a37eda6daa4e33403d05bae&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 833,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

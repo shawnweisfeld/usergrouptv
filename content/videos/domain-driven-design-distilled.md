@@ -11,6 +11,9 @@
   "vimeo": "142867179",
   "moreinfo": "http://lrtechfest.com/speakerdetails/#Steven-Lowe",
   "thumbnail": "https://i.vimeocdn.com/video/540282643_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/142867179.hd.mp4?s=deb6ba7f4de7e145021102b3ed2ece54c59f36be&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/142867179.sd.mp4?s=1e4d1b30a3309054807f2934bbfb84af9723173f&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 891,
   "speakers": [
     {
       "name": "Steven Lowe",

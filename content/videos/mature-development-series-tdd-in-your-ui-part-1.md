@@ -11,6 +11,9 @@
   "vimeo": "111927164",
   "moreinfo": "http://dallasxaml.com",
   "thumbnail": "https://i.vimeocdn.com/video/496721357_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/111927164.hd.mp4?s=8e7d31e6d1c2a865d08e33eeaeeb5393da873569&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/111927164.sd.mp4?s=13da224c91154ced835cc1474f9bd9c2b3ed19c7&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 553,
   "speakers": [
     {
       "name": "Caleb Jenkins",

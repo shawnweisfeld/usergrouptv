@@ -11,6 +11,9 @@
   "vimeo": "295055212",
   "moreinfo": "https://www.devfestweekend.com/schedule",
   "thumbnail": "https://i.vimeocdn.com/video/732110035_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/295055212.hd.mp4?s=02361b8e4826b809bbf20d97c240a8f526fa9719&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/295055212.sd.mp4?s=23667db971fb33e44728053547e3f10917896fc3&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 463,
   "speakers": [
     {
       "name": "Chris Love",

@@ -11,6 +11,9 @@
   "vimeo": "430009698",
   "moreinfo": "https://www.meetup.com/azureaustin/events/269301061/",
   "thumbnail": "https://i.vimeocdn.com/video/910379644_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/430009698.hd.mp4?s=1227c92894e307f460890356cdc78a79ca361278&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/430009698.sd.mp4?s=578341643758afa9705c3b3c367c3defa0c1349a&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 347,
   "speakers": [
     {
       "name": "Jeffrey Palermo",

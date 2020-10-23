@@ -11,6 +11,9 @@
   "vimeo": "140491642",
   "moreinfo": "http://dallasasp.net/Meetings/14835.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/536918008_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/140491642.hd.mp4?s=a942ea895c93077b7d91889bada421f5dbffe13c&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/140491642.sd.mp4?s=82134ce017de46870b2a8760e41ca1fcbc3ad13e&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 872,
   "speakers": [
     {
       "name": "Markus Egger",

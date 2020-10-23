@@ -11,6 +11,9 @@
   "vimeo": "107458125",
   "moreinfo": "http://lrtechfest.com/speakers#adam-hill",
   "thumbnail": "https://i.vimeocdn.com/video/490860700_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/107458125.hd.mp4?s=f6534effae2e0e82919726385232d7c340a62521&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/107458125.sd.mp4?s=7f989cebaf952f255f926d489d2516e4fbf6a209&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 979,
   "speakers": [
     {
       "name": "Adam Hill",

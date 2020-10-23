@@ -11,6 +11,9 @@
   "vimeo": "363308129",
   "moreinfo": "https://www.joomladaytexas.com/",
   "thumbnail": "https://i.vimeocdn.com/video/818415218_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/363308129.hd.mp4?s=b25638048d71934eed8a482280be4a8c48e04f77&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/363308129.sd.mp4?s=3332f232e54311147a36d9830537007a9d923e8b&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 287,
   "speakers": [
     {
       "name": "Doug Deitel",

@@ -11,6 +11,9 @@
   "vimeo": "109120979",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/492993320_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/109120979.hd.mp4?s=7c3e2710ab711abb77c895d526f6e341fed8b5fd&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/109120979.sd.mp4?s=15a704cf9a50a367452e33cb36fa95954776c579&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 722,
   "speakers": [
     {
       "name": "Eric Sowell",

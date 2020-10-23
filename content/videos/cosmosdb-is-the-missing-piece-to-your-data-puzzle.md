@@ -11,6 +11,9 @@
   "vimeo": "348235199",
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=94006",
   "thumbnail": "https://i.vimeocdn.com/video/798801249_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/348235199.hd.mp4?s=e3c0462f4cb474f02e36c19a5b86e868371750dc&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/348235199.sd.mp4?s=fd691da07a3caddbe71c7057439d0bab7712d74c&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 274,
   "speakers": [
     {
       "name": "Hasan Savran",

@@ -11,6 +11,9 @@
   "vimeo": "142868194",
   "moreinfo": "http://lrtechfest.com/speakerdetails/#Alese-Stroud",
   "thumbnail": "https://i.vimeocdn.com/video/540284075_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/142868194.hd.mp4?s=8b1fe2e7dfb669ce8d688901f9c28ae6d3e2c2ed&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/142868194.sd.mp4?s=a61f2c514af435fcf4747f2a9add3324b8487379&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 869,
   "speakers": [
     {
       "name": "Alese Stroud",

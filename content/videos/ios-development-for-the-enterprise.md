@@ -11,6 +11,9 @@
   "vimeo": "107745935",
   "moreinfo": "http://lrtechfest.com/speakers#lj-wilson",
   "thumbnail": "https://i.vimeocdn.com/video/491229077_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/107745935.hd.mp4?s=422dcb7a3aee04d2212d9f1fe3d6d91fa9cdf86a&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/107745935.sd.mp4?s=97dcece921b6d6a3ef653bb05143cf3b7890cd09&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 974,
   "speakers": [
     {
       "name": "LJ Wilson",

@@ -11,6 +11,9 @@
   "vimeo": "110773369",
   "moreinfo": "http://www.hands-on-coding.net",
   "thumbnail": "https://i.vimeocdn.com/video/495141812_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/110773369.hd.mp4?s=66e7fcbd065748c8920874809ff93b0d4ca8c110&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/110773369.sd.mp4?s=88b1b4446c56592d5b52360ea5f70a7b16904755&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 763,
   "speakers": [
     {
       "name": "Rob Vettor",

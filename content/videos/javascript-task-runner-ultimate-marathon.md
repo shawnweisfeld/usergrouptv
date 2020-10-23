@@ -11,6 +11,9 @@
   "vimeo": "100516597",
   "moreinfo": "http://tulsaschoolofdev.com",
   "thumbnail": "https://i.vimeocdn.com/video/482026905_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100516597.hd.mp4?s=3c9bd671f1711f1fabac18a0c227c348d8a0dd86&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100516597.sd.mp4?s=de6b3069a1fcea9426814eeb7cdaef0aeb93c340&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 914,
   "speakers": [
     {
       "name": "Jesse Harlin",

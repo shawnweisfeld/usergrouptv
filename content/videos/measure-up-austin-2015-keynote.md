@@ -11,6 +11,9 @@
   "vimeo": "140641958",
   "moreinfo": "http://measureup.io",
   "thumbnail": "https://i.vimeocdn.com/video/537234017_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/140641958.hd.mp4?s=9e269dda620210e8437619186b34670c8a5a2e40&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/140641958.sd.mp4?s=3e5f9151c376178815672bf74843fff20b9c1b2e&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 873,
   "speakers": [
     {
       "name": "Jeffrey Palermo",

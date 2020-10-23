@@ -11,6 +11,9 @@
   "vimeo": "440303910",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/270541807/",
   "thumbnail": "https://i.vimeocdn.com/video/927684320_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/440303910.hd.mp4?s=083f5e5d01a02864eab3d6d4d937ccf8c3b59119&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/440303910.sd.mp4?s=1f34a831874fcf4b9bb6e1cd1f418797467e608b&profile_id=139&oauth2_token_id=20985841",
+  "recordingID": 349,
   "speakers": [
     {
       "name": "Steve Smith",

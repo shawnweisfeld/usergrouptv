@@ -11,6 +11,9 @@
   "vimeo": "233458517",
   "moreinfo": "http://adnug.org/Home/762/",
   "thumbnail": "https://i.vimeocdn.com/video/654791666_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/233458517.hd.mp4?s=15b634b962162e2638d1f5d432bac81b7a4e3cbc&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/233458517.sd.mp4?s=9c51de5e95f17da01de8617af65e170708f07ed5&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 21,
   "speakers": [
     {
       "name": "Jane Prusakova",

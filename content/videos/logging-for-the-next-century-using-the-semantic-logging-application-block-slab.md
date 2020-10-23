@@ -11,6 +11,9 @@
   "vimeo": "100578839",
   "moreinfo": "http://tulsaschoolofdev.com",
   "thumbnail": "https://i.vimeocdn.com/video/482108876_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/100578839.hd.mp4?s=6acab5e193be0c1ece38c55fdc51f388ae9cfc5b&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/100578839.sd.mp4?s=ddc131738d7a2901b0243542fd000e76f1ddc691&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 910,
   "speakers": [
     {
       "name": "Shawn Weisfeld",

@@ -11,6 +11,9 @@
   "vimeo": "118595641",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=26468",
   "thumbnail": "https://i.vimeocdn.com/video/505668502_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/118595641.hd.mp4?s=4016adb394c4545df902c21c7a0e1d905d3736d7&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/118595641.sd.mp4?s=543f7dd9f221be564c3c8fc3f12807c460d9ab28&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 821,
   "speakers": [
     {
       "name": "Conor Cunningham",

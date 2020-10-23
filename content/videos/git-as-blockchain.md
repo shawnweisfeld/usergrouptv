@@ -11,6 +11,9 @@
   "vimeo": "295054638",
   "moreinfo": "https://www.devfestweekend.com/schedule",
   "thumbnail": "https://i.vimeocdn.com/video/732109253_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/295054638.hd.mp4?s=a4d49fe80659b376c602459408b6c9f9c231ff4f&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/295054638.sd.mp4?s=af9d59f1b81e31dd7325c5931107f63a9320fd45&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 460,
   "speakers": [
     {
       "name": "Michael L Perry",

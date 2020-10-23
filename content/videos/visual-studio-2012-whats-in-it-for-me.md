@@ -11,6 +11,9 @@
   "vimeo": "103222057",
   "moreinfo": "http://techfests.com/Tulsa/2012/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/485394817_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/103222057.hd.mp4?s=e780fb4816222543953919a114cb364264a5d6b7&profile_id=113&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/103222057.sd.mp4?s=3e532e8f0524f53f928a7dfa74043d18eb6b176c&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 633,
   "speakers": [
     {
       "name": "Jeff Bramwell",

@@ -11,6 +11,9 @@
   "vimeo": "210950279",
   "moreinfo": "http://www.sqlsaturday.com/603/Sessions/Details.aspx?sid=57517",
   "thumbnail": "https://i.vimeocdn.com/video/626872892_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/210950279.hd.mp4?s=ead739518035d975936b6b314b9621b94db6c5a7&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/210950279.sd.mp4?s=443860e4f9d411e3309f3abeac24664eb64d8bd8&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 165,
   "speakers": [
     {
       "name": "Peter Myers",

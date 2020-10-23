@@ -11,6 +11,9 @@
   "vimeo": "230526730",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/651116902_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/230526730.hd.mp4?s=ca803d1928dacc3d7575a032061f9611d3225392&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/230526730.sd.mp4?s=b3259877215a3701136b28c7aaa872c615729806&profile_id=164&oauth2_token_id=20985841",
+  "recordingID": 45,
   "speakers": [
     {
       "name": "Miriam Arora",

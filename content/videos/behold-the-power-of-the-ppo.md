@@ -11,6 +11,9 @@
   "vimeo": "140730504",
   "moreinfo": "http://measureup2015.azurewebsites.net/behold-the-power-of-the-ppo/",
   "thumbnail": "https://i.vimeocdn.com/video/537387571_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/140730504.hd.mp4?s=28cf526cc458d8b29e9af532246bb3c2c1eb174e&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/140730504.sd.mp4?s=06a13fe380ab45bdec6d575e30ab442f038f3aad&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 874,
   "speakers": [
     {
       "name": "Kevin Hurwitz",

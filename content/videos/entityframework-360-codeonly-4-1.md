@@ -11,6 +11,9 @@
   "vimeo": "113706171",
   "moreinfo": "http://dallas-csharp-sig.com",
   "thumbnail": "https://i.vimeocdn.com/video/499120891_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/113706171.hd.mp4?s=2b43cc9410b9f592f8af1e0ccd9b347b2d713cbb&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/113706171.sd.mp4?s=819caf0cbcd5a8daa532e23c464ae73bd4d21d44&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 649,
   "speakers": [
     {
       "name": "Rob Vettor",

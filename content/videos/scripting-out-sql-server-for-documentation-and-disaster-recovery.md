@@ -11,6 +11,9 @@
   "vimeo": "138522818",
   "moreinfo": "http://www.sqlsaturday.com/422/Sessions/Details.aspx?sid=36325",
   "thumbnail": "https://i.vimeocdn.com/video/533910234_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/138522818.hd.mp4?s=6a9d403261d011511fc71e4d38a0092ffd290a0e&profile_id=119&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/138522818.sd.mp4?s=09c60eec01e99fff913f2821fcd1e389a3d9475c&profile_id=112&oauth2_token_id=20985841",
+  "recordingID": 786,
   "speakers": [
     {
       "name": "George Walkey",

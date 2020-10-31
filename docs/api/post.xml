@@ -25875,4 +25875,31 @@ From there, we will dive even deeper by simulating more advanced attacks from au
       <slug>sql-server</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Visual Studio 2019 .NET Productivity</Title>
+    <Url>https://usergroup.tv/videos/visual-studio-2019-net-productivity/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/985853435_295x166.jpg</Thumbnail>
+    <Excerpt>Pump up your .NET productivity with the latest additions to Visual Studio and Visual Studio for Mac. This session includes tips for navigating, refactoring, testing, and cleaning up your code.</Excerpt>
+    <PostDate>2020-10-27T00:00:00</PostDate>
+    <Id>1041</Id>
+    <Mp4Video>http://player.vimeo.com/external/474179540.hd.mp4?s=4afeb76f3ca45401d4acf3e7154cb45b0f6dbebf&amp;profile_id=174&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/474179540.sd.mp4?s=e8a443e1262ddd218a9530fec350cab0b1837000&amp;profile_id=164&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Kendra Havens</name>
+      <slug>kendra-havens</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>.net</name>
+      <slug>net</slug>
+    </Tags>
+    <Tags>
+      <name>Visual Studio</name>
+      <slug>visual-studio</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

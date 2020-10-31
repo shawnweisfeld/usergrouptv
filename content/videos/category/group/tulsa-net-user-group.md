@@ -5,9 +5,31 @@
     "Tulsa .NET User Group"
   ],
   "slug": "tulsa-net-user-group",
-  "date": "2020-10-08T00:00:00",
+  "date": "2020-10-27T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Visual Studio 2019 .NET Productivity",
+      "slug": "visual-studio-2019-net-productivity",
+      "thumbnail": "https://i.vimeocdn.com/video/985853435_295x166.jpg",
+      "date": "2020-10-27T00:00:00",
+      "speakers": [
+        {
+          "name": "Kendra Havens",
+          "slug": "kendra-havens"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "Visual Studio",
+          "slug": "visual-studio"
+        }
+      ]
+    },
     {
       "title": "Using the Compiler API in Real-World Scenarios",
       "slug": "using-the-compiler-api-in-realworld-scenarios",

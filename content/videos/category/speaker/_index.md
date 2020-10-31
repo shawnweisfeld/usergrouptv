@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2020-10-23T18:20:33.1035687Z",
+  "date": "2020-10-31T16:44:47.3264554Z",
   "draft": false,
   "speakers": [
     {
@@ -2096,6 +2096,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/486704902_295x166.jpg",
       "date": "2014-08-22T17:36:13",
       "count": 3
+    },
+    {
+      "title": "Kendra Havens",
+      "slug": "kendra-havens",
+      "thumbnail": "https://i.vimeocdn.com/video/985853435_295x166.jpg",
+      "date": "2020-10-27T00:00:00",
+      "count": 1
     },
     {
       "title": "Kenneth Fisher",

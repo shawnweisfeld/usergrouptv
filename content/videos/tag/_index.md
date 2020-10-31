@@ -1,15 +1,15 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2020-10-23T18:20:33.742588Z",
+  "date": "2020-10-31T16:44:49.055551Z",
   "draft": false,
   "ugtvtags": [
     {
       "title": ".net",
       "slug": "net",
-      "thumbnail": "https://i.vimeocdn.com/video/976577166_295x166.jpg",
-      "date": "2020-10-12T00:00:00",
-      "count": 8
+      "thumbnail": "https://i.vimeocdn.com/video/985853435_295x166.jpg",
+      "date": "2020-10-27T00:00:00",
+      "count": 9
     },
     {
       "title": ".NET Core",
@@ -2810,6 +2810,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/507048285_295x166.jpg",
       "date": "2013-01-15T21:35:39",
       "count": 2
+    },
+    {
+      "title": "Visual Studio",
+      "slug": "visual-studio",
+      "thumbnail": "https://i.vimeocdn.com/video/985853435_295x166.jpg",
+      "date": "2020-10-27T00:00:00",
+      "count": 1
     },
     {
       "title": "VisualStudio.com",

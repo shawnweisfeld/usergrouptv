@@ -1,12 +1,40 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2020-10-23T18:20:32.3300076Z",
+  "date": "2020-10-31T16:44:43.4953356Z",
   "draft": false,
-  "recordingCount": "1,036",
-  "speakerCount": "579",
+  "recordingCount": "1,037",
+  "speakerCount": "580",
   "groupCount": "66",
   "newest": [
+    {
+      "title": "Visual Studio 2019 .NET Productivity",
+      "slug": "visual-studio-2019-net-productivity",
+      "thumbnail": "https://i.vimeocdn.com/video/985853435_295x166.jpg",
+      "date": "2020-10-27T00:00:00",
+      "speakers": [
+        {
+          "name": "Kendra Havens",
+          "slug": "kendra-havens"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "Visual Studio",
+          "slug": "visual-studio"
+        }
+      ]
+    },
     {
       "title": "How to get the best TCO while running SQL Server on Azure VM",
       "slug": "how-to-get-the-best-tco-while-running-sql-server-on-azure-vm",
@@ -484,30 +512,6 @@
         {
           "name": "Power BI",
           "slug": "power-bi"
-        }
-      ]
-    },
-    {
-      "title": "Introducing Domain-Driven Design",
-      "slug": "introducing-domain-driven-design",
-      "thumbnail": "https://i.vimeocdn.com/video/927684320_295x166.jpg",
-      "date": "2020-07-07T13:07:52",
-      "speakers": [
-        {
-          "name": "Steve Smith",
-          "slug": "steve-smith"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "DDD",
-          "slug": "ddd"
         }
       ]
     }

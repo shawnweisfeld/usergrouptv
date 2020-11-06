@@ -20,8 +20,24 @@
      <p>We would like to thank you for watching, and thank all the speakers and group leaders for donating there time and talent, UserGroup.tv would not be possible without you. Please share this site with your friends and co-workers. Moreover, show your appreciation and drop a thank you to the speaker and group on your social platform of choice.</p>
 
         <h2>Recent Recordings: </h2>
-        <div class="row row-cols-1 row-cols-md-3">
+        
+            {{ $.Scratch.Set "i" -1 }}
             {{ range .Params.newest }}
+            {{ $.Scratch.Add "i" 1 }}
+            {{ $i := $.Scratch.Get "i" }}
+            {{ if (eq $i 0) }}
+              <div class="row row-cols-1 row-cols-md-3">
+            {{ end }}
+            {{ if and (modBool $i 6) (ne $i 0)}}
+              </div>
+              <div class="row">
+                <div class="col">
+                  <div data-type="ad" data-publisher="lqm.usergrouptv.site" data-format="728x90" data-zone="ros" class="horizontal-ad"></div>
+                </div>
+              </div>
+              <div class="row row-cols-1 row-cols-md-3">
+            {{ end }}
+            
             <div class="col mb-4 ">
               <div class="card recording-card">
                 <a href="/videos/{{.slug}}"><img src="{{ .thumbnail }}" class="card-img-top" alt={{ .title }}></a>
@@ -45,8 +61,10 @@
                 </div>
               </div>
             </div>
+            
             {{ end }}
           </div>
+          
     </div>
 
 {{ end }}

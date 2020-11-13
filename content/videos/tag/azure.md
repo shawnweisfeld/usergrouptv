@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "azure",
-  "date": "2020-10-20T00:00:00",
+  "date": "2020-11-09T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Building a .NET Application Using Azure Cosmos DB",
+      "slug": "building-a-net-application-using-azure-cosmos-db",
+      "thumbnail": "https://i.vimeocdn.com/video/994396316_295x166.jpg",
+      "date": "2020-11-09T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Chad Green",
+          "slug": "chad-green"
+        }
+      ]
+    },
     {
       "title": "How to get the best TCO while running SQL Server on Azure VM",
       "slug": "how-to-get-the-best-tco-while-running-sql-server-on-azure-vm",

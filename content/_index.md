@@ -1,12 +1,100 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2020-11-08T17:06:40.9133939Z",
+  "date": "2020-11-13T20:17:58.3911997Z",
   "draft": false,
-  "recordingCount": "1,037",
-  "speakerCount": "580",
+  "recordingCount": "1,040",
+  "speakerCount": "582",
   "groupCount": "66",
   "newest": [
+    {
+      "title": "How Power Query Thinks: Taking the Mystery Out of Streaming and Query Folding",
+      "slug": "how-power-query-thinks-taking-the-mystery-out-of-streaming-and-query-folding",
+      "thumbnail": "https://i.vimeocdn.com/video/994397461_295x166.jpg",
+      "date": "2020-11-11T00:00:00",
+      "speakers": [
+        {
+          "name": "Ben Gribaudo",
+          "slug": "ben-gribaudo"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "PowerBI",
+          "slug": "powerbi"
+        }
+      ]
+    },
+    {
+      "title": "Building a .NET Application Using Azure Cosmos DB",
+      "slug": "building-a-net-application-using-azure-cosmos-db",
+      "thumbnail": "https://i.vimeocdn.com/video/994396316_295x166.jpg",
+      "date": "2020-11-09T00:00:00",
+      "speakers": [
+        {
+          "name": "Chad Green",
+          "slug": "chad-green"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Attributes",
+          "slug": "attributes"
+        },
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
+      ]
+    },
+    {
+      "title": "HtmlTags: The TagHelper library you didn’t know you needed",
+      "slug": "htmltags-the-taghelper-library-you-didnt-know-you-needed",
+      "thumbnail": "https://i.vimeocdn.com/video/994396762_295x166.jpg",
+      "date": "2020-11-09T00:00:00",
+      "speakers": [
+        {
+          "name": "Nolan Egly",
+          "slug": "nolan-egly"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "ASP.NET MVC",
+          "slug": "asp-net-mvc"
+        },
+        {
+          "name": "ASP.NET",
+          "slug": "asp-net"
+        },
+        {
+          "name": "HtmlTags",
+          "slug": "htmltags"
+        }
+      ]
+    },
     {
       "title": "Visual Studio 2019 .NET Productivity",
       "slug": "visual-studio-2019-net-productivity",
@@ -436,82 +524,6 @@
         {
           "name": "C#",
           "slug": "c"
-        }
-      ]
-    },
-    {
-      "title": "Cloud Adoption Framework",
-      "slug": "cloud-adoption-framework",
-      "thumbnail": "https://i.vimeocdn.com/video/928416507_295x166.jpg",
-      "date": "2020-07-21T18:08:37",
-      "speakers": [
-        {
-          "name": "Zeb Frantzich",
-          "slug": "zeb-frantzich"
-        },
-        {
-          "name": "Charlie Cuddy",
-          "slug": "charlie-cuddy"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        }
-      ],
-      "tags": [
-        {
-          "name": "caf",
-          "slug": "caf"
-        }
-      ]
-    },
-    {
-      "title": "Microservices -- The Easy Way is the Wrong Way",
-      "slug": "microservices-the-easy-way-is-the-wrong-way",
-      "thumbnail": "https://i.vimeocdn.com/video/926019495_295x166.jpg",
-      "date": "2020-07-09T18:32:55",
-      "speakers": [
-        {
-          "name": "Sean Whitesell",
-          "slug": "sean-whitesell"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Dallas .NET UG",
-          "slug": "dallas-net-ug"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Microservices",
-          "slug": "microservices"
-        }
-      ]
-    },
-    {
-      "title": "Power BI Self Enclosed Sandbox",
-      "slug": "power-bi-self-enclosed-sandbox",
-      "thumbnail": "https://i.vimeocdn.com/video/924740057_295x166.jpg",
-      "date": "2020-07-08T13:40:12",
-      "speakers": [
-        {
-          "name": "Matthew Floyd",
-          "slug": "matthew-floyd"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Power BI",
-          "slug": "power-bi"
         }
       ]
     }

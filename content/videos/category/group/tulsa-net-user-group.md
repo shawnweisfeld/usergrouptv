@@ -5,9 +5,35 @@
     "Tulsa .NET User Group"
   ],
   "slug": "tulsa-net-user-group",
-  "date": "2020-10-27T00:00:00",
+  "date": "2020-11-09T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Building a .NET Application Using Azure Cosmos DB",
+      "slug": "building-a-net-application-using-azure-cosmos-db",
+      "thumbnail": "https://i.vimeocdn.com/video/994396316_295x166.jpg",
+      "date": "2020-11-09T00:00:00",
+      "speakers": [
+        {
+          "name": "Chad Green",
+          "slug": "chad-green"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Attributes",
+          "slug": "attributes"
+        },
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
+      ]
+    },
     {
       "title": "Visual Studio 2019 .NET Productivity",
       "slug": "visual-studio-2019-net-productivity",

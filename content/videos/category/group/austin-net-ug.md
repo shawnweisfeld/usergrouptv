@@ -5,9 +5,35 @@
     "Austin .NET UG"
   ],
   "slug": "austin-net-ug",
-  "date": "2020-10-12T00:00:00",
+  "date": "2020-11-09T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "HtmlTags: The TagHelper library you didn’t know you needed",
+      "slug": "htmltags-the-taghelper-library-you-didnt-know-you-needed",
+      "thumbnail": "https://i.vimeocdn.com/video/994396762_295x166.jpg",
+      "date": "2020-11-09T00:00:00",
+      "speakers": [
+        {
+          "name": "Nolan Egly",
+          "slug": "nolan-egly"
+        }
+      ],
+      "tags": [
+        {
+          "name": "ASP.NET MVC",
+          "slug": "asp-net-mvc"
+        },
+        {
+          "name": "ASP.NET",
+          "slug": "asp-net"
+        },
+        {
+          "name": "HtmlTags",
+          "slug": "htmltags"
+        }
+      ]
+    },
     {
       "title": "Röck Yoür Cöde: Defensive Programming for Microsoft .NET",
       "slug": "rck-yor-cde-defensive-programming-for-microsoft-net",

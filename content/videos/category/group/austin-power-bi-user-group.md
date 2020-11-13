@@ -5,9 +5,27 @@
     "Austin Power BI User Group"
   ],
   "slug": "austin-power-bi-user-group",
-  "date": "2020-10-14T00:00:00",
+  "date": "2020-11-11T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "How Power Query Thinks: Taking the Mystery Out of Streaming and Query Folding",
+      "slug": "how-power-query-thinks-taking-the-mystery-out-of-streaming-and-query-folding",
+      "thumbnail": "https://i.vimeocdn.com/video/994397461_295x166.jpg",
+      "date": "2020-11-11T00:00:00",
+      "speakers": [
+        {
+          "name": "Ben Gribaudo",
+          "slug": "ben-gribaudo"
+        }
+      ],
+      "tags": [
+        {
+          "name": "PowerBI",
+          "slug": "powerbi"
+        }
+      ]
+    },
     {
       "title": "Machine Learning in Power BI with Python",
       "slug": "machine-learning-in-power-bi-with-python",

@@ -26,7 +26,7 @@
     {
       "name": "ASP.NET MVC",
       "slug": "asp-net-mvc",
-      "count": 2
+      "count": 3
     }
   ],
   "meetups": [

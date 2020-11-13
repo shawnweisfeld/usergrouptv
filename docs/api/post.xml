@@ -25902,4 +25902,89 @@ From there, we will dive even deeper by simulating more advanced attacks from au
       <slug>visual-studio</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Building a .NET Application Using Azure Cosmos DB</Title>
+    <Url>https://usergroup.tv/videos/building-a-net-application-using-azure-cosmos-db/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/994396316_295x166.jpg</Thumbnail>
+    <Excerpt>Building a .NET Application Using Azure Cosmos DB Are you looking to build an application that needs a data store with guaranteed single-digit millisecond response times with multi-master global distribution? Then Azure Cosmos DB is for you. In this presentation, you will learn what exactly Cosmos DB is, what it can be used for, how to access data stored in Cosmos using .NET, and some pitfalls you will want to avoid.</Excerpt>
+    <PostDate>2020-11-09T00:00:00</PostDate>
+    <Id>1042</Id>
+    <Mp4Video>http://player.vimeo.com/external/478978592.hd.mp4?s=b7ce542fa366aaad1eb70685afd032f69f11b96f&amp;profile_id=175&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/478978592.sd.mp4?s=8397c888843a28eb577d597c0750a9ea38eb2afe&amp;profile_id=165&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Chad Green</name>
+      <slug>chad-green</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Attributes</name>
+      <slug>attributes</slug>
+    </Tags>
+    <Tags>
+      <name>.net</name>
+      <slug>net</slug>
+    </Tags>
+    <Tags>
+      <name>Azure</name>
+      <slug>azure</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>HtmlTags: The TagHelper library you didn’t know you needed</Title>
+    <Url>https://usergroup.tv/videos/htmltags-the-taghelper-library-you-didnt-know-you-needed/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/994396762_295x166.jpg</Thumbnail>
+    <Excerpt>While client side JS frameworks like React and Angular are popular and provide a great user experience, they may not be the best fit for a particular project or team. For those circumstances when you need server side rendering on your ASP.NET, there’s a relatively unknown but incredibly powerful open source library called HtmlTags. In this talk, we’ll review how to install HtmlTags in ASP.NET Core and go over the different categories of HtmlTags objects (Displays, Labels, Editors, etc.) available to you. From there we’ll start to unlock the real power by showing how to combine tag objects to build up standardized methods to render your forms in a consistent way across the application, alleviating the pain of copy and pasted layout across your HTML files. Imagine being able to change whether your labels and inputs are horizontal or vertical, or how date fields get rendered across the entire application by updating a single method! We’ll also dive into other practical techniques not in the documentation, such as easily customizing how your select lists are populated. The documentation for HtmlTags is almost nonexistent, so this walkthrough will be invaluable if you’re interested. HtmlTags can also be applied on a per-page basis, so you can start using it today without converting your entire application!</Excerpt>
+    <PostDate>2020-11-09T00:00:00</PostDate>
+    <Id>1043</Id>
+    <Mp4Video>http://player.vimeo.com/external/478979187.hd.mp4?s=006565d5182acf9bd6415dc0348eccdf96ceaea2&amp;profile_id=175&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/478979187.sd.mp4?s=4aa5971fe2235a53a1c0df87d58d3cc8bfa4f75f&amp;profile_id=165&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Nolan Egly</name>
+      <slug>nolan-egly</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin .NET UG</name>
+      <slug>austin-net-ug</slug>
+    </Groups>
+    <Tags>
+      <name>ASP.NET MVC</name>
+      <slug>asp-net-mvc</slug>
+    </Tags>
+    <Tags>
+      <name>ASP.NET</name>
+      <slug>asp-net</slug>
+    </Tags>
+    <Tags>
+      <name>HtmlTags</name>
+      <slug>htmltags</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>How Power Query Thinks: Taking the Mystery Out of Streaming and Query Folding</Title>
+    <Url>https://usergroup.tv/videos/how-power-query-thinks-taking-the-mystery-out-of-streaming-and-query-folding/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/994397461_295x166.jpg</Thumbnail>
+    <Excerpt>When a mashup is executed, sometimes the engine pulls rows one at a time (streaming). Other times, it translated a portion of the expression into the data source’s native query language (e.g. SQL) then offload its processing to that source (query folding). These behaviors affect execution efficiency (speed, memory usage, etc.), result accuracy (such as whether two aggregations returned by the same mashup are computed from the exact same data set) and data privacy/cross-source data sharing (think: privacy levels). This segment’s goal is to equip you with foundational understanding of these key concepts.</Excerpt>
+    <PostDate>2020-11-11T00:00:00</PostDate>
+    <Id>1044</Id>
+    <Mp4Video>http://player.vimeo.com/external/478979784.hd.mp4?s=e28f0179d037404591795434123e33eaf6e0449a&amp;profile_id=175&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/478979784.sd.mp4?s=8eeae85db78d89a89028f82088ccb7f378826df8&amp;profile_id=164&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Ben Gribaudo</name>
+      <slug>ben-gribaudo</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>PowerBI</name>
+      <slug>powerbi</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

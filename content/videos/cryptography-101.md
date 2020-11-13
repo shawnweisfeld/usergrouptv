@@ -19,7 +19,7 @@
       "name": "Nolan Egly",
       "slug": "nolan-egly",
       "bio": "<p>Nolan Egly has been developing software professionally for almost ten years and 'unprofessionally' since he was eight years old. He's still as excited about the possibilities of technology today as he was as a child, and loves sharing that joy with others through the occasional talk or blog post. He's passionate about doing useful things and amazed that he gets paid to do this.</p>",
-      "count": 1
+      "count": 2
     }
   ],
   "ugtvtags": [

@@ -6,7 +6,34 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2020 17:06:40 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Nov 2020 20:17:58 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Power Query Thinks: Taking the Mystery Out of Streaming and Query Folding</title>
+      <link>https://usergroup.tv/videos/how-power-query-thinks-taking-the-mystery-out-of-streaming-and-query-folding/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/how-power-query-thinks-taking-the-mystery-out-of-streaming-and-query-folding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a .NET Application Using Azure Cosmos DB</title>
+      <link>https://usergroup.tv/videos/building-a-net-application-using-azure-cosmos-db/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/building-a-net-application-using-azure-cosmos-db/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HtmlTags: The TagHelper library you didn’t know you needed</title>
+      <link>https://usergroup.tv/videos/htmltags-the-taghelper-library-you-didnt-know-you-needed/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/htmltags-the-taghelper-library-you-didnt-know-you-needed/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Visual Studio 2019 .NET Productivity</title>
       <link>https://usergroup.tv/videos/visual-studio-2019-net-productivity/</link>

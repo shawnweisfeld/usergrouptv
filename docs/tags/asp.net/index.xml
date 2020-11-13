@@ -6,22 +6,31 @@
     <description>Recent content in ASP.NET on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2020 14:03:48 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/asp.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/asp.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ASP.NET</title>
+      <link>https://usergroup.tv/videos/tag/asp-net/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/asp-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HtmlTags: The TagHelper library you didn’t know you needed</title>
+      <link>https://usergroup.tv/videos/htmltags-the-taghelper-library-you-didnt-know-you-needed/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/htmltags-the-taghelper-library-you-didnt-know-you-needed/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>A Meeting with Scott Hunter !!</title>
       <link>https://usergroup.tv/videos/a-meeting-with-scott-hunter/</link>
       <pubDate>Tue, 26 May 2020 14:03:48 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/a-meeting-with-scott-hunter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ASP.NET</title>
-      <link>https://usergroup.tv/videos/tag/asp-net/</link>
-      <pubDate>Tue, 26 May 2020 14:03:48 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/asp-net/</guid>
       <description></description>
     </item>
     

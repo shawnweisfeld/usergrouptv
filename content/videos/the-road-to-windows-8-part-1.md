@@ -34,7 +34,7 @@
     {
       "name": ".net",
       "slug": "net",
-      "count": 9
+      "count": 10
     },
     {
       "name": "XAML",

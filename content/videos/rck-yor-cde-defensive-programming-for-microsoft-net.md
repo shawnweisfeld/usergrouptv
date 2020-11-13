@@ -26,14 +26,14 @@
     {
       "name": ".net",
       "slug": "net",
-      "count": 9
+      "count": 10
     }
   ],
   "meetups": [
     {
       "name": "Austin .NET UG",
       "slug": "austin-net-ug",
-      "count": 52
+      "count": 53
     }
   ]
 }

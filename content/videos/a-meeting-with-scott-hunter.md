@@ -29,7 +29,7 @@
     {
       "name": ".net",
       "slug": "net",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Blazer",
@@ -44,14 +44,14 @@
     {
       "name": "ASP.NET",
       "slug": "asp-net",
-      "count": 4
+      "count": 5
     }
   ],
   "meetups": [
     {
       "name": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "count": 11
+      "count": 12
     }
   ]
 }

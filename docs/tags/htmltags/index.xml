@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HtmlTags on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/htmltags/</link>
+    <description>Recent content in HtmlTags on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/htmltags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HtmlTags</title>
+      <link>https://usergroup.tv/videos/tag/htmltags/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/htmltags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HtmlTags: The TagHelper library you didn’t know you needed</title>
+      <link>https://usergroup.tv/videos/htmltags-the-taghelper-library-you-didnt-know-you-needed/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/htmltags-the-taghelper-library-you-didnt-know-you-needed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

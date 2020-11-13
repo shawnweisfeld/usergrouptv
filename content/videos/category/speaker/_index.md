@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2020-11-08T17:06:42.05099Z",
+  "date": "2020-11-13T20:18:03.3407981Z",
   "draft": false,
   "speakers": [
     {
@@ -306,6 +306,13 @@
       "count": 1
     },
     {
+      "title": "Ben Gribaudo",
+      "slug": "ben-gribaudo",
+      "thumbnail": "https://i.vimeocdn.com/video/994397461_295x166.jpg",
+      "date": "2020-11-11T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Ben Humphrey",
       "slug": "ben-humphrey",
       "thumbnail": "https://i.vimeocdn.com/video/566415745_295x166.jpg",
@@ -597,6 +604,13 @@
       "slug": "cecy-correa",
       "thumbnail": "https://i.vimeocdn.com/video/650698228_295x166.jpg",
       "date": "2017-08-06T17:01:27",
+      "count": 1
+    },
+    {
+      "title": "Chad Green",
+      "slug": "chad-green",
+      "thumbnail": "https://i.vimeocdn.com/video/994396316_295x166.jpg",
+      "date": "2020-11-09T00:00:00",
       "count": 1
     },
     {
@@ -2905,9 +2919,9 @@
     {
       "title": "Nolan Egly",
       "slug": "nolan-egly",
-      "thumbnail": "https://i.vimeocdn.com/video/484299595_295x166.jpg",
-      "date": "2013-08-17T22:13:38",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/994396762_295x166.jpg",
+      "date": "2020-11-09T00:00:00",
+      "count": 2
     },
     {
       "title": "Pablo Moreno",

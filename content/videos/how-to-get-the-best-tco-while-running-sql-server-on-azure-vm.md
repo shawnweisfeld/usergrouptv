@@ -34,7 +34,7 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 36
+      "count": 37
     },
     {
       "name": "MS SQL",

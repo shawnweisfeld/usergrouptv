@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "powerbi",
-  "date": "2020-08-18T15:15:50",
+  "date": "2020-11-11T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "How Power Query Thinks: Taking the Mystery Out of Streaming and Query Folding",
+      "slug": "how-power-query-thinks-taking-the-mystery-out-of-streaming-and-query-folding",
+      "thumbnail": "https://i.vimeocdn.com/video/994397461_295x166.jpg",
+      "date": "2020-11-11T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Ben Gribaudo",
+          "slug": "ben-gribaudo"
+        }
+      ]
+    },
     {
       "title": "Azure Event Hub & Stream Analytics with Power BI",
       "slug": "azure-event-hub-stream-analytics-with-power-bi",

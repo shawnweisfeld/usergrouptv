@@ -1,15 +1,15 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2020-11-08T17:06:42.7428984Z",
+  "date": "2020-11-13T20:18:05.1202523Z",
   "draft": false,
   "ugtvtags": [
     {
       "title": ".net",
       "slug": "net",
-      "thumbnail": "https://i.vimeocdn.com/video/985853435_295x166.jpg",
-      "date": "2020-10-27T00:00:00",
-      "count": 9
+      "thumbnail": "https://i.vimeocdn.com/video/994396316_295x166.jpg",
+      "date": "2020-11-09T00:00:00",
+      "count": 10
     },
     {
       "title": ".NET Core",
@@ -147,9 +147,9 @@
     {
       "title": "ASP.NET",
       "slug": "asp-net",
-      "thumbnail": "https://i.vimeocdn.com/video/901233634_295x166.jpg",
-      "date": "2020-05-26T14:03:48",
-      "count": 4
+      "thumbnail": "https://i.vimeocdn.com/video/994396762_295x166.jpg",
+      "date": "2020-11-09T00:00:00",
+      "count": 5
     },
     {
       "title": "ASP.NET Core",
@@ -161,9 +161,9 @@
     {
       "title": "ASP.NET MVC",
       "slug": "asp-net-mvc",
-      "thumbnail": "https://i.vimeocdn.com/video/485082513_295x166.jpg",
-      "date": "2013-03-01T20:37:25",
-      "count": 2
+      "thumbnail": "https://i.vimeocdn.com/video/994396762_295x166.jpg",
+      "date": "2020-11-09T00:00:00",
+      "count": 3
     },
     {
       "title": "ASP.NET vNext",
@@ -182,9 +182,9 @@
     {
       "title": "Attributes",
       "slug": "attributes",
-      "thumbnail": "https://i.vimeocdn.com/video/495141812_295x166.jpg",
-      "date": "2011-10-11T02:58:12",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/994396316_295x166.jpg",
+      "date": "2020-11-09T00:00:00",
+      "count": 2
     },
     {
       "title": "Augmenting Reality",
@@ -224,9 +224,9 @@
     {
       "title": "Azure",
       "slug": "azure",
-      "thumbnail": "https://i.vimeocdn.com/video/980844918_295x166.jpg",
-      "date": "2020-10-20T00:00:00",
-      "count": 36
+      "thumbnail": "https://i.vimeocdn.com/video/994396316_295x166.jpg",
+      "date": "2020-11-09T00:00:00",
+      "count": 37
     },
     {
       "title": "Azure AD",
@@ -1216,6 +1216,13 @@
       "count": 1
     },
     {
+      "title": "HtmlTags",
+      "slug": "htmltags",
+      "thumbnail": "https://i.vimeocdn.com/video/994396762_295x166.jpg",
+      "date": "2020-11-09T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Hybrid Cloud",
       "slug": "hybrid-cloud",
       "thumbnail": "https://i.vimeocdn.com/video/640578412_295x166.jpg",
@@ -2009,9 +2016,9 @@
     {
       "title": "PowerBI",
       "slug": "powerbi",
-      "thumbnail": "https://i.vimeocdn.com/video/944756978_295x166.jpg",
-      "date": "2020-08-18T15:15:50",
-      "count": 5
+      "thumbnail": "https://i.vimeocdn.com/video/994397461_295x166.jpg",
+      "date": "2020-11-11T00:00:00",
+      "count": 6
     },
     {
       "title": "PowerShell",

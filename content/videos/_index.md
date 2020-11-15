@@ -1,7 +1,7 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2020-11-13T20:17:58.3911997Z",
+  "date": "2020-11-15T19:28:16.6709426Z",
   "draft": false,
   "recordingCount": "1,040",
   "speakerCount": "582",
@@ -50,12 +50,12 @@
       ],
       "tags": [
         {
-          "name": "Attributes",
-          "slug": "attributes"
-        },
-        {
           "name": ".net",
           "slug": "net"
+        },
+        {
+          "name": "Cosmos DB",
+          "slug": "cosmos-db"
         },
         {
           "name": "Azure",

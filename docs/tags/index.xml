@@ -62,15 +62,6 @@
     </item>
     
     <item>
-      <title>Attributes</title>
-      <link>https://usergroup.tv/tags/attributes/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/attributes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Austin .NET UG</title>
       <link>https://usergroup.tv/tags/austin-.net-ug/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
@@ -94,6 +85,15 @@
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/chad-green/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cosmos DB</title>
+      <link>https://usergroup.tv/tags/cosmos-db/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/cosmos-db/</guid>
       <description></description>
     </item>
     
@@ -1453,15 +1453,6 @@
       <pubDate>Mon, 12 Aug 2019 14:12:57 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/scott-dockendorf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cosmos DB</title>
-      <link>https://usergroup.tv/tags/cosmos-db/</link>
-      <pubDate>Thu, 18 Jul 2019 13:08:59 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/cosmos-db/</guid>
       <description></description>
     </item>
     
@@ -9067,6 +9058,15 @@
       <pubDate>Sat, 15 Oct 2011 03:09:29 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/jeffrey-richter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attributes</title>
+      <link>https://usergroup.tv/tags/attributes/</link>
+      <pubDate>Tue, 11 Oct 2011 02:58:12 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/attributes/</guid>
       <description></description>
     </item>
     

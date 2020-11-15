@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2020-11-13T20:18:05.1202523Z",
+  "date": "2020-11-15T19:28:17.9361944Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -182,9 +182,9 @@
     {
       "title": "Attributes",
       "slug": "attributes",
-      "thumbnail": "https://i.vimeocdn.com/video/994396316_295x166.jpg",
-      "date": "2020-11-09T00:00:00",
-      "count": 2
+      "thumbnail": "https://i.vimeocdn.com/video/495141812_295x166.jpg",
+      "date": "2011-10-11T02:58:12",
+      "count": 1
     },
     {
       "title": "Augmenting Reality",
@@ -651,9 +651,9 @@
     {
       "title": "Cosmos DB",
       "slug": "cosmos-db",
-      "thumbnail": "https://i.vimeocdn.com/video/801600697_295x166.jpg",
-      "date": "2019-07-18T13:08:59",
-      "count": 4
+      "thumbnail": "https://i.vimeocdn.com/video/994396316_295x166.jpg",
+      "date": "2020-11-09T00:00:00",
+      "count": 5
     },
     {
       "title": "CQRS",

@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "cosmos-db",
-  "date": "2019-07-18T13:08:59",
+  "date": "2020-11-09T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Building a .NET Application Using Azure Cosmos DB",
+      "slug": "building-a-net-application-using-azure-cosmos-db",
+      "thumbnail": "https://i.vimeocdn.com/video/994396316_295x166.jpg",
+      "date": "2020-11-09T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Chad Green",
+          "slug": "chad-green"
+        }
+      ]
+    },
     {
       "title": "Not All Data is Relational: An introduction to Cosmos DB",
       "slug": "not-all-data-is-relational-an-introduction-to-cosmos-db-2",

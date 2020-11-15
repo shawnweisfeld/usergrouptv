@@ -26,7 +26,7 @@
     {
       "name": "Attributes",
       "slug": "attributes",
-      "count": 2
+      "count": 1
     }
   ],
   "meetups": [

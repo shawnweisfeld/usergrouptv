@@ -5,27 +5,9 @@
   ],
   "type": "tag",
   "slug": "attributes",
-  "date": "2020-11-09T00:00:00",
+  "date": "2011-10-11T02:58:12",
   "draft": false,
   "recordings": [
-    {
-      "title": "Building a .NET Application Using Azure Cosmos DB",
-      "slug": "building-a-net-application-using-azure-cosmos-db",
-      "thumbnail": "https://i.vimeocdn.com/video/994396316_295x166.jpg",
-      "date": "2020-11-09T00:00:00",
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "speakers": [
-        {
-          "name": "Chad Green",
-          "slug": "chad-green"
-        }
-      ]
-    },
     {
       "title": "Attributes in .NET",
       "slug": "attributes-in-net",

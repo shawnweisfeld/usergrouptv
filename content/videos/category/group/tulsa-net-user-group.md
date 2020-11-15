@@ -21,12 +21,12 @@
       ],
       "tags": [
         {
-          "name": "Attributes",
-          "slug": "attributes"
-        },
-        {
           "name": ".net",
           "slug": "net"
+        },
+        {
+          "name": "Cosmos DB",
+          "slug": "cosmos-db"
         },
         {
           "name": "Azure",

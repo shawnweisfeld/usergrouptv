@@ -25921,12 +25921,12 @@ From there, we will dive even deeper by simulating more advanced attacks from au
       <slug>tulsa-net-user-group</slug>
     </Groups>
     <Tags>
-      <name>Attributes</name>
-      <slug>attributes</slug>
-    </Tags>
-    <Tags>
       <name>.net</name>
       <slug>net</slug>
+    </Tags>
+    <Tags>
+      <name>Cosmos DB</name>
+      <slug>cosmos-db</slug>
     </Tags>
     <Tags>
       <name>Azure</name>

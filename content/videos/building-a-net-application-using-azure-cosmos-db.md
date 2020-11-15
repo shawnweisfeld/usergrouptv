@@ -2,8 +2,8 @@
   "title": "Building a .NET Application Using Azure Cosmos DB",
   "type": "recording",
   "tags": [
-    "Attributes",
     ".net",
+    "Cosmos DB",
     "Azure"
   ],
   "date": "2020-11-09T00:00:00",
@@ -26,14 +26,14 @@
   ],
   "ugtvtags": [
     {
-      "name": "Attributes",
-      "slug": "attributes",
-      "count": 2
-    },
-    {
       "name": ".net",
       "slug": "net",
       "count": 10
+    },
+    {
+      "name": "Cosmos DB",
+      "slug": "cosmos-db",
+      "count": 5
     },
     {
       "name": "Azure",

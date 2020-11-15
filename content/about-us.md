@@ -4,10 +4,13 @@ date: 2020-09-17T22:13:37-05:00
 draft: false
 ---
 
-UserGroup.tv was founded in January of 2011 by Shawn Weisfeld, with the mission of providing User Group content online for free.
+UserGroup.tv was founded in January of 2011 by Shawn Weisfeld, with the mission of providing User Group content online for free. 
 
-## Founder
-Shawn Weisfeld ([http://www.shawnweisfeld.com](http://www.shawnweisfeld.com)) is passionate about building awesome applications and websites with .NET technologies and Azure. He is currently a Azure Storage PM for Microsoft based in Austin, TX and founder of [http://UserGroup.tv](http://UserGroup.tv). Read his full bio at [http://about.me/shawnweisfeld](http://about.me/shawnweisfeld) or connect with him on LinkedIn [https://www.linkedin.com/in/shawnweisfeld/](https://www.linkedin.com/in/shawnweisfeld/)
+## Founded by Shawn Weisfeld
+Shawn is passionate about building awesome applications and websites with .NET technologies and Azure. He is currently a Azure Storage PM for Microsoft based in Austin, TX and founder of [http://UserGroup.tv](http://UserGroup.tv). Read his [full bio](http://about.me/shawnweisfeld) or connect with him on [LinkedIn](https://www.linkedin.com/in/shawnweisfeld/)
+
+## Mobile Apps by Mark Wilkinson
+Mark develops software in Houston TX with a focus on iOS development and previously on .NET Enterprise development. He has a degree in Computer Engineering from the University of Houston and is passionate about new technologies, design principles and problem solving. He also enjoysold game system modding as well, take a look at some of his work for sale on [retrobitz.net](retrobitz.net). Read his [full bio](http://about.me/markawil) or connect with him on [LinkedIn](https://www.linkedin.com/in/mark-wilkinson-5ba5ba20/)
 
 ## The Rig
 

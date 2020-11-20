@@ -12,6 +12,8 @@
             {{ .Params.title }}
         </h1>
 
+        <div class="addthis_inline_share_toolbox text-right"></div>        
+
         <div>{{ safeHTML .Params.bio }}</div>
 
         {{ if gt (len .Params.recordings) 12 }}

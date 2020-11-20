@@ -30,7 +30,7 @@
       "speakers": [
         {
           "name": "Bob Ward",
-          "slug": "bob-ward-2"
+          "slug": "bob-ward"
         }
       ]
     },

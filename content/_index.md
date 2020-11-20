@@ -1,10 +1,10 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2020-11-20T22:49:05.2003752Z",
+  "date": "2020-11-20T23:04:08.164303Z",
   "draft": false,
   "recordingCount": "1,042",
-  "speakerCount": "584",
+  "speakerCount": "583",
   "groupCount": "66",
   "newest": [
     {
@@ -43,7 +43,7 @@
       "speakers": [
         {
           "name": "Bob Ward",
-          "slug": "bob-ward-2"
+          "slug": "bob-ward"
         }
       ],
       "meetups": [

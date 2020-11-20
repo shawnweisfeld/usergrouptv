@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2020-11-20T22:49:08.3055758Z",
+  "date": "2020-11-20T23:04:10.629963Z",
   "draft": false,
   "speakers": [
     {
@@ -385,16 +385,9 @@
     {
       "title": "Bob Ward",
       "slug": "bob-ward",
-      "thumbnail": "https://i.vimeocdn.com/video/702623750_295x166.jpg",
-      "date": "2018-05-19T23:02:34",
-      "count": 4
-    },
-    {
-      "title": "Bob Ward",
-      "slug": "bob-ward-2",
       "thumbnail": "https://i.vimeocdn.com/video/999191466_295x166.jpg",
       "date": "2020-11-17T00:00:00",
-      "count": 1
+      "count": 5
     },
     {
       "title": "Bonas Khanal",

@@ -17,9 +17,9 @@
   "speakers": [
     {
       "name": "Bob Ward",
-      "slug": "bob-ward-2",
+      "slug": "bob-ward",
       "bio": "Bob is a Principal Architect on the Azure Data Engineering team.",
-      "count": 1
+      "count": 5
     }
   ],
   "ugtvtags": [

@@ -5,10 +5,36 @@
   ],
   "type": "speaker",
   "slug": "bob-ward",
-  "date": "2018-05-19T23:02:34",
+  "date": "2020-11-17T00:00:00",
   "draft": false,
-  "bio": "<p>Bob Ward is a Principal Architect for the Microsoft Database Systems Group, which owns the development for all SQL Server versions. Bob has worked for Microsoft for 25 years on every version of SQL Server shipped from OS/2 1.1 to SQL Server 2017 including Azure. He has worked in customer support as a principal escalation engineer and Chief Technology Officer (CTO), interacting with some of the largest SQL Server deployments in the world. Bob is a well-known speaker on SQL Server, often presenting talks on new releases, internals, and performance at events such as SQL PASS Summit, SQLBits, SQLIntersection, and Microsoft Ignite. You can find him on twitter at @bobwardms or read his blog at https://blogs.msdn.microsoft.com/bobsql.</p>",
+  "bio": "Bob is a Principal Architect on the Azure Data Engineering team.",
   "recordings": [
+    {
+      "title": "SQL Server to Azure SQL: Performance and Availability",
+      "slug": "sql-server-to-azure-sql-performance-and-availability",
+      "thumbnail": "https://i.vimeocdn.com/video/999191466_295x166.jpg",
+      "date": "2020-11-17T00:00:00",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure SQL Database",
+          "slug": "azure-sql-database"
+        }
+      ]
+    },
     {
       "title": "Experience SQL Server 2017: The Modern Database Platform",
       "slug": "experience-sql-server-2017-the-modern-database-platform",

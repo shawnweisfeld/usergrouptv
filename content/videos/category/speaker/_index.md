@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2020-11-15T20:33:31.6307058Z",
+  "date": "2020-11-20T22:49:08.3055758Z",
   "draft": false,
   "speakers": [
     {
@@ -388,6 +388,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/702623750_295x166.jpg",
       "date": "2018-05-19T23:02:34",
       "count": 4
+    },
+    {
+      "title": "Bob Ward",
+      "slug": "bob-ward-2",
+      "thumbnail": "https://i.vimeocdn.com/video/999191466_295x166.jpg",
+      "date": "2020-11-17T00:00:00",
+      "count": 1
     },
     {
       "title": "Bonas Khanal",
@@ -3208,6 +3215,13 @@
       "slug": "robert-bishop",
       "thumbnail": "https://i.vimeocdn.com/video/640582984_295x166.jpg",
       "date": "2017-06-17T14:16:28",
+      "count": 1
+    },
+    {
+      "title": "Robert Boedigheimer",
+      "slug": "robert-boedigheimer",
+      "thumbnail": "https://i.vimeocdn.com/video/999196637_295x166.jpg",
+      "date": "2020-11-17T00:00:00",
       "count": 1
     },
     {

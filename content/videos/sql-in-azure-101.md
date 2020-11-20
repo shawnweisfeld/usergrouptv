@@ -26,14 +26,14 @@
     {
       "name": "Azure SQL Database",
       "slug": "azure-sql-database",
-      "count": 6
+      "count": 7
     }
   ],
   "meetups": [
     {
       "name": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "count": 69
+      "count": 70
     },
     {
       "name": "SQL Saturday",

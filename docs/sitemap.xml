@@ -4,27 +4,132 @@
   
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2020-11-15T20:33:32+00:00</lastmod>
+    <lastmod>2020-11-20T22:49:10+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2020-11-15T20:33:32+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/</loc>
-    <lastmod>2020-11-15T20:33:31+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2020-11-15T20:33:31+00:00</lastmod>
+    <lastmod>2020-11-20T22:49:09+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2020-11-15T20:33:31+00:00</lastmod>
+    <lastmod>2020-11-20T22:49:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/</loc>
+    <lastmod>2020-11-20T22:49:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/</loc>
+    <lastmod>2020-11-20T22:49:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/.net/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/tag/net/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/group/azure-austin-meetup/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/azure-sql-database/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/tag/azure-sql-database/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/bob-ward/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/speaker/bob-ward-2/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/cryptography/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/tag/cryptography/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/cryptography-101-2/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/dfw-azure-user-group/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/robert-boedigheimer/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/speaker/robert-boedigheimer/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/sql-server-to-azure-sql-performance-and-availability/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -60,21 +165,6 @@
   <url>
     <loc>https://usergroup.tv/videos/tag/powerbi/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/</loc>
-    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/.net/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/tag/net/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -168,16 +258,6 @@
   </url>
   
   <url>
-    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://usergroup.tv/tags/kendra-havens/</loc>
     <lastmod>2020-10-27T00:00:00+00:00</lastmod>
   </url>
@@ -209,36 +289,6 @@
   
   <url>
     <loc>https://usergroup.tv/videos/category/speaker/amit-banerjee/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/category/group/azure-austin-meetup/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/dfw-azure-user-group/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</loc>
     <lastmod>2020-10-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -2295,16 +2345,6 @@
   <url>
     <loc>https://usergroup.tv/videos/the-future-of-database-development-with-containers/</loc>
     <lastmod>2019-07-13T13:55:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/azure-sql-database/</loc>
-    <lastmod>2019-07-13T13:53:29+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/tag/azure-sql-database/</loc>
-    <lastmod>2019-07-13T13:53:29+00:00</lastmod>
   </url>
   
   <url>
@@ -4500,11 +4540,6 @@
   <url>
     <loc>https://usergroup.tv/videos/whats-new-in-sql-server-2017-2/</loc>
     <lastmod>2018-05-19T23:04:05+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/bob-ward/</loc>
-    <lastmod>2018-05-19T23:02:34+00:00</lastmod>
   </url>
   
   <url>
@@ -12414,16 +12449,6 @@
   
   <url>
     <loc>https://usergroup.tv/videos/category/group/austin-codecamp/</loc>
-    <lastmod>2013-08-17T22:13:38+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/cryptography/</loc>
-    <lastmod>2013-08-17T22:13:38+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/tag/cryptography/</loc>
     <lastmod>2013-08-17T22:13:38+00:00</lastmod>
   </url>
   

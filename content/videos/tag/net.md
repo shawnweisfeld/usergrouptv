@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "net",
-  "date": "2020-11-09T00:00:00",
+  "date": "2020-11-17T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Cryptography 101",
+      "slug": "cryptography-101-2",
+      "thumbnail": "https://i.vimeocdn.com/video/999196637_295x166.jpg",
+      "date": "2020-11-17T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Robert Boedigheimer",
+          "slug": "robert-boedigheimer"
+        }
+      ]
+    },
     {
       "title": "Building a .NET Application Using Azure Cosmos DB",
       "slug": "building-a-net-application-using-azure-cosmos-db",

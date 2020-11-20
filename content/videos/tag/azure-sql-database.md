@@ -5,9 +5,35 @@
   ],
   "type": "tag",
   "slug": "azure-sql-database",
-  "date": "2019-07-13T13:53:29",
+  "date": "2020-11-17T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "SQL Server to Azure SQL: Performance and Availability",
+      "slug": "sql-server-to-azure-sql-performance-and-availability",
+      "thumbnail": "https://i.vimeocdn.com/video/999191466_295x166.jpg",
+      "date": "2020-11-17T00:00:00",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Bob Ward",
+          "slug": "bob-ward-2"
+        }
+      ]
+    },
     {
       "title": "SQL in Azure 101 ",
       "slug": "sql-in-azure-101",

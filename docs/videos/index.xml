@@ -6,7 +6,25 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2020 20:33:31 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Nov 2020 22:49:05 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cryptography 101</title>
+      <link>https://usergroup.tv/videos/cryptography-101-2/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/cryptography-101-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server to Azure SQL: Performance and Availability</title>
+      <link>https://usergroup.tv/videos/sql-server-to-azure-sql-performance-and-availability/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/sql-server-to-azure-sql-performance-and-availability/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>How Power Query Thinks: Taking the Mystery Out of Streaming and Query Folding</title>
       <link>https://usergroup.tv/videos/how-power-query-thinks-taking-the-mystery-out-of-streaming-and-query-folding/</link>

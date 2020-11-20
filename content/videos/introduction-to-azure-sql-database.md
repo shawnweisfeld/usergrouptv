@@ -26,14 +26,14 @@
     {
       "name": "Azure SQL Database",
       "slug": "azure-sql-database",
-      "count": 6
+      "count": 7
     }
   ],
   "meetups": [
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 42
+      "count": 43
     },
     {
       "name": "Austin Global Azure Bootcamp",

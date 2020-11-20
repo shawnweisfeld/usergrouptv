@@ -1,12 +1,72 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2020-11-15T20:33:31.1410052Z",
+  "date": "2020-11-20T22:49:05.2003752Z",
   "draft": false,
-  "recordingCount": "1,040",
-  "speakerCount": "582",
+  "recordingCount": "1,042",
+  "speakerCount": "584",
   "groupCount": "66",
   "newest": [
+    {
+      "title": "Cryptography 101",
+      "slug": "cryptography-101-2",
+      "thumbnail": "https://i.vimeocdn.com/video/999196637_295x166.jpg",
+      "date": "2020-11-17T00:00:00",
+      "speakers": [
+        {
+          "name": "Robert Boedigheimer",
+          "slug": "robert-boedigheimer"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "Cryptography",
+          "slug": "cryptography"
+        }
+      ]
+    },
+    {
+      "title": "SQL Server to Azure SQL: Performance and Availability",
+      "slug": "sql-server-to-azure-sql-performance-and-availability",
+      "thumbnail": "https://i.vimeocdn.com/video/999191466_295x166.jpg",
+      "date": "2020-11-17T00:00:00",
+      "speakers": [
+        {
+          "name": "Bob Ward",
+          "slug": "bob-ward-2"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure SQL Database",
+          "slug": "azure-sql-database"
+        }
+      ]
+    },
     {
       "title": "How Power Query Thinks: Taking the Mystery Out of Streaming and Query Folding",
       "slug": "how-power-query-thinks-taking-the-mystery-out-of-streaming-and-query-folding",
@@ -476,54 +536,6 @@
         {
           "name": "Akka.NET",
           "slug": "akka-net"
-        }
-      ]
-    },
-    {
-      "title": "Unlocking New Visualizations and Features in Power BI",
-      "slug": "unlocking-new-visualizations-and-features-in-power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/940309865_295x166.jpg",
-      "date": "2020-08-12T14:05:27",
-      "speakers": [
-        {
-          "name": "Reid Havens",
-          "slug": "reid-havens"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "PowerBI",
-          "slug": "powerbi"
-        }
-      ]
-    },
-    {
-      "title": "What's New in C# 8 Interfaces (and how to use them effectively)",
-      "slug": "whats-new-in-c-8-interfaces-and-how-to-use-them-effectively",
-      "thumbnail": "https://i.vimeocdn.com/video/930462703_295x166.jpg",
-      "date": "2020-07-23T02:10:01",
-      "speakers": [
-        {
-          "name": "Jeremy Clark",
-          "slug": "jeremy-clark"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "C#",
-          "slug": "c"
         }
       ]
     }

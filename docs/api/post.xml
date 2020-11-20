@@ -25987,4 +25987,62 @@ From there, we will dive even deeper by simulating more advanced attacks from au
       <slug>powerbi</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Cryptography 101</Title>
+    <Url>https://usergroup.tv/videos/cryptography-101-2/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/999196637_295x166.jpg</Thumbnail>
+    <Excerpt>Learn the fundamentals of cryptography, including public/private and symmetric encryption, hashing, and digital signatures. Discover which techniques are appropriate for various situations. Review practical real life examples for storing passwords, protecting URL parameters, securely exchanging information with partners, and safely encrypting sensitive information on public web sites. Concepts apply to all platforms, examples will be in C# for both .NET and .NET Core.</Excerpt>
+    <PostDate>2020-11-17T00:00:00</PostDate>
+    <Id>1046</Id>
+    <Mp4Video>http://player.vimeo.com/external/481865230.hd.mp4?s=2bce86d3f99e1e56f9142f85c7be36459d9cee07&amp;profile_id=174&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/481865230.sd.mp4?s=55c0b5a8f28afe429f067a29dd7dafe8f74d8680&amp;profile_id=165&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Robert Boedigheimer</name>
+      <slug>robert-boedigheimer</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>.net</name>
+      <slug>net</slug>
+    </Tags>
+    <Tags>
+      <name>Cryptography</name>
+      <slug>cryptography</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>SQL Server to Azure SQL: Performance and Availability</Title>
+    <Url>https://usergroup.tv/videos/sql-server-to-azure-sql-performance-and-availability/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/999191466_295x166.jpg</Thumbnail>
+    <Excerpt>You’ve been responsible for getting your SQL Server fast, keeping it fast, and making it highly available. In this session, you'll learn about the choices you make in Azure SQL and how they affect your performance and availability. We'll also show you how you can translate your existing SQL Server skills and apply them to Azure SQL.</Excerpt>
+    <PostDate>2020-11-17T00:00:00</PostDate>
+    <Id>1047</Id>
+    <Mp4Video>http://player.vimeo.com/external/481864688.hd.mp4?s=bb00e7ea77229ab774e2bfee1bfdb4c44e1c7754&amp;profile_id=175&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/481864688.sd.mp4?s=6927da022866e8135bc4dd022bc9dc1a9118c7d7&amp;profile_id=164&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Bob Ward</name>
+      <slug>bob-ward-2</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>Capitol Area Central Texas Users of SQL Server</name>
+      <slug>capitol-area-central-texas-users-of-sql-server</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Azure SQL Database</name>
+      <slug>azure-sql-database</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

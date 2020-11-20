@@ -6,7 +6,88 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>.net</title>
+      <link>https://usergroup.tv/tags/.net/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/.net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Austin Meetup</title>
+      <link>https://usergroup.tv/tags/azure-austin-meetup/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/azure-austin-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure SQL Database</title>
+      <link>https://usergroup.tv/tags/azure-sql-database/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/azure-sql-database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bob Ward</title>
+      <link>https://usergroup.tv/tags/bob-ward/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/bob-ward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capitol Area Central Texas Users of SQL Server</title>
+      <link>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptography</title>
+      <link>https://usergroup.tv/tags/cryptography/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/cryptography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFW Azure User Group</title>
+      <link>https://usergroup.tv/tags/dfw-azure-user-group/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/dfw-azure-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Boedigheimer</title>
+      <link>https://usergroup.tv/tags/robert-boedigheimer/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/robert-boedigheimer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/tags/tulsa-.net-user-group/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/tulsa-.net-user-group/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Austin Power BI User Group</title>
       <link>https://usergroup.tv/tags/austin-power-bi-user-group/</link>
@@ -31,15 +112,6 @@
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/powerbi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>.net</title>
-      <link>https://usergroup.tv/tags/.net/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/.net/</guid>
       <description></description>
     </item>
     
@@ -116,15 +188,6 @@
     </item>
     
     <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/tags/tulsa-.net-user-group/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/tulsa-.net-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kendra Havens</title>
       <link>https://usergroup.tv/tags/kendra-havens/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
@@ -148,33 +211,6 @@
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/amit-banerjee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure Austin Meetup</title>
-      <link>https://usergroup.tv/tags/azure-austin-meetup/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/azure-austin-meetup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Capitol Area Central Texas Users of SQL Server</title>
-      <link>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DFW Azure User Group</title>
-      <link>https://usergroup.tv/tags/dfw-azure-user-group/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/dfw-azure-user-group/</guid>
       <description></description>
     </item>
     
@@ -1574,15 +1610,6 @@
     </item>
     
     <item>
-      <title>Azure SQL Database</title>
-      <link>https://usergroup.tv/tags/azure-sql-database/</link>
-      <pubDate>Sat, 13 Jul 2019 13:53:29 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/azure-sql-database/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sean McCown</title>
       <link>https://usergroup.tv/tags/sean-mccown/</link>
       <pubDate>Sat, 13 Jul 2019 13:49:16 +0000</pubDate>
@@ -2866,15 +2893,6 @@
       <pubDate>Sat, 19 May 2018 23:04:05 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/sql-server-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bob Ward</title>
-      <link>https://usergroup.tv/tags/bob-ward/</link>
-      <pubDate>Sat, 19 May 2018 23:02:34 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/bob-ward/</guid>
       <description></description>
     </item>
     
@@ -7627,15 +7645,6 @@
       <pubDate>Sat, 17 Aug 2013 22:13:38 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/austin-codecamp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cryptography</title>
-      <link>https://usergroup.tv/tags/cryptography/</link>
-      <pubDate>Sat, 17 Aug 2013 22:13:38 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/cryptography/</guid>
       <description></description>
     </item>
     

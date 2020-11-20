@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2020-11-15T20:33:32.7194382Z",
+  "date": "2020-11-20T22:49:10.5455177Z",
   "draft": false,
   "meetups": [
     {
@@ -133,16 +133,16 @@
     {
       "title": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "thumbnail": "https://i.vimeocdn.com/video/980844918_295x166.jpg",
-      "date": "2020-10-20T00:00:00",
-      "count": 42
+      "thumbnail": "https://i.vimeocdn.com/video/999191466_295x166.jpg",
+      "date": "2020-11-17T00:00:00",
+      "count": 43
     },
     {
       "title": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "thumbnail": "https://i.vimeocdn.com/video/980844918_295x166.jpg",
-      "date": "2020-10-20T00:00:00",
-      "count": 69
+      "thumbnail": "https://i.vimeocdn.com/video/999191466_295x166.jpg",
+      "date": "2020-11-17T00:00:00",
+      "count": 70
     },
     {
       "title": "Chicago IT Architects Group",
@@ -259,9 +259,9 @@
     {
       "title": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/980844918_295x166.jpg",
-      "date": "2020-10-20T00:00:00",
-      "count": 6
+      "thumbnail": "https://i.vimeocdn.com/video/999191466_295x166.jpg",
+      "date": "2020-11-17T00:00:00",
+      "count": 7
     },
     {
       "title": "DFW C++ User Group",
@@ -434,9 +434,9 @@
     {
       "title": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/994396316_295x166.jpg",
-      "date": "2020-11-09T00:00:00",
-      "count": 12
+      "thumbnail": "https://i.vimeocdn.com/video/999196637_295x166.jpg",
+      "date": "2020-11-17T00:00:00",
+      "count": 13
     },
     {
       "title": "Tulsa School of Dev",

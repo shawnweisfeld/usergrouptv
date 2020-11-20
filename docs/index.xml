@@ -6,7 +6,106 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2020 20:33:31 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Nov 2020 22:49:05 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>.net</title>
+      <link>https://usergroup.tv/videos/tag/net/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Austin Meetup</title>
+      <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/azure-austin-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure SQL Database</title>
+      <link>https://usergroup.tv/videos/tag/azure-sql-database/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure-sql-database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bob Ward</title>
+      <link>https://usergroup.tv/videos/category/speaker/bob-ward-2/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/bob-ward-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capitol Area Central Texas Users of SQL Server</title>
+      <link>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptography</title>
+      <link>https://usergroup.tv/videos/tag/cryptography/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/cryptography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptography 101</title>
+      <link>https://usergroup.tv/videos/cryptography-101-2/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/cryptography-101-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFW Azure User Group</title>
+      <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Boedigheimer</title>
+      <link>https://usergroup.tv/videos/category/speaker/robert-boedigheimer/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/robert-boedigheimer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server to Azure SQL: Performance and Availability</title>
+      <link>https://usergroup.tv/videos/sql-server-to-azure-sql-performance-and-availability/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/sql-server-to-azure-sql-performance-and-availability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Austin Power BI User Group</title>
       <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
@@ -40,15 +139,6 @@
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/powerbi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>.net</title>
-      <link>https://usergroup.tv/videos/tag/net/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/net/</guid>
       <description></description>
     </item>
     
@@ -143,15 +233,6 @@
     </item>
     
     <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kendra Havens</title>
       <link>https://usergroup.tv/videos/category/speaker/kendra-havens/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
@@ -184,33 +265,6 @@
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/amit-banerjee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure Austin Meetup</title>
-      <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/azure-austin-meetup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Capitol Area Central Texas Users of SQL Server</title>
-      <link>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DFW Azure User Group</title>
-      <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
       <description></description>
     </item>
     
@@ -2518,15 +2572,6 @@ What do we use your information for?</description>
       <pubDate>Sat, 13 Jul 2019 13:55:01 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/the-future-of-database-development-with-containers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure SQL Database</title>
-      <link>https://usergroup.tv/videos/tag/azure-sql-database/</link>
-      <pubDate>Sat, 13 Jul 2019 13:53:29 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/azure-sql-database/</guid>
       <description></description>
     </item>
     
@@ -14677,15 +14722,6 @@ What do we use your information for?</description>
       <pubDate>Sat, 17 Aug 2013 22:13:38 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/group/austin-codecamp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cryptography</title>
-      <link>https://usergroup.tv/videos/tag/cryptography/</link>
-      <pubDate>Sat, 17 Aug 2013 22:13:38 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/cryptography/</guid>
       <description></description>
     </item>
     

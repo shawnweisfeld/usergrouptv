@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "cicd-pipeline-options-when-azure-is-your-datacenter",
   "abstract": "<p>From details of private build, compilation, to automated tests, to database and data store configuration, custom software applications have common building blocks, and when the application is running Azure, the building blocks are known. There is a model that has emerged for continuous delivery. The relationships between the components are known. Each team implements this model according to the toolset and language of their software, but the model remains. This session reviews that model against several options for enabling a CI/CD pipeline to Azure with Azure DevOps Services and Octopus Deploy.</p>",
+  "description": "<p>From details of private build, compilation, to automated tests, to database and data store configuration, custom software applications have common building blocks, and when the application is running Azure, the building blocks are known. There is a model that has emerged for continuous delivery. The relationships between the components are known. Each team implements this model according to the toolset and language of their software, but the model remains. This session reviews that model against several options for enabling a CI/CD pipeline to Azure with Azure DevOps Services and Octopus Deploy.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/731528333_295x166.jpg"
+  ],
   "vimeo": "294593265",
   "moreinfo": "https://www.meetup.com/azureaustin/events/254663537/",
   "thumbnail": "https://i.vimeocdn.com/video/731528333_295x166.jpg",

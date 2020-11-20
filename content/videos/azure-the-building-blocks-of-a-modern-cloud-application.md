@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "azure-the-building-blocks-of-a-modern-cloud-application",
   "abstract": "<p>With so many individual services offered on the Azure platform choosing the right ones for your application can be overwhelming. In this talk we will provide an overview of the most popular services, discuss common decision points on when to choose each and discuss common application design patterns to build highly scalable, highly available, cost effective cloud solutions.\r\n</p>",
+  "description": "<p>With so many individual services offered on the Azure platform choosing the right ones for your application can be overwhelming. In this talk we will provide an overview of the most popular services, discuss common decision points on when to choose each and discuss common application design patterns to build highly scalable, highly available, cost effective cloud solutions.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/520365768_295x166.jpg"
+  ],
   "vimeo": "129024689",
   "moreinfo": "http://dallasasp.net/Meetings/12830.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/520365768_295x166.jpg",

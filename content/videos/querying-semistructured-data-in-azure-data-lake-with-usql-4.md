@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "querying-semistructured-data-in-azure-data-lake-with-usql-4",
   "abstract": "<p>Data is exploding across enterprises.  Much of it is semi-structured junk.  Or is it junk?  What are you going to do with it until you can find out?  Microsoft’s Azure Data Lake is a cloud storage and analytical service for parking a variety of data.  I have stored in Azure Data Lake Store several gigabytes of US Census data at a reasonable rate per month.  Now I can query that semi-structured data using an ANSI SQL language called U-SQL.  In this session I will demonstrate the similarities and differences between U-SQL and T-SQL.  I will demonstrate how easy it is to build a query against 21 GB of CSV files. Such queries can help you determine whether you have a gold mine in your data or a bunch of garbage before investing in a full data warehouse build.</p>",
+  "description": "<p>Data is exploding across enterprises.  Much of it is semi-structured junk.  Or is it junk?  What are you going to do with it until you can find out?  Microsoft’s Azure Data Lake is a cloud storage and analytical service for parking a variety of data.  I have stored in Azure Data Lake Store several gigabytes of US Census data at a reasonable rate per month.  Now I can query that semi-structured data using an ANSI SQL language called U-SQL.  In this session I will demonstrate the similarities and differences between U-SQL and T-SQL.  I will demonstrate how easy it is to build a query against 21 GB of CSV files. Such queries can help you determine whether you have a gold mine in your data or a bunch of garbage before investing in a full data warehouse build.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/798800906_295x166.jpg"
+  ],
   "vimeo": "348234995",
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=94134",
   "thumbnail": "https://i.vimeocdn.com/video/798800906_295x166.jpg",

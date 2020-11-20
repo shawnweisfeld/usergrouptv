@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "7-sins-of-scrum-and-other-agile-anti-patterns",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/728974211_295x166.jpg"
+  ],
   "vimeo": "292555828",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/728974211_295x166.jpg",

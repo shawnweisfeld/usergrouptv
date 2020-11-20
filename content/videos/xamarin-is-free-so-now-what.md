@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "xamarin-is-free-so-now-what",
   "abstract": "<p>With Microsoft's acquisition of Xamarin, their cross-platform technology is now FREE to all Visual Studio users. In this session we'll take a look at the overall Xamarin platform, and then go for a deeper dive into Xamarin Forms, demonstrating how you can use it to quickly build cross-platform mobile apps by leveraging the C# and .NET skilsl that you already have.</p>",
+  "description": "<p>With Microsoft's acquisition of Xamarin, their cross-platform technology is now FREE to all Visual Studio users. In this session we'll take a look at the overall Xamarin platform, and then go for a deeper dive into Xamarin Forms, demonstrating how you can use it to quickly build cross-platform mobile apps by leveraging the C# and .NET skilsl that you already have.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/593959007_295x166.jpg"
+  ],
   "vimeo": "184504923",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/593959007_295x166.jpg",

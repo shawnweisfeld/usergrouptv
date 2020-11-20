@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "agile-testing-with-microsoft-tools-present-and-future",
   "abstract": "<p>Getting early stakeholder feedback and releasing low defect software is critical to successful projects. Microsoft invested heavily in test tools with the Visual Studio 2010 release and continues test tool innovation with Visual Studio 11 that allows the team to get early feedback. Come learn about what is possible today and in the future concerning manual testing, test automation, test management, end user feedback, and lab management. This session can make an immediate impact on how you test your software and help you prepare for the next release of Visual Studio.</p>",
+  "description": "<p>Getting early stakeholder feedback and releasing low defect software is critical to successful projects. Microsoft invested heavily in test tools with the Visual Studio 2010 release and continues test tool innovation with Visual Studio 11 that allows the team to get early feedback. Come learn about what is possible today and in the future concerning manual testing, test automation, test management, end user feedback, and lab management. This session can make an immediate impact on how you test your software and help you prepare for the next release of Visual Studio.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/492568999_295x166.jpg"
+  ],
   "vimeo": "108782901",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/492568999_295x166.jpg",

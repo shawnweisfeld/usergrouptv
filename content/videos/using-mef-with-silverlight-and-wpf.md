@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "using-mef-with-silverlight-and-wpf",
   "abstract": "<p>Cory Smith, MVP In this meeting Cory Smith, a Microsoft Application Developer MVP, will give us a hands-on tour of the Managed Extensibility Framework (MEF) from Microsoft. MEF is a powerful extension in .Net 4 and Silverlight 4 to simplify the design of extensible applications and components. What will Cory be Covering? 1. Elevator Level Tour of the Managed Extensibility Framework, 2. Review Some of the Many MEF Resources, 3. Application Walkthrough to Demonstrate the Power of MEF</p>",
+  "description": "<p>Cory Smith, MVP In this meeting Cory Smith, a Microsoft Application Developer MVP, will give us a hands-on tour of the Managed Extensibility Framework (MEF) from Microsoft. MEF is a powerful extension in .Net 4 and Silverlight 4 to simplify the design of extensible applications and components. What will Cory be Covering? 1. Elevator Level Tour of the Managed Extensibility Framework, 2. Review Some of the Many MEF Resources, 3. Application Walkthrough to Demonstrate the Power of MEF</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/498383893_295x166.jpg"
+  ],
   "vimeo": "113161085",
   "moreinfo": "http://dallasxaml.com/",
   "thumbnail": "https://i.vimeocdn.com/video/498383893_295x166.jpg",

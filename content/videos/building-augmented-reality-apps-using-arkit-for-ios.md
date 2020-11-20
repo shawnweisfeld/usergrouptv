@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "building-augmented-reality-apps-using-arkit-for-ios",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/661966883_295x166.jpg"
+  ],
   "vimeo": "239091067",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/661966883_295x166.jpg",

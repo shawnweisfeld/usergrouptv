@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "azure-sql-database-elastic-scale",
   "abstract": "<p>\r\n\tAzure SQL Database Elastic Scale enables the data-tier of an application to scale out and in via industry-standard sharding practices, while significantly streamlining the development and management of your sharded cloud applications. Elastic Scale delivers both developer and management functionality which are provided through a set of .Net libraries and through Azure service templates that you can host in your own Azure subscription to manage your highly scalable applications. Azure DB Elastic Scale implements the infrastructure aspects of sharding and thus allows you to focus on the business logic of your application instead.\r\n</p>",
+  "description": "<p>\r\n\tAzure SQL Database Elastic Scale enables the data-tier of an application to scale out and in via industry-standard sharding practices, while significantly streamlining the development and management of your sharded cloud applications. Elastic Scale delivers both developer and management functionality which are provided through a set of .Net libraries and through Azure service templates that you can host in your own Azure subscription to manage your highly scalable applications. Azure DB Elastic Scale implements the infrastructure aspects of sharding and thus allows you to focus on the business logic of your application instead.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/533942509_295x166.jpg"
+  ],
   "vimeo": "138544251",
   "moreinfo": "http://www.sqlsaturday.com/422/Sessions/Details.aspx?sid=36069",
   "thumbnail": "https://i.vimeocdn.com/video/533942509_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "cosmos-db-for-the-data-professional",
   "abstract": "<p>So, you have heard the buzz and your development team wants to use Cosmos DB. But what does that mean to you? As your company's data architect or DBA, you are ultimately responsible for things like data security, query performance, scale, costs, and availability. Your management wants you to handle all data assets. This will be an opportunity to be introduced to Cosmos DB and understand some of the areas that matter most to a DBA in an enterprise. Not only will we cover enterprise topics, but we will create a Cosmos DB using the SQL API and demo some of the capabilities. The world of data is still changing, this is one area to understand as the technology marches on. What you will learn: Basics of Cosmos DB, the what, where and how, Enterprise considerations for the data pro when using Cosmos DB, How to create a Cosmos DB and get more hands on experience with the technology</p>",
+  "description": "<p>So, you have heard the buzz and your development team wants to use Cosmos DB. But what does that mean to you? As your company's data architect or DBA, you are ultimately responsible for things like data security, query performance, scale, costs, and availability. Your management wants you to handle all data assets. This will be an opportunity to be introduced to Cosmos DB and understand some of the areas that matter most to a DBA in an enterprise. Not only will we cover enterprise topics, but we will create a Cosmos DB using the SQL API and demo some of the capabilities. The world of data is still changing, this is one area to understand as the technology marches on. What you will learn: Basics of Cosmos DB, the what, where and how, Enterprise considerations for the data pro when using Cosmos DB, How to create a Cosmos DB and get more hands on experience with the technology</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/709501208_295x166.jpg"
+  ],
   "vimeo": "276875881",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=77568",
   "thumbnail": "https://i.vimeocdn.com/video/709501208_295x166.jpg",

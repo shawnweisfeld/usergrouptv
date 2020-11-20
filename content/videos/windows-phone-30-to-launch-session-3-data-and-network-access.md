@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "windows-phone-30-to-launch-session-3-data-and-network-access",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/492990621_295x166.jpg"
+  ],
   "vimeo": "109118953",
   "moreinfo": "http://usergroup.tv/videos/windows-phone-30-to-launch-session-4-publishing-your-new-wp-application",
   "thumbnail": "https://i.vimeocdn.com/video/492990621_295x166.jpg",

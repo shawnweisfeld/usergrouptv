@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "introduction-to-sql-clr",
   "abstract": "<p>Learn how, when and why you may want to incorporate CLR functionality into the database.</p>",
+  "description": "<p>Learn how, when and why you may want to incorporate CLR functionality into the database.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/500557129_295x166.jpg"
+  ],
   "vimeo": "114767667",
   "moreinfo": "http://www.sqlsaturday.com/63/eventhome.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/500557129_295x166.jpg",

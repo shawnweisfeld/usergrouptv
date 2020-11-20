@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sql-server-statistics-what-are-the-chances",
   "abstract": "<p>For far too long, I thought that statistics only contained information on table row counts.  While they do contain that information, there is more to it than that.  In this beginner session, we’ll go over statistics – how they are created, the different types of statistics that exist, how they’re maintained and how the Query Optimizer uses them.  We will also touch on system tables and DMVs that will provide additional information on your statistics.  We'll also go over the cardinality estimator changes in 2014.  At the end of this session, you should have a better idea of how the query optimizer within SQL Server makes decisions on how to gather data.</p>",
+  "description": "<p>For far too long, I thought that statistics only contained information on table row counts.  While they do contain that information, there is more to it than that.  In this beginner session, we’ll go over statistics – how they are created, the different types of statistics that exist, how they’re maintained and how the Query Optimizer uses them.  We will also touch on system tables and DMVs that will provide additional information on your statistics.  We'll also go over the cardinality estimator changes in 2014.  At the end of this session, you should have a better idea of how the query optimizer within SQL Server makes decisions on how to gather data.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/587192886_295x166.jpg"
+  ],
   "vimeo": "179315850",
   "moreinfo": "http://www.sqlsaturday.com/550/Sessions/Details.aspx?sid=51214",
   "thumbnail": "https://i.vimeocdn.com/video/587192886_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "building-a-bridge-for-the-future-how-can-devops-change-your-organization",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/728994226_295x166.jpg"
+  ],
   "vimeo": "292572107",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/728994226_295x166.jpg",

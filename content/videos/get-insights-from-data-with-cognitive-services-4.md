@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "get-insights-from-data-with-cognitive-services-4",
   "abstract": "<p>How can you take advantage of Artificial Intelligence without being a data scientist? Cognitive Services allow you use Artificial Intelligence to enrich your data through simple API calls. In this session, we will demonstrate the Cognitive Services and brainstorm how we can apply these to our applications.\r\n</p>",
+  "description": "<p>How can you take advantage of Artificial Intelligence without being a data scientist? Cognitive Services allow you use Artificial Intelligence to enrich your data through simple API calls. In this session, we will demonstrate the Cognitive Services and brainstorm how we can apply these to our applications.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/719513144_295x166.jpg"
+  ],
   "vimeo": "284952394",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/253580813/",
   "thumbnail": "https://i.vimeocdn.com/video/719513144_295x166.jpg",

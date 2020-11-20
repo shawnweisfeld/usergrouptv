@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "asp-net-mvc-3-in-action",
   "abstract": "<p>This talk is for developers familiar with ASP.NET MVC that are taking their use of the framework to the next level. In this session Matt Hinze, author of ASP.NET MVC 3 In Action, will present advanced ASP.NET MVC topics taken from real world projects, including: 1. Understanding client side validation, 2. Automation tools and developer productivity, 2. Slick options for functional testing</p>",
+  "description": "<p>This talk is for developers familiar with ASP.NET MVC that are taking their use of the framework to the next level. In this session Matt Hinze, author of ASP.NET MVC 3 In Action, will present advanced ASP.NET MVC topics taken from real world projects, including: 1. Understanding client side validation, 2. Automation tools and developer productivity, 2. Slick options for functional testing</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495921049_295x166.jpg"
+  ],
   "vimeo": "111339988",
   "moreinfo": "http://dallastechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/495921049_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "whats-new-in-ssrs-2016",
   "abstract": "<p>It’s been 10 years SQL Server Reporting Services has been updated.  Hey Microsoft, what’s the hold up?  Well the wait is over.  Join me in this demo-heavy session where I will discuss and demonstrate all the new features of SSRS, from custom parameter layouts to pinning reports to Power BI.</p>",
+  "description": "<p>It’s been 10 years SQL Server Reporting Services has been updated.  Hey Microsoft, what’s the hold up?  Well the wait is over.  Join me in this demo-heavy session where I will discuss and demonstrate all the new features of SSRS, from custom parameter layouts to pinning reports to Power BI.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/571063205_295x166.jpg"
+  ],
   "vimeo": "166881952",
   "moreinfo": "http://www.sqlsaturday.com/514/Sessions/Details.aspx?sid=46875",
   "thumbnail": "https://i.vimeocdn.com/video/571063205_295x166.jpg",

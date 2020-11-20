@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "mobile-user-insights-how-to-turn-your-mobile-projects-into-an-instant-user-success",
   "abstract": "<p>Mobile technology has infiltrated nearly every part of human life across the world. A handful of themes are emerging as trends that continue to show approval from users whether they are consumers or businesses. Customer adoption is critical to the overall success of your mobile app. This session will provide a look at the current and future state of mobile users to give you the knowledge to succeed with your next project.\r\n</p>",
+  "description": "<p>Mobile technology has infiltrated nearly every part of human life across the world. A handful of themes are emerging as trends that continue to show approval from users whether they are consumers or businesses. Customer adoption is critical to the overall success of your mobile app. This session will provide a look at the current and future state of mobile users to give you the knowledge to succeed with your next project.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485957375_295x166.jpg"
+  ],
   "vimeo": "103656055",
   "moreinfo": "http://techfests.com/Tulsa/2014",
   "thumbnail": "https://i.vimeocdn.com/video/485957375_295x166.jpg",

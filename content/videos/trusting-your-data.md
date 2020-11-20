@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "trusting-your-data",
   "abstract": "<p>People make decisions based on two qualities: intent and competency.  Said another way: trust and data.  We all think we are providing the customer with good data.  But many of the systems we use to provide that data are completely opaque to the average end user. How can we win their trust?\r\n</p>",
+  "description": "<p>People make decisions based on two qualities: intent and competency.  Said another way: trust and data.  We all think we are providing the customer with good data.  But many of the systems we use to provide that data are completely opaque to the average end user. How can we win their trust?\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/709492813_295x166.jpg"
+  ],
   "vimeo": "276869153",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=83389",
   "thumbnail": "https://i.vimeocdn.com/video/709492813_295x166.jpg",

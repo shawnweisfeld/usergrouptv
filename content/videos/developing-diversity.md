@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "developing-diversity",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/661085024_295x166.jpg"
+  ],
   "vimeo": "238401289",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/661085024_295x166.jpg",

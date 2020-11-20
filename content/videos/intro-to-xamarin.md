@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "intro-to-xamarin",
   "abstract": "<p>This meetup will be a quick introduction to the Xamarin platform, what it offers, and how to get started developing mobile apps on the Xamarin platform.</p>",
+  "description": "<p>This meetup will be a quick introduction to the Xamarin platform, what it offers, and how to get started developing mobile apps on the Xamarin platform.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/603364630_295x166.jpg"
+  ],
   "vimeo": "192111789",
   "moreinfo": "https://www.meetup.com/AustinXamarin/events/235575584/",
   "thumbnail": "https://i.vimeocdn.com/video/603364630_295x166.jpg",

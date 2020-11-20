@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "mastering-your-resume-interview-tips-to-get-hired",
   "abstract": "<p>\r\nLooking for a job?  Learn trade secrets from a Recruiter!  Resume blunders and interview tips, this session will focus on ten most important things you can do to get hired.\r\n</p>",
+  "description": "<p>\r\nLooking for a job?  Learn trade secrets from a Recruiter!  Resume blunders and interview tips, this session will focus on ten most important things you can do to get hired.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/483484332_295x166.jpg"
+  ],
   "vimeo": "101656853",
   "moreinfo": "http://www.houstontechfest.org/Lists/ScheduleInfo/DispForm.aspx?ID=109&Source=http%3A%2F%2Fwww%2Ehoustontechfest%2Eorg%2FSitePages%2FTabbedSchedule%2Easpx",
   "thumbnail": "https://i.vimeocdn.com/video/483484332_295x166.jpg",

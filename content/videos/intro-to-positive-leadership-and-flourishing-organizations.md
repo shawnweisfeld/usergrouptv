@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "intro-to-positive-leadership-and-flourishing-organizations",
   "abstract": "<p>In this workshop, we explore the following: Characteristics of positive leadership, Choosing our leadership identity, The framework for flourishing, Creating a lasting culture of positive emotion, Developing purpose and meaning</p>",
+  "description": "<p>In this workshop, we explore the following: Characteristics of positive leadership, Choosing our leadership identity, The framework for flourishing, Creating a lasting culture of positive emotion, Developing purpose and meaning</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/651774253_295x166.jpg"
+  ],
   "vimeo": "231056955",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/651774253_295x166.jpg",

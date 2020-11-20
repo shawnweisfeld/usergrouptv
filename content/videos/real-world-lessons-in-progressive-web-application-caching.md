@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "real-world-lessons-in-progressive-web-application-caching",
   "abstract": "<p>In this session we will cover real details about caching reality based on real world experience in bringing Progressive Web Applications to market. This is not a session to sell the concept, but a session to highlight caching nuances you don't see until you sit down to write the code.</p>",
+  "description": "<p>In this session we will cover real details about caching reality based on real world experience in bringing Progressive Web Applications to market. This is not a session to sell the concept, but a session to highlight caching nuances you don't see until you sit down to write the code.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/732110035_295x166.jpg"
+  ],
   "vimeo": "295055212",
   "moreinfo": "https://www.devfestweekend.com/schedule",
   "thumbnail": "https://i.vimeocdn.com/video/732110035_295x166.jpg",

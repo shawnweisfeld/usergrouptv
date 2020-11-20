@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "common-pitfalls-when-implementing-continuous-delivery",
   "abstract": "<p>Having implemented Continuous delivery numerous times, with many of the projects long-lived and both big and small, we know the common mistakes that are made time and time again when setting up a continuous delivery pipeline, doing software builds, and performing automated deployments. Many pitfalls are in areas that have been that way for a long time; nonetheless, they will hinder a high-performing continuous delivery process. When implementing continuous integration and for orchestrating a continuous delivery pipeline, there are aspects of source control structure, Visual Studio organization, and build and deployment process that must be attended to in order to obtain the frictionless development environment that is desired. This webinar focuses on what these common pitfalls are and how to avoid them.</p>",
+  "description": "<p>Having implemented Continuous delivery numerous times, with many of the projects long-lived and both big and small, we know the common mistakes that are made time and time again when setting up a continuous delivery pipeline, doing software builds, and performing automated deployments. Many pitfalls are in areas that have been that way for a long time; nonetheless, they will hinder a high-performing continuous delivery process. When implementing continuous integration and for orchestrating a continuous delivery pipeline, there are aspects of source control structure, Visual Studio organization, and build and deployment process that must be attended to in order to obtain the frictionless development environment that is desired. This webinar focuses on what these common pitfalls are and how to avoid them.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/587191996_295x166.jpg"
+  ],
   "vimeo": "179315145",
   "moreinfo": "http://adnug.org/Home/august-8-2016-common-pitfalls-when-implementing-continuous-delivery/",
   "thumbnail": "https://i.vimeocdn.com/video/587191996_295x166.jpg",

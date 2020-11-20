@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "3-lessons-learned-in-successful-consulting",
   "abstract": "<p>I would like to share the 3 lessons I learned that helped me become a much better consultant. These lessons were crucial in helping me make that \"mind shift\" from thinking like a regular \"9 to 5 DBA\" to thinking like a consultant. The goal of this session is to help those who are interested in becoming a consultant. Hopefully these 3 lessons will help make that transition successful as it did for me.</p>",
+  "description": "<p>I would like to share the 3 lessons I learned that helped me become a much better consultant. These lessons were crucial in helping me make that \"mind shift\" from thinking like a regular \"9 to 5 DBA\" to thinking like a consultant. The goal of this session is to help those who are interested in becoming a consultant. Hopefully these 3 lessons will help make that transition successful as it did for me.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/702681929_295x166.jpg"
+  ],
   "vimeo": "271392705",
   "moreinfo": "http://www.sqlsaturday.com/734/Sessions/Details.aspx?sid=73212",
   "thumbnail": "https://i.vimeocdn.com/video/702681929_295x166.jpg",

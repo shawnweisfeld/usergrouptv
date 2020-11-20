@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "user-experience-and-design-panel",
   "abstract": "<p>Hear from a panel of seasoned UX and design leaders as they discuss their career paths and the typical daily struggles and big rewards of working in user experience. Get tips on how to get started in UX, how to land a great job, and where UX is going in the future.</p>",
+  "description": "<p>Hear from a panel of seasoned UX and design leaders as they discuss their career paths and the typical daily struggles and big rewards of working in user experience. Get tips on how to get started in UX, how to land a great job, and where UX is going in the future.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/650871844_295x166.jpg"
+  ],
   "vimeo": "230330906",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650871844_295x166.jpg",

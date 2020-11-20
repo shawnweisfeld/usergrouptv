@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sql-server-2019-new-features",
   "abstract": "<p> There are many new features and enhancements in SQL Server 2019. We'll go over bullet points of some features, some benefits, and run through a few demos. Features: Polybase enhancements, SQL Graph enhancements, Linux SQL Server enhancements, Persistent Memory, Data Discovery and Classification, Always On Availability Groups enhancements, Transaction log enhancements, Data Masking enhancements, Compression enhancements, Always Encrypted enhancements, Index enhancements, Query Hint enhancements, Error Message enhancements, Scalar Function enhancements, Table Variable enhancements, Memory Grant enhancements, Query enhancements, Data estimations, and UTF-8 Support. Demos: Scalar Function enhancements, Memory Grant enhancements, and Table Variable enhancements</p>",
+  "description": "<p> There are many new features and enhancements in SQL Server 2019. We'll go over bullet points of some features, some benefits, and run through a few demos. Features: Polybase enhancements, SQL Graph enhancements, Linux SQL Server enhancements, Persistent Memory, Data Discovery and Classification, Always On Availability Groups enhancements, Transaction log enhancements, Data Masking enhancements, Compression enhancements, Always Encrypted enhancements, Index enhancements, Query Hint enhancements, Error Message enhancements, Scalar Function enhancements, Table Variable enhancements, Memory Grant enhancements, Query enhancements, Data estimations, and UTF-8 Support. Demos: Scalar Function enhancements, Memory Grant enhancements, and Table Variable enhancements</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/769268281_295x166.jpg"
+  ],
   "vimeo": "325515389",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/fnxhcqyzfbzb/",
   "thumbnail": "https://i.vimeocdn.com/video/769268281_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "table-partitioning-secret-weapon-for-big-data-problems",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/739777659_295x166.jpg"
+  ],
   "vimeo": "301258878",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/fnxhcqyxpbbc/",
   "thumbnail": "https://i.vimeocdn.com/video/739777659_295x166.jpg",

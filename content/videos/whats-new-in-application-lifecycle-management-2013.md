@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "whats-new-in-application-lifecycle-management-2013",
   "abstract": "<p>Microsoft's application lifecycle management tooling is all about enabling teams to deliver great software. In this demo-packed session, you will learn how to more effectively plan and track work by using the new Web-based project management tools; how to bridge the divide between development and operations by utilizing IntelliTrace in your production environments; and how to help keep team members on-task and \"\"in the zone\"\" with the new \"\"My Work\"\" and code review features. In addition to making your team more productive, we will show you how you can boost your overall code quality with new features such as code clone and an overhauled unit testing story in Visual Studio 2012.</p>",
+  "description": "<p>Microsoft's application lifecycle management tooling is all about enabling teams to deliver great software. In this demo-packed session, you will learn how to more effectively plan and track work by using the new Web-based project management tools; how to bridge the divide between development and operations by utilizing IntelliTrace in your production environments; and how to help keep team members on-task and \"\"in the zone\"\" with the new \"\"My Work\"\" and code review features. In addition to making your team more productive, we will show you how you can boost your overall code quality with new features such as code clone and an overhauled unit testing story in Visual Studio 2012.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/487541588_295x166.jpg"
+  ],
   "vimeo": "104885288",
   "moreinfo": "http://lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/487541588_295x166.jpg",

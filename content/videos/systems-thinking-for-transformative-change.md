@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "systems-thinking-for-transformative-change",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/728996042_295x166.jpg"
+  ],
   "vimeo": "292573533",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/728996042_295x166.jpg",

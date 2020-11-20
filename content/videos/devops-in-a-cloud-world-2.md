@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "devops-in-a-cloud-world-2",
   "abstract": "<p>One of the key benefits of both the cloud and DevOps practices is the agility that they can provide. In this session we will combine both cloud and DevOps practices to build a complete pipeline for deploying a simple application. This will provide you a blueprint and techniques that you can use to increase the agility of your team.</p>",
+  "description": "<p>One of the key benefits of both the cloud and DevOps practices is the agility that they can provide. In this session we will combine both cloud and DevOps practices to build a complete pipeline for deploying a simple application. This will provide you a blueprint and techniques that you can use to increase the agility of your team.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/752682612_295x166.jpg"
+  ],
   "vimeo": "311787811",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/257918359/",
   "thumbnail": "https://i.vimeocdn.com/video/752682612_295x166.jpg",

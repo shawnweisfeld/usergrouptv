@@ -11,6 +11,10 @@
   "draft": false,
   "slug": "how-to-get-the-best-tco-while-running-sql-server-on-azure-vm",
   "abstract": "Running SQL Server on Azure virtual machine gives you the ability to leverage a managed Infrastructure as a Service offering to run your beloved data platform. This session will be focused on showcasing the benefits of running SQL Server on Azure VM, best practices and leveraging some of the existing Azure services to make operations easier. In this session, you will also learn how you can leverage additional benefits of FREE SQL Server licenses for High Availability and Disaster Recovery.",
+  "description": "Running SQL Server on Azure virtual machine gives you the ability to leverage a managed Infrastructure as a Service offering to run your beloved data platform. This session will be focused on showcasing the benefits of running SQL Server on Azure VM, best practices and leveraging some of the existing Azure services to make operations easier. In this session, you will also learn how you can leverage additional benefits of FREE SQL Server licenses for High Availability and Disaster Recovery.",
+  "images": [
+    "https://i.vimeocdn.com/video/980844918_295x166.jpg"
+  ],
   "vimeo": "471447098",
   "moreinfo": "https://www.meetup.com/azureaustin/events/273258173/",
   "thumbnail": "https://i.vimeocdn.com/video/980844918_295x166.jpg",

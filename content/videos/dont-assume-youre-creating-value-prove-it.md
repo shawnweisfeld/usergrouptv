@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "dont-assume-youre-creating-value-prove-it",
   "abstract": "<p>Does your organization find it hard to determine \"the right thing\" to build? You are not alone - Agile methods offer few guidelines on how to translate organizational goals and customer needs into the backlog's content and priorities, so there is a significant risk that Agile teams end up building \"the wrong thing right.\" Approaching product development as a series of hypotheses about customers' behaviors and value perceptions allows us to expand the scope of Agile's \"inspect and adapt\" feedback loops to systematically identify and validate critical assumptions about our product's value proposition. We also discuss ways to derive testable assumptions to enable validated learning, as well as implications on project planning and budgeting.\r\n</p>",
+  "description": "<p>Does your organization find it hard to determine \"the right thing\" to build? You are not alone - Agile methods offer few guidelines on how to translate organizational goals and customer needs into the backlog's content and priorities, so there is a significant risk that Agile teams end up building \"the wrong thing right.\" Approaching product development as a series of hypotheses about customers' behaviors and value perceptions allows us to expand the scope of Agile's \"inspect and adapt\" feedback loops to systematically identify and validate critical assumptions about our product's value proposition. We also discuss ways to derive testable assumptions to enable validated learning, as well as implications on project planning and budgeting.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/703334154_295x166.jpg"
+  ],
   "vimeo": "271913506",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703334154_295x166.jpg",

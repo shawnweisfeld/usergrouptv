@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-best-of-sharepoint-conference-2011-coskun-cavusoglu",
   "abstract": "<p>The Best of SharePoint Conference 2011 - In this talk Coskun Cavusoglu will tell us what he thought was so interesting about:</p>\r\n<ul>\r\n<li>Reporting Services, Project Crescent and Data Visualization</li>\r\n<li>Asynchronous Programming with vNext of Visual Studio</li>\r\n<li>SharePoint Internet Sites that Integrate FAST Search</li>\r\n<li>And more...</li>\r\n</ul>",
+  "description": "<p>The Best of SharePoint Conference 2011 - In this talk Coskun Cavusoglu will tell us what he thought was so interesting about:</p>\r\n<ul>\r\n<li>Reporting Services, Project Crescent and Data Visualization</li>\r\n<li>Asynchronous Programming with vNext of Visual Studio</li>\r\n<li>SharePoint Internet Sites that Integrate FAST Search</li>\r\n<li>And more...</li>\r\n</ul>",
+  "images": [
+    "https://i.vimeocdn.com/video/494180096_295x166.jpg"
+  ],
   "vimeo": "110065177",
   "moreinfo": "http://web.cspug.org",
   "thumbnail": "https://i.vimeocdn.com/video/494180096_295x166.jpg",

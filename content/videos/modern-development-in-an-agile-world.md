@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "modern-development-in-an-agile-world",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/496722236_295x166.jpg"
+  ],
   "vimeo": "111927880",
   "moreinfo": "http://www.agiledotnet.com/houston-2012/",
   "thumbnail": "https://i.vimeocdn.com/video/496722236_295x166.jpg",

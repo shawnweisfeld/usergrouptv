@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "how-to-build-an-effective-api-security-strategy",
   "abstract": "<p>In the last few years, APIs have become fundamental to our teams, partners, and customers. While we’d like to believe it all happened as a carefully executed plan, much of it came about by a combination of foresight, luck, and success breeding success. Unfortunately, that’s not good enough anymore. Gartner predicts that by 2022, API abuses will be the most-frequent attack vector resulting in data breaches for enterprise applications. In this on-demand, we’ll reconsider our earliest assumptions and use the new understanding to bring our APIs out of the shadows and create an effective API security strategy to protect ourselves, our partners, and our customers.</p>",
+  "description": "<p>In the last few years, APIs have become fundamental to our teams, partners, and customers. While we’d like to believe it all happened as a carefully executed plan, much of it came about by a combination of foresight, luck, and success breeding success. Unfortunately, that’s not good enough anymore. Gartner predicts that by 2022, API abuses will be the most-frequent attack vector resulting in data breaches for enterprise applications. In this on-demand, we’ll reconsider our earliest assumptions and use the new understanding to bring our APIs out of the shadows and create an effective API security strategy to protect ourselves, our partners, and our customers.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/849445950_295x166.jpg"
+  ],
   "vimeo": "386765053",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/267780149/",
   "thumbnail": "https://i.vimeocdn.com/video/849445950_295x166.jpg",

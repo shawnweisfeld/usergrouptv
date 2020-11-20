@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "our-experience-with-nonclustered-columnstore-indexes",
   "abstract": "<p>We upgraded to SQL 2016 in part to take advantage of the updateable nonclustered columnstore indexes for our web based Credit Risk product for D&B. I will show you the before and after for our product as well as some general exercises using columnstore in a BI over OLTP environment.</p>",
+  "description": "<p>We upgraded to SQL 2016 in part to take advantage of the updateable nonclustered columnstore indexes for our web based Credit Risk product for D&B. I will show you the before and after for our product as well as some general exercises using columnstore in a BI over OLTP environment.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/628438702_295x166.jpg"
+  ],
   "vimeo": "212454253",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/237907417/",
   "thumbnail": "https://i.vimeocdn.com/video/628438702_295x166.jpg",

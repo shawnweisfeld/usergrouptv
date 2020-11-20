@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-future-of-agile",
   "abstract": "<p>13 years after the Agile Manifesto, how are we doing? Is it what the manifesto authors expected? Has our industry improved as a whole? Is Agile just a trend? This interactive session will begin with a look back at the trends of the Agile movement. Attendees will then participate in an exercise that use those trends to predict what agility will look like 10 years from now.</p>",
+  "description": "<p>13 years after the Agile Manifesto, how are we doing? Is it what the manifesto authors expected? Has our industry improved as a whole? Is Agile just a trend? This interactive session will begin with a look back at the trends of the Agile movement. Attendees will then participate in an exercise that use those trends to predict what agility will look like 10 years from now.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/486705637_295x166.jpg"
+  ],
   "vimeo": "104229052",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486705637_295x166.jpg",

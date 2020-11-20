@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "create-powerful-user-interfaces-with-the-latest-windows-apis-and-open-source-libraries",
   "abstract": "<p>Want to learn how to build more engaging Windows UWP applications? This session will cover new Windows platform features, like the new Composition APIs for 3D content, the new open source WinUI library, and the new additions to the Windows Community Toolkit, like Lottie animations.</p>",
+  "description": "<p>Want to learn how to build more engaging Windows UWP applications? This session will cover new Windows platform features, like the new Composition APIs for 3D content, the new open source WinUI library, and the new additions to the Windows Community Toolkit, like Lottie animations.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/796753612_295x166.jpg"
+  ],
   "vimeo": "346640640",
   "moreinfo": "https://developer.microsoft.com/en-us/windows/campaigns/us-tx-dallas",
   "thumbnail": "https://i.vimeocdn.com/video/796753612_295x166.jpg",

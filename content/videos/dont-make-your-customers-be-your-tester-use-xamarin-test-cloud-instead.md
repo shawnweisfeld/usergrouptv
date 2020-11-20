@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "dont-make-your-customers-be-your-tester-use-xamarin-test-cloud-instead",
   "abstract": "<p>With the overwhelming number of mobile devices on the market and the high frequency of OS updates, it's hard, if not nearly impossible, for mobile developers to ensure their apps will run across the myriad of devices and platforms. Let Xamarin Test Cloud take care of this so you can focus on what's important... your customers!</p>",
+  "description": "<p>With the overwhelming number of mobile devices on the market and the high frequency of OS updates, it's hard, if not nearly impossible, for mobile developers to ensure their apps will run across the myriad of devices and platforms. Let Xamarin Test Cloud take care of this so you can focus on what's important... your customers!</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/586640231_295x166.jpg"
+  ],
   "vimeo": "178890309",
   "moreinfo": "http://techfests.com/Tulsa/2016/Speakers/RyanOverton/",
   "thumbnail": "https://i.vimeocdn.com/video/586640231_295x166.jpg",

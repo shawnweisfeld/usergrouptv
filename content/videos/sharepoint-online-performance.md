@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sharepoint-online-performance",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/634593627_295x166.jpg"
+  ],
   "vimeo": "217393002",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/236857555/",
   "thumbnail": "https://i.vimeocdn.com/video/634593627_295x166.jpg",

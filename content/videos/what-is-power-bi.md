@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "what-is-power-bi",
   "abstract": "<p>You’ve heard all the buzz about Power BI, but you have no idea what it is and how it works. This session explains what Power BI is, who can use it and why you would want to. It’s an introductory session that gives you the information you need to determine if Power BI is right for you and your organization.\r\n</p>",
+  "description": "<p>You’ve heard all the buzz about Power BI, but you have no idea what it is and how it works. This session explains what Power BI is, who can use it and why you would want to. It’s an introductory session that gives you the information you need to determine if Power BI is right for you and your organization.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/719492065_295x166.jpg"
+  ],
   "vimeo": "284935170",
   "moreinfo": "http://www.sqlsaturday.com/749/Sessions/Details.aspx?sid=78696",
   "thumbnail": "https://i.vimeocdn.com/video/719492065_295x166.jpg",

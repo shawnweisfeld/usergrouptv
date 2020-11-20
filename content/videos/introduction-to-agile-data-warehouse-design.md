@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "introduction-to-agile-data-warehouse-design",
   "abstract": "<p>Ever wonder if you are capturing enough data for your data warehouse? Or if you're even capturing the right data? In this session we'll look at new ways to plan and design a data warehouse. We'll look at how dimensional design (classic star schema) is a great fit for the agile methodology and I'll share some cool ways to build iteration and collaboration into your process!</p>",
+  "description": "<p>Ever wonder if you are capturing enough data for your data warehouse? Or if you're even capturing the right data? In this session we'll look at new ways to plan and design a data warehouse. We'll look at how dimensional design (classic star schema) is a great fit for the agile methodology and I'll share some cool ways to build iteration and collaboration into your process!</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/592958259_295x166.jpg"
+  ],
   "vimeo": "183678706",
   "moreinfo": "http://www.meetup.com/Austin-SQL-Server-User-Group/events/232418605/",
   "thumbnail": "https://i.vimeocdn.com/video/592958259_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "make-your-queries-go-faster",
   "abstract": "<p>Have you ever developed slowly running queries and wondered how to make your own SQL Server queries go faster? In this session, you will learn a few ways to automate your code to go faster and also some T-SQL performance tuning tips that can be used on Monday back at the office. You will learn how to identify top offender queries, be able to benchmark queries. Finally, we will cover coding patterns that are developer friendly but are not SQL Server database engine friendly and show you how to rewrite them so they can run faster.</p>",
+  "description": "<p>Have you ever developed slowly running queries and wondered how to make your own SQL Server queries go faster? In this session, you will learn a few ways to automate your code to go faster and also some T-SQL performance tuning tips that can be used on Monday back at the office. You will learn how to identify top offender queries, be able to benchmark queries. Finally, we will cover coding patterns that are developer friendly but are not SQL Server database engine friendly and show you how to rewrite them so they can run faster.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/695291115_295x166.jpg"
+  ],
   "vimeo": "265313282",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/lzcdrmyxgbwb/",
   "thumbnail": "https://i.vimeocdn.com/video/695291115_295x166.jpg",

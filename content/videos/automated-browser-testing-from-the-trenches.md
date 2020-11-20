@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "automated-browser-testing-from-the-trenches",
   "abstract": "<p>Automated browser testing is historically difficult, buggy, fragile, and slow. If you have ever tried automated browser testing, or if you are currently on a project that uses automated browser testing, then you’ve likely experienced some of these pain points or others. Come learn how to craft automated browser tests that not only hurt less, but provide valuable feedback to your development cycle. We will also include a walk through of Coypu — a natural language and robustness wrapper for Selenium.</p>",
+  "description": "<p>Automated browser testing is historically difficult, buggy, fragile, and slow. If you have ever tried automated browser testing, or if you are currently on a project that uses automated browser testing, then you’ve likely experienced some of these pain points or others. Come learn how to craft automated browser tests that not only hurt less, but provide valuable feedback to your development cycle. We will also include a walk through of Coypu — a natural language and robustness wrapper for Selenium.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/581848094_295x166.jpg"
+  ],
   "vimeo": "174797364",
   "moreinfo": "http://adnug.org/Home/july-11-2016-automated-browser-testing-from-the-trenches/",
   "thumbnail": "https://i.vimeocdn.com/video/581848094_295x166.jpg",

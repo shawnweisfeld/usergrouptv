@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "kinect-dallas-keynote",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/492994856_295x166.jpg"
+  ],
   "vimeo": "109122090",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/492994856_295x166.jpg",

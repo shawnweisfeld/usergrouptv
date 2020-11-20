@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sql-watchdog-find-out-instantly-when-sql-change",
   "abstract": "<p>It happens - problems due to changes, be it ALTERed SPs, index rebuilds, or even configuration changes. But what if you could look historically and track down what changes were made when, by who, and from where? What if you could see in realtime when changes occur? It exists, it's in SQL Server (even standard edition) from 2005-2014, and it's easy to implement. Come learn what Event Notification is and why you'll want it in your environment. This is not theory, all code provided and in production on hundreds of servers in multiple environments.</p>",
+  "description": "<p>It happens - problems due to changes, be it ALTERed SPs, index rebuilds, or even configuration changes. But what if you could look historically and track down what changes were made when, by who, and from where? What if you could see in realtime when changes occur? It exists, it's in SQL Server (even standard edition) from 2005-2014, and it's easy to implement. Come learn what Event Notification is and why you'll want it in your environment. This is not theory, all code provided and in production on hundreds of servers in multiple environments.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/505666533_295x166.jpg"
+  ],
   "vimeo": "118594214",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=25219",
   "thumbnail": "https://i.vimeocdn.com/video/505666533_295x166.jpg",

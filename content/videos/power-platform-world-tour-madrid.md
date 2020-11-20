@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "power-platform-world-tour-madrid",
   "abstract": "<p>Pablo will provide an overview of the presentations he will be making in Madrid</p>",
+  "description": "<p>Pablo will provide an overview of the presentations he will be making in Madrid</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/822338922_295x166.jpg"
+  ],
   "vimeo": "366330736",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/263877265/",
   "thumbnail": "https://i.vimeocdn.com/video/822338922_295x166.jpg",

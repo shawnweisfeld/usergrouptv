@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "design-a-data-warehouse-dimension-the-agile-way",
   "abstract": "<p>Do you ever have that nagging fear that your dimension tables don't have the data they need?  Maybe you're working too hard to capture and store detail no one is using or maybe you can't stop thinking that you've missed something?  This session will (hopefully) set your mind at ease.  Let's design a dimension the agile way!</p>",
+  "description": "<p>Do you ever have that nagging fear that your dimension tables don't have the data they need?  Maybe you're working too hard to capture and store detail no one is using or maybe you can't stop thinking that you've missed something?  This session will (hopefully) set your mind at ease.  Let's design a dimension the agile way!</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/587194196_295x166.jpg"
+  ],
   "vimeo": "179316824",
   "moreinfo": "http://www.sqlsaturday.com/550/Sessions/Details.aspx?sid=51096",
   "thumbnail": "https://i.vimeocdn.com/video/587194196_295x166.jpg",

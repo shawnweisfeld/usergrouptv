@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "c-s-education-and-preparing-students",
   "abstract": "<p>Join our panel discussion as we explore the current state of Computer Science education and how we can prepare students for the working world. Some of the questions to be discussed: How do you feel regarding the introduction of computer science in the education system? Has this peaked an interested in tech fields? From an employer perspective, are you satisfied with computer science education programs today? Are you satisfied with the level of Educator training available? What could be different? What is your current experience/opinion regarding the number of female and minorities enrolled in computer science classes? Are there things we can do to encourage more enrollment for under represented groups?</p>",
+  "description": "<p>Join our panel discussion as we explore the current state of Computer Science education and how we can prepare students for the working world. Some of the questions to be discussed: How do you feel regarding the introduction of computer science in the education system? Has this peaked an interested in tech fields? From an employer perspective, are you satisfied with computer science education programs today? Are you satisfied with the level of Educator training available? What could be different? What is your current experience/opinion regarding the number of female and minorities enrolled in computer science classes? Are there things we can do to encourage more enrollment for under represented groups?</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/660004585_295x166.jpg"
+  ],
   "vimeo": "237557409",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660004585_295x166.jpg",

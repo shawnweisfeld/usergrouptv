@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "copy-and-paste-coding-powerful-snippets-for-non-coders",
   "abstract": "<p>Seems like a lot of people are afraid of code and was going to show some very simple things that most people can do in template overrides and CSS to make Joomla way more powerful.</p>",
+  "description": "<p>Seems like a lot of people are afraid of code and was going to show some very simple things that most people can do in template overrides and CSS to make Joomla way more powerful.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/818411146_295x166.jpg"
+  ],
   "vimeo": "363304977",
   "moreinfo": "https://www.joomladaytexas.com/",
   "thumbnail": "https://i.vimeocdn.com/video/818411146_295x166.jpg",

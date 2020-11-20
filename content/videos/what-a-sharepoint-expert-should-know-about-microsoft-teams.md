@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "what-a-sharepoint-expert-should-know-about-microsoft-teams",
   "abstract": "<p>Microsoft Teams is the powerful new collaboration tool in Office 365. It offers a number of overlapping features to SharePoint and even uses SharePoint as part of it technical fabric. In this talk, we will discuss the considerations for what Microsoft Teams is, how it compares to SharePoint, and the technical considerations for deploying and extending Teams.</p>",
+  "description": "<p>Microsoft Teams is the powerful new collaboration tool in Office 365. It offers a number of overlapping features to SharePoint and even uses SharePoint as part of it technical fabric. In this talk, we will discuss the considerations for what Microsoft Teams is, how it compares to SharePoint, and the technical considerations for deploying and extending Teams.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/640017038_295x166.jpg"
+  ],
   "vimeo": "221684727",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/238961795/",
   "thumbnail": "https://i.vimeocdn.com/video/640017038_295x166.jpg",

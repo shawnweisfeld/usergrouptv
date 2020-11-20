@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "release-your-inner-ninja",
   "abstract": "<p>Ever worked with someone that goes to their desk for 5 minutes and creates the software equivalent of the Mona Lisa? Want to know the tricks and tools of the trade to make that happen? This is the talk for you. </p>",
+  "description": "<p>Ever worked with someone that goes to their desk for 5 minutes and creates the software equivalent of the Mona Lisa? Want to know the tricks and tools of the trade to make that happen? This is the talk for you. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/482056077_295x166.jpg"
+  ],
   "vimeo": "100537273",
   "moreinfo": "http://tulsaschoolofdev.com",
   "thumbnail": "https://i.vimeocdn.com/video/482056077_295x166.jpg",

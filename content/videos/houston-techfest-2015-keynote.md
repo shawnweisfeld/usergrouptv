@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "houston-techfest-2015-keynote",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/534895880_295x166.jpg"
+  ],
   "vimeo": "139189475",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda",
   "thumbnail": "https://i.vimeocdn.com/video/534895880_295x166.jpg",

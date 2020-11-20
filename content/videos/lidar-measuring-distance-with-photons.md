@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "lidar-measuring-distance-with-photons",
   "abstract": "<p>Laser ranging finding technologies (LIDAR) have been around for a while. LIDAR enjoys an ever increasing number of applications, and an ever broadening range of sensor options. These days, it's easy to find inexpensive LIDAR sensors and integrate them with Arduino and Raspberry Pi. This session will give a high level intro to LIDAR, and give several live demonstrations using maker-grade hardware.</p>",
+  "description": "<p>Laser ranging finding technologies (LIDAR) have been around for a while. LIDAR enjoys an ever increasing number of applications, and an ever broadening range of sensor options. These days, it's easy to find inexpensive LIDAR sensors and integrate them with Arduino and Raspberry Pi. This session will give a high level intro to LIDAR, and give several live demonstrations using maker-grade hardware.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/732130583_295x166.jpg"
+  ],
   "vimeo": "295070950",
   "moreinfo": "https://www.devfestweekend.com/schedule",
   "thumbnail": "https://i.vimeocdn.com/video/732130583_295x166.jpg",

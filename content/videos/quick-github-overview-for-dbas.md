@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "quick-github-overview-for-dbas",
   "abstract": "<p>Quick GitHub overview for DBAs</p>",
+  "description": "<p>Quick GitHub overview for DBAs</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/833796599_295x166.jpg"
+  ],
   "vimeo": "375132455",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/pttzvqyzpbzb/",
   "thumbnail": "https://i.vimeocdn.com/video/833796599_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "auditing-your-enterprise-with-minionware-by-the-midnight-dbas",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/722233963_295x166.jpg"
+  ],
   "vimeo": "287160260",
   "moreinfo": "http://www.sqlsaturday.com/794/Sessions/Details.aspx?sid=85483",
   "thumbnail": "https://i.vimeocdn.com/video/722233963_295x166.jpg",

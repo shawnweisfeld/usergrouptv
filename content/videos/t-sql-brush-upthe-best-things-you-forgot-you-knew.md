@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "t-sql-brush-upthe-best-things-you-forgot-you-knew",
   "abstract": "You’re a good SQL professional – you attend conferences and webinars, you read articles and books, and you know your way around SQL Server. But sometimes – just SOMEtimes – some piece of T-SQL slips by you unnoticed, or falls out of memory. Most of us are working with at least two or three out of the last five versions of SQL Server, so who can blame us for missing a feature or two? Come and revisit old favorites, and brush up on new T-SQL features and enhancements. In this session you will see SELECT turned inside-out. You’ll get really, really excited about OVER and PARTITION BY. You’ll learn that Common Table Expressions are, in fact, very cool. This session is chock full of code examples, including before-and-after demos and how-tos.",
+  "description": "You’re a good SQL professional – you attend conferences and webinars, you read articles and books, and you know your way around SQL Server. But sometimes – just SOMEtimes – some piece of T-SQL slips by you unnoticed, or falls out of memory. Most of us are working with at least two or three out of the last five versions of SQL Server, so who can blame us for missing a feature or two? Come and revisit old favorites, and brush up on new T-SQL features and enhancements. In this session you will see SELECT turned inside-out. You’ll get really, really excited about OVER and PARTITION BY. You’ll learn that Common Table Expressions are, in fact, very cool. This session is chock full of code examples, including before-and-after demos and how-tos.",
+  "images": [
+    "https://i.vimeocdn.com/video/488129739_295x166.jpg"
+  ],
   "vimeo": "105360885",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=125&amp;sessionid=10571",
   "thumbnail": "https://i.vimeocdn.com/video/488129739_295x166.jpg",

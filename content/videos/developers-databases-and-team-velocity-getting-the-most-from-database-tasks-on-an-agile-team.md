@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "developers-databases-and-team-velocity-getting-the-most-from-database-tasks-on-an-agile-team",
   "abstract": "<p>This session is a discussion on how to integrate database centric tasks into the development team and account for them in the sprint. We will talk about solutions to the areas of friction on most teams when it comes to database tasks. This covers how to define done for ORM usage, how to satisfy quality gates and DBA restrictions, and how to include partially dedicated DBA resources without sacrificing the power and flexibility of Agile. This will be shown using processes as well as Database projects, Entity Framework, and some architectural structures.</p>",
+  "description": "<p>This session is a discussion on how to integrate database centric tasks into the development team and account for them in the sprint. We will talk about solutions to the areas of friction on most teams when it comes to database tasks. This covers how to define done for ORM usage, how to satisfy quality gates and DBA restrictions, and how to include partially dedicated DBA resources without sacrificing the power and flexibility of Agile. This will be shown using processes as well as Database projects, Entity Framework, and some architectural structures.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/496721830_295x166.jpg"
+  ],
   "vimeo": "111927539",
   "moreinfo": "http://www.agiledotnet.com",
   "thumbnail": "https://i.vimeocdn.com/video/496721830_295x166.jpg",

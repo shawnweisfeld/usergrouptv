@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "building-apps-with-wearable-technology-using-xamarin",
   "abstract": "<p>Building apps with Wearable Technology using Xamarin for the Apple Watch and Microsoft Band</p>",
+  "description": "<p>Building apps with Wearable Technology using Xamarin for the Apple Watch and Microsoft Band</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/521723567_295x166.jpg"
+  ],
   "vimeo": "130023124",
   "moreinfo": "http://xamarin.com/dev-days",
   "thumbnail": "https://i.vimeocdn.com/video/521723567_295x166.jpg",

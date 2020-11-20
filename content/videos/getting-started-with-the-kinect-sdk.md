@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "getting-started-with-the-kinect-sdk",
   "abstract": "<p>This talk is also designed for people who want to get started developing with the official Microsoft Kinect SDK. I will walk the user through downloading the bits and starting a new project. We will take a look at several great free open-source tools to help jump-start your first NUI project.</p>",
+  "description": "<p>This talk is also designed for people who want to get started developing with the official Microsoft Kinect SDK. I will walk the user through downloading the bits and starting a new project. We will take a look at several great free open-source tools to help jump-start your first NUI project.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/507721083_295x166.jpg"
+  ],
   "vimeo": "120049662",
   "moreinfo": "http://www.allaboutxaml.net",
   "thumbnail": "https://i.vimeocdn.com/video/507721083_295x166.jpg",

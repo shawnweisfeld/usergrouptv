@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-independent-developer-lessons-learned-from-4-years-of-self-employment",
   "abstract": "<p>In October 2013 I left my full time job with benefits and a regular paycheck. Over three years later, I’ve managed to keep my family fed and a roof over their heads. Here’s what I’ve learned along the way about the plusses (many) and minuses (a few) and challenges (many) of life as an independent software developer.\r\n</p>",
+  "description": "<p>In October 2013 I left my full time job with benefits and a regular paycheck. Over three years later, I’ve managed to keep my family fed and a roof over their heads. Here’s what I’ve learned along the way about the plusses (many) and minuses (a few) and challenges (many) of life as an independent software developer.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/709500590_295x166.jpg"
+  ],
   "vimeo": "276875346",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=76947",
   "thumbnail": "https://i.vimeocdn.com/video/709500590_295x166.jpg",

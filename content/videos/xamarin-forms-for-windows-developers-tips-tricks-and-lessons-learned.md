@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "xamarin-forms-for-windows-developers-tips-tricks-and-lessons-learned",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/661966027_295x166.jpg"
+  ],
   "vimeo": "239090258",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/661966027_295x166.jpg",

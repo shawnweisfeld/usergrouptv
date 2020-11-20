@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "from-the-trenches-an-open-panel-and-qa-discussion-all-about-moving-to-azure",
   "abstract": null,
+  "description": null,
+  "images": [
+    "https://i.vimeocdn.com/video/598780341_295x166.jpg"
+  ],
   "vimeo": "188698636",
   "moreinfo": "https://www.meetup.com/azureaustin/events/234504314/",
   "thumbnail": "https://i.vimeocdn.com/video/598780341_295x166.jpg",

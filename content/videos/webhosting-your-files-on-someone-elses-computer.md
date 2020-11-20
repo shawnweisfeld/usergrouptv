@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "webhosting-your-files-on-someone-elses-computer",
   "abstract": "<p>Coming into the hosting industry, most people find it to be incredibly complex and convoluted. Come listen as Benny breaks down the web hosting industry in 30 minutes or less, and walk away with a new appreciation for the delivery of your favorite memes.</p>",
+  "description": "<p>Coming into the hosting industry, most people find it to be incredibly complex and convoluted. Come listen as Benny breaks down the web hosting industry in 30 minutes or less, and walk away with a new appreciation for the delivery of your favorite memes.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/651774920_295x166.jpg"
+  ],
   "vimeo": "231057430",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/651774920_295x166.jpg",

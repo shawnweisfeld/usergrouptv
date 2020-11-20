@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "bash-on-ubuntu-on-windows-the-how-and-why",
   "abstract": "<p>Join us on May 31st as Dustin Kirkland (@dustinkirkland), Ubuntu Product and Strategy, will talk about the how and why of Ubuntu and native Linux command-line tools within the Windows environment. One of the most exciting things to be announced this year at Build was the addition of a real, native Bash and with it support for Linux command-line tools which run directly on Windows in an environment that behaves like Linux. To accomplish this, a new infrastructure was built within Windows – the Windows Subsystem for Linux (WSL) – upon which runs a genuine Ubuntu user-mode image provided by our great partners over at Canonical, creators of Ubuntu Linux.</p>",
+  "description": "<p>Join us on May 31st as Dustin Kirkland (@dustinkirkland), Ubuntu Product and Strategy, will talk about the how and why of Ubuntu and native Linux command-line tools within the Windows environment. One of the most exciting things to be announced this year at Build was the addition of a real, native Bash and with it support for Linux command-line tools which run directly on Windows in an environment that behaves like Linux. To accomplish this, a new infrastructure was built within Windows – the Windows Subsystem for Linux (WSL) – upon which runs a genuine Ubuntu user-mode image provided by our great partners over at Canonical, creators of Ubuntu Linux.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/573697664_295x166.jpg"
+  ],
   "vimeo": "169070813",
   "moreinfo": "http://www.meetup.com/ATX-MSFT-Devs/events/229115833/",
   "thumbnail": "https://i.vimeocdn.com/video/573697664_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "how-signalr-is-turning-the-internet-upside-down",
   "abstract": "<p>ASP.NET SignalR is a somewhat new library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to web applications. This session will provide an introduction to SignalR. We will take a look at how to develop with SignalR, some of the underlying implementations that SignalR uses, and what common and enterprise problems that SignalR can help solve.\r\n</p>",
+  "description": "<p>ASP.NET SignalR is a somewhat new library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to web applications. This session will provide an introduction to SignalR. We will take a look at how to develop with SignalR, some of the underlying implementations that SignalR uses, and what common and enterprise problems that SignalR can help solve.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485934934_295x166.jpg"
+  ],
   "vimeo": "103637675",
   "moreinfo": "http://techfests.com/Tulsa/2014",
   "thumbnail": "https://i.vimeocdn.com/video/485934934_295x166.jpg",

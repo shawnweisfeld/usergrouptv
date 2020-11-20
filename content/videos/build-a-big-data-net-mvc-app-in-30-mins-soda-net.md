@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "build-a-big-data-net-mvc-app-in-30-mins-soda-net",
   "abstract": "<p>Learn how to create an ASP.Net MVC application that communicates with government based Big Data, or Open Data as it is commonly referred to. In 30 mins we will create a .Net solution that will utilize open source libraries to connect to publicly available API endpoints. With the returned datasets we will generate a quick user interface that includes how to filter, query, map, and aggregate the data. Attendees can expect to leave this session with the knowledge on how to unlock the untapped potential that many government entities provide today.</p>",
+  "description": "<p>Learn how to create an ASP.Net MVC application that communicates with government based Big Data, or Open Data as it is commonly referred to. In 30 mins we will create a .Net solution that will utilize open source libraries to connect to publicly available API endpoints. With the returned datasets we will generate a quick user interface that includes how to filter, query, map, and aggregate the data. Attendees can expect to leave this session with the knowledge on how to unlock the untapped potential that many government entities provide today.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/660634153_295x166.jpg"
+  ],
   "vimeo": "238047428",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660634153_295x166.jpg",

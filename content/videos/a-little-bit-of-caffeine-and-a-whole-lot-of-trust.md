@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "a-little-bit-of-caffeine-and-a-whole-lot-of-trust",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/661086542_295x166.jpg"
+  ],
   "vimeo": "238402669",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/661086542_295x166.jpg",

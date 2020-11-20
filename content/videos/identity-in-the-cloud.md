@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "identity-in-the-cloud",
   "abstract": "<p>Identity and Access management can be a challenge, especially when we begin to decompose our architectures into cloud-hosted Microservices. We'll delve into a variety of topics, including Authentication and Authorization, Federation, Delegation, and protocols. But it won't all be 1's and 0's. We'll also discuss more practical matters to help you make the best IAM decisions for common architectures in Azure.\r\n</p>",
+  "description": "<p>Identity and Access management can be a challenge, especially when we begin to decompose our architectures into cloud-hosted Microservices. We'll delve into a variety of topics, including Authentication and Authorization, Federation, Delegation, and protocols. But it won't all be 1's and 0's. We'll also discuss more practical matters to help you make the best IAM decisions for common architectures in Azure.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/781693879_295x166.jpg"
+  ],
   "vimeo": "335181925",
   "moreinfo": "https://www.meetup.com/azureaustin/events/260745880/",
   "thumbnail": "https://i.vimeocdn.com/video/781693879_295x166.jpg",

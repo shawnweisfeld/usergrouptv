@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "rock-your-apps-with-10-things-you-probably-arent-doing",
   "abstract": "<p>This session will go over 10+ things that I see developers not doing in their applications to make them robust, easily changed (feature, feature, future) and free from errors. What are they? Well you will need to attend this session to find out. You are guaranteed to learn a lot in this session!</p>",
+  "description": "<p>This session will go over 10+ things that I see developers not doing in their applications to make them robust, easily changed (feature, feature, future) and free from errors. What are they? Well you will need to attend this session to find out. You are guaranteed to learn a lot in this session!</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/526557293_295x166.jpg"
+  ],
   "vimeo": "133475938",
   "moreinfo": "http://adnug.org/Home/july-13-2015-rock-your-apps-with-10-things-you-probably-arent-doing/",
   "thumbnail": "https://i.vimeocdn.com/video/526557293_295x166.jpg",

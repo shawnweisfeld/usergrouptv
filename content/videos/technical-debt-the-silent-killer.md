@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "technical-debt-the-silent-killer",
   "abstract": "<p>Technical debt is no different from any other debt or liability a company holds. If left alone for enough time, it will slow down development to a crawl and halt the company's innovation in its tracks. Therefore, it must be paid off over time to prevent a technological apocalypse. This talk will showcase a few different strategies to pay off technical debt. Each strategy takes a balanced approach that does not encourage rewriting applications plagued by technical debt. Rewriting may be the most effective way of reducing technical debt, but it is impractical for most software companies. Features still need to be delivered while paying off technical debt. No matter the development process used by your company, you can incorporate these strategies into your workflow.</p>",
+  "description": "<p>Technical debt is no different from any other debt or liability a company holds. If left alone for enough time, it will slow down development to a crawl and halt the company's innovation in its tracks. Therefore, it must be paid off over time to prevent a technological apocalypse. This talk will showcase a few different strategies to pay off technical debt. Each strategy takes a balanced approach that does not encourage rewriting applications plagued by technical debt. Rewriting may be the most effective way of reducing technical debt, but it is impractical for most software companies. Features still need to be delivered while paying off technical debt. No matter the development process used by your company, you can incorporate these strategies into your workflow.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/660010364_295x166.jpg"
+  ],
   "vimeo": "237561915",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660010364_295x166.jpg",

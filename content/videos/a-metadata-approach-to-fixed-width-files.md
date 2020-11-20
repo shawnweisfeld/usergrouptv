@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "a-metadata-approach-to-fixed-width-files",
   "abstract": "<p>Face it, using SSIS to work with fixed width flat files is a pain.  The SSIS interface has you clicking around to mark each column. Then you use another interface to set each columns data types, etc.  And when you are done, you still need to document the file structure for your users.  What if you could simply document the file structure and then generate the ETL from the document? To demonstrate such an approach, I build an Excel file describing US census data that has more than 300 columns of fixed width data.  After demonstrating how this file communicates to business users, I will generate an SSIS package from that metadata using BIML Script.  Then I will also look at how you can generate a SQL Server bulk insert format file from the same metadata.  A small amount of C# code can generate quite a large extract.</p>",
+  "description": "<p>Face it, using SSIS to work with fixed width flat files is a pain.  The SSIS interface has you clicking around to mark each column. Then you use another interface to set each columns data types, etc.  And when you are done, you still need to document the file structure for your users.  What if you could simply document the file structure and then generate the ETL from the document? To demonstrate such an approach, I build an Excel file describing US census data that has more than 300 columns of fixed width data.  After demonstrating how this file communicates to business users, I will generate an SSIS package from that metadata using BIML Script.  Then I will also look at how you can generate a SQL Server bulk insert format file from the same metadata.  A small amount of C# code can generate quite a large extract.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/854625067_295x166.jpg"
+  ],
   "vimeo": "390485704",
   "moreinfo": "https://www.sqlsaturday.com/939/Sessions/Details.aspx?sid=101344",
   "thumbnail": "https://i.vimeocdn.com/video/854625067_295x166.jpg",

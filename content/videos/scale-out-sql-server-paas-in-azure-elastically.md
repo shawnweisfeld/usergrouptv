@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "scale-out-sql-server-paas-in-azure-elastically",
   "abstract": "<p>You have heard all the hype how the cloud can help you scale your databases horizontally, providing you limitless capacity, but how do you do that? In this presentation we will take a look at the Elastic Database tools. We will focus on the key use cases for shard map management, data dependent routing and multi-shard querying.</p>",
+  "description": "<p>You have heard all the hype how the cloud can help you scale your databases horizontally, providing you limitless capacity, but how do you do that? In this presentation we will take a look at the Elastic Database tools. We will focus on the key use cases for shard map management, data dependent routing and multi-shard querying.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/570947130_295x166.jpg"
+  ],
   "vimeo": "166788828",
   "moreinfo": "http://www.sqlsaturday.com/514/Sessions/Details.aspx?sid=49756",
   "thumbnail": "https://i.vimeocdn.com/video/570947130_295x166.jpg",

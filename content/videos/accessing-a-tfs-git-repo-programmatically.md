@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "accessing-a-tfs-git-repo-programmatically",
   "abstract": "<p>Now that TFS 2013 supports Git there is a need to replicate on top of this new storage infrastructure the same kind automation that has been well known to TFS users for the past 8 years, for instance, build scripts and other administrative operations so that you can transparently access the repos, the same you can do with TFS Source Control. This talk explores some of the existing options, plus how-tos with code samples, and gotchas.  </p>",
+  "description": "<p>Now that TFS 2013 supports Git there is a need to replicate on top of this new storage infrastructure the same kind automation that has been well known to TFS users for the past 8 years, for instance, build scripts and other administrative operations so that you can transparently access the repos, the same you can do with TFS Source Control. This talk explores some of the existing options, plus how-tos with code samples, and gotchas.  </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/482640523_295x166.jpg"
+  ],
   "vimeo": "100981749",
   "moreinfo": "https://sites.google.com/site/tfsaustinusergroup/project-updates/accessingatfsgitrepoprogrammatically",
   "thumbnail": "https://i.vimeocdn.com/video/482640523_295x166.jpg",

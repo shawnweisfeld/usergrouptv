@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "optimizing-code-reusability-for-sharepoint-using-linq-to-sharepoint-and-the-mvp-design-pattern",
   "abstract": "<p>Whether developing a small customization or a large enterprise solution, one goal is to minimize redundancy in Code. Using LINQ to SharePoint we can create Business models that can be easily shared between SharePoint projects and other internal projects. By combining the business model with the MVP pattern we can pass and bind our data easily between views and testing.</p>\r\n<p>* In this discussion I will be talking about the MVP design pattern and how it is used in SharePoint. After the overview of the design pattern I will demonstrate LINQ to SharePoint and how to create business models that can be reused easily between other ASP or C# application. This will include generic models and custom models which gives versatility. By combining the model and patterns, the end result is an efficient queries, and quick response times.</p>",
+  "description": "<p>Whether developing a small customization or a large enterprise solution, one goal is to minimize redundancy in Code. Using LINQ to SharePoint we can create Business models that can be easily shared between SharePoint projects and other internal projects. By combining the business model with the MVP pattern we can pass and bind our data easily between views and testing.</p>\r\n<p>* In this discussion I will be talking about the MVP design pattern and how it is used in SharePoint. After the overview of the design pattern I will demonstrate LINQ to SharePoint and how to create business models that can be reused easily between other ASP or C# application. This will include generic models and custom models which gives versatility. By combining the model and patterns, the end result is an efficient queries, and quick response times.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/489179832_295x166.jpg"
+  ],
   "vimeo": "106165280",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#0415",
   "thumbnail": "https://i.vimeocdn.com/video/489179832_295x166.jpg",

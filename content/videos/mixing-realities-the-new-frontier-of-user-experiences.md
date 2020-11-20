@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "mixing-realities-the-new-frontier-of-user-experiences",
   "abstract": "<p>During this talk, I will share with attendees my view of today's mixed reality market and technology and where I believe they will be in 5 years. I will share my thoughts on how developers can pursue these opportunities through the use of established and emerging technologies and forward-thinking design. I will share data and demos to support my claims and host a Q&A session at the end.</p>",
+  "description": "<p>During this talk, I will share with attendees my view of today's mixed reality market and technology and where I believe they will be in 5 years. I will share my thoughts on how developers can pursue these opportunities through the use of established and emerging technologies and forward-thinking design. I will share data and demos to support my claims and host a Q&A session at the end.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/732109448_295x166.jpg"
+  ],
   "vimeo": "295054825",
   "moreinfo": "https://www.devfestweekend.com/schedule",
   "thumbnail": "https://i.vimeocdn.com/video/732109448_295x166.jpg",

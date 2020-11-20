@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "how-to-master-sql-joins",
   "abstract": "<p>Quick - what&rsquo;s the difference between LEFT and RIGHT OUTER JOINs? How do you know that a NULL in your result set is from the table data or is the result of the join? If you&rsquo;ve ever struggled with the ins and outs of joins and join syntax then this presentation is perfect for you. This presentation presents a straight-forward and logical approach to understanding and visualizing joins and focuses heavily on the &ldquo;how&rdquo; and &ldquo;why&rdquo; of the various join types.</p>",
+  "description": "<p>Quick - what&rsquo;s the difference between LEFT and RIGHT OUTER JOINs? How do you know that a NULL in your result set is from the table data or is the result of the join? If you&rsquo;ve ever struggled with the ins and outs of joins and join syntax then this presentation is perfect for you. This presentation presents a straight-forward and logical approach to understanding and visualizing joins and focuses heavily on the &ldquo;how&rdquo; and &ldquo;why&rdquo; of the various join types.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/507045013_295x166.jpg"
+  ],
   "vimeo": "119596448",
   "moreinfo": "http://www.sqlsaturday.com/63/eventhome.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/507045013_295x166.jpg",

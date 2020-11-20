@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "microservices-the-new-golden-hammer",
   "abstract": "<p>This is a panel discussion where we break down the pros and cons of microservices and share our experience building big systems with this architecture. We dig into tooling concerns, high level concepts, things to think about, traps, etc. This works great as an interactive session with the audience.</p>",
+  "description": "<p>This is a panel discussion where we break down the pros and cons of microservices and share our experience building big systems with this architecture. We dig into tooling concerns, high level concepts, things to think about, traps, etc. This works great as an interactive session with the audience.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/593964660_295x166.jpg"
+  ],
   "vimeo": "184509912",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/593964660_295x166.jpg",

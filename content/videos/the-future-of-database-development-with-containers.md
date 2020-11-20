@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-future-of-database-development-with-containers",
   "abstract": "<p>Containers are dramatically changing the way that application developers design and build their systems. Databases will need to be a part of this revolution as every application needs a data store. Come see a future vision of how full stack application development might look in the next few years.</p>",
+  "description": "<p>Containers are dramatically changing the way that application developers design and build their systems. Databases will need to be a part of this revolution as every application needs a data store. Come see a future vision of how full stack application development might look in the next few years.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/798799501_295x166.jpg"
+  ],
   "vimeo": "348233872",
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=93890",
   "thumbnail": "https://i.vimeocdn.com/video/798799501_295x166.jpg",

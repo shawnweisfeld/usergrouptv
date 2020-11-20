@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "t-sql-windowing-functions",
   "abstract": "<p>Overview and Demo of T-SQL Windowing Functions: Row_Number, Rank, Dense_Rank, Lead, Lag, First_Value, Last_Value, Sum Over Partition</p>",
+  "description": "<p>Overview and Demo of T-SQL Windowing Functions: Row_Number, Rank, Dense_Rank, Lead, Lag, First_Value, Last_Value, Sum Over Partition</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/673576571_295x166.jpg"
+  ],
   "vimeo": "248137985",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/lzcdrmywqbzb/",
   "thumbnail": "https://i.vimeocdn.com/video/673576571_295x166.jpg",

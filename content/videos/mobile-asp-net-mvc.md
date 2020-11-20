@@ -10,6 +10,10 @@
   "draft": false,
   "slug": "mobile-asp-net-mvc",
   "abstract": "<p>Mobile web development is becoming more important and even though most of what works in \"normal\" web development works on mobile, there are unique challenges and constraints to it that we need to be aware of. During this meeting we will be discussing these challenges and how we can meet them in the context of ASP.NET MVC 4. Topics will include but will not be limited to the following:</p>\r\n<ul>\r\n<li>New features in ASP.NET MVC 4</li><li>\r\nHandling devices with drastically different capabilities</li><li>\r\nOptimizing performance for the mobile web</li><li>\r\nDevice and feature detection and the limitations of both</li>\r\n</ul>",
+  "description": "<p>Mobile web development is becoming more important and even though most of what works in \"normal\" web development works on mobile, there are unique challenges and constraints to it that we need to be aware of. During this meeting we will be discussing these challenges and how we can meet them in the context of ASP.NET MVC 4. Topics will include but will not be limited to the following:</p>\r\n<ul>\r\n<li>New features in ASP.NET MVC 4</li><li>\r\nHandling devices with drastically different capabilities</li><li>\r\nOptimizing performance for the mobile web</li><li>\r\nDevice and feature detection and the limitations of both</li>\r\n</ul>",
+  "images": [
+    "https://i.vimeocdn.com/video/484302318_295x166.jpg"
+  ],
   "vimeo": "102320060",
   "moreinfo": "http://northdallas.net/meetings/mobile-asp-net-mvc/",
   "thumbnail": "https://i.vimeocdn.com/video/484302318_295x166.jpg",

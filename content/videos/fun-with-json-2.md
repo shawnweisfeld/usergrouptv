@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "fun-with-json-2",
   "abstract": "<p>Every time you turn around today someone is talking about services and one of the most common formats for data transfer on the web today is Json or JavaScript Object Notation, for is ability to be small and light on the wire and easily consumed by javascript clients. In this talk we will cover some ways to create Json services in ASP.NET. Additionally we will discuss some ways to consume these services from different types of clients: javascript in the browser with jQuery, .NET applications with JSON.NET and RestSharp. We will also look json2csharp a website that will generate POCO's from a json service.</p>",
+  "description": "<p>Every time you turn around today someone is talking about services and one of the most common formats for data transfer on the web today is Json or JavaScript Object Notation, for is ability to be small and light on the wire and easily consumed by javascript clients. In this talk we will cover some ways to create Json services in ASP.NET. Additionally we will discuss some ways to consume these services from different types of clients: javascript in the browser with jQuery, .NET applications with JSON.NET and RestSharp. We will also look json2csharp a website that will generate POCO's from a json service.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485082472_295x166.jpg"
+  ],
   "vimeo": "102964308",
   "moreinfo": "http://lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/485082472_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "making-css-and-asp-net-work",
   "abstract": "<p>Integrating CSS into your ASP.NET web applications doesn’t have to be painful. Dave and Hugo demonstrate how to make it easier for you, and the Designers you work with, to use CSS and take your websites from “Meh...” to “Wow”!</p>",
+  "description": "<p>Integrating CSS into your ASP.NET web applications doesn’t have to be painful. Dave and Hugo demonstrate how to make it easier for you, and the Designers you work with, to use CSS and take your websites from “Meh...” to “Wow”!</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485960271_295x166.jpg"
+  ],
   "vimeo": "103658570",
   "moreinfo": "http://dallasasp.net/Meetings/3771.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/485960271_295x166.jpg",

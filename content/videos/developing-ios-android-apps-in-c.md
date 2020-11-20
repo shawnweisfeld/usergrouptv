@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "developing-ios-android-apps-in-c",
   "abstract": "<p>Developing iOS & Android Apps in C# using Xamarin.</p>",
+  "description": "<p>Developing iOS & Android Apps in C# using Xamarin.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/520899576_295x166.jpg"
+  ],
   "vimeo": "129422767",
   "moreinfo": "http://xamarin.com/dev-days",
   "thumbnail": "https://i.vimeocdn.com/video/520899576_295x166.jpg",

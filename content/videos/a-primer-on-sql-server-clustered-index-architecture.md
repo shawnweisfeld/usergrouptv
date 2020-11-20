@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "a-primer-on-sql-server-clustered-index-architecture",
   "abstract": "<p>How often when creating a new table you just made the Clustered Index using an Integer column with Identity properties. Seems like that is all I have done for last many years. But, in the last two years I’ve really dove into indexes and finally with this presentation looked at what really makes a good Clustered Index with benchmarks and varying scenarios. In some scenarios a well-defined clustered index may out perform a covering non-clustered index. Results are very interesting and may surprise you.</p>",
+  "description": "<p>How often when creating a new table you just made the Clustered Index using an Integer column with Identity properties. Seems like that is all I have done for last many years. But, in the last two years I’ve really dove into indexes and finally with this presentation looked at what really makes a good Clustered Index with benchmarks and varying scenarios. In some scenarios a well-defined clustered index may out perform a covering non-clustered index. Results are very interesting and may surprise you.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/752812378_295x166.jpg"
+  ],
   "vimeo": "311894291",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/fnxhcqyzcbtb/",
   "thumbnail": "https://i.vimeocdn.com/video/752812378_295x166.jpg",

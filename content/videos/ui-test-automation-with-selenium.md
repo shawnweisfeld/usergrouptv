@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "ui-test-automation-with-selenium",
   "abstract": "<p>Say “UI Test Automation” while playing a word association game and  the other party will inevitably say “Hard!”. And yet without the UI tests your safety net is never complete, and manual testing of UIs on Firefox, Chrome and various flavors of IE will slow down your development. As we discovered UI tests are not hard, they just require a shift in mindset.<br />\r\nIn this session, you will learn Selenium WebDriver C# API and design patterns to write reliable tests. We will show how to distribute tests across multiple VMs. And to wrap up you will learn to design your test classes in a Fluent fashion that will make your developers and QA department excited about UI test automation. At the end the group will be rewarded by a sight of a mouse and keyboard working by themselves, testing the UI automatically while we are relaxing with a pizza.</p>",
+  "description": "<p>Say “UI Test Automation” while playing a word association game and  the other party will inevitably say “Hard!”. And yet without the UI tests your safety net is never complete, and manual testing of UIs on Firefox, Chrome and various flavors of IE will slow down your development. As we discovered UI tests are not hard, they just require a shift in mindset.<br />\r\nIn this session, you will learn Selenium WebDriver C# API and design patterns to write reliable tests. We will show how to distribute tests across multiple VMs. And to wrap up you will learn to design your test classes in a Fluent fashion that will make your developers and QA department excited about UI test automation. At the end the group will be rewarded by a sight of a mouse and keyboard working by themselves, testing the UI automatically while we are relaxing with a pizza.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495398321_295x166.jpg"
+  ],
   "vimeo": "110958795",
   "moreinfo": "http://dallas-csharp-sig.com",
   "thumbnail": "https://i.vimeocdn.com/video/495398321_295x166.jpg",

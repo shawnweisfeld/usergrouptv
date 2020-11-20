@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "tardis-time-and-relative-dimensions-in-sql",
   "abstract": "<p>In this session, you'll learn why you need a date table, how to build one and how to use one.  We'll look at a couple common uses for date tables and explore how to get the most of them!</p>",
+  "description": "<p>In this session, you'll learn why you need a date table, how to build one and how to use one.  We'll look at a couple common uses for date tables and explore how to get the most of them!</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/589679291_295x166.jpg"
+  ],
   "vimeo": "181196971",
   "moreinfo": "http://www.sqlsaturday.com/553/Sessions/Details.aspx?sid=51101",
   "thumbnail": "https://i.vimeocdn.com/video/589679291_295x166.jpg",

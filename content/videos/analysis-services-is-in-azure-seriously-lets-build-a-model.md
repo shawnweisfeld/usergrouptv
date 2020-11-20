@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "analysis-services-is-in-azure-seriously-lets-build-a-model",
   "abstract": "<p>Have you used SSAS before? Have you created reports using T-SQL and Group by? Are you interested in Power BI? Do you you have a need for analysis  services but don't want to have to deal with the hassle of buying and installing a server?  Is your organization using Office 365?  If you answered yes to any of these questions, you might need Azure Analysis Services.  The wait is almost over! Azure Analysis services is the platform as a service version of the wildly popular Analysis Services Tabular product. Join Phillip as he builds and deploys an Azure Analysis services solution.</p>",
+  "description": "<p>Have you used SSAS before? Have you created reports using T-SQL and Group by? Are you interested in Power BI? Do you you have a need for analysis  services but don't want to have to deal with the hassle of buying and installing a server?  Is your organization using Office 365?  If you answered yes to any of these questions, you might need Azure Analysis Services.  The wait is almost over! Azure Analysis services is the platform as a service version of the wildly popular Analysis Services Tabular product. Join Phillip as he builds and deploys an Azure Analysis services solution.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/641693852_295x166.jpg"
+  ],
   "vimeo": "223017260",
   "moreinfo": "http://www.sqlsaturday.com/651/Sessions/Details.aspx?sid=64120",
   "thumbnail": "https://i.vimeocdn.com/video/641693852_295x166.jpg",

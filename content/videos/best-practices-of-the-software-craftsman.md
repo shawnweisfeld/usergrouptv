@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "best-practices-of-the-software-craftsman",
   "abstract": "<p>Learning how to be a good craftsmen of software takes time, its about using the tools, and the experience you’ve developed to ensure you are creating quality code. Come and learn from Devlin Liles and Tim Rayburn some of the skills that they’ve learned through the school of hard knocks, and hopefully you can learn from them without as much pain.</p>",
+  "description": "<p>Learning how to be a good craftsmen of software takes time, its about using the tools, and the experience you’ve developed to ensure you are creating quality code. Come and learn from Devlin Liles and Tim Rayburn some of the skills that they’ve learned through the school of hard knocks, and hopefully you can learn from them without as much pain.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/483486884_295x166.jpg"
+  ],
   "vimeo": "101658627",
   "moreinfo": "http://www.houstontechfest.org/Lists/ScheduleInfo/DispForm.aspx?ID=60&Source=http%3A%2F%2Fwww%2Ehoustontechfest%2Eorg%2FSitePages%2FTabbedSchedule%2Easpx",
   "thumbnail": "https://i.vimeocdn.com/video/483486884_295x166.jpg",

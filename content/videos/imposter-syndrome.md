@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "imposter-syndrome",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/661080971_295x166.jpg"
+  ],
   "vimeo": "238398251",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/661080971_295x166.jpg",

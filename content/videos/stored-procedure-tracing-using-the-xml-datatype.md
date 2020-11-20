@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "stored-procedure-tracing-using-the-xml-datatype",
   "abstract": "<p>When running a stored procedure it is difficult to record what is happening. In this session we will develop logger code in T-SQL to add to your stored procedures. We will use the xml datatype to record parameter values, variable values and debug statements. We will look at the \"For xml\" statement as well as the xml datatype methods, especially the modify method. Finally we will look at how to read the logs when finished.</p>",
+  "description": "<p>When running a stored procedure it is difficult to record what is happening. In this session we will develop logger code in T-SQL to add to your stored procedures. We will use the xml datatype to record parameter values, variable values and debug statements. We will look at the \"For xml\" statement as well as the xml datatype methods, especially the modify method. Finally we will look at how to read the logs when finished.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/500556524_295x166.jpg"
+  ],
   "vimeo": "114767273",
   "moreinfo": "http://www.sqlsaturday.com/63/eventhome.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/500556524_295x166.jpg",

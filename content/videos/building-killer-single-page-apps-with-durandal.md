@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "building-killer-single-page-apps-with-durandal",
   "abstract": "<p>JavaScript has come into its own as a language for building large, rich applications. Browser improvements have made it lightning-fast and a healthy ecosystem of libraries has risen up around it. Still, building Single-Page applications on your own can be a daunting task. That's where Durandal comes in. It leverages existing libraries like Knockout and RequireJS for data-binding and dependency management, and layers on additional features needed by real-world applications like compositional UI. Come see how Durandal can help you create web applications using state-of-the-art practices and tooling.\r\n</p>",
+  "description": "<p>JavaScript has come into its own as a language for building large, rich applications. Browser improvements have made it lightning-fast and a healthy ecosystem of libraries has risen up around it. Still, building Single-Page applications on your own can be a daunting task. That's where Durandal comes in. It leverages existing libraries like Knockout and RequireJS for data-binding and dependency management, and layers on additional features needed by real-world applications like compositional UI. Come see how Durandal can help you create web applications using state-of-the-art practices and tooling.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/482638811_295x166.jpg"
+  ],
   "vimeo": "100980387",
   "moreinfo": "http://techfests.com/Tulsa/2013/Speakers/BrianSullivan/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/482638811_295x166.jpg",

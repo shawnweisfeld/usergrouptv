@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "azure-service-bus-the-good-the-bad-and-the-awesome",
   "abstract": "<p>Have you ever wanted to know what superior messaging looks like in the cloud, or what you could get for your buck beyond the sales pitch? This session will show what Azure ServiceBus messaging has to offer and why it could become the next cloud service you'll want to use. </p>",
+  "description": "<p>Have you ever wanted to know what superior messaging looks like in the cloud, or what you could get for your buck beyond the sales pitch? This session will show what Azure ServiceBus messaging has to offer and why it could become the next cloud service you'll want to use. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/590927556_295x166.jpg"
+  ],
   "vimeo": "182111302",
   "moreinfo": "https://www.meetup.com/azureaustin/events/233648838/",
   "thumbnail": "https://i.vimeocdn.com/video/590927556_295x166.jpg",

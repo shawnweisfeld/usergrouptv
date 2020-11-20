@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "capture-change-and-apply-it-with-cdc-ssis",
   "abstract": "<p>Whether you are trying to setup a new data warehouse, keep it updated, audit changes to your databases or quickly load changes to another database Change Data Capture (CDC) is a solution for all of these and can now be setup and supported easily with SQL Server & SSIS 2012! Change Data Capture (CDC) has been around since SQL Server 2008, but has been underused because it was difficult to fully implement. SSIS 2012 now provides support for CDC with new components that make consuming the captured data very easy to apply. This session will define what CDC is and with live demos show how it is setup on your databases. Once it has been setup then you need to consume and apply those changes, this will be demonstrated with live demos using SSIS 2012 to create packages that apply the changes.\r\n</p>",
+  "description": "<p>Whether you are trying to setup a new data warehouse, keep it updated, audit changes to your databases or quickly load changes to another database Change Data Capture (CDC) is a solution for all of these and can now be setup and supported easily with SQL Server & SSIS 2012! Change Data Capture (CDC) has been around since SQL Server 2008, but has been underused because it was difficult to fully implement. SSIS 2012 now provides support for CDC with new components that make consuming the captured data very easy to apply. This session will define what CDC is and with live demos show how it is setup on your databases. Once it has been setup then you need to consume and apply those changes, this will be demonstrated with live demos using SSIS 2012 to create packages that apply the changes.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/505504007_295x166.jpg"
+  ],
   "vimeo": "118476155",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=25396",
   "thumbnail": "https://i.vimeocdn.com/video/505504007_295x166.jpg",

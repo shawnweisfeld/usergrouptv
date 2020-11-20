@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "understanding-backups",
   "abstract": "<p>One of the most important functions a DBA can perform is the backup. And far too many DBAs rely on the wizard to perform this task. Here I'll take you through everything you need to know about understanding command line backups, writing backup routines, and making the right decisions on how to do what kind of restore and when. I will take you through basic backup syntax and fully explain how things work the way they do and why. If you ever wanted to understand the ins and outs of SQL Server backups then this session will give you what you're after.</p>",
+  "description": "<p>One of the most important functions a DBA can perform is the backup. And far too many DBAs rely on the wizard to perform this task. Here I'll take you through everything you need to know about understanding command line backups, writing backup routines, and making the right decisions on how to do what kind of restore and when. I will take you through basic backup syntax and fully explain how things work the way they do and why. If you ever wanted to understand the ins and outs of SQL Server backups then this session will give you what you're after.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/487543694_295x166.jpg"
+  ],
   "vimeo": "104887007",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=125&sessionid=10570",
   "thumbnail": "https://i.vimeocdn.com/video/487543694_295x166.jpg",

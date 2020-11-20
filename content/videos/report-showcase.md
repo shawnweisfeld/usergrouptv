@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "report-showcase",
   "abstract": "<p>Power BI Report Showcase</p>",
+  "description": "<p>Power BI Report Showcase</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/822339117_295x166.jpg"
+  ],
   "vimeo": "366330933",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/263877265/",
   "thumbnail": "https://i.vimeocdn.com/video/822339117_295x166.jpg",

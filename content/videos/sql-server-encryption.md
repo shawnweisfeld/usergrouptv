@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sql-server-encryption",
   "abstract": "<p>Have you ever wanted to know how Transparent Database Encryption (TDE) works or how you set it up? What about encrypting your backups? This session will go over all the steps and caveats that go with this technology. TDE allows you to have your database encrypted on disk and the same Encryption Hierarchy allows you to back up your database and have it encrypt the contents in the backup file.  We will discuss the Encryption Hierarchy which is used for encryption in SQL Server and take you through keeping your secrets safe. We will also go over how Always Encrypted works as well. Master the concepts of SQL Server Encryption when you are done with this session.\r\n</p>",
+  "description": "<p>Have you ever wanted to know how Transparent Database Encryption (TDE) works or how you set it up? What about encrypting your backups? This session will go over all the steps and caveats that go with this technology. TDE allows you to have your database encrypted on disk and the same Encryption Hierarchy allows you to back up your database and have it encrypt the contents in the backup file.  We will discuss the Encryption Hierarchy which is used for encryption in SQL Server and take you through keeping your secrets safe. We will also go over how Always Encrypted works as well. Master the concepts of SQL Server Encryption when you are done with this session.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/722235367_295x166.jpg"
+  ],
   "vimeo": "287161372",
   "moreinfo": "http://www.sqlsaturday.com/794/Sessions/Details.aspx?sid=83762",
   "thumbnail": "https://i.vimeocdn.com/video/722235367_295x166.jpg",

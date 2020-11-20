@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "build-your-mobile-app-with-notifications-2",
   "abstract": "<p>Learn how to add notifications, remote and local, to your application. Whether it’s an iOS, Android, or Windows, it’s easy to add notifications. We will take a look at using AWS Notification Service, Azure Notification Hub, and even doing your own Push Notifications with PushSharp. Push notifications are a mainstay for making a polished and well-rounded application. It's important on how you handle your notifications and display them. The wrong sound or not navigating to the item can make for a poor user experience.</p>",
+  "description": "<p>Learn how to add notifications, remote and local, to your application. Whether it’s an iOS, Android, or Windows, it’s easy to add notifications. We will take a look at using AWS Notification Service, Azure Notification Hub, and even doing your own Push Notifications with PushSharp. Push notifications are a mainstay for making a polished and well-rounded application. It's important on how you handle your notifications and display them. The wrong sound or not navigating to the item can make for a poor user experience.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/660048171_295x166.jpg"
+  ],
   "vimeo": "237598362",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660048171_295x166.jpg",

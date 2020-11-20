@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "building-cross-platform-mobile-applications-using-jquery-mobile",
   "abstract": "<p>In this session, we'll discuss how to write a functional, touch-friendly web application using jQuery Mobile. We'll walk through basic pages, layouts, toolbars, navigation, list views, events, form controls, and transition effects.\r\n</p>",
+  "description": "<p>In this session, we'll discuss how to write a functional, touch-friendly web application using jQuery Mobile. We'll walk through basic pages, layouts, toolbars, navigation, list views, events, form controls, and transition effects.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485963143_295x166.jpg"
+  ],
   "vimeo": "103660967",
   "moreinfo": "http://techfests.com/Tulsa/2012/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/485963143_295x166.jpg",

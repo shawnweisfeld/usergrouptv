@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "solid-software-development-principles",
   "abstract": "<p>SOLID is an acronym for five basic principles of object oriented design and development. Michael will give a platform agnostic presentation of these principles and how they can be used to improve our projects.</p>",
+  "description": "<p>SOLID is an acronym for five basic principles of object oriented design and development. Michael will give a platform agnostic presentation of these principles and how they can be used to improve our projects.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/507716738_295x166.jpg"
+  ],
   "vimeo": "120046616",
   "moreinfo": "http://sqlconnections.org/",
   "thumbnail": "https://i.vimeocdn.com/video/507716738_295x166.jpg",

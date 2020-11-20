@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "create-the-future-drive-the-change-lead-the-way",
   "abstract": "<p>Hello agents, Your mission, should you chose to accept it, is to build the world of tomorrow. With your newly found knowledge and freshly minted degree, where might you go and what could you do? Innovation is both strategic and tactical, one cannot happen with the other. Leverage your best skills to reinvent with the changing time, address business needs, and lead innovations. Define your legacy through the disruptions!</p>",
+  "description": "<p>Hello agents, Your mission, should you chose to accept it, is to build the world of tomorrow. With your newly found knowledge and freshly minted degree, where might you go and what could you do? Innovation is both strategic and tactical, one cannot happen with the other. Leverage your best skills to reinvent with the changing time, address business needs, and lead innovations. Define your legacy through the disruptions!</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/651116988_295x166.jpg"
+  ],
   "vimeo": "230526814",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/651116988_295x166.jpg",

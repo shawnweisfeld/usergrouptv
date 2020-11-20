@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "azure-in-60-minutes-2",
   "abstract": "<p>Are you new to the cloud? Confused if you should use virtual machines, containers or PaaS? Worried about the security of the cloud? What about Open Source in Azure? In this session we will provide an overview of everything you need to get starting using Azure in 60 minutes.</p>",
+  "description": "<p>Are you new to the cloud? Confused if you should use virtual machines, containers or PaaS? Worried about the security of the cloud? What about Open Source in Azure? In this session we will provide an overview of everything you need to get starting using Azure in 60 minutes.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/699197207_295x166.jpg"
+  ],
   "vimeo": "268462793",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/699197207_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "getting-started-with-geo-location",
   "abstract": "<p>Geo Location has evolved over the past several years to encompass much broader concepts than simple latitude and longitude coordinates. Today's world of GPS enabled mobile devices has spawned a revolution in the software world. Given all the services available today, where do you start? What data can you use and store and which providers have the strictest license agreements? What if you need specific types of data for a specific project? We will dig into the dirty details and show you the who  what  and \"where\".</p>",
+  "description": "<p>Geo Location has evolved over the past several years to encompass much broader concepts than simple latitude and longitude coordinates. Today's world of GPS enabled mobile devices has spawned a revolution in the software world. Given all the services available today, where do you start? What data can you use and store and which providers have the strictest license agreements? What if you need specific types of data for a specific project? We will dig into the dirty details and show you the who  what  and \"where\".</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/500550762_295x166.jpg"
+  ],
   "vimeo": "114763036",
   "moreinfo": "http://www.ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/500550762_295x166.jpg",

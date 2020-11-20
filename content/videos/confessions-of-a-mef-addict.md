@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "confessions-of-a-mef-addict",
   "abstract": "<p>You might have heard about the ability for you to build amazing add-ins for Microsoft Visual Studio 2010. But did you know that you could leverage the same technology in your own applications to build not only extensible, but composite applications? Come share in what I&rsquo;ve discovered thus far and why I&rsquo;ve jumped head first into learning everything I can about the Managed Extensibility Framework (MEF) that is included in .NET 4.</p>",
+  "description": "<p>You might have heard about the ability for you to build amazing add-ins for Microsoft Visual Studio 2010. But did you know that you could leverage the same technology in your own applications to build not only extensible, but composite applications? Come share in what I&rsquo;ve discovered thus far and why I&rsquo;ve jumped head first into learning everything I can about the Managed Extensibility Framework (MEF) that is included in .NET 4.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/500555308_295x166.jpg"
+  ],
   "vimeo": "114766369",
   "moreinfo": "http://fwdnug.com/",
   "thumbnail": "https://i.vimeocdn.com/video/500555308_295x166.jpg",

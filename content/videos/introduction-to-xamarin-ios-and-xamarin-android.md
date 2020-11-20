@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "introduction-to-xamarin-ios-and-xamarin-android",
   "abstract": "<p>Learn the basics of building an application in Xamarin.iOS and Xamarin.Android and how you can share code between the two platforms. On each platform we will cover application life cycle, view management, view layout, and event handling as well as platform-specific issues like view controller life cycle (iOS) and Activity/Fragment life cycle (Android). </p>",
+  "description": "<p>Learn the basics of building an application in Xamarin.iOS and Xamarin.Android and how you can share code between the two platforms. On each platform we will cover application life cycle, view management, view layout, and event handling as well as platform-specific issues like view controller life cycle (iOS) and Activity/Fragment life cycle (Android). </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/507715883_295x166.jpg"
+  ],
   "vimeo": "120046052",
   "moreinfo": "http://www.meetup.com/Austin-Mobile-NET-Developers-Group/events/219107753/",
   "thumbnail": "https://i.vimeocdn.com/video/507715883_295x166.jpg",

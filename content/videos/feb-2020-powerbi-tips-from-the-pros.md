@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "feb-2020-powerbi-tips-from-the-pros",
   "abstract": "<p>Feb 2020 PowerBI Tips from the Pros</p>",
+  "description": "<p>Feb 2020 PowerBI Tips from the Pros</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/859011285_295x166.jpg"
+  ],
   "vimeo": "393489595",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/267226758/",
   "thumbnail": "https://i.vimeocdn.com/video/859011285_295x166.jpg",

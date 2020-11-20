@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "mvc6-what-you-need-to-know-when-moving-to-next",
   "abstract": "<p>Say goodbye to System.Web! If you could drop a box of TNT on the ASP.NET stack and start over, what would it look like? Fewer dependencies, faster builds and viewing changes without compiling? Check! A composable, injectable, self-hostable stack? Check! The MVC 6 Framework has several new features, but these aren’t only skin-deep. In this session we’ll walk through the MVC pipeline, expose the new parts and discuss what the internal changes mean to the development of applications down the road.\r\n</p>",
+  "description": "<p>Say goodbye to System.Web! If you could drop a box of TNT on the ASP.NET stack and start over, what would it look like? Fewer dependencies, faster builds and viewing changes without compiling? Check! A composable, injectable, self-hostable stack? Check! The MVC 6 Framework has several new features, but these aren’t only skin-deep. In this session we’ll walk through the MVC pipeline, expose the new parts and discuss what the internal changes mean to the development of applications down the road.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/537261105_295x166.jpg"
+  ],
   "vimeo": "140648085",
   "moreinfo": "http://measureup2015.azurewebsites.net/mvc6/",
   "thumbnail": "https://i.vimeocdn.com/video/537261105_295x166.jpg",

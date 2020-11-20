@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "simplifying-sql-data-protection-with-rubrik",
   "abstract": "<p>When you think about backups in your environment, how many servers & scripts do you have to manage? Or have you ever needed to get a table back from a large database and didn't want to argue with the storage admins about space for the restore? With Rubrik, we empower you to backup and restore your databases quickly and with ease. Come see how you can quickly protect hundreds of databases with just a few clicks or bring back a database in minutes to satisfy your most demanding executives. With Rubrik, it's not about backing up, it's about going forward!\r\n</p>",
+  "description": "<p>When you think about backups in your environment, how many servers & scripts do you have to manage? Or have you ever needed to get a table back from a large database and didn't want to argue with the storage admins about space for the restore? With Rubrik, we empower you to backup and restore your databases quickly and with ease. Come see how you can quickly protect hundreds of databases with just a few clicks or bring back a database in minutes to satisfy your most demanding executives. With Rubrik, it's not about backing up, it's about going forward!\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/709496653_295x166.jpg"
+  ],
   "vimeo": "276872257",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=83909",
   "thumbnail": "https://i.vimeocdn.com/video/709496653_295x166.jpg",

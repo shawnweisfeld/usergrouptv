@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "seo-for-web-developers",
   "abstract": "<p>As web developers, we know that SEO (Search Engine Optimization) is important when building a website. But what parts of SEO is important, and what parts of on-site SEO can be ignored? In this panel, we'll discuss search engine friendly websites, building sites with 'responsive design' and migrating sites from old an older CMS to WordPress.</p>\r\n<p>The focus will be primarily on on-site search engine optimization, and making websites are search engine friendly. We'll also discuss how to perform a search engine optimization audit of your own website, using several widely available tools. Some of the tools discussed will be website crawlers (you can crawl your own website and check for errors and common SEO problems) and using the data provided in Google Webmaster Tools and Bing Webmaster Tools.</p>",
+  "description": "<p>As web developers, we know that SEO (Search Engine Optimization) is important when building a website. But what parts of SEO is important, and what parts of on-site SEO can be ignored? In this panel, we'll discuss search engine friendly websites, building sites with 'responsive design' and migrating sites from old an older CMS to WordPress.</p>\r\n<p>The focus will be primarily on on-site search engine optimization, and making websites are search engine friendly. We'll also discuss how to perform a search engine optimization audit of your own website, using several widely available tools. Some of the tools discussed will be website crawlers (you can crawl your own website and check for errors and common SEO problems) and using the data provided in Google Webmaster Tools and Bing Webmaster Tools.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/490860473_295x166.jpg"
+  ],
   "vimeo": "107457956",
   "moreinfo": "http://lrtechfest.com/speakers#bill-hartzer",
   "thumbnail": "https://i.vimeocdn.com/video/490860473_295x166.jpg",

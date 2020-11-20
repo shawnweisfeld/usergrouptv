@@ -6,6 +6,10 @@
   "draft": false,
   "slug": "application-database-development",
   "abstract": "<p>There is a steep learning curve moving from a traditional application development role into writing database code.  Your experience is telling you one thing and the DBAs are telling you another.  Making sense of what's going on can be quite a struggle.  Join me and let's try to smooth out some of the biggest points of confusion.  Including subjects like, the anatomy of a table, what's up with NULLs, why should I be cautious with functions, and how can I start tuning my queries.</p>",
+  "description": "<p>There is a steep learning curve moving from a traditional application development role into writing database code.  Your experience is telling you one thing and the DBAs are telling you another.  Making sense of what's going on can be quite a struggle.  Join me and let's try to smooth out some of the biggest points of confusion.  Including subjects like, the anatomy of a table, what's up with NULLs, why should I be cautious with functions, and how can I start tuning my queries.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/589679679_295x166.jpg"
+  ],
   "vimeo": "181197012",
   "moreinfo": "http://www.sqlsaturday.com/553/Sessions/Details.aspx?sid=52641",
   "thumbnail": "https://i.vimeocdn.com/video/589679679_295x166.jpg",

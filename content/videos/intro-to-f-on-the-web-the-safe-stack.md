@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "intro-to-f-on-the-web-the-safe-stack",
   "abstract": "<p>Hi everyone, thanks to our good friends over at Microsoft we're excited to restart this Austin F# meetup with a bang! In this spirit of all things new, we're taking a deep look into the SAFE Stack, a productive, well-typed, and exciting approach to web application and backend development that really shows off how F# can be used to make common tasks simple, and hard tasks easy.</p>",
+  "description": "<p>Hi everyone, thanks to our good friends over at Microsoft we're excited to restart this Austin F# meetup with a bang! In this spirit of all things new, we're taking a deep look into the SAFE Stack, a productive, well-typed, and exciting approach to web application and backend development that really shows off how F# can be used to make common tasks simple, and hard tasks easy.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/727663137_295x166.jpg"
+  ],
   "vimeo": "291505443",
   "moreinfo": "https://www.meetup.com/Austin-F-Meetup/events/254096582/",
   "thumbnail": "https://i.vimeocdn.com/video/727663137_295x166.jpg",

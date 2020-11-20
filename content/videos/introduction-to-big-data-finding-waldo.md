@@ -11,6 +11,10 @@
   "draft": false,
   "slug": "introduction-to-big-data-finding-waldo",
   "abstract": "Big Data has an industry \"buzz\" about it reminiscent of Java and the Netscape browser in 1995. Through a combination of slides and demo, the session provides common Big Data use case fits and architectural approaches for successfully adopting Big Data. Demos include Hadoop, Hive, Sqoop and Big Data Connectors and Hadoop management/monitoring.",
+  "description": "Big Data has an industry \"buzz\" about it reminiscent of Java and the Netscape browser in 1995. Through a combination of slides and demo, the session provides common Big Data use case fits and architectural approaches for successfully adopting Big Data. Demos include Hadoop, Hive, Sqoop and Big Data Connectors and Hadoop management/monitoring.",
+  "images": [
+    "https://i.vimeocdn.com/video/488136582_295x166.jpg"
+  ],
   "vimeo": "105366060",
   "moreinfo": "http://techfests.com/NWA/2012",
   "thumbnail": "https://i.vimeocdn.com/video/488136582_295x166.jpg",

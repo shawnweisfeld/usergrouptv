@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sharepoint-online-hub-sites",
   "abstract": "<p>Site creation & wiring up child sites, Propagation of navigation and themes; scoped search, Information architecture implications, Time permitting, New theming and customization options (all 'modern' sites), Latest OOTB web parts & updates (all 'modern' sites)</p>",
+  "description": "<p>Site creation & wiring up child sites, Propagation of navigation and themes; scoped search, Information architecture implications, Time permitting, New theming and customization options (all 'modern' sites), Latest OOTB web parts & updates (all 'modern' sites)</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/694126310_295x166.jpg"
+  ],
   "vimeo": "264364533",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/lsljlmyxgbpb/",
   "thumbnail": "https://i.vimeocdn.com/video/694126310_295x166.jpg",

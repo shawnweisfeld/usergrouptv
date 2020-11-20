@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "whats-new-for-web-developers-in-visual-studio-2013",
   "abstract": "<p>The web ships fast, but Microsoft developers have usually had to wait two to three years for updates to their tools. That's starting to change as the ASP.NET team ramps up its release cadence, with new features coming every few months. As exciting as it is, all that new stuff can be hard to keep up with. Come get an update on the latest web technologies from Microsoft as Brian explores the new features for web developers in Visual Studio 2013. This will be a whirlwind tour; we'll cover everything from OWIN and the Katana project to Entity Framework 6 updates and the new ASP.NET Identity model.</p>",
+  "description": "<p>The web ships fast, but Microsoft developers have usually had to wait two to three years for updates to their tools. That's starting to change as the ASP.NET team ramps up its release cadence, with new features coming every few months. As exciting as it is, all that new stuff can be hard to keep up with. Come get an update on the latest web technologies from Microsoft as Brian explores the new features for web developers in Visual Studio 2013. This will be a whirlwind tour; we'll cover everything from OWIN and the Katana project to Entity Framework 6 updates and the new ASP.NET Identity model.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/489184529_295x166.jpg"
+  ],
   "vimeo": "106168871",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#0214",
   "thumbnail": "https://i.vimeocdn.com/video/489184529_295x166.jpg",

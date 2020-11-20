@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "code-like-a-pirate-intro-to-r-and-data-science-tools-in-ms",
   "abstract": "<p>R is the most popular statistics language used today. It is one of the most useful tools in the data scientist's tool belt. It is also integrated into the MS stack in tools like Azure ML, SQL Server and Power BI and can be used to take your data analytics to the next level. \r\n</p>",
+  "description": "<p>R is the most popular statistics language used today. It is one of the most useful tools in the data scientist's tool belt. It is also integrated into the MS stack in tools like Azure ML, SQL Server and Power BI and can be used to take your data analytics to the next level. \r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/719328131_295x166.jpg"
+  ],
   "vimeo": "284796919",
   "moreinfo": "http://www.sqlsaturday.com/749/Sessions/Details.aspx?sid=84321",
   "thumbnail": "https://i.vimeocdn.com/video/719328131_295x166.jpg",

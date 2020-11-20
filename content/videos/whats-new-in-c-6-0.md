@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "whats-new-in-c-6-0",
   "abstract": "<p>With C# 6 comes the release of the Roslyn C# compiler, the new open-source compiler written from the ground up in C# by Microsoft. The new compiler allowed the team to work in a much more agile manner, and with that, build out a number of features into C# that would have otherwise never happened. In this talk, we’ll walk through these new features, how they’ll help you, and when to use or not use them in new and existing projects.</p>",
+  "description": "<p>With C# 6 comes the release of the Roslyn C# compiler, the new open-source compiler written from the ground up in C# by Microsoft. The new compiler allowed the team to work in a much more agile manner, and with that, build out a number of features into C# that would have otherwise never happened. In this talk, we’ll walk through these new features, how they’ll help you, and when to use or not use them in new and existing projects.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/539466247_295x166.jpg"
+  ],
   "vimeo": "142235289",
   "moreinfo": "http://adnug.org/Home/october-12-2015-whats-new-in-c-6-0/",
   "thumbnail": "https://i.vimeocdn.com/video/539466247_295x166.jpg",

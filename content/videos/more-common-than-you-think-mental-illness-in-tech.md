@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "more-common-than-you-think-mental-illness-in-tech",
   "abstract": "<p>Mental illness is more common than you think.  One in four Americans suffers from a mental illness each year.  In the tech community, this is often not talked about.  Many times, people feel alone and isolated in the tech community with us mostly being introverted people.  It is time to start talking about mental illness out in the open and honestly about how it affects us and those around us. In this session, we will talk about what mental illness is and what it is not.  How my mental illness has affected me.  How it effects the tech industry.  How mental illness can affect you and how you can tell if you are starting to have issues.  What to say and what not to say to people you know that are affected by mental illness.  Finally, how to get help and where reach out for help.</p>",
+  "description": "<p>Mental illness is more common than you think.  One in four Americans suffers from a mental illness each year.  In the tech community, this is often not talked about.  Many times, people feel alone and isolated in the tech community with us mostly being introverted people.  It is time to start talking about mental illness out in the open and honestly about how it affects us and those around us. In this session, we will talk about what mental illness is and what it is not.  How my mental illness has affected me.  How it effects the tech industry.  How mental illness can affect you and how you can tell if you are starting to have issues.  What to say and what not to say to people you know that are affected by mental illness.  Finally, how to get help and where reach out for help.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/854625923_295x166.jpg"
+  ],
   "vimeo": "390486459",
   "moreinfo": "https://www.sqlsaturday.com/939/Sessions/Details.aspx?sid=99433",
   "thumbnail": "https://i.vimeocdn.com/video/854625923_295x166.jpg",

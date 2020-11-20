@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "an-introduction-to-angularjs-forms-validation",
   "abstract": "<p>This presentation will provide you with the core knowledge needed to build fantastic forms in AngularJS by leveraging the framework's existing functionality and how to expand upon it to handle more complex validation tasks. Topics to be covered include: The AngularJS Form Controller Existing Validation Directives Displaying of Error Messages Enabling and Disabling of Submit Buttons Building Custom Validation Directives\r\n</p>",
+  "description": "<p>This presentation will provide you with the core knowledge needed to build fantastic forms in AngularJS by leveraging the framework's existing functionality and how to expand upon it to handle more complex validation tasks. Topics to be covered include: The AngularJS Form Controller Existing Validation Directives Displaying of Error Messages Enabling and Disabling of Submit Buttons Building Custom Validation Directives\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/481964618_295x166.jpg"
+  ],
   "vimeo": "100467738",
   "moreinfo": "http://2014.cowtowntechroundup.com/Profile/d84644a5-8df8-44b4-b909-e76ff4a61737",
   "thumbnail": "https://i.vimeocdn.com/video/481964618_295x166.jpg",

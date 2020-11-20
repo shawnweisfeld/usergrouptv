@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sql-server-data-tools",
   "abstract": "<p>Working with SQL schema is a chore for most developers. In this session we will take a look at the SQL Server Data Tools in Visual Studio and how we can leverage them to make your development life a bit easier.\r\n</p>",
+  "description": "<p>Working with SQL schema is a chore for most developers. In this session we will take a look at the SQL Server Data Tools in Visual Studio and how we can leverage them to make your development life a bit easier.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/505667943_295x166.jpg"
+  ],
   "vimeo": "118595225",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=25642",
   "thumbnail": "https://i.vimeocdn.com/video/505667943_295x166.jpg",

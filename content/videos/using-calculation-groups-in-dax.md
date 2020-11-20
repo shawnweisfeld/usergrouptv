@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "using-calculation-groups-in-dax",
   "abstract": "<p>Calculation groups are the most important feature introduced in DAX after variables in 2015. By using calculation groups, you can apply transformations to existing measures without having to create new measures in the model. For example, you can define the year-over-year calculation once and apply it to all the measures you want. Yet, calculation groups can do more than that. This session introduces the syntax of calculation groups, when they should be used and several examples of use cases. You will also learn how calculation groups work internally and what are the limits of this amazing tool.</p>",
+  "description": "<p>Calculation groups are the most important feature introduced in DAX after variables in 2015. By using calculation groups, you can apply transformations to existing measures without having to create new measures in the model. For example, you can define the year-over-year calculation once and apply it to all the measures you want. Yet, calculation groups can do more than that. This session introduces the syntax of calculation groups, when they should be used and several examples of use cases. You will also learn how calculation groups work internally and what are the limits of this amazing tool.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/854620219_295x166.jpg"
+  ],
   "vimeo": "390482431",
   "moreinfo": "https://www.sqlsaturday.com/939/Sessions/Details.aspx?sid=101997",
   "thumbnail": "https://i.vimeocdn.com/video/854620219_295x166.jpg",

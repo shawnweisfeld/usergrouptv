@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "inside-sql-server-in-memory-oltp",
   "abstract": "<p>Based on the successful 500 Level talk at PASS 2016, this session will provide an internals view of how In-Memory OLTP works for SQL Server 2016. Because this session is Advanced, it is intended for those that understand the basic fundamentals of In-Memory OLTP but want to learn how the \"Hekaton\" engine works behind the scenes to deliver the amazing 30x performance improvements seen for customers moving to In-Memory OLTP. This session will include a look behind the scenes at threads, data and index design, transactions and concurrency, logging, storage, and natively compiled procedures. And since this will be an advanced level session, of course the demonstration of the looking at the Hekaton engine with the debugger is a must.</p>",
+  "description": "<p>Based on the successful 500 Level talk at PASS 2016, this session will provide an internals view of how In-Memory OLTP works for SQL Server 2016. Because this session is Advanced, it is intended for those that understand the basic fundamentals of In-Memory OLTP but want to learn how the \"Hekaton\" engine works behind the scenes to deliver the amazing 30x performance improvements seen for customers moving to In-Memory OLTP. This session will include a look behind the scenes at threads, data and index design, transactions and concurrency, logging, storage, and natively compiled procedures. And since this will be an advanced level session, of course the demonstration of the looking at the Hekaton engine with the debugger is a must.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/641693171_295x166.jpg"
+  ],
   "vimeo": "223016679",
   "moreinfo": "http://www.sqlsaturday.com/651/Sessions/Details.aspx?sid=63725",
   "thumbnail": "https://i.vimeocdn.com/video/641693171_295x166.jpg",

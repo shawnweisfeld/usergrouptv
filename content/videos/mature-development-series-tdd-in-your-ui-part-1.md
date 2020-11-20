@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "mature-development-series-tdd-in-your-ui-part-1",
   "abstract": "<p>Coding Naked: UI Edition<br />\r\nPractical steps to moving towards & embracing TDD in your UI<br />\r\nAutomated Unit Tests are your first line of defense to reducing technical debt, increasing code quality and efficiency. Come learn why TDD is not a fancy practice for the coding elite, but an understandable, obtainable and practical approach to delivering value for every developer, and how, when done properly, will increase communication and design between the business stake holders and developers.<br />\r\nWe'll be taking a look at 3 patterns for creating testable UI's and discuss when and how to apply them to your applications. \r\n</p>",
+  "description": "<p>Coding Naked: UI Edition<br />\r\nPractical steps to moving towards & embracing TDD in your UI<br />\r\nAutomated Unit Tests are your first line of defense to reducing technical debt, increasing code quality and efficiency. Come learn why TDD is not a fancy practice for the coding elite, but an understandable, obtainable and practical approach to delivering value for every developer, and how, when done properly, will increase communication and design between the business stake holders and developers.<br />\r\nWe'll be taking a look at 3 patterns for creating testable UI's and discuss when and how to apply them to your applications. \r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/496721357_295x166.jpg"
+  ],
   "vimeo": "111927164",
   "moreinfo": "http://dallasxaml.com",
   "thumbnail": "https://i.vimeocdn.com/video/496721357_295x166.jpg",

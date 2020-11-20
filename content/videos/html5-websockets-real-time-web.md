@@ -10,6 +10,10 @@
   "draft": false,
   "slug": "html5-websockets-real-time-web",
   "abstract": "The web has been largely built around the so-called request/response paradigm of HTTP. A client loads up a web page and then nothing happens until the user clicks onto the next page. Around 2005, AJAX started to make the web feel more dynamic. Still, all HTTP communication was steered by the client, which required user interaction or periodic polling to load new data from the server.\r\n\r\nHtml5 Websockets will give us a more real-time web because the server can talk back to the browser. We'll talk about what this means and how you can use this in your desktop browser and mobile web applications.\r\n\r\nWe will power it all with Node.js, so expect a lot of JavaScript.",
+  "description": "The web has been largely built around the so-called request/response paradigm of HTTP. A client loads up a web page and then nothing happens until the user clicks onto the next page. Around 2005, AJAX started to make the web feel more dynamic. Still, all HTTP communication was steered by the client, which required user interaction or periodic polling to load new data from the server.\r\n\r\nHtml5 Websockets will give us a more real-time web because the server can talk back to the browser. We'll talk about what this means and how you can use this in your desktop browser and mobile web applications.\r\n\r\nWe will power it all with Node.js, so expect a lot of JavaScript.",
+  "images": [
+    "https://i.vimeocdn.com/video/488134956_295x166.jpg"
+  ],
   "vimeo": "105364843",
   "moreinfo": "http://www.meetup.com/HTML5-User-Group",
   "thumbnail": "https://i.vimeocdn.com/video/488134956_295x166.jpg",

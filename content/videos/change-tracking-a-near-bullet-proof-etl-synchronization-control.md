@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "change-tracking-a-near-bullet-proof-etl-synchronization-control",
   "abstract": "<p>Change Tracking came out with SQL Server 2008, but SS2012 almost eclipsed it with Change Data Capture.  Change Tracking is now the red-headed step child, but in many cases may be a better solution for data ETL movement from an OLTP database to a data warehouse database.  This session will provide a review of change tracking syntax and implementation with detailed demos.  It will then dive into an actual ETL subset implementation from the AdventureWorks database to a data warehouse solution (modified AdventureWorksDW) with detailed code discussion and demos.</p>",
+  "description": "<p>Change Tracking came out with SQL Server 2008, but SS2012 almost eclipsed it with Change Data Capture.  Change Tracking is now the red-headed step child, but in many cases may be a better solution for data ETL movement from an OLTP database to a data warehouse database.  This session will provide a review of change tracking syntax and implementation with detailed demos.  It will then dive into an actual ETL subset implementation from the AdventureWorks database to a data warehouse solution (modified AdventureWorksDW) with detailed code discussion and demos.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/571063050_295x166.jpg"
+  ],
   "vimeo": "166881876",
   "moreinfo": "http://www.sqlsaturday.com/514/Sessions/Details.aspx?sid=45205",
   "thumbnail": "https://i.vimeocdn.com/video/571063050_295x166.jpg",

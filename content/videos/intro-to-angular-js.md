@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "intro-to-angular-js",
   "abstract": "<p>Angular.js is a powerful JavaScript framework developed by Google, and you can totally learn how to use it! In this talk we'll cover the basics of Angular with live code and demos, using Laravel PHP to power the back-end JSON API.</p>\r\n<p>Demo will include setting up an Angular application, pulling JSON from a server, binding data to your view, posting data from a form, and showing error and success messages. All \"real world\" stuff you can use in your applications, even if they aren't fancy single page applications!</p>\r\n<p>We'll also check out some other web related goodies like Gulp.js for compiling our CSS (LESS) and JavaScript files.</p>",
+  "description": "<p>Angular.js is a powerful JavaScript framework developed by Google, and you can totally learn how to use it! In this talk we'll cover the basics of Angular with live code and demos, using Laravel PHP to power the back-end JSON API.</p>\r\n<p>Demo will include setting up an Angular application, pulling JSON from a server, binding data to your view, posting data from a form, and showing error and success messages. All \"real world\" stuff you can use in your applications, even if they aren't fancy single page applications!</p>\r\n<p>We'll also check out some other web related goodies like Gulp.js for compiling our CSS (LESS) and JavaScript files.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/490867670_295x166.jpg"
+  ],
   "vimeo": "107464172",
   "moreinfo": "http://lrtechfest.com/speakers#taylor-otwell",
   "thumbnail": "https://i.vimeocdn.com/video/490867670_295x166.jpg",

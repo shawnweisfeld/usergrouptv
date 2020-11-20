@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "scrum-artifacts-and-events",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/728974328_295x166.jpg"
+  ],
   "vimeo": "292556036",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/728974328_295x166.jpg",

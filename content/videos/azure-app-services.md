@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "azure-app-services",
   "abstract": "<p>Join me to see how you can publish a .NET core API and push the dockerized API straight\r\nto Azure App service and run it! Dockerizing and publishing a .NET core API straight from Visual\r\nStudio 2017 to a Linux App service. The API will contain a swagger end point which you can run\r\nin Azure once published</p>",
+  "description": "<p>Join me to see how you can publish a .NET core API and push the dockerized API straight\r\nto Azure App service and run it! Dockerizing and publishing a .NET core API straight from Visual\r\nStudio 2017 to a Linux App service. The API will contain a swagger end point which you can run\r\nin Azure once published</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/778966437_295x166.jpg"
+  ],
   "vimeo": "333087685",
   "moreinfo": "https://www.meetup.com/azureaustin/events/258070696/",
   "thumbnail": "https://i.vimeocdn.com/video/778966437_295x166.jpg",

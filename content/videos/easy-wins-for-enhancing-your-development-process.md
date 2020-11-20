@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "easy-wins-for-enhancing-your-development-process",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/537393911_295x166.jpg"
+  ],
   "vimeo": "140742244",
   "moreinfo": "http://measureup.io",
   "thumbnail": "https://i.vimeocdn.com/video/537393911_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "an-introduction-to-blockchain-on-azure",
   "abstract": "<p>This session will cover introduction to Blockchain Terminology, considering various use cases and applicability, overview of blockchain services/offerings in Azure and sneak peek into a Private Project Microsoft is investing with respect to Blockchain followed by live demo</p>",
+  "description": "<p>This session will cover introduction to Blockchain Terminology, considering various use cases and applicability, overview of blockchain services/offerings in Azure and sneak peek into a Private Project Microsoft is investing with respect to Blockchain followed by live demo</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/696169887_295x166.jpg"
+  ],
   "vimeo": "266017794",
   "moreinfo": "https://global.azurebootcamp.net/locations/gobal-azure-boot-camp-2018-austin-tx/",
   "thumbnail": "https://i.vimeocdn.com/video/696169887_295x166.jpg",

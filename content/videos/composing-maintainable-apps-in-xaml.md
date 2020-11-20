@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "composing-maintainable-apps-in-xaml",
   "abstract": "<p>Of all the user interface technologies that have reached the main stream, from HTML to Windows Forms to Java Swing, XAML is the most composable. It offers an incredible degree of code reuse, customization, and componentization. It has so many options for piecing interfaces together, that selecting the right one can sometimes be overwhelming.</p>\r\n<p>\r\nThis February at Dallas XAML, we will dive deep into several composition patterns. These include:</p>\r\n<ul>\r\n<li>User controls</li>\r\n<li>Data templates</li>\r\n<li>Control templates</li>\r\n<li>Content presenters</li>\r\n</ul>\r\n<p>Bring your laptop and code along. The workshop will include several checkpoints to ensure you stay caught up.</p>\r\n<p>Choose the right pattern, and your WPF, Silverlight, Phone, or Metro code will be well organized and easy to maintain. Your co-workers will buy you lunch, and your apps will bring in tons of cash.\r\n</p>",
+  "description": "<p>Of all the user interface technologies that have reached the main stream, from HTML to Windows Forms to Java Swing, XAML is the most composable. It offers an incredible degree of code reuse, customization, and componentization. It has so many options for piecing interfaces together, that selecting the right one can sometimes be overwhelming.</p>\r\n<p>\r\nThis February at Dallas XAML, we will dive deep into several composition patterns. These include:</p>\r\n<ul>\r\n<li>User controls</li>\r\n<li>Data templates</li>\r\n<li>Control templates</li>\r\n<li>Content presenters</li>\r\n</ul>\r\n<p>Bring your laptop and code along. The workshop will include several checkpoints to ensure you stay caught up.</p>\r\n<p>Choose the right pattern, and your WPF, Silverlight, Phone, or Metro code will be well organized and easy to maintain. Your co-workers will buy you lunch, and your apps will bring in tons of cash.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485087621_295x166.jpg"
+  ],
   "vimeo": "102968266",
   "moreinfo": "http://dallasxaml.com/Home/Index",
   "thumbnail": "https://i.vimeocdn.com/video/485087621_295x166.jpg",

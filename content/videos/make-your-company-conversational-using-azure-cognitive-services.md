@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "make-your-company-conversational-using-azure-cognitive-services",
   "abstract": "<p>Customers and users increasingly demand more personal and prompt communication from companies and brands with which they interact. How can data professionals help fill that need? The incredible power and instant accessibility of the Azure Cognitive Services Language and Speech APIs, combined with other Azure services, put the power in our hands. From translating between languages to make communication more efficient to analyzing support communications to ensure customers are happy, Azure Cognitive Services allows data professionals to enhance a brand's interaction with and impression in the customer community. This demo-heavy sessions walks through practical applications of these APIs that you can apply at home or at work immediately after the session.</p>",
+  "description": "<p>Customers and users increasingly demand more personal and prompt communication from companies and brands with which they interact. How can data professionals help fill that need? The incredible power and instant accessibility of the Azure Cognitive Services Language and Speech APIs, combined with other Azure services, put the power in our hands. From translating between languages to make communication more efficient to analyzing support communications to ensure customers are happy, Azure Cognitive Services allows data professionals to enhance a brand's interaction with and impression in the customer community. This demo-heavy sessions walks through practical applications of these APIs that you can apply at home or at work immediately after the session.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/854627684_295x166.jpg"
+  ],
   "vimeo": "390487705",
   "moreinfo": "https://www.sqlsaturday.com/939/Sessions/Details.aspx?sid=101140",
   "thumbnail": "https://i.vimeocdn.com/video/854627684_295x166.jpg",

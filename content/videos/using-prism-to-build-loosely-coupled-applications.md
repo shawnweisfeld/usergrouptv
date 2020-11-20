@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "using-prism-to-build-loosely-coupled-applications",
   "abstract": "<p>In this session we'll learn how to design and build Windows Presentation Foundation (WPF) desktop applications using loosely coupled components that can evolve independently.  These loosely coupled components can easily and seamlessly integrate into the overall application. This is an introductory session that concentrates on the basic concepts required to build a composite application with the Microsoft Patterns and Practices Prism 4.1 framework,  The framework includes the boostrapper, regions, modules, view composition, and different techniques for communicating between loosely couple components.  We'll demonstrate all of these topics and more.  </p>",
+  "description": "<p>In this session we'll learn how to design and build Windows Presentation Foundation (WPF) desktop applications using loosely coupled components that can evolve independently.  These loosely coupled components can easily and seamlessly integrate into the overall application. This is an introductory session that concentrates on the basic concepts required to build a composite application with the Microsoft Patterns and Practices Prism 4.1 framework,  The framework includes the boostrapper, regions, modules, view composition, and different techniques for communicating between loosely couple components.  We'll demonstrate all of these topics and more.  </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/490126943_295x166.jpg"
+  ],
   "vimeo": "106883857",
   "moreinfo": "http://dallasxaml.com",
   "thumbnail": "https://i.vimeocdn.com/video/490126943_295x166.jpg",

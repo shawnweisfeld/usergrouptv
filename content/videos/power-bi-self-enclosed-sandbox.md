@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "power-bi-self-enclosed-sandbox",
   "abstract": "<p>Power BI Self Enclosed Sandbox</p>",
+  "description": "<p>Power BI Self Enclosed Sandbox</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/924740057_295x166.jpg"
+  ],
   "vimeo": "438395442",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/270914730/",
   "thumbnail": "https://i.vimeocdn.com/video/924740057_295x166.jpg",

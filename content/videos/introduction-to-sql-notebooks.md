@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "introduction-to-sql-notebooks",
   "abstract": "<p>Microsoft has recently released the first public preview of SQL Notebooks, which represent an entirely new and exciting way to interact with your data. Notebooks are combinations of human readable contents, SQL code, and resultsets that are saved in a standard file format for simple source control and sharing. Come get a look at this new way of working and learn how you can start using them immediately.</p>",
+  "description": "<p>Microsoft has recently released the first public preview of SQL Notebooks, which represent an entirely new and exciting way to interact with your data. Notebooks are combinations of human readable contents, SQL code, and resultsets that are saved in a standard file format for simple source control and sharing. Come get a look at this new way of working and learn how you can start using them immediately.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/786032093_295x166.jpg"
+  ],
   "vimeo": "338439466",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/fnxhcqyzhbcc/",
   "thumbnail": "https://i.vimeocdn.com/video/786032093_295x166.jpg",

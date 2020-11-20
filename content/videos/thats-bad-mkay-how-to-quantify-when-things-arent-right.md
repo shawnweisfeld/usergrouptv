@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "thats-bad-mkay-how-to-quantify-when-things-arent-right",
   "abstract": "<p>We've all heard that things like nested views, cursors, and under/over-indexed tables are bad...but why?  What is the real cost of the badness that abounds in the database world?  What's really going on when you run that query against a view of a view of a view.  How can you quantify what happens when that cursor ends up running the same simple query thousands of times.  And how can indexes really impact the way SQL Server decides to solve your queries.  In this session we'll talk about the basics of how to read query plans and use extended events to understand why all these things can be big resource drains on a SQL Server.  Good times should be had by all.\r\n</p>",
+  "description": "<p>We've all heard that things like nested views, cursors, and under/over-indexed tables are bad...but why?  What is the real cost of the badness that abounds in the database world?  What's really going on when you run that query against a view of a view of a view.  How can you quantify what happens when that cursor ends up running the same simple query thousands of times.  And how can indexes really impact the way SQL Server decides to solve your queries.  In this session we'll talk about the basics of how to read query plans and use extended events to understand why all these things can be big resource drains on a SQL Server.  Good times should be had by all.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/709497292_295x166.jpg"
+  ],
   "vimeo": "276872768",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=82041",
   "thumbnail": "https://i.vimeocdn.com/video/709497292_295x166.jpg",

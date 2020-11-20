@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "gen2016-and-the-global-hybrid-cloud-2",
   "abstract": "<p> Like it or not, our industry is driving the world to Gen2016™ {Windows 2016, SQL Server 2016, Azure, etc.,} technologies. This GENeration shift is filled with buzzwords, that hover around or land-on “HYBRID Cloud”. The focus is on the Gen2016™ stack of technologies (e.g., SQL Server 2016, Windows 2016, Window 10 with Linux) working with “Global Hybrid Cloud” offerings from both Microsoft and non-Microsoft – as it appears at this point-in-time/Sep2016. This is a Level-100 session (no pre-requisites), and is for those who want a jump-start on Gen2016™ offerings, irrespective of whether you are just getting started in the industry, and/or retooling/realigning/revamping your skill set.</p>",
+  "description": "<p> Like it or not, our industry is driving the world to Gen2016™ {Windows 2016, SQL Server 2016, Azure, etc.,} technologies. This GENeration shift is filled with buzzwords, that hover around or land-on “HYBRID Cloud”. The focus is on the Gen2016™ stack of technologies (e.g., SQL Server 2016, Windows 2016, Window 10 with Linux) working with “Global Hybrid Cloud” offerings from both Microsoft and non-Microsoft – as it appears at this point-in-time/Sep2016. This is a Level-100 session (no pre-requisites), and is for those who want a jump-start on Gen2016™ offerings, irrespective of whether you are just getting started in the industry, and/or retooling/realigning/revamping your skill set.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/593963105_295x166.jpg"
+  ],
   "vimeo": "184508431",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/593963105_295x166.jpg",

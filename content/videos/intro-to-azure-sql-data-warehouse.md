@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "intro-to-azure-sql-data-warehouse",
   "abstract": "<p>In this session we will introduce Azure SQL Data Warehouse and provide the basics you need to get started. Azure SQL Data Warehouse combines the SQL Server relational database with Azure cloud scale-out capabilities. Built on our massively parallel processing (MPP) architecture, SQL Data Warehouse can handle your enterprise workload.</p>",
+  "description": "<p>In this session we will introduce Azure SQL Data Warehouse and provide the basics you need to get started. Azure SQL Data Warehouse combines the SQL Server relational database with Azure cloud scale-out capabilities. Built on our massively parallel processing (MPP) architecture, SQL Data Warehouse can handle your enterprise workload.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/626866169_295x166.jpg"
+  ],
   "vimeo": "210945416",
   "moreinfo": "http://www.sqlsaturday.com/603/Sessions/Details.aspx?sid=57162",
   "thumbnail": "https://i.vimeocdn.com/video/626866169_295x166.jpg",

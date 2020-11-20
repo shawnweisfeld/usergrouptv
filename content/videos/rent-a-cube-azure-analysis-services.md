@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "rent-a-cube-azure-analysis-services",
   "abstract": "<p>Why buy a car when you can lease one for less? Why pay for that car to sit unused on your driveway when you can uber on demand? The buy vs. lease decision is now part of your BI projects with the new Azure Analysis Services. Do you buy a server, buy a SQL license, install software, apply patches, and monitor the server? Or do you rent Azure Analysis Services where you can provision in seconds, scale up and down, and let Microsoft monitor the service for you? This demo-heavy session will deep dive into the new cloud version of Analysis Services. Walking through development, deployment, data sources, processing, authentication, and client tools like Power BI you will see how Azure Analysis Services is similar and how it is different that your father’s Analysis Services.</p>",
+  "description": "<p>Why buy a car when you can lease one for less? Why pay for that car to sit unused on your driveway when you can uber on demand? The buy vs. lease decision is now part of your BI projects with the new Azure Analysis Services. Do you buy a server, buy a SQL license, install software, apply patches, and monitor the server? Or do you rent Azure Analysis Services where you can provision in seconds, scale up and down, and let Microsoft monitor the service for you? This demo-heavy session will deep dive into the new cloud version of Analysis Services. Walking through development, deployment, data sources, processing, authentication, and client tools like Power BI you will see how Azure Analysis Services is similar and how it is different that your father’s Analysis Services.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/622682828_295x166.jpg"
+  ],
   "vimeo": "207569448",
   "moreinfo": "http://www.sqlsaturday.com/603/Sessions/Details.aspx?sid=61088",
   "thumbnail": "https://i.vimeocdn.com/video/622682828_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "enabling-continuous-delivery",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/537239045_295x166.jpg"
+  ],
   "vimeo": "140641989",
   "moreinfo": "http://measureup.io/",
   "thumbnail": "https://i.vimeocdn.com/video/537239045_295x166.jpg",

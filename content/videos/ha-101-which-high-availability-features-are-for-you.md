@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "ha-101-which-high-availability-features-are-for-you",
   "abstract": "<p>Have you wondered which high availability features might be best for your shop? In this session, we will go over a quick look at log shipping, database mirroring, transactional replication, failover cluster instances, and availability groups. John will identify pros and cons for each feature and share some tips from the field.</p>",
+  "description": "<p>Have you wondered which high availability features might be best for your shop? In this session, we will go over a quick look at log shipping, database mirroring, transactional replication, failover cluster instances, and availability groups. John will identify pros and cons for each feature and share some tips from the field.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/650131252_295x166.jpg"
+  ],
   "vimeo": "229742613",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/241368028/",
   "thumbnail": "https://i.vimeocdn.com/video/650131252_295x166.jpg",

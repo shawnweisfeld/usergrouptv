@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "pictures-are-easy-words-are-hard-give-context-to-your-user-stories-with-visual-models",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/820030066_295x166.jpg"
+  ],
   "vimeo": "364567217",
   "moreinfo": "http://conference.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/820030066_295x166.jpg",

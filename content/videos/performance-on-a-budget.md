@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "performance-on-a-budget",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/491651964_295x166.jpg"
+  ],
   "vimeo": "108060619",
   "moreinfo": "http://austincodecamp2012.com/",
   "thumbnail": "https://i.vimeocdn.com/video/491651964_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "building-uwp-apps-on-xbox",
   "abstract": "<p>With Windows 10, UWP developers can now deploy their apps to Xbox One and increase their user base. This session will take a look at what it takes to build apps for Xbox One, best practices, and discuss lessons learned from real world projects.</p>",
+  "description": "<p>With Windows 10, UWP developers can now deploy their apps to Xbox One and increase their user base. This session will take a look at what it takes to build apps for Xbox One, best practices, and discuss lessons learned from real world projects.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/628439610_295x166.jpg"
+  ],
   "vimeo": "212454663",
   "moreinfo": "http://adnug.org/Home/march-13-2017-building-uwp-apps-on-xbox/",
   "thumbnail": "https://i.vimeocdn.com/video/628439610_295x166.jpg",

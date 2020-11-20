@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "a-lap-around-orchard-the-open-source-free-content-management-system-from-microsoft",
   "abstract": "<p>In this talk Shawn will provide an overview of what Orchard is. We will demonstrate installing configuring and getting started with the platform. We will then look at the module eco system and how to add functionality and themes to your orchard site. We will look at the features of the package and see how the http://www.UserGroup.tv website was build atop this package.</p>",
+  "description": "<p>In this talk Shawn will provide an overview of what Orchard is. We will demonstrate installing configuring and getting started with the platform. We will then look at the module eco system and how to add functionality and themes to your orchard site. We will look at the features of the package and see how the http://www.UserGroup.tv website was build atop this package.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495139148_295x166.jpg"
+  ],
   "vimeo": "110771397",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/495139148_295x166.jpg",

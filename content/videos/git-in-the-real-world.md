@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "git-in-the-real-world",
   "abstract": "<p>Git is one of the very popular distributed version control systems. It is small, fast and full of features.  Adopting Git could be overwhelming at first but it is very well worth it. In this talk, Yogiraj (Yogi) Aradhye will share his real world experience of using Git and associated workflows that you can plug into your continuous integration and delivery cycles.\r\n</p>",
+  "description": "<p>Git is one of the very popular distributed version control systems. It is small, fast and full of features.  Adopting Git could be overwhelming at first but it is very well worth it. In this talk, Yogiraj (Yogi) Aradhye will share his real world experience of using Git and associated workflows that you can plug into your continuous integration and delivery cycles.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/510518736_295x166.jpg"
+  ],
   "vimeo": "121919297",
   "moreinfo": "http://adnug.org/Home/march-9-2015-git-in-the-real-world/",
   "thumbnail": "https://i.vimeocdn.com/video/510518736_295x166.jpg",

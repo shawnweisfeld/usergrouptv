@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "introduction-to-linux-for-sql-server-professionals",
   "abstract": "<p>SQL Server is now available on Linux but you only know Windows, now what? During this session we'll introduce the Linux version of Windows commands you use on a daily basis for administering SQL Server. We'll look at updating Linux, updating SQL Server, moving files between Windows and Linux, and backing up and restoring databases from one system to another. We'll also look at default file locations for SQL Server and what can be moved and how to accomplish that.\r\n</p>",
+  "description": "<p>SQL Server is now available on Linux but you only know Windows, now what? During this session we'll introduce the Linux version of Windows commands you use on a daily basis for administering SQL Server. We'll look at updating Linux, updating SQL Server, moving files between Windows and Linux, and backing up and restoring databases from one system to another. We'll also look at default file locations for SQL Server and what can be moved and how to accomplish that.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/709499260_295x166.jpg"
+  ],
   "vimeo": "276874232",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=81980",
   "thumbnail": "https://i.vimeocdn.com/video/709499260_295x166.jpg",

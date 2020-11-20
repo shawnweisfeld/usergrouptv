@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "whats-new-in-asp-net-5",
   "abstract": "<p>Web development was a different game back in the early 2000s. Early versions of ASP.NET were aimed at Microsoft's existing customer base, and even tried to hide the nature of the web from developers who weren't ready for it. The platform has evolved steadily since the .NET Framework was released, but many of the technical decisions made early in ASP.NET’s life don't make sense in the context of modern web development. By cutting loose some of the baggage from earlier versions, the ASP.NET team has been able to make sweeping changes to bring the framework in line with its lightweight, agile contemporaries. In this presentation, Brian will show how the next version of ASP.NET will be leaner and more flexible than the platform has ever been. Topics covered will include the new command line tools, changes to Visual Studio, cross-platform usage, tag helpers, view components, and more. </p>",
+  "description": "<p>Web development was a different game back in the early 2000s. Early versions of ASP.NET were aimed at Microsoft's existing customer base, and even tried to hide the nature of the web from developers who weren't ready for it. The platform has evolved steadily since the .NET Framework was released, but many of the technical decisions made early in ASP.NET’s life don't make sense in the context of modern web development. By cutting loose some of the baggage from earlier versions, the ASP.NET team has been able to make sweeping changes to bring the framework in line with its lightweight, agile contemporaries. In this presentation, Brian will show how the next version of ASP.NET will be leaner and more flexible than the platform has ever been. Topics covered will include the new command line tools, changes to Visual Studio, cross-platform usage, tag helpers, view components, and more. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/534896911_295x166.jpg"
+  ],
   "vimeo": "139190184",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda",
   "thumbnail": "https://i.vimeocdn.com/video/534896911_295x166.jpg",

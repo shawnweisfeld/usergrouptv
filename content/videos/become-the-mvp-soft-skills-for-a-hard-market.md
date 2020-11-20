@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "become-the-mvp-soft-skills-for-a-hard-market",
   "abstract": "<p>Whether you are just starting a career, advancing into senior leadership, or trying to woo a potential client, soft skills can be your ticket to success. Often times we focus on showing how smart we are instead of showing what a good team member we can be. We will discuss the role and types of soft skills needed to showcase your X-factor. Need to hone your skills? We will explore innovative and fun ways in which to do just that!\r\n</p>",
+  "description": "<p>Whether you are just starting a career, advancing into senior leadership, or trying to woo a potential client, soft skills can be your ticket to success. Often times we focus on showing how smart we are instead of showing what a good team member we can be. We will discuss the role and types of soft skills needed to showcase your X-factor. Need to hone your skills? We will explore innovative and fun ways in which to do just that!\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/796753194_295x166.jpg"
+  ],
   "vimeo": "346640239",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/pttzvqyzjbxb/",
   "thumbnail": "https://i.vimeocdn.com/video/796753194_295x166.jpg",

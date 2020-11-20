@@ -11,6 +11,10 @@
   "draft": false,
   "slug": "the-future-of-c",
   "abstract": "The Future of C# With C# 8.0 just out the door and C# 9.0 already in the works, the C# team is staying busy! Mads will take you through some of the new features and the thinking behind them. Also, let’s take a look at some of the thinking for further in the future. We’ll make sure there’s plenty of time for questions and discussion!",
+  "description": "The Future of C# With C# 8.0 just out the door and C# 9.0 already in the works, the C# team is staying busy! Mads will take you through some of the new features and the thinking behind them. Also, let’s take a look at some of the thinking for further in the future. We’ll make sure there’s plenty of time for questions and discussion!",
+  "images": [
+    "https://i.vimeocdn.com/video/964019398_295x166.jpg"
+  ],
   "vimeo": "461826617",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/272010531",
   "thumbnail": "https://i.vimeocdn.com/video/964019398_295x166.jpg",

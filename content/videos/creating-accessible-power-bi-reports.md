@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "creating-accessible-power-bi-reports",
   "abstract": "<p>Accessibility is catering for your whole audience, including those with disabilities. According to the US Census Bureau, 19 percent of the of the population had a disability in 2010. Do you know if your reports are designed in an inclusive way? In this session, we'll discuss accessibility standards and regulations of which you may want to be aware, how users with disabilities can consume Power BI reports, and guidance and pitfalls when designing inclusive reports.</p>",
+  "description": "<p>Accessibility is catering for your whole audience, including those with disabilities. According to the US Census Bureau, 19 percent of the of the population had a disability in 2010. Do you know if your reports are designed in an inclusive way? In this session, we'll discuss accessibility standards and regulations of which you may want to be aware, how users with disabilities can consume Power BI reports, and guidance and pitfalls when designing inclusive reports.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/854621808_295x166.jpg"
+  ],
   "vimeo": "390483580",
   "moreinfo": "https://www.sqlsaturday.com/939/Sessions/Details.aspx?sid=99514",
   "thumbnail": "https://i.vimeocdn.com/video/854621808_295x166.jpg",

@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "beyond-the-core-concepts-of-oop-solid",
   "abstract": "<p>You&rsquo;ve been learning about the core concepts of Object-Oriented Programming (OOP) for quite some time now: Abstraction, Encapsulation, Inheritance, and Polymorphism. When you thought you knew it all, all of a sudden the cool kids are talking about all these principles such as \"Single Responsibility Principle\", \"Open/Closed Principle\", \"Dependency Inversion Principle\", as well as Inversion of Control containers, etc. This session presents those concepts so the attendees can understand what they are and start using right away.</p>",
+  "description": "<p>You&rsquo;ve been learning about the core concepts of Object-Oriented Programming (OOP) for quite some time now: Abstraction, Encapsulation, Inheritance, and Polymorphism. When you thought you knew it all, all of a sudden the cool kids are talking about all these principles such as \"Single Responsibility Principle\", \"Open/Closed Principle\", \"Dependency Inversion Principle\", as well as Inversion of Control containers, etc. This session presents those concepts so the attendees can understand what they are and start using right away.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/501052066_295x166.jpg"
+  ],
   "vimeo": "115131312",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/501052066_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-new-xamarin",
   "abstract": "<p>Discuss new Xamarin and MS deal and implications. Also show new features and demo building apps in several ways including VS Code.</p>",
+  "description": "<p>Discuss new Xamarin and MS deal and implications. Also show new features and demo building apps in several ways including VS Code.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/568521561_295x166.jpg"
+  ],
   "vimeo": "163811617",
   "moreinfo": "http://www.meetup.com/Austin-Mobile-NET-Developers-Group/events/223948609/",
   "thumbnail": "https://i.vimeocdn.com/video/568521561_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "webmatrix-to-asp-net-mvc-web-camp-part-3-what-is-microsoft-webmatrix",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/499124736_295x166.jpg"
+  ],
   "vimeo": "113708942",
   "moreinfo": "http://www.webcamps.ms",
   "thumbnail": "https://i.vimeocdn.com/video/499124736_295x166.jpg",

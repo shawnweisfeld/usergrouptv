@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "azure-sql-database-lessons-learned-from-the-trenches",
   "abstract": "<p>In this session you will learn the best practices, tips and tricks on how to successfully use Azure SQL Database on production environments. You will learn how to monitor and improve Azure SQL Database query performance. I will cover how Microsoft CSS has been using Query Store, Extended Events, Azure SQL Database Advisor to help customers monitor and improve query response times when running their databases in the Microsoft Azure cloud. These learnings are all fruit of CSS support cases, and customer field engagements. This session includes several demos.</p>",
+  "description": "<p>In this session you will learn the best practices, tips and tricks on how to successfully use Azure SQL Database on production environments. You will learn how to monitor and improve Azure SQL Database query performance. I will cover how Microsoft CSS has been using Query Store, Extended Events, Azure SQL Database Advisor to help customers monitor and improve query response times when running their databases in the Microsoft Azure cloud. These learnings are all fruit of CSS support cases, and customer field engagements. This session includes several demos.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/626869262_295x166.jpg"
+  ],
   "vimeo": "210947611",
   "moreinfo": "http://www.sqlsaturday.com/603/Sessions/Details.aspx?sid=57101",
   "thumbnail": "https://i.vimeocdn.com/video/626869262_295x166.jpg",

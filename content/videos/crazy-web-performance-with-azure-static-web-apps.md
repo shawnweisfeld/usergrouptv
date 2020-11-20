@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "crazy-web-performance-with-azure-static-web-apps",
   "abstract": "<p>One of the key platforms for building crazy performant web application is to use statically generated pages. A ton of systems exist for building these types of apps: like Jekyll, Gatsy, Gridsome, and more. If you're supporting the Microsoft ecosystem though, deploying these types of applications typically happen in two ways: Azure App Services or Azure Blob Storage. Both ways work, but have drawbacks for static sites. In this session, you'll learn about the new Azure Static Web Apps platform and how you can get the best of all worlds in terms of performance and functionality.</p>",
+  "description": "<p>One of the key platforms for building crazy performant web application is to use statically generated pages. A ton of systems exist for building these types of apps: like Jekyll, Gatsy, Gridsome, and more. If you're supporting the Microsoft ecosystem though, deploying these types of applications typically happen in two ways: Azure App Services or Azure Blob Storage. Both ways work, but have drawbacks for static sites. In this session, you'll learn about the new Azure Static Web Apps platform and how you can get the best of all worlds in terms of performance and functionality.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/949513028_295x166.jpg"
+  ],
   "vimeo": "453292618",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/270945478/",
   "thumbnail": "https://i.vimeocdn.com/video/949513028_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "data-warehouse-design-part-1",
   "abstract": "<p>This is part 1 of a two part view at data warehousing. This session will look at the 2 design methodologies for data warehouse design. We will look at a transactional database and work out a star schema for it. In the second session we will work on the SSIS package to load the data.</p>",
+  "description": "<p>This is part 1 of a two part view at data warehousing. This session will look at the 2 design methodologies for data warehouse design. We will look at a transactional database and work out a star schema for it. In the second session we will work on the SSIS package to load the data.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/534900243_295x166.jpg"
+  ],
   "vimeo": "139192518",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda",
   "thumbnail": "https://i.vimeocdn.com/video/534900243_295x166.jpg",

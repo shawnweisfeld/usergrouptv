@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "devops-in-a-cloud-world",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/728975069_295x166.jpg"
+  ],
   "vimeo": "292556625",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/728975069_295x166.jpg",

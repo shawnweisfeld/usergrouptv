@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "empowering-users-several-documents-at-a-time",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/634593378_295x166.jpg"
+  ],
   "vimeo": "217392719",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/236857555/",
   "thumbnail": "https://i.vimeocdn.com/video/634593378_295x166.jpg",

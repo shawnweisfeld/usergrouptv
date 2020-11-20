@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "2017-act-w-austin-keynote",
   "abstract": "<p>2017 ACT-W Austin Keynote</p>",
+  "description": "<p>2017 ACT-W Austin Keynote</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/650696325_295x166.jpg"
+  ],
   "vimeo": "230191086",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650696325_295x166.jpg",

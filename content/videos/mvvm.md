@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "mvvm",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/495137935_295x166.jpg"
+  ],
   "vimeo": "110770406",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/495137935_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "how-to-think-like-the-sql-server-engine",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/640581599_295x166.jpg"
+  ],
   "vimeo": "222134919",
   "moreinfo": "http://www.sqlsaturday.com/651/Sessions/Details.aspx?sid=63514",
   "thumbnail": "https://i.vimeocdn.com/video/640581599_295x166.jpg",

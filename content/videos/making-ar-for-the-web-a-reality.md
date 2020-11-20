@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "making-ar-for-the-web-a-reality",
   "abstract": "<p>AR is still cutting edge technology, and while there’s no standard for AR today, we can start experimenting with using web tools to create AR-enhanced web experiences. AR.js is an efficient Augmented Reality solution on the Web. It runs 100% in web browsers, this means no app to install!</p>",
+  "description": "<p>AR is still cutting edge technology, and while there’s no standard for AR today, we can start experimenting with using web tools to create AR-enhanced web experiences. AR.js is an efficient Augmented Reality solution on the Web. It runs 100% in web browsers, this means no app to install!</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/699683266_295x166.jpg"
+  ],
   "vimeo": "268854007",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/699683266_295x166.jpg",

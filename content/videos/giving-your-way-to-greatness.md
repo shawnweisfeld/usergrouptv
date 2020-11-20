@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "giving-your-way-to-greatness",
   "abstract": "<p>Everyone wants to achieve some degree of greatness in their career, but very few have a concrete plan on how to get there. We will discuss how success and career advancement is not limited to those who have \"the gift of gab\", but provide concrete ways you can start focusing, crafting, and improving your career, one step at a time, to whatever heights you may desire based on one counter-intuitive concept : Don't make it all about you.\r\n</p>",
+  "description": "<p>Everyone wants to achieve some degree of greatness in their career, but very few have a concrete plan on how to get there. We will discuss how success and career advancement is not limited to those who have \"the gift of gab\", but provide concrete ways you can start focusing, crafting, and improving your career, one step at a time, to whatever heights you may desire based on one counter-intuitive concept : Don't make it all about you.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/486704642_295x166.jpg"
+  ],
   "vimeo": "104228223",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486704642_295x166.jpg",

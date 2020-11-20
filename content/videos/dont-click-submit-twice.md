@@ -10,6 +10,10 @@
   "draft": false,
   "slug": "dont-click-submit-twice",
   "abstract": "<p>You are losing orders. You are double-charging. And as a result, you are losing customers. When your customer sends in an order, make sure that it gets to your back end. Make sure that it gets processed once. Make sure that it gets shipped once. And, most importantly, make sure your customer gets billed once. \r\n</p><p> \r\nThe typical web application is not built with durability in mind. It leaves open several small holes where data could be lost or duplicated. I’ll show you how to recognize those holes. I’ll show you tools and techniques to close those holes.\r\n</p><p> \r\nIn this talk, we will see:\r\n</p>\r\n<ul>\r\n<li>Durable page design</li>\r\n<li>Message-driven architecture</li>\r\n<li>Service bus</li>\r\n<li>Distributed transactions</li>\r\n</ul>\r\n<p> \r\nFollow these guidelines, and you will keep your customers. Even if they click Submit twice.\r\n</p>",
+  "description": "<p>You are losing orders. You are double-charging. And as a result, you are losing customers. When your customer sends in an order, make sure that it gets to your back end. Make sure that it gets processed once. Make sure that it gets shipped once. And, most importantly, make sure your customer gets billed once. \r\n</p><p> \r\nThe typical web application is not built with durability in mind. It leaves open several small holes where data could be lost or duplicated. I’ll show you how to recognize those holes. I’ll show you tools and techniques to close those holes.\r\n</p><p> \r\nIn this talk, we will see:\r\n</p>\r\n<ul>\r\n<li>Durable page design</li>\r\n<li>Message-driven architecture</li>\r\n<li>Service bus</li>\r\n<li>Distributed transactions</li>\r\n</ul>\r\n<p> \r\nFollow these guidelines, and you will keep your customers. Even if they click Submit twice.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485086756_295x166.jpg"
+  ],
   "vimeo": "102967368",
   "moreinfo": "http://dallasasp.net/Meetings/3772.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/485086756_295x166.jpg",

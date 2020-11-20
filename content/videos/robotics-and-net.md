@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "robotics-and-net",
   "abstract": "<p>\r\nIn every field, one of the upcoming areas of study is applied Robotics.  But what is it actually, what skills do you need to be a part of this revolution, and where can you apply your existing ones in support?  We'll cover all that and see some wheels spin in this session.\r\n</p>",
+  "description": "<p>\r\nIn every field, one of the upcoming areas of study is applied Robotics.  But what is it actually, what skills do you need to be a part of this revolution, and where can you apply your existing ones in support?  We'll cover all that and see some wheels spin in this session.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/483486151_295x166.jpg"
+  ],
   "vimeo": "101658076",
   "moreinfo": "http://www.houstontechfest.org/Lists/ScheduleInfo/DispForm.aspx?ID=43&Source=http%3A%2F%2Fwww%2Ehoustontechfest%2Eorg%2FSitePages%2FTabbedSchedule%2Easpx",
   "thumbnail": "https://i.vimeocdn.com/video/483486151_295x166.jpg",

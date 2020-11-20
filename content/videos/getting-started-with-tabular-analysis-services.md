@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "getting-started-with-tabular-analysis-services",
   "abstract": "<p>This session will give the basics of starting a tabular model with Analysis Services 2014 and PowerView from Excel 2013. We will start by opening the Visual Studio environment to create a Solution/Project. The Fact and Dimension tables will be imported and Filtered. Basic attribute and hierarchies will be created along with some calculations on the fact data. The Deployed project will be previewed in PowerView from Excel 2013.\r\n</p>",
+  "description": "<p>This session will give the basics of starting a tabular model with Analysis Services 2014 and PowerView from Excel 2013. We will start by opening the Visual Studio environment to create a Solution/Project. The Fact and Dimension tables will be imported and Filtered. Basic attribute and hierarchies will be created along with some calculations on the fact data. The Deployed project will be previewed in PowerView from Excel 2013.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/505504095_295x166.jpg"
+  ],
   "vimeo": "118476153",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=25234",
   "thumbnail": "https://i.vimeocdn.com/video/505504095_295x166.jpg",

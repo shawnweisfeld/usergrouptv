@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "building-your-evil-empire-with-azure-functions",
   "abstract": "<p>By now, you've probably heard about how awesome Azure Functions really are. From offloading functionality to automating processing, they allow you to harness the cloud to your bidding, whether it’s the dirty work of processing your data or informing your henchmen about your next plot to take over the world. Whether your preference is C#, JS, Python, or a slew of other languages, you can program just about anything with Azure Functions and execute it with triggers, timers, or HTTP requests. In this session, Kentico Technical Evangelist and Azure super-fan Bryan Soltis will show you add Azure Functions to your arsenal and build amazing cloud solutions.</p>",
+  "description": "<p>By now, you've probably heard about how awesome Azure Functions really are. From offloading functionality to automating processing, they allow you to harness the cloud to your bidding, whether it’s the dirty work of processing your data or informing your henchmen about your next plot to take over the world. Whether your preference is C#, JS, Python, or a slew of other languages, you can program just about anything with Azure Functions and execute it with triggers, timers, or HTTP requests. In this session, Kentico Technical Evangelist and Azure super-fan Bryan Soltis will show you add Azure Functions to your arsenal and build amazing cloud solutions.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/660020591_295x166.jpg"
+  ],
   "vimeo": "237569460",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660020591_295x166.jpg",

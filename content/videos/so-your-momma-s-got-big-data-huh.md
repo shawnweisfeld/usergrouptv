@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "so-your-momma-s-got-big-data-huh",
   "abstract": "<p>After a hearty but tasteful round of \"yo momma\" jokes, this presentation reveals an overview of the NoSQL movement, what problems it is intended to solve, and an introduction of the CAP Theorem. A comparison of some of the more popular options such as CouchDB, MongoDB and Cassandra will be discussed. Attendees are invited to share their experiences with these technologies, and how these experiences differ from the more common relational approach to data.</p>",
+  "description": "<p>After a hearty but tasteful round of \"yo momma\" jokes, this presentation reveals an overview of the NoSQL movement, what problems it is intended to solve, and an introduction of the CAP Theorem. A comparison of some of the more popular options such as CouchDB, MongoDB and Cassandra will be discussed. Attendees are invited to share their experiences with these technologies, and how these experiences differ from the more common relational approach to data.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/507866423_295x166.jpg"
+  ],
   "vimeo": "120152285",
   "moreinfo": "http://dallastechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/507866423_295x166.jpg",

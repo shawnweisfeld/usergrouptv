@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "give-your-appweb-site-superpowers-with-cognitive-services-2",
   "abstract": "<p>Wish your app could see, hear, speak, understand and interpret your user needs through natural methods of communication? Started researching Artificial Intelligence and Neural Networks, but it all just makes your head hurt? Wish there was an easy to consume web service by the leading researchers in the field that you could just call to teach your app/Web Site to see, hear, speak, understand and interpret your user needs through natural methods of communication? In this session we will kick the tires on the Cognitive Services available in Azure. Attendees will leave with an understanding of how to give their app superpowers.</p>",
+  "description": "<p>Wish your app could see, hear, speak, understand and interpret your user needs through natural methods of communication? Started researching Artificial Intelligence and Neural Networks, but it all just makes your head hurt? Wish there was an easy to consume web service by the leading researchers in the field that you could just call to teach your app/Web Site to see, hear, speak, understand and interpret your user needs through natural methods of communication? In this session we will kick the tires on the Cognitive Services available in Azure. Attendees will leave with an understanding of how to give their app superpowers.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/699187582_295x166.jpg"
+  ],
   "vimeo": "268455266",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/699187582_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sails-js-a-high-productivity-node-js-web-app-framework",
   "abstract": "<p>\r\nNode.js enables you to build fast, scalable applications in JavaScript. But out of the box, it doesn't include many of the convenient features modern web developers may be accustomed to. Sails.js aims to provide Ruby on Rails-level productivity for Node applications with features like scaffolding, a built-in ORM called Waterline, and easy support for real-time interaction. Come see how you can build apps for Node's cutting edge platform without giving up the features of your favorite web framework.</p>",
+  "description": "<p>\r\nNode.js enables you to build fast, scalable applications in JavaScript. But out of the box, it doesn't include many of the convenient features modern web developers may be accustomed to. Sails.js aims to provide Ruby on Rails-level productivity for Node applications with features like scaffolding, a built-in ORM called Waterline, and easy support for real-time interaction. Come see how you can build apps for Node's cutting edge platform without giving up the features of your favorite web framework.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/482027486_295x166.jpg"
+  ],
   "vimeo": "100516598",
   "moreinfo": "http://tulsaschoolofdev.com",
   "thumbnail": "https://i.vimeocdn.com/video/482027486_295x166.jpg",

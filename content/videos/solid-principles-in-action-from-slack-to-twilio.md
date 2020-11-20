@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "solid-principles-in-action-from-slack-to-twilio",
   "abstract": "<p>SOLID principles make software more flexible and maintainable. In this talk, I touch on each of the principles: Single responsibility principle, Open/closed principle, Liskov substitution principle, Interface segregation principle, Dependency inversion principle. However, rather than talk about them in the abstract, the talk focuses on a specific code example. The example starts out as a Slack integration that shows a random \"Magic the Gathering\" card in a channel when a certain command is issued. I refactor the code to integrate with Twilio and demonstrate each principle along the way. The example is written as a Spring Boot application and all source is available on Github.</p>",
+  "description": "<p>SOLID principles make software more flexible and maintainable. In this talk, I touch on each of the principles: Single responsibility principle, Open/closed principle, Liskov substitution principle, Interface segregation principle, Dependency inversion principle. However, rather than talk about them in the abstract, the talk focuses on a specific code example. The example starts out as a Slack integration that shows a random \"Magic the Gathering\" card in a channel when a certain command is issued. I refactor the code to integrate with Twilio and demonstrate each principle along the way. The example is written as a Spring Boot application and all source is available on Github.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/660013618_295x166.jpg"
+  ],
   "vimeo": "237564075",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660013618_295x166.jpg",

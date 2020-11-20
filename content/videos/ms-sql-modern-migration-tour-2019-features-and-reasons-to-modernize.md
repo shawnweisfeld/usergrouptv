@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "ms-sql-modern-migration-tour-2019-features-and-reasons-to-modernize",
   "abstract": "<p>MS SQL Modern Migration Tour 2019 - Features and Reasons to modernize</p>",
+  "description": "<p>MS SQL Modern Migration Tour 2019 - Features and Reasons to modernize</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/796753439_295x166.jpg"
+  ],
   "vimeo": "346640440",
   "moreinfo": "https://www.eventbrite.ca/e/modern-migration-tour-2019-austin-tickets-61819083543#",
   "thumbnail": "https://i.vimeocdn.com/video/796753439_295x166.jpg",

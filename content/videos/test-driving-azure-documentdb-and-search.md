@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "test-driving-azure-documentdb-and-search",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/489605427_295x166.jpg"
+  ],
   "vimeo": "106477007",
   "moreinfo": "http://www.meetup.com/azureaustin/events/201840362/",
   "thumbnail": "https://i.vimeocdn.com/video/489605427_295x166.jpg",

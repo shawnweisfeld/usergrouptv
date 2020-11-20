@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-devops-silver-bullet",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/537256476_295x166.jpg"
+  ],
   "vimeo": "140648038",
   "moreinfo": "http://measureup.io",
   "thumbnail": "https://i.vimeocdn.com/video/537256476_295x166.jpg",

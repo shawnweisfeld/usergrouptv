@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "attacking-things-incrementally",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/820031540_295x166.jpg"
+  ],
   "vimeo": "364568416",
   "moreinfo": "http://conference.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/820031540_295x166.jpg",

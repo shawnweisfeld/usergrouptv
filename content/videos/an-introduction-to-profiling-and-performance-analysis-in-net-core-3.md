@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "an-introduction-to-profiling-and-performance-analysis-in-net-core-3",
   "abstract": "<p>At a high-level the talk covers debugging, profiling, and instrumenting .Net code on linux/osx using .Net Core 3 tools. In the past this wasn't quite as easy/straightforward, so I start by doing a brief historical overview of the tools and practices .Net developers had to do, then contrast them against the tools available to us now (which are so much better it's not even funny). The latter part is a dive into a few real-world example I ran into at work and in OSS projects where I used the tools to diagnose and solve issues. The repo contains the slides, as well as dockerized workable examples for attendees to try on their own.\r\n</p>",
+  "description": "<p>At a high-level the talk covers debugging, profiling, and instrumenting .Net code on linux/osx using .Net Core 3 tools. In the past this wasn't quite as easy/straightforward, so I start by doing a brief historical overview of the tools and practices .Net developers had to do, then contrast them against the tools available to us now (which are so much better it's not even funny). The latter part is a dive into a few real-world example I ran into at work and in OSS projects where I used the tools to diagnose and solve issues. The repo contains the slides, as well as dockerized workable examples for attendees to try on their own.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/831973973_295x166.jpg"
+  ],
   "vimeo": "373751118",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/266280255/",
   "thumbnail": "https://i.vimeocdn.com/video/831973973_295x166.jpg",

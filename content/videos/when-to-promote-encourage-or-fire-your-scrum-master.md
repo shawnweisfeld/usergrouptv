@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "when-to-promote-encourage-or-fire-your-scrum-master",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/820031719_295x166.jpg"
+  ],
   "vimeo": "364568582",
   "moreinfo": "http://conference.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/820031719_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "building-a-power-bi-report-dax-slicers-more",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/801600952_295x166.jpg"
+  ],
   "vimeo": "350356854",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/262715558/",
   "thumbnail": "https://i.vimeocdn.com/video/801600952_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "building-powerful-intelligence-using-cognitive-services",
   "abstract": "<p>This session will emphasize on building powerful intelligence into your applications to enable natural and contextual interactions. The session will provide details of enabling natural and contextual interaction with tools that augment users' experiences using the power of machine-based intelligence. Tap into an ever-growing collection of powerful artificial intelligence algorithms for vision, speech, language, and knowledge.</p>",
+  "description": "<p>This session will emphasize on building powerful intelligence into your applications to enable natural and contextual interactions. The session will provide details of enabling natural and contextual interaction with tools that augment users' experiences using the power of machine-based intelligence. Tap into an ever-growing collection of powerful artificial intelligence algorithms for vision, speech, language, and knowledge.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/631735934_295x166.jpg"
+  ],
   "vimeo": "215095364",
   "moreinfo": "https://www.eventbrite.com/e/global-azure-bootcamp-2017-austin-tx-tickets-33085810550#",
   "thumbnail": "https://i.vimeocdn.com/video/631735934_295x166.jpg",

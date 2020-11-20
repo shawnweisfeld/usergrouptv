@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "whats-new-in-visual-studio-2012-for-web-developers",
   "abstract": "<p>Building websites has become more and more important for most businesses worldwide, and with the introduction of HTML 5 we now have more possibilities than ever. Join us on a journey through the features of the upcoming version of Microsoft ASP.NET and Visual Studio to get a sneak peek on the new abilities and tools needed to build modern websites.</p>",
+  "description": "<p>Building websites has become more and more important for most businesses worldwide, and with the introduction of HTML 5 we now have more possibilities than ever. Join us on a journey through the features of the upcoming version of Microsoft ASP.NET and Visual Studio to get a sneak peek on the new abilities and tools needed to build modern websites.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/487544765_295x166.jpg"
+  ],
   "vimeo": "104887840",
   "moreinfo": "http://www.houstontechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/487544765_295x166.jpg",

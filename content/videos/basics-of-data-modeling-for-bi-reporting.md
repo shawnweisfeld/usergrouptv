@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "basics-of-data-modeling-for-bi-reporting",
   "abstract": "<p>Come learn about the basics of data modeling for your business intelligence and reporting needs.  This course will cover several introductory modeling subjects, including: Transactional vs. Analytical models, Kimball / Inman approaches, The process for designing your data model, Hierarchies / Parent-child relationships</p>",
+  "description": "<p>Come learn about the basics of data modeling for your business intelligence and reporting needs.  This course will cover several introductory modeling subjects, including: Transactional vs. Analytical models, Kimball / Inman approaches, The process for designing your data model, Hierarchies / Parent-child relationships</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/854623065_295x166.jpg"
+  ],
   "vimeo": "390484488",
   "moreinfo": "https://www.sqlsaturday.com/939/Sessions/Details.aspx?sid=101582",
   "thumbnail": "https://i.vimeocdn.com/video/854623065_295x166.jpg",

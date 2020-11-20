@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "typescript-not-your-fathers-javascript",
   "abstract": "<p>Hate writing JavaScript? Wish it was strongly typed, scalable, and had better tool support? TypeScirpt is a typed superset of JavaScript that compiles to plain JavaScript. Any browser. Any host. Any OS. Open Source.</p>",
+  "description": "<p>Hate writing JavaScript? Wish it was strongly typed, scalable, and had better tool support? TypeScirpt is a typed superset of JavaScript that compiles to plain JavaScript. Any browser. Any host. Any OS. Open Source.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/484302613_295x166.jpg"
+  ],
   "vimeo": "102320331",
   "moreinfo": "http://www.dallasasp.net/Meetings/3782.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/484302613_295x166.jpg",

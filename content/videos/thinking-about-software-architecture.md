@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "thinking-about-software-architecture",
   "abstract": "<p>Software architecture often comes in complicated charts and indecipherable UML drawings, involves cryptically named patterns, and requires both developers and users jump through multiple hoops to achieve desired results. Agile tries to get rid of software architecture thoughtfulness altogether, by advocating “emerging architecture” on the fly, in the course of writing code. This talk considers the goals of software architecture, the thought patterns used to arrive to architectural decisions, and ways to test architectural decisions. We will also look at the architectural pattern library that can make the work of an architect easier, more testable, and less mess-prone.</p>",
+  "description": "<p>Software architecture often comes in complicated charts and indecipherable UML drawings, involves cryptically named patterns, and requires both developers and users jump through multiple hoops to achieve desired results. Agile tries to get rid of software architecture thoughtfulness altogether, by advocating “emerging architecture” on the fly, in the course of writing code. This talk considers the goals of software architecture, the thought patterns used to arrive to architectural decisions, and ways to test architectural decisions. We will also look at the architectural pattern library that can make the work of an architect easier, more testable, and less mess-prone.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/731505875_295x166.jpg"
+  ],
   "vimeo": "294396123",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/255188504/",
   "thumbnail": "https://i.vimeocdn.com/video/731505875_295x166.jpg",

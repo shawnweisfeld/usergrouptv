@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-varying-ways-to-develop-mobile-apps-in-2017",
   "abstract": "<p>We'll cover all the ways to code mobile apps including Native, Hybrid, & Cross-Platform apps like React Native, NativeScript, Xamarin, Unity and more! We'll compare/contrast the language choices, level of native knowledge needed and developer experience to help you make a more informed choice on your next Mobile App project.</p>",
+  "description": "<p>We'll cover all the ways to code mobile apps including Native, Hybrid, & Cross-Platform apps like React Native, NativeScript, Xamarin, Unity and more! We'll compare/contrast the language choices, level of native knowledge needed and developer experience to help you make a more informed choice on your next Mobile App project.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/650402437_295x166.jpg"
+  ],
   "vimeo": "229955822",
   "moreinfo": "http://techfests.com/Tulsa/2017/Speakers/PatrickKurz/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/650402437_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "azure-mobile-services-add-a-cloud-backend-to-your-app-in-minutes",
   "abstract": "<p>You have an awesome idea for the next hit app in the mobile marketplace, but want to spend your time focusing on building the app, not maintaining the web services, databases and other server side components that are needed to power your app. Take advantage of Azure Mobile services to add a cloud backend to your app in minutes. Better yet it works with every major mobile dev toolset (iOS, Android, Xamarin, HTML, PhoneGap, and all flavors of Windows development). In this talk we will provide an overview of the service and walk through building one from scratch.\r\n</p>",
+  "description": "<p>You have an awesome idea for the next hit app in the mobile marketplace, but want to spend your time focusing on building the app, not maintaining the web services, databases and other server side components that are needed to power your app. Take advantage of Azure Mobile services to add a cloud backend to your app in minutes. Better yet it works with every major mobile dev toolset (iOS, Android, Xamarin, HTML, PhoneGap, and all flavors of Windows development). In this talk we will provide an overview of the service and walk through building one from scratch.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/520899470_295x166.jpg"
+  ],
   "vimeo": "129422807",
   "moreinfo": "http://xamarin.com/dev-days",
   "thumbnail": "https://i.vimeocdn.com/video/520899470_295x166.jpg",

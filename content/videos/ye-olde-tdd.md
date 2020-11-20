@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "ye-olde-tdd",
   "abstract": "<p>Lo, thou are most humbly invited to carouse with Chris and Allen as they bring ye a tale of agile testing you'll not soon forget! They will cover unit testing in general, TDD and BDD practices in particular, and other whys whens and hows of agile developer testing. If thou oft lack a shine to thy code or ye quality is in the privy, prithee attend!</p>",
+  "description": "<p>Lo, thou are most humbly invited to carouse with Chris and Allen as they bring ye a tale of agile testing you'll not soon forget! They will cover unit testing in general, TDD and BDD practices in particular, and other whys whens and hows of agile developer testing. If thou oft lack a shine to thy code or ye quality is in the privy, prithee attend!</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/501052476_295x166.jpg"
+  ],
   "vimeo": "115131543",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/501052476_295x166.jpg",

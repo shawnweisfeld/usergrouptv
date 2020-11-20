@@ -10,6 +10,10 @@
   "draft": false,
   "slug": "azure-event-hub-stream-analytics-with-power-bi",
   "abstract": "<p>In this session we will walk participants through pushing data to an Azure Event Hub using a Python Program, pulling the data out of the Event Hub using Azure Stream Analytics and visualizing the data in real time in Power BI. At the end of the session participants will be provided a link on GitHub that contains a sample Python program to push events to an event hub and a sample Azure Stream Analytics Query as well as step by step instructions to set it up so they will have a working demo that they can customize to include any data they prefer.</p>",
+  "description": "<p>In this session we will walk participants through pushing data to an Azure Event Hub using a Python Program, pulling the data out of the Event Hub using Azure Stream Analytics and visualizing the data in real time in Power BI. At the end of the session participants will be provided a link on GitHub that contains a sample Python program to push events to an event hub and a sample Azure Stream Analytics Query as well as step by step instructions to set it up so they will have a working demo that they can customize to include any data they prefer.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/944756978_295x166.jpg"
+  ],
   "vimeo": "450494361",
   "moreinfo": "https://www.meetup.com/DFW-Azure-User-Group/events/272060420/",
   "thumbnail": "https://i.vimeocdn.com/video/944756978_295x166.jpg",

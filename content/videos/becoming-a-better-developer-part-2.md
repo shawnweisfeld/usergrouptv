@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "becoming-a-better-developer-part-2",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/728994172_295x166.jpg"
+  ],
   "vimeo": "292571976",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/728994172_295x166.jpg",

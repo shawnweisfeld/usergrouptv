@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "data-vault-on-sql-server-tabular-model-and-power-bi",
   "abstract": "<p>In this session, you will learn the basics of building a data vault to organize and store your companies disparate data on SQL Server.  Learn how Hubs, Links, and Satellite tables create options for storing a variety of data from multiple systems.  The data vault structures will then be used as the data source to create views designed for SQL Server Analysis Services Tabular models.  Finally, Power BI will be used to visual the data for your end users.</p>",
+  "description": "<p>In this session, you will learn the basics of building a data vault to organize and store your companies disparate data on SQL Server.  Learn how Hubs, Links, and Satellite tables create options for storing a variety of data from multiple systems.  The data vault structures will then be used as the data source to create views designed for SQL Server Analysis Services Tabular models.  Finally, Power BI will be used to visual the data for your end users.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/854627598_295x166.jpg"
+  ],
   "vimeo": "390487617",
   "moreinfo": "https://www.sqlsaturday.com/939/Sessions/Details.aspx?sid=99533",
   "thumbnail": "https://i.vimeocdn.com/video/854627598_295x166.jpg",

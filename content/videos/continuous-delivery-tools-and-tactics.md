@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "continuous-delivery-tools-and-tactics",
   "abstract": "<p>Walkthrough of a typical continuous delivery value chain, including strategies and tactics on successful introduction of new tools into your IT organization. Tool catagories include: automated testing tools, build and deployment tools, and configuration management tools.</p>",
+  "description": "<p>Walkthrough of a typical continuous delivery value chain, including strategies and tactics on successful introduction of new tools into your IT organization. Tool catagories include: automated testing tools, build and deployment tools, and configuration management tools.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/489182752_295x166.jpg"
+  ],
   "vimeo": "106167498",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#049",
   "thumbnail": "https://i.vimeocdn.com/video/489182752_295x166.jpg",

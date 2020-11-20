@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "coding-standards-why-how-get-started",
   "abstract": "<p>provide a solution template - a standard from which your team can rally. The standards will cover topics from variable naming, project templates, separation of concerns, and available frameworks. A short project may be demonstrated using these standards.</p>",
+  "description": "<p>provide a solution template - a standard from which your team can rally. The standards will cover topics from variable naming, project templates, separation of concerns, and available frameworks. A short project may be demonstrated using these standards.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/587191234_295x166.jpg"
+  ],
   "vimeo": "179314611",
   "moreinfo": "http://techfests.com/Tulsa/2016/Speakers/MarkReynolds/",
   "thumbnail": "https://i.vimeocdn.com/video/587191234_295x166.jpg",

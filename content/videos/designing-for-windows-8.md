@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "designing-for-windows-8",
   "abstract": "<p>Taking inspirational cues from Bauhaus design, International Typographic Style, \r\n and cinematography, the Windows 8 UI design style brings an application to life \r\n while presenting content clearly and beautifully. This session is intended to help \r\n developers and designers understand the design concepts and basic building blocks \r\n of the Windows 8 user interface. In this session, you will be introduced to the \r\n principles behind this design style and learn how to effectively apply these principles \r\n in your applications.</p>",
+  "description": "<p>Taking inspirational cues from Bauhaus design, International Typographic Style, \r\n and cinematography, the Windows 8 UI design style brings an application to life \r\n while presenting content clearly and beautifully. This session is intended to help \r\n developers and designers understand the design concepts and basic building blocks \r\n of the Windows 8 user interface. In this session, you will be introduced to the \r\n principles behind this design style and learn how to effectively apply these principles \r\n in your applications.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/484300871_295x166.jpg"
+  ],
   "vimeo": "102318740",
   "moreinfo": "http://www.ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/484300871_295x166.jpg",

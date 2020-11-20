@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "learn-how-to-build-a-golden-record-for-any-subject-over-lunch",
   "abstract": "<p>Attend the lunch demo and see how you can use Master Data Services and Maestro to: •     Create a golden record for any subject area in a matter of minutes Leverage your Microsoft licenses, skills and infrastructure to lower license costs and FTE costs, and reduce the complexity of an MDM environment? •     Understand how to implement workflow and business process solutions around the management of MDM, without having to write complex custom coding for everything? •     Tackle data quality, consistency and control by empowering business and subject matter experts, without needing heavy IT resources and writing complex code or scripting •     Improve data quality, data stewardship, workflow, and data sharing with any of your enterprise\r\n</p>",
+  "description": "<p>Attend the lunch demo and see how you can use Master Data Services and Maestro to: •     Create a golden record for any subject area in a matter of minutes Leverage your Microsoft licenses, skills and infrastructure to lower license costs and FTE costs, and reduce the complexity of an MDM environment? •     Understand how to implement workflow and business process solutions around the management of MDM, without having to write complex custom coding for everything? •     Tackle data quality, consistency and control by empowering business and subject matter experts, without needing heavy IT resources and writing complex code or scripting •     Improve data quality, data stewardship, workflow, and data sharing with any of your enterprise\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/505503841_295x166.jpg"
+  ],
   "vimeo": "118476156",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=25222",
   "thumbnail": "https://i.vimeocdn.com/video/505503841_295x166.jpg",

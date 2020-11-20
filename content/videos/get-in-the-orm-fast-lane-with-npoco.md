@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "get-in-the-orm-fast-lane-with-npoco",
   "abstract": "<p>ORMs were supposed to make our life easier. Solve the problem of mapping the relational model to the object oriented model - but something went wrong. Lazy loading, leaky abstractions, factories, mapping nightmares - I thought this was supposed to be easy? Enter the Micro-ORM. In this session we'll look at the latest and greatest in Micro-Orms with NPoco. Instead of trying to abstract the database, we'll embrace it, getting right to the point and sidestepping the issues that traditional ORMs introduce.</p>",
+  "description": "<p>ORMs were supposed to make our life easier. Solve the problem of mapping the relational model to the object oriented model - but something went wrong. Lazy loading, leaky abstractions, factories, mapping nightmares - I thought this was supposed to be easy? Enter the Micro-ORM. In this session we'll look at the latest and greatest in Micro-Orms with NPoco. Instead of trying to abstract the database, we'll embrace it, getting right to the point and sidestepping the issues that traditional ORMs introduce.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/489179643_295x166.jpg"
+  ],
   "vimeo": "106165137",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#0215",
   "thumbnail": "https://i.vimeocdn.com/video/489179643_295x166.jpg",

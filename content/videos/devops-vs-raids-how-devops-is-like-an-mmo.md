@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "devops-vs-raids-how-devops-is-like-an-mmo",
   "abstract": "<p>We can learn a surprising number of things when considering the similarities between working in tech and playing a massively multiplayer online game. One of the coolest take-aways, however, is how we can all appreciate our teammates' contributions to the greater goal as well as empathizing with their struggles.</p>",
+  "description": "<p>We can learn a surprising number of things when considering the similarities between working in tech and playing a massively multiplayer online game. One of the coolest take-aways, however, is how we can all appreciate our teammates' contributions to the greater goal as well as empathizing with their struggles.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/650697556_295x166.jpg"
+  ],
   "vimeo": "230192018",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650697556_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "power-bi-relationship-simplified",
   "abstract": "<p>In this session, you will learn why Relationship is needed, what are types of relationships. What is the meaning of the direction of relationship, and how to work with inactive or active relationships. You will learn all Power BI relationship concepts from the beginner level. Understand the relationship in a Power BI model is the fundamental step in building the right data model.</p>",
+  "description": "<p>In this session, you will learn why Relationship is needed, what are types of relationships. What is the meaning of the direction of relationship, and how to work with inactive or active relationships. You will learn all Power BI relationship concepts from the beginner level. Understand the relationship in a Power BI model is the fundamental step in building the right data model.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/894750510_295x166.jpg"
+  ],
   "vimeo": "419757110",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/269959063/",
   "thumbnail": "https://i.vimeocdn.com/video/894750510_295x166.jpg",

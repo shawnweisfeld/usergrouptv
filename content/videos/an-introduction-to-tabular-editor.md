@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "an-introduction-to-tabular-editor",
   "abstract": "<p>This will be a hands-on-keyboard session teaching you how to get started with Tabular Editor to do rapid development with your Power BI data models.</p>",
+  "description": "<p>This will be a hands-on-keyboard session teaching you how to get started with Tabular Editor to do rapid development with your Power BI data models.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/955146027_295x166.jpg"
+  ],
   "vimeo": "456592196",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/272411693/",
   "thumbnail": "https://i.vimeocdn.com/video/955146027_295x166.jpg",

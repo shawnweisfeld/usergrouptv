@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "docker",
   "abstract": "<p>So people are talking about Docker. And Microsoft. IN THE SAME SENTENCE! And now it looks like you’ll have to figure out what it is and what it means to you. Well, I’ll tell you what it means to you. REVOLUTION! THAT’S WHAT! Just like Tupperware containers revolutionized how you view leftovers, Docker containers will change how we design and deploy our applications. In this session, we’ll look at how you will be able to use Docker when Windows Server vNext is released as well as how you can take advantage of it today, despite its Linux leanings.\r\n</p>",
+  "description": "<p>So people are talking about Docker. And Microsoft. IN THE SAME SENTENCE! And now it looks like you’ll have to figure out what it is and what it means to you. Well, I’ll tell you what it means to you. REVOLUTION! THAT’S WHAT! Just like Tupperware containers revolutionized how you view leftovers, Docker containers will change how we design and deploy our applications. In this session, we’ll look at how you will be able to use Docker when Windows Server vNext is released as well as how you can take advantage of it today, despite its Linux leanings.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/537388230_295x166.jpg"
+  ],
   "vimeo": "140730533",
   "moreinfo": "http://measureup2015.azurewebsites.net/docker/",
   "thumbnail": "https://i.vimeocdn.com/video/537388230_295x166.jpg",

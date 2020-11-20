@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "back-from-the-brink-clean-secure-and-resubmit-after-a-hack",
   "abstract": "<p>Many Joomla users think code is just for programmers. Learn some easy and practical PHP and CSS tweaks that you can copy and paste to make your site even better</p>",
+  "description": "<p>Many Joomla users think code is just for programmers. Learn some easy and practical PHP and CSS tweaks that you can copy and paste to make your site even better</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/818416938_295x166.jpg"
+  ],
   "vimeo": "363309440",
   "moreinfo": "https://www.joomladaytexas.com/",
   "thumbnail": "https://i.vimeocdn.com/video/818416938_295x166.jpg",

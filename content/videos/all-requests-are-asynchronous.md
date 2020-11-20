@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "all-requests-are-asynchronous",
   "abstract": "<p>When should you use a service bus vs. a web service call? When should you use REST vs. SOAP? Should you use CQRS? Should you build Microservices? Take a look under the hood of your network stack. What promises does it make? What promises can it actually keep? We have many architectural choices to make within a distributed system. Those decisions depend upon the nature of the messaging infrastructure upon which we build. Different options are good for different parts of the system. But some of the advice that you may have heard is wrong. Learn what's really happening inside of the components you choose. And use that knowledge to build more reliable distributed systems.</p>",
+  "description": "<p>When should you use a service bus vs. a web service call? When should you use REST vs. SOAP? Should you use CQRS? Should you build Microservices? Take a look under the hood of your network stack. What promises does it make? What promises can it actually keep? We have many architectural choices to make within a distributed system. Those decisions depend upon the nature of the messaging infrastructure upon which we build. Different options are good for different parts of the system. But some of the advice that you may have heard is wrong. Learn what's really happening inside of the components you choose. And use that knowledge to build more reliable distributed systems.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/587191344_295x166.jpg"
+  ],
   "vimeo": "179314659",
   "moreinfo": "http://techfests.com/Tulsa/2016/Speakers/MichaelPerry/",
   "thumbnail": "https://i.vimeocdn.com/video/587191344_295x166.jpg",

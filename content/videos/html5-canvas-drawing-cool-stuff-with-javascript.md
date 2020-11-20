@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "html5-canvas-drawing-cool-stuff-with-javascript",
   "abstract": "<p>The Html5 canvas element used to be something that sounded cool but we couldn't reliably use because of browser capabilities. Now it is available in Chrome, Firefox and the two latest versions of Internet Explorer. It also has fantastic support on mobile. If you aren't using it now, you may be soon. It's fast, it's awesome and its time has come. We will start with some canvas basics to get you started and then jump into samples relevant for perhaps not-so-exciting business stuff as well as really fun stuff like games. It is also a fantastic tool to use in developing games for Windows 8 so I will show you a little about how to use it in that context as well.</p>",
+  "description": "<p>The Html5 canvas element used to be something that sounded cool but we couldn't reliably use because of browser capabilities. Now it is available in Chrome, Firefox and the two latest versions of Internet Explorer. It also has fantastic support on mobile. If you aren't using it now, you may be soon. It's fast, it's awesome and its time has come. We will start with some canvas basics to get you started and then jump into samples relevant for perhaps not-so-exciting business stuff as well as really fun stuff like games. It is also a fantastic tool to use in developing games for Windows 8 so I will show you a little about how to use it in that context as well.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485959983_295x166.jpg"
+  ],
   "vimeo": "103658367",
   "moreinfo": "http://northdallas.net/meetings/html5-canvas-drawing-cool-stuff-with-javascript/",
   "thumbnail": "https://i.vimeocdn.com/video/485959983_295x166.jpg",

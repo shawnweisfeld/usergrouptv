@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "windows-phone-to-windows-8-part-5-wp-to-w8-migration",
   "abstract": "Cut in Line and be a Part of What's Next\r\n\r\nLearn how to migrate your Windows Phone 7 app to the next platform - Windows 8. Be one of the first developers in the Windows Store when it opens. If you have already started on your Windows 8 app, check this out as well.",
+  "description": "Cut in Line and be a Part of What's Next\r\n\r\nLearn how to migrate your Windows Phone 7 app to the next platform - Windows 8. Be one of the first developers in the Windows Store when it opens. If you have already started on your Windows 8 app, check this out as well.",
+  "images": [
+    "https://i.vimeocdn.com/video/491654852_295x166.jpg"
+  ],
   "vimeo": "108062944",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/491654852_295x166.jpg",

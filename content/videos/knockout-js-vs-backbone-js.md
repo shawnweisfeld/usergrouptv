@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "knockout-js-vs-backbone-js",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/490122814_295x166.jpg"
+  ],
   "vimeo": "106880737",
   "moreinfo": "http://austincodecamp2012.com/",
   "thumbnail": "https://i.vimeocdn.com/video/490122814_295x166.jpg",

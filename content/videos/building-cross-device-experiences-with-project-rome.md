@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "building-cross-device-experiences-with-project-rome",
   "abstract": "<p>Today’s users want more from their apps. They want a single experience that follows them no matter what device they are on. As a developer, providing this experience can be quite daunting. Microsoft’s Project Rome enables developers to extend their apps’ experiences across devices and platforms. In this session we will explore how Project Rome’s remote system APIs can help you drive user engagement with your apps.</p>",
+  "description": "<p>Today’s users want more from their apps. They want a single experience that follows them no matter what device they are on. As a developer, providing this experience can be quite daunting. Microsoft’s Project Rome enables developers to extend their apps’ experiences across devices and platforms. In this session we will explore how Project Rome’s remote system APIs can help you drive user engagement with your apps.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/693726409_295x166.jpg"
+  ],
   "vimeo": "264046246",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/249143642/",
   "thumbnail": "https://i.vimeocdn.com/video/693726409_295x166.jpg",

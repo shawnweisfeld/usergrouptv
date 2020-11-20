@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "scrum-fundamentals",
   "abstract": "<p>Writing good software is hard. Writing good software at a pace you can sustain indefinitely in an environment of changing requirements where technology choices are uncertain and quality is not compromised is...totally doable. Come learn the fundamentals of a framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value.</p>",
+  "description": "<p>Writing good software is hard. Writing good software at a pace you can sustain indefinitely in an environment of changing requirements where technology choices are uncertain and quality is not compromised is...totally doable. Come learn the fundamentals of a framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/482056179_295x166.jpg"
+  ],
   "vimeo": "100537274",
   "moreinfo": "http://tulsaschoolofdev.com",
   "thumbnail": "https://i.vimeocdn.com/video/482056179_295x166.jpg",

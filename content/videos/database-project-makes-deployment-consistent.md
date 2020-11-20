@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "database-project-makes-deployment-consistent",
   "abstract": "<p>The deployment process is frustrating; an object is missing, an object is deployed in the wrong order or an incorrect version. Deploying to multiple environments like Dev, QA, UAT and Prod is a challenge whither on premise or in the cloud. Source controlling database objects is paramount. Team development is required. Database code will only be deployed when changed. Proper security deployment will be repeatable per environment. Together, let us discover how using Database Project will help us with consistent releases. Deployments can cause you trouble but we will share a reliable deployment and version control process. Let’s see how Database Project can help us accomplish this goal.</p>",
+  "description": "<p>The deployment process is frustrating; an object is missing, an object is deployed in the wrong order or an incorrect version. Deploying to multiple environments like Dev, QA, UAT and Prod is a challenge whither on premise or in the cloud. Source controlling database objects is paramount. Team development is required. Database code will only be deployed when changed. Proper security deployment will be repeatable per environment. Together, let us discover how using Database Project will help us with consistent releases. Deployments can cause you trouble but we will share a reliable deployment and version control process. Let’s see how Database Project can help us accomplish this goal.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/640581517_295x166.jpg"
+  ],
   "vimeo": "222134696",
   "moreinfo": "http://www.sqlsaturday.com/651/Sessions/Details.aspx?sid=63529",
   "thumbnail": "https://i.vimeocdn.com/video/640581517_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "introduction-to-wcf-ria-services-part-1",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/496722991_295x166.jpg"
+  ],
   "vimeo": "111928458",
   "moreinfo": "http://ntpcug.org/",
   "thumbnail": "https://i.vimeocdn.com/video/496722991_295x166.jpg",

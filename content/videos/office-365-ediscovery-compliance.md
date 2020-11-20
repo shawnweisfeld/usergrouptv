@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "office-365-ediscovery-compliance",
   "abstract": "<p>Compliance for any organization can be a huge expense, and the cost of not being compliant can bring with it steep penalties.  In this session, we will explore eDiscovery aspects of compliance and walk through the eDiscovery processes and tools in Office 365. </p>",
+  "description": "<p>Compliance for any organization can be a huge expense, and the cost of not being compliant can bring with it steep penalties.  In this session, we will explore eDiscovery aspects of compliance and walk through the eDiscovery processes and tools in Office 365. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/651775311_295x166.jpg"
+  ],
   "vimeo": "231057670",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/239877508/",
   "thumbnail": "https://i.vimeocdn.com/video/651775311_295x166.jpg",

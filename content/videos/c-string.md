@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "c-string",
   "abstract": "<p>In this hands on lab we will use a Test Driven Development (TDD) approach to experiment with the features of strings and regular expressions in the .NET framework.</p>",
+  "description": "<p>In this hands on lab we will use a Test Driven Development (TDD) approach to experiment with the features of strings and regular expressions in the .NET framework.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/500551233_295x166.jpg"
+  ],
   "vimeo": "114763414",
   "moreinfo": "http://hands-on-coding.net",
   "thumbnail": "https://i.vimeocdn.com/video/500551233_295x166.jpg",

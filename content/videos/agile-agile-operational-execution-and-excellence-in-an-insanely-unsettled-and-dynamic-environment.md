@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "agile-agile-operational-execution-and-excellence-in-an-insanely-unsettled-and-dynamic-environment",
   "abstract": "<p>Look around, the business environment is changing. New technologies, platforms, languages, start-ups, global competition….. at times it can seem as if the foundation of our business world is built on quicksand. So how do we learn to survive and thrive in such a chaotic environment? Well, it all started in 1657! If your interest has peaked, join us as we reflect on our 460-year journey in measuring the rate of change and discuss how today’s environment not only demands Agile execution but Agile planning as well.</p>",
+  "description": "<p>Look around, the business environment is changing. New technologies, platforms, languages, start-ups, global competition….. at times it can seem as if the foundation of our business world is built on quicksand. So how do we learn to survive and thrive in such a chaotic environment? Well, it all started in 1657! If your interest has peaked, join us as we reflect on our 460-year journey in measuring the rate of change and discuss how today’s environment not only demands Agile execution but Agile planning as well.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/703267445_295x166.jpg"
+  ],
   "vimeo": "271861950",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703267445_295x166.jpg",

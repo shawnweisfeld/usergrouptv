@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "governing-your-database-environment",
   "abstract": "<p>As we all know about SQL sprawl, it becomes cumbersome for the DBAs tostay on top of all the servers in the environment. Come to this sessionand learn about simple techniques can help DBA stay on top of thegrowing SQL environment.</p>",
+  "description": "<p>As we all know about SQL sprawl, it becomes cumbersome for the DBAs tostay on top of all the servers in the environment. Come to this sessionand learn about simple techniques can help DBA stay on top of thegrowing SQL environment.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495924241_295x166.jpg"
+  ],
   "vimeo": "111342600",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/495924241_295x166.jpg",

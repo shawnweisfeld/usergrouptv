@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "intro-to-power-bi-pros-and-cons",
   "abstract": "<p>The good, the bad, and the ugly of implementing Power BI in an enterprise environment. From a self starter point of view to an experienced point of view.\r\n</p>",
+  "description": "<p>The good, the bad, and the ugly of implementing Power BI in an enterprise environment. From a self starter point of view to an experienced point of view.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/778862340_295x166.jpg"
+  ],
   "vimeo": "333004266",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/fnxhcqyzgbvb/",
   "thumbnail": "https://i.vimeocdn.com/video/778862340_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "build-flappy-bird-in-50-minutes",
   "abstract": "<p>You have your choice of thousands of Flappy Bird knockoffs on any platform you want. But you can do it better than those guys! Learn how to build Flappy Bird for Android, iOS, and Windows Phone with one common C# code base using MonoGame.</p>\r\n<p>You will learn how to maximize the code reuse across platforms. You will see how to abstract control structures to work best on the target platform. You will explore physics, game play, and graphics options to make the game as fun -- or frustrating -- as you like.</p>\r\n<p>Bird's gonna flap. Build your app!</p>",
+  "description": "<p>You have your choice of thousands of Flappy Bird knockoffs on any platform you want. But you can do it better than those guys! Learn how to build Flappy Bird for Android, iOS, and Windows Phone with one common C# code base using MonoGame.</p>\r\n<p>You will learn how to maximize the code reuse across platforms. You will see how to abstract control structures to work best on the target platform. You will explore physics, game play, and graphics options to make the game as fun -- or frustrating -- as you like.</p>\r\n<p>Bird's gonna flap. Build your app!</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/490859094_295x166.jpg"
+  ],
   "vimeo": "107456912",
   "moreinfo": "http://lrtechfest.com/speakers#michael-perry",
   "thumbnail": "https://i.vimeocdn.com/video/490859094_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "ram-talks-about-sharepoint",
   "abstract": "<p>&nbsp;</p>",
+  "description": "<p>&nbsp;</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/500554601_295x166.jpg"
+  ],
   "vimeo": "114765909",
   "moreinfo": "http://ntpcug.org/",
   "thumbnail": "https://i.vimeocdn.com/video/500554601_295x166.jpg",

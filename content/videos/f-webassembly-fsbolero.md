@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "f-webassembly-fsbolero",
   "abstract": "<p>WebAssembly is the hot new tech that's capturing everyone's minds with thoughts of a Javascript free future where we truly can code everywhere in one runtime. We'll take a look at just how true this is when we look at FsBolero, a WASM library for F# that makes use of the Blazor runtime for .Net to provide Elm-style UI experiences.</p>",
+  "description": "<p>WebAssembly is the hot new tech that's capturing everyone's minds with thoughts of a Javascript free future where we truly can code everywhere in one runtime. We'll take a look at just how true this is when we look at FsBolero, a WASM library for F# that makes use of the Blazor runtime for .Net to provide Elm-style UI experiences.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/786031089_295x166.jpg"
+  ],
   "vimeo": "338438993",
   "moreinfo": "https://www.meetup.com/Austin-F-Meetup/events/wzjgvqyzhbcc/",
   "thumbnail": "https://i.vimeocdn.com/video/786031089_295x166.jpg",

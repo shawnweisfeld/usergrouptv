@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "agile-database-design",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/728974733_295x166.jpg"
+  ],
   "vimeo": "292556140",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/728974733_295x166.jpg",

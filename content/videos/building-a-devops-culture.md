@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "building-a-devops-culture",
   "abstract": "<p>\r\n    Buying a few configuration management or automated deployment tools does not make your organization \"DevOps\". DevOps is about a cultural paradigm shift involving employee trust, communication between teams, relationship building and a genuine feeling of ownership of all stakeholders for all IT processes.\r\n</p>\r\n<p>In this discussion, we will tackle some of the cultural issues at work in our technology organizations and explore ways to implement DevOps principles to improve the overal quality of life for the day-to-day employees.</p>",
+  "description": "<p>\r\n    Buying a few configuration management or automated deployment tools does not make your organization \"DevOps\". DevOps is about a cultural paradigm shift involving employee trust, communication between teams, relationship building and a genuine feeling of ownership of all stakeholders for all IT processes.\r\n</p>\r\n<p>In this discussion, we will tackle some of the cultural issues at work in our technology organizations and explore ways to implement DevOps principles to improve the overal quality of life for the day-to-day employees.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/489182188_295x166.jpg"
+  ],
   "vimeo": "106167026",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#0109",
   "thumbnail": "https://i.vimeocdn.com/video/489182188_295x166.jpg",

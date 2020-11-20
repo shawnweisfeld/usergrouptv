@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "currying-in-a-hurry-intro-to-functional-programming-in-f",
   "abstract": "<p>Most of us spend our days coding in object oriented (OO) languages like C#, Java or C++. By looking at other programming paradigms we have an opportunity to reason about problems in different ways, and gain a deeper understanding of what's in our OO toolkit. This talk takes an idiomatic approach to functional programming (FP) using F#. At the end of the talk you'll have a better idea of what FP is, know what \"currying\" is, and have the information you need to get started with F#.</p>",
+  "description": "<p>Most of us spend our days coding in object oriented (OO) languages like C#, Java or C++. By looking at other programming paradigms we have an opportunity to reason about problems in different ways, and gain a deeper understanding of what's in our OO toolkit. This talk takes an idiomatic approach to functional programming (FP) using F#. At the end of the talk you'll have a better idea of what FP is, know what \"currying\" is, and have the information you need to get started with F#.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/540283410_295x166.jpg"
+  ],
   "vimeo": "142867691",
   "moreinfo": "http://lrtechfest.com/speakerdetails/#Jeremy-Abbott",
   "thumbnail": "https://i.vimeocdn.com/video/540283410_295x166.jpg",

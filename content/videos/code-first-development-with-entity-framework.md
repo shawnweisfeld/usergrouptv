@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "code-first-development-with-entity-framework",
   "abstract": "<p>In this talk we dive into the code first approach using Entity Framework and specifically how to develop test first and architecturally sound EF code. This talk will morph and twist, so bring your questions and plenty of geek points.</p>",
+  "description": "<p>In this talk we dive into the code first approach using Entity Framework and specifically how to develop test first and architecturally sound EF code. This talk will morph and twist, so bring your questions and plenty of geek points.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/494184191_295x166.jpg"
+  ],
   "vimeo": "110068565",
   "moreinfo": "http://dallas-csharp-sig.com",
   "thumbnail": "https://i.vimeocdn.com/video/494184191_295x166.jpg",

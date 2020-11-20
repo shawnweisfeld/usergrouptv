@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "using-powerbi-to-mine-data-from-the-web",
   "abstract": "<p>Using PowerBI to mine data from the web</p>",
+  "description": "<p>Using PowerBI to mine data from the web</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/796753265_295x166.jpg"
+  ],
   "vimeo": "346640344",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/262057424/",
   "thumbnail": "https://i.vimeocdn.com/video/796753265_295x166.jpg",

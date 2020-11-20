@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "value-in-60-minutes",
   "abstract": "<p>Have you ever shuddered when your team informed you they would need a “Sprint 0” to setup the architecture of a project before they could begin to deliver value? Are you tired of re-writing the same standard plumbing code, again and again, whenever another project starts? Come discuss and learn about practices you can implement in your organization so that you can get down to real value in just 60 minutes.\r\n</p>",
+  "description": "<p>Have you ever shuddered when your team informed you they would need a “Sprint 0” to setup the architecture of a project before they could begin to deliver value? Are you tired of re-writing the same standard plumbing code, again and again, whenever another project starts? Come discuss and learn about practices you can implement in your organization so that you can get down to real value in just 60 minutes.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/486704704_295x166.jpg"
+  ],
   "vimeo": "104228279",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486704704_295x166.jpg",

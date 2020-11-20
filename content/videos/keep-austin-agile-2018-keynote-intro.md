@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "keep-austin-agile-2018-keynote-intro",
   "abstract": "<p>Welcome to Keep Austin Agile 2018, an exciting conference packed with 35 sessions crafted by speakers from the Austin agile community and around the country. Whether you are a newbie or a experienced Agilist, we’ve got you covered. Join Agile Austin for our 6th Keep Austin Agile Conference. </p>",
+  "description": "<p>Welcome to Keep Austin Agile 2018, an exciting conference packed with 35 sessions crafted by speakers from the Austin agile community and around the country. Whether you are a newbie or a experienced Agilist, we’ve got you covered. Join Agile Austin for our 6th Keep Austin Agile Conference. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/703256954_295x166.jpg"
+  ],
   "vimeo": "271853498",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703256954_295x166.jpg",

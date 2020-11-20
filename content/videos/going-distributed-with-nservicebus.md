@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "going-distributed-with-nservicebus",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/537283054_295x166.jpg"
+  ],
   "vimeo": "140647837",
   "moreinfo": "http://measureup.io",
   "thumbnail": "https://i.vimeocdn.com/video/537283054_295x166.jpg",

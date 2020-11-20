@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "redis",
   "abstract": "<p>Redis (http://msopentech.com/opentech-projects/redis) is a very popular open-source, networked, in-memory, key-value data store. It is known for high performance, flexibility, a rich set of data structures, and a simple straightforward API. MS Open Tech has been working with the Redis community to build a production-ready Windows port of Redis, including 64-bit support, an installer for Windows Azure, NuGet support, and much more. In this talk we will discuss what it takes as a .NET Developer to work with Redis both on prem and in the cloud.</p>",
+  "description": "<p>Redis (http://msopentech.com/opentech-projects/redis) is a very popular open-source, networked, in-memory, key-value data store. It is known for high performance, flexibility, a rich set of data structures, and a simple straightforward API. MS Open Tech has been working with the Redis community to build a production-ready Windows port of Redis, including 64-bit support, an installer for Windows Azure, NuGet support, and much more. In this talk we will discuss what it takes as a .NET Developer to work with Redis both on prem and in the cloud.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/490859172_295x166.jpg"
+  ],
   "vimeo": "107456932",
   "moreinfo": "http://lrtechfest.com/speakers#shawn-weisfeld",
   "thumbnail": "https://i.vimeocdn.com/video/490859172_295x166.jpg",

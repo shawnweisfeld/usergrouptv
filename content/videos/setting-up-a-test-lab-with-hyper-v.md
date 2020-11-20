@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "setting-up-a-test-lab-with-hyper-v",
   "abstract": "<p>So, you want to play with SQL server and/or Windows Server but you don't have extra hardware lying around. In this session I'll go over creating the necessary virtual networking and virtual machines to allow you to do this and protect your local network from possible harm.</p>",
+  "description": "<p>So, you want to play with SQL server and/or Windows Server but you don't have extra hardware lying around. In this session I'll go over creating the necessary virtual networking and virtual machines to allow you to do this and protect your local network from possible harm.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/842319677_295x166.jpg"
+  ],
   "vimeo": "381545005",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/pttzvqyzqbwb/",
   "thumbnail": "https://i.vimeocdn.com/video/842319677_295x166.jpg",

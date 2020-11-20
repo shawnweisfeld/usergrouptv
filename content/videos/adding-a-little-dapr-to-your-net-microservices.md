@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "adding-a-little-dapr-to-your-net-microservices",
   "abstract": "<p>Building distributed applications is not an easy thing to do. Even though there are some inherent benefits, breaking down your application into a collection of microservices comes with a completely different set of challenges. This is where DAPR can help us out. It provides a runtime and a collection of building blocks that can be used with any language, in any cloud or on-prem environment. In this session, we’ll dive into DAPR, discuss the various build blocks it supports, and see some demos of how you can make use of it in your .NET applications.\r\n</p>",
+  "description": "<p>Building distributed applications is not an easy thing to do. Even though there are some inherent benefits, breaking down your application into a collection of microservices comes with a completely different set of challenges. This is where DAPR can help us out. It provides a runtime and a collection of building blocks that can be used with any language, in any cloud or on-prem environment. In this session, we’ll dive into DAPR, discuss the various build blocks it supports, and see some demos of how you can make use of it in your .NET applications.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/959175670_295x166.jpg"
+  ],
   "vimeo": "458972042",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/271818559/",
   "thumbnail": "https://i.vimeocdn.com/video/959175670_295x166.jpg",

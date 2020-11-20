@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "azure-api-management",
   "abstract": "<p>Microsoft Azure API Management ensures an organization’s API program reaches its fullest potential. With API management, organizations can publish web services as APIs reliably, securely and at scale.</p>\r\n<p>Use API Management to drive API consumption among internal teams, partners, and developers while benefiting from business and operational insights available in the admin portal. API Management provides the tools your organization needs for end-to-end API management—everything from provisioning user roles, creating usage plans and quotas, applying policies for transforming payloads, throttling, analytics, monitoring and alerts.</p>",
+  "description": "<p>Microsoft Azure API Management ensures an organization’s API program reaches its fullest potential. With API management, organizations can publish web services as APIs reliably, securely and at scale.</p>\r\n<p>Use API Management to drive API consumption among internal teams, partners, and developers while benefiting from business and operational insights available in the admin portal. API Management provides the tools your organization needs for end-to-end API management—everything from provisioning user roles, creating usage plans and quotas, applying policies for transforming payloads, throttling, analytics, monitoring and alerts.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/515193755_295x166.jpg"
+  ],
   "vimeo": "125185377",
   "moreinfo": "http://www.meetup.com/azureaustin/events/221250869/",
   "thumbnail": "https://i.vimeocdn.com/video/515193755_295x166.jpg",

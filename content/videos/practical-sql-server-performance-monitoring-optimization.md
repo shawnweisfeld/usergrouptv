@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "practical-sql-server-performance-monitoring-optimization",
   "abstract": "<p>Developers can dramatically improve performance by monitoring and analyzing real world queries. This session covers SQL Server monitoring at various levels to the most impactful performance improvements. The presentation will start with an overview of different optimization tools and techniques and will be based on practical examples of real-world performance monitoring and troubleshooting. Details include the use of server monitoring tools, SQL Profiler, the Database Tuning Advisor, and analyzing query plans, Dynamic Management Views, and related methods. The overall emphasis will be on solving practical, real-world database performance problems.</p>",
+  "description": "<p>Developers can dramatically improve performance by monitoring and analyzing real world queries. This session covers SQL Server monitoring at various levels to the most impactful performance improvements. The presentation will start with an overview of different optimization tools and techniques and will be based on practical examples of real-world performance monitoring and troubleshooting. Details include the use of server monitoring tools, SQL Profiler, the Database Tuning Advisor, and analyzing query plans, Dynamic Management Views, and related methods. The overall emphasis will be on solving practical, real-world database performance problems.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495139385_295x166.jpg"
+  ],
   "vimeo": "110771572",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/495139385_295x166.jpg",

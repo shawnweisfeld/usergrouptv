@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "introduction-to-biml-and-bimlscript",
   "abstract": "<p>Microsoft has provided some great tools for creating and editing SSIS packages. First Business Intelligence Development Studio (BIDS) then SQL Server Data Tools (SSDT). However, when creating an SSIS package you frequently repeat the same steps over and over. BIML is an XML markup language designed for representing the structure of an SSIS package. BIML Script takes that structure and generates an SSIS package.In this session we will use BIDS Helper to create a simple SSIS package using BIML. We will handle a couple SSIS scenarios with BIML and BIML Script. </p>",
+  "description": "<p>Microsoft has provided some great tools for creating and editing SSIS packages. First Business Intelligence Development Studio (BIDS) then SQL Server Data Tools (SSDT). However, when creating an SSIS package you frequently repeat the same steps over and over. BIML is an XML markup language designed for representing the structure of an SSIS package. BIML Script takes that structure and generates an SSIS package.In this session we will use BIDS Helper to create a simple SSIS package using BIML. We will handle a couple SSIS scenarios with BIML and BIML Script. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/483488824_295x166.jpg"
+  ],
   "vimeo": "101659884",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=223&sessionid=14724",
   "thumbnail": "https://i.vimeocdn.com/video/483488824_295x166.jpg",

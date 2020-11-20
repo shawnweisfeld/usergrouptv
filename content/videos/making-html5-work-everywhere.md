@@ -6,6 +6,10 @@
   "draft": false,
   "slug": "making-html5-work-everywhere",
   "abstract": "<p>One of the great promises of HTML5 is that you can create software that runs everywhere. In many ways, HTML5 lives-up to this promise, but as with any evolving standard, support across different browsers and devices is inconsistent. To effectively adopt HTML5 today, developers must master the skills that fill-in the gaps and minimize the differences between HTML5 runtimes. In this session, you will learn the essential techniques needed to create HTML5 sites and apps that truly work everywhere.</p>",
+  "description": "<p>One of the great promises of HTML5 is that you can create software that runs everywhere. In many ways, HTML5 lives-up to this promise, but as with any evolving standard, support across different browsers and devices is inconsistent. To effectively adopt HTML5 today, developers must master the skills that fill-in the gaps and minimize the differences between HTML5 runtimes. In this session, you will learn the essential techniques needed to create HTML5 sites and apps that truly work everywhere.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/487544568_295x166.jpg"
+  ],
   "vimeo": "104887686",
   "moreinfo": "http://www.houstontechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/487544568_295x166.jpg",

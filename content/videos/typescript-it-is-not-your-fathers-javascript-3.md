@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "typescript-it-is-not-your-fathers-javascript-3",
   "abstract": "<p>Hate writing JavaScript? Wish it was strongly typed, scalable, and had better tool support? TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. Any browser. Any host. Any OS. Open Source. \r\n</p><p>\r\nIn this session we will introduce TypeScript and show the basics of getting started with it today, including how to leverage your existing arsenal of third party JavaScirpt libraries like jQuery.</p>",
+  "description": "<p>Hate writing JavaScript? Wish it was strongly typed, scalable, and had better tool support? TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. Any browser. Any host. Any OS. Open Source. \r\n</p><p>\r\nIn this session we will introduce TypeScript and show the basics of getting started with it today, including how to leverage your existing arsenal of third party JavaScirpt libraries like jQuery.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/482638631_295x166.jpg"
+  ],
   "vimeo": "100980259",
   "moreinfo": "http://techfests.com/Tulsa/2013/Speakers/ShawnWeisfeld/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/482638631_295x166.jpg",

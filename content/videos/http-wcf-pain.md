@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "http-wcf-pain",
   "abstract": "<p>WCF is an incredible powerhouse of a framework, but it has some major flaws if you're working on the web. The tons of XML, the fact that you're abstracted from HTTP, and other less than fun things. Fortunately, there is a team at Microsoft who is leading the way to make working with WCF in an HTTP centric fashion much better. Come learn how to call a WCF service from jQuery with just 1 line of code, how very easy code configuration can be so you don't have to do XML, and how to use an IoC container with only a little bit of pain.</p>",
+  "description": "<p>WCF is an incredible powerhouse of a framework, but it has some major flaws if you're working on the web. The tons of XML, the fact that you're abstracted from HTTP, and other less than fun things. Fortunately, there is a team at Microsoft who is leading the way to make working with WCF in an HTTP centric fashion much better. Come learn how to call a WCF service from jQuery with just 1 line of code, how very easy code configuration can be so you don't have to do XML, and how to use an IoC container with only a little bit of pain.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/499120096_295x166.jpg"
+  ],
   "vimeo": "113705708",
   "moreinfo": "http://northdallas.net",
   "thumbnail": "https://i.vimeocdn.com/video/499120096_295x166.jpg",

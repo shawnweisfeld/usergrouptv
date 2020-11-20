@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "xamarin-forms-for-cross-platform-mobile-apps",
   "abstract": "<p>Xamarin.Forms is a new framework that allows mobile application developers to write portable apps for Android, iOS, and Windows Phone with nearly 100% reusable code while still maintaining a native look and feel for each platform. This talk will cover the basics of using Xamarin.Forms from building a basic application using XAML and MVVM to using custom renderers to customize the application for each platform. </p>",
+  "description": "<p>Xamarin.Forms is a new framework that allows mobile application developers to write portable apps for Android, iOS, and Windows Phone with nearly 100% reusable code while still maintaining a native look and feel for each platform. This talk will cover the basics of using Xamarin.Forms from building a basic application using XAML and MVVM to using custom renderers to customize the application for each platform. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/511708027_295x166.jpg"
+  ],
   "vimeo": "122649308",
   "moreinfo": "http://www.meetup.com/Austin-Mobile-NET-Developers-Group/events/220150155/",
   "thumbnail": "https://i.vimeocdn.com/video/511708027_295x166.jpg",

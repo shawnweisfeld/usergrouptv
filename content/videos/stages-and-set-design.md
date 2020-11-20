@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "stages-and-set-design",
   "abstract": "<p>Does your team’s workspace support or hinder their performance? A team’s space must support a variety of conflicting needs like collaboration vs. focused work; team space vs. personal space; and team uniqueness vs. corporate culture/facilities policy. In this session, we’ll look at the needs of individuals and teams from the physical, social, and neurobiological perspectives to identify the factors that matter, and those that don’t. You will leave this interactive session with a clear picture of what is good, and what is not so good about your team space.</p>",
+  "description": "<p>Does your team’s workspace support or hinder their performance? A team’s space must support a variety of conflicting needs like collaboration vs. focused work; team space vs. personal space; and team uniqueness vs. corporate culture/facilities policy. In this session, we’ll look at the needs of individuals and teams from the physical, social, and neurobiological perspectives to identify the factors that matter, and those that don’t. You will leave this interactive session with a clear picture of what is good, and what is not so good about your team space.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/486705644_295x166.jpg"
+  ],
   "vimeo": "104229093",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486705644_295x166.jpg",

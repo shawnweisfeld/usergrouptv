@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "leveraging-the-sql-server-data-tools-to-ease-database-development",
   "abstract": "<p>Working with SQL schema is a chore for most developers. In this session we will take a look at the SQL Server Data Tools in Visual Studio and how we can leverage them to make your development life a bit easier.</p>",
+  "description": "<p>Working with SQL schema is a chore for most developers. In this session we will take a look at the SQL Server Data Tools in Visual Studio and how we can leverage them to make your development life a bit easier.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/486707377_295x166.jpg"
+  ],
   "vimeo": "104230519",
   "moreinfo": "http://cactuss.org/",
   "thumbnail": "https://i.vimeocdn.com/video/486707377_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "tfs-process-template-customizations",
   "abstract": "<p>During this presentation you will learn about customizing the process configuration and work item templates for TFS 2013.</p><p>\r\nProcess Configuration </p><p>\r\nAreas covered will be configuring a backlog page, map metastates, assign fields used in agile planning, specify weekend days, and changing the color of a work item type.</p><p>\r\n</p><p>\r\nWork Item Template: Programmability</p><p>\r\nTFS work items do not allow scripting or code to run however there are dynamical capabilities such as rules, actions, and certain form controls that can be used to simplify or even automate activities in a work item. We will look closely at these capabilities and explore how they can be used</p>",
+  "description": "<p>During this presentation you will learn about customizing the process configuration and work item templates for TFS 2013.</p><p>\r\nProcess Configuration </p><p>\r\nAreas covered will be configuring a backlog page, map metastates, assign fields used in agile planning, specify weekend days, and changing the color of a work item type.</p><p>\r\n</p><p>\r\nWork Item Template: Programmability</p><p>\r\nTFS work items do not allow scripting or code to run however there are dynamical capabilities such as rules, actions, and certain form controls that can be used to simplify or even automate activities in a work item. We will look closely at these capabilities and explore how they can be used</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/506118777_295x166.jpg"
+  ],
   "vimeo": "118970992",
   "moreinfo": "https://sites.google.com/site/tfsaustinusergroup/project-updates/tfsprocesstemplatecustomizations",
   "thumbnail": "https://i.vimeocdn.com/video/506118777_295x166.jpg",

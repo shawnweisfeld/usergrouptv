@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-class-that-knew-too-much-refactoring-spaghetti-code",
   "abstract": "<p>The Single Responsibility Principle states that a class should have one (and only one) reason to change. Classes that don't adhere to this principle can result in tightly coupled spaghetti code that leads to more bugs and higher maintenance. We'll look at how to identify these classes by using some heuristics and looking for 'code smells', and we'll clean them up using refactoring tools, design patterns, dependency injection and even aspect-oriented programming. Examples will be in C#, but the concepts can be applied to a variety of languages.</p>",
+  "description": "<p>The Single Responsibility Principle states that a class should have one (and only one) reason to change. Classes that don't adhere to this principle can result in tightly coupled spaghetti code that leads to more bugs and higher maintenance. We'll look at how to identify these classes by using some heuristics and looking for 'code smells', and we'll clean them up using refactoring tools, design patterns, dependency injection and even aspect-oriented programming. Examples will be in C#, but the concepts can be applied to a variety of languages.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/484298668_295x166.jpg"
+  ],
   "vimeo": "102316776",
   "moreinfo": "http://codecamp13.adnug.org/",
   "thumbnail": "https://i.vimeocdn.com/video/484298668_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "film-school-lights-camera-value",
   "abstract": "<p>In this session will we dive into how to get the awesome power of developing for Business Value. We will walk the gambit from how to setup development and deployment tools, to process that will allow us to deliver, and how to focus the team to that goal.\r\n</p>",
+  "description": "<p>In this session will we dive into how to get the awesome power of developing for Business Value. We will walk the gambit from how to setup development and deployment tools, to process that will allow us to deliver, and how to focus the team to that goal.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/486708179_295x166.jpg"
+  ],
   "vimeo": "104231109",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486708179_295x166.jpg",

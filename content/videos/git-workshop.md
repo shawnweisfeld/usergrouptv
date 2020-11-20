@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "git-workshop",
   "abstract": "<p>Git is everywhere. It’s the way we share code. It’s the way we contribute to open source projects. During workshops, we use Git to share source code. Tim Rayburn knows Git. He loves Git. He teaches developers how to use Git almost every day. Tim Rayburn is a Git. After this workshop, you will understand what makes Git different from other version control systems. You will understand the advantages of a local repository. You will understand branching, merging, and rebasing. Come practice with us. Learn this ubiquitous and universally useful tool.</p>",
+  "description": "<p>Git is everywhere. It’s the way we share code. It’s the way we contribute to open source projects. During workshops, we use Git to share source code. Tim Rayburn knows Git. He loves Git. He teaches developers how to use Git almost every day. Tim Rayburn is a Git. After this workshop, you will understand what makes Git different from other version control systems. You will understand the advantages of a local repository. You will understand branching, merging, and rebasing. Come practice with us. Learn this ubiquitous and universally useful tool.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/484301969_295x166.jpg"
+  ],
   "vimeo": "102319790",
   "moreinfo": "http://dallasxaml.com/",
   "thumbnail": "https://i.vimeocdn.com/video/484301969_295x166.jpg",

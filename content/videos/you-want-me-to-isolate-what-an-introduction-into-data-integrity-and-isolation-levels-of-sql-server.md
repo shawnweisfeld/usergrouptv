@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "you-want-me-to-isolate-what-an-introduction-into-data-integrity-and-isolation-levels-of-sql-server",
   "abstract": "<p>Isolation Levels in SQL Server can benefit your application and help control data integrity by managing concurrency effects but can also hurt your application if you are unaware of what they are and how they are used.  A review of SQL Concurrency issues and how SQL Isolation Levels can help eliminate them and keep the integrity of your data.  This presentation will demonstrate with queries what causes concurrency issues and what isolation levels will prevent them.</p>",
+  "description": "<p>Isolation Levels in SQL Server can benefit your application and help control data integrity by managing concurrency effects but can also hurt your application if you are unaware of what they are and how they are used.  A review of SQL Concurrency issues and how SQL Isolation Levels can help eliminate them and keep the integrity of your data.  This presentation will demonstrate with queries what causes concurrency issues and what isolation levels will prevent them.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/640582984_295x166.jpg"
+  ],
   "vimeo": "222136169",
   "moreinfo": "http://www.sqlsaturday.com/651/Sessions/Details.aspx?sid=63584",
   "thumbnail": "https://i.vimeocdn.com/video/640582984_295x166.jpg",

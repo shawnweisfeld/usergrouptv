@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "azure-devops-for-net-fall-into-the-pit-of-success",
   "abstract": "<p>Azure DevOps Services and all of the automation involved for a complete DevOps environment can be daunting. In this talk, Jeffrey Palermo provides prescriptive guidance for developers to fall into the \"pit of success\" when creating automated DevOps pipelines for complex .NET apps targeting Azure.</p>",
+  "description": "<p>Azure DevOps Services and all of the automation involved for a complete DevOps environment can be daunting. In this talk, Jeffrey Palermo provides prescriptive guidance for developers to fall into the \"pit of success\" when creating automated DevOps pipelines for complex .NET apps targeting Azure.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/876242718_295x166.jpg"
+  ],
   "vimeo": "405918769",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/269187312/",
   "thumbnail": "https://i.vimeocdn.com/video/876242718_295x166.jpg",

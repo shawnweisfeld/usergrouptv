@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "qadeveloper-mind-meld",
   "abstract": "<p>We will explain what being agile in the QA world means. Discussing how ensuring quality can begin on day one of any sprint and what skills, characteristics, and attitudes one should strive for in an agile QA analyst. We will disect past agile projects and share our experiences on what has been successful.\r\n</p>",
+  "description": "<p>We will explain what being agile in the QA world means. Discussing how ensuring quality can begin on day one of any sprint and what skills, characteristics, and attitudes one should strive for in an agile QA analyst. We will disect past agile projects and share our experiences on what has been successful.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/486704489_295x166.jpg"
+  ],
   "vimeo": "104228062",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486704489_295x166.jpg",

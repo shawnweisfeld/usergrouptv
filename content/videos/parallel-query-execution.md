@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "parallel-query-execution",
   "abstract": "<p>What exactly does it mean to parallelize a query? Why would the optimizer do this and what are the benefits and what are the drawbacks?? Is it always faster? Can it cause problems? Are there reasons we might NOT want parallelization? What can prevent it's use by the engine? These are some of the topics we will cover as we dig into this facet of the SQL Server relational engine.</p>",
+  "description": "<p>What exactly does it mean to parallelize a query? Why would the optimizer do this and what are the benefits and what are the drawbacks?? Is it always faster? Can it cause problems? Are there reasons we might NOT want parallelization? What can prevent it's use by the engine? These are some of the topics we will cover as we dig into this facet of the SQL Server relational engine.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/500556667_295x166.jpg"
+  ],
   "vimeo": "114767353",
   "moreinfo": "http://www.sqlsaturday.com/63/eventhome.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/500556667_295x166.jpg",

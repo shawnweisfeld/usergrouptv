@@ -11,6 +11,10 @@
   "draft": false,
   "slug": "a-meeting-with-scott-hunter",
   "abstract": "<p>Get the latest updates in .NET Core and how you can be more productive building apps that run on any platform or device. Learn about some of the exciting things we’re working on for .NET 5 and beyond.</p>",
+  "description": "<p>Get the latest updates in .NET Core and how you can be more productive building apps that run on any platform or device. Learn about some of the exciting things we’re working on for .NET 5 and beyond.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/901233634_295x166.jpg"
+  ],
   "vimeo": "424346253",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/270352812/",
   "thumbnail": "https://i.vimeocdn.com/video/901233634_295x166.jpg",

@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "powerapps-and-flow-whats-in-it-for-me-and-why-now",
   "abstract": "<p>Overview of PowerApps and Flow, Best practices and current state, Review new features like Canvas Components, Responsive Design</p>",
+  "description": "<p>Overview of PowerApps and Flow, Best practices and current state, Review new features like Canvas Components, Responsive Design</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/767089144_295x166.jpg"
+  ],
   "vimeo": "323853065",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/lsljlmyzfbrb/",
   "thumbnail": "https://i.vimeocdn.com/video/767089144_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "securing-windows-azure-applications",
   "abstract": "<p>In this session we will explore various options to secure applications hosted on Windows Azure platform which range from simple through complex multi-enterprise scenarios. We will explore SAML based approach as well as simple forms authentication schemes. The session includes a mix of slides and demos</p>",
+  "description": "<p>In this session we will explore various options to secure applications hosted on Windows Azure platform which range from simple through complex multi-enterprise scenarios. We will explore SAML based approach as well as simple forms authentication schemes. The session includes a mix of slides and demos</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/487539912_295x166.jpg"
+  ],
   "vimeo": "104883951",
   "moreinfo": "http://www.houstontechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/487539912_295x166.jpg",

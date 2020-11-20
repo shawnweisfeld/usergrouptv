@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "automation-101",
   "abstract": "<p>Automation is often misunderstood, and means a lot of different things to a lot of different people. I want to help change that. By drawing on my years of experience building and managing automation teams within a variety of environment, I will walk you through the things you should or shouldn't do. I'll help you understand what things need to be considered, and what things you should simply pass on. I'm not going to teach you how to automate, but I AM gonna to teach you how to succeed at it.</p>",
+  "description": "<p>Automation is often misunderstood, and means a lot of different things to a lot of different people. I want to help change that. By drawing on my years of experience building and managing automation teams within a variety of environment, I will walk you through the things you should or shouldn't do. I'll help you understand what things need to be considered, and what things you should simply pass on. I'm not going to teach you how to automate, but I AM gonna to teach you how to succeed at it.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/660009212_295x166.jpg"
+  ],
   "vimeo": "237560992",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660009212_295x166.jpg",

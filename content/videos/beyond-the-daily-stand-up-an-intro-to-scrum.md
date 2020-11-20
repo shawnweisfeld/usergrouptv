@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "beyond-the-daily-stand-up-an-intro-to-scrum",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/728973957_295x166.jpg"
+  ],
   "vimeo": "292555588",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/728973957_295x166.jpg",

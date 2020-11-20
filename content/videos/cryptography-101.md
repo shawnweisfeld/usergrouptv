@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "cryptography-101",
   "abstract": "<p>Information sharing may be great for your team, but not so great when it comes to your valuable, sensitive data. This talk is an introduction to cryptography - the art and science of keeping information secret. We'll gently introduce core concepts like steganography, codes, ciphers, and lexical analysis by reviewing the history of making (and breaking) secret writing systems from ancient times to World War 2, and finish with a discussion about modern symmetric and asymmetric (aka public key) encryption.</p>",
+  "description": "<p>Information sharing may be great for your team, but not so great when it comes to your valuable, sensitive data. This talk is an introduction to cryptography - the art and science of keeping information secret. We'll gently introduce core concepts like steganography, codes, ciphers, and lexical analysis by reviewing the history of making (and breaking) secret writing systems from ancient times to World War 2, and finish with a discussion about modern symmetric and asymmetric (aka public key) encryption.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/484299595_295x166.jpg"
+  ],
   "vimeo": "102317569",
   "moreinfo": "http://codecamp13.adnug.org/",
   "thumbnail": "https://i.vimeocdn.com/video/484299595_295x166.jpg",

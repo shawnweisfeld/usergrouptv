@@ -10,6 +10,10 @@
   "draft": false,
   "slug": "amazon-web-services-vs-rackspace-vs-azure-smackdown",
   "abstract": "You might be tempted to think that Cloud infrastructure is a commodity once your VM image is launched. Not true. The big 3 -- actually, it's the big 1, plus 2 others -- have crucial differences that can make or break your project. This session will help you identify them.",
+  "description": "You might be tempted to think that Cloud infrastructure is a commodity once your VM image is launched. Not true. The big 3 -- actually, it's the big 1, plus 2 others -- have crucial differences that can make or break your project. This session will help you identify them.",
+  "images": [
+    "https://i.vimeocdn.com/video/488128550_295x166.jpg"
+  ],
   "vimeo": "105359949",
   "moreinfo": "http://techfests.com/NWA/2012",
   "thumbnail": "https://i.vimeocdn.com/video/488128550_295x166.jpg",

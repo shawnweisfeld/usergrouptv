@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "azure-in-60-minutes",
   "abstract": "<p>Are you new to the cloud? Confused if you should use virtual machines, containers or PaaS? Worried about the security of the cloud? What about Open Source in Azure? In this session we will provide an overview of everything you need to get starting using Azure in 60 minutes.</p>",
+  "description": "<p>Are you new to the cloud? Confused if you should use virtual machines, containers or PaaS? Worried about the security of the cloud? What about Open Source in Azure? In this session we will provide an overview of everything you need to get starting using Azure in 60 minutes.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/696153343_295x166.jpg"
+  ],
   "vimeo": "266004703",
   "moreinfo": "https://global.azurebootcamp.net/locations/gobal-azure-boot-camp-2018-austin-tx/",
   "thumbnail": "https://i.vimeocdn.com/video/696153343_295x166.jpg",

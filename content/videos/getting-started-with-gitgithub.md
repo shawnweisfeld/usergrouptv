@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "getting-started-with-gitgithub",
   "abstract": "<p>If you manage code, you understand the struggle of choosing how you source control it. While there are many choices out there, Git has become a popular option for many development teams. While it has many strengths, understanding Git can be a struggle for developers who are not used to distributed source control. In this session, we will go over the basic concepts of Git, from building and cloning a repository to branching, forking, and code merges. We will use real world examples of how Git and GitHub can be used to manage global development teams. Attendees will leave with a solid understanding of how Git works, how to get started with their own GitHub repository, and some tools that can be used to manage their code.\r\n</p>",
+  "description": "<p>If you manage code, you understand the struggle of choosing how you source control it. While there are many choices out there, Git has become a popular option for many development teams. While it has many strengths, understanding Git can be a struggle for developers who are not used to distributed source control. In this session, we will go over the basic concepts of Git, from building and cloning a repository to branching, forking, and code merges. We will use real world examples of how Git and GitHub can be used to manage global development teams. Attendees will leave with a solid understanding of how Git works, how to get started with their own GitHub repository, and some tools that can be used to manage their code.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/719305826_295x166.jpg"
+  ],
   "vimeo": "284779185",
   "moreinfo": "http://www.sqlsaturday.com/749/Sessions/Details.aspx?sid=83093",
   "thumbnail": "https://i.vimeocdn.com/video/719305826_295x166.jpg",

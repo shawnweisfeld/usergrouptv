@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "drinking-a-river-of-iot-data-with-akka-net",
   "abstract": "<p>You can’t develop a device anymore without it connecting to something. These ‘smart’ devices all have one thing in common: they generate a never-ending stream of data. If you want to process all that data for 100, 1000, or 10000 devices, you can probably get by with a very simple web stack. But as soon as you want to scale to 1000000 or more devices, you’re going to need a better strategy. Scaling software is always tricky. We all have been through this. You load balance your web farm only to find out that your database is a bottleneck. Or to find out you need to synchronize caches across your farm. Akka.NET and its implementation of the actor model make scaling a bit easier. Developing a highly concurrent stateful system becomes a breeze. And it's just as easy to scale it out and to make it resilient. But obviously there are pitfalls as well. No prior Akka.NET knowledge is required.</p>",
+  "description": "<p>You can’t develop a device anymore without it connecting to something. These ‘smart’ devices all have one thing in common: they generate a never-ending stream of data. If you want to process all that data for 100, 1000, or 10000 devices, you can probably get by with a very simple web stack. But as soon as you want to scale to 1000000 or more devices, you’re going to need a better strategy. Scaling software is always tricky. We all have been through this. You load balance your web farm only to find out that your database is a bottleneck. Or to find out you need to synchronize caches across your farm. Akka.NET and its implementation of the actor model make scaling a bit easier. Developing a highly concurrent stateful system becomes a breeze. And it's just as easy to scale it out and to make it resilient. But obviously there are pitfalls as well. No prior Akka.NET knowledge is required.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/944750558_295x166.jpg"
+  ],
   "vimeo": "450475486",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/272527029/",
   "thumbnail": "https://i.vimeocdn.com/video/944750558_295x166.jpg",

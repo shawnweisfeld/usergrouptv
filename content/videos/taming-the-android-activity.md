@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "taming-the-android-activity",
   "abstract": "<p>This meetup will cover advanced techniques for dealing with Android activities in Xamarin.Android. Learn how to tame the activity life cycle and how to start new activities asynchronously with async/await.\r\n</p>",
+  "description": "<p>This meetup will cover advanced techniques for dealing with Android activities in Xamarin.Android. Learn how to tame the activity life cycle and how to start new activities asynchronously with async/await.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/531515284_295x166.jpg"
+  ],
   "vimeo": "136848255",
   "moreinfo": "http://www.meetup.com/Austin-Mobile-NET-Developers-Group/events/223948557/",
   "thumbnail": "https://i.vimeocdn.com/video/531515284_295x166.jpg",

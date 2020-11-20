@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "security-for-silverlight-and-click-once-applications",
   "abstract": "<p>Here are some of the wide range of security related topics that we'll be covering.</p>\r\n<ul>\r\n<li>Basic Terminology</li>\r\n<li>WPF Click-Once Basics and Security Techniques</li>\r\n<li>XBAP Applications</li>\r\n<li>Silverlight Security Techniques</li>\r\n<li>WCF Service Usage</li>\r\n<li>ASP.NET Authentication Service</li>\r\n<li>And Lots of web.config configuration</li>\r\n</ul>",
+  "description": "<p>Here are some of the wide range of security related topics that we'll be covering.</p>\r\n<ul>\r\n<li>Basic Terminology</li>\r\n<li>WPF Click-Once Basics and Security Techniques</li>\r\n<li>XBAP Applications</li>\r\n<li>Silverlight Security Techniques</li>\r\n<li>WCF Service Usage</li>\r\n<li>ASP.NET Authentication Service</li>\r\n<li>And Lots of web.config configuration</li>\r\n</ul>",
+  "images": [
+    "https://i.vimeocdn.com/video/494185351_295x166.jpg"
+  ],
   "vimeo": "110069545",
   "moreinfo": "http://dallasxaml.com/",
   "thumbnail": "https://i.vimeocdn.com/video/494185351_295x166.jpg",

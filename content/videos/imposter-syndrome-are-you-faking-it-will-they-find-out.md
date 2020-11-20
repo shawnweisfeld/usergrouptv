@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "imposter-syndrome-are-you-faking-it-will-they-find-out",
   "abstract": "<p>Have you ever thought to yourself  “All these people think I’m smarter than I really am\" or \"I really don’t know what I’m doing, they're going to figure out I'm a fraud!”  If yes, then you suffer from the Impostor Syndrome. And despite all the accomplishments, awards and accolades, you still doubt yourself. It’s rampant in the modern day tech workplace, and the fear will make you shrink back from opportunities. You dismiss praise. You overcompensate by working harder, being charming and demanding perfection from yourself. What would happen if you were released from this bondage, and kicked your impostor to the curb? In this session, learn 3 powerful techniques that can help to improve your confidence and silent that annoying voice in your head!</p>",
+  "description": "<p>Have you ever thought to yourself  “All these people think I’m smarter than I really am\" or \"I really don’t know what I’m doing, they're going to figure out I'm a fraud!”  If yes, then you suffer from the Impostor Syndrome. And despite all the accomplishments, awards and accolades, you still doubt yourself. It’s rampant in the modern day tech workplace, and the fear will make you shrink back from opportunities. You dismiss praise. You overcompensate by working harder, being charming and demanding perfection from yourself. What would happen if you were released from this bondage, and kicked your impostor to the curb? In this session, learn 3 powerful techniques that can help to improve your confidence and silent that annoying voice in your head!</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/587192849_295x166.jpg"
+  ],
   "vimeo": "179315872",
   "moreinfo": "http://www.sqlsaturday.com/550/Sessions/Details.aspx?sid=49202",
   "thumbnail": "https://i.vimeocdn.com/video/587192849_295x166.jpg",

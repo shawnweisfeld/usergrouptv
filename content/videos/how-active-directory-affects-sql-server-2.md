@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "how-active-directory-affects-sql-server-2",
   "abstract": "<p>If you have ever had a Kerberos or SSPI context error, then you won't want to miss this session. SQL Server has a large surface area and Active Directory can influence a big part of it. I will discuss AD DNS configuration, Group Policy Objects, Kerberos (of course), and how all of them affect your SQL Server. By the end of the session you'll have a check list of things to discuss with your domain administrator when you return to work.\r\n\r\n</p>",
+  "description": "<p>If you have ever had a Kerberos or SSPI context error, then you won't want to miss this session. SQL Server has a large surface area and Active Directory can influence a big part of it. I will discuss AD DNS configuration, Group Policy Objects, Kerberos (of course), and how all of them affect your SQL Server. By the end of the session you'll have a check list of things to discuss with your domain administrator when you return to work.\r\n\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/505666855_295x166.jpg"
+  ],
   "vimeo": "118594430",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=25949",
   "thumbnail": "https://i.vimeocdn.com/video/505666855_295x166.jpg",

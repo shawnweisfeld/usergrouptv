@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "dozens-of-new-product-announcements-a-msft-solutions-pros-take-on-msft-ignite",
   "abstract": "<p>Now that Microsoft Ignite 2018 has come and gone, Microsoft's putting together a whirlwind tour of the innovations and announcements from the event, with a focus on collaboration. Join James Hammonds, Microsoft Technical Solutions Professional, who will be our tour guide. From Azure Active Directory to Yammer, we will review session highlights and what they mean for you as IT Pros and Information Workers.</p>",
+  "description": "<p>Now that Microsoft Ignite 2018 has come and gone, Microsoft's putting together a whirlwind tour of the innovations and announcements from the event, with a focus on collaboration. Join James Hammonds, Microsoft Technical Solutions Professional, who will be our tour guide. From Azure Active Directory to Yammer, we will review session highlights and what they mean for you as IT Pros and Information Workers.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/739798321_295x166.jpg"
+  ],
   "vimeo": "301276034",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/lsljlmyxpbsb/",
   "thumbnail": "https://i.vimeocdn.com/video/739798321_295x166.jpg",

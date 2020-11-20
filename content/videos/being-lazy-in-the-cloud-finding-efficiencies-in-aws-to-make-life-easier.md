@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "being-lazy-in-the-cloud-finding-efficiencies-in-aws-to-make-life-easier",
   "abstract": "<p>AWS provides a wide array of tools and methodologies for hosting your infrastructure in the cloud. Out of the box, however, I've found myself wishing things that should be simple would be just that...simple! I'll walk you through some of the inefficiencies encountered by the normal user and how to overcome those. I'll show you some examples of AWS-provided time savers as well as some home-grown processes. I'll provide any code I demo on my github account for use after my talk and will provide links to write-ups on how to perform each task I demo. Did I mention I will demo each of these LIVE?</p>",
+  "description": "<p>AWS provides a wide array of tools and methodologies for hosting your infrastructure in the cloud. Out of the box, however, I've found myself wishing things that should be simple would be just that...simple! I'll walk you through some of the inefficiencies encountered by the normal user and how to overcome those. I'll show you some examples of AWS-provided time savers as well as some home-grown processes. I'll provide any code I demo on my github account for use after my talk and will provide links to write-ups on how to perform each task I demo. Did I mention I will demo each of these LIVE?</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/660639439_295x166.jpg"
+  ],
   "vimeo": "238051446",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660639439_295x166.jpg",

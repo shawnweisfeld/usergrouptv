@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "building-full-stack-solutions-with-c-asp-net-core-3-0",
   "abstract": "<p>ASP.NET Core 3.0 contains new features for building modern web applications and services. In this session, we'll show you how to use ASP.NET Core 3.0 to build full-stack solutions using the latest versions of C# and the .net Core 3.0 Framework. We will take a lap around .net Core 3.0, and dive into Blazor, Worker Services and gRPC.</p>",
+  "description": "<p>ASP.NET Core 3.0 contains new features for building modern web applications and services. In this session, we'll show you how to use ASP.NET Core 3.0 to build full-stack solutions using the latest versions of C# and the .net Core 3.0 Framework. We will take a lap around .net Core 3.0, and dive into Blazor, Worker Services and gRPC.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/807050783_295x166.jpg"
+  ],
   "vimeo": "354514510",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/263857075/",
   "thumbnail": "https://i.vimeocdn.com/video/807050783_295x166.jpg",

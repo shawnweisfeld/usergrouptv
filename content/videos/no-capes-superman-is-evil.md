@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "no-capes-superman-is-evil",
   "abstract": "<p>Have you ever been called upon to swoop in and save the day? I am firmly of the belief that Superman is bad for any team, and any organization. Sometimes projects get behind, but we must learn to temper the desire to have someone, anyone, “save a project” with a realistic need to teach the organization how not have such situations occur again. Come learn some important techniques on how to take off the cape, and teach your teams how to fly without them.\r\n</p>",
+  "description": "<p>Have you ever been called upon to swoop in and save the day? I am firmly of the belief that Superman is bad for any team, and any organization. Sometimes projects get behind, but we must learn to temper the desire to have someone, anyone, “save a project” with a realistic need to teach the organization how not have such situations occur again. Come learn some important techniques on how to take off the cape, and teach your teams how to fly without them.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/486705286_295x166.jpg"
+  ],
   "vimeo": "104228778",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486705286_295x166.jpg",

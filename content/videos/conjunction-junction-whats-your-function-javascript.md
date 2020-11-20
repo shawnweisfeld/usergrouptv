@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "conjunction-junction-whats-your-function-javascript",
   "abstract": "<p>An Entire Session on functions in JavaScript. Yep, you heard right, an hour full of bad jokes, horrible puns, internet memes, and completely unrelated references to school house rock. Oh and of course JavaScript.</p>",
+  "description": "<p>An Entire Session on functions in JavaScript. Yep, you heard right, an hour full of bad jokes, horrible puns, internet memes, and completely unrelated references to school house rock. Oh and of course JavaScript.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495138792_295x166.jpg"
+  ],
   "vimeo": "110771091",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/495138792_295x166.jpg",

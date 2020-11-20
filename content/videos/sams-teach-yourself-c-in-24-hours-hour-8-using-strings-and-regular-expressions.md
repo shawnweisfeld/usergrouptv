@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sams-teach-yourself-c-in-24-hours-hour-8-using-strings-and-regular-expressions",
   "abstract": "<p>In this talk we will be covering Hour 8, Strings and Regular Expressions, of C# in 24 Hours by Scott Dorman</p>",
+  "description": "<p>In this talk we will be covering Hour 8, Strings and Regular Expressions, of C# in 24 Hours by Scott Dorman</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/500554314_295x166.jpg"
+  ],
   "vimeo": "114765632",
   "moreinfo": "http://ntpcug.org/",
   "thumbnail": "https://i.vimeocdn.com/video/500554314_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "design-time-data",
   "abstract": "<p>\r\nLorem ipsum dolor sint.\r\n</p><p>\r\nYou're building the next great app. You've gotten down to the last few tweaks. It's really close!\r\n</p><p>\r\nBut every time you make a change, you have to run the app to see how it works. That text block looked good in the designer, but it's too short for the content. The spacing between list box items is way too close. Aaaaarg!\r\n</p><p>\r\nIf you use design time data, you can see what the app will look like as you go. You can get the trivial stuff out of the way, and make more changes betweeen runs.\r\n</p><p>\r\nWe'll practice design time data techniques from mockup through final polishing. In particular, we will use:\r\n</p>\r\n\r\n<ul><li>\r\nIn-place data</li><li>\r\nSample data</li><li>\r\nDesign mode view models</li><li>\r\nDesign mode models</li><li>\r\n</li></ul>\r\n<p>\r\nAdd these techniques into any phase of the app to make design go much more quickly.\r\n</p>",
+  "description": "<p>\r\nLorem ipsum dolor sint.\r\n</p><p>\r\nYou're building the next great app. You've gotten down to the last few tweaks. It's really close!\r\n</p><p>\r\nBut every time you make a change, you have to run the app to see how it works. That text block looked good in the designer, but it's too short for the content. The spacing between list box items is way too close. Aaaaarg!\r\n</p><p>\r\nIf you use design time data, you can see what the app will look like as you go. You can get the trivial stuff out of the way, and make more changes betweeen runs.\r\n</p><p>\r\nWe'll practice design time data techniques from mockup through final polishing. In particular, we will use:\r\n</p>\r\n\r\n<ul><li>\r\nIn-place data</li><li>\r\nSample data</li><li>\r\nDesign mode view models</li><li>\r\nDesign mode models</li><li>\r\n</li></ul>\r\n<p>\r\nAdd these techniques into any phase of the app to make design go much more quickly.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/484300667_295x166.jpg"
+  ],
   "vimeo": "102318615",
   "moreinfo": "http://dallasxaml.com/",
   "thumbnail": "https://i.vimeocdn.com/video/484300667_295x166.jpg",

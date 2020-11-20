@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "wordpress-for-non-profits",
   "abstract": "<p>In this session Chris will cover the basics of using WordPress as a non-profit</p>",
+  "description": "<p>In this session Chris will cover the basics of using WordPress as a non-profit</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/494181109_295x166.jpg"
+  ],
   "vimeo": "110066090",
   "moreinfo": "http://www.dallasgivecamp.org",
   "thumbnail": "https://i.vimeocdn.com/video/494181109_295x166.jpg",

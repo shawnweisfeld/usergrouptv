@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "faster-food-and-a-better-place-to-sleep-applying-agile-outside-software",
   "abstract": "<p>Agile methods aren't just for software anymore. Actually, they haven't been just for software for quite a while now. That said, the types of companies, and the types of industries, that are exploring team-based, collaborative, iterative, and incremental approaches to do their work is rather breathtaking. Agile is truly going mainstream. The question at hand is can we apply team-based Agile straight out of the box in a non-software context? Can we take our scaled Agile approaches and apply them without modification? Mike's experience is that most of the principles and patterns apply, but sometimes the practices and frameworks need modification for a particular context.\r\n</p>",
+  "description": "<p>Agile methods aren't just for software anymore. Actually, they haven't been just for software for quite a while now. That said, the types of companies, and the types of industries, that are exploring team-based, collaborative, iterative, and incremental approaches to do their work is rather breathtaking. Agile is truly going mainstream. The question at hand is can we apply team-based Agile straight out of the box in a non-software context? Can we take our scaled Agile approaches and apply them without modification? Mike's experience is that most of the principles and patterns apply, but sometimes the practices and frameworks need modification for a particular context.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/703347369_295x166.jpg"
+  ],
   "vimeo": "271923371",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703347369_295x166.jpg",

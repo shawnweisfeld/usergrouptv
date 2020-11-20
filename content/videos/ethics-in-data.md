@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "ethics-in-data",
   "abstract": "<p>This session will explore a variety of considerations that modern data scientists and data practictioners must account for when gathering and presenting data, including topics on bias, construct analysis, and machine learning.</p>",
+  "description": "<p>This session will explore a variety of considerations that modern data scientists and data practictioners must account for when gathering and presenting data, including topics on bias, construct analysis, and machine learning.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/854624827_295x166.jpg"
+  ],
   "vimeo": "390485635",
   "moreinfo": "https://www.sqlsaturday.com/939/Sessions/Details.aspx?sid=99228",
   "thumbnail": "https://i.vimeocdn.com/video/854624827_295x166.jpg",

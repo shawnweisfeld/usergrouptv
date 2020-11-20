@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "dba-survival-guide-daily-checklist-and-server-monitoring",
   "abstract": "<p>You are responsible for the health and welfare of the servers, and the databases under your command. What should you check daily? How about weekly? Should you automate? We will discuss all these things, and how having a Daily Checklist, and monitoring your server will help you maintain balance in the galaxy.</p>",
+  "description": "<p>You are responsible for the health and welfare of the servers, and the databases under your command. What should you check daily? How about weekly? Should you automate? We will discuss all these things, and how having a Daily Checklist, and monitoring your server will help you maintain balance in the galaxy.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/561392072_295x166.jpg"
+  ],
   "vimeo": "159605493",
   "moreinfo": "http://cactuss.sqlpass.org/Home.aspx?EventID=4561",
   "thumbnail": "https://i.vimeocdn.com/video/561392072_295x166.jpg",

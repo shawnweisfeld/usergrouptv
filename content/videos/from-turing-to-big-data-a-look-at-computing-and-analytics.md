@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "from-turing-to-big-data-a-look-at-computing-and-analytics",
   "abstract": "<p>A look at where computing and analytics began and where it is headed.\r\nThe basis of all DevOps and development starts with our measurements. We need to understand what role analytics and metrics plays in modern computing. To find out, we look at where analytics began in the advent of computer science and where we stand today, with an eye toward the future.</p>",
+  "description": "<p>A look at where computing and analytics began and where it is headed.\r\nThe basis of all DevOps and development starts with our measurements. We need to understand what role analytics and metrics plays in modern computing. To find out, we look at where analytics began in the advent of computer science and where we stand today, with an eye toward the future.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/660638605_295x166.jpg"
+  ],
   "vimeo": "238050852",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660638605_295x166.jpg",

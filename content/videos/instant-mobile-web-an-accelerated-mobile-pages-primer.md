@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "instant-mobile-web-an-accelerated-mobile-pages-primer",
   "abstract": "<p>In Oct 2016, mobile and tablet internet usage exceeded desktop for the first time worldwide! With over 50% of your users on their phones, is your web app optimised for them? Accelerated Mobile Pages (AMP)(https://www.ampproject.org/) is an open-source initiative, a Javascript library for building lightening speed mobile web apps. As of May 2017, there are over 2billion AMP pages and growing! The Washington Post, eBay, Airbnb - these are just some companies who are using AMP in their web products. We will look under the hood and learn about how AMP optimizes mobile web performance with resource allocation, invisible ink, sandbox iFrames and more. Attendees will learn about what makes AMP pages lightning fast on mobile, and get up and running with a code demo.</p>",
+  "description": "<p>In Oct 2016, mobile and tablet internet usage exceeded desktop for the first time worldwide! With over 50% of your users on their phones, is your web app optimised for them? Accelerated Mobile Pages (AMP)(https://www.ampproject.org/) is an open-source initiative, a Javascript library for building lightening speed mobile web apps. As of May 2017, there are over 2billion AMP pages and growing! The Washington Post, eBay, Airbnb - these are just some companies who are using AMP in their web products. We will look under the hood and learn about how AMP optimizes mobile web performance with resource allocation, invisible ink, sandbox iFrames and more. Attendees will learn about what makes AMP pages lightning fast on mobile, and get up and running with a code demo.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/660020061_295x166.jpg"
+  ],
   "vimeo": "237570872",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660020061_295x166.jpg",

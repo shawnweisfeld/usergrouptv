@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "time-intelligence-with-excel-power-pivot",
   "abstract": "<p>This session will demonstrate how to incorporate advanced Time Intelligence into your Power Pivot model. We’ll utilize Data Analysis eXpressions language (DAX) to build calculations such as Month to Date, Year to Date, Year over Year, etc. We’ll also be covering reporting best practices for trending and comparative data. You’ll soon be ready to quickly and accurately report up current and past performance metrics to help the decisions makers make more informed and up-to-date decisions.</p>",
+  "description": "<p>This session will demonstrate how to incorporate advanced Time Intelligence into your Power Pivot model. We’ll utilize Data Analysis eXpressions language (DAX) to build calculations such as Month to Date, Year to Date, Year over Year, etc. We’ll also be covering reporting best practices for trending and comparative data. You’ll soon be ready to quickly and accurately report up current and past performance metrics to help the decisions makers make more informed and up-to-date decisions.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/482637734_295x166.jpg"
+  ],
   "vimeo": "100979501",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=305&sessionid=21931",
   "thumbnail": "https://i.vimeocdn.com/video/482637734_295x166.jpg",

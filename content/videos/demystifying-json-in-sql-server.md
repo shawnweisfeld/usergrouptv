@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "demystifying-json-in-sql-server",
   "abstract": "<p>JavaScript Object Notation (JSON) is a highly popular format for storing and transferring data, especially in the realm of web development. JSON can sometimes be intimidating for those more familiar with tabular or XML data exchange formats. We’ll demystify JSON with a high-level overview of the format. We’ll then discuss the variety of built-in T-SQL functionality available to store, query, or even generate JSON within your SQL Server databases.\r\n</p>",
+  "description": "<p>JavaScript Object Notation (JSON) is a highly popular format for storing and transferring data, especially in the realm of web development. JSON can sometimes be intimidating for those more familiar with tabular or XML data exchange formats. We’ll demystify JSON with a high-level overview of the format. We’ll then discuss the variety of built-in T-SQL functionality available to store, query, or even generate JSON within your SQL Server databases.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/722234970_295x166.jpg"
+  ],
   "vimeo": "287161066",
   "moreinfo": "http://www.sqlsaturday.com/794/Sessions/Details.aspx?sid=84078",
   "thumbnail": "https://i.vimeocdn.com/video/722234970_295x166.jpg",

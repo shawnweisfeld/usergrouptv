@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "behold-the-power-of-the-ppo",
   "abstract": "<p>Hint – this session is not about health coverage. Instead, it is about a development team role called the “Proxy Product Owner” which acts as part product owner, part architect, part business analyst, part UI/UX designer, part QA engineer, part project manager, and 100% difference-maker. Come learn about this illusive, yet critically important role. The session will cover the important aspects of this role, how it interacts with the rest of a software development team, and whether or not it is the right career path for you!\r\n</p>",
+  "description": "<p>Hint – this session is not about health coverage. Instead, it is about a development team role called the “Proxy Product Owner” which acts as part product owner, part architect, part business analyst, part UI/UX designer, part QA engineer, part project manager, and 100% difference-maker. Come learn about this illusive, yet critically important role. The session will cover the important aspects of this role, how it interacts with the rest of a software development team, and whether or not it is the right career path for you!\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/537387571_295x166.jpg"
+  ],
   "vimeo": "140730504",
   "moreinfo": "http://measureup2015.azurewebsites.net/behold-the-power-of-the-ppo/",
   "thumbnail": "https://i.vimeocdn.com/video/537387571_295x166.jpg",

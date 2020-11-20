@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sql-saturday-dallas-bi-edition-2017-keynote",
   "abstract": "<p>Welcome and Keynote</p>",
+  "description": "<p>Welcome and Keynote</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/626869534_295x166.jpg"
+  ],
   "vimeo": "210947880",
   "moreinfo": "http://www.sqlsaturday.com/603/Sessions/Schedule.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/626869534_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "tim-costello-with-interworks-tableau-delivering-self-serve-bi",
   "abstract": "<p>Intro to Tableau</p>",
+  "description": "<p>Intro to Tableau</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/483489271_295x166.jpg"
+  ],
   "vimeo": "101660276",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=223&sessionid=17464",
   "thumbnail": "https://i.vimeocdn.com/video/483489271_295x166.jpg",

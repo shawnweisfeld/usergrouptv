@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "what-and-why-of-the-technology-changing-the-world-node-js",
   "abstract": "<p>Node.js seems to have taken hold in the last couple of years and provided a new class of web applications to take root. In this talk we will go over what and why people are using Node.js as well as an introduction to get you started using Node.js today.</p>",
+  "description": "<p>Node.js seems to have taken hold in the last couple of years and provided a new class of web applications to take root. In this talk we will go over what and why people are using Node.js as well as an introduction to get you started using Node.js today.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485963724_295x166.jpg"
+  ],
   "vimeo": "103661386",
   "moreinfo": "http://techfests.com/Tulsa/2012/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/485963724_295x166.jpg",

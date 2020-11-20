@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "beginning-azure",
   "abstract": "<p>The cloud is here! Are you ready?  Microsoft, Amazon and others are all vying for your cloud attention.  In this session, we will review the different types of cloud platforms available and what they mean to you.  We will pay close attention to Microsoft’s Azure platform that offers two hosting solutions.  What are these hosting options and what are the differences between them?  Most importantly, how do I get started with all of this cloud business?  Let's put SQL Server into the cloud!</p>",
+  "description": "<p>The cloud is here! Are you ready?  Microsoft, Amazon and others are all vying for your cloud attention.  In this session, we will review the different types of cloud platforms available and what they mean to you.  We will pay close attention to Microsoft’s Azure platform that offers two hosting solutions.  What are these hosting options and what are the differences between them?  Most importantly, how do I get started with all of this cloud business?  Let's put SQL Server into the cloud!</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/570946679_295x166.jpg"
+  ],
   "vimeo": "166788757",
   "moreinfo": "http://www.sqlsaturday.com/514/Sessions/Details.aspx?sid=44903",
   "thumbnail": "https://i.vimeocdn.com/video/570946679_295x166.jpg",

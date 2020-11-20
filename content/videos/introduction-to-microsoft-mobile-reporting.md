@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "introduction-to-microsoft-mobile-reporting",
   "abstract": "<p>This is a must attend session for every data professional.  Join me as I provide an overview of Microsoft Mobile Reporting, Microsofts newly acquired on-premises mobile BI solution.  Mobile Reporting is optimized for SQL Server and designed to enable rapid development and publishing of business intelligence in a way that delivers premium user experience on any device.  In this session I will provide an overview of Mobile Reporting, discuss its key features, provide an architectural overview and finally demonstrate how to author and publish dashboards.</p>",
+  "description": "<p>This is a must attend session for every data professional.  Join me as I provide an overview of Microsoft Mobile Reporting, Microsofts newly acquired on-premises mobile BI solution.  Mobile Reporting is optimized for SQL Server and designed to enable rapid development and publishing of business intelligence in a way that delivers premium user experience on any device.  In this session I will provide an overview of Mobile Reporting, discuss its key features, provide an architectural overview and finally demonstrate how to author and publish dashboards.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/571063222_295x166.jpg"
+  ],
   "vimeo": "166881979",
   "moreinfo": "http://www.sqlsaturday.com/514/Sessions/Details.aspx?sid=46872",
   "thumbnail": "https://i.vimeocdn.com/video/571063222_295x166.jpg",

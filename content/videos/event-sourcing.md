@@ -10,6 +10,10 @@
   "draft": false,
   "slug": "event-sourcing",
   "abstract": "<p>Trying to compromise the complexity of a database schema for read purposes while retaining any of the benefits of its relational nature often results in all of the pain and none of the gain.</p>\r\n<p>One excellent way to speed up reads while allowing for complex writes is to maintain two datastores.  One for reads and one for writes.  This is what CQRS addresses and what I will be exploring in this talk. I will be covering how to keep datastores in sync, how the domain can facilitates that, and new datastores, such as EventStore, that become available when you embrace this way of thinking.</p>\r\n<p>DDD/CQRS/ES in a nutshell.</p>",
+  "description": "<p>Trying to compromise the complexity of a database schema for read purposes while retaining any of the benefits of its relational nature often results in all of the pain and none of the gain.</p>\r\n<p>One excellent way to speed up reads while allowing for complex writes is to maintain two datastores.  One for reads and one for writes.  This is what CQRS addresses and what I will be exploring in this talk. I will be covering how to keep datastores in sync, how the domain can facilitates that, and new datastores, such as EventStore, that become available when you embrace this way of thinking.</p>\r\n<p>DDD/CQRS/ES in a nutshell.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/514882019_295x166.jpg"
+  ],
   "vimeo": "124960669",
   "moreinfo": "http://adnug.org/Home/april-13-2015-event-sourcing/",
   "thumbnail": "https://i.vimeocdn.com/video/514882019_295x166.jpg",

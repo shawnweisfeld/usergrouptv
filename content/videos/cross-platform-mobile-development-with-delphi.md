@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "cross-platform-mobile-development-with-delphi",
   "abstract": "<p>With Delphi XE 6, you can develop an application that can run on Windows, Mac OS X, iOS, and Android. All from a single IDE. In this session, I'll give an introduction to using Delphi XE 6 to do just that. For each platform, I'll demonstrate how to build, deploy, and debug a sample application.</p>",
+  "description": "<p>With Delphi XE 6, you can develop an application that can run on Windows, Mac OS X, iOS, and Android. All from a single IDE. In this session, I'll give an introduction to using Delphi XE 6 to do just that. For each platform, I'll demonstrate how to build, deploy, and debug a sample application.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/490861399_295x166.jpg"
+  ],
   "vimeo": "107458711",
   "moreinfo": "http://lrtechfest.com/speakers#jon-robertson",
   "thumbnail": "https://i.vimeocdn.com/video/490861399_295x166.jpg",

@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "monitoring-options-for-azure",
   "abstract": "<p>Learn what options exist for monitoring workloads in Azure using Azure native tools. What monitoring options exist for Applications, infrastructure, and time series.</p>",
+  "description": "<p>Learn what options exist for monitoring workloads in Azure using Azure native tools. What monitoring options exist for Applications, infrastructure, and time series.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/745979214_295x166.jpg"
+  ],
   "vimeo": "306272170",
   "moreinfo": "https://www.meetup.com/azureaustin/events/256066908/",
   "thumbnail": "https://i.vimeocdn.com/video/745979214_295x166.jpg",

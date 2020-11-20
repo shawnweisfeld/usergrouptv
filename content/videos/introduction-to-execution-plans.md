@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "introduction-to-execution-plans",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/661278314_295x166.jpg"
+  ],
   "vimeo": "238551942",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/661278314_295x166.jpg",

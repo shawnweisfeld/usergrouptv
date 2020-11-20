@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "alwayson-live-deployment",
   "abstract": "<p>This session is 90% live demonstrations. I'll walk you through a complete AlwaysOn deployment. You will see firsthand how to install and configure an AlwaysOn Failover Cluster. I'll also show you how to setup an AlwaysOn Availability Group across 5 nodes using both the GUI and T-SQL so you know why and when to use each method. I'll finish up by showing how you can connect to a readable secondary.</p>",
+  "description": "<p>This session is 90% live demonstrations. I'll walk you through a complete AlwaysOn deployment. You will see firsthand how to install and configure an AlwaysOn Failover Cluster. I'll also show you how to setup an AlwaysOn Availability Group across 5 nodes using both the GUI and T-SQL so you know why and when to use each method. I'll finish up by showing how you can connect to a readable secondary.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/505670140_295x166.jpg"
+  ],
   "vimeo": "118596820",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=25948",
   "thumbnail": "https://i.vimeocdn.com/video/505670140_295x166.jpg",

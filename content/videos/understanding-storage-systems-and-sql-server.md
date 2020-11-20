@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "understanding-storage-systems-and-sql-server",
   "abstract": "<p>The most important part of your SQL Server is also the slowest, Storage. This talk will take you through the fundamentals of your server's Disk I/O System. This session should give you a solid foundation over storage systems and help you understand why they are slow and how to overcome some of their limitations. We will cover the basics of computer systems, hard disks and disk controllers. Next, we will move to the fundamentals of RAID and how to configure your arrays for performance and reliability. Later, we will discuss the relationship between SQL Server and the file system, what is required for SQL Server and how to configure the file system for optimal performance. Finally, we will touch on how to monitor the performance and health of</p>",
+  "description": "<p>The most important part of your SQL Server is also the slowest, Storage. This talk will take you through the fundamentals of your server's Disk I/O System. This session should give you a solid foundation over storage systems and help you understand why they are slow and how to overcome some of their limitations. We will cover the basics of computer systems, hard disks and disk controllers. Next, we will move to the fundamentals of RAID and how to configure your arrays for performance and reliability. Later, we will discuss the relationship between SQL Server and the file system, what is required for SQL Server and how to configure the file system for optimal performance. Finally, we will touch on how to monitor the performance and health of</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495923011_295x166.jpg"
+  ],
   "vimeo": "111341610",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/495923011_295x166.jpg",

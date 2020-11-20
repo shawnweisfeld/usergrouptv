@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "validation-with-ria-services",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/499120864_295x166.jpg"
+  ],
   "vimeo": "113706219",
   "moreinfo": "http://dallasxaml.com/",
   "thumbnail": "https://i.vimeocdn.com/video/499120864_295x166.jpg",

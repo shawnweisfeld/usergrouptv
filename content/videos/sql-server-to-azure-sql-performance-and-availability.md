@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sql-server-to-azure-sql-performance-and-availability",
   "abstract": "You’ve been responsible for getting your SQL Server fast, keeping it fast, and making it highly available. In this session, you'll learn about the choices you make in Azure SQL and how they affect your performance and availability. We'll also show you how you can translate your existing SQL Server skills and apply them to Azure SQL.",
+  "description": "You’ve been responsible for getting your SQL Server fast, keeping it fast, and making it highly available. In this session, you'll learn about the choices you make in Azure SQL and how they affect your performance and availability. We'll also show you how you can translate your existing SQL Server skills and apply them to Azure SQL.",
+  "images": [
+    "https://i.vimeocdn.com/video/999191466_295x166.jpg"
+  ],
   "vimeo": "481864688",
   "moreinfo": "https://www.meetup.com/azureaustin/events/273255245/",
   "thumbnail": "https://i.vimeocdn.com/video/999191466_295x166.jpg",

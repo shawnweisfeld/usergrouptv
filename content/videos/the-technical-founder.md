@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-technical-founder",
   "abstract": "<p>During your tech career, at some point you're likely to want to try a startup. As a Technologist, you'll have lots of opportunities and the thrill and potential rewards are great. But while there's a lot of information around \"Startups\" in general, there can be an amazing lack of discussion around what it means to be a technical founder or co-founder. In this session, I'll go over some of the things I've witnessed myself as one of Microsoft's Startup Evangelists and a Startup Technical Founder and Co-Founder myself. Bring questions and your own observations, I'll make sure there will be plenty of time for Q&A as well.</p>",
+  "description": "<p>During your tech career, at some point you're likely to want to try a startup. As a Technologist, you'll have lots of opportunities and the thrill and potential rewards are great. But while there's a lot of information around \"Startups\" in general, there can be an amazing lack of discussion around what it means to be a technical founder or co-founder. In this session, I'll go over some of the things I've witnessed myself as one of Microsoft's Startup Evangelists and a Startup Technical Founder and Co-Founder myself. Bring questions and your own observations, I'll make sure there will be plenty of time for Q&A as well.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/593959626_295x166.jpg"
+  ],
   "vimeo": "184505491",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/593959626_295x166.jpg",

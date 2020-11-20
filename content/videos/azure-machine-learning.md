@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "azure-machine-learning",
   "abstract": "<p>In this talk David will talk about Azure Machine Learning a Powerful cloud-based predictive analytics.</p>",
+  "description": "<p>In this talk David will talk about Azure Machine Learning a Powerful cloud-based predictive analytics.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/511724609_295x166.jpg"
+  ],
   "vimeo": "122661656",
   "moreinfo": "http://www.meetup.com/azureaustin/events/220807679/",
   "thumbnail": "https://i.vimeocdn.com/video/511724609_295x166.jpg",

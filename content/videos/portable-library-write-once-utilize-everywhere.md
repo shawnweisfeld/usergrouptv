@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "portable-library-write-once-utilize-everywhere",
   "abstract": "<p>Yes, it is possible to develop, using C# or VB, a core set of libraries that can be leveraged across WinRT, WinForms, WPF, Silverlight, ASP.NET, Windows Phone, Mono (Linux, Mac, Android, iOS). This can be done using Visual Studio 2010 (an extension) and Visual Studio 2012 (built in). In this talk, one of many methods will demonstrate how the core of an application is built and leveraged across Windows Phone, Silverlight, WinForms and WinRT (Windows 8 Metro).\r\n</p>",
+  "description": "<p>Yes, it is possible to develop, using C# or VB, a core set of libraries that can be leveraged across WinRT, WinForms, WPF, Silverlight, ASP.NET, Windows Phone, Mono (Linux, Mac, Android, iOS). This can be done using Visual Studio 2010 (an extension) and Visual Studio 2012 (built in). In this talk, one of many methods will demonstrate how the core of an application is built and leveraged across Windows Phone, Silverlight, WinForms and WinRT (Windows 8 Metro).\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/489467230_295x166.jpg"
+  ],
   "vimeo": "106374583",
   "moreinfo": "http://northdallas.net/",
   "thumbnail": "https://i.vimeocdn.com/video/489467230_295x166.jpg",

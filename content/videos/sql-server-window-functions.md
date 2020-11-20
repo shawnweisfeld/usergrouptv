@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sql-server-window-functions",
   "abstract": "<p>Window functions are a great TSQL tool that will allow you to write simpler, more elegant code. They were first introduced in SQL 2005, and then expanded in SQL 2012. By using TSQL Window functions you can simply your code and make it easier to understand. They allow you to see both aggregations and details all at the same time. In this demo-centric session we will begin with the basics introduced in SQL 2005, then move on to examine the new functions that were added with SQL 2012.</p>",
+  "description": "<p>Window functions are a great TSQL tool that will allow you to write simpler, more elegant code. They were first introduced in SQL 2005, and then expanded in SQL 2012. By using TSQL Window functions you can simply your code and make it easier to understand. They allow you to see both aggregations and details all at the same time. In this demo-centric session we will begin with the basics introduced in SQL 2005, then move on to examine the new functions that were added with SQL 2012.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/570948261_295x166.jpg"
+  ],
   "vimeo": "166789422",
   "moreinfo": "http://www.sqlsaturday.com/514/Sessions/Details.aspx?sid=46986",
   "thumbnail": "https://i.vimeocdn.com/video/570948261_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "its-2018-why-arent-you-using-azure-search",
   "abstract": "<p>Open up your website. Click Search. Tell me, do you like what you see? Are you BLOWN AWAY at the functionality? Does it return the exact results you were looking for, and let you customize what you see? I’m betting that there’s more than a little room for improvement. Don’t worry, most people are in the same boat. What if I told you could build amazing search experiences with just a little bit of code – all backed by Microsoft’s Cloud? By implementing Azure Search into your sites, you can quickly provide result faceting, inline highlighting, synonym mapping, and even customized text analyzers. My name is Bryan Soltis and I’m a Technical Evangelist at Kentico and Microsoft Azure MVP. In this session, I’m going to introduce you to this often-overlooked cousin of the Azure family and show you how to build some amazing search solutions. And maybe a few Simpsons quotes along the way!\r\n</p>",
+  "description": "<p>Open up your website. Click Search. Tell me, do you like what you see? Are you BLOWN AWAY at the functionality? Does it return the exact results you were looking for, and let you customize what you see? I’m betting that there’s more than a little room for improvement. Don’t worry, most people are in the same boat. What if I told you could build amazing search experiences with just a little bit of code – all backed by Microsoft’s Cloud? By implementing Azure Search into your sites, you can quickly provide result faceting, inline highlighting, synonym mapping, and even customized text analyzers. My name is Bryan Soltis and I’m a Technical Evangelist at Kentico and Microsoft Azure MVP. In this session, I’m going to introduce you to this often-overlooked cousin of the Azure family and show you how to build some amazing search solutions. And maybe a few Simpsons quotes along the way!\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/739778084_295x166.jpg"
+  ],
   "vimeo": "301259306",
   "moreinfo": "https://www.meetup.com/azureaustin/events/255584388/",
   "thumbnail": "https://i.vimeocdn.com/video/739778084_295x166.jpg",

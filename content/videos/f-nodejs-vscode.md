@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "f-nodejs-vscode",
   "abstract": "<p>This month Chet will show us how to use F# and NodeJS to build a plugin for VS Code.</p>",
+  "description": "<p>This month Chet will show us how to use F# and NodeJS to build a plugin for VS Code.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/770998697_295x166.jpg"
+  ],
   "vimeo": "326877136",
   "moreinfo": "https://www.meetup.com/Austin-F-Meetup/events/mbscmqyzfbcc/",
   "thumbnail": "https://i.vimeocdn.com/video/770998697_295x166.jpg",

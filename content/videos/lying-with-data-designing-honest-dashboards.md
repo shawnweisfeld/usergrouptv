@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "lying-with-data-designing-honest-dashboards",
   "abstract": "<p>Unfortunately data can lie, and it’s not even intentional. Everyone from business owners to consumers want insights from the software they use daily. But how can we make sure that the data is being visualized accurately and effectively? Learn how to craft honest and insightful dashboards by avoiding common pitfalls inherent with data visualization. This design centric presentation goes through the entire process of dashboard design including: data visualization, creating a color palette, accessibility, and working with data. </p>",
+  "description": "<p>Unfortunately data can lie, and it’s not even intentional. Everyone from business owners to consumers want insights from the software they use daily. But how can we make sure that the data is being visualized accurately and effectively? Learn how to craft honest and insightful dashboards by avoiding common pitfalls inherent with data visualization. This design centric presentation goes through the entire process of dashboard design including: data visualization, creating a color palette, accessibility, and working with data. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/660008423_295x166.jpg"
+  ],
   "vimeo": "237560384",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660008423_295x166.jpg",

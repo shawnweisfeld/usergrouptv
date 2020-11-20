@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "leveraging-the-sql-server-data-tools-to-ease-database-development-for-the-net-developer-2",
   "abstract": "<p>Working with SQL is a chore for most .NET developers. In this session we will take a look at the SQL Server Data Tools in Visual Studio and how we can leverage them to make your life as a developer a bit easier.\r\n</p>",
+  "description": "<p>Working with SQL is a chore for most .NET developers. In this session we will take a look at the SQL Server Data Tools in Visual Studio and how we can leverage them to make your life as a developer a bit easier.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/481994117_295x166.jpg"
+  ],
   "vimeo": "100491279",
   "moreinfo": "http://speakerrate.com/talks/32751-ddnug-leveraging-the-sql-server-data-tools-to-ease-database-development-for-the-net-developer",
   "thumbnail": "https://i.vimeocdn.com/video/481994117_295x166.jpg",

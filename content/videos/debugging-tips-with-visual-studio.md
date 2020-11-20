@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "debugging-tips-with-visual-studio",
   "abstract": "<p>You'll learn how to leverage tools provided in Visual Studio to increase your basic debugging skills.\r\n</p>",
+  "description": "<p>You'll learn how to leverage tools provided in Visual Studio to increase your basic debugging skills.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/486707051_295x166.jpg"
+  ],
   "vimeo": "104230257",
   "moreinfo": "http://techfests.com/Tulsa/2014/Speakers/SeanWhitesell/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/486707051_295x166.jpg",

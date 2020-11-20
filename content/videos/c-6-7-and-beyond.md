@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "c-6-7-and-beyond",
   "abstract": "<p>This session will focus on new language features enabled with the Roslyn compilers and will look at C# 6 - 8.</p>",
+  "description": "<p>This session will focus on new language features enabled with the Roslyn compilers and will look at C# 6 - 8.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/732109736_295x166.jpg"
+  ],
   "vimeo": "295054992",
   "moreinfo": "https://www.devfestweekend.com/schedule",
   "thumbnail": "https://i.vimeocdn.com/video/732109736_295x166.jpg",

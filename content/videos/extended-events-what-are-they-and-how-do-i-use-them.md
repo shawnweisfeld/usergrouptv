@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "extended-events-what-are-they-and-how-do-i-use-them",
   "abstract": "<p>Extended Events are an essential part of properly monitoring and every DBA should know what they are and how to use them.  This session will cover the basics of Extended events as well as an introduction to the system_health session.  This session will give someone who has never used Extended events before the skills to start using them!</p>",
+  "description": "<p>Extended Events are an essential part of properly monitoring and every DBA should know what they are and how to use them.  This session will cover the basics of Extended events as well as an introduction to the system_health session.  This session will give someone who has never used Extended events before the skills to start using them!</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/702645343_295x166.jpg"
+  ],
   "vimeo": "271363666",
   "moreinfo": "http://www.sqlsaturday.com/734/Sessions/Details.aspx?sid=74059",
   "thumbnail": "https://i.vimeocdn.com/video/702645343_295x166.jpg",

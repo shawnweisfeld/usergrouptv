@@ -10,6 +10,10 @@
   "draft": false,
   "slug": "building-single-page-apps-with-aurelia-and-asp-net-core",
   "abstract": "<p>These days, the SPA framework space is crowded. Aurelia stands out from its contemporaries in a few important ways. Creating components using vanilla Javascript classes, leveraging convention to minimize development overhead, and future-proofing for upcoming technologies like Web Components are just a few of the advantages Aurelia offers. Come see how you can easily use Aurelia to create great single-page apps backed by the latest ASP.NET backend. We'll cover data binding, templating, dependency injection, custom HTML elements, and more.</p>",
+  "description": "<p>These days, the SPA framework space is crowded. Aurelia stands out from its contemporaries in a few important ways. Creating components using vanilla Javascript classes, leveraging convention to minimize development overhead, and future-proofing for upcoming technologies like Web Components are just a few of the advantages Aurelia offers. Come see how you can easily use Aurelia to create great single-page apps backed by the latest ASP.NET backend. We'll cover data binding, templating, dependency injection, custom HTML elements, and more.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/593960776_295x166.jpg"
+  ],
   "vimeo": "184506479",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/593960776_295x166.jpg",

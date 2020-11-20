@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "correspondence-building-occasionally-connected-out-of-browser-silverlight-applications",
   "abstract": "<p>Silverlight is not just a browser plug-in. It is a platform for delivering rich desktop applications. When used out-of-browser, it has access to isolated storage and the ability to run off-line. Correspondence helps you take advantage of these features. Correspondence automatically synchronizes your application's local data with other users and other devices. When you design your data model using its DSL, it generates both a local database and a network protocol. Then it gives you an object model to code against that seamlessly bridges local and remote. I'll walk you through the development of a collaborative application, Thought Cloud. We'll cover the following topics: The Facutal modeling language, The Community, The view model layer, Publish/subscribe communications, Good Silverlight citizenship (asynchronous behavior, network status, quota elevation).</p>",
+  "description": "<p>Silverlight is not just a browser plug-in. It is a platform for delivering rich desktop applications. When used out-of-browser, it has access to isolated storage and the ability to run off-line. Correspondence helps you take advantage of these features. Correspondence automatically synchronizes your application's local data with other users and other devices. When you design your data model using its DSL, it generates both a local database and a network protocol. Then it gives you an object model to code against that seamlessly bridges local and remote. I'll walk you through the development of a collaborative application, Thought Cloud. We'll cover the following topics: The Facutal modeling language, The Community, The view model layer, Publish/subscribe communications, Good Silverlight citizenship (asynchronous behavior, network status, quota elevation).</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/498430940_295x166.jpg"
+  ],
   "vimeo": "113196939",
   "moreinfo": "http://www.ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/498430940_295x166.jpg",

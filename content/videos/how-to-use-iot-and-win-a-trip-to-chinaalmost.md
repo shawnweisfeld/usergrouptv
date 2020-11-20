@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "how-to-use-iot-and-win-a-trip-to-chinaalmost",
   "abstract": "<p>There are a lot of opportunities in the emerging IoT world. I will walk you through my inspiration and implementation of my winning Hackster.io project from the 2016 Young Makers competition in China.Want to win a ?Free trip to China?? Who doesn?t, but how? Come to my talk and will walk you through my contest entry that earned me a spot on the 2016 U.S. Semi-finalist team. Did I win? Did I loose? Did I even go to China? I will answer those questions, show the project, and break down all the steps it takes to bring the project to completion. Who knows you may have an even better project rattling around in your head just waiting to get out.</p>",
+  "description": "<p>There are a lot of opportunities in the emerging IoT world. I will walk you through my inspiration and implementation of my winning Hackster.io project from the 2016 Young Makers competition in China.Want to win a ?Free trip to China?? Who doesn?t, but how? Come to my talk and will walk you through my contest entry that earned me a spot on the 2016 U.S. Semi-finalist team. Did I win? Did I loose? Did I even go to China? I will answer those questions, show the project, and break down all the steps it takes to bring the project to completion. Who knows you may have an even better project rattling around in your head just waiting to get out.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/650308118_295x166.jpg"
+  ],
   "vimeo": "229881168",
   "moreinfo": "http://schoolofdev.com/Tulsa/2017/Speakers/HaroldPulcher/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/650308118_295x166.jpg",

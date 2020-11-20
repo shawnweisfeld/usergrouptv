@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "usergroup-tv-windows-8-edition-a-tale-of-a-developer-an-app-windows-8-and-a-store",
   "abstract": "<p>In this talk Shawn will share how he built the UserGroup.tv app for the Windows Store. He will walk through the basics of putting this type of an application together with C# and XAML. Discuss some of the principals around Windows 8 development, and wrap up with some of the lessons learned from going through the submission process. If you are thinking about building an app for Windows 8 or are just curious what all the buzz is about, come get the unfiltered opinions of someone that has been there, done that.\r\n</p>",
+  "description": "<p>In this talk Shawn will share how he built the UserGroup.tv app for the Windows Store. He will walk through the basics of putting this type of an application together with C# and XAML. Discuss some of the principals around Windows 8 development, and wrap up with some of the lessons learned from going through the submission process. If you are thinking about building an app for Windows 8 or are just curious what all the buzz is about, come get the unfiltered opinions of someone that has been there, done that.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485960924_295x166.jpg"
+  ],
   "vimeo": "103659077",
   "moreinfo": "http://northdallas.net/meetings/usergroup-tv-windows-8-edition-a-tale-of-a-developer-an-app-windows-8-and-a-store/",
   "thumbnail": "https://i.vimeocdn.com/video/485960924_295x166.jpg",

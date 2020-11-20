@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "r-and-sql-server-two-great-tastes-that-taste-great-together",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/661278006_295x166.jpg"
+  ],
   "vimeo": "238551768",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/661278006_295x166.jpg",

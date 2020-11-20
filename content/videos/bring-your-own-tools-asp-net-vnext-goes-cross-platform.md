@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "bring-your-own-tools-asp-net-vnext-goes-cross-platform",
   "abstract": "<p>Web development was a different game back in the early 2000s. Early versions of ASP.NET were aimed at Microsoft's existing customer base, and even tried to hide the nature of the web from developers who weren't ready for it. Gradually, the ASP.NET team began to open up, shipping open-source components and eventually open-sourcing much of the ASP.NET platform. The next version of ASP.NET goes even further, providing explicit support for development and hosting on non-Windows platforms. Come see how you can take advantage of the robust and full-featured ASP.NET platform while still using the tools you love: OS X, Sublime, Vim, and others.</p>",
+  "description": "<p>Web development was a different game back in the early 2000s. Early versions of ASP.NET were aimed at Microsoft's existing customer base, and even tried to hide the nature of the web from developers who weren't ready for it. Gradually, the ASP.NET team began to open up, shipping open-source components and eventually open-sourcing much of the ASP.NET platform. The next version of ASP.NET goes even further, providing explicit support for development and hosting on non-Windows platforms. Come see how you can take advantage of the robust and full-featured ASP.NET platform while still using the tools you love: OS X, Sublime, Vim, and others.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/492571907_295x166.jpg"
+  ],
   "vimeo": "108785117",
   "moreinfo": "http://www.ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/492571907_295x166.jpg",

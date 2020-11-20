@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "everything-i-learned-about-navigating-my-career-i-learned-from-female-superheroes",
   "abstract": "<p>This presentation uses female superheroes to cover topics key to an individual's success as work. I plan to share some invaluable lessons I learned the hard way, and provide some resources that have truly helped/continue to help me, all while highlighting parallel female superheroes' powers and abilities. I'll talk about negotiation, asking for a promotion, ongoing learning/skill set acquisition &amp; managing up.</p>",
+  "description": "<p>This presentation uses female superheroes to cover topics key to an individual's success as work. I plan to share some invaluable lessons I learned the hard way, and provide some resources that have truly helped/continue to help me, all while highlighting parallel female superheroes' powers and abilities. I'll talk about negotiation, asking for a promotion, ongoing learning/skill set acquisition &amp; managing up.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/651774568_295x166.jpg"
+  ],
   "vimeo": "231057177",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/651774568_295x166.jpg",

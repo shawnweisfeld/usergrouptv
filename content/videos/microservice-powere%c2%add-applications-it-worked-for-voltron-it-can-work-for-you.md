@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "microservice-powere%c2%add-applications-it-worked-for-voltron-it-can-work-for-you",
   "abstract": "<p>Everyone knows that when you assemble a bunch of underdogs together, they become an unstoppable force. Whether it's Voltron battling a Robeast, or a bunch of ants taking on a biker flying biker gang, combining several resources into one is a great way to add strength and capabilities to a team. In this session, Kentico Technical Evangelist Bryan Soltis will show you how to apply these same principles to building web applications using microservices for content hosting and delivery, search, and automation, all hosted in Azure.</p>",
+  "description": "<p>Everyone knows that when you assemble a bunch of underdogs together, they become an unstoppable force. Whether it's Voltron battling a Robeast, or a bunch of ants taking on a biker flying biker gang, combining several resources into one is a great way to add strength and capabilities to a team. In this session, Kentico Technical Evangelist Bryan Soltis will show you how to apply these same principles to building web applications using microservices for content hosting and delivery, search, and automation, all hosted in Azure.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/660006631_295x166.jpg"
+  ],
   "vimeo": "237558980",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660006631_295x166.jpg",

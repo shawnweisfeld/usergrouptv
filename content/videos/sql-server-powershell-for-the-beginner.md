@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sql-server-powershell-for-the-beginner",
   "abstract": "<p>Come on, PowerShell is all the rage and you have not even started looking into it. How productive can you actually be with PowerShell? This session will give you the jumpstart that you need to begin. This session will be focused on the DBA getting ramped up in the PowerShell world of SQL Server. PowerShell is everywhere and should not be ignored. Stop ignoring and join me for the beginning of your journey to really getting into how good you can get, using PowerShell and SQL Server together.\r\n</p>",
+  "description": "<p>Come on, PowerShell is all the rage and you have not even started looking into it. How productive can you actually be with PowerShell? This session will give you the jumpstart that you need to begin. This session will be focused on the DBA getting ramped up in the PowerShell world of SQL Server. PowerShell is everywhere and should not be ignored. Stop ignoring and join me for the beginning of your journey to really getting into how good you can get, using PowerShell and SQL Server together.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/722418765_295x166.jpg"
+  ],
   "vimeo": "287307376",
   "moreinfo": "http://www.sqlsaturday.com/794/Sessions/Details.aspx?sid=83759",
   "thumbnail": "https://i.vimeocdn.com/video/722418765_295x166.jpg",

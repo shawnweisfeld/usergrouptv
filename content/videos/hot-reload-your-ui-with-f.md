@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "hot-reload-your-ui-with-f",
   "abstract": "<p>There's a really cool trend in F# UI design coming up in the world that started in the web space with React and Elm, and has trickled into the F# space via Elmish (for the web) and Fabulous (for Xamarin.Forms). This method is called Model-View-Update, and the mechanism behind it are allowing for some really low-cycle-time and high-interactivity design flows in F#! This month I'd like to show you all how easy it is to get hot-reloadable UI across the web and mobile devices using a few libraries and tools that are, I think, beyond cool.\r\n</p>",
+  "description": "<p>There's a really cool trend in F# UI design coming up in the world that started in the web space with React and Elm, and has trickled into the F# space via Elmish (for the web) and Fabulous (for Xamarin.Forms). This method is called Model-View-Update, and the mechanism behind it are allowing for some really low-cycle-time and high-interactivity design flows in F#! This month I'd like to show you all how easy it is to get hot-reloadable UI across the web and mobile devices using a few libraries and tools that are, I think, beyond cool.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/761490718_295x166.jpg"
+  ],
   "vimeo": "319029052",
   "moreinfo": "https://www.meetup.com/Austin-F-Meetup/events/mbscmqyzdbcc/",
   "thumbnail": "https://i.vimeocdn.com/video/761490718_295x166.jpg",

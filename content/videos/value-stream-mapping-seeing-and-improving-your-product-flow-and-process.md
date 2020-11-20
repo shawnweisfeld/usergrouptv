@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "value-stream-mapping-seeing-and-improving-your-product-flow-and-process",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/820030814_295x166.jpg"
+  ],
   "vimeo": "364567819",
   "moreinfo": "http://conference.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/820030814_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "growing-agile-managers",
   "abstract": "<p>With less than one-third of the workplace describing themselves as \"engaged in their work\", the role of the manager for engaged, effective teams is critically important. But, if we're building self-organizing Agile teams, what's a manager even DO in an Agile organization? In this talk, I'll present the evolving role of the Agile manager, a development path to evaluate and design your personal growth, and activities you can take back to work tomorrow to support employees and teams in ways that are closely aligned with Agile values and principles. </p>",
+  "description": "<p>With less than one-third of the workplace describing themselves as \"engaged in their work\", the role of the manager for engaged, effective teams is critically important. But, if we're building self-organizing Agile teams, what's a manager even DO in an Agile organization? In this talk, I'll present the evolving role of the Agile manager, a development path to evaluate and design your personal growth, and activities you can take back to work tomorrow to support employees and teams in ways that are closely aligned with Agile values and principles. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/703312800_295x166.jpg"
+  ],
   "vimeo": "271896877",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703312800_295x166.jpg",

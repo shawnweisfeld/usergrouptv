@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "ios-for-the-net-web-guy",
   "abstract": "<p>Having spent most of the last 17 years writing web apps on a Microsoft platform, the switch to iOS was a tricky one for me. I will share all that I have learned in the last year making the transition. You will learn the basics of iOS programming from a .NETters perspective. For any .NET web developers looking to make the jump to iOS, but are not sure what to expect, this session is for you.</p>",
+  "description": "<p>Having spent most of the last 17 years writing web apps on a Microsoft platform, the switch to iOS was a tricky one for me. I will share all that I have learned in the last year making the transition. You will learn the basics of iOS programming from a .NETters perspective. For any .NET web developers looking to make the jump to iOS, but are not sure what to expect, this session is for you.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485945304_295x166.jpg"
+  ],
   "vimeo": "103646345",
   "moreinfo": "http://techfests.com/Tulsa/2014",
   "thumbnail": "https://i.vimeocdn.com/video/485945304_295x166.jpg",

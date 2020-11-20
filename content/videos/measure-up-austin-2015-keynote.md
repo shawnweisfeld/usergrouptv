@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "measure-up-austin-2015-keynote",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/537234017_295x166.jpg"
+  ],
   "vimeo": "140641958",
   "moreinfo": "http://measureup.io",
   "thumbnail": "https://i.vimeocdn.com/video/537234017_295x166.jpg",

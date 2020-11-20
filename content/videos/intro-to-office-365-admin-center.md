@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "intro-to-office-365-admin-center",
   "abstract": "<p>You got Office 365 and you need to use it. You need to let others in your organization use it because you were designated the admin but you can't spell Office 365... yet. Where do you start? In this session, you will learn about the basics of administering Office 365 through the Admin Centers.</p>",
+  "description": "<p>You got Office 365 and you need to use it. You need to let others in your organization use it because you were designated the admin but you can't spell Office 365... yet. Where do you start? In this session, you will learn about the basics of administering Office 365 through the Admin Centers.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/593964486_295x166.jpg"
+  ],
   "vimeo": "184509652",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/593964486_295x166.jpg",

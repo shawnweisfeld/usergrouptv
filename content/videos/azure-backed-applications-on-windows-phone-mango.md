@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "azure-backed-applications-on-windows-phone-mango",
   "abstract": "<p>Chris Rajczi will give us a serious look at the upcoming features on the Windows Phone Mango edition. This should be a great meeting for Windows Phone developers as well as the Silverlight developers among us. Want to get started before the meeting? We can download the latest version on the Microsoft Windows Phone Development site. We can also get a (marketing) view of Mango in action at YouTube. Chris will give us a good technical tour so downloading the beta version will give us a head start before the meeting.</p>",
+  "description": "<p>Chris Rajczi will give us a serious look at the upcoming features on the Windows Phone Mango edition. This should be a great meeting for Windows Phone developers as well as the Silverlight developers among us. Want to get started before the meeting? We can download the latest version on the Microsoft Windows Phone Development site. We can also get a (marketing) view of Mango in action at YouTube. Chris will give us a good technical tour so downloading the beta version will give us a head start before the meeting.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/498385424_295x166.jpg"
+  ],
   "vimeo": "113162309",
   "moreinfo": "http://dallasxaml.com/",
   "thumbnail": "https://i.vimeocdn.com/video/498385424_295x166.jpg",

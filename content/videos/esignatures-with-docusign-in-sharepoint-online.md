@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "esignatures-with-docusign-in-sharepoint-online",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/634593156_295x166.jpg"
+  ],
   "vimeo": "217392644",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/236857555/",
   "thumbnail": "https://i.vimeocdn.com/video/634593156_295x166.jpg",

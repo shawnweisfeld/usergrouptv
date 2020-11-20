@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "ms-sql-modern-migration-tour-2019-migration-and-modernization",
   "abstract": "<p>MS SQL Modern Migration Tour 2019 - Migration and Modernization</p>",
+  "description": "<p>MS SQL Modern Migration Tour 2019 - Migration and Modernization</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/796753340_295x166.jpg"
+  ],
   "vimeo": "346640386",
   "moreinfo": "https://www.eventbrite.ca/e/modern-migration-tour-2019-austin-tickets-61819083543#",
   "thumbnail": "https://i.vimeocdn.com/video/796753340_295x166.jpg",

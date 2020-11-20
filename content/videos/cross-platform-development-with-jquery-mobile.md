@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "cross-platform-development-with-jquery-mobile",
   "abstract": "<p>jQuery Mobile is an open source touch-optimized web framework for smartphones and tablets. It will allow you to design a single web application that will work on all popular smartphone and tablet platforms. PhoneGap is an open source HTML5 app platform that supports 6 platforms. It allows you to author native applications with web technologies and get access to APIs and app stores. I'll show how to build a web app using jQuery Mobile with PhoneGap and share tips and tricks I've learned along the way</p>",
+  "description": "<p>jQuery Mobile is an open source touch-optimized web framework for smartphones and tablets. It will allow you to design a single web application that will work on all popular smartphone and tablet platforms. PhoneGap is an open source HTML5 app platform that supports 6 platforms. It allows you to author native applications with web technologies and get access to APIs and app stores. I'll show how to build a web app using jQuery Mobile with PhoneGap and share tips and tricks I've learned along the way</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/499118405_295x166.jpg"
+  ],
   "vimeo": "113704469",
   "moreinfo": "http://dallasasp.net",
   "thumbnail": "https://i.vimeocdn.com/video/499118405_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "thrill-of-the-hunt-return-to-exploratory-testing",
   "abstract": "<p>Some of the most interesting stories come from the career paths of software testers. What did you do before you started testing? Everyone has a before. Everyone has a moment they can point to when they realized quality assurance was something they might enjoy, and that it was an actual job. Then, came test automation. Automation divided the discipline into distinct groups: pro-manual, pro-automation, and bored. Uncover how exploratory testing can re-ignite a discipline and pave the way for more to enter testing as a career path. </p>",
+  "description": "<p>Some of the most interesting stories come from the career paths of software testers. What did you do before you started testing? Everyone has a before. Everyone has a moment they can point to when they realized quality assurance was something they might enjoy, and that it was an actual job. Then, came test automation. Automation divided the discipline into distinct groups: pro-manual, pro-automation, and bored. Uncover how exploratory testing can re-ignite a discipline and pave the way for more to enter testing as a career path. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/660004408_295x166.jpg"
+  ],
   "vimeo": "237557230",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660004408_295x166.jpg",

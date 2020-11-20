@@ -10,6 +10,10 @@
   "draft": false,
   "slug": "building-windows-8-metro-apps-in-xaml",
   "abstract": "<p>Building Windows 8 Metro apps in XAML</p>",
+  "description": "<p>Building Windows 8 Metro apps in XAML</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/492990206_295x166.jpg"
+  ],
   "vimeo": "109118571",
   "moreinfo": "http://hands-on-coding.net",
   "thumbnail": "https://i.vimeocdn.com/video/492990206_295x166.jpg",

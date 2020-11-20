@@ -6,6 +6,10 @@
   "draft": false,
   "slug": "2017-austin-global-azure-bootcamp-welcome",
   "abstract": null,
+  "description": null,
+  "images": [
+    "https://i.vimeocdn.com/video/631736156_295x166.jpg"
+  ],
   "vimeo": "215095604",
   "moreinfo": "https://www.eventbrite.com/e/global-azure-bootcamp-2017-austin-tx-tickets-33085810550#",
   "thumbnail": "https://i.vimeocdn.com/video/631736156_295x166.jpg",

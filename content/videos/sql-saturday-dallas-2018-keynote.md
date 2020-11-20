@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sql-saturday-dallas-2018-keynote",
   "abstract": "<p>SQL Saturday Dallas 2018 Keynote</p>",
+  "description": "<p>SQL Saturday Dallas 2018 Keynote</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/702612830_295x166.jpg"
+  ],
   "vimeo": "271338693",
   "moreinfo": "http://www.sqlsaturday.com/734/Sessions/Schedule.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/702612830_295x166.jpg",

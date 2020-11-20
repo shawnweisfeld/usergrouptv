@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "ms-sql-in-containers",
   "abstract": "<p>In this AdHoc chat, Corey talks to the group about running MS SQL In Containers</p>",
+  "description": "<p>In this AdHoc chat, Corey talks to the group about running MS SQL In Containers</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/796753473_295x166.jpg"
+  ],
   "vimeo": "346640511",
   "moreinfo": "https://www.eventbrite.ca/e/modern-migration-tour-2019-austin-tickets-61819083543#",
   "thumbnail": "https://i.vimeocdn.com/video/796753473_295x166.jpg",

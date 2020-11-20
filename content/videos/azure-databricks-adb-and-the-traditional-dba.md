@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "azure-databricks-adb-and-the-traditional-dba",
   "abstract": "<p>As more data services come online in Microsoft Azure, DBAs are being tasked with bringing these services into their organizations.  Azure Databricks is one such service that has the appeal of combining scalable compute resources with collaborative development and analytic tools in Notebooks and workspaces.  To the traditional DBA, however, many of the concepts and language support may be foreign. What the heck is Scala anyway?  This session is designed to introduce the DBA to the Azure Databricks workspace and show how to easily integrate it with upstream and downstream services like Azure Data Factory and Machine Learning.</p>",
+  "description": "<p>As more data services come online in Microsoft Azure, DBAs are being tasked with bringing these services into their organizations.  Azure Databricks is one such service that has the appeal of combining scalable compute resources with collaborative development and analytic tools in Notebooks and workspaces.  To the traditional DBA, however, many of the concepts and language support may be foreign. What the heck is Scala anyway?  This session is designed to introduce the DBA to the Azure Databricks workspace and show how to easily integrate it with upstream and downstream services like Azure Data Factory and Machine Learning.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/798963741_295x166.jpg"
+  ],
   "vimeo": "348360180",
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=93870",
   "thumbnail": "https://i.vimeocdn.com/video/798963741_295x166.jpg",

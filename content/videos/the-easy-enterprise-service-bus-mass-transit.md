@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-easy-enterprise-service-bus-mass-transit",
   "abstract": "<p>Unless you're living under a rock somewhere, you've likely heard of the Enterprise Service Bus, or ESB.  But you've also likely thought that was for \"those advanced SOA people\".  Not so!  Setting up an ESB for your work can be quick and easy, and provide real benefits for maintenance over the long term.  This session will introduce you to how to get started with a distributed ESB, using the popular open source projects MassTransit and TopShelf.  You'll learn how to use these services with a variety of communication mechanisms, including MSMQ, RabbitMQ, and the Azure Service Bus.</p>",
+  "description": "<p>Unless you're living under a rock somewhere, you've likely heard of the Enterprise Service Bus, or ESB.  But you've also likely thought that was for \"those advanced SOA people\".  Not so!  Setting up an ESB for your work can be quick and easy, and provide real benefits for maintenance over the long term.  This session will introduce you to how to get started with a distributed ESB, using the popular open source projects MassTransit and TopShelf.  You'll learn how to use these services with a variety of communication mechanisms, including MSMQ, RabbitMQ, and the Azure Service Bus.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485086496_295x166.jpg"
+  ],
   "vimeo": "102967428",
   "moreinfo": "http://www.ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/485086496_295x166.jpg",

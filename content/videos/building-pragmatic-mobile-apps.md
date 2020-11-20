@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "building-pragmatic-mobile-apps",
   "abstract": "<p>Last year, our team landed on a project that was just in a vision document form at a process management company with a huge portfolio. Over the course of time, I lead our team to convert that vision into an iOS app using Xamarin, ASPNET Core api, Angular Web App and NServicebus endpoint. It was quite a fun filled ride because all the technologies we were dealing with were new and were in flux. They presented a unique set of challenges. We, as a team, learned a lot of valuable lessons during this process. Some of them were new while others were relearned. This presentation is going to cover all of them.</p>",
+  "description": "<p>Last year, our team landed on a project that was just in a vision document form at a process management company with a huge portfolio. Over the course of time, I lead our team to convert that vision into an iOS app using Xamarin, ASPNET Core api, Angular Web App and NServicebus endpoint. It was quite a fun filled ride because all the technologies we were dealing with were new and were in flux. They presented a unique set of challenges. We, as a team, learned a lot of valuable lessons during this process. Some of them were new while others were relearned. This presentation is going to cover all of them.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/651775892_295x166.jpg"
+  ],
   "vimeo": "231057931",
   "moreinfo": "http://adnug.org/Home/august-14-2017-building-pragmatic-mobile-apps/",
   "thumbnail": "https://i.vimeocdn.com/video/651775892_295x166.jpg",

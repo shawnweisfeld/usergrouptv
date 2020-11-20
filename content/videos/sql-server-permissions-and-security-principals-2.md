@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sql-server-permissions-and-security-principals-2",
   "abstract": "<p>A ground-floor introduction to SQL Server permissions starting with the basics and moving into the security implications behinds stored procedures, views, database ownership, application connections, consolidated databases, application roles and more. This class is perfect for DBA's, developers and system admins, and includes information on securing Azure SQL databases!</p>",
+  "description": "<p>A ground-floor introduction to SQL Server permissions starting with the basics and moving into the security implications behinds stored procedures, views, database ownership, application connections, consolidated databases, application roles and more. This class is perfect for DBA's, developers and system admins, and includes information on securing Azure SQL databases!</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/640578807_295x166.jpg"
+  ],
   "vimeo": "222132616",
   "moreinfo": "http://www.sqlsaturday.com/651/Sessions/Details.aspx?sid=63544",
   "thumbnail": "https://i.vimeocdn.com/video/640578807_295x166.jpg",

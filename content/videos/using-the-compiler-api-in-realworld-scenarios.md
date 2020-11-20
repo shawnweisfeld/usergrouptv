@@ -10,6 +10,10 @@
   "draft": false,
   "slug": "using-the-compiler-api-in-realworld-scenarios",
   "abstract": "With the Compiler API, .NET developers have the ability to use the wealth of information it provides on their code for inspection and modification. Knowing how to use the Compiler API can, however, may seem like a daunting task. In this session, I'll demonstrate a number of real-world examples that use the Compiler API to provide useful functionality and features via analyzers, refactorings, and .NET Core tools. You'll see how straightforward this API is, and you'll understand how to apply it in your own applications.",
+  "description": "With the Compiler API, .NET developers have the ability to use the wealth of information it provides on their code for inspection and modification. Knowing how to use the Compiler API can, however, may seem like a daunting task. In this session, I'll demonstrate a number of real-world examples that use the Compiler API to provide useful functionality and features via analyzers, refactorings, and .NET Core tools. You'll see how straightforward this API is, and you'll understand how to apply it in your own applications.",
+  "images": [
+    "https://i.vimeocdn.com/video/972800786_295x166.jpg"
+  ],
   "vimeo": "466870565",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/273105839/",
   "thumbnail": "https://i.vimeocdn.com/video/972800786_295x166.jpg",

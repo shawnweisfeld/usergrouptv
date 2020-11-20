@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "a-tour-of-sql-server-2016-security-features",
   "abstract": "<p>Protecting our data from unauthorized access becomes more and more important all the time. SQL Server includes a number of features that make data protection and security easier for developers and DBAs with a framework for protecting data. Come learn how Always Encrypted, TDE, Row Level Security, Dynamic Data Masking, and column level encryption can protect your systems.\r\n</p>",
+  "description": "<p>Protecting our data from unauthorized access becomes more and more important all the time. SQL Server includes a number of features that make data protection and security easier for developers and DBAs with a framework for protecting data. Come learn how Always Encrypted, TDE, Row Level Security, Dynamic Data Masking, and column level encryption can protect your systems.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/719305446_295x166.jpg"
+  ],
   "vimeo": "284778804",
   "moreinfo": "http://www.sqlsaturday.com/749/Sessions/Details.aspx?sid=83163",
   "thumbnail": "https://i.vimeocdn.com/video/719305446_295x166.jpg",

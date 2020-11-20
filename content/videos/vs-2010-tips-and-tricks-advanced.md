@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "vs-2010-tips-and-tricks-advanced",
   "abstract": "<p>Tips and Tricks from the Master</p>",
+  "description": "<p>Tips and Tricks from the Master</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495144806_295x166.jpg"
+  ],
   "vimeo": "110775687",
   "moreinfo": "http://www.houstontechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/495144806_295x166.jpg",

@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "getting-the-spring-application-to-the-cloud",
   "abstract": "<p>The Cloud seems to be everywhere these days and everyone and their moms want to get their applications to the Cloud. There are a couple of implementation versions of the Cloud and I&rsquo;ll be showing you how to get your Spring Applications to PAAS implementations like Google App Engine and SpringSource&rsquo;s Cloudfoundry. Please feel free to come to the session with the latest STS and Spring Roo installed and follow along.</p>",
+  "description": "<p>The Cloud seems to be everywhere these days and everyone and their moms want to get their applications to the Cloud. There are a couple of implementation versions of the Cloud and I&rsquo;ll be showing you how to get your Spring Applications to PAAS implementations like Google App Engine and SpringSource&rsquo;s Cloudfoundry. Please feel free to come to the session with the latest STS and Spring Roo installed and follow along.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/498381085_295x166.jpg"
+  ],
   "vimeo": "113159018",
   "moreinfo": "http://dallastechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/498381085_295x166.jpg",

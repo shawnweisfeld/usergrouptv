@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "up-and-running-with-graph-databases",
   "abstract": "<p>A summary of what attendees will learn: An understanding of graph databases, Introduction to data modeling with Graph databases, Setting up a graph database, Connecting to the graph and CRUD operations, Building a graph enabled application</p>",
+  "description": "<p>A summary of what attendees will learn: An understanding of graph databases, Introduction to data modeling with Graph databases, Setting up a graph database, Connecting to the graph and CRUD operations, Building a graph enabled application</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/660049778_295x166.jpg"
+  ],
   "vimeo": "237597710",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660049778_295x166.jpg",

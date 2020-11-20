@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "expression-blend-and-sketchflow",
   "abstract": "<p>Always wondered what Expression Blend and SketchFlow are good for? This exciting and energetic evening will cover the basics of Expression Blend and SketchFlow.</p>",
+  "description": "<p>Always wondered what Expression Blend and SketchFlow are good for? This exciting and energetic evening will cover the basics of Expression Blend and SketchFlow.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/507044739_295x166.jpg"
+  ],
   "vimeo": "119596286",
   "moreinfo": "http://dallasasp.net",
   "thumbnail": "https://i.vimeocdn.com/video/507044739_295x166.jpg",

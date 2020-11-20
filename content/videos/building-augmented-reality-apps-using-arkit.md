@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "building-augmented-reality-apps-using-arkit",
   "abstract": "<p>Augmented Reality allows users to place virtual objects into the real world. Apple disrupted the AR world by introducing ARKit at WWDC 2017. In this session we are going to learn how to use ARKit to build augmented reality iOS applications. We will start by understanding the concepts and building blocks behind ARKit. Next, we will learn how to add physical forces and collisions on AR objects so they fit nicely into our real world. We will also learn how to load third party models into our AR world and interact with them. This is a very hands-on session and consist of live coding and lots of practical demos. By the end of the session you will have enough knowledge to implement your next augmented reality app using ARKit.</p>",
+  "description": "<p>Augmented Reality allows users to place virtual objects into the real world. Apple disrupted the AR world by introducing ARKit at WWDC 2017. In this session we are going to learn how to use ARKit to build augmented reality iOS applications. We will start by understanding the concepts and building blocks behind ARKit. Next, we will learn how to add physical forces and collisions on AR objects so they fit nicely into our real world. We will also learn how to load third party models into our AR world and interact with them. This is a very hands-on session and consist of live coding and lots of practical demos. By the end of the session you will have enough knowledge to implement your next augmented reality app using ARKit.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/699208046_295x166.jpg"
+  ],
   "vimeo": "268471349",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/699208046_295x166.jpg",

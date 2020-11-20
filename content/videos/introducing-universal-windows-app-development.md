@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "introducing-universal-windows-app-development",
   "abstract": "<p>In Windows 10, Universal Windows Apps are taking a big leap forward. While in the past, \"Modern Apps\" or \"Metro Apps\" were somewhat lacking, they are now growing up into useful applications for both consumers and businesses alike. Universal Windows Apps can run on any Windows 10 platform (Desktop, Tablet, Phone, Xbox, HoloLens,...). This session introduces the Universal Windows App platform and its capabilities both as an initial overview and then proceeds into the actual task of coding a Universal Windows App. No prior knowledge of the Universal Windows App Platform is required to attend this session. Attendees will walk away with fundamental knowledge of building Universal Windows Apps soup-to-nuts.</p>",
+  "description": "<p>In Windows 10, Universal Windows Apps are taking a big leap forward. While in the past, \"Modern Apps\" or \"Metro Apps\" were somewhat lacking, they are now growing up into useful applications for both consumers and businesses alike. Universal Windows Apps can run on any Windows 10 platform (Desktop, Tablet, Phone, Xbox, HoloLens,...). This session introduces the Universal Windows App platform and its capabilities both as an initial overview and then proceeds into the actual task of coding a Universal Windows App. No prior knowledge of the Universal Windows App Platform is required to attend this session. Attendees will walk away with fundamental knowledge of building Universal Windows Apps soup-to-nuts.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/534898848_295x166.jpg"
+  ],
   "vimeo": "139191545",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda",
   "thumbnail": "https://i.vimeocdn.com/video/534898848_295x166.jpg",

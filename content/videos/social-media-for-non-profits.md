@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "social-media-for-non-profits",
   "abstract": "<p>In this session Greg will cover the basics of using social media as a non-profit</p>",
+  "description": "<p>In this session Greg will cover the basics of using social media as a non-profit</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/494263637_295x166.jpg"
+  ],
   "vimeo": "110129745",
   "moreinfo": "http://www.dallasgivecamp.org",
   "thumbnail": "https://i.vimeocdn.com/video/494263637_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "cloudy-with-a-chance-of-security",
   "abstract": "<p>The benefits of cloud are extensive. Cloud enables rapid deployment, provisioning and scaling of IT resources, which means users can integrate acquired companies more easily and enter new markets more quickly - all while shortening development times, reducing waste and lowering costs. But despite growing cloud adoption rates, some companies are still reluctant to aggressively move workloads and applications to the cloud. The reason is security. Security remains one of the major concerns both when moving applications to the cloud and selecting the right cloud provider. It's time to separate fact from fiction and debunk some cloud security myths regarding Infrastructure as a Service (IaaS) - the building block for all other cloud services.</p>",
+  "description": "<p>The benefits of cloud are extensive. Cloud enables rapid deployment, provisioning and scaling of IT resources, which means users can integrate acquired companies more easily and enter new markets more quickly - all while shortening development times, reducing waste and lowering costs. But despite growing cloud adoption rates, some companies are still reluctant to aggressively move workloads and applications to the cloud. The reason is security. Security remains one of the major concerns both when moving applications to the cloud and selecting the right cloud provider. It's time to separate fact from fiction and debunk some cloud security myths regarding Infrastructure as a Service (IaaS) - the building block for all other cloud services.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/586637896_295x166.jpg"
+  ],
   "vimeo": "178888931",
   "moreinfo": "http://techfests.com/Tulsa/2016/Speakers/AlanWhite/",
   "thumbnail": "https://i.vimeocdn.com/video/586637896_295x166.jpg",

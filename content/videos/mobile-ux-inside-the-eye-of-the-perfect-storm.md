@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "mobile-ux-inside-the-eye-of-the-perfect-storm",
   "abstract": "<p>Mobile & UX: Inside the Eye of the Perfect Storm</p>",
+  "description": "<p>Mobile & UX: Inside the Eye of the Perfect Storm</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/492571874_295x166.jpg"
+  ],
   "vimeo": "108785082",
   "moreinfo": "http://www.dallastechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/492571874_295x166.jpg",

@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "windows-phone-30-to-launch-session-1-getting-started-with-windows-phone-development",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/492997174_295x166.jpg"
+  ],
   "vimeo": "109123812",
   "moreinfo": "http://usergroup.tv/videos/windows-phone-30-to-launch-session-4-publishing-your-new-wp-application",
   "thumbnail": "https://i.vimeocdn.com/video/492997174_295x166.jpg",

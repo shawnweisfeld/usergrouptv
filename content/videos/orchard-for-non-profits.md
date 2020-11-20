@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "orchard-for-non-profits",
   "abstract": "<p>In this session Shawn will cover the basics of using Orchard as a non-profit</p>",
+  "description": "<p>In this session Shawn will cover the basics of using Orchard as a non-profit</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/494264138_295x166.jpg"
+  ],
   "vimeo": "110130085",
   "moreinfo": "http://www.dallasgivecamp.org",
   "thumbnail": "https://i.vimeocdn.com/video/494264138_295x166.jpg",

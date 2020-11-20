@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "3-mathematical-concepts-that-every-developer-should-know",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/728975231_295x166.jpg"
+  ],
   "vimeo": "292556778",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/728975231_295x166.jpg",

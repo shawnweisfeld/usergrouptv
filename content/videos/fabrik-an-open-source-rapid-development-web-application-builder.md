@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "fabrik-an-open-source-rapid-development-web-application-builder",
   "abstract": "<p>Looking for an open source solution to build your next web application in a jiffy? We’ll look at some of the baked in capabilities of Fabrik, and then take a look at some of the ways you can connect Fabrik to other systems.</p>",
+  "description": "<p>Looking for an open source solution to build your next web application in a jiffy? We’ll look at some of the baked in capabilities of Fabrik, and then take a look at some of the ways you can connect Fabrik to other systems.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/818413689_295x166.jpg"
+  ],
   "vimeo": "363306862",
   "moreinfo": "https://www.joomladaytexas.com/",
   "thumbnail": "https://i.vimeocdn.com/video/818413689_295x166.jpg",

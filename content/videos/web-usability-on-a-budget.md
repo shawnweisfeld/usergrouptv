@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "web-usability-on-a-budget",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/490129533_295x166.jpg"
+  ],
   "vimeo": "106885842",
   "moreinfo": "http://austincodecamp2012.com/",
   "thumbnail": "https://i.vimeocdn.com/video/490129533_295x166.jpg",

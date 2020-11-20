@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "windows-10-development-readiness",
   "abstract": "<p>Windows 10 is here. Within 2-3 years, it’ll be on 1 Billion devices. Are you ready? Joseph Reynolds will provide information about what you need to know, as a developer, to take advantage of the over 2500 new platform features. This will be focused on introducing the new concepts of Windows 10 – and will be a fairly high level course. We will look at some code, but it won’t be a coding-heavy course, so if you’re a business user wanting some information on Windows 10 and what it can do for your brand, come on over!\r\n</p>",
+  "description": "<p>Windows 10 is here. Within 2-3 years, it’ll be on 1 Billion devices. Are you ready? Joseph Reynolds will provide information about what you need to know, as a developer, to take advantage of the over 2500 new platform features. This will be focused on introducing the new concepts of Windows 10 – and will be a fairly high level course. We will look at some code, but it won’t be a coding-heavy course, so if you’re a business user wanting some information on Windows 10 and what it can do for your brand, come on over!\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/537387987_295x166.jpg"
+  ],
   "vimeo": "140730570",
   "moreinfo": "http://measureup.io/windows-10-development-readiness/",
   "thumbnail": "https://i.vimeocdn.com/video/537387987_295x166.jpg",

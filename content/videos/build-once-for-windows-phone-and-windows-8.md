@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "build-once-for-windows-phone-and-windows-8",
   "abstract": "<p>\r\nWhen you build cross-device applications you want to build it once, have it work across all devices and deliver the best user experience. With Windows 8 and Windows Phone 8, the WinRT kernel means that building across devices has never been easier. There are 2 important concepts we need to embrace in order to build the best cross-device applications. We will give you best practices for sharing code, focusing on portable class libraries. Then we’ll show you how to optimize the interfaces to most appropriately target your app for the best user experience while leveraging that shared code.\r\n</p>",
+  "description": "<p>\r\nWhen you build cross-device applications you want to build it once, have it work across all devices and deliver the best user experience. With Windows 8 and Windows Phone 8, the WinRT kernel means that building across devices has never been easier. There are 2 important concepts we need to embrace in order to build the best cross-device applications. We will give you best practices for sharing code, focusing on portable class libraries. Then we’ll show you how to optimize the interfaces to most appropriately target your app for the best user experience while leveraging that shared code.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/487542865_295x166.jpg"
+  ],
   "vimeo": "104886313",
   "moreinfo": "http://www.houstontechfest.org/Lists/ScheduleInfo/DispForm.aspx?ID=14&Source=http%3A%2F%2Fwww%2Ehoustontechfest%2Eorg%2FSitePages%2FTabbedSchedule%2Easpx",
   "thumbnail": "https://i.vimeocdn.com/video/487542865_295x166.jpg",

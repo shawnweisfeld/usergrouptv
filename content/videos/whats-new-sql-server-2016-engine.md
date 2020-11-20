@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "whats-new-sql-server-2016-engine",
   "abstract": "<p>@SQLChicken aka Jorge Segarra will be in town and will speak about What is New in SQL Server 2016 (Database Engine)</p>",
+  "description": "<p>@SQLChicken aka Jorge Segarra will be in town and will speak about What is New in SQL Server 2016 (Database Engine)</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/572507846_295x166.jpg"
+  ],
   "vimeo": "168072845",
   "moreinfo": "http://www.meetup.com/Austin-SQL-Server-User-Group/events/231314355/",
   "thumbnail": "https://i.vimeocdn.com/video/572507846_295x166.jpg",

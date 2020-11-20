@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "getting-hands-on-with-azure-logic-apps",
   "abstract": "<p>In this session, we will take a look at the basics of Azure Logic Apps and how to build powerful integration scenarios quickly.  This session will include a hands-on lab that walks through creating your first Azure Logic App step-by-step.</p>",
+  "description": "<p>In this session, we will take a look at the basics of Azure Logic Apps and how to build powerful integration scenarios quickly.  This session will include a hands-on lab that walks through creating your first Azure Logic App step-by-step.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/696171720_295x166.jpg"
+  ],
   "vimeo": "266019212",
   "moreinfo": "https://global.azurebootcamp.net/locations/gobal-azure-boot-camp-2018-austin-tx/",
   "thumbnail": "https://i.vimeocdn.com/video/696171720_295x166.jpg",

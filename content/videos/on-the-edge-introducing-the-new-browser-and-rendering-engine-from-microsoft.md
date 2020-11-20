@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "on-the-edge-introducing-the-new-browser-and-rendering-engine-from-microsoft",
   "abstract": "<p>Literally thousands of changes have been made to jettison the legacy of the IE past and to dramatically improve support for the web of today and tomorrow. Learn about the new capabilities in Edge and what this means for web developers everywhere.</p>",
+  "description": "<p>Literally thousands of changes have been made to jettison the legacy of the IE past and to dramatically improve support for the web of today and tomorrow. Learn about the new capabilities in Edge and what this means for web developers everywhere.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/527050644_295x166.jpg"
+  ],
   "vimeo": "133830087",
   "moreinfo": "http://www.meetup.com/ATX-MSFT-Devs/events/223574883/",
   "thumbnail": "https://i.vimeocdn.com/video/527050644_295x166.jpg",

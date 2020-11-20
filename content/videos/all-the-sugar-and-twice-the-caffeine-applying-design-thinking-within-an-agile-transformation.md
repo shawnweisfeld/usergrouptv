@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "all-the-sugar-and-twice-the-caffeine-applying-design-thinking-within-an-agile-transformation",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/820031943_295x166.jpg"
+  ],
   "vimeo": "364568668",
   "moreinfo": "http://conference.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/820031943_295x166.jpg",

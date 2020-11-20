@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "productive-web-development-with-nodejs-and-microsoft-developer-tools",
   "abstract": "<p>Did you know how productive you can be as a NodeJS developer on Windows 10? This fast-paced tips, tricks, and practices session walks you through some of the best and most interesting integrations with Visual Studio Code, Windows, and NodeJS, that will be sure to raise your developer productivity and enjoyment.</p>",
+  "description": "<p>Did you know how productive you can be as a NodeJS developer on Windows 10? This fast-paced tips, tricks, and practices session walks you through some of the best and most interesting integrations with Visual Studio Code, Windows, and NodeJS, that will be sure to raise your developer productivity and enjoyment.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/796753511_295x166.jpg"
+  ],
   "vimeo": "346640553",
   "moreinfo": "https://developer.microsoft.com/en-us/windows/campaigns/us-tx-dallas",
   "thumbnail": "https://i.vimeocdn.com/video/796753511_295x166.jpg",

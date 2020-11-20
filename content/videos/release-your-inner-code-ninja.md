@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "release-your-inner-code-ninja",
   "abstract": "<p>Have you ever working with someone that could output a monster amount of code in no time? Ever wanted to get more done with less effort? In this session we will be diving into the secrets of those high performers, and outlining some simple tactics that will allow us all to be code ninjas!</p>",
+  "description": "<p>Have you ever working with someone that could output a monster amount of code in no time? Ever wanted to get more done with less effort? In this session we will be diving into the secrets of those high performers, and outlining some simple tactics that will allow us all to be code ninjas!</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/489183701_295x166.jpg"
+  ],
   "vimeo": "106168265",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#069",
   "thumbnail": "https://i.vimeocdn.com/video/489183701_295x166.jpg",

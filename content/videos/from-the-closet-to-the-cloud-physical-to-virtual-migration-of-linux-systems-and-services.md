@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "from-the-closet-to-the-cloud-physical-to-virtual-migration-of-linux-systems-and-services",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/661082407_295x166.jpg"
+  ],
   "vimeo": "238398874",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/661082407_295x166.jpg",

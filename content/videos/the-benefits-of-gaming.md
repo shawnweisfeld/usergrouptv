@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-benefits-of-gaming",
   "abstract": "<p>Studies show that people today are more stressed than ever.  We will discuss how playing video games can benefit your life. We will explore how to de-stress your mind, build team work strategies, exercise your body, and improve your communication skills all through play!  But wait, there's more!  Video games can also be very educational!  So take some time for yourself, and let's play!\r\n</p>",
+  "description": "<p>Studies show that people today are more stressed than ever.  We will discuss how playing video games can benefit your life. We will explore how to de-stress your mind, build team work strategies, exercise your body, and improve your communication skills all through play!  But wait, there's more!  Video games can also be very educational!  So take some time for yourself, and let's play!\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/709498227_295x166.jpg"
+  ],
   "vimeo": "276873451",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=82868",
   "thumbnail": "https://i.vimeocdn.com/video/709498227_295x166.jpg",

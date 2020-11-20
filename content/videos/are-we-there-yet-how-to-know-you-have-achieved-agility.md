@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "are-we-there-yet-how-to-know-you-have-achieved-agility",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/820029598_295x166.jpg"
+  ],
   "vimeo": "364566591",
   "moreinfo": "http://conference.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/820029598_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-power-of-powerapps-with-sharepoint",
   "abstract": "<p>PowerApps is a Microsoft technology for building no-code forms and apps, not only for SharePoint lists, but across many line-of-business systems. Level: 101. Audiences: business users, site collection owners, developers. This session teaches you how to create apps, customize SharePoint list forms, and how to get around in the PowerApps design interface. In this session geared towards business users, the components of a form are demonstrated, as an app is built and deployed in the session. Well-known SharePoint and PowerApps guru Laura Rogers, Microsoft MVP, will bring us up to speed with a 101-level primer peppered with expert tips and tricks. She'll be presenting remotely from her Birmingham, Alabama, offices.</p>",
+  "description": "<p>PowerApps is a Microsoft technology for building no-code forms and apps, not only for SharePoint lists, but across many line-of-business systems. Level: 101. Audiences: business users, site collection owners, developers. This session teaches you how to create apps, customize SharePoint list forms, and how to get around in the PowerApps design interface. In this session geared towards business users, the components of a form are demonstrated, as an app is built and deployed in the session. Well-known SharePoint and PowerApps guru Laura Rogers, Microsoft MVP, will bring us up to speed with a 101-level primer peppered with expert tips and tricks. She'll be presenting remotely from her Birmingham, Alabama, offices.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/725423596_295x166.jpg"
+  ],
   "vimeo": "289714391",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/251255918/",
   "thumbnail": "https://i.vimeocdn.com/video/725423596_295x166.jpg",

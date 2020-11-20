@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-mind-of-the-developer",
   "abstract": "<p>We will be examining the cognitive aspects of software development. This presentation will include tips to increase productivity by supercharging your brain.\r\n</p>",
+  "description": "<p>We will be examining the cognitive aspects of software development. This presentation will include tips to increase productivity by supercharging your brain.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/537442355_295x166.jpg"
+  ],
   "vimeo": "140742171",
   "moreinfo": "http://measureup2015.azurewebsites.net/mind-of-a-developer/",
   "thumbnail": "https://i.vimeocdn.com/video/537442355_295x166.jpg",

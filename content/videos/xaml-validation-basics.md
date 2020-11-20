@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "xaml-validation-basics",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/498430913_295x166.jpg"
+  ],
   "vimeo": "113196940",
   "moreinfo": "http://dallasxaml.com/",
   "thumbnail": "https://i.vimeocdn.com/video/498430913_295x166.jpg",

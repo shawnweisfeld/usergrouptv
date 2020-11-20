@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "let-the-right-one-in-securing-files-on-aws-s3",
   "abstract": "<p>If files are the currency of information, then AWS S3 is like the Federal Reserve i.e. the biggest storehouse of files on earth. In this technical talk, you’ll learn practical tips to secure files on S3, so only the right parties are allowed access. The talk will be full of examples and live demonstration so the audience can get a feel for common mistakes in securing files on S3 and how to do it right.</p>",
+  "description": "<p>If files are the currency of information, then AWS S3 is like the Federal Reserve i.e. the biggest storehouse of files on earth. In this technical talk, you’ll learn practical tips to secure files on S3, so only the right parties are allowed access. The talk will be full of examples and live demonstration so the audience can get a feel for common mistakes in securing files on S3 and how to do it right.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/699652292_295x166.jpg"
+  ],
   "vimeo": "268829770",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/699652292_295x166.jpg",

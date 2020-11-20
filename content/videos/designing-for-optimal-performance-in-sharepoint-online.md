@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "designing-for-optimal-performance-in-sharepoint-online",
   "abstract": "<p>Join us as Sean McDonough, MVP, walks us through metrics, tools and best practices for performant Office 365 cloud services. This is a Skype meeting using Microsoft's state-of-the-art conference rooms. Sean will be fielding our questions in real-time. </p>",
+  "description": "<p>Join us as Sean McDonough, MVP, walks us through metrics, tools and best practices for performant Office 365 cloud services. This is a Skype meeting using Microsoft's state-of-the-art conference rooms. Sean will be fielding our questions in real-time. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/700408581_295x166.jpg"
+  ],
   "vimeo": "269475664",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/lsljlmyxhbmb/",
   "thumbnail": "https://i.vimeocdn.com/video/700408581_295x166.jpg",

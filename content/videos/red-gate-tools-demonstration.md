@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "red-gate-tools-demonstration",
   "abstract": "<p>In this short session, Steve Jones will demonstrate a few of the Red Gate tools that can save you a tremendous amount of time and make your job as a DBA much easier every day. Bio: Steve Jones has been working with SQL Server since 1991 and been a DBA in a variety of large and small companies and industries. In 2001 Steve founded SQLServerCentral with two partners and has been publishing technical articles and facilitating discussions among SQL Server professionals ever since. He currently is the full time editor of SQLServerCentral, owned by Red Gate Software.</p>",
+  "description": "<p>In this short session, Steve Jones will demonstrate a few of the Red Gate tools that can save you a tremendous amount of time and make your job as a DBA much easier every day. Bio: Steve Jones has been working with SQL Server since 1991 and been a DBA in a variety of large and small companies and industries. In 2001 Steve founded SQLServerCentral with two partners and has been publishing technical articles and facilitating discussions among SQL Server professionals ever since. He currently is the full time editor of SQLServerCentral, owned by Red Gate Software.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495923509_295x166.jpg"
+  ],
   "vimeo": "111341999",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/495923509_295x166.jpg",

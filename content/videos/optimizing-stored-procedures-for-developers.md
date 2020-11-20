@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "optimizing-stored-procedures-for-developers",
   "abstract": "<p>In this talk I will talk about SQL Server stored procedures and techniques you can use to optimize them. I will cover stored procedures from a developer’s point of view including table variables, common table expressions and temporary tables. Which do you use and when do you use it. There will also be a number of quick tips that you can use to improve query performance when you walk out of the session</p>",
+  "description": "<p>In this talk I will talk about SQL Server stored procedures and techniques you can use to optimize them. I will cover stored procedures from a developer’s point of view including table variables, common table expressions and temporary tables. Which do you use and when do you use it. There will also be a number of quick tips that you can use to improve query performance when you walk out of the session</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/487542423_295x166.jpg"
+  ],
   "vimeo": "104885907",
   "moreinfo": "http://codecamp13.adnug.org/",
   "thumbnail": "https://i.vimeocdn.com/video/487542423_295x166.jpg",

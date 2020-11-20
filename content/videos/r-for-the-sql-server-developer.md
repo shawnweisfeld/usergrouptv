@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "r-for-the-sql-server-developer",
   "abstract": "<p>R is the premiere language for data analysis.  If the world of data science sounds fun and exciting, now is the time to get into R.  We will walk through the core constructs of R, learn how to retrieve data from flat files and databases, and get a peek at the power behind R.  This session will also give resources on where to go in order to become more familiar with statistics, R the language, and the R package ecosystem.</p>",
+  "description": "<p>R is the premiere language for data analysis.  If the world of data science sounds fun and exciting, now is the time to get into R.  We will walk through the core constructs of R, learn how to retrieve data from flat files and databases, and get a peek at the power behind R.  This session will also give resources on where to go in order to become more familiar with statistics, R the language, and the R package ecosystem.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/622684266_295x166.jpg"
+  ],
   "vimeo": "207570215",
   "moreinfo": "http://www.sqlsaturday.com/603/Sessions/Details.aspx?sid=57273",
   "thumbnail": "https://i.vimeocdn.com/video/622684266_295x166.jpg",

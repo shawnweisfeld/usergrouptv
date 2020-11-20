@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "climbing-sql-server-index-b-tree-from-user-perspective",
   "abstract": "<p>This session dives down and looks at the important items on data pages of clustered, non-clustered, and unique non-clustered indexes using the DBCC Page command. It will also look at the effect of row data compression on indexes. In all demos we will try to ascertain how the SQL Server optimizer might use them and also strive to gain some insight from a performance advantage. Its purpose is mainly to try and understand how SQL Server implements indexes, their underlying structure, and where performance benefits might lie from a layman’s viewpoint. Session is 80% demos. This is an intermediate level presentation.</p>",
+  "description": "<p>This session dives down and looks at the important items on data pages of clustered, non-clustered, and unique non-clustered indexes using the DBCC Page command. It will also look at the effect of row data compression on indexes. In all demos we will try to ascertain how the SQL Server optimizer might use them and also strive to gain some insight from a performance advantage. Its purpose is mainly to try and understand how SQL Server implements indexes, their underlying structure, and where performance benefits might lie from a layman’s viewpoint. Session is 80% demos. This is an intermediate level presentation.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/701148730_295x166.jpg"
+  ],
   "vimeo": "270091674",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/lzcdrmyxhbtb/",
   "thumbnail": "https://i.vimeocdn.com/video/701148730_295x166.jpg",

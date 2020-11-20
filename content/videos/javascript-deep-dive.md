@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "javascript-deep-dive",
   "abstract": "<p>It is important that every web developer have a good understaning of JavaScript. This presentation will provide you with a deep dive into the depths of JavaScript.\r\n</p>",
+  "description": "<p>It is important that every web developer have a good understaning of JavaScript. This presentation will provide you with a deep dive into the depths of JavaScript.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/484301548_295x166.jpg"
+  ],
   "vimeo": "102319336",
   "moreinfo": "http://www.dallasasp.net/Meetings/3780.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/484301548_295x166.jpg",

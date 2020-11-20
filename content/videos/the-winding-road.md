@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-winding-road",
   "abstract": "<p>Keynote from the 2011 Oklahoma City SQL Saturday</p>",
+  "description": "<p>Keynote from the 2011 Oklahoma City SQL Saturday</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495922142_295x166.jpg"
+  ],
   "vimeo": "111340961",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/495922142_295x166.jpg",

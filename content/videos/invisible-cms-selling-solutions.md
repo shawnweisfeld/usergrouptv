@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "invisible-cms-selling-solutions",
   "abstract": "<p>Picking a CMS is a technical, business, and personal decision. You'll learn about the future of content management, and why migrating to \"Invisible\" CMS is critical to your success. You can create your own \"Invisible\" CMS, and grow your business. \"Invisible\" CMS is about creating a business with Joomla while not being fixated on the actual platform. To be successful, it's critical to understand that very few people care about the actual CMS, they need to see solutions; and developers need to provide more than just a custom template. The focus will be on reimagining what you as a developer/integrator/agency are doing, integrating 3rd party technologies, and selling a solution.</p>",
+  "description": "<p>Picking a CMS is a technical, business, and personal decision. You'll learn about the future of content management, and why migrating to \"Invisible\" CMS is critical to your success. You can create your own \"Invisible\" CMS, and grow your business. \"Invisible\" CMS is about creating a business with Joomla while not being fixated on the actual platform. To be successful, it's critical to understand that very few people care about the actual CMS, they need to see solutions; and developers need to provide more than just a custom template. The focus will be on reimagining what you as a developer/integrator/agency are doing, integrating 3rd party technologies, and selling a solution.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/818415610_295x166.jpg"
+  ],
   "vimeo": "363308449",
   "moreinfo": "https://www.joomladaytexas.com/",
   "thumbnail": "https://i.vimeocdn.com/video/818415610_295x166.jpg",

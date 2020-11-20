@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "hello-azure-functions-4",
   "abstract": "<p>Azure functions is a solution for easily running small pieces of code, or \"functions,\" in the cloud. You can write just the code you need for the problem at hand, without worrying about a whole application or the infrastructure to run it. In this talk we will provide an overview of the newest member to the Azure family, and then dig into to some code.\r\n</p>",
+  "description": "<p>Azure functions is a solution for easily running small pieces of code, or \"functions,\" in the cloud. You can write just the code you need for the problem at hand, without worrying about a whole application or the infrastructure to run it. In this talk we will provide an overview of the newest member to the Azure family, and then dig into to some code.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/594173150_295x166.jpg"
+  ],
   "vimeo": "184673180",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/594173150_295x166.jpg",

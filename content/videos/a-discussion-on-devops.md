@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "a-discussion-on-devops",
   "abstract": "<p>Ever heard of DevOps, but aren't sure what it is or why it's incredibly important? Come find out what it means to continuously deliver software, to operate at velocity, and how this will fundamentally transform businesses. We'll discuss the concepts behind DevOps, how it relates to both startups and enterprises, and talk about why it's more than good for just Dev and Infra.</p>",
+  "description": "<p>Ever heard of DevOps, but aren't sure what it is or why it's incredibly important? Come find out what it means to continuously deliver software, to operate at velocity, and how this will fundamentally transform businesses. We'll discuss the concepts behind DevOps, how it relates to both startups and enterprises, and talk about why it's more than good for just Dev and Infra.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/540281229_295x166.jpg"
+  ],
   "vimeo": "142866196",
   "moreinfo": "http://lrtechfest.com/speakerdetails/#Pete-Buletza",
   "thumbnail": "https://i.vimeocdn.com/video/540281229_295x166.jpg",

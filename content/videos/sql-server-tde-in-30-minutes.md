@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sql-server-tde-in-30-minutes",
   "abstract": "<p>Have you ever wanted to know how Transparent Database Encryption (TDE) works or how you set it up? This session will go over all the steps and caveats that go with this technology. This is a topic that is an Enterprise Feature, but allows you to have your database encrypted on disk. We will discuss the Encryption Hierarchy as well as how it relates to SQL Server TDE.</p>",
+  "description": "<p>Have you ever wanted to know how Transparent Database Encryption (TDE) works or how you set it up? This session will go over all the steps and caveats that go with this technology. This is a topic that is an Enterprise Feature, but allows you to have your database encrypted on disk. We will discuss the Encryption Hierarchy as well as how it relates to SQL Server TDE.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495918738_295x166.jpg"
+  ],
   "vimeo": "111338154",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/495918738_295x166.jpg",

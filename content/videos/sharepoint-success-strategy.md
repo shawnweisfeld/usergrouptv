@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sharepoint-success-strategy",
   "abstract": "<p>One of the greatest challenges facing IT is poor user adoption of technology. There are many organizations using SharePoint but still experience what is regarded by the business as failure. Our talk will focus on ways to win the SharePoint and collaboration platforms like Jive!</p>",
+  "description": "<p>One of the greatest challenges facing IT is poor user adoption of technology. There are many organizations using SharePoint but still experience what is regarded by the business as failure. Our talk will focus on ways to win the SharePoint and collaboration platforms like Jive!</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/593962011_295x166.jpg"
+  ],
   "vimeo": "184507517",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/593962011_295x166.jpg",

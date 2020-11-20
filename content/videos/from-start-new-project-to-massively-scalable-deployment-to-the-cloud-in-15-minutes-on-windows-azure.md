@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "from-start-new-project-to-massively-scalable-deployment-to-the-cloud-in-15-minutes-on-windows-azure",
   "abstract": "In this session, we will talk about how easy it is to deploy applications to Microsoft's cloud platform - Windows Azure, starting from scratch i.e. zero code. We will build an app in Visual Studio and set up continuous deployment &amp; start deploying shippable code in quick iterations. No slides. Just code.",
+  "description": "In this session, we will talk about how easy it is to deploy applications to Microsoft's cloud platform - Windows Azure, starting from scratch i.e. zero code. We will build an app in Visual Studio and set up continuous deployment &amp; start deploying shippable code in quick iterations. No slides. Just code.",
+  "images": [
+    "https://i.vimeocdn.com/video/488128851_295x166.jpg"
+  ],
   "vimeo": "105360176",
   "moreinfo": "http://techfests.com/NWA/2012",
   "thumbnail": "https://i.vimeocdn.com/video/488128851_295x166.jpg",

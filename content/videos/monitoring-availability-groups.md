@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "monitoring-availability-groups",
   "abstract": "<p>Once you have successfully configured Availability Groups, what comes next? In this session, we will go beyond setup and look at how to monitor your Availability Groups.  We will define and cover important metrics and alerts you need to manage a database in an Availability Group. You will walk away from this session with tools you need to monitor your environment and know how to respond to alerts.</p>",
+  "description": "<p>Once you have successfully configured Availability Groups, what comes next? In this session, we will go beyond setup and look at how to monitor your Availability Groups.  We will define and cover important metrics and alerts you need to manage a database in an Availability Group. You will walk away from this session with tools you need to monitor your environment and know how to respond to alerts.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/709494199_295x166.jpg"
+  ],
   "vimeo": "276870233",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=78758",
   "thumbnail": "https://i.vimeocdn.com/video/709494199_295x166.jpg",

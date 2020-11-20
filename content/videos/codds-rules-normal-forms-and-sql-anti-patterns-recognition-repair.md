@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "codds-rules-normal-forms-and-sql-anti-patterns-recognition-repair",
   "abstract": "<p>In 1970 E.F. Codd presented a seminal set of ideas now known as the Relational Model of Data.  Revolutionary for its time, these notions would give rise to many of the database engines of today including SQL Server.  Too many software developers and database designers though are unfamiliar with these ideas or do not know how to effectively apply them.  This presentation reviews Codd's rules and the relational normal forms; explains the differences between the relational model of data and the SQL database engines these ideas inspired; identifies some of the SQL anti-patterns that avoidance of these rules and normal forms gives rise to; and discusses both technical and organizational strategies for improving existing applications and their associated database designs and implementations.</p>",
+  "description": "<p>In 1970 E.F. Codd presented a seminal set of ideas now known as the Relational Model of Data.  Revolutionary for its time, these notions would give rise to many of the database engines of today including SQL Server.  Too many software developers and database designers though are unfamiliar with these ideas or do not know how to effectively apply them.  This presentation reviews Codd's rules and the relational normal forms; explains the differences between the relational model of data and the SQL database engines these ideas inspired; identifies some of the SQL anti-patterns that avoidance of these rules and normal forms gives rise to; and discusses both technical and organizational strategies for improving existing applications and their associated database designs and implementations.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/570948383_295x166.jpg"
+  ],
   "vimeo": "166789554",
   "moreinfo": "http://www.sqlsaturday.com/514/Sessions/Details.aspx?sid=48571",
   "thumbnail": "https://i.vimeocdn.com/video/570948383_295x166.jpg",

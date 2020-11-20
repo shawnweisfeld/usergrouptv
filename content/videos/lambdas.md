@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "lambdas",
   "abstract": "<p>&nbsp;</p>",
+  "description": "<p>&nbsp;</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/501051210_295x166.jpg"
+  ],
   "vimeo": "115130717",
   "moreinfo": "http://hands-on-coding.net",
   "thumbnail": "https://i.vimeocdn.com/video/501051210_295x166.jpg",

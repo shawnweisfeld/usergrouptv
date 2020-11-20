@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "blazor-architecture-patterns",
   "abstract": "<p>Blazor is an enabling new programming model for applications with C# and .NET. Blazor brings stateful application models to the web and to web-delivered scenarios. From delivering Blazor apps to production and operating them at increasing scale, Clear Measure has curated some\r\nimportant architecture patterns that empower developers to move fast, deliver consistent quality, and run the application with confidence. The content assumes the attendee is already familiar with Blazor and available quickstarts..of these rules or break them, you will continually struggle to achieve no-touch, no-drama software deployments.</p>",
+  "description": "<p>Blazor is an enabling new programming model for applications with C# and .NET. Blazor brings stateful application models to the web and to web-delivered scenarios. From delivering Blazor apps to production and operating them at increasing scale, Clear Measure has curated some\r\nimportant architecture patterns that empower developers to move fast, deliver consistent quality, and run the application with confidence. The content assumes the attendee is already familiar with Blazor and available quickstarts..of these rules or break them, you will continually struggle to achieve no-touch, no-drama software deployments.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/958530841_295x166.jpg"
+  ],
   "vimeo": "458586615",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/272662386/",
   "thumbnail": "https://i.vimeocdn.com/video/958530841_295x166.jpg",

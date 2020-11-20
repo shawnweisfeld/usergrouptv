@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "emergent-design",
   "abstract": "Designing software before writing a line of code, while not a new concept in today's world, for many developers it is a difficult concept to grasp. Developers are faced with difficult questions, such as which methodology to use? In this session we will discuss the benefits of Emergent Design and how we can approach software development, which will allow developers to work with the natural flow of the development process and let the design emerge as they go through that flow.",
+  "description": "Designing software before writing a line of code, while not a new concept in today's world, for many developers it is a difficult concept to grasp. Developers are faced with difficult questions, such as which methodology to use? In this session we will discuss the benefits of Emergent Design and how we can approach software development, which will allow developers to work with the natural flow of the development process and let the design emerge as they go through that flow.",
+  "images": [
+    "https://i.vimeocdn.com/video/488499701_295x166.jpg"
+  ],
   "vimeo": "105641111",
   "moreinfo": "http://www.ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/488499701_295x166.jpg",

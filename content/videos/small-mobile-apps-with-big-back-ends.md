@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "small-mobile-apps-with-big-back-ends",
   "abstract": "<p>You want to write mobile applications, but you don't want to write a bunch of server code. No problem! You will be amazed at how little code it takes to access a server-side database from your mobile client. Chris Koenig will walk us through this hands-on-lab, in which you will build a Windows 8 mobile application using Windows Azure Mobile Services. You will enable: Structured storage, Push notifications, Integrated authentication. And you will have fun doing it. </p>",
+  "description": "<p>You want to write mobile applications, but you don't want to write a bunch of server code. No problem! You will be amazed at how little code it takes to access a server-side database from your mobile client. Chris Koenig will walk us through this hands-on-lab, in which you will build a Windows 8 mobile application using Windows Azure Mobile Services. You will enable: Structured storage, Push notifications, Integrated authentication. And you will have fun doing it. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485961024_295x166.jpg"
+  ],
   "vimeo": "103659129",
   "moreinfo": "http://dallasxaml.com/",
   "thumbnail": "https://i.vimeocdn.com/video/485961024_295x166.jpg",

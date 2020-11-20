@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "get-insights-from-data-with-cognitive-services",
   "abstract": "<p>How can you take advantage of Artificial Intelligence without being a data scientist? Cognitive Services allow you use Artificial Intelligence to enrich your data through simple API calls. In this session, we will demonstrate the Cognitive Services and brainstorm how we can apply these to our applications.</p>",
+  "description": "<p>How can you take advantage of Artificial Intelligence without being a data scientist? Cognitive Services allow you use Artificial Intelligence to enrich your data through simple API calls. In this session, we will demonstrate the Cognitive Services and brainstorm how we can apply these to our applications.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/702675034_295x166.jpg"
+  ],
   "vimeo": "271386885",
   "moreinfo": "http://www.sqlsaturday.com/734/Sessions/Details.aspx?sid=72061",
   "thumbnail": "https://i.vimeocdn.com/video/702675034_295x166.jpg",

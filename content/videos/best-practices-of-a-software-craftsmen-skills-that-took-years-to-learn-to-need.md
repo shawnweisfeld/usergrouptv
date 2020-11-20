@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "best-practices-of-a-software-craftsmen-skills-that-took-years-to-learn-to-need",
   "abstract": "<p>So you have heard of this software craftsmanship movement, and you think it is a good idea. The question that stands is how do I do that? Is it enough to call myself a craftsman and start a blog? There is a lot more to being a software craftsman than the surface betrays. In this talk we will discuss some of the problems that plague the everyday coder, and the skills/practices that will help you transcend those problems. We will walk the gambit from what TDD and BDD are trying to do all the way to how UI design is not just for guys in turtle necks anymore. The evolution of computer users requires us to evolve as well and we will talk about and use some of the tools to guide that evolution.\r\n</p>",
+  "description": "<p>So you have heard of this software craftsmanship movement, and you think it is a good idea. The question that stands is how do I do that? Is it enough to call myself a craftsman and start a blog? There is a lot more to being a software craftsman than the surface betrays. In this talk we will discuss some of the problems that plague the everyday coder, and the skills/practices that will help you transcend those problems. We will walk the gambit from what TDD and BDD are trying to do all the way to how UI design is not just for guys in turtle necks anymore. The evolution of computer users requires us to evolve as well and we will talk about and use some of the tools to guide that evolution.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485087344_295x166.jpg"
+  ],
   "vimeo": "102968074",
   "moreinfo": "http://dallas-csharp-sig.com/2013/01/03/dallas-c-sig-feb-meeting-best-practices-of-a-software-craftsmen-skills-that-took-years-to-learn-to-need/",
   "thumbnail": "https://i.vimeocdn.com/video/485087344_295x166.jpg",

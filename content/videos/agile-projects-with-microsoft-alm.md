@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "agile-projects-with-microsoft-alm",
   "abstract": "<p>The next version of the Microsoft Visual Studio suite of tools, code named “Dev 11”, raises the bar yet again for full-spectrum application lifecycle management (ALM). Come see the latest editions of Visual Studio, Team Foundation Server, and Microsoft Test Manager in action as they all work together to provide the new “state of the art” in agile development.</p>",
+  "description": "<p>The next version of the Microsoft Visual Studio suite of tools, code named “Dev 11”, raises the bar yet again for full-spectrum application lifecycle management (ALM). Come see the latest editions of Visual Studio, Team Foundation Server, and Microsoft Test Manager in action as they all work together to provide the new “state of the art” in agile development.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495918685_295x166.jpg"
+  ],
   "vimeo": "111338124",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/495918685_295x166.jpg",

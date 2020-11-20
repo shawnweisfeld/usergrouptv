@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-magic-of-code-generation",
   "abstract": "<p>The purpose of this presentation is to introduce an overview about code generation practices in project development. Code generation is an underused and misunderstood practice, which can be used with any technology and virtually any ideology, especially if your architecture follows a pattern. During this presentation, demonstrations of how to retrieve metadata and how to create your own object model will be shown. The demonstrations will showcase a variety of code generation tools and different technologies. His presentation emphasizes best practices and tips.</p>",
+  "description": "<p>The purpose of this presentation is to introduce an overview about code generation practices in project development. Code generation is an underused and misunderstood practice, which can be used with any technology and virtually any ideology, especially if your architecture follows a pattern. During this presentation, demonstrations of how to retrieve metadata and how to create your own object model will be shown. The demonstrations will showcase a variety of code generation tools and different technologies. His presentation emphasizes best practices and tips.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/494184607_295x166.jpg"
+  ],
   "vimeo": "110068943",
   "moreinfo": "http://dallasasp.net/",
   "thumbnail": "https://i.vimeocdn.com/video/494184607_295x166.jpg",

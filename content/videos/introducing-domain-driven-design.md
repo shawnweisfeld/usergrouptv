@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "introducing-domain-driven-design",
   "abstract": "<p>Domain-Driven Design (DDD) provides a set of patterns and practices for tackling complex business problems with software models. Learn the basics of DDD in this session, including several principles and patterns you can start using immediately even if your project hasn't otherwise embraced DDD. Examples will primarily use C#/.NET. Attendees will leave with a basic understanding of DDD's approach, principles, and some key design patterns.</p>",
+  "description": "<p>Domain-Driven Design (DDD) provides a set of patterns and practices for tackling complex business problems with software models. Learn the basics of DDD in this session, including several principles and patterns you can start using immediately even if your project hasn't otherwise embraced DDD. Examples will primarily use C#/.NET. Attendees will leave with a basic understanding of DDD's approach, principles, and some key design patterns.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/927684320_295x166.jpg"
+  ],
   "vimeo": "440303910",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/270541807/",
   "thumbnail": "https://i.vimeocdn.com/video/927684320_295x166.jpg",

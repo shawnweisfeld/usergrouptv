@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "diy-sql-server-monitoring-for-your-enterprise",
   "abstract": "<p>Have you wanted monitoring tools but know it is not feasible to procure them for your whole SQL Server enterprise?  In this session, you will learn how to implement multiple solutions to help you be a Proactive DBA instead of retroactive DBA. You will understand which checks should be mandatory for every SQL Server environment.  You will also learn common pitfalls with implementing your own monitoring solutions and how to customize them to work for you.\r\n</p>",
+  "description": "<p>Have you wanted monitoring tools but know it is not feasible to procure them for your whole SQL Server enterprise?  In this session, you will learn how to implement multiple solutions to help you be a Proactive DBA instead of retroactive DBA. You will understand which checks should be mandatory for every SQL Server environment.  You will also learn common pitfalls with implementing your own monitoring solutions and how to customize them to work for you.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/709495166_295x166.jpg"
+  ],
   "vimeo": "276871002",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=83875",
   "thumbnail": "https://i.vimeocdn.com/video/709495166_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "deploy-all-the-games",
   "abstract": "<p>Come see how you can use the Unity3D toolset to build and deploy your game to ALL THE DEVICES!. New devices do not need ports from scratch anymore, we are in the 21st Century. We will explore how to deal with differing form factors, pixel densities, graphics support, input systems, and other multi-platform madness.It can be done. It doesn't have to be hard.\r\n</p>",
+  "description": "<p>Come see how you can use the Unity3D toolset to build and deploy your game to ALL THE DEVICES!. New devices do not need ports from scratch anymore, we are in the 21st Century. We will explore how to deal with differing form factors, pixel densities, graphics support, input systems, and other multi-platform madness.It can be done. It doesn't have to be hard.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/481964631_295x166.jpg"
+  ],
   "vimeo": "100467735",
   "moreinfo": "http://2014.cowtowntechroundup.com/Profile/9024c3c9-3b9a-4fbb-8b12-40f971d9554a",
   "thumbnail": "https://i.vimeocdn.com/video/481964631_295x166.jpg",

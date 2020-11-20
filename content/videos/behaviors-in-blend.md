@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "behaviors-in-blend",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/500557846_295x166.jpg"
+  ],
   "vimeo": "114768194",
   "moreinfo": "http://dallasxaml.com/",
   "thumbnail": "https://i.vimeocdn.com/video/500557846_295x166.jpg",

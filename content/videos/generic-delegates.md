@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "generic-delegates",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/499123293_295x166.jpg"
+  ],
   "vimeo": "113707921",
   "moreinfo": "http://hands-on-coding.net",
   "thumbnail": "https://i.vimeocdn.com/video/499123293_295x166.jpg",

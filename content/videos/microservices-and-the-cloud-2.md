@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "microservices-and-the-cloud-2",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/661079790_295x166.jpg"
+  ],
   "vimeo": "238397178",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/661079790_295x166.jpg",

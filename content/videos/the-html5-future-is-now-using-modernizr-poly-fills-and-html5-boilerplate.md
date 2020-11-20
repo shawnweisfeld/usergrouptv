@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-html5-future-is-now-using-modernizr-poly-fills-and-html5-boilerplate",
   "abstract": "<p>Don't let the lack of full HTML5 browser compliance keep you from diving in. Learn how to use Modernizr for feature detection, poly-fills to provide missing functionality, and the HTML5 Boilerplate project for a ton of stuff.</p>",
+  "description": "<p>Don't let the lack of full HTML5 browser compliance keep you from diving in. Learn how to use Modernizr for feature detection, poly-fills to provide missing functionality, and the HTML5 Boilerplate project for a ton of stuff.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495140813_295x166.jpg"
+  ],
   "vimeo": "110772609",
   "moreinfo": "http://techfests.com/Tulsa/2011/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/495140813_295x166.jpg",

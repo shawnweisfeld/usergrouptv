@@ -6,6 +6,10 @@
   "draft": false,
   "slug": "2017-austin-global-azure-bootcamp-close",
   "abstract": null,
+  "description": null,
+  "images": [
+    "https://i.vimeocdn.com/video/631744426_295x166.jpg"
+  ],
   "vimeo": "215102088",
   "moreinfo": "https://www.eventbrite.com/e/global-azure-bootcamp-2017-austin-tx-tickets-33085810550#",
   "thumbnail": "https://i.vimeocdn.com/video/631744426_295x166.jpg",

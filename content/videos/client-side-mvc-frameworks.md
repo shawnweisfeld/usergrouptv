@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "client-side-mvc-frameworks",
   "abstract": "<p>Client-side MVC frameworks like Spine.js, Backbone.js, Knockout.js and Ember.js are there to help you write richer client-side web experiences and give you solid patterns to follow. Come learn why they can help, how these frameworks work and what some of the existing options are.</p>",
+  "description": "<p>Client-side MVC frameworks like Spine.js, Backbone.js, Knockout.js and Ember.js are there to help you write richer client-side web experiences and give you solid patterns to follow. Come learn why they can help, how these frameworks work and what some of the existing options are.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/492993320_295x166.jpg"
+  ],
   "vimeo": "109120979",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/492993320_295x166.jpg",

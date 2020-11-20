@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "cryptography-101-2",
   "abstract": "Learn the fundamentals of cryptography, including public/private and symmetric encryption, hashing, and digital signatures. Discover which techniques are appropriate for various situations. Review practical real life examples for storing passwords, protecting URL parameters, securely exchanging information with partners, and safely encrypting sensitive information on public web sites. Concepts apply to all platforms, examples will be in C# for both .NET and .NET Core.",
+  "description": "Learn the fundamentals of cryptography, including public/private and symmetric encryption, hashing, and digital signatures. Discover which techniques are appropriate for various situations. Review practical real life examples for storing passwords, protecting URL parameters, securely exchanging information with partners, and safely encrypting sensitive information on public web sites. Concepts apply to all platforms, examples will be in C# for both .NET and .NET Core.",
+  "images": [
+    "https://i.vimeocdn.com/video/999196637_295x166.jpg"
+  ],
   "vimeo": "481865230",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/273740075",
   "thumbnail": "https://i.vimeocdn.com/video/999196637_295x166.jpg",

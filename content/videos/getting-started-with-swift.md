@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "getting-started-with-swift",
   "abstract": "<p>At WWDC 2014 Apple surprised the iOS community with a new programming language for iOS and OSX development called Swift.In this talk we will talk about how to use the language, how to use the new interactive programming environment called Playgrounds and how it fits in with Xcode and Objective-C to allow you to write iOS and OSX apps with more fun.</p>",
+  "description": "<p>At WWDC 2014 Apple surprised the iOS community with a new programming language for iOS and OSX development called Swift.In this talk we will talk about how to use the language, how to use the new interactive programming environment called Playgrounds and how it fits in with Xcode and Objective-C to allow you to write iOS and OSX apps with more fun.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/492574330_295x166.jpg"
+  ],
   "vimeo": "108786953",
   "moreinfo": "http://www.dallastechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/492574330_295x166.jpg",

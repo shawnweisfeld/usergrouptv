@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "introduction-to-azure-and-cloud",
   "abstract": "<p>Introduction to Azure and cloud</p>",
+  "description": "<p>Introduction to Azure and cloud</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/566418431_295x166.jpg"
+  ],
   "vimeo": "163219238",
   "moreinfo": "http://www.meetup.com/DFW-Azure-User-Group/events/227460670/",
   "thumbnail": "https://i.vimeocdn.com/video/566418431_295x166.jpg",

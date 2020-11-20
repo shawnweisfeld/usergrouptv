@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "mvvm-with-xamarin-forms",
   "abstract": "<p>Xamarin.Forms is a new framework that allows mobile application developers to write portable apps for Android, iOS, and Windows Phone with nearly 100% reusable code while still maintaining a native look and feel for each platform. This talk will cover the basics of using Xamarin.Forms from building a basic application using XAML and MVVM to using custom renderers to customize the application for each platform. \r\n</p>",
+  "description": "<p>Xamarin.Forms is a new framework that allows mobile application developers to write portable apps for Android, iOS, and Windows Phone with nearly 100% reusable code while still maintaining a native look and feel for each platform. This talk will cover the basics of using Xamarin.Forms from building a basic application using XAML and MVVM to using custom renderers to customize the application for each platform. \r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/520899654_295x166.jpg"
+  ],
   "vimeo": "129422841",
   "moreinfo": "http://xamarin.com/dev-days",
   "thumbnail": "https://i.vimeocdn.com/video/520899654_295x166.jpg",

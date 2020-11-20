@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "how-we-solved-our-batch-sql-processing-problems-with-hadoop",
   "abstract": "<p>Does your SQL batch jobs take too long to complete? Does all that data stored in staging tables keep you up at night? Does dirty data cause the ETL process to barf with primary key violations? When product asks for another metric does it take 5 different alter scripts, 10 changes to SQL stored procs, and 8 changes to existing SSIS packages? If this is your organization, Hadoop can help with all these. You don’t need internet scale data to use it. After a brief intro to map/reduce, we will walk through a solution to a real world problem of finding incoming links to web pages. First, we will solve it using the Java API and then proceed to solve the same problem in Hive. You should walk away with a good understanding of Hadoop and how to start solving problems with it.</p>",
+  "description": "<p>Does your SQL batch jobs take too long to complete? Does all that data stored in staging tables keep you up at night? Does dirty data cause the ETL process to barf with primary key violations? When product asks for another metric does it take 5 different alter scripts, 10 changes to SQL stored procs, and 8 changes to existing SSIS packages? If this is your organization, Hadoop can help with all these. You don’t need internet scale data to use it. After a brief intro to map/reduce, we will walk through a solution to a real world problem of finding incoming links to web pages. First, we will solve it using the Java API and then proceed to solve the same problem in Hive. You should walk away with a good understanding of Hadoop and how to start solving problems with it.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/482639317_295x166.jpg"
+  ],
   "vimeo": "100980764",
   "moreinfo": "http://adnug.org/Home/november-11-how-we-solved-our-batch-sql-processing-problems-with-hadoop/",
   "thumbnail": "https://i.vimeocdn.com/video/482639317_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "intro-to-agile",
   "abstract": "<p>In today's world of software development the challenge of delivering quality value added software quickly and often have brought rise to a new approach in software development. Agile software development is becoming a widely proven and accepted alternative to heavy up front software development. There are many misconceptions with the processes and practices of Agile software development. This sessions is designed to give you a grounding on concepts that are used in many forms of Agile development including Scrum and Extreme Programming.</p>",
+  "description": "<p>In today's world of software development the challenge of delivering quality value added software quickly and often have brought rise to a new approach in software development. Agile software development is becoming a widely proven and accepted alternative to heavy up front software development. There are many misconceptions with the processes and practices of Agile software development. This sessions is designed to give you a grounding on concepts that are used in many forms of Agile development including Scrum and Extreme Programming.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/499119325_295x166.jpg"
+  ],
   "vimeo": "113705110",
   "moreinfo": "http://schoolofdev.com",
   "thumbnail": "https://i.vimeocdn.com/video/499119325_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "overcoming-complex-data-cleansing-challenges-with-excel-power-query",
   "abstract": "<p>Building off the earlier session, \"Finding & Cleansing Data with Excel Power Query\", we will explore more advanced techniques for cleansing data using Excel Power Query including the use of Power Query expressions. Armed with these techniques, analysts should feel confident tackling some of the gnarliest data cleansing challenges.</p>",
+  "description": "<p>Building off the earlier session, \"Finding & Cleansing Data with Excel Power Query\", we will explore more advanced techniques for cleansing data using Excel Power Query including the use of Power Query expressions. Armed with these techniques, analysts should feel confident tackling some of the gnarliest data cleansing challenges.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/482637503_295x166.jpg"
+  ],
   "vimeo": "100979330",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=305&sessionid=21945",
   "thumbnail": "https://i.vimeocdn.com/video/482637503_295x166.jpg",

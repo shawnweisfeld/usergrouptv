@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "speaking-the-language-of-the-web-with-wcf-web-api",
   "abstract": "<p>Proprietary protocols are out, openness is in. If your building applications today you want to talk to a large range of devices and you want to do it in HTTP, the language of the web. Microsoft has been getting serious about enabling you to do that with a new offering called WCF Web API. In this talk we'll look at how you can build nice friendly, light services over HTTP. We'll show you how you can take JSON further than you thought possible in the framework. And we'll talk about how you can build secure services.</p>",
+  "description": "<p>Proprietary protocols are out, openness is in. If your building applications today you want to talk to a large range of devices and you want to do it in HTTP, the language of the web. Microsoft has been getting serious about enabling you to do that with a new offering called WCF Web API. In this talk we'll look at how you can build nice friendly, light services over HTTP. We'll show you how you can take JSON further than you thought possible in the framework. And we'll talk about how you can build secure services.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495141869_295x166.jpg"
+  ],
   "vimeo": "110773422",
   "moreinfo": "http://techfests.com/Tulsa/2011/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/495141869_295x166.jpg",

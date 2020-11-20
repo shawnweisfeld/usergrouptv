@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "what-can-python-in-sql-server-do-for-you",
   "abstract": "<p>DBAs, T-SQL developers, ETL developers, report writers, and data analysts can all benefit from Python in SQL Server. And, to top it off, it's much easier to use Python in these situations than it was before. Come see some examples on how your SQL Server life can be easier.</p>",
+  "description": "<p>DBAs, T-SQL developers, ETL developers, report writers, and data analysts can all benefit from Python in SQL Server. And, to top it off, it's much easier to use Python in these situations than it was before. Come see some examples on how your SQL Server life can be easier.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/726721101_295x166.jpg"
+  ],
   "vimeo": "290759635",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/fnxhcqyxmbxb/",
   "thumbnail": "https://i.vimeocdn.com/video/726721101_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "driving-flow-value-and-innovation-with-the-agile-vmo",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/820029582_295x166.jpg"
+  ],
   "vimeo": "364566544",
   "moreinfo": "http://conference.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/820029582_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "getting-started-with-azure-infrastructure-as-a-service-iaas",
   "abstract": "<p>Getting started with Azure Infrastructure as a Service (IaaS)</p>",
+  "description": "<p>Getting started with Azure Infrastructure as a Service (IaaS)</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/566449374_295x166.jpg"
+  ],
   "vimeo": "163237838",
   "moreinfo": "http://www.meetup.com/DFW-Azure-User-Group/events/227460670/",
   "thumbnail": "https://i.vimeocdn.com/video/566449374_295x166.jpg",

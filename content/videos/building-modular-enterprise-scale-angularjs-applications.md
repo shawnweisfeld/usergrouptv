@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "building-modular-enterprise-scale-angularjs-applications",
   "abstract": "<p>AngularJS enables developers to rapidly build single page applications. However, the framework leaves many decisions to development teams including structuring content, script loading, and module management. When building large scale applications for businesses and enterprises this can quickly become challenging to maintain, test, iterate, and extend.&nbsp;</p><p>The talk will focus on best practices and strategies for structuring large AngularJS applications, maintainable code styling for modular code, and introduce tools and strategies for teams to effectively build, package, deliver, and deploy in an enterprise environment.</p>",
+  "description": "<p>AngularJS enables developers to rapidly build single page applications. However, the framework leaves many decisions to development teams including structuring content, script loading, and module management. When building large scale applications for businesses and enterprises this can quickly become challenging to maintain, test, iterate, and extend.&nbsp;</p><p>The talk will focus on best practices and strategies for structuring large AngularJS applications, maintainable code styling for modular code, and introduce tools and strategies for teams to effectively build, package, deliver, and deploy in an enterprise environment.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/540280447_295x166.jpg"
+  ],
   "vimeo": "142865593",
   "moreinfo": "http://lrtechfest.com/speakerdetails/#Jonathan-Fontanez",
   "thumbnail": "https://i.vimeocdn.com/video/540280447_295x166.jpg",

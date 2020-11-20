@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "how-to-test-spring-applications-and-services",
   "abstract": "<p>Join us and Spring Developer Advocate Mario Gray (https://springonetour.io/2018/speakers) as he looks at how to test Spring applications and services. He'll look at how to test basic components, mocks, how to take advantage of test slices, and how to test web applications. He'll also look at how to ensure that API producers and API consumers work well together using consumer driven contract testing (CDCT) without sacrificing the testing pyramid for end-to-end integration tests. </p>",
+  "description": "<p>Join us and Spring Developer Advocate Mario Gray (https://springonetour.io/2018/speakers) as he looks at how to test Spring applications and services. He'll look at how to test basic components, mocks, how to take advantage of test slices, and how to test web applications. He'll also look at how to ensure that API producers and API consumers work well together using consumer driven contract testing (CDCT) without sacrificing the testing pyramid for end-to-end integration tests. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/693144702_295x166.jpg"
+  ],
   "vimeo": "263576248",
   "moreinfo": "https://www.meetup.com/Austin-Cloud-Native-Meetup/events/248436504/",
   "thumbnail": "https://i.vimeocdn.com/video/693144702_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "increase-value-of-sharepoint-by-giving-users-the-right-support",
   "abstract": "<p>What support should a business user have in order to increase the value of SharePoint tool? Having SharePoint, is not the end purpose of IT, it is like giving a tool box and not showing how to use the tools or what they are used for. Business users need special support that is not only technical maintenance when they need it, but it is on-going as part of training and what is possible to do with those tools. The value of SharePoint increases as users use it for more and more business processes, but how do business users know of what is possible with SharePoint and how do they implement it?</p>",
+  "description": "<p>What support should a business user have in order to increase the value of SharePoint tool? Having SharePoint, is not the end purpose of IT, it is like giving a tool box and not showing how to use the tools or what they are used for. Business users need special support that is not only technical maintenance when they need it, but it is on-going as part of training and what is possible to do with those tools. The value of SharePoint increases as users use it for more and more business processes, but how do business users know of what is possible with SharePoint and how do they implement it?</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/593962045_295x166.jpg"
+  ],
   "vimeo": "184507530",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/593962045_295x166.jpg",

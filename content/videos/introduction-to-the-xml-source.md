@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "introduction-to-the-xml-source",
   "abstract": "<p>XML is all over the place. But how do you get that data into SQL Server? SSIS provides an XML Source, but it is not easy to use. In this session we will handle increasingly complex XML documents. After an introduction to using the XML Source with a single set of elements, we will look at how to work with multiple element sets. This includes hierarchically structured XML documents.Attendees will be able to import simple XML using SSIS. They will be able to create import routines that pull data from different elements of more complex XML. They will understand the role the XML Schema plays in defining the XML data they import. </p>",
+  "description": "<p>XML is all over the place. But how do you get that data into SQL Server? SSIS provides an XML Source, but it is not easy to use. In this session we will handle increasingly complex XML documents. After an introduction to using the XML Source with a single set of elements, we will look at how to work with multiple element sets. This includes hierarchically structured XML documents.Attendees will be able to import simple XML using SSIS. They will be able to create import routines that pull data from different elements of more complex XML. They will understand the role the XML Schema plays in defining the XML data they import. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/483491352_295x166.jpg"
+  ],
   "vimeo": "101661723",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=223&sessionid=14723",
   "thumbnail": "https://i.vimeocdn.com/video/483491352_295x166.jpg",

@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "sql-server-vs-the-world",
   "abstract": "<p>While SQL Server is the 3rd most used database in the world, the landscape of how we build applications and the technology supporting them is quickly changing. As if keeping up with SQL Server isn't enough on its own, we now have to deal with the terms and technology that comes with NoSQL (Not-Only-SQL) as well as fast moving, feature rich open source Relational DBs. In this session, we will explore some of the popular data stores, why AppDevs like using them and how your skills in SQL Server translate to them. Note: This session is geared towards OLTP systems. BI Solutions are NOT on the radar for this.</p>",
+  "description": "<p>While SQL Server is the 3rd most used database in the world, the landscape of how we build applications and the technology supporting them is quickly changing. As if keeping up with SQL Server isn't enough on its own, we now have to deal with the terms and technology that comes with NoSQL (Not-Only-SQL) as well as fast moving, feature rich open source Relational DBs. In this session, we will explore some of the popular data stores, why AppDevs like using them and how your skills in SQL Server translate to them. Note: This session is geared towards OLTP systems. BI Solutions are NOT on the radar for this.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/483491133_295x166.jpg"
+  ],
   "vimeo": "101661613",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=223&sessionid=16329",
   "thumbnail": "https://i.vimeocdn.com/video/483491133_295x166.jpg",

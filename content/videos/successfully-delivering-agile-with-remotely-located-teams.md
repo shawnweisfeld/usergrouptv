@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "successfully-delivering-agile-with-remotely-located-teams",
   "abstract": "<p>Rural Sourcing is a US Domestic Onshore provider of Agile-delivered AppDev, Support, QA, and QA Automation. Our Dev Centers are located is Rural US Cities. Over the past 10 years we have perfected the delivery of Agile from remote locations to our customers in large US cities.</p>",
+  "description": "<p>Rural Sourcing is a US Domestic Onshore provider of Agile-delivered AppDev, Support, QA, and QA Automation. Our Dev Centers are located is Rural US Cities. Over the past 10 years we have perfected the delivery of Agile from remote locations to our customers in large US cities.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/650202913_295x166.jpg"
+  ],
   "vimeo": "229798045",
   "moreinfo": "http://schoolofdev.com/Tulsa/2017/Speakers/DerekPerry/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/650202913_295x166.jpg",

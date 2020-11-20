@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "webmatrix-to-asp-net-mvc-web-camp-part-2-application-development-with-html5",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/499124275_295x166.jpg"
+  ],
   "vimeo": "113708617",
   "moreinfo": "http://www.webcamps.ms",
   "thumbnail": "https://i.vimeocdn.com/video/499124275_295x166.jpg",

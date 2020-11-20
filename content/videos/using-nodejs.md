@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "using-nodejs",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/490130975_295x166.jpg"
+  ],
   "vimeo": "106886922",
   "moreinfo": "",
   "thumbnail": "https://i.vimeocdn.com/video/490130975_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "experience-sql-server-2017-the-modern-database-platform",
   "abstract": "<p>SQL Server is no longer just a relational database management system. It has become a platform for data, both in your cloud and ours. This session will discuss all the new features and capabilities of SQL Server 2017 including SQL Server on Linux, Docker Containers, Graph Database, Python, Adaptive Query Processing, Automatic Tuning, and new HADR capabilities. We will even talk a few hidden gems included in the release. This session will contain demos that showcase these capabilities and we will close the session with a discussion of SQL Server Futures and Roadmap.</p>",
+  "description": "<p>SQL Server is no longer just a relational database management system. It has become a platform for data, both in your cloud and ours. This session will discuss all the new features and capabilities of SQL Server 2017 including SQL Server on Linux, Docker Containers, Graph Database, Python, Adaptive Query Processing, Automatic Tuning, and new HADR capabilities. We will even talk a few hidden gems included in the release. This session will contain demos that showcase these capabilities and we will close the session with a discussion of SQL Server Futures and Roadmap.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/702623750_295x166.jpg"
+  ],
   "vimeo": "271347017",
   "moreinfo": "http://www.sqlsaturday.com/734/Sessions/Details.aspx?sid=73044",
   "thumbnail": "https://i.vimeocdn.com/video/702623750_295x166.jpg",

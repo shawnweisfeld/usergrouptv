@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "rck-yor-cde-defensive-programming-for-microsoft-net",
   "abstract": "This session brings writing better code to the next level. Do you enjoy receiving bug tickets from QA? I didn’t think you would, so this session will provide solid practices that I have been using for most of my programming career to check-in to source only rock-solid code. You will learn my #1 mantra, along with over 13 rules, that I use while writing code that allows me to write new code (features) and stay out of maintenance mode hell",
+  "description": "This session brings writing better code to the next level. Do you enjoy receiving bug tickets from QA? I didn’t think you would, so this session will provide solid practices that I have been using for most of my programming career to check-in to source only rock-solid code. You will learn my #1 mantra, along with over 13 rules, that I use while writing code that allows me to write new code (features) and stay out of maintenance mode hell",
+  "images": [
+    "https://i.vimeocdn.com/video/976577166_295x166.jpg"
+  ],
   "vimeo": "469023195",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/273670091/",
   "thumbnail": "https://i.vimeocdn.com/video/976577166_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "service-fabric-a-platform-for-building-and-managing-highly-scalable-services",
   "abstract": "<p>Building and managing services at scale is hard. Increasingly these services also require to be low latency for responsiveness, yet need to also achieve the availability, scalability and manageability demands of a successful service. Service Fabric is a service platform that achieves these goals and is the basis of several of Microsoft's high scale services including Azure Databases, Document DB, Bing Cortana, Lync, Azure Power BI, Intune and core Azure services. In this session Shawn Weisfeld and Azure Technical Evangelist will cover the service development and management capabilities that you can use today, and the roadmap for the external release of this as a service providing the next generation PaaS for Azure.</p>",
+  "description": "<p>Building and managing services at scale is hard. Increasingly these services also require to be low latency for responsiveness, yet need to also achieve the availability, scalability and manageability demands of a successful service. Service Fabric is a service platform that achieves these goals and is the basis of several of Microsoft's high scale services including Azure Databases, Document DB, Bing Cortana, Lync, Azure Power BI, Intune and core Azure services. In this session Shawn Weisfeld and Azure Technical Evangelist will cover the service development and management capabilities that you can use today, and the roadmap for the external release of this as a service providing the next generation PaaS for Azure.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/519305193_295x166.jpg"
+  ],
   "vimeo": "128245132",
   "moreinfo": "http://www.meetup.com/DallasNETUG/events/221441356/",
   "thumbnail": "https://i.vimeocdn.com/video/519305193_295x166.jpg",

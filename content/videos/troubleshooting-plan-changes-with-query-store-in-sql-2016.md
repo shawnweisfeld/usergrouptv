@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "troubleshooting-plan-changes-with-query-store-in-sql-2016",
   "abstract": "<p>Have you ever had random performance problems with a particular query? Have you noticed different execution plans for the same query? In this session were going to cover how execution plans get invalidated and why data skew could be the root cause to seeing different execution plans for the same query.  We will look at options for forcing a query to use a particular execution plan. Finally, you will learn how this complex problem can be identified and resolved simply using a new feature in SQL Server 2016 called Query Store.   Goals:  1. Learn how execution plans are created and removed from plan cache 2. Understand how and why execution plans change 3. Learn how to lock in an execution plan for a given query. \r\n</p>",
+  "description": "<p>Have you ever had random performance problems with a particular query? Have you noticed different execution plans for the same query? In this session were going to cover how execution plans get invalidated and why data skew could be the root cause to seeing different execution plans for the same query.  We will look at options for forcing a query to use a particular execution plan. Finally, you will learn how this complex problem can be identified and resolved simply using a new feature in SQL Server 2016 called Query Store.   Goals:  1. Learn how execution plans are created and removed from plan cache 2. Understand how and why execution plans change 3. Learn how to lock in an execution plan for a given query. \r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/540605076_295x166.jpg"
+  ],
   "vimeo": "143117542",
   "moreinfo": "http://cactuss.sqlpass.org/Home.aspx?EventID=4049",
   "thumbnail": "https://i.vimeocdn.com/video/540605076_295x166.jpg",

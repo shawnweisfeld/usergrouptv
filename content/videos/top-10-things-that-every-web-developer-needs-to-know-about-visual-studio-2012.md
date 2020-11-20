@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "top-10-things-that-every-web-developer-needs-to-know-about-visual-studio-2012",
   "abstract": "<p>Visual Studio 2012, includes a family of products, tools, and technologies that you can use to build powerful, high-performance apps. You can use Visual Studio 2012 to create Metro style apps, in addition to desktop, web, phone, and game-console apps. In this presentation I will cover the top 10 things that every web developer needs to know about Visual Studio 2012.\r\n</p>",
+  "description": "<p>Visual Studio 2012, includes a family of products, tools, and technologies that you can use to build powerful, high-performance apps. You can use Visual Studio 2012 to create Metro style apps, in addition to desktop, web, phone, and game-console apps. In this presentation I will cover the top 10 things that every web developer needs to know about Visual Studio 2012.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/487541828_295x166.jpg"
+  ],
   "vimeo": "104885493",
   "moreinfo": "http://www.dallasasp.net",
   "thumbnail": "https://i.vimeocdn.com/video/487541828_295x166.jpg",

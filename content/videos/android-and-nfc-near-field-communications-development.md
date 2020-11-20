@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "android-and-nfc-near-field-communications-development",
   "abstract": "<p>Newer Android devices are coming equipped with NFC capabilities. This technology is being used to quickly share photos, contacts, and other information. It is also starting to be used for other things like payment at the cash register and location awareness. This session will provide an introduction into the Google api's surround nfc capabilities. The session will include creating a simple app that utilizes NFC for communication as well as discussing some of the possibilities and risks involved with the technology.</p>",
+  "description": "<p>Newer Android devices are coming equipped with NFC capabilities. This technology is being used to quickly share photos, contacts, and other information. It is also starting to be used for other things like payment at the cash register and location awareness. This session will provide an introduction into the Google api's surround nfc capabilities. The session will include creating a simple app that utilizes NFC for communication as well as discussing some of the possibilities and risks involved with the technology.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485962579_295x166.jpg"
+  ],
   "vimeo": "103660488",
   "moreinfo": "http://techfests.com/Tulsa/2012/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/485962579_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "lessons-learned-from-and-agile-adoption",
   "abstract": "<p>Barry Rogers, President of Improving Texas, will moderate a Q&amp;A session with 4 IT leaders in the DFW area. Questions about the agile adoption experience for each company will be addressed from Barry and you, the audience!</p>",
+  "description": "<p>Barry Rogers, President of Improving Texas, will moderate a Q&amp;A session with 4 IT leaders in the DFW area. Questions about the agile adoption experience for each company will be addressed from Barry and you, the audience!</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/491655161_295x166.jpg"
+  ],
   "vimeo": "108063143",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/491655161_295x166.jpg",

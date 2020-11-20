@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "paas-vs-iaas-navigating-the-decision-tree-azure-sql-db-vs-sql-on-a-vm",
   "abstract": "<p>There are multiple options for hosting relational databases in Azure. A common challenge we come across frequently is helping ISVs to understand all of the options and sorting out which is right for their scenario. This first video address that challenge by helping you to navigate the decision tree between PaaS (Platform as a service) and IaaS (Infrastructure as a service). Specifically, When deciding what type of database to use in Azure.</p>",
+  "description": "<p>There are multiple options for hosting relational databases in Azure. A common challenge we come across frequently is helping ISVs to understand all of the options and sorting out which is right for their scenario. This first video address that challenge by helping you to navigate the decision tree between PaaS (Platform as a service) and IaaS (Infrastructure as a service). Specifically, When deciding what type of database to use in Azure.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/587194203_295x166.jpg"
+  ],
   "vimeo": "179316832",
   "moreinfo": "http://www.sqlsaturday.com/550/Sessions/Details.aspx?sid=50809",
   "thumbnail": "https://i.vimeocdn.com/video/587194203_295x166.jpg",

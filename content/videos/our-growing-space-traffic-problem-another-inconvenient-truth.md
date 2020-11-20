@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "our-growing-space-traffic-problem-another-inconvenient-truth",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/820028823_295x166.jpg"
+  ],
   "vimeo": "364566185",
   "moreinfo": "http://conference.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/820028823_295x166.jpg",

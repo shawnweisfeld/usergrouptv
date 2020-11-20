@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "data-discovery-austin-scooter-data",
   "abstract": "<p>Data Discovery: Austin Scooter Data</p>",
+  "description": "<p>Data Discovery: Austin Scooter Data</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/845729272_295x166.jpg"
+  ],
   "vimeo": "384090148",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/266470246/",
   "thumbnail": "https://i.vimeocdn.com/video/845729272_295x166.jpg",

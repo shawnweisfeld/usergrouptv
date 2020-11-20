@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "introduction-to-azure-security-center",
   "abstract": "<p>This session will focus on how to prevent, detect and respond to threats with increased visibility and control over the security of Azure resources.</p>",
+  "description": "<p>This session will focus on how to prevent, detect and respond to threats with increased visibility and control over the security of Azure resources.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/631735202_295x166.jpg"
+  ],
   "vimeo": "215094742",
   "moreinfo": "https://www.eventbrite.com/e/global-azure-bootcamp-2017-austin-tx-tickets-33085810550#",
   "thumbnail": "https://i.vimeocdn.com/video/631735202_295x166.jpg",

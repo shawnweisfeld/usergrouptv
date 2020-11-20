@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "feel-the-power-of-faith-driven-development",
   "abstract": "<p>Everyone knows TDD (Test Driven Development), but have you heard of FDD (FAITH Driven Development)? I first learned about this spritually rewarding practice in 2009 from an April Fools Joke published in SDTimes magazine.</p>\r\n<p>After years of experience and seeing the adoption (or lack there of) of TDD, I came to realize that I truly do BELEIVE in FAITH Driven Development</p>\r\n<p>I BELIEVE you will too!</p>\r\n<p>This session will entertain you and more importantly provide you with the motivation and ammunition to take your code to a heavenly state!?Come get some FAITH!</p>",
+  "description": "<p>Everyone knows TDD (Test Driven Development), but have you heard of FDD (FAITH Driven Development)? I first learned about this spritually rewarding practice in 2009 from an April Fools Joke published in SDTimes magazine.</p>\r\n<p>After years of experience and seeing the adoption (or lack there of) of TDD, I came to realize that I truly do BELEIVE in FAITH Driven Development</p>\r\n<p>I BELIEVE you will too!</p>\r\n<p>This session will entertain you and more importantly provide you with the motivation and ammunition to take your code to a heavenly state!?Come get some FAITH!</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/499118829_295x166.jpg"
+  ],
   "vimeo": "113704779",
   "moreinfo": "http://schoolofdev.com",
   "thumbnail": "https://i.vimeocdn.com/video/499118829_295x166.jpg",

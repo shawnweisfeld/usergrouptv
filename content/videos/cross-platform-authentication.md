@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "cross-platform-authentication",
   "abstract": "<p>\r\nMicrosoft Active Directory has been a core piece of our line of business, and intranet application architectures. The Windows Integrated Authentication model has made implementing authentication, authorization and Identity in our applications super easy. But the rise of cloud has forced us to rethink how we handle identity. With new application models, such as mobile apps, web application, and api applications we need a cloud friendly way to securely authenticate, and identify our users, that works across all application platforms.  In this session, I will walk you through implementing identity in your modern applications, using Microsoft Azure Active Directory. In our discussion, we will dig into the details of OAuth, SAML, JWT Tokens, Bearer Tokens, Graph API and all of the technical goodies that go into integrating identity into our native, web and api applications.\r\n</p>",
+  "description": "<p>\r\nMicrosoft Active Directory has been a core piece of our line of business, and intranet application architectures. The Windows Integrated Authentication model has made implementing authentication, authorization and Identity in our applications super easy. But the rise of cloud has forced us to rethink how we handle identity. With new application models, such as mobile apps, web application, and api applications we need a cloud friendly way to securely authenticate, and identify our users, that works across all application platforms.  In this session, I will walk you through implementing identity in your modern applications, using Microsoft Azure Active Directory. In our discussion, we will dig into the details of OAuth, SAML, JWT Tokens, Bearer Tokens, Graph API and all of the technical goodies that go into integrating identity into our native, web and api applications.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/543955534_295x166.jpg"
+  ],
   "vimeo": "145722349",
   "moreinfo": "http://www.meetup.com/DallasNETUG/events/226419077/",
   "thumbnail": "https://i.vimeocdn.com/video/543955534_295x166.jpg",

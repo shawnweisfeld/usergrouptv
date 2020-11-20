@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "why-not-scrum-why-not-kanban",
   "abstract": "<p>Scrum is the most popular agile method and Kanban is the up-and-comer. We'll compare the methods and describe which might be \r\n\r\nthe best for you by studying the problems they were built to solve and comparing the theoretical foundations to the realities \r\n\r\nthat teams face in the wild.\r\n</p>",
+  "description": "<p>Scrum is the most popular agile method and Kanban is the up-and-comer. We'll compare the methods and describe which might be \r\n\r\nthe best for you by studying the problems they were built to solve and comparing the theoretical foundations to the realities \r\n\r\nthat teams face in the wild.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/486707988_295x166.jpg"
+  ],
   "vimeo": "104230948",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486707988_295x166.jpg",

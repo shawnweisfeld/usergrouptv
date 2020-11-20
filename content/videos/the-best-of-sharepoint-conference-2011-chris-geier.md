@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-best-of-sharepoint-conference-2011-chris-geier",
   "abstract": "<p>The Best of SharePoint Conference 2011 - In this talk Chris Geier tell us what he learned about:</p>\r\n<ul>\r\n<li>Tips for SharePoint Performance and Scale</li>\r\n<li>Driving Adoption</li>\r\n<li>On-Premise Cloud Hybrid Models</li>\r\n<li>And more...</li>\r\n</ul>",
+  "description": "<p>The Best of SharePoint Conference 2011 - In this talk Chris Geier tell us what he learned about:</p>\r\n<ul>\r\n<li>Tips for SharePoint Performance and Scale</li>\r\n<li>Driving Adoption</li>\r\n<li>On-Premise Cloud Hybrid Models</li>\r\n<li>And more...</li>\r\n</ul>",
+  "images": [
+    "https://i.vimeocdn.com/video/494179426_295x166.jpg"
+  ],
   "vimeo": "110064800",
   "moreinfo": "http://web.cspug.org",
   "thumbnail": "https://i.vimeocdn.com/video/494179426_295x166.jpg",

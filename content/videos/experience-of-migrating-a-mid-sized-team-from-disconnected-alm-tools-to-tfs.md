@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "experience-of-migrating-a-mid-sized-team-from-disconnected-alm-tools-to-tfs",
   "abstract": "<p>While working at major game/hardware/casino management system provider, the ALM team migrated a team of about 60 people from a set of disparate ALM tools comprised of SVN/CCNET/Scrumworks/Serena Teamtrack/Word documents/Excel spreadsheets to using TFS for its source control, build, work item tracking, and requirements management. In this presentation we will go over the existing problems, and issues that were resolved with the change, gotchas we found along the way, and added benefits we got from this migration.</p>",
+  "description": "<p>While working at major game/hardware/casino management system provider, the ALM team migrated a team of about 60 people from a set of disparate ALM tools comprised of SVN/CCNET/Scrumworks/Serena Teamtrack/Word documents/Excel spreadsheets to using TFS for its source control, build, work item tracking, and requirements management. In this presentation we will go over the existing problems, and issues that were resolved with the change, gotchas we found along the way, and added benefits we got from this migration.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/483492112_295x166.jpg"
+  ],
   "vimeo": "101662310",
   "moreinfo": "https://sites.google.com/site/tfsaustinusergroup/project-updates/experienceofmigratingamid-sizedteamfromdisconnectedalmtoolstotfs",
   "thumbnail": "https://i.vimeocdn.com/video/483492112_295x166.jpg",

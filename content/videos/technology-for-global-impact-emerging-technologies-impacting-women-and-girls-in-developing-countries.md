@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "technology-for-global-impact-emerging-technologies-impacting-women-and-girls-in-developing-countries",
   "abstract": "<p>Emerging technology in developing countries is playing a large role in advancements in gender equality and education for girls. From mobile-to-mobile banking to solar cells, the market is exponentially expanding, and the impact is proving prolific.</p>",
+  "description": "<p>Emerging technology in developing countries is playing a large role in advancements in gender equality and education for girls. From mobile-to-mobile banking to solar cells, the market is exponentially expanding, and the impact is proving prolific.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/650784593_295x166.jpg"
+  ],
   "vimeo": "230260343",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650784593_295x166.jpg",

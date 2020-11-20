@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "stateless-view-models",
   "abstract": "<p>You've seen how to use MVVM Light to build stateful view models. You've used the message bus to synchronize that state among several view models. You saw how complex a solution can get. Now lets see a simpler alternative. Stateless view models don't need a message bus to keep data up to date. They track dependencies upon the model, and automatically update when that data changes. This simplifies your view model code by eliminating property changed notification, message publication, and state management. Stateless view models enable a powerful new set of patterns. In this session, we will explore some of those patterns, including: Linq projections, Selection model, Dynamic search and sort. This style of view model is made possible with the use of a dependency tracking framework. For this workshop, we will be using Update Controls, an open-source library available through NuGet.</p>",
+  "description": "<p>You've seen how to use MVVM Light to build stateful view models. You've used the message bus to synchronize that state among several view models. You saw how complex a solution can get. Now lets see a simpler alternative. Stateless view models don't need a message bus to keep data up to date. They track dependencies upon the model, and automatically update when that data changes. This simplifies your view model code by eliminating property changed notification, message publication, and state management. Stateless view models enable a powerful new set of patterns. In this session, we will explore some of those patterns, including: Linq projections, Selection model, Dynamic search and sort. This style of view model is made possible with the use of a dependency tracking framework. For this workshop, we will be using Update Controls, an open-source library available through NuGet.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485084413_295x166.jpg"
+  ],
   "vimeo": "102965333",
   "moreinfo": "http://dallasxaml.com/",
   "thumbnail": "https://i.vimeocdn.com/video/485084413_295x166.jpg",

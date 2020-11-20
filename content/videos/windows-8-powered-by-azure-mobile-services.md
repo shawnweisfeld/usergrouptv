@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "windows-8-powered-by-azure-mobile-services",
   "abstract": "<p>You want to write mobile applications, but you don’t want to write a bunch of server code. No problem! You will be amazed at how little code it takes to access a server-side database from your mobile client. Ryan Lowdermilk will walk us through this hands-on-lab, in which you will build a Windows 8 mobile application using Windows Azure Mobile Services. You will enable: Structured storage, Push notifications, Integrated authentication. And you will have fun doing it.</p>",
+  "description": "<p>You want to write mobile applications, but you don’t want to write a bunch of server code. No problem! You will be amazed at how little code it takes to access a server-side database from your mobile client. Ryan Lowdermilk will walk us through this hands-on-lab, in which you will build a Windows 8 mobile application using Windows Azure Mobile Services. You will enable: Structured storage, Push notifications, Integrated authentication. And you will have fun doing it.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485083169_295x166.jpg"
+  ],
   "vimeo": "102964811",
   "moreinfo": "http://lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/485083169_295x166.jpg",

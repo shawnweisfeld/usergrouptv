@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "introduction-to-git",
   "abstract": "<p>Always checking out the newest shiny thing? Distributed version control (DVCS) is spreading like wildfire across the .NET ecosystem but is really all that beneficial or is it just hype? Having worn a tarnish into this tool using it for the past couple of year, I’m going to discuss the benefits and battles of using it in your everyday developer life. We will be taking a look at how Git achieves it’s \"magic\" as well as run thru some standard practices to hopefully help you determine if Git would be right for and your environment.</p>",
+  "description": "<p>Always checking out the newest shiny thing? Distributed version control (DVCS) is spreading like wildfire across the .NET ecosystem but is really all that beneficial or is it just hype? Having worn a tarnish into this tool using it for the past couple of year, I’m going to discuss the benefits and battles of using it in your everyday developer life. We will be taking a look at how Git achieves it’s \"magic\" as well as run thru some standard practices to hopefully help you determine if Git would be right for and your environment.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/492988166_295x166.jpg"
+  ],
   "vimeo": "109117124",
   "moreinfo": "http://dallas-csharp-sig.com",
   "thumbnail": "https://i.vimeocdn.com/video/492988166_295x166.jpg",

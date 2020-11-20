@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "from-problem-to-power-bi-a-journey-in-data-visualization",
   "abstract": "<p>Power BI is all the rage right now in visualizing data on the Microsoft BI stack.  We've seen multiple how tos and presentations on the features, but in this hour, we will actually go through the journey of a specific problem, research it, storyboard it, work through how we solve it (before we ever open Power BI) and then build the Power BI visualization.   Make your visualization count.  Come join us on the journey.</p>",
+  "description": "<p>Power BI is all the rage right now in visualizing data on the Microsoft BI stack.  We've seen multiple how tos and presentations on the features, but in this hour, we will actually go through the journey of a specific problem, research it, storyboard it, work through how we solve it (before we ever open Power BI) and then build the Power BI visualization.   Make your visualization count.  Come join us on the journey.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/626869251_295x166.jpg"
+  ],
   "vimeo": "210947629",
   "moreinfo": "http://www.sqlsaturday.com/603/Sessions/Details.aspx?sid=61123",
   "thumbnail": "https://i.vimeocdn.com/video/626869251_295x166.jpg",

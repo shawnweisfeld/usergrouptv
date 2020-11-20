@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "get-that-data-custom-connectors-in-power-bi",
   "abstract": "<p>The data is out there, but if you can't easily get to it, you -- and your clients or colleagues -- won't use it. Custom Connectors allow you to get data from disparate and currently unsupported sources. They allow for a branded experience to the data that your colleagues use most, without troubling them with creating queries. We will look at the steps needed to create your own custom connector, from setting up a development environment and planning; continuing to implementing and debugging; and finally deploying it company-wide.</p>",
+  "description": "<p>The data is out there, but if you can't easily get to it, you -- and your clients or colleagues -- won't use it. Custom Connectors allow you to get data from disparate and currently unsupported sources. They allow for a branded experience to the data that your colleagues use most, without troubling them with creating queries. We will look at the steps needed to create your own custom connector, from setting up a development environment and planning; continuing to implementing and debugging; and finally deploying it company-wide.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/699622186_295x166.jpg"
+  ],
   "vimeo": "268806272",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/699622186_295x166.jpg",

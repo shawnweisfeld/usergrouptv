@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "modern-windows-developer",
   "abstract": "<p>We'll be taking a look at it from a MVPs perspective on the technology stack you need to know in order to be a sought after Windows dev</p>",
+  "description": "<p>We'll be taking a look at it from a MVPs perspective on the technology stack you need to know in order to be a sought after Windows dev</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/798691581_295x166.jpg"
+  ],
   "vimeo": "348150158",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/262950072/",
   "thumbnail": "https://i.vimeocdn.com/video/798691581_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "make-shift-happen-harnessing-culture-for-change",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/820029997_295x166.jpg"
+  ],
   "vimeo": "364566950",
   "moreinfo": "http://conference.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/820029997_295x166.jpg",

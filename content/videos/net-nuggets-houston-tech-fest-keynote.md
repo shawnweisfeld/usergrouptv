@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "net-nuggets-houston-tech-fest-keynote",
   "abstract": "<p>A collection of very cool .NET Nuggets. A bunch of little things about .NET that you may or may not be familiar with, clever ways of doing things with the .NET Framework.</p>",
+  "description": "<p>A collection of very cool .NET Nuggets. A bunch of little things about .NET that you may or may not be familiar with, clever ways of doing things with the .NET Framework.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495142844_295x166.jpg"
+  ],
   "vimeo": "110774181",
   "moreinfo": "http://www.houstontechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/495142844_295x166.jpg",

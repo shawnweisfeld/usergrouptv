@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "poshdba-practical-powershell-for-the-dba",
   "abstract": "<p>This session will cover real world functions that are used for real DBA work. There will be a few slides but mostly demos with actual scripts to help you do your job. I will also introduce some outside modules created to assist as well. Things like Reading/Changing the following: Permissions, DB Owner maintenance and database space management. We all could use a few standard things in our DBA world of ever changing roles and \"I have to have it now\" stuff, that Management Studio can get in the way of getting it done faster. Join me for a fun PowerShell hour and never try to reuse a click again.</p>",
+  "description": "<p>This session will cover real world functions that are used for real DBA work. There will be a few slides but mostly demos with actual scripts to help you do your job. I will also introduce some outside modules created to assist as well. Things like Reading/Changing the following: Permissions, DB Owner maintenance and database space management. We all could use a few standard things in our DBA world of ever changing roles and \"I have to have it now\" stuff, that Management Studio can get in the way of getting it done faster. Join me for a fun PowerShell hour and never try to reuse a click again.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/589679680_295x166.jpg"
+  ],
   "vimeo": "181196883",
   "moreinfo": "http://www.sqlsaturday.com/553/Sessions/Details.aspx?sid=50343",
   "thumbnail": "https://i.vimeocdn.com/video/589679680_295x166.jpg",

@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "load-testing-with-visual-studio-and-azure",
   "abstract": "<p>Andrew Siemer will walk us through what web performance testing is and the different types of tests that you can create.  Then we will discuss planning and designing tests for your application.  Next we will see how to create some tests in Visual Studio and how to run them locally.  And lastly Andy will show how to push those tests into Azure to create a load test.</p>",
+  "description": "<p>Andrew Siemer will walk us through what web performance testing is and the different types of tests that you can create.  Then we will discuss planning and designing tests for your application.  Next we will see how to create some tests in Visual Studio and how to run them locally.  And lastly Andy will show how to push those tests into Azure to create a load test.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/507715760_295x166.jpg"
+  ],
   "vimeo": "120045993",
   "moreinfo": "http://www.meetup.com/azureaustin/events/219989464/",
   "thumbnail": "https://i.vimeocdn.com/video/507715760_295x166.jpg",

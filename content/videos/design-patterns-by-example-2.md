@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "design-patterns-by-example-2",
   "abstract": "<p>Tired of attending design pattern sessions, where you cannot seem to remember how the pattern worked when you got home? In this session, we&rsquo;ll construct 5 of the most common design patterns, step-by-step, highlighting common usages and digging through the nuances that make these patterns powerful: Factory Method, Strategy, Observer, Template Method, and Decorator. You&rsquo;ll walk-away with a clear understanding of how these patterns work and how you can leverage them in your application code.</p>",
+  "description": "<p>Tired of attending design pattern sessions, where you cannot seem to remember how the pattern worked when you got home? In this session, we&rsquo;ll construct 5 of the most common design patterns, step-by-step, highlighting common usages and digging through the nuances that make these patterns powerful: Factory Method, Strategy, Observer, Template Method, and Decorator. You&rsquo;ll walk-away with a clear understanding of how these patterns work and how you can leverage them in your application code.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495143957_295x166.jpg"
+  ],
   "vimeo": "110774982",
   "moreinfo": "http://www.houstontechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/495143957_295x166.jpg",

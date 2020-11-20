@@ -10,6 +10,10 @@
   "draft": false,
   "slug": "data-binding-without-inotifypropertychanged",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/496723030_295x166.jpg"
+  ],
   "vimeo": "111928488",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/496723030_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "deploy-all-the-games-2",
   "abstract": "<p>Come see how you can use Unity3D toolset to build and deploy your game to ALL THE DEVICES!. New devices do not need ports from scratch anymore, its the 21st Century.</p>\r\n<p>We will explore how to deal with differing form factors, pixel densities, graphics support, input systems and other multi platform madness.</p>\r\n<p>It can be done. It’s not too hard.</p>",
+  "description": "<p>Come see how you can use Unity3D toolset to build and deploy your game to ALL THE DEVICES!. New devices do not need ports from scratch anymore, its the 21st Century.</p>\r\n<p>We will explore how to deal with differing form factors, pixel densities, graphics support, input systems and other multi platform madness.</p>\r\n<p>It can be done. It’s not too hard.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/490860700_295x166.jpg"
+  ],
   "vimeo": "107458125",
   "moreinfo": "http://lrtechfest.com/speakers#adam-hill",
   "thumbnail": "https://i.vimeocdn.com/video/490860700_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "learn-sql-backups-and-master-sql-restores",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/661278905_295x166.jpg"
+  ],
   "vimeo": "238552414",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/661278905_295x166.jpg",

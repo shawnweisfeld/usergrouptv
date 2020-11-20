@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "wcf-ria-services",
   "abstract": "<p>Writing a full-fledged Rich Internet Application presents a number of daunting challenges: forced n-tier, async, latency, validation, concurrency, and authentication. WCF RIA Services simplifies and streamlines the process with support for query composability, change-tracking and batch updates, attributes for presentation and data validation, shared code and async support. In this seminar Tony will pull back the curtain to show you how RIA Services performs its magic, and he&rsquo;ll provide tools and techniques to reduce the time and effort required to build Silverlight business applications.</p>\r\n<p><a href=\"http://blog.tonysneed.com/2011/04/20/wcf-ria-services-webinar\">More info on Tony's blog here</a></p>",
+  "description": "<p>Writing a full-fledged Rich Internet Application presents a number of daunting challenges: forced n-tier, async, latency, validation, concurrency, and authentication. WCF RIA Services simplifies and streamlines the process with support for query composability, change-tracking and batch updates, attributes for presentation and data validation, shared code and async support. In this seminar Tony will pull back the curtain to show you how RIA Services performs its magic, and he&rsquo;ll provide tools and techniques to reduce the time and effort required to build Silverlight business applications.</p>\r\n<p><a href=\"http://blog.tonysneed.com/2011/04/20/wcf-ria-services-webinar\">More info on Tony's blog here</a></p>",
+  "images": [
+    "https://i.vimeocdn.com/video/507042264_295x166.jpg"
+  ],
   "vimeo": "119594925",
   "moreinfo": "http://www.develop.com/",
   "thumbnail": "https://i.vimeocdn.com/video/507042264_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "processing-3-billion-log-entries-per-week",
   "abstract": "<p>Take a guided tour of how The University of Tulsa InfoSec team uses the ELK stack to monitor network traffic and get an introduction to the Bro network security monitor and the Elastic stack.</p>",
+  "description": "<p>Take a guided tour of how The University of Tulsa InfoSec team uses the ELK stack to monitor network traffic and get an introduction to the Bro network security monitor and the Elastic stack.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/650633820_295x166.jpg"
+  ],
   "vimeo": "230141288",
   "moreinfo": "http://techfests.com/Tulsa/2017/Speakers/LandyBible/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/650633820_295x166.jpg",

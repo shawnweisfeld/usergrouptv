@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "c-in-24-hours-hour-14-working-with-xml",
   "abstract": "<p>In this talk we will talk about what is in hour 14, working with XML, of the teach yourself c# in 24 hours book.</p>",
+  "description": "<p>In this talk we will talk about what is in hour 14, working with XML, of the teach yourself c# in 24 hours book.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/496722273_295x166.jpg"
+  ],
   "vimeo": "111927942",
   "moreinfo": "http://www.ntpcug.org/",
   "thumbnail": "https://i.vimeocdn.com/video/496722273_295x166.jpg",

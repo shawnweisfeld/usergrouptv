@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "scaling-joomla",
   "abstract": "<p>Strategies and considerations for building a Kubernetes cluster that allows Joomla to scale horizontally.</p>",
+  "description": "<p>Strategies and considerations for building a Kubernetes cluster that allows Joomla to scale horizontally.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/818419103_295x166.jpg"
+  ],
   "vimeo": "363311099",
   "moreinfo": "https://www.joomladaytexas.com/",
   "thumbnail": "https://i.vimeocdn.com/video/818419103_295x166.jpg",

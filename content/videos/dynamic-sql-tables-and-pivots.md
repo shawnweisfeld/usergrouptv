@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "dynamic-sql-tables-and-pivots",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/661112604_295x166.jpg"
+  ],
   "vimeo": "238423213",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/661112604_295x166.jpg",

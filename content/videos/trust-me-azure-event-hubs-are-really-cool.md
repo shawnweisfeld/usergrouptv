@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "trust-me-azure-event-hubs-are-really-cool",
   "abstract": "<p>With all the talk about big data, Internet of things, and the value that can be derived from the analysis of all of that information, no one seems to talk about how we collect it. There are a number of traditional ways. Those ways usually have problems with how to handle data spikes, durability, and distribution for processing. Azure Event Hubs may be an answer to part of those problems. We will go over what they are, how to set them up, the costs, and the various ways to send and receive information. </p>",
+  "description": "<p>With all the talk about big data, Internet of things, and the value that can be derived from the analysis of all of that information, no one seems to talk about how we collect it. There are a number of traditional ways. Those ways usually have problems with how to handle data spikes, durability, and distribution for processing. Azure Event Hubs may be an answer to part of those problems. We will go over what they are, how to set them up, the costs, and the various ways to send and receive information. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/586638129_295x166.jpg"
+  ],
   "vimeo": "178888902",
   "moreinfo": "http://techfests.com/Tulsa/2016/Speakers/HaroldPulcher/",
   "thumbnail": "https://i.vimeocdn.com/video/586638129_295x166.jpg",

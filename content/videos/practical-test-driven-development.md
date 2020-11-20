@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "practical-test-driven-development",
   "abstract": "<p>&nbsp;</p>",
+  "description": "<p>&nbsp;</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/500553151_295x166.jpg"
+  ],
   "vimeo": "114764795",
   "moreinfo": "http://www.ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/500553151_295x166.jpg",

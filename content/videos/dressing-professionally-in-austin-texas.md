@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "dressing-professionally-in-austin-texas",
   "abstract": "<p>A Dress for Success Austin volunteer stylist will cover the art of dressing professionally in Austin Texas, which has its own definition of professional attire. The heat and the laid back creative atmosphere can challenge the preconceived notion of professional wardrobe staples, but looking and feeling your best while still presenting yourself well can be achieved in a creative fun way.</p>",
+  "description": "<p>A Dress for Success Austin volunteer stylist will cover the art of dressing professionally in Austin Texas, which has its own definition of professional attire. The heat and the laid back creative atmosphere can challenge the preconceived notion of professional wardrobe staples, but looking and feeling your best while still presenting yourself well can be achieved in a creative fun way.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/650697241_295x166.jpg"
+  ],
   "vimeo": "230191590",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650697241_295x166.jpg",

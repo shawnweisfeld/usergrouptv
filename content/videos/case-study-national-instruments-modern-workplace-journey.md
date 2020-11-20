@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "case-study-national-instruments-modern-workplace-journey",
   "abstract": "<p>Do you want to increase adoption of Office 365? Are you thinking about starting a Modern Workplace initiative? Learn some best practices and lessons learned from National Instruments' Modern Workplace journey. Topics will include: Securing leadership buy-in and executive sponsorship, Realizing the value of strategic partnerships with Corporate Communications and HR, Gathering support and functional alignment with a roadshow, Forming a cross-functional working group, Defining your goals, objectives and workstreams, Creating an Office 365 Adoption Center for governance and guidance, Focusing on business outcomes and identifying quick wins, Driving adoption with training and “adoption days”, Creating a champions program, And more!</p>",
+  "description": "<p>Do you want to increase adoption of Office 365? Are you thinking about starting a Modern Workplace initiative? Learn some best practices and lessons learned from National Instruments' Modern Workplace journey. Topics will include: Securing leadership buy-in and executive sponsorship, Realizing the value of strategic partnerships with Corporate Communications and HR, Gathering support and functional alignment with a roadshow, Forming a cross-functional working group, Defining your goals, objectives and workstreams, Creating an Office 365 Adoption Center for governance and guidance, Focusing on business outcomes and identifying quick wins, Driving adoption with training and “adoption days”, Creating a champions program, And more!</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/807051205_295x166.jpg"
+  ],
   "vimeo": "354514652",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/lsljlmyzlbsb/",
   "thumbnail": "https://i.vimeocdn.com/video/807051205_295x166.jpg",

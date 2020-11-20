@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "whats-new-in-c-8-interfaces-and-how-to-use-them-effectively",
   "abstract": "<p>C# 8 brings new features to interfaces, including default implementation, access modifiers, and static members. We'll look at these new features and see where they are useful and where they should be avoided. With some practical tips, \"gotchas\", and plenty of examples, we'll see how to use these features effectively in our code.</p>",
+  "description": "<p>C# 8 brings new features to interfaces, including default implementation, access modifiers, and static members. We'll look at these new features and see where they are useful and where they should be avoided. With some practical tips, \"gotchas\", and plenty of examples, we'll see how to use these features effectively in our code.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/930462703_295x166.jpg"
+  ],
   "vimeo": "441884469",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/270541791/",
   "thumbnail": "https://i.vimeocdn.com/video/930462703_295x166.jpg",

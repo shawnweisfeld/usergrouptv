@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "building-composable-web-applications",
   "abstract": "<p>ASP.NET offers a number of composition patterns in its varied platforms. We'll discuss the various patterns available within the different frameworks, especially the extended options available in the new Web API, and how these can all be used together effectively.</p>",
+  "description": "<p>ASP.NET offers a number of composition patterns in its varied platforms. We'll discuss the various patterns available within the different frameworks, especially the extended options available in the new Web API, and how these can all be used together effectively.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/487544326_295x166.jpg"
+  ],
   "vimeo": "104887479",
   "moreinfo": "http://www.houstontechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/487544326_295x166.jpg",

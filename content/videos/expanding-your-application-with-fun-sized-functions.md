@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "expanding-your-application-with-fun-sized-functions",
   "abstract": "<p>Azure Functions are the ultimate evolution of abstracting away the underlying hardware. No longer do you need to worry about memory or cores - instead you can let the beauty of your code wash over you. In this talk we're going to build a real world application using Azure functions from the beginning to the end.</p>",
+  "description": "<p>Azure Functions are the ultimate evolution of abstracting away the underlying hardware. No longer do you need to worry about memory or cores - instead you can let the beauty of your code wash over you. In this talk we're going to build a real world application using Azure functions from the beginning to the end.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/662472028_295x166.jpg"
+  ],
   "vimeo": "239487283",
   "moreinfo": "https://www.meetup.com/azureaustin/events/242598077/",
   "thumbnail": "https://i.vimeocdn.com/video/662472028_295x166.jpg",

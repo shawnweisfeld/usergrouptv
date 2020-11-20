@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "beyond-monoliths-and-microservices",
   "abstract": "<p>What if the secret to building good distributed applications wasn't in the latest container management technology? What if you had to connect the dots between a 1950's era fighter pilot, the social history of late medieval Europe, double entry bookkeeping, and a vast empire with no written language? No, this isn't the world weirdest conspiracy theory. Rather, humans have been building complex systems since we became human. Distributed applications are just a specialized case of complex human technology. Come find out how to apply the hard-earned knowledge of those who have gone before us and stop reinventing the wheel.</p>",
+  "description": "<p>What if the secret to building good distributed applications wasn't in the latest container management technology? What if you had to connect the dots between a 1950's era fighter pilot, the social history of late medieval Europe, double entry bookkeeping, and a vast empire with no written language? No, this isn't the world weirdest conspiracy theory. Rather, humans have been building complex systems since we became human. Distributed applications are just a specialized case of complex human technology. Come find out how to apply the hard-earned knowledge of those who have gone before us and stop reinventing the wheel.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/699662855_295x166.jpg"
+  ],
   "vimeo": "268837895",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/699662855_295x166.jpg",

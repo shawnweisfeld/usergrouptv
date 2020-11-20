@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "mvp-locking-and-blocking",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/760925178_295x166.jpg"
+  ],
   "vimeo": "318521280",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/fnxhcqyzdbzb/",
   "thumbnail": "https://i.vimeocdn.com/video/760925178_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "fake-5",
   "abstract": "<p>This month is FAKE 5 and some nice new features that make it more than just a build tool.</p>",
+  "description": "<p>This month is FAKE 5 and some nice new features that make it more than just a build tool.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/739822130_295x166.jpg"
+  ],
   "vimeo": "301295483",
   "moreinfo": "https://www.meetup.com/Austin-F-Meetup/events/rrrbjqyxpbtb/",
   "thumbnail": "https://i.vimeocdn.com/video/739822130_295x166.jpg",

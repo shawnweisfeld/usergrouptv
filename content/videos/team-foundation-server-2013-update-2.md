@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "team-foundation-server-2013-update-2",
   "abstract": "<p>Team Foundations Server 2013 Update 2 introduces many enhancements to existing features. Work item tagging, backlog management, charting, web testing, Git, and more. We will discuss the changes in this update including demonstrations.</p>",
+  "description": "<p>Team Foundations Server 2013 Update 2 introduces many enhancements to existing features. Work item tagging, backlog management, charting, web testing, Git, and more. We will discuss the changes in this update including demonstrations.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/482027494_295x166.jpg"
+  ],
   "vimeo": "100516595",
   "moreinfo": "https://sites.google.com/site/tfsaustinusergroup/",
   "thumbnail": "https://i.vimeocdn.com/video/482027494_295x166.jpg",

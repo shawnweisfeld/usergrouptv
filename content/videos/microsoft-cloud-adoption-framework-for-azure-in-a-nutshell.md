@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "microsoft-cloud-adoption-framework-for-azure-in-a-nutshell",
   "abstract": "<p>The Cloud Adoption Framework is the One Microsoft approach to cloud adoption in Azure, consolidating and sharing best practices from Microsoft employees, partners, and customers. The framework gives customers a set of tools, guidance, and narratives that help shape technology, business, and people strategies for driving desired business outcomes during their adoption effort. In this session we will talk about: What is CAF – Cloud Adoption Framework, Why CAF? Benefits of leveraging CAF in Cloud Journey. Additional Tools and Guidance can be found at https://Aka.ms/caf/govern and https://Aka.ms/caf/migrate</p>",
+  "description": "<p>The Cloud Adoption Framework is the One Microsoft approach to cloud adoption in Azure, consolidating and sharing best practices from Microsoft employees, partners, and customers. The framework gives customers a set of tools, guidance, and narratives that help shape technology, business, and people strategies for driving desired business outcomes during their adoption effort. In this session we will talk about: What is CAF – Cloud Adoption Framework, Why CAF? Benefits of leveraging CAF in Cloud Journey. Additional Tools and Guidance can be found at https://Aka.ms/caf/govern and https://Aka.ms/caf/migrate</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/831974744_295x166.jpg"
+  ],
   "vimeo": "373751531",
   "moreinfo": "https://www.meetup.com/azureaustin/events/266058074/",
   "thumbnail": "https://i.vimeocdn.com/video/831974744_295x166.jpg",

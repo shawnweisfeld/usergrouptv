@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "net-cross-platform-development-strategy-for-mobile-cloud-and-desktop-apps",
   "abstract": "<p>Cross platform is nirvana that for the most part has been about the browser. However as computing because more fragmented developers are finding they need to be able to program on multiple platforms (Windows, Mac, iOS, Android, Azure, AWS) using different tools (.NET, Java, Objective-C). Developers need methods, ideas and tools to reduce this complexity into a more manageable chunks. This talk looks at: How to get on 2.5 billion devices? Strategies, Tooling</p>",
+  "description": "<p>Cross platform is nirvana that for the most part has been about the browser. However as computing because more fragmented developers are finding they need to be able to program on multiple platforms (Windows, Mac, iOS, Android, Azure, AWS) using different tools (.NET, Java, Objective-C). Developers need methods, ideas and tools to reduce this complexity into a more manageable chunks. This talk looks at: How to get on 2.5 billion devices? Strategies, Tooling</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/482000272_295x166.jpg"
+  ],
   "vimeo": "100496507",
   "moreinfo": "http://adnug.org/Home/june-9-2014-net-cross-platform-development-strategy-for-mobile-cloud-and-desktop-apps/",
   "thumbnail": "https://i.vimeocdn.com/video/482000272_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "cqrs",
   "abstract": "<p>Enterprises today require more customized IT services than in the past. For the business to be agile, each of these services needs to be responsive to its own internal customer base. And for business continuity, each one also needs to be physically and logically isolated from one another. Inter-dependencies among services hurts performance, scalability, responsiveness, and agility. CQRS is a separation pattern that addresses these concerns. It is based on the theory of distributed systems (the CAP Theorem), and on the practice of Domain Driven Design. Discover the patterns, practices, and tools for building responsive enterprise solutions.</p>",
+  "description": "<p>Enterprises today require more customized IT services than in the past. For the business to be agile, each of these services needs to be responsive to its own internal customer base. And for business continuity, each one also needs to be physically and logically isolated from one another. Inter-dependencies among services hurts performance, scalability, responsiveness, and agility. CQRS is a separation pattern that addresses these concerns. It is based on the theory of distributed systems (the CAP Theorem), and on the practice of Domain Driven Design. Discover the patterns, practices, and tools for building responsive enterprise solutions.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/482124467_295x166.jpg"
+  ],
   "vimeo": "100591683",
   "moreinfo": "http://tulsaschoolofdev.com",
   "thumbnail": "https://i.vimeocdn.com/video/482124467_295x166.jpg",

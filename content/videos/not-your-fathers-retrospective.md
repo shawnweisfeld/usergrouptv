@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "not-your-fathers-retrospective",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/820031285_295x166.jpg"
+  ],
   "vimeo": "364568150",
   "moreinfo": "http://conference.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/820031285_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "engaging-millennials",
   "abstract": "<p>A crowd favorite! This workshop covers the following: 1) The myths and truths of our changing workforce. 2) Using our strengths 3) Strengthening relationships 4) Giving and receiving feedback 5) Defining purpose, accessing meaning 6) Developing a culture of \"flourishing\"</p>",
+  "description": "<p>A crowd favorite! This workshop covers the following: 1) The myths and truths of our changing workforce. 2) Using our strengths 3) Strengthening relationships 4) Giving and receiving feedback 5) Defining purpose, accessing meaning 6) Developing a culture of \"flourishing\"</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/650871904_295x166.jpg"
+  ],
   "vimeo": "230330995",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650871904_295x166.jpg",

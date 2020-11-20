@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "state-of-net-the-road-to-windows-8",
   "abstract": null,
+  "description": null,
+  "images": [
+    "https://i.vimeocdn.com/video/492993370_295x166.jpg"
+  ],
   "vimeo": "109120900",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/492993370_295x166.jpg",

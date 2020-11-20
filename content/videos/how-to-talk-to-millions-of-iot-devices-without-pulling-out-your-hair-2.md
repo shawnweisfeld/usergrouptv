@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "how-to-talk-to-millions-of-iot-devices-without-pulling-out-your-hair-2",
   "abstract": "<p>How do you keep track these various devices? How do they communicate information back to and forth? I show how to configure the devices, communicate in both directions, and how to test those communication channels. I will be using both simulated devices as well as real hardware for the demos.You?ve have heard and read about this thing called the Internet of Things (IoT). With all media hype about IoT and the new paradigm it brings, it?s easy to feel overwhelmed. When you hear about companies connecting billions of devices (you have heard that right), it can be difficult to grasp how that is possible. But there?s no reason IoT has to be futuristic, complicated, or overwhelming. Let?s explore this Azure IoT Suite and see just how hard it isn?t to start down that road.</p>",
+  "description": "<p>How do you keep track these various devices? How do they communicate information back to and forth? I show how to configure the devices, communicate in both directions, and how to test those communication channels. I will be using both simulated devices as well as real hardware for the demos.You?ve have heard and read about this thing called the Internet of Things (IoT). With all media hype about IoT and the new paradigm it brings, it?s easy to feel overwhelmed. When you hear about companies connecting billions of devices (you have heard that right), it can be difficult to grasp how that is possible. But there?s no reason IoT has to be futuristic, complicated, or overwhelming. Let?s explore this Azure IoT Suite and see just how hard it isn?t to start down that road.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/650327330_295x166.jpg"
+  ],
   "vimeo": "229895763",
   "moreinfo": "http://schoolofdev.com/Tulsa/2017/Speakers/HaroldPulcher/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/650327330_295x166.jpg",

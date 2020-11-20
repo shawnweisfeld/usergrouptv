@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "automated-deployment-for-net-with-octopus-deploy",
   "abstract": "<p>Do you have an unruly build and deploy process? Find out how to tame it with Octopus Deploy and some related continuous integration / deployment tools.</p>",
+  "description": "<p>Do you have an unruly build and deploy process? Find out how to tame it with Octopus Deploy and some related continuous integration / deployment tools.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/490858670_295x166.jpg"
+  ],
   "vimeo": "107456525",
   "moreinfo": "http://lrtechfest.com/speakers#ryan-rousseau",
   "thumbnail": "https://i.vimeocdn.com/video/490858670_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "programming-with-kinect-for-windows-from-hello-world-to-lightsabers-in-60-minutes",
   "abstract": "<p>Kinect for Windows enables all kinds of new applications & experiences. Come to this session to find out how you can start using the Kinect SDK today. This C# code focused session will dive into the different aspects of the Kinect API. We’ll cover color and depth cameras, skeletal tracking, working with audio and a lot of cool demos.</p>",
+  "description": "<p>Kinect for Windows enables all kinds of new applications & experiences. Come to this session to find out how you can start using the Kinect SDK today. This C# code focused session will dive into the different aspects of the Kinect API. We’ll cover color and depth cameras, skeletal tracking, working with audio and a lot of cool demos.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/484299124_295x166.jpg"
+  ],
   "vimeo": "102317140",
   "moreinfo": "http://codecamp13.adnug.org/",
   "thumbnail": "https://i.vimeocdn.com/video/484299124_295x166.jpg",

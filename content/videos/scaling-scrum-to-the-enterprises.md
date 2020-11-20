@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "scaling-scrum-to-the-enterprises",
   "abstract": "<p>Scrum is the most popular Agile framework in the world for effective team collaboration on complex projects. Scrum provides a small set of rules that create just enough structure for teams to be able to focus their innovation. Scrum is optimized for teams for teams of 5 to 9 people. Making Scrum work with larger teams or in large enterprise environments brings its own set of challenges. This talk presents 3 patterns used on enterprise teams and the lessons learned in practice at a global software company to scale Scrum effectively with global teams.</p>",
+  "description": "<p>Scrum is the most popular Agile framework in the world for effective team collaboration on complex projects. Scrum provides a small set of rules that create just enough structure for teams to be able to focus their innovation. Scrum is optimized for teams for teams of 5 to 9 people. Making Scrum work with larger teams or in large enterprise environments brings its own set of challenges. This talk presents 3 patterns used on enterprise teams and the lessons learned in practice at a global software company to scale Scrum effectively with global teams.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/496721608_295x166.jpg"
+  ],
   "vimeo": "111927352",
   "moreinfo": "http://www.agiledotnet.com",
   "thumbnail": "https://i.vimeocdn.com/video/496721608_295x166.jpg",

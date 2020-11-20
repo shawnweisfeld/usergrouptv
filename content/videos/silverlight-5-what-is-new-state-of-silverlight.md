@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "silverlight-5-what-is-new-state-of-silverlight",
   "abstract": "<p>Silverlight is a rapidly evolving platform. Stop paying attention for a minute, and you've likely missed new and important Silverlight changes. With Silverlight 5 around the corner and Windows Phone Silverlight apps growing daily, it's important for developers to stay on the cutting edge of Silverlight news. In this information=packed session, we will look at all of the latest Silverlight news, including news from teh recent MIX11 conference, to form a complete understanding of Silverlight's present and future state. Combined with easy-to-follow demos, you'll leave this session with everything you need to know if you'll be working with Silverlight in 2011.</p>",
+  "description": "<p>Silverlight is a rapidly evolving platform. Stop paying attention for a minute, and you've likely missed new and important Silverlight changes. With Silverlight 5 around the corner and Windows Phone Silverlight apps growing daily, it's important for developers to stay on the cutting edge of Silverlight news. In this information=packed session, we will look at all of the latest Silverlight news, including news from teh recent MIX11 conference, to form a complete understanding of Silverlight's present and future state. Combined with easy-to-follow demos, you'll leave this session with everything you need to know if you'll be working with Silverlight in 2011.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/500553999_295x166.jpg"
+  ],
   "vimeo": "114765449",
   "moreinfo": "http://dallasxaml.com/",
   "thumbnail": "https://i.vimeocdn.com/video/500553999_295x166.jpg",

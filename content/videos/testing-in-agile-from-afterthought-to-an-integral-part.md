@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "testing-in-agile-from-afterthought-to-an-integral-part",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/728973418_295x166.jpg"
+  ],
   "vimeo": "292555169",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/728973418_295x166.jpg",

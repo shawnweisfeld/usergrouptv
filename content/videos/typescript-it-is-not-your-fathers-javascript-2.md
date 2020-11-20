@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "typescript-it-is-not-your-fathers-javascript-2",
   "abstract": "<p>Hate writing JavaScript? Wish it was strongly typed, scalable, and had better tool support? TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. Any browser. Any host. Any OS. Open Source. In this session we will introduce TypeScript and show the basics of getting started with it today, including how to leverage your existing arsenal of third party JavaScirpt libraries like jQuery.</p>",
+  "description": "<p>Hate writing JavaScript? Wish it was strongly typed, scalable, and had better tool support? TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. Any browser. Any host. Any OS. Open Source. In this session we will introduce TypeScript and show the basics of getting started with it today, including how to leverage your existing arsenal of third party JavaScirpt libraries like jQuery.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/484298740_295x166.jpg"
+  ],
   "vimeo": "102316807",
   "moreinfo": "http://codecamp13.adnug.org/",
   "thumbnail": "https://i.vimeocdn.com/video/484298740_295x166.jpg",

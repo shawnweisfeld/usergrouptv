@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "introduction-to-xamarin",
   "abstract": "<p>When considering how to build iOS and Android applications, many people think that the native languages, Objective-C, Swift, and Java, are the only choice. However, over the past few years, an entirely new ecosystem of platforms for building mobile applications has emerged. Xamarin is unique in this space by offering .NET languages ? C# and F#, class library, and runtime that works across all three mobile platforms of iOS, Android, and Windows Phone (Windows Phone?s native language is already C#), while still compiling native (non-interpreted) applications that are performant enough even for demanding games. </p>",
+  "description": "<p>When considering how to build iOS and Android applications, many people think that the native languages, Objective-C, Swift, and Java, are the only choice. However, over the past few years, an entirely new ecosystem of platforms for building mobile applications has emerged. Xamarin is unique in this space by offering .NET languages ? C# and F#, class library, and runtime that works across all three mobile platforms of iOS, Android, and Windows Phone (Windows Phone?s native language is already C#), while still compiling native (non-interpreted) applications that are performant enough even for demanding games. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/650402311_295x166.jpg"
+  ],
   "vimeo": "229955760",
   "moreinfo": "http://techfests.com/Tulsa/2017/Speakers/SeanSparkman/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/650402311_295x166.jpg",

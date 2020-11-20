@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "windows-phone-7-development-for-silverlight-developers",
   "abstract": "<p>Join Microsoft Senior Evangelist Chris Koenig for an up-close look at the Windows Phone 7 experience, including phone functionality and user experiences based on smart design. Learn about key phone features, customization, applications and connected experiences. See how the Windows Phone has evolved into a unique, new user experience designed for Life in Motion.</p>\r\n<p>In his presentation, Chris will demonstrate how to build Phone applications with Silverlight and Blend. He is planning on making it an interactive experience.</p>",
+  "description": "<p>Join Microsoft Senior Evangelist Chris Koenig for an up-close look at the Windows Phone 7 experience, including phone functionality and user experiences based on smart design. Learn about key phone features, customization, applications and connected experiences. See how the Windows Phone has evolved into a unique, new user experience designed for Life in Motion.</p>\r\n<p>In his presentation, Chris will demonstrate how to build Phone applications with Silverlight and Blend. He is planning on making it an interactive experience.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/501051612_295x166.jpg"
+  ],
   "vimeo": "115130985",
   "moreinfo": "http://dallasasp.net",
   "thumbnail": "https://i.vimeocdn.com/video/501051612_295x166.jpg",

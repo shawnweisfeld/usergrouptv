@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "how-to-talk-to-millions-of-iot-devices-without-pulling-out-your-hair",
   "abstract": "<p>You’ve have heard and read about this thing called the Internet of Things (IoT). With all media hype about IoT and the new paradigm it brings, it’s easy to feel overwhelmed. When you hear about companies connecting billions of devices (you have heard that right), it can be difficult to grasp how that is possible. But there’s no reason IoT has to be futuristic, complicated, or overwhelming.  Let’s explore this Azure IoT Suite and see just how hard it isn’t to start down that road.</p>",
+  "description": "<p>You’ve have heard and read about this thing called the Internet of Things (IoT). With all media hype about IoT and the new paradigm it brings, it’s easy to feel overwhelmed. When you hear about companies connecting billions of devices (you have heard that right), it can be difficult to grasp how that is possible. But there’s no reason IoT has to be futuristic, complicated, or overwhelming.  Let’s explore this Azure IoT Suite and see just how hard it isn’t to start down that road.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/594174267_295x166.jpg"
+  ],
   "vimeo": "184674027",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/594174267_295x166.jpg",

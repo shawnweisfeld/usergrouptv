@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "agile-no-planning-bullht",
   "abstract": "<p>A common misconception is that Agile teams don't plan. Reese is here to tell you, that's bull$h!t. Agile teams plan all the time, but they focus on doing so at the right time and the right fidelity. How long did it take you to plan your last six-month project before the team started working? Weeks? Months?!  What if Reese said that in 45 minutes she could teach you how to plan that six-month project in 10% of the time it would have taken you to plan the old way? During this learning-packed workshop, you will learn how to plan the Agile way. Using a real project, you will build a backlog, estimate that backlog, prioritize it, order it based on ROI, capacity plan, and track to completion. The goal is to not deliver a plan. The goal is to deliver value. So join Reese in learning how to plan at the right time, in less time, so your teams can get to the delivering value part that really matters.\r\n</p>",
+  "description": "<p>A common misconception is that Agile teams don't plan. Reese is here to tell you, that's bull$h!t. Agile teams plan all the time, but they focus on doing so at the right time and the right fidelity. How long did it take you to plan your last six-month project before the team started working? Weeks? Months?!  What if Reese said that in 45 minutes she could teach you how to plan that six-month project in 10% of the time it would have taken you to plan the old way? During this learning-packed workshop, you will learn how to plan the Agile way. Using a real project, you will build a backlog, estimate that backlog, prioritize it, order it based on ROI, capacity plan, and track to completion. The goal is to not deliver a plan. The goal is to deliver value. So join Reese in learning how to plan at the right time, in less time, so your teams can get to the delivering value part that really matters.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/703357756_295x166.jpg"
+  ],
   "vimeo": "271931374",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703357756_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "managing-the-four-patterns-of-gender-bias",
   "abstract": "<p>Based on the work of Joan C. Williams and Rachel Dempsey, this talk will discuss the major four patterns of gender bias faced by females in the work place: the Prove-It-Again! Bias, the Tightrope Bias, the Maternal Wall, and the Tug of War. Listeners will also learn strategies to effectively manage these biases, given from both personal experience and researched approaches.</p>",
+  "description": "<p>Based on the work of Joan C. Williams and Rachel Dempsey, this talk will discuss the major four patterns of gender bias faced by females in the work place: the Prove-It-Again! Bias, the Tightrope Bias, the Maternal Wall, and the Tug of War. Listeners will also learn strategies to effectively manage these biases, given from both personal experience and researched approaches.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/650871728_295x166.jpg"
+  ],
   "vimeo": "230330840",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650871728_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "big-data-in-azure",
   "abstract": "<p>This session will provide an overview of the different big data services available in Azure. We will discuss how they can be used together to provide a complete big data workflow for both human-born and machine-born data. </p>",
+  "description": "<p>This session will provide an overview of the different big data services available in Azure. We will discuss how they can be used together to provide a complete big data workflow for both human-born and machine-born data. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/631746147_295x166.jpg"
+  ],
   "vimeo": "215103496",
   "moreinfo": "https://www.eventbrite.com/e/global-azure-bootcamp-2017-austin-tx-tickets-33085810550#",
   "thumbnail": "https://i.vimeocdn.com/video/631746147_295x166.jpg",

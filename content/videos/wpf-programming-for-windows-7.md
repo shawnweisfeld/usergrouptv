@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "wpf-programming-for-windows-7",
   "abstract": "<p>Windows 7 brought with it some new visual goodies that with Windows Forms, we are not able to tap into. WPF 4.0 however lets us add features to our desktop applications that hook directly into these cool new Windows 7 capabilities. In this session, I'll show how to use WPF to provide jump lists for your application, how to customize the task-bar popup as well as the task-bar icon, how to add features to the task-bar thumbnail, and how to add aero-glass visuals to any part of your application.</p>",
+  "description": "<p>Windows 7 brought with it some new visual goodies that with Windows Forms, we are not able to tap into. WPF 4.0 however lets us add features to our desktop applications that hook directly into these cool new Windows 7 capabilities. In this session, I'll show how to use WPF to provide jump lists for your application, how to customize the task-bar popup as well as the task-bar icon, how to add features to the task-bar thumbnail, and how to add aero-glass visuals to any part of your application.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495920369_295x166.jpg"
+  ],
   "vimeo": "111339411",
   "moreinfo": "http://dallastechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/495920369_295x166.jpg",

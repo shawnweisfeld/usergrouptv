@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "building-cloud-ready-scalable-and-distributed-systems-with-akka-net",
   "abstract": "<p>Developers are living in exciting, but more demanding times - we're expected to create applications and services that can deliver better value faster, at higher volumes, with less downtime. And in order to meet these demands we must learn new technologies and programming styles. Enter the actor model and Akka.NET. In this talk you'll learn the fundamentals of Akka.NET and discover how you can use the power of the actor model, location transparency, clustering, and other Akka.NET concepts to build powerful, highly available systems without having to write awful boilerplate code. You'll never look at .NET the same way again afterwards.</p>",
+  "description": "<p>Developers are living in exciting, but more demanding times - we're expected to create applications and services that can deliver better value faster, at higher volumes, with less downtime. And in order to meet these demands we must learn new technologies and programming styles. Enter the actor model and Akka.NET. In this talk you'll learn the fundamentals of Akka.NET and discover how you can use the power of the actor model, location transparency, clustering, and other Akka.NET concepts to build powerful, highly available systems without having to write awful boilerplate code. You'll never look at .NET the same way again afterwards.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/651777161_295x166.jpg"
+  ],
   "vimeo": "231058707",
   "moreinfo": "https://www.meetup.com/azureaustin/events/242271308/",
   "thumbnail": "https://i.vimeocdn.com/video/651777161_295x166.jpg",

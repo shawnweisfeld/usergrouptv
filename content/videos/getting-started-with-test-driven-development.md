@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "getting-started-with-test-driven-development",
   "abstract": "<p>\r\nTest Driven Development (TDD) has been one of the most compelling paradigm changes in software development in recent years. Besides baking quality into your app, it can greatly improve the overall design making it easier to maintain and extend. A brief introductory overview of concepts and parctices will be followed by a demo building from scratch a WPF app with MVVM using TDD.\r\n</p>",
+  "description": "<p>\r\nTest Driven Development (TDD) has been one of the most compelling paradigm changes in software development in recent years. Besides baking quality into your app, it can greatly improve the overall design making it easier to maintain and extend. A brief introductory overview of concepts and parctices will be followed by a demo building from scratch a WPF app with MVVM using TDD.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/483485308_295x166.jpg"
+  ],
   "vimeo": "101657556",
   "moreinfo": "http://www.houstontechfest.org/Lists/ScheduleInfo/DispForm.aspx?ID=89&Source=http%3A%2F%2Fwww%2Ehoustontechfest%2Eorg%2FSitePages%2FTabbedSchedule%2Easpx",
   "thumbnail": "https://i.vimeocdn.com/video/483485308_295x166.jpg",

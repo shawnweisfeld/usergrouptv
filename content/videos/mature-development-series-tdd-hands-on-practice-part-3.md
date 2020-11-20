@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "mature-development-series-tdd-hands-on-practice-part-3",
   "abstract": "<p>Now it's time to open the laptops and get some practice with Test Driven Development.  Please bring your experience to the meeting and contribute.  We'll do a little review then create a new project in Visual Studio 2010.  We'll start moving fast through some basic and typical unit testing tasks.  We'll then practice some dependency injection techniques to help see the power that unit testing provides to improve software quality.  Along the way we'll try to maintain a discipline of Test First development so we can understand its obvious benefits over the more common \"Test Eventually, Maybe, and If we Have Time\" technique.</p>",
+  "description": "<p>Now it's time to open the laptops and get some practice with Test Driven Development.  Please bring your experience to the meeting and contribute.  We'll do a little review then create a new project in Visual Studio 2010.  We'll start moving fast through some basic and typical unit testing tasks.  We'll then practice some dependency injection techniques to help see the power that unit testing provides to improve software quality.  Along the way we'll try to maintain a discipline of Test First development so we can understand its obvious benefits over the more common \"Test Eventually, Maybe, and If we Have Time\" technique.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/490128849_295x166.jpg"
+  ],
   "vimeo": "106885312",
   "moreinfo": "http://dallasxaml.com/",
   "thumbnail": "https://i.vimeocdn.com/video/490128849_295x166.jpg",

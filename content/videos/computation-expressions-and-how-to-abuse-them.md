@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "computation-expressions-and-how-to-abuse-them",
   "abstract": "<p>Based on some twitter conversation, this meetup will focus on Computation Expressions and how you can use them to 1) expose a clearer API 2) hide internals 3) mimic monads and more! This will be a more live-coding session, so bring your laptop, a git client, and an FSI/FAKE install :) The code for this session can be found at: https://github.com/baronfel/computation-expressions-workshop</p>",
+  "description": "<p>Based on some twitter conversation, this meetup will focus on Computation Expressions and how you can use them to 1) expose a clearer API 2) hide internals 3) mimic monads and more! This will be a more live-coding session, so bring your laptop, a git client, and an FSI/FAKE install :) The code for this session can be found at: https://github.com/baronfel/computation-expressions-workshop</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/747908359_295x166.jpg"
+  ],
   "vimeo": "307856875",
   "moreinfo": "https://www.meetup.com/Austin-F-Meetup/events/mbscmqyxqbbc/",
   "thumbnail": "https://i.vimeocdn.com/video/747908359_295x166.jpg",

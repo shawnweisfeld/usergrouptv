@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "tutorial-on-building-scalable-web-applications-in-the-cloud",
   "abstract": "<p>This is a walk-through on how to architect, build, and deploy web applications in the Cloud for people who have not built cloud applications before. This covers a few general cloud architectures, avoiding bottlenecks, and the nuts and bolts of configuring and deploying cloud servers.</p>",
+  "description": "<p>This is a walk-through on how to architect, build, and deploy web applications in the Cloud for people who have not built cloud applications before. This covers a few general cloud architectures, avoiding bottlenecks, and the nuts and bolts of configuring and deploying cloud servers.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/586634769_295x166.jpg"
+  ],
   "vimeo": "178886498",
   "moreinfo": "http://techfests.com/Tulsa/2016/Speakers/JonathanBartlett/",
   "thumbnail": "https://i.vimeocdn.com/video/586634769_295x166.jpg",

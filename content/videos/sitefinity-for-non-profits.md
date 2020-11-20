@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sitefinity-for-non-profits",
   "abstract": "<p>In this session Michael will cover the basics of using Sitefinity as a non-profit</p>",
+  "description": "<p>In this session Michael will cover the basics of using Sitefinity as a non-profit</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/494263517_295x166.jpg"
+  ],
   "vimeo": "110129678",
   "moreinfo": "http://www.dallasgivecamp.org",
   "thumbnail": "https://i.vimeocdn.com/video/494263517_295x166.jpg",

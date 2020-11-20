@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "whats-new-with-windows-azure",
   "abstract": "A few weeks ago, Microsoft announced significant improvements to Windows Azure. Windows Azure now supports persistent VMs that can be updated and persisted to Windows Azure blob storage. This means that many existing on-premise applications can easily be migrated to Windows Azure. Also, Microsoft recently announced that they are extending Windows Azure’s reach into a PaaS platform with Windows Azure Web Sites. Windows Azure Web Sites is a simple and powerful hosting platform that allows developers to easily build and rapidly deploy web applications on Windows Azure using their favorite languages, frameworks, and tools.\r\n\r\nIn this presentation, I will demonstrate how to quickly build and deploy applications using the new Windows Azure features and services including Virtual Machines and Windows Azure Web Sites",
+  "description": "A few weeks ago, Microsoft announced significant improvements to Windows Azure. Windows Azure now supports persistent VMs that can be updated and persisted to Windows Azure blob storage. This means that many existing on-premise applications can easily be migrated to Windows Azure. Also, Microsoft recently announced that they are extending Windows Azure’s reach into a PaaS platform with Windows Azure Web Sites. Windows Azure Web Sites is a simple and powerful hosting platform that allows developers to easily build and rapidly deploy web applications on Windows Azure using their favorite languages, frameworks, and tools.\r\n\r\nIn this presentation, I will demonstrate how to quickly build and deploy applications using the new Windows Azure features and services including Virtual Machines and Windows Azure Web Sites",
+  "images": [
+    "https://i.vimeocdn.com/video/488223137_295x166.jpg"
+  ],
   "vimeo": "105431470",
   "moreinfo": "http://dallasasp.net/",
   "thumbnail": "https://i.vimeocdn.com/video/488223137_295x166.jpg",

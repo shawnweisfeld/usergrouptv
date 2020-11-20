@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "little-rock-tech-fest-2017-opening-remarks",
   "abstract": "<p>Little Rock Tech Fest 2017 Opening Remarks</p>",
+  "description": "<p>Little Rock Tech Fest 2017 Opening Remarks</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/660009607_295x166.jpg"
+  ],
   "vimeo": "237561290",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660009607_295x166.jpg",

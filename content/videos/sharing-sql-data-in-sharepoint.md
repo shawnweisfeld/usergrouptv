@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sharing-sql-data-in-sharepoint",
   "abstract": "<p>Microsoft SharePoint is a collaboration software that provides a web based portal for business intelligence, content management and document sharing. In this session get an overview of the basics of sharing a SQL table as a 'List' using Sharepoint and SSIS. Next we move on to fun stuff of integrating SQL Server Reporting Services integration. Finally we look at how to give users dynamic PowerPivot analysis in a dashboard.</p>",
+  "description": "<p>Microsoft SharePoint is a collaboration software that provides a web based portal for business intelligence, content management and document sharing. In this session get an overview of the basics of sharing a SQL table as a 'List' using Sharepoint and SSIS. Next we move on to fun stuff of integrating SQL Server Reporting Services integration. Finally we look at how to give users dynamic PowerPivot analysis in a dashboard.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/483490517_295x166.jpg"
+  ],
   "vimeo": "101661196",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=223&sessionid=16312",
   "thumbnail": "https://i.vimeocdn.com/video/483490517_295x166.jpg",

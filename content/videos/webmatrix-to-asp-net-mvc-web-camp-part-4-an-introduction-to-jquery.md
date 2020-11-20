@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "webmatrix-to-asp-net-mvc-web-camp-part-4-an-introduction-to-jquery",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/499125150_295x166.jpg"
+  ],
   "vimeo": "113709285",
   "moreinfo": "http://www.webcamps.ms",
   "thumbnail": "https://i.vimeocdn.com/video/499125150_295x166.jpg",

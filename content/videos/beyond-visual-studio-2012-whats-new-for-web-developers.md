@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "beyond-visual-studio-2012-whats-new-for-web-developers",
   "abstract": "<p>If you think the HTML, CSS and JavaScript editor experiences in Visual Studio 2012 are awesome, then wait till you see what’s coming next. Join Mads as he shows some of the features that are coming to Visual Studio and get a sneak peek at some of the latest innovations and experiments that are currently under development by his team.</p>",
+  "description": "<p>If you think the HTML, CSS and JavaScript editor experiences in Visual Studio 2012 are awesome, then wait till you see what’s coming next. Join Mads as he shows some of the features that are coming to Visual Studio and get a sneak peek at some of the latest innovations and experiments that are currently under development by his team.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485084627_295x166.jpg"
+  ],
   "vimeo": "102965954",
   "moreinfo": "http://northdallas.net/",
   "thumbnail": "https://i.vimeocdn.com/video/485084627_295x166.jpg",

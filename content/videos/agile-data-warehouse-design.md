@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "agile-data-warehouse-design",
   "abstract": "<p>Ever wonder what should go in a fact table and what belongs in a dimension? Have a suspicion that you’re forgetting important dimensions? Wouldn't it be great if somehow your design was self-documenting? In this session I’ll give you a couple new tools and show you a new way to look at your star schema. We’ll go past ‘why’ to see ‘how’ dimensional design is a great fit with the agile principles.</p>",
+  "description": "<p>Ever wonder what should go in a fact table and what belongs in a dimension? Have a suspicion that you’re forgetting important dimensions? Wouldn't it be great if somehow your design was self-documenting? In this session I’ll give you a couple new tools and show you a new way to look at your star schema. We’ll go past ‘why’ to see ‘how’ dimensional design is a great fit with the agile principles.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/483489817_295x166.jpg"
+  ],
   "vimeo": "101660649",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=223&sessionid=16311",
   "thumbnail": "https://i.vimeocdn.com/video/483489817_295x166.jpg",

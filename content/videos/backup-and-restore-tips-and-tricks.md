@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "backup-and-restore-tips-and-tricks",
   "abstract": "<p>\r\n\tDo you need to devise a backup and restore plan to meet the Recovery Point Objective (RPO) and Recovery Time Objective (RTO) of your business?  I'll show you how to pick the right backup type, method, and recovery model to meet your business needs.  You'll learn how the network and drive format can have an effect on your backups and avoid the pitfalls that slow down your backup and restore plan.  You'll also learn how to keep your transaction log from growing uncontrollably while speeding up your backups and restores using the native tools without any added cost!\r\n</p>",
+  "description": "<p>\r\n\tDo you need to devise a backup and restore plan to meet the Recovery Point Objective (RPO) and Recovery Time Objective (RTO) of your business?  I'll show you how to pick the right backup type, method, and recovery model to meet your business needs.  You'll learn how the network and drive format can have an effect on your backups and avoid the pitfalls that slow down your backup and restore plan.  You'll also learn how to keep your transaction log from growing uncontrollably while speeding up your backups and restores using the native tools without any added cost!\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/533987595_295x166.jpg"
+  ],
   "vimeo": "138574024",
   "moreinfo": "http://www.sqlsaturday.com/422/Sessions/Details.aspx?sid=23774",
   "thumbnail": "https://i.vimeocdn.com/video/533987595_295x166.jpg",

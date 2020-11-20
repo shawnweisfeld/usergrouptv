@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "youre-not-here-have-no-fear-agile-for-distributed-teams",
   "abstract": "<p>Agile is built on collaboration - How do you make this work with distributed teams? Distributed teams are a reality in the software industry. Whether you have remote team members or just occasional work-from-home, it takes extra effort to overcome distance and keep your Agile collaboration effective. At GAP we have created hundreds of Agile teams, all of which have one or more remote members. It varies from something as simple as a remote Product Owner to something as complex as a spread across three countries. Come learn the best practices we have developed for overcoming distance with our Agile teams.\r\n</p>",
+  "description": "<p>Agile is built on collaboration - How do you make this work with distributed teams? Distributed teams are a reality in the software industry. Whether you have remote team members or just occasional work-from-home, it takes extra effort to overcome distance and keep your Agile collaboration effective. At GAP we have created hundreds of Agile teams, all of which have one or more remote members. It varies from something as simple as a remote Product Owner to something as complex as a spread across three countries. Come learn the best practices we have developed for overcoming distance with our Agile teams.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/703338230_295x166.jpg"
+  ],
   "vimeo": "271916606",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703338230_295x166.jpg",

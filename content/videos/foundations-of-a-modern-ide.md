@@ -6,6 +6,10 @@
   "draft": false,
   "slug": "foundations-of-a-modern-ide",
   "abstract": "<p>Developers may take for granted many features in a modern IDE, but it was not long ago when there was just the command line. Today with the growing complexity of software stacks and frameworks, the importance of effective developer tools has only followed. This talk will cover the basics of static analysis, parsing, debugging, code comprehension, and how we can leverage all these features to develop powerful, integrated language tools and plugins.</p>",
+  "description": "<p>Developers may take for granted many features in a modern IDE, but it was not long ago when there was just the command line. Today with the growing complexity of software stacks and frameworks, the importance of effective developer tools has only followed. This talk will cover the basics of static analysis, parsing, debugging, code comprehension, and how we can leverage all these features to develop powerful, integrated language tools and plugins.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/489183212_295x166.jpg"
+  ],
   "vimeo": "106167888",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#059",
   "thumbnail": "https://i.vimeocdn.com/video/489183212_295x166.jpg",

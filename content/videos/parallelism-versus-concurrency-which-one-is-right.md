@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "parallelism-versus-concurrency-which-one-is-right",
   "abstract": "<p>\r\nHaving trouble understanding what the differences are between concurrency and parallelism?  You are not the only one. \r\n</p><p>\r\nI will walk through multiple use cases showing you when use to each one, and also the tooling that supports each.\r\n</p>",
+  "description": "<p>\r\nHaving trouble understanding what the differences are between concurrency and parallelism?  You are not the only one. \r\n</p><p>\r\nI will walk through multiple use cases showing you when use to each one, and also the tooling that supports each.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/483485096_295x166.jpg"
+  ],
   "vimeo": "101657382",
   "moreinfo": "http://www.houstontechfest.org/Lists/ScheduleInfo/DispForm.aspx?ID=68&Source=http%3A%2F%2Fwww%2Ehoustontechfest%2Eorg%2FSitePages%2FTabbedSchedule%2Easpx",
   "thumbnail": "https://i.vimeocdn.com/video/483485096_295x166.jpg",

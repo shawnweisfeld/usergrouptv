@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "automating-azure-analysis-services",
   "abstract": "<p>The elasticity of the cloud lets you provide a better user experience instead of breaking the bank running your solution at the highest scale 24 hours a day. This demo-heavy session will show how to automate Azure Analysis Services. We will look at solutions to the following questions: How do you schedule a refresh of the data in your Azure Analysis Services model? How do you pause the server on the weekends? Better yet, how can you pause it when the last user disconnects and start it automatically when the first user connects in the morning? How do you scale to meet peak demand each day? How can Azure Analysis Services load balance across servers in multiple countries so that the user connects to the geographically closest server? How do you extend your on-premises SSAS solution into Azure Analysis Services?</p>",
+  "description": "<p>The elasticity of the cloud lets you provide a better user experience instead of breaking the bank running your solution at the highest scale 24 hours a day. This demo-heavy session will show how to automate Azure Analysis Services. We will look at solutions to the following questions: How do you schedule a refresh of the data in your Azure Analysis Services model? How do you pause the server on the weekends? Better yet, how can you pause it when the last user disconnects and start it automatically when the first user connects in the morning? How do you scale to meet peak demand each day? How can Azure Analysis Services load balance across servers in multiple countries so that the user connects to the geographically closest server? How do you extend your on-premises SSAS solution into Azure Analysis Services?</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/702679647_295x166.jpg"
+  ],
   "vimeo": "271390704",
   "moreinfo": "http://www.sqlsaturday.com/734/Sessions/Details.aspx?sid=77768",
   "thumbnail": "https://i.vimeocdn.com/video/702679647_295x166.jpg",

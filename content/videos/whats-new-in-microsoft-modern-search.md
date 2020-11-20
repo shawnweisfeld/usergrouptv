@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "whats-new-in-microsoft-modern-search",
   "abstract": "<p>Microsoft has been hard at work optimizing and enriching the Microsoft 365 Search experience. This session will detail the updates and provide insight into how your organization can take advantage of the new features and experiences. See what Microsoft and the community are working on for Search experiences in Microsoft 365.</p>",
+  "description": "<p>Microsoft has been hard at work optimizing and enriching the Microsoft 365 Search experience. This session will detail the updates and provide insight into how your organization can take advantage of the new features and experiences. See what Microsoft and the community are working on for Search experiences in Microsoft 365.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/822338757_295x166.jpg"
+  ],
   "vimeo": "366330347",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/lsljlmyznbmb/",
   "thumbnail": "https://i.vimeocdn.com/video/822338757_295x166.jpg",

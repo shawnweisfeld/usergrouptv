@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "whats-new-for-alm-in-visual-studio-2013-and-team-foundation-server-2013",
   "abstract": "<p>The latest versions of Visual Studio and TFS bring some great new features for developers, Product Owners, testers, and even the crusty old stakeholders. More than ever, TFS integrates the whole ALM story to help you deliver your project on time and on budget. In this session, we'll quickly recap the best features of TFS 2012 and then look at the great new features in TFS 2013. Paul will show you the new ALM features that make TFS perfect for Product Owners and company Stakeholders. He will also show you how developers work with TFS more effectively than ever, right from Visual Studio. We will finish off with the awesome story for testers.</p>",
+  "description": "<p>The latest versions of Visual Studio and TFS bring some great new features for developers, Product Owners, testers, and even the crusty old stakeholders. More than ever, TFS integrates the whole ALM story to help you deliver your project on time and on budget. In this session, we'll quickly recap the best features of TFS 2012 and then look at the great new features in TFS 2013. Paul will show you the new ALM features that make TFS perfect for Product Owners and company Stakeholders. He will also show you how developers work with TFS more effectively than ever, right from Visual Studio. We will finish off with the awesome story for testers.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/490859682_295x166.jpg"
+  ],
   "vimeo": "107457360",
   "moreinfo": "http://lrtechfest.com/speakers#paul-hacker",
   "thumbnail": "https://i.vimeocdn.com/video/490859682_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "cross-platform-development-with-portable-class-libraries",
   "abstract": "<p>In the past, developing for more than one platform in .NET was an absolute nightmare. With the introduction of Portable Class Libraries, targeting multiple frameworks has never been easier. By checking a few boxes, you can develop for phone, tablets and desktops. Well, not quite. Things are easier, but still not seamless. In this session, we'll look at what Portable Class Libraries bring to the table. We'll see how to organize your code, how to deal with stubborn differences between frameworks, and how to build, test and deploy. Finally, we'll look at how PCLs and Xamarin can help target new frameworks, including iOS and Android devices, making developing and targeting multiple devices a breeze.</p>",
+  "description": "<p>In the past, developing for more than one platform in .NET was an absolute nightmare. With the introduction of Portable Class Libraries, targeting multiple frameworks has never been easier. By checking a few boxes, you can develop for phone, tablets and desktops. Well, not quite. Things are easier, but still not seamless. In this session, we'll look at what Portable Class Libraries bring to the table. We'll see how to organize your code, how to deal with stubborn differences between frameworks, and how to build, test and deploy. Finally, we'll look at how PCLs and Xamarin can help target new frameworks, including iOS and Android devices, making developing and targeting multiple devices a breeze.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/482638181_295x166.jpg"
+  ],
   "vimeo": "100979892",
   "moreinfo": "http://www.meetup.com/Win-App-Devs/events/184336822/",
   "thumbnail": "https://i.vimeocdn.com/video/482638181_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "blockchain-what-this-means-for-you",
   "abstract": "<p>This session will cover the latest Azure Blockchain offerings, use cases and design patterns. Go from 0-60 on Blockchain in an hour. If you are a technical resource looking to understand the latest Azure Blockchain this presentation is for you. No prerequisite knowledge is necessary. Attendees can expect to walk away with an understanding of Blockchain fundamentals, key use cases, and how to build Blockchain solutions on Azure.</p>",
+  "description": "<p>This session will cover the latest Azure Blockchain offerings, use cases and design patterns. Go from 0-60 on Blockchain in an hour. If you are a technical resource looking to understand the latest Azure Blockchain this presentation is for you. No prerequisite knowledge is necessary. Attendees can expect to walk away with an understanding of Blockchain fundamentals, key use cases, and how to build Blockchain solutions on Azure.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/822338084_295x166.jpg"
+  ],
   "vimeo": "366329919",
   "moreinfo": "https://www.meetup.com/azureaustin/events/263750562/",
   "thumbnail": "https://i.vimeocdn.com/video/822338084_295x166.jpg",

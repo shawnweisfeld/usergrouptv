@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "closing-keynote-implementing-scrum-with-vs-2010",
   "abstract": "<p>Scrum teams often discover that sticky note Scrum boards is a fun, functional, and low cost way to track and broadcast the state of a Scrum project. There are some good reasons to store Scrum data electronically: to share/sync project state with multiple boards/locations, simplify reporting, change notifications, and enable historical data mining. In this session we will look at the various options available to TFS users to manage their Scrum projects. We will discuss the Visual Studio Scrum 1.0 process template, Urban Turtle scrum board, Telerik Team Pulse, and EMC TFS Workbench.</p>",
+  "description": "<p>Scrum teams often discover that sticky note Scrum boards is a fun, functional, and low cost way to track and broadcast the state of a Scrum project. There are some good reasons to store Scrum data electronically: to share/sync project state with multiple boards/locations, simplify reporting, change notifications, and enable historical data mining. In this session we will look at the various options available to TFS users to manage their Scrum projects. We will discuss the Visual Studio Scrum 1.0 process template, Urban Turtle scrum board, Telerik Team Pulse, and EMC TFS Workbench.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/501052843_295x166.jpg"
+  ],
   "vimeo": "115131812",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/501052843_295x166.jpg",

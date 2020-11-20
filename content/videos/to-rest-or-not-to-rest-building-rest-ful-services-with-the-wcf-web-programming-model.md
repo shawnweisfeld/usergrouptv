@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "to-rest-or-not-to-rest-building-rest-ful-services-with-the-wcf-web-programming-model",
   "abstract": "<p>REST is defined as an architectural style for building services that embrace the principles of the web. But what's it good for? Tony will provide concrete examples of where it makes sense to implement REST-ful web services. He'll also get down and dirty using the WCF Web Programming Model and show how WCF makes it easy to serve up POX or JSON, increasing the reach of your services to clients that don't understand or care about SOAP. We'll also look at API's for syndicating content using RSS and ATOM.</p>",
+  "description": "<p>REST is defined as an architectural style for building services that embrace the principles of the web. But what's it good for? Tony will provide concrete examples of where it makes sense to implement REST-ful web services. He'll also get down and dirty using the WCF Web Programming Model and show how WCF makes it easy to serve up POX or JSON, increasing the reach of your services to clients that don't understand or care about SOAP. We'll also look at API's for syndicating content using RSS and ATOM.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495137602_295x166.jpg"
+  ],
   "vimeo": "110770227",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/495137602_295x166.jpg",

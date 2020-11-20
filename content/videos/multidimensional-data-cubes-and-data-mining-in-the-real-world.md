@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "multidimensional-data-cubes-and-data-mining-in-the-real-world",
   "abstract": "<p>In this session, we will build out a multidimensional data cube based on ACH transaction data. The data will be approximately 25 million rows of data. Once we go over the design and load of the data cube, we will look at the data mining capability built into SQL Server to see what kind of insight we can get from the data using SQL Server-based tools. We are going to simulate the data that a financial institution would be receiving in direct deposits and other ACH type transactions. Remember, if your organization is using the enterprise version of SQL Server, all of the associated tools are free to install and use.</p>",
+  "description": "<p>In this session, we will build out a multidimensional data cube based on ACH transaction data. The data will be approximately 25 million rows of data. Once we go over the design and load of the data cube, we will look at the data mining capability built into SQL Server to see what kind of insight we can get from the data using SQL Server-based tools. We are going to simulate the data that a financial institution would be receiving in direct deposits and other ACH type transactions. Remember, if your organization is using the enterprise version of SQL Server, all of the associated tools are free to install and use.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/798964104_295x166.jpg"
+  ],
   "vimeo": "348360491",
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=95705",
   "thumbnail": "https://i.vimeocdn.com/video/798964104_295x166.jpg",

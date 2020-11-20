@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "asyncing-and-awaiting-windows-8-3",
   "abstract": "<p>If you thought Silverlight was asynchronous, just a-wait till you see WinRT. Windows 8 is coming, and it has a completely new API. In addition to the familiar Win32, developers can now take advantage of WinRT to participate in the Metro experience.Just about every operation in WinRT is asynchronous. And not just web calls. Even opening a file is an async operation. Arm yourself with the latest tools in .NET 4.5 -- the async and await keywords -- to take full advantage of the platform.</p>",
+  "description": "<p>If you thought Silverlight was asynchronous, just a-wait till you see WinRT. Windows 8 is coming, and it has a completely new API. In addition to the familiar Win32, developers can now take advantage of WinRT to participate in the Metro experience.Just about every operation in WinRT is asynchronous. And not just web calls. Even opening a file is an async operation. Arm yourself with the latest tools in .NET 4.5 -- the async and await keywords -- to take full advantage of the platform.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/489467062_295x166.jpg"
+  ],
   "vimeo": "106374548",
   "moreinfo": "http://www.dallas-csharp-sig.com/",
   "thumbnail": "https://i.vimeocdn.com/video/489467062_295x166.jpg",

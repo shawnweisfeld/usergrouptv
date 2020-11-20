@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "make-your-augmented-reality-speak-with-video-3d-characters",
   "abstract": "<p>We will start with a intro to Augmented Reality, both the uses and how to create. Next, we will discuss assets and the power of Videos as assets. Then, using NAWMAL, we'll take a look at using 3D Characters as instructional assets in AR.</p>",
+  "description": "<p>We will start with a intro to Augmented Reality, both the uses and how to create. Next, we will discuss assets and the power of Videos as assets. Then, using NAWMAL, we'll take a look at using 3D Characters as instructional assets in AR.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/818418611_295x166.jpg"
+  ],
   "vimeo": "363310791",
   "moreinfo": "https://www.joomladaytexas.com/",
   "thumbnail": "https://i.vimeocdn.com/video/818418611_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "azure-the-building-blocks-of-a-modern-cloud-application-part-1",
   "abstract": "<p>With so many individual services offered on the Azure platform choosing the right ones for your application can be overwhelming. In this talk we will provide an overview of the most popular services, discuss common decision points on when to choose each and discuss common application design patterns to build highly scalable, highly available, cost effective cloud solutions.</p>",
+  "description": "<p>With so many individual services offered on the Azure platform choosing the right ones for your application can be overwhelming. In this talk we will provide an overview of the most popular services, discuss common decision points on when to choose each and discuss common application design patterns to build highly scalable, highly available, cost effective cloud solutions.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/540282664_295x166.jpg"
+  ],
   "vimeo": "142867209",
   "moreinfo": "http://lrtechfest.com/speakerdetails/#Shawn-Weisfeld",
   "thumbnail": "https://i.vimeocdn.com/video/540282664_295x166.jpg",

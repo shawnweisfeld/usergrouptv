@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "creating-a-sharepoint-2010-workflow-real-world-application",
   "abstract": "<p>Using SharePoing Designer 2010 and its out-of-the-box workflow features, we'll cobble together a real-world solution. This solution will use SharePoint 2010, customized InfoPath forms and SharePoint Designer workflows to unleash the power of SharePoint to the beginner or intermediate business user.</p>",
+  "description": "<p>Using SharePoing Designer 2010 and its out-of-the-box workflow features, we'll cobble together a real-world solution. This solution will use SharePoint 2010, customized InfoPath forms and SharePoint Designer workflows to unleash the power of SharePoint to the beginner or intermediate business user.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495922033_295x166.jpg"
+  ],
   "vimeo": "111340843",
   "moreinfo": "http://dallastechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/495922033_295x166.jpg",

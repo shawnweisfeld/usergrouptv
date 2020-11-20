@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "self-service-data-visualizations-with-excel-power-view",
   "abstract": "<p>In this session, we will continue your Power BI journey and discuss the compelling visualization capabilities of Excel Power View. You will learn just how easy it is to create presentation-ready visualizations and tell an interactive story with your data. If you are intrigued by what capabilities you can unlock with Power BI, then come learn how you can leverage Power View to enhance your analytics experience and maximize value for your organization.</p>",
+  "description": "<p>In this session, we will continue your Power BI journey and discuss the compelling visualization capabilities of Excel Power View. You will learn just how easy it is to create presentation-ready visualizations and tell an interactive story with your data. If you are intrigued by what capabilities you can unlock with Power BI, then come learn how you can leverage Power View to enhance your analytics experience and maximize value for your organization.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/482637779_295x166.jpg"
+  ],
   "vimeo": "100978913",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=305&sessionid=21962",
   "thumbnail": "https://i.vimeocdn.com/video/482637779_295x166.jpg",

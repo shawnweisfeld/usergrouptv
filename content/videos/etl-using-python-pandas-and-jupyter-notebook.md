@@ -10,6 +10,10 @@
   "draft": false,
   "slug": "etl-using-python-pandas-and-jupyter-notebook",
   "abstract": "<p>ETL of large amount of data is always a daily task for data analysts and data scientists. While Excel and Text editors can handle a lot of the initial work, they have limitations. Python, in particular, Pandas library and Jupyter Notebook have becoming the primary choice of data analytics and data wrangling tools for data analysts world wide. In this 60 minute session, I will show you how to set up and get it running on your laptop for a jupyter notebook environment and start improve your ETL workflow.</p>",
+  "description": "<p>ETL of large amount of data is always a daily task for data analysts and data scientists. While Excel and Text editors can handle a lot of the initial work, they have limitations. Python, in particular, Pandas library and Jupyter Notebook have becoming the primary choice of data analytics and data wrangling tools for data analysts world wide. In this 60 minute session, I will show you how to set up and get it running on your laptop for a jupyter notebook environment and start improve your ETL workflow.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/854626443_295x166.jpg"
+  ],
   "vimeo": "390486691",
   "moreinfo": "https://www.sqlsaturday.com/939/Sessions/Details.aspx?sid=100848",
   "thumbnail": "https://i.vimeocdn.com/video/854626443_295x166.jpg",

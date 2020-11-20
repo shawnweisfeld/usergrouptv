@@ -11,6 +11,10 @@
   "draft": false,
   "slug": "data-integration-who-what-when-and-why",
   "abstract": "The session provides an architectural (yet practical) overview of the Data Integration market today. Who - the main players in the Data Integration marketplace; What - an examination of key solutions including real time data replication, ETL, Data Profiling and Data Quality; When - a look at typical adoption patterns and architectures for Data Integration; Why - an overview of todays best fit usecases; Where - an examination of typical deployment architectures.",
+  "description": "The session provides an architectural (yet practical) overview of the Data Integration market today. Who - the main players in the Data Integration marketplace; What - an examination of key solutions including real time data replication, ETL, Data Profiling and Data Quality; When - a look at typical adoption patterns and architectures for Data Integration; Why - an overview of todays best fit usecases; Where - an examination of typical deployment architectures.",
+  "images": [
+    "https://i.vimeocdn.com/video/488137582_295x166.jpg"
+  ],
   "vimeo": "105366916",
   "moreinfo": "http://techfests.com/NWA/2012",
   "thumbnail": "https://i.vimeocdn.com/video/488137582_295x166.jpg",

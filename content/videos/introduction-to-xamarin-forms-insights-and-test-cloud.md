@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "introduction-to-xamarin-forms-insights-and-test-cloud",
   "abstract": "<p>Introduction to Xamarin.Forms, Insights, and Test Cloud</p>",
+  "description": "<p>Introduction to Xamarin.Forms, Insights, and Test Cloud</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/520899656_295x166.jpg"
+  ],
   "vimeo": "129422790",
   "moreinfo": "http://xamarin.com/dev-days",
   "thumbnail": "https://i.vimeocdn.com/video/520899656_295x166.jpg",

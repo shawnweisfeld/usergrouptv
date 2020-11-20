@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "upgrading-and-migrating-to-sharepoint-2016-successfully",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/661089208_295x166.jpg"
+  ],
   "vimeo": "238404869",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/661089208_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "coding-your-future-with-the-windows-insider-program",
   "abstract": "<p>Have you always dreamed of a career in tech but worried you wouldn't be able to pick up coding? Are you afraid to take your code to the next level? No matter where you're starting, the Windows Insider Program can help. Whether you're an expert, student, IT pro, or beginner, we have a developer learning path for you. Start learning the tools, building your first app, or turning your code into a business with our community of Insiders.</p>",
+  "description": "<p>Have you always dreamed of a career in tech but worried you wouldn't be able to pick up coding? Are you afraid to take your code to the next level? No matter where you're starting, the Windows Insider Program can help. Whether you're an expert, student, IT pro, or beginner, we have a developer learning path for you. Start learning the tools, building your first app, or turning your code into a business with our community of Insiders.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/796753634_295x166.jpg"
+  ],
   "vimeo": "346640666",
   "moreinfo": "https://developer.microsoft.com/en-us/windows/campaigns/us-tx-dallas",
   "thumbnail": "https://i.vimeocdn.com/video/796753634_295x166.jpg",

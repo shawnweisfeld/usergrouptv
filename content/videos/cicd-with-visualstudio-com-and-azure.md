@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "cicd-with-visualstudio-com-and-azure",
   "abstract": "<p>In this talk we will take a simple ASP.NET MVC application and check it in to VisualStudio.com Source Control. We will then use the online Build tools to automate builds on check-in. Then using the online release management we will automate deploying it to our Dev, QA and Production environments. All the while ensuring that we keep all of the configuration for each of these environments safe.</p>",
+  "description": "<p>In this talk we will take a simple ASP.NET MVC application and check it in to VisualStudio.com Source Control. We will then use the online Build tools to automate builds on check-in. Then using the online release management we will automate deploying it to our Dev, QA and Production environments. All the while ensuring that we keep all of the configuration for each of these environments safe.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/650087261_295x166.jpg"
+  ],
   "vimeo": "229708862",
   "moreinfo": "https://www.facebook.com/events/148200525750721",
   "thumbnail": "https://i.vimeocdn.com/video/650087261_295x166.jpg",

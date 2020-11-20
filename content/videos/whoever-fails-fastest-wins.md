@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "whoever-fails-fastest-wins",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/820031059_295x166.jpg"
+  ],
   "vimeo": "364568002",
   "moreinfo": "http://conference.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/820031059_295x166.jpg",

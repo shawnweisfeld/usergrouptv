@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "unlocking-new-visualizations-and-features-in-power-bi",
   "abstract": "<p>Power BI is a great sandbox environment for report design. However, knowing how to leverage visuals and features in a way that adds additional value can be challenging. New visualizations and features can be created a number of ways including: layering visuals, customizing visual formatting, and/or utilizing DAX measures. The session will include a series of visualization and reporting techniques that you'll be able to leverage in your company's reports to take them to the next level.</p>",
+  "description": "<p>Power BI is a great sandbox environment for report design. However, knowing how to leverage visuals and features in a way that adds additional value can be challenging. New visualizations and features can be created a number of ways including: layering visuals, customizing visual formatting, and/or utilizing DAX measures. The session will include a series of visualization and reporting techniques that you'll be able to leverage in your company's reports to take them to the next level.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/940309865_295x166.jpg"
+  ],
   "vimeo": "447352942",
   "moreinfo": "https://www.havensconsulting.net/speaking-events",
   "thumbnail": "https://i.vimeocdn.com/video/940309865_295x166.jpg",

@@ -11,6 +11,10 @@
   "draft": false,
   "slug": "dapr-rudr-porter-oam-new-oss-projects",
   "abstract": "<p>An overview of recently announced open-source projects (OAM, Rudr, Porter, and Dapr) for developing and deploying cloud-native applications. This session will walk you through on how to get started with each of these projects with a combination of presentation and live demos.</p>",
+  "description": "<p>An overview of recently announced open-source projects (OAM, Rudr, Porter, and Dapr) for developing and deploying cloud-native applications. This session will walk you through on how to get started with each of these projects with a combination of presentation and live demos.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/845729821_295x166.jpg"
+  ],
   "vimeo": "384090253",
   "moreinfo": "https://www.meetup.com/azureaustin/events/267114666/",
   "thumbnail": "https://i.vimeocdn.com/video/845729821_295x166.jpg",

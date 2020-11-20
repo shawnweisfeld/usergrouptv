@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "windows-phone-30-to-launch-session-2-exploring-the-windows-phone-capabilities",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/492989109_295x166.jpg"
+  ],
   "vimeo": "109117839",
   "moreinfo": "http://usergroup.tv/videos/windows-phone-30-to-launch-session-4-publishing-your-new-wp-application",
   "thumbnail": "https://i.vimeocdn.com/video/492989109_295x166.jpg",

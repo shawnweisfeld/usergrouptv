@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "intro-to-map-reduce-on-hadoop",
   "abstract": "Start solving problems and finding new information with Hadoop. You will find out how to use your existing programming skills to write Hadoop jobs and how you can use map/reduce in your everyday routine.",
+  "description": "Start solving problems and finding new information with Hadoop. You will find out how to use your existing programming skills to write Hadoop jobs and how you can use map/reduce in your everyday routine.",
+  "images": [
+    "https://i.vimeocdn.com/video/488139709_295x166.jpg"
+  ],
   "vimeo": "105368742",
   "moreinfo": "http://techfests.com/NWA/2012",
   "thumbnail": "https://i.vimeocdn.com/video/488139709_295x166.jpg",

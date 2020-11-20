@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "visual-studio-2012-whats-in-it-for-me",
   "abstract": "<p>Visual Studio 2010 was released two years ago. Since then Microsoft was working hard to deliver Visual Studio \"11\" and Team Foundation Server \"11\". This session will take a look at the myriad features that have been incorporated into the latest version of Visual Studio and Team Foundation Server including some great planning features, Team Foundation Service (on Windows Azure), a revamped look and feel for Visual Studio, and more. Some of these features are also available for use within Visual Studio 2010 if you know where to look. If you want to get an overview of what's new in Visual Studio \"11\", then check out this session. ***NOTE: \"Visual Studio 11\" and \"Team Foundation Server 11\" are code names. The official name will be announced in the near future. At that time, I will need to modify the names within the description. </p>",
+  "description": "<p>Visual Studio 2010 was released two years ago. Since then Microsoft was working hard to deliver Visual Studio \"11\" and Team Foundation Server \"11\". This session will take a look at the myriad features that have been incorporated into the latest version of Visual Studio and Team Foundation Server including some great planning features, Team Foundation Service (on Windows Azure), a revamped look and feel for Visual Studio, and more. Some of these features are also available for use within Visual Studio 2010 if you know where to look. If you want to get an overview of what's new in Visual Studio \"11\", then check out this session. ***NOTE: \"Visual Studio 11\" and \"Team Foundation Server 11\" are code names. The official name will be announced in the near future. At that time, I will need to modify the names within the description. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485394817_295x166.jpg"
+  ],
   "vimeo": "103222057",
   "moreinfo": "http://techfests.com/Tulsa/2012/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/485394817_295x166.jpg",

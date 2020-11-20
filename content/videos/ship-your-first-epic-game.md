@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "ship-your-first-epic-game",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/481993830_295x166.jpg"
+  ],
   "vimeo": "100491274",
   "moreinfo": "http://2014.cowtowntechroundup.com/",
   "thumbnail": "https://i.vimeocdn.com/video/481993830_295x166.jpg",

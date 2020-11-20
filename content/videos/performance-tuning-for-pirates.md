@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "performance-tuning-for-pirates",
   "abstract": "<p>If you follow baseball you will notice that the Pittsburgh Pirates (this speaker’s favorite team) has to do more with less to be successful. This trend can also exist within IT shops. If you need to improve the performance of your SQL Server instances and cannot purchase 3rd party tools this session is for you. Learn to improve your performance tuning process by using several free tools. This session will cover wait stats, dynamic management objects, perfmon, PAL, SQL Trace, ClearTrace, SQL Nexus and SQLDiag. \r\n</p>",
+  "description": "<p>If you follow baseball you will notice that the Pittsburgh Pirates (this speaker’s favorite team) has to do more with less to be successful. This trend can also exist within IT shops. If you need to improve the performance of your SQL Server instances and cannot purchase 3rd party tools this session is for you. Learn to improve your performance tuning process by using several free tools. This session will cover wait stats, dynamic management objects, perfmon, PAL, SQL Trace, ClearTrace, SQL Nexus and SQLDiag. \r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/487544020_295x166.jpg"
+  ],
   "vimeo": "104887222",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=125&sessionid=8327",
   "thumbnail": "https://i.vimeocdn.com/video/487544020_295x166.jpg",

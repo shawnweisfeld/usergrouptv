@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "data-warehousing-101",
   "abstract": "<p>In this session, we will cover the basics of building a data warehouse. We will look at the Kimball and Inman methodologies and see what will fit the situations in building a data warehouse most effectively. We will also cover doing a slowly changing dimension that will load in seconds instead of hours.</p>",
+  "description": "<p>In this session, we will cover the basics of building a data warehouse. We will look at the Kimball and Inman methodologies and see what will fit the situations in building a data warehouse most effectively. We will also cover doing a slowly changing dimension that will load in seconds instead of hours.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/641694815_295x166.jpg"
+  ],
   "vimeo": "223017811",
   "moreinfo": "http://www.sqlsaturday.com/651/Sessions/Details.aspx?sid=64178",
   "thumbnail": "https://i.vimeocdn.com/video/641694815_295x166.jpg",

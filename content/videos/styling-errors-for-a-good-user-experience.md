@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "styling-errors-for-a-good-user-experience",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/499120878_295x166.jpg"
+  ],
   "vimeo": "113706228",
   "moreinfo": "http://dallasxaml.com/",
   "thumbnail": "https://i.vimeocdn.com/video/499120878_295x166.jpg",

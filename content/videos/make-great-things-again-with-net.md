@@ -6,6 +6,10 @@
   "draft": false,
   "slug": "make-great-things-again-with-net",
   "abstract": "<p>We'll be checking out what .NET can do these days with Cornelius Mendoza.\r\n</p>",
+  "description": "<p>We'll be checking out what .NET can do these days with Cornelius Mendoza.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/683627505_295x166.jpg"
+  ],
   "vimeo": "256057600",
   "moreinfo": "https://www.meetup.com/Austin-Cloud-Native-Meetup/events/246908326/",
   "thumbnail": "https://i.vimeocdn.com/video/683627505_295x166.jpg",

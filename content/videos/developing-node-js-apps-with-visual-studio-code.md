@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "developing-node-js-apps-with-visual-studio-code",
   "abstract": "<p>Learn why Visual Studio Code is one of the best code editors around, especially for node.js development! We'll build a simple REST API with node.js and hapi, This is a great introduction for developers who want to learn more about server-side Javascript and APIs.</p>",
+  "description": "<p>Learn why Visual Studio Code is one of the best code editors around, especially for node.js development! We'll build a simple REST API with node.js and hapi, This is a great introduction for developers who want to learn more about server-side Javascript and APIs.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/567149928_295x166.jpg"
+  ],
   "vimeo": "163708603",
   "moreinfo": "http://www.meetup.com/ATX-MSFT-Devs/events/229034129/",
   "thumbnail": "https://i.vimeocdn.com/video/567149928_295x166.jpg",

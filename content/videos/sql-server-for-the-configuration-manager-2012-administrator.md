@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sql-server-for-the-configuration-manager-2012-administrator",
   "abstract": "<p>\r\n\tSQL Server is a core dependency for all components of the System Center suite of products.  Configuration Manager 2012, a component of the suite, will be the focus of our discussion as it is more demanding that a typical SQL application.  To best support Configuration Manager 2012 administrators need to understand database structure, configurations that will allow for optimal SQL performance, the way Configuration Manager 2012 replication leverages the SQL Broker engine and more.  This session will focus on the nuggets that the Configuration Manager administrator needs to understand to make sense of the SQL backend.  Beyond the Configuration Manager 2012 administrator discussions will be interesting to anyone trying to tune SQL.\r\n</p>",
+  "description": "<p>\r\n\tSQL Server is a core dependency for all components of the System Center suite of products.  Configuration Manager 2012, a component of the suite, will be the focus of our discussion as it is more demanding that a typical SQL application.  To best support Configuration Manager 2012 administrators need to understand database structure, configurations that will allow for optimal SQL performance, the way Configuration Manager 2012 replication leverages the SQL Broker engine and more.  This session will focus on the nuggets that the Configuration Manager administrator needs to understand to make sense of the SQL backend.  Beyond the Configuration Manager 2012 administrator discussions will be interesting to anyone trying to tune SQL.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/533910919_295x166.jpg"
+  ],
   "vimeo": "138523302",
   "moreinfo": "http://www.sqlsaturday.com/422/Sessions/Details.aspx?sid=25815",
   "thumbnail": "https://i.vimeocdn.com/video/533910919_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "in-memory-indexes-spacex-performance",
   "abstract": "<p>This session does an in-depth dive into hash, range, and columnstore indexes in the in-memory environment. It will be about 25% presentation and 75% demos with emphasis on when and how to apply in-memory indexes for stated environments/scenarios. The demos will include performance comparisons to similar disk based indexes as well as the cost in RAM for the in-memory tables and storage memory for the equivalent disk based indexes.  Performance is everyone’s goal, and this session will boast your in-memory performance to Falcon Heavy® performance.\r\n</p>",
+  "description": "<p>This session does an in-depth dive into hash, range, and columnstore indexes in the in-memory environment. It will be about 25% presentation and 75% demos with emphasis on when and how to apply in-memory indexes for stated environments/scenarios. The demos will include performance comparisons to similar disk based indexes as well as the cost in RAM for the in-memory tables and storage memory for the equivalent disk based indexes.  Performance is everyone’s goal, and this session will boast your in-memory performance to Falcon Heavy® performance.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/709493839_295x166.jpg"
+  ],
   "vimeo": "276869922",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=77858",
   "thumbnail": "https://i.vimeocdn.com/video/709493839_295x166.jpg",

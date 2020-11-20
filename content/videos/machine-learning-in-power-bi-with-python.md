@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "machine-learning-in-power-bi-with-python",
   "abstract": "Machine Learning in Power BI with Python",
+  "description": "Machine Learning in Power BI with Python",
+  "images": [
+    "https://i.vimeocdn.com/video/976555636_295x166.jpg"
+  ],
   "vimeo": "469033407",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/273146307/",
   "thumbnail": "https://i.vimeocdn.com/video/976555636_295x166.jpg",

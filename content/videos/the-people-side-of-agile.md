@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-people-side-of-agile",
   "abstract": "<p>Although the Agile Manifesto professes that we value individuals and interactions over processes and tools, much of the emphasis of agile has been on processes and tools! The speaker focuses long overdue attention to the other half of the manifesto, in particular &ldquo;Individuals and Interactions&rdquo;. Before you leave the conference, take a break from the nuts and bolts discussions and spend some time learning about why we humans behave the way we do as both individuals and as groups, and learn some strategies for capitalizing on everyone&rsquo;s strengths. How can teams maximize productivity and efficiency while dealing with the &ldquo;human condition&rdquo;. We will navigate such treacherous topics as communication, behavioral styles, motivation, dealing with change, and much more.</p>",
+  "description": "<p>Although the Agile Manifesto professes that we value individuals and interactions over processes and tools, much of the emphasis of agile has been on processes and tools! The speaker focuses long overdue attention to the other half of the manifesto, in particular &ldquo;Individuals and Interactions&rdquo;. Before you leave the conference, take a break from the nuts and bolts discussions and spend some time learning about why we humans behave the way we do as both individuals and as groups, and learn some strategies for capitalizing on everyone&rsquo;s strengths. How can teams maximize productivity and efficiency while dealing with the &ldquo;human condition&rdquo;. We will navigate such treacherous topics as communication, behavioral styles, motivation, dealing with change, and much more.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/492570009_295x166.jpg"
+  ],
   "vimeo": "108783648",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/492570009_295x166.jpg",

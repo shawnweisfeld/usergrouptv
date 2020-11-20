@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "lightswitch-turning-on-the-lights-with-visual-studio-lightswitch",
   "abstract": "<p>The Visual Studio LightSwitch framework allows developers or savvy business analysts to build \"professional-quality business applications for the desktop, the web, and the cloud\". This is not your father&rsquo;s RAD tool. This tool is built on top of the best practices for building multi-tiered .NET applications. Allowing for quick development of powerful applications, but providing for the hooks to allow skilled .NET developers the room to add those bits of functionality only they could write. In this talk I will provide an overview of the LightSwitch framework. We will build a simple application, then using our .NET skills examine some of the extensibility points of the LightSwitch framework.</p>",
+  "description": "<p>The Visual Studio LightSwitch framework allows developers or savvy business analysts to build \"professional-quality business applications for the desktop, the web, and the cloud\". This is not your father&rsquo;s RAD tool. This tool is built on top of the best practices for building multi-tiered .NET applications. Allowing for quick development of powerful applications, but providing for the hooks to allow skilled .NET developers the room to add those bits of functionality only they could write. In this talk I will provide an overview of the LightSwitch framework. We will build a simple application, then using our .NET skills examine some of the extensibility points of the LightSwitch framework.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/507046295_295x166.jpg"
+  ],
   "vimeo": "119597116",
   "moreinfo": "http://fwdnug.com/",
   "thumbnail": "https://i.vimeocdn.com/video/507046295_295x166.jpg",

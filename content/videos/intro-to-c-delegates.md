@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "intro-to-c-delegates",
   "abstract": "<p>In the world of Lambda, Lambda, Lambda and the Omega Mu's </nerd_humor> we need to have a solid grasp on what delegates really are and why they're used. You'll learn, in C#, how to make use of the framework provided delegates; what really occurs when you pass a parameter to a method; how to become fluent writing them; and much more.</p>",
+  "description": "<p>In the world of Lambda, Lambda, Lambda and the Omega Mu's </nerd_humor> we need to have a solid grasp on what delegates really are and why they're used. You'll learn, in C#, how to make use of the framework provided delegates; what really occurs when you pass a parameter to a method; how to become fluent writing them; and much more.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/650163496_295x166.jpg"
+  ],
   "vimeo": "229767665",
   "moreinfo": "http://schoolofdev.com/Tulsa/2017/Speakers/SeanWhitesell/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/650163496_295x166.jpg",

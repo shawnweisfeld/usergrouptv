@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "redis-caching-for-net-developer",
   "abstract": "<p>Redis (http://msopentech.com/opentech-projects/redis) is a very popular open-source, networked, in-memory, key-value data store. It is known for high performance, flexibility, a rich set of data structures, and a simple straightforward API. MS Open Tech has been working with the Redis community to build a production-ready Windows port of Redis, including 64-bit support, an installer for Windows Azure, NuGet support, and much more. In this talk we will discuss what it takes as a .NET Developer to work with Redis both on prem and in the cloud. \r\n</p>",
+  "description": "<p>Redis (http://msopentech.com/opentech-projects/redis) is a very popular open-source, networked, in-memory, key-value data store. It is known for high performance, flexibility, a rich set of data structures, and a simple straightforward API. MS Open Tech has been working with the Redis community to build a production-ready Windows port of Redis, including 64-bit support, an installer for Windows Azure, NuGet support, and much more. In this talk we will discuss what it takes as a .NET Developer to work with Redis both on prem and in the cloud. \r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/498382867_295x166.jpg"
+  ],
   "vimeo": "113160307",
   "moreinfo": "http://www.dallasasp.net/Meetings/9829.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/498382867_295x166.jpg",

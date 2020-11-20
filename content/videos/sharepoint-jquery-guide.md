@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "sharepoint-jquery-guide",
   "abstract": "<p>jQuery is the current \"SharePoint Silver Bullet\" promising to cure all your SharePoint ailments allowing customizations that at one point were unattainable without cracking open Visual Studio. But what is the real story with jQuery and SharePoint? How do you implement it with SharePoint? Should you implement it? Is it all a big hoax or is jQuery the missing piece to your SharePoint development took kit?</p>\r\n<p>In this session attendees will learn:</p>\r\n<ol>\r\n<li>Best practices for deploying jQuery in a maintainable way in their organizations</li>\r\n<li>What can be done with quickly and powerfully in jQuery taking advantage of incredible third party libraries</li>\r\n<li>What are the real consequences of using jQuery and when should you NOT use it.</li>\r\n</ol>",
+  "description": "<p>jQuery is the current \"SharePoint Silver Bullet\" promising to cure all your SharePoint ailments allowing customizations that at one point were unattainable without cracking open Visual Studio. But what is the real story with jQuery and SharePoint? How do you implement it with SharePoint? Should you implement it? Is it all a big hoax or is jQuery the missing piece to your SharePoint development took kit?</p>\r\n<p>In this session attendees will learn:</p>\r\n<ol>\r\n<li>Best practices for deploying jQuery in a maintainable way in their organizations</li>\r\n<li>What can be done with quickly and powerfully in jQuery taking advantage of incredible third party libraries</li>\r\n<li>What are the real consequences of using jQuery and when should you NOT use it.</li>\r\n</ol>",
+  "images": [
+    "https://i.vimeocdn.com/video/483487899_295x166.jpg"
+  ],
   "vimeo": "101659374",
   "moreinfo": "http://techfests.com/Tulsa/2013/Speakers/MarkRackley/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/483487899_295x166.jpg",

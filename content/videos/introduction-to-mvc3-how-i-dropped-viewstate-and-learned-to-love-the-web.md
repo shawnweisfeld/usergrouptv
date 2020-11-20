@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "introduction-to-mvc3-how-i-dropped-viewstate-and-learned-to-love-the-web",
   "abstract": "<p>ASP.NET MVC has taken the development world by storm in the last few years, opening the option for those looking to have explicit control over their HTML markup and clear seperation between responsibilities to really enjoy writing web solutions on the Microsoft stack.</p>\r\n<p>This session will focus on getting you familiar with the concepts behind MVC, and show you how easy it can be to create a more clear seperation between your UI, your business model, and the code which integrates the two together.</p>",
+  "description": "<p>ASP.NET MVC has taken the development world by storm in the last few years, opening the option for those looking to have explicit control over their HTML markup and clear seperation between responsibilities to really enjoy writing web solutions on the Microsoft stack.</p>\r\n<p>This session will focus on getting you familiar with the concepts behind MVC, and show you how easy it can be to create a more clear seperation between your UI, your business model, and the code which integrates the two together.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/500552363_295x166.jpg"
+  ],
   "vimeo": "114764214",
   "moreinfo": "http://dallasasp.net",
   "thumbnail": "https://i.vimeocdn.com/video/500552363_295x166.jpg",

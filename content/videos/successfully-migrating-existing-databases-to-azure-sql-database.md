@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "successfully-migrating-existing-databases-to-azure-sql-database",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/661084481_295x166.jpg"
+  ],
   "vimeo": "238400696",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/661084481_295x166.jpg",

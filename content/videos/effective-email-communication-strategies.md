@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "effective-email-communication-strategies",
   "abstract": "<p>Do you get email from people and not read it? Do you wonder if people are reading the email you send out? Find out how to make your emails not only read, but acted upon.</p>",
+  "description": "<p>Do you get email from people and not read it? Do you wonder if people are reading the email you send out? Find out how to make your emails not only read, but acted upon.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/650697608_295x166.jpg"
+  ],
   "vimeo": "230192063",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650697608_295x166.jpg",

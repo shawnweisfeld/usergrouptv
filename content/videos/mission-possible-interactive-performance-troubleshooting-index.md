@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "mission-possible-interactive-performance-troubleshooting-index",
   "abstract": "<p>Performance troubleshooting is detective work. We'll have a lab system being assaulted by PowerShell scripts  (to simulate live users), and simulated performance problems like those that can make your on-call cell phone ring too much! Do you think you have what it takes to find these \"needle in the haystack\" issues and resolve them quickly?  This will be a highly interactive session where we will locate the rogue queries together, work through solutions, implement them and measure the results.  In this episode we'll focus primarily on improper indexing as a common underlying problem and all will walk away with much better troubleshooting skills and an upgraded knowledge of performance tuning!</p>",
+  "description": "<p>Performance troubleshooting is detective work. We'll have a lab system being assaulted by PowerShell scripts  (to simulate live users), and simulated performance problems like those that can make your on-call cell phone ring too much! Do you think you have what it takes to find these \"needle in the haystack\" issues and resolve them quickly?  This will be a highly interactive session where we will locate the rogue queries together, work through solutions, implement them and measure the results.  In this episode we'll focus primarily on improper indexing as a common underlying problem and all will walk away with much better troubleshooting skills and an upgraded knowledge of performance tuning!</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/587192030_295x166.jpg"
+  ],
   "vimeo": "179315183",
   "moreinfo": "http://www.sqlsaturday.com/550/Sessions/Details.aspx?sid=50342",
   "thumbnail": "https://i.vimeocdn.com/video/587192030_295x166.jpg",

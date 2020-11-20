@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "hes-going-vertical-so-am-i-making-and-keeping-your-user-stories-vertical",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/820030608_295x166.jpg"
+  ],
   "vimeo": "364567628",
   "moreinfo": "http://conference.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/820030608_295x166.jpg",

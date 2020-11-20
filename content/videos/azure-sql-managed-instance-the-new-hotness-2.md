@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "azure-sql-managed-instance-the-new-hotness-2",
   "abstract": "<p>You can't wait to move your databases to an Azure PaaS offering so you don't have to patch and maintain an operating system and SQL Server. You looked at Azure SQL DB, but there are some limitations that prevent you from migrating to this service. Don't worry, you're not stranded. There is a new option designed to \"Lift and Shift\" your workload to Azure PaaS. It's a brand-new offering that just came out of private preview and into public preview. We'll discuss this new offering, its advantages, and how you can migrate with ease.</p>",
+  "description": "<p>You can't wait to move your databases to an Azure PaaS offering so you don't have to patch and maintain an operating system and SQL Server. You looked at Azure SQL DB, but there are some limitations that prevent you from migrating to this service. Don't worry, you're not stranded. There is a new option designed to \"Lift and Shift\" your workload to Azure PaaS. It's a brand-new offering that just came out of private preview and into public preview. We'll discuss this new offering, its advantages, and how you can migrate with ease.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/732783608_295x166.jpg"
+  ],
   "vimeo": "295583965",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/fnxhcqyxnbvb/",
   "thumbnail": "https://i.vimeocdn.com/video/732783608_295x166.jpg",

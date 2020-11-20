@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "pragmatic-react-redux-lessons-learned-from-the-trenches",
   "abstract": "<p>React and Redux have made a huge impact on front end web development -- they are amazing tools, but the pace of change is very fast and best practices are hard to keep up with. Ryan Vice is here to share some practical advice based on the real-world experience he and his team have gained over multiple projects and while developing their own custom React boilerplate focused on developer ergonomics.</p>",
+  "description": "<p>React and Redux have made a huge impact on front end web development -- they are amazing tools, but the pace of change is very fast and best practices are hard to keep up with. Ryan Vice is here to share some practical advice based on the real-world experience he and his team have gained over multiple projects and while developing their own custom React boilerplate focused on developer ergonomics.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/615005495_295x166.jpg"
+  ],
   "vimeo": "201263120",
   "moreinfo": "https://www.meetup.com/developer-springboard/events/236639682/",
   "thumbnail": "https://i.vimeocdn.com/video/615005495_295x166.jpg",

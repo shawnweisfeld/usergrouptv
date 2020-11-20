@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-bot-continuum-and-you",
   "abstract": "<p>After this session, you should have a better idea of the concepts that surround chat bots from the history of AI, the differing types of bots, cognitive technologies associated with bots, bot technology definitions, and finally how to get started with conversational AI and bots.</p>",
+  "description": "<p>After this session, you should have a better idea of the concepts that surround chat bots from the history of AI, the differing types of bots, cognitive technologies associated with bots, bot technology definitions, and finally how to get started with conversational AI and bots.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/798691818_295x166.jpg"
+  ],
   "vimeo": "348150322",
   "moreinfo": "https://www.meetup.com/azureaustin/events/262589654/",
   "thumbnail": "https://i.vimeocdn.com/video/798691818_295x166.jpg",

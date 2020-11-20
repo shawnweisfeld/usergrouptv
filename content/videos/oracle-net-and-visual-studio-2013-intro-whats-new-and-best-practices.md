@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "oracle-net-and-visual-studio-2013-intro-whats-new-and-best-practices",
   "abstract": "<p>The first half of this session introduces Oracle Database support for .NET, including Oracle Data Provider for .NET (ODP.NET) and Oracle Developer Tools for Visual Studio. We discuss the latest features, including support for Visual Studio 2013, .NET Framework 4.5.1, fully-managed ODP.NET, schema comparison tools, Oracle Database 12c multi-tenant container database support, and Entity Framework.</p>\r\n<p>The second half explores coding best practices for achieving faster .NET Oracle database access performance. We examine techniques for optimizing connection pooling, caching, data fetching and updating, statement batching, and Oracle data type usage.</p>",
+  "description": "<p>The first half of this session introduces Oracle Database support for .NET, including Oracle Data Provider for .NET (ODP.NET) and Oracle Developer Tools for Visual Studio. We discuss the latest features, including support for Visual Studio 2013, .NET Framework 4.5.1, fully-managed ODP.NET, schema comparison tools, Oracle Database 12c multi-tenant container database support, and Entity Framework.</p>\r\n<p>The second half explores coding best practices for achieving faster .NET Oracle database access performance. We examine techniques for optimizing connection pooling, caching, data fetching and updating, statement batching, and Oracle data type usage.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/482027562_295x166.jpg"
+  ],
   "vimeo": "100516596",
   "moreinfo": "http://adnug.org/Home/may-19-2014-oracle-net-and-visual-studio-2013-intro-whats-new-and-best-practices/",
   "thumbnail": "https://i.vimeocdn.com/video/482027562_295x166.jpg",

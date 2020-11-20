@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "how-power-query-thinks-taking-the-mystery-out-of-streaming-and-query-folding",
   "abstract": "When a mashup is executed, sometimes the engine pulls rows one at a time (streaming). Other times, it translated a portion of the expression into the data source’s native query language (e.g. SQL) then offload its processing to that source (query folding). These behaviors affect execution efficiency (speed, memory usage, etc.), result accuracy (such as whether two aggregations returned by the same mashup are computed from the exact same data set) and data privacy/cross-source data sharing (think: privacy levels). This segment’s goal is to equip you with foundational understanding of these key concepts.",
+  "description": "When a mashup is executed, sometimes the engine pulls rows one at a time (streaming). Other times, it translated a portion of the expression into the data source’s native query language (e.g. SQL) then offload its processing to that source (query folding). These behaviors affect execution efficiency (speed, memory usage, etc.), result accuracy (such as whether two aggregations returned by the same mashup are computed from the exact same data set) and data privacy/cross-source data sharing (think: privacy levels). This segment’s goal is to equip you with foundational understanding of these key concepts.",
+  "images": [
+    "https://i.vimeocdn.com/video/994397461_295x166.jpg"
+  ],
   "vimeo": "478979784",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/273647822/",
   "thumbnail": "https://i.vimeocdn.com/video/994397461_295x166.jpg",

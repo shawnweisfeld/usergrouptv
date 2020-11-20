@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "domain-specific-languages-with-groovy",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/728993838_295x166.jpg"
+  ],
   "vimeo": "292571747",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/728993838_295x166.jpg",

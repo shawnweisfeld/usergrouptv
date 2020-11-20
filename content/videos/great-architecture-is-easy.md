@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "great-architecture-is-easy",
   "abstract": "<p>In this session we will dive into how to break up big problems into easy applications of design patterns. We will tear apart some of the most innovative changes in the industry to see how they are all a combination of core patterns that work very well together.</p>",
+  "description": "<p>In this session we will dive into how to break up big problems into easy applications of design patterns. We will tear apart some of the most innovative changes in the industry to see how they are all a combination of core patterns that work very well together.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/489182690_295x166.jpg"
+  ],
   "vimeo": "106167450",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#029",
   "thumbnail": "https://i.vimeocdn.com/video/489182690_295x166.jpg",

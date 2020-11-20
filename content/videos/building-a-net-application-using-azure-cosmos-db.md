@@ -10,6 +10,10 @@
   "draft": false,
   "slug": "building-a-net-application-using-azure-cosmos-db",
   "abstract": "Building a .NET Application Using Azure Cosmos DB Are you looking to build an application that needs a data store with guaranteed single-digit millisecond response times with multi-master global distribution? Then Azure Cosmos DB is for you. In this presentation, you will learn what exactly Cosmos DB is, what it can be used for, how to access data stored in Cosmos using .NET, and some pitfalls you will want to avoid.",
+  "description": "Building a .NET Application Using Azure Cosmos DB Are you looking to build an application that needs a data store with guaranteed single-digit millisecond response times with multi-master global distribution? Then Azure Cosmos DB is for you. In this presentation, you will learn what exactly Cosmos DB is, what it can be used for, how to access data stored in Cosmos using .NET, and some pitfalls you will want to avoid.",
+  "images": [
+    "https://i.vimeocdn.com/video/994396316_295x166.jpg"
+  ],
   "vimeo": "478978592",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/273740013",
   "thumbnail": "https://i.vimeocdn.com/video/994396316_295x166.jpg",

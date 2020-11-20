@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "using-a-gateway-to-leverage-on-premises-data-in-power-bi",
   "abstract": "<p>I look at how you can take advantage of an on-premises gateway to make use of local data when creating reports and dashboards for Power BI. This will start with Power BI Desktop, and the choices you have for SQL Server and Analysis Services. It will then move to the cloud and look at hosting your files on OneDrive for Business, and what this means for data freshness. We will then look at options for personal use or a more centralized use. It will finish off with looking at some troubleshooting tools available to you when working with data refresh.</p>",
+  "description": "<p>I look at how you can take advantage of an on-premises gateway to make use of local data when creating reports and dashboards for Power BI. This will start with Power BI Desktop, and the choices you have for SQL Server and Analysis Services. It will then move to the cloud and look at hosting your files on OneDrive for Business, and what this means for data freshness. We will then look at options for personal use or a more centralized use. It will finish off with looking at some troubleshooting tools available to you when working with data refresh.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/626863733_295x166.jpg"
+  ],
   "vimeo": "210943751",
   "moreinfo": "http://www.sqlsaturday.com/603/Sessions/Details.aspx?sid=61812",
   "thumbnail": "https://i.vimeocdn.com/video/626863733_295x166.jpg",

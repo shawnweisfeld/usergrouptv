@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-new-paradigm-for-digital-transformation",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/728994522_295x166.jpg"
+  ],
   "vimeo": "292572268",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/728994522_295x166.jpg",

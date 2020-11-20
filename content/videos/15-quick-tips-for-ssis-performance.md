@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "15-quick-tips-for-ssis-performance",
   "abstract": "<p>When reviewing your ETL processes, the No. 1 question is always, \"Does it work as expected?\" Closely following that question is the ubiquitous, \"How fast does it run?\" This session’s tips are targeted at improve the latter. In this session, we’ll focus on SSIS package performance, quickly reviewing 15 common hotspots for performance issues as well as recommended methods for maximizing throughput. You’ll walk away with some key design patterns and recommendations that you can use today to improve SSIS package performance.\r\n</p>",
+  "description": "<p>When reviewing your ETL processes, the No. 1 question is always, \"Does it work as expected?\" Closely following that question is the ubiquitous, \"How fast does it run?\" This session’s tips are targeted at improve the latter. In this session, we’ll focus on SSIS package performance, quickly reviewing 15 common hotspots for performance issues as well as recommended methods for maximizing throughput. You’ll walk away with some key design patterns and recommendations that you can use today to improve SSIS package performance.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/505504105_295x166.jpg"
+  ],
   "vimeo": "118476154",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=26053",
   "thumbnail": "https://i.vimeocdn.com/video/505504105_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "agile-in-160-billion-gallons-when-agile-principles-occur-during-a-disaster",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/728973646_295x166.jpg"
+  ],
   "vimeo": "292555407",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/728973646_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "agile-is-culture",
   "abstract": "<p>Many organizations dive into the process mechanics of Agile project execution losing sight of the point of Agile in the first place. This presentation focuses on Agile as a culture. It incorporates hands-on exercises and provides tools that you can use for enabling Agile values and principles within your teams.</p>",
+  "description": "<p>Many organizations dive into the process mechanics of Agile project execution losing sight of the point of Agile in the first place. This presentation focuses on Agile as a culture. It incorporates hands-on exercises and provides tools that you can use for enabling Agile values and principles within your teams.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/507042403_295x166.jpg"
+  ],
   "vimeo": "119595046",
   "moreinfo": "http://www.agiledotnet.com",
   "thumbnail": "https://i.vimeocdn.com/video/507042403_295x166.jpg",

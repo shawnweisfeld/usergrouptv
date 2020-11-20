@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "entity-framework-the-right-way",
   "abstract": "If you have ever worked with Entity Framework, even if you're doing Entity Framework Code First, you are almost certainly doing it wrong. While Entity Framework is a wonderful framework, it doesn't automatically force you into the correct patterns of use – especially if you're interested in isolation and testability.\r\n\r\nThis talk will review the concepts of both the Repository Pattern and the Specification Pattern and demonstrate how to implement them in Entity Framework.",
+  "description": "If you have ever worked with Entity Framework, even if you're doing Entity Framework Code First, you are almost certainly doing it wrong. While Entity Framework is a wonderful framework, it doesn't automatically force you into the correct patterns of use – especially if you're interested in isolation and testability.\r\n\r\nThis talk will review the concepts of both the Repository Pattern and the Specification Pattern and demonstrate how to implement them in Entity Framework.",
+  "images": [
+    "https://i.vimeocdn.com/video/490124999_295x166.jpg"
+  ],
   "vimeo": "106882438",
   "moreinfo": "http://dallasasp.net/",
   "thumbnail": "https://i.vimeocdn.com/video/490124999_295x166.jpg",

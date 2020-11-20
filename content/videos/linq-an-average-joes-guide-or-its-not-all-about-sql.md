@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "linq-an-average-joes-guide-or-its-not-all-about-sql",
   "abstract": "<p>Microsoft Language Integrated Query (LINQ) offers developers a new way to query data using strongly-typed queries and strongly-typed results, common across a number of disparate data types including relational databases, .NET objects, and XML. By using strongly-typed queries and results, LINQ improves developer productivity with the benefits of IntelliSense and compile-time error checking. In this discussion, Cory will demonstrate the basics of LINQ and how it provides much more than just the ability to query a SQL Server database.</p>",
+  "description": "<p>Microsoft Language Integrated Query (LINQ) offers developers a new way to query data using strongly-typed queries and strongly-typed results, common across a number of disparate data types including relational databases, .NET objects, and XML. By using strongly-typed queries and results, LINQ improves developer productivity with the benefits of IntelliSense and compile-time error checking. In this discussion, Cory will demonstrate the basics of LINQ and how it provides much more than just the ability to query a SQL Server database.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495919896_295x166.jpg"
+  ],
   "vimeo": "111339061",
   "moreinfo": "http://www.ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/495919896_295x166.jpg",

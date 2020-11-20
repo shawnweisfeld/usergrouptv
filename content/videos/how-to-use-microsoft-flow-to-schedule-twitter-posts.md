@@ -6,6 +6,10 @@
   "draft": false,
   "slug": "how-to-use-microsoft-flow-to-schedule-twitter-posts",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/634593479_295x166.jpg"
+  ],
   "vimeo": "217392897",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/236857555/",
   "thumbnail": "https://i.vimeocdn.com/video/634593479_295x166.jpg",

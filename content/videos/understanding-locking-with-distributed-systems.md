@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "understanding-locking-with-distributed-systems",
   "abstract": "<p>By default with SQL Server, locking occurs when one or more queries are waiting on another query to finish. Depending on your workload, that might not be the ideal locking method for your application, or a subset of your queries. In this session, you are going to learn the basics of all the isolation modes inside of SQL Server and the pros and cons of each one so you know how to use them effectively. We will review table hints and how they impact application concurrency. Finally, we will cover how to identify and prevent deadlocks in your system.</p>",
+  "description": "<p>By default with SQL Server, locking occurs when one or more queries are waiting on another query to finish. Depending on your workload, that might not be the ideal locking method for your application, or a subset of your queries. In this session, you are going to learn the basics of all the isolation modes inside of SQL Server and the pros and cons of each one so you know how to use them effectively. We will review table hints and how they impact application concurrency. Finally, we will cover how to identify and prevent deadlocks in your system.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/613364449_295x166.jpg"
+  ],
   "vimeo": "199976708",
   "moreinfo": "http://cactuss.sqlpass.org/Home.aspx?EventID=6279",
   "thumbnail": "https://i.vimeocdn.com/video/613364449_295x166.jpg",

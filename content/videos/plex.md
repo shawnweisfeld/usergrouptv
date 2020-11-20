@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "plex",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/661965594_295x166.jpg"
+  ],
   "vimeo": "239089982",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/661965594_295x166.jpg",

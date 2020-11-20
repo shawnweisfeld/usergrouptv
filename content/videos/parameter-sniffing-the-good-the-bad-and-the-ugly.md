@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "parameter-sniffing-the-good-the-bad-and-the-ugly",
   "abstract": "<p>Parameter sniffing is something that more than often helps performance on your servers; however, there are times when it can hinder performance as well. In this session we will define exactly what parameter sniffing is, and examine when it is good and when it is bad. Lastly, we will explore the different options available to fix bad parameter sniffing. After this session, you will be able to locate and fix bad parameter sniffing when it occurs on your servers.</p>",
+  "description": "<p>Parameter sniffing is something that more than often helps performance on your servers; however, there are times when it can hinder performance as well. In this session we will define exactly what parameter sniffing is, and examine when it is good and when it is bad. Lastly, we will explore the different options available to fix bad parameter sniffing. After this session, you will be able to locate and fix bad parameter sniffing when it occurs on your servers.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/598533698_295x166.jpg"
+  ],
   "vimeo": "188471190",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/232423166/",
   "thumbnail": "https://i.vimeocdn.com/video/598533698_295x166.jpg",

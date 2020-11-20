@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "silverlight-testing-extravaganza",
   "abstract": "<p>NT Silverlight&rsquo;s very own Justin Weinberg and Michael Perry will be covering all aspects of Silverlight testing. First we&rsquo;ll look at the developer side of testing. Do you want to get a test first workflow with Silverlight? Curious how to unit test Silverlight assemblies? What about continuous integration options?</p>\r\n<p>After that we&rsquo;ll be shifting focus to functional testing and testing automation. Can Silverlight tests be scripted? What tools and practices do you need and what level of experience? We&rsquo;ll answer these questions and more.</p>",
+  "description": "<p>NT Silverlight&rsquo;s very own Justin Weinberg and Michael Perry will be covering all aspects of Silverlight testing. First we&rsquo;ll look at the developer side of testing. Do you want to get a test first workflow with Silverlight? Curious how to unit test Silverlight assemblies? What about continuous integration options?</p>\r\n<p>After that we&rsquo;ll be shifting focus to functional testing and testing automation. Can Silverlight tests be scripted? What tools and practices do you need and what level of experience? We&rsquo;ll answer these questions and more.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/500558222_295x166.jpg"
+  ],
   "vimeo": "114768467",
   "moreinfo": "http://www.ntsilverlight.com/",
   "thumbnail": "https://i.vimeocdn.com/video/500558222_295x166.jpg",

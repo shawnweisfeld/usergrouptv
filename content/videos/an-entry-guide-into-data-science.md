@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "an-entry-guide-into-data-science",
   "abstract": "<p>Have you ever wondered how to start in the data science realm? There are thousands of different courses and several different certificates in the data science realm. What are the relevant tools and programming languages that a developer needs to know when getting into field? In this session we will discuss these key points: The most helpful online courses on introducing Data Science, The difference between programming languages, The tools available for creating data models, The key certificates available</p>",
+  "description": "<p>Have you ever wondered how to start in the data science realm? There are thousands of different courses and several different certificates in the data science realm. What are the relevant tools and programming languages that a developer needs to know when getting into field? In this session we will discuss these key points: The most helpful online courses on introducing Data Science, The difference between programming languages, The tools available for creating data models, The key certificates available</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/767166080_295x166.jpg"
+  ],
   "vimeo": "323914976",
   "moreinfo": "https://www.meetup.com/azureaustin/events/259562951/",
   "thumbnail": "https://i.vimeocdn.com/video/767166080_295x166.jpg",

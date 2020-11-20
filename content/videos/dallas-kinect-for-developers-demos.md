@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "dallas-kinect-for-developers-demos",
   "abstract": null,
+  "description": null,
+  "images": [
+    "https://i.vimeocdn.com/video/492995043_295x166.jpg"
+  ],
   "vimeo": "109122229",
   "moreinfo": "http://gravitycentredallas.com/",
   "thumbnail": "https://i.vimeocdn.com/video/492995043_295x166.jpg",

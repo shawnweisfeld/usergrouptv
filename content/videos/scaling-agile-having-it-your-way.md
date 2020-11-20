@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "scaling-agile-having-it-your-way",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/820030404_295x166.jpg"
+  ],
   "vimeo": "364567428",
   "moreinfo": "http://conference.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/820030404_295x166.jpg",

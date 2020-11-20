@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "yellow-belt-document-databases-with-net",
   "abstract": "<p>You've heard all the cool kids talking about Mongo, Cassandra, RavenDB, and Couch but what exactly is this No-SQL movement about, and what is a Document Database?  This talk will give you an introductory tour of several Document Databases and show how you can use them from .NET, and discuss what types of solutions that they are good for.\r\n</p>",
+  "description": "<p>You've heard all the cool kids talking about Mongo, Cassandra, RavenDB, and Couch but what exactly is this No-SQL movement about, and what is a Document Database?  This talk will give you an introductory tour of several Document Databases and show how you can use them from .NET, and discuss what types of solutions that they are good for.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/481993974_295x166.jpg"
+  ],
   "vimeo": "100491276",
   "moreinfo": "http://2014.cowtowntechroundup.com/Profile/a7c1cb3d-556b-4508-9f3d-29ee27cf0d98",
   "thumbnail": "https://i.vimeocdn.com/video/481993974_295x166.jpg",

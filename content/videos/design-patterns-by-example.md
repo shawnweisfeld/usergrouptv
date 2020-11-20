@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "design-patterns-by-example",
   "abstract": "<p>Step-by-step examples of the 4 most common design patterns, that you can take and use tomorrow on your projects.</p>",
+  "description": "<p>Step-by-step examples of the 4 most common design patterns, that you can take and use tomorrow on your projects.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/500551263_295x166.jpg"
+  ],
   "vimeo": "114763456",
   "moreinfo": "http://www.ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/500551263_295x166.jpg",

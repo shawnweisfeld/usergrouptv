@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "azure-devops",
   "abstract": "<p>In this ad hoc session, Shawn shares a quick demo of Azure DevOps and answers audience questions about the service. </p>",
+  "description": "<p>In this ad hoc session, Shawn shares a quick demo of Azure DevOps and answers audience questions about the service. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/778966527_295x166.jpg"
+  ],
   "vimeo": "333087749",
   "moreinfo": "https://www.meetup.com/azureaustin/events/258070696/",
   "thumbnail": "https://i.vimeocdn.com/video/778966527_295x166.jpg",

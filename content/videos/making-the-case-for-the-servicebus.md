@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "making-the-case-for-the-servicebus",
   "abstract": "<p>Making the case for the ServiceBus</p>",
+  "description": "<p>Making the case for the ServiceBus</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/631739272_295x166.jpg"
+  ],
   "vimeo": "215098024",
   "moreinfo": "https://www.eventbrite.com/e/global-azure-bootcamp-2017-austin-tx-tickets-33085810550#",
   "thumbnail": "https://i.vimeocdn.com/video/631739272_295x166.jpg",

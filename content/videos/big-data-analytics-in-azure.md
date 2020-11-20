@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "big-data-analytics-in-azure",
   "abstract": "<p>Big Data & Analytics in Azure</p>",
+  "description": "<p>Big Data & Analytics in Azure</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/566415745_295x166.jpg"
+  ],
   "vimeo": "163218217",
   "moreinfo": "http://www.meetup.com/DFW-Azure-User-Group/events/227460670/",
   "thumbnail": "https://i.vimeocdn.com/video/566415745_295x166.jpg",

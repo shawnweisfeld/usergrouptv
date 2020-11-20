@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "consistent-deployments-team-development",
   "abstract": "<p>Unless you are developing code by yourself, you face challenges of working with several team members. Different people are changing code which affects the code someone else is working on. In addition, there will be teams working on different projects at the same time.  In the middle of the projects, an emergency fix needs to be deployed to Production. So where is the code, when do you shared it with others, when do you get the code that has been shared, where is the production code branch located.  How do I branch and when do merge? How do I get a release branch? Let me share with you how we are handling this area of DevOps.\r\n</p>",
+  "description": "<p>Unless you are developing code by yourself, you face challenges of working with several team members. Different people are changing code which affects the code someone else is working on. In addition, there will be teams working on different projects at the same time.  In the middle of the projects, an emergency fix needs to be deployed to Production. So where is the code, when do you shared it with others, when do you get the code that has been shared, where is the production code branch located.  How do I branch and when do merge? How do I get a release branch? Let me share with you how we are handling this area of DevOps.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/709499118_295x166.jpg"
+  ],
   "vimeo": "276874039",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=82072",
   "thumbnail": "https://i.vimeocdn.com/video/709499118_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "powerbi-april-2020-update-and-covid-resources",
   "abstract": "<p>PowerBI April 2020 Update and COVID Resources</p>",
+  "description": "<p>PowerBI April 2020 Update and COVID Resources</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/876243985_295x166.jpg"
+  ],
   "vimeo": "405919435",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/268688134/",
   "thumbnail": "https://i.vimeocdn.com/video/876243985_295x166.jpg",

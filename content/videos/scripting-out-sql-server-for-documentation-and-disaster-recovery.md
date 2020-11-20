@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "scripting-out-sql-server-for-documentation-and-disaster-recovery",
   "abstract": "<p>\r\n\tMost DBAs need to use multiple native and third party tools to fully document SQL Server instances yet still dont get all the objects.\r\n\tEven using Visual Studio and Database Projects, not all objects are exportable and live at the server level, above the database.\r\n\tUsing Powershell, we will script out an organized set of files that can be checked into any Source Control system and or used for moving or recovering a SQL server instance for Disaster Recovery purposes.\r\n\tObjects exported include: SQL Agent Jobs/Alerts/Schedules, NT Service Credentials, SSIS-MSDB, SSIS-Catalog, SSAS Cubes, SSRS Reports, Logins, Server Configs, Linked Servers, DB Mail Operators/Accounts, and Server Triggers\r\n</p>",
+  "description": "<p>\r\n\tMost DBAs need to use multiple native and third party tools to fully document SQL Server instances yet still dont get all the objects.\r\n\tEven using Visual Studio and Database Projects, not all objects are exportable and live at the server level, above the database.\r\n\tUsing Powershell, we will script out an organized set of files that can be checked into any Source Control system and or used for moving or recovering a SQL server instance for Disaster Recovery purposes.\r\n\tObjects exported include: SQL Agent Jobs/Alerts/Schedules, NT Service Credentials, SSIS-MSDB, SSIS-Catalog, SSAS Cubes, SSRS Reports, Logins, Server Configs, Linked Servers, DB Mail Operators/Accounts, and Server Triggers\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/533910234_295x166.jpg"
+  ],
   "vimeo": "138522818",
   "moreinfo": "http://www.sqlsaturday.com/422/Sessions/Details.aspx?sid=36325",
   "thumbnail": "https://i.vimeocdn.com/video/533910234_295x166.jpg",

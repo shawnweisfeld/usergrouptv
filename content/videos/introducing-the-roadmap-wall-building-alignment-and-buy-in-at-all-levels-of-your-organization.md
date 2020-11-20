@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "introducing-the-roadmap-wall-building-alignment-and-buy-in-at-all-levels-of-your-organization",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/820028950_295x166.jpg"
+  ],
   "vimeo": "364566209",
   "moreinfo": "http://conference.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/820028950_295x166.jpg",

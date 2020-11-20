@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "using-ios-gesture-recognizers",
   "abstract": "<p>This meetup give an introduction to using iOS gesture recognizers, from basic uses to advanced but practical topics like resolving gesture conflicts in complex gesture languages and writing custom gesture recognizers.</p>",
+  "description": "<p>This meetup give an introduction to using iOS gesture recognizers, from basic uses to advanced but practical topics like resolving gesture conflicts in complex gesture languages and writing custom gesture recognizers.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/540928370_295x166.jpg"
+  ],
   "vimeo": "143366614",
   "moreinfo": "http://www.meetup.com/Austin-Mobile-NET-Developers-Group/events/223948568/",
   "thumbnail": "https://i.vimeocdn.com/video/540928370_295x166.jpg",

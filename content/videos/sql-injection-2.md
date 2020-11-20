@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sql-injection-2",
   "abstract": "<p>Well, we have all heard about the horror stories of data loss due to SQL Injection and how costly (in many ways) they can be. This in-depth discussion covers various forms of SQL Injection attacks and offers some guidelines on how to avoid them. Lots of code examples in both .NET and TSQL. Watch me hack a website and retrieve user data in just 3 hits on an unprotected html page!\r\n</p>",
+  "description": "<p>Well, we have all heard about the horror stories of data loss due to SQL Injection and how costly (in many ways) they can be. This in-depth discussion covers various forms of SQL Injection attacks and offers some guidelines on how to avoid them. Lots of code examples in both .NET and TSQL. Watch me hack a website and retrieve user data in just 3 hits on an unprotected html page!\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/505667364_295x166.jpg"
+  ],
   "vimeo": "118594774",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=26097",
   "thumbnail": "https://i.vimeocdn.com/video/505667364_295x166.jpg",

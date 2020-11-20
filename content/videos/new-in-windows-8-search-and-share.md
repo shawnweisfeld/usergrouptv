@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "new-in-windows-8-search-and-share",
   "abstract": "Thinking about creating a Windows 8 app? Currently building one? Don’t forget to support Search and Share Contracts. Search and Share is supported natively in Windows 8. Search Contracts expose YOUR app to the entire Windows 8 system. Share Contracts are an easy way to make your apps social. We will walk through and implement both of these new features in Windows 8.",
+  "description": "Thinking about creating a Windows 8 app? Currently building one? Don’t forget to support Search and Share Contracts. Search and Share is supported natively in Windows 8. Search Contracts expose YOUR app to the entire Windows 8 system. Share Contracts are an easy way to make your apps social. We will walk through and implement both of these new features in Windows 8.",
+  "images": [
+    "https://i.vimeocdn.com/video/488136265_295x166.jpg"
+  ],
   "vimeo": "105365831",
   "moreinfo": "http://www.fwdnug.com/",
   "thumbnail": "https://i.vimeocdn.com/video/488136265_295x166.jpg",

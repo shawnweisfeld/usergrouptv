@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "performance-load-testing",
   "abstract": "<p>Agile teams can&rsquo;t afford to wait until the end of a project to worry about performance. A successful agile team knows that non-functional requirements are just as important as functional requirements and formulates a definition of done that takes those requirements into account. This session will discuss how load and performance testing fits within an agile project and how to use Visual Studio 2010 Ultimate to determine whether your application will withstand the load of a production environment.</p>\r\n<p>Topics Covered:</p>\r\n<ul>\r\n<li>Performance testing in an agile environment</li>\r\n<li>Formulating a performance testing plan</li>\r\n<li>Implementing load tests in Visual Studio 2010</li>\r\n<li>Evaluating load test results and behaviors</li>\r\n</ul>",
+  "description": "<p>Agile teams can&rsquo;t afford to wait until the end of a project to worry about performance. A successful agile team knows that non-functional requirements are just as important as functional requirements and formulates a definition of done that takes those requirements into account. This session will discuss how load and performance testing fits within an agile project and how to use Visual Studio 2010 Ultimate to determine whether your application will withstand the load of a production environment.</p>\r\n<p>Topics Covered:</p>\r\n<ul>\r\n<li>Performance testing in an agile environment</li>\r\n<li>Formulating a performance testing plan</li>\r\n<li>Implementing load tests in Visual Studio 2010</li>\r\n<li>Evaluating load test results and behaviors</li>\r\n</ul>",
+  "images": [
+    "https://i.vimeocdn.com/video/492570028_295x166.jpg"
+  ],
   "vimeo": "108783685",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/492570028_295x166.jpg",

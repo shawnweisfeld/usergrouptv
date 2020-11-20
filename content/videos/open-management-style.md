@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "open-management-style",
   "abstract": "<p>Interactive session with cover key aspects of defining, explaining its Best Practices, Problems and Conclusion regarding this innovative approach.</p>",
+  "description": "<p>Interactive session with cover key aspects of defining, explaining its Best Practices, Problems and Conclusion regarding this innovative approach.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/719306991_295x166.jpg"
+  ],
   "vimeo": "284780126",
   "moreinfo": "http://www.sqlsaturday.com/749/Sessions/Details.aspx?sid=83065",
   "thumbnail": "https://i.vimeocdn.com/video/719306991_295x166.jpg",

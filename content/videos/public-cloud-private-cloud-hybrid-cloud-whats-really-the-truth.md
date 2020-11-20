@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "public-cloud-private-cloud-hybrid-cloud-whats-really-the-truth",
   "abstract": "<p>In this session we will demo the new Office 365. We will show you what the new Microsoft Data Centers are like Inside, why they are 71% more efficient with Power, due to heat and cooling handling. We will also look at Windows Azure, Microsoft&rsquo;s Platform as a service. How can you leverage Windows Azure to have your application hosted in the Public cloud. We will then look at the Private Cloud offerings that Microsoft has with System Center 2012. How can you take advantage of the Cloud technologies in your own data center. If you aren&rsquo;t ready for Cloud yet, what can you be doing today to prepare for the Cloud in the future?</p>",
+  "description": "<p>In this session we will demo the new Office 365. We will show you what the new Microsoft Data Centers are like Inside, why they are 71% more efficient with Power, due to heat and cooling handling. We will also look at Windows Azure, Microsoft&rsquo;s Platform as a service. How can you leverage Windows Azure to have your application hosted in the Public cloud. We will then look at the Private Cloud offerings that Microsoft has with System Center 2012. How can you take advantage of the Cloud technologies in your own data center. If you aren&rsquo;t ready for Cloud yet, what can you be doing today to prepare for the Cloud in the future?</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495920372_295x166.jpg"
+  ],
   "vimeo": "111339410",
   "moreinfo": "http://dallastechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/495920372_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "real-timeweb-programming-with-signalr",
   "abstract": "<p>Web programming has always been a one-way conversation; a client calls a server and the server sends a response. But what if you could go the other direction? What if your server code could call Javascript methods on your client? That's what SignalR allows you to do. Come see how this new library opens up a ton of possibilities for interactive and collaborative web applications.</p>",
+  "description": "<p>Web programming has always been a one-way conversation; a client calls a server and the server sends a response. But what if you could go the other direction? What if your server code could call Javascript methods on your client? That's what SignalR allows you to do. Come see how this new library opens up a ton of possibilities for interactive and collaborative web applications.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485088537_295x166.jpg"
+  ],
   "vimeo": "102968959",
   "moreinfo": "http://lrtechfest.com/speakers/list/#brian-sullivan",
   "thumbnail": "https://i.vimeocdn.com/video/485088537_295x166.jpg",

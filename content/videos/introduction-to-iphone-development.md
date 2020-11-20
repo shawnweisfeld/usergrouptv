@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "introduction-to-iphone-development",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/661964903_295x166.jpg"
+  ],
   "vimeo": "239089435",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/661964903_295x166.jpg",

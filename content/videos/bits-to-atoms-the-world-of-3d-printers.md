@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "bits-to-atoms-the-world-of-3d-printers",
   "abstract": "<p>\r\n3D printers are all in the news these days - but as much as everyone reads about them, fewer actually have looked at the bigger picture of what they mean.  This session will give you a background in 3D printers, theory behind their operation (software and hardware), and a demonstration of how they work.  We'll wrap up with some ideas about how you can bridge your own Bits world into the physical world we inhabit.\r\n</p>",
+  "description": "<p>\r\n3D printers are all in the news these days - but as much as everyone reads about them, fewer actually have looked at the bigger picture of what they mean.  This session will give you a background in 3D printers, theory behind their operation (software and hardware), and a demonstration of how they work.  We'll wrap up with some ideas about how you can bridge your own Bits world into the physical world we inhabit.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/483486972_295x166.jpg"
+  ],
   "vimeo": "101658715",
   "moreinfo": "http://www.houstontechfest.org/Lists/ScheduleInfo/DispForm.aspx?ID=81&Source=http%3A%2F%2Fwww%2Ehoustontechfest%2Eorg%2FSitePages%2FTabbedSchedule%2Easpx",
   "thumbnail": "https://i.vimeocdn.com/video/483486972_295x166.jpg",

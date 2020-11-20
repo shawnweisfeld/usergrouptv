@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "mapreduce-with-mongodb",
   "abstract": "MongoDB is a noSQL datastore with a built-in map/reduce functionality. With it all builtin to one package, it is easy to get started extracting information from your documents. In this talk I will give a tutorial on writing and performing a map/reduce, some visualization techniques to quickly see the information you've created and we will discuss ways to get valuable information out of your data.",
+  "description": "MongoDB is a noSQL datastore with a built-in map/reduce functionality. With it all builtin to one package, it is easy to get started extracting information from your documents. In this talk I will give a tutorial on writing and performing a map/reduce, some visualization techniques to quickly see the information you've created and we will discuss ways to get valuable information out of your data.",
+  "images": [
+    "https://i.vimeocdn.com/video/488137301_295x166.jpg"
+  ],
   "vimeo": "105366661",
   "moreinfo": "http://techfests.com/NWA/2012",
   "thumbnail": "https://i.vimeocdn.com/video/488137301_295x166.jpg",

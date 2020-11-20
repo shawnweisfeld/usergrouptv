@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "keeping-up-with-javascript",
   "abstract": "<p>How can we \"level up\" our software development abilities without leaving our familiar, comfortable languages? We can try using an unusual programming paradigm, or introducing artificial constraints which force us to see things through a different lens. Brandon Byars and Pete Hodgson will discuss \"leveling up\" by using JavaScript in a different way, with some practical examples: not using the `this` keyword, and applying the Functional Reactive paradigm to JavaScript development.</p>",
+  "description": "<p>How can we \"level up\" our software development abilities without leaving our familiar, comfortable languages? We can try using an unusual programming paradigm, or introducing artificial constraints which force us to see things through a different lens. Brandon Byars and Pete Hodgson will discuss \"leveling up\" by using JavaScript in a different way, with some practical examples: not using the `this` keyword, and applying the Functional Reactive paradigm to JavaScript development.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/492564822_295x166.jpg"
+  ],
   "vimeo": "108779548",
   "moreinfo": "http://www.dallastechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/492564822_295x166.jpg",

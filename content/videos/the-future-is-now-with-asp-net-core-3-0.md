@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-future-is-now-with-asp-net-core-3-0",
   "abstract": "<p>ASP.NET Core 3.0 is loaded with new features for building modern web applications and services. In this session, we'll show you how to use ASP.NET Core 3.0 to build beautiful and interactive web sites built using the latest technology.</p>",
+  "description": "<p>ASP.NET Core 3.0 is loaded with new features for building modern web applications and services. In this session, we'll show you how to use ASP.NET Core 3.0 to build beautiful and interactive web sites built using the latest technology.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/796753547_295x166.jpg"
+  ],
   "vimeo": "346640584",
   "moreinfo": "https://developer.microsoft.com/en-us/windows/campaigns/us-tx-dallas",
   "thumbnail": "https://i.vimeocdn.com/video/796753547_295x166.jpg",

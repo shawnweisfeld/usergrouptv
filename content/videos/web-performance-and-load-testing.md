@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "web-performance-and-load-testing",
   "abstract": "<p>Visual Studio provides some exceptional tools for performance testing, particularly in relation to Web Performance and Web Service Performance. Even better, you can use Azure to run your tests! This session will provide you with an overview of the tools available to you, and some best practices based on projects I’ve been working on, and what has worked out best for our team. Some of the topics that will be covered include:\r\n</p>\r\n<ul>\r\n<li>Recorded Web Tests</li>\r\n<li>Coded Web Tests</li>\r\n<li>Web Service Tests</li>\r\n<li>Setting up a test environment</li>\r\n<li>Testing using Azure as the environment</li>\r\n</ul>",
+  "description": "<p>Visual Studio provides some exceptional tools for performance testing, particularly in relation to Web Performance and Web Service Performance. Even better, you can use Azure to run your tests! This session will provide you with an overview of the tools available to you, and some best practices based on projects I’ve been working on, and what has worked out best for our team. Some of the topics that will be covered include:\r\n</p>\r\n<ul>\r\n<li>Recorded Web Tests</li>\r\n<li>Coded Web Tests</li>\r\n<li>Web Service Tests</li>\r\n<li>Setting up a test environment</li>\r\n<li>Testing using Azure as the environment</li>\r\n</ul>",
+  "images": [
+    "https://i.vimeocdn.com/video/537238989_295x166.jpg"
+  ],
   "vimeo": "140642034",
   "moreinfo": "http://measureup.io/web-performance-and-load-testing/",
   "thumbnail": "https://i.vimeocdn.com/video/537238989_295x166.jpg",

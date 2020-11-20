@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "building-web-applications-with-laravel",
   "abstract": "<p>In this talk, the creator of Laravel we'll take you on a tour through Laravel and how it can be used to build modern, robust, and testable web applications. The talk will cover the entire MVC stack from routing to views, as well as other services provided by Laravel such as the dependency injection container, background job processing, real-time events, and database interaction.</p>",
+  "description": "<p>In this talk, the creator of Laravel we'll take you on a tour through Laravel and how it can be used to build modern, robust, and testable web applications. The talk will cover the entire MVC stack from routing to views, as well as other services provided by Laravel such as the dependency injection container, background job processing, real-time events, and database interaction.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/660631693_295x166.jpg"
+  ],
   "vimeo": "238045584",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660631693_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "power-bi-dashboard-creating-end-to-end-solutions",
   "abstract": "<p>Accessing data, Data preparation, and cleansing, consuming the data for reports and deploying the reports to Power BI services, configuring security and making the Dashboards available to end users.</p>",
+  "description": "<p>Accessing data, Data preparation, and cleansing, consuming the data for reports and deploying the reports to Power BI services, configuring security and making the Dashboards available to end users.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/798692079_295x166.jpg"
+  ],
   "vimeo": "348150611",
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=92072",
   "thumbnail": "https://i.vimeocdn.com/video/798692079_295x166.jpg",

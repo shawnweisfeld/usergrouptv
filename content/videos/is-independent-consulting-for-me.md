@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "is-independent-consulting-for-me",
   "abstract": "<p>Have you had dreams of striking it out on your own being an independent consultant? Have you wondered what it takes to make your dream a reality?\r\n</p>\r\n<p>In this session, you will get lessons learned from the presenter's transition from corporate America to independent consulting. You will get a checklist that helps you do an assessment to determine if independent consulting is for you. We will debunk some common myths about independent consulting. Finally, we will cover some resources, tips and tricks that could help you get a successful start in independent consulting.\r\n</p>",
+  "description": "<p>Have you had dreams of striking it out on your own being an independent consultant? Have you wondered what it takes to make your dream a reality?\r\n</p>\r\n<p>In this session, you will get lessons learned from the presenter's transition from corporate America to independent consulting. You will get a checklist that helps you do an assessment to determine if independent consulting is for you. We will debunk some common myths about independent consulting. Finally, we will cover some resources, tips and tricks that could help you get a successful start in independent consulting.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/489458367_295x166.jpg"
+  ],
   "vimeo": "106368038",
   "moreinfo": "http://cactuss.org/cactuss-is-independent-consulting-for-me",
   "thumbnail": "https://i.vimeocdn.com/video/489458367_295x166.jpg",

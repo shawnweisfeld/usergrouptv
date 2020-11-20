@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "whats-new-in-asp-net-mvc-4",
   "abstract": "<p>ASP.NET MVC has come a long way from its initial release in 2009. Its feature set and maturity have grown by leaps and bounds with each release, and the new fourth version is no exception. In this presentation, we'll cover some of the new features, including the ASP.NET Web API, display modes, mobile enhancements, bundling and minification, and asynchronous controllers. You'll come away with an understanding of what the new framework version offers, and why you might want to upgrade your existing MVC apps to the latest and greatest.</p>",
+  "description": "<p>ASP.NET MVC has come a long way from its initial release in 2009. Its feature set and maturity have grown by leaps and bounds with each release, and the new fourth version is no exception. In this presentation, we'll cover some of the new features, including the ASP.NET Web API, display modes, mobile enhancements, bundling and minification, and asynchronous controllers. You'll come away with an understanding of what the new framework version offers, and why you might want to upgrade your existing MVC apps to the latest and greatest.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485082513_295x166.jpg"
+  ],
   "vimeo": "102964332",
   "moreinfo": "http://lrtechfest.com/speakers/list/#brian-sullivan",
   "thumbnail": "https://i.vimeocdn.com/video/485082513_295x166.jpg",

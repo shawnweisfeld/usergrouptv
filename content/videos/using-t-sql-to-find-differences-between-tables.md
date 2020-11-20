@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "using-t-sql-to-find-differences-between-tables",
   "abstract": "<p>When you have to find differences and changes in your tables, there are many methods and tools to use.We'll cover a range of t-sql code, from basic to complex, and settings to find these differences and changes: Brute force - write it all out, Change Data Capture, T-sql Merge statement, And more. </p>",
+  "description": "<p>When you have to find differences and changes in your tables, there are many methods and tools to use.We'll cover a range of t-sql code, from basic to complex, and settings to find these differences and changes: Brute force - write it all out, Change Data Capture, T-sql Merge statement, And more. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/651776320_295x166.jpg"
+  ],
   "vimeo": "231058375",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/241933959/",
   "thumbnail": "https://i.vimeocdn.com/video/651776320_295x166.jpg",

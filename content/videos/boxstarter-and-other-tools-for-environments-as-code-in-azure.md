@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "boxstarter-and-other-tools-for-environments-as-code-in-azure",
   "abstract": "<p>Paul is going to show us how you can utilize BoxStarter and other tools to build up azure environments in a very repeatable manner.</p>",
+  "description": "<p>Paul is going to show us how you can utilize BoxStarter and other tools to build up azure environments in a very repeatable manner.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/498382407_295x166.jpg"
+  ],
   "vimeo": "113159963",
   "moreinfo": "http://www.meetup.com/azureaustin/events/211012162/",
   "thumbnail": "https://i.vimeocdn.com/video/498382407_295x166.jpg",

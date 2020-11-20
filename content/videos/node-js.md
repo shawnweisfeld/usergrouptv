@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "node-js",
   "abstract": "<p>JavaScript is not just for browsers any more. In this session we will get an introduction to Node.js a popular platform for building systems where the code is entirely in JavaScript.  We will discuss the ins and outs of Node.js including a demonstration of a system which will be going into production, no demo code here kiddies.  In addition to discussing Node.js we'll touch on several other aspects of the Node.js ecosystem.  This promises to be an enlightening and interactive session you won't want to miss.</p>",
+  "description": "<p>JavaScript is not just for browsers any more. In this session we will get an introduction to Node.js a popular platform for building systems where the code is entirely in JavaScript.  We will discuss the ins and outs of Node.js including a demonstration of a system which will be going into production, no demo code here kiddies.  In addition to discussing Node.js we'll touch on several other aspects of the Node.js ecosystem.  This promises to be an enlightening and interactive session you won't want to miss.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485088485_295x166.jpg"
+  ],
   "vimeo": "102968892",
   "moreinfo": "http://www.ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/485088485_295x166.jpg",

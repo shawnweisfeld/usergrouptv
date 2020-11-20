@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "logging-for-the-next-century-using-the-semantic-logging-application-block-slab",
   "abstract": "<p>While not the coolest part of your application logging/instrumenting your application is perhaps one of the most important parts of your application. Traditional logging techniques tell us to write unstructured strings to the log, however this produces logs that are next to impossible to read or parse. Semantic logging produces logs that improves the consistency of the logs and simplifies significantly their consumption and automatic processing. In this talk we will discuss 1) The advantages of semantic logging over more traditional techniques. 2) How to create logging messages via the EventSource class 3) How to log messages in and out of process, and the advantages of each 4) How to use sinks to persist your log messages</p>",
+  "description": "<p>While not the coolest part of your application logging/instrumenting your application is perhaps one of the most important parts of your application. Traditional logging techniques tell us to write unstructured strings to the log, however this produces logs that are next to impossible to read or parse. Semantic logging produces logs that improves the consistency of the logs and simplifies significantly their consumption and automatic processing. In this talk we will discuss 1) The advantages of semantic logging over more traditional techniques. 2) How to create logging messages via the EventSource class 3) How to log messages in and out of process, and the advantages of each 4) How to use sinks to persist your log messages</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/482108876_295x166.jpg"
+  ],
   "vimeo": "100578839",
   "moreinfo": "http://tulsaschoolofdev.com",
   "thumbnail": "https://i.vimeocdn.com/video/482108876_295x166.jpg",

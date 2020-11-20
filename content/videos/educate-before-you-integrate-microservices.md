@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "educate-before-you-integrate-microservices",
   "abstract": "<p>Over the last few years, Microservices have become a popular architecture pattern for the distributed systems. There are many definitions of Microservices so, their implementations differ as well. By now, you may be tired of listening to microservices talk with Netflix architecture diagrams, the dreaded eCommerce example or another technology pitch. Many of these talks push you off the cliff and leave the flying(the hard part) up to you. As a result, the implementations fall short of success. Incorrect integration strategies are central to these. In this talk, we are going to look at avoiding some of those failures based on real-world experiences. We are going to look at some guiding principles and how to choose the correct integration strategy via examples. </p>",
+  "description": "<p>Over the last few years, Microservices have become a popular architecture pattern for the distributed systems. There are many definitions of Microservices so, their implementations differ as well. By now, you may be tired of listening to microservices talk with Netflix architecture diagrams, the dreaded eCommerce example or another technology pitch. Many of these talks push you off the cliff and leave the flying(the hard part) up to you. As a result, the implementations fall short of success. Incorrect integration strategies are central to these. In this talk, we are going to look at avoiding some of those failures based on real-world experiences. We are going to look at some guiding principles and how to choose the correct integration strategy via examples. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/725424168_295x166.jpg"
+  ],
   "vimeo": "289714867",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/254469748/",
   "thumbnail": "https://i.vimeocdn.com/video/725424168_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "d3-js-pimp-your-data",
   "abstract": "<p>D3.js is a data visualization library written in javascript. Charts? Yes. But so much more. With this talk we will take the red pill and learn to wield d3 to start turning our data into impressive visuals.</p>",
+  "description": "<p>D3.js is a data visualization library written in javascript. Charts? Yes. But so much more. With this talk we will take the red pill and learn to wield d3 to start turning our data into impressive visuals.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/487539388_295x166.jpg"
+  ],
   "vimeo": "104883506",
   "moreinfo": "http://www.houstontechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/487539388_295x166.jpg",

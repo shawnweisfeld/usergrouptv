@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "query-store-a-new-sql-query-tuning-feature",
   "abstract": "<p>Have you ever come in to work only to have the boss come tell you that your main site is down and the database is \"broken\"? Fixing query performance problems can be rough, especially in high-pressure situations. Microsoft has developed a feature to help customers gain significantly easier insight into production systems and to be able to quickly fix cases where a new plan choice from the query optimizer has undesired performance consequences. This talk introduces the Query Store, explains the architecture, and shows how it can be used to solve real-world performance problems. It will now be possible to ask questions like \"show me what query plans have changed since yesterday\" and to quickly ask the optimizer to \"go back\" to the query plan that was working fine for you previously.</p>",
+  "description": "<p>Have you ever come in to work only to have the boss come tell you that your main site is down and the database is \"broken\"? Fixing query performance problems can be rough, especially in high-pressure situations. Microsoft has developed a feature to help customers gain significantly easier insight into production systems and to be able to quickly fix cases where a new plan choice from the query optimizer has undesired performance consequences. This talk introduces the Query Store, explains the architecture, and shows how it can be used to solve real-world performance problems. It will now be possible to ask questions like \"show me what query plans have changed since yesterday\" and to quickly ask the optimizer to \"go back\" to the query plan that was working fine for you previously.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/505668502_295x166.jpg"
+  ],
   "vimeo": "118595641",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=26468",
   "thumbnail": "https://i.vimeocdn.com/video/505668502_295x166.jpg",

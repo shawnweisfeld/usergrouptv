@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "a-sharepoint-upgrade-story",
   "abstract": "<p>Jim McFadden, CSPUG member who will tell us about their experiences with the upgrade of www.cspug.org.</p>",
+  "description": "<p>Jim McFadden, CSPUG member who will tell us about their experiences with the upgrade of www.cspug.org.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/494179649_295x166.jpg"
+  ],
   "vimeo": "110065000",
   "moreinfo": "http://web.cspug.org",
   "thumbnail": "https://i.vimeocdn.com/video/494179649_295x166.jpg",

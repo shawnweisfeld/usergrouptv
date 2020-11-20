@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "new-features-of-sql-2014",
   "abstract": "<p>New features of SQL 2014 including in memory OLTP along with improvements to resource governor and host of integration topics for SQL 2014 and Windows Azure.</p>",
+  "description": "<p>New features of SQL 2014 including in memory OLTP along with improvements to resource governor and host of integration topics for SQL 2014 and Windows Azure.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/486706769_295x166.jpg"
+  ],
   "vimeo": "104230016",
   "moreinfo": "http://cactuss.org/",
   "thumbnail": "https://i.vimeocdn.com/video/486706769_295x166.jpg",

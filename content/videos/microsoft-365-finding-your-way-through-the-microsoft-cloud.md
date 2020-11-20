@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "microsoft-365-finding-your-way-through-the-microsoft-cloud",
   "abstract": "<p>Recently Microsoft rebranded Office 365 to Microsoft 365. We will explore why the change makes sense, what it means for businesses – big and small, and how it positions Microsoft for wider adoption of Azure.</p>",
+  "description": "<p>Recently Microsoft rebranded Office 365 to Microsoft 365. We will explore why the change makes sense, what it means for businesses – big and small, and how it positions Microsoft for wider adoption of Azure.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/894750268_295x166.jpg"
+  ],
   "vimeo": "419756960",
   "moreinfo": "https://www.meetup.com/azureaustin/events/269935302/",
   "thumbnail": "https://i.vimeocdn.com/video/894750268_295x166.jpg",

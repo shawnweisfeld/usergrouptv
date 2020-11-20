@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "kinect-hacks-beyond-just-games",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/492995062_295x166.jpg"
+  ],
   "vimeo": "109122249",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/492995062_295x166.jpg",

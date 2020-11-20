@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "introduction-to-ria-services",
   "abstract": "<p>&nbsp;</p>",
+  "description": "<p>&nbsp;</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/500554515_295x166.jpg"
+  ],
   "vimeo": "114765807",
   "moreinfo": "http://ntpcug.org/",
   "thumbnail": "https://i.vimeocdn.com/video/500554515_295x166.jpg",

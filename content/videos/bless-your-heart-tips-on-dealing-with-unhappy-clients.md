@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "bless-your-heart-tips-on-dealing-with-unhappy-clients",
   "abstract": "<p>Believe it or not, dealing with unhappy clients can be a good thing for your company sales, if you handle the situation correctly.  An unhappy client is telling you that they are missing something. If you acknowledge their needs and address them in a positive way, often those clients will upgrade to a plan or package that will meet their needs. It takes a lot of finesse, some humor, and compassion, but is possible with the right approach to actually use a seemingly bad situation to improve the company bottom line. </p>",
+  "description": "<p>Believe it or not, dealing with unhappy clients can be a good thing for your company sales, if you handle the situation correctly.  An unhappy client is telling you that they are missing something. If you acknowledge their needs and address them in a positive way, often those clients will upgrade to a plan or package that will meet their needs. It takes a lot of finesse, some humor, and compassion, but is possible with the right approach to actually use a seemingly bad situation to improve the company bottom line. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/818417695_295x166.jpg"
+  ],
   "vimeo": "363309641",
   "moreinfo": "https://www.joomladaytexas.com/",
   "thumbnail": "https://i.vimeocdn.com/video/818417695_295x166.jpg",

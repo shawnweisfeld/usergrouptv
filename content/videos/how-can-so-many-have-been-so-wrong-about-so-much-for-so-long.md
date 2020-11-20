@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "how-can-so-many-have-been-so-wrong-about-so-much-for-so-long",
   "abstract": "<p>In this half-technical, half-philosophical talk, Udi will debunk many of the best practices in software, explain why Agile methodologies are failing in so many organizations, and describe some pretty important problems that many developers are totally oblivious of. You might not want to bring any non-technical managers with you to this talk – you’ll probably want some time to deal with these issues quietly before exposing these topics to upper management.\r\n</p>",
+  "description": "<p>In this half-technical, half-philosophical talk, Udi will debunk many of the best practices in software, explain why Agile methodologies are failing in so many organizations, and describe some pretty important problems that many developers are totally oblivious of. You might not want to bring any non-technical managers with you to this talk – you’ll probably want some time to deal with these issues quietly before exposing these topics to upper management.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485962451_295x166.jpg"
+  ],
   "vimeo": "103660376",
   "moreinfo": "http://northdallas.net/meetings/how-can-so-many-have-been-so-wrong-about-so-much-for-so-long/",
   "thumbnail": "https://i.vimeocdn.com/video/485962451_295x166.jpg",

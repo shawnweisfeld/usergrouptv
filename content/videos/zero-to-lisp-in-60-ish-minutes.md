@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "zero-to-lisp-in-60-ish-minutes",
   "abstract": "<p>We live in an era of highly-optimized, complex virtual machine environments. Without taking all of this for granted, it can be instructive to return to the roots of modern Computer Science to get some insight into the technology we use every day. The goal of this talk is to discuss one of those building blocks (the Lisp family of languages) and construct a *very* simple Scheme interpreter over the course of the session, leveraging a series of accessible essays authored by Peter Norvig. This presentation also serves as an introduction to the novel, foundational concepts of the Lisp branch of computer languages and how they influence the modern programming language landscape. Interestingly, you can build a simple Scheme interpreter in just about any language, so programmers from any particular environment/platform are more than welcome to attend.</p>",
+  "description": "<p>We live in an era of highly-optimized, complex virtual machine environments. Without taking all of this for granted, it can be instructive to return to the roots of modern Computer Science to get some insight into the technology we use every day. The goal of this talk is to discuss one of those building blocks (the Lisp family of languages) and construct a *very* simple Scheme interpreter over the course of the session, leveraging a series of accessible essays authored by Peter Norvig. This presentation also serves as an introduction to the novel, foundational concepts of the Lisp branch of computer languages and how they influence the modern programming language landscape. Interestingly, you can build a simple Scheme interpreter in just about any language, so programmers from any particular environment/platform are more than welcome to attend.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/489185450_295x166.jpg"
+  ],
   "vimeo": "106169579",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#0115",
   "thumbnail": "https://i.vimeocdn.com/video/489185450_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "why-do-we-want-c7",
   "abstract": "<p>Just when you though it couldn't get any better, C# v7 bring 10 key new features to Visual Studio 2017. Each of these will be demonstrated in a practical example.</p>",
+  "description": "<p>Just when you though it couldn't get any better, C# v7 bring 10 key new features to Visual Studio 2017. Each of these will be demonstrated in a practical example.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/699614881_295x166.jpg"
+  ],
   "vimeo": "268800342",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/699614881_295x166.jpg",

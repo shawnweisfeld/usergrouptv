@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "technical-debt",
   "abstract": "<p>The discussion describes various aspects concerning technical debt. High-level topics include what technical debt is, how it can be classified, appropriate use, and tracking. Speakers will conduct a discussion between themselves to highlight aspects of managing technical debt for both developers and Scrum Masters. In particular, the discussion explains particular situations that are appropriate for technical debt to be used and describes the techniques required for managing it. This talk takes a fresh look at technical debt and forwards some concepts that most developers or managers may have not previously considered. The talk will also compare the concept of technical debt to that of financial debt to provide the listener with better understanding of appropriate use of this development technique. The importance of tracking technical debt , along with methods to accomplish tracking are reviewed as well.\r\n</p>",
+  "description": "<p>The discussion describes various aspects concerning technical debt. High-level topics include what technical debt is, how it can be classified, appropriate use, and tracking. Speakers will conduct a discussion between themselves to highlight aspects of managing technical debt for both developers and Scrum Masters. In particular, the discussion explains particular situations that are appropriate for technical debt to be used and describes the techniques required for managing it. This talk takes a fresh look at technical debt and forwards some concepts that most developers or managers may have not previously considered. The talk will also compare the concept of technical debt to that of financial debt to provide the listener with better understanding of appropriate use of this development technique. The importance of tracking technical debt , along with methods to accomplish tracking are reviewed as well.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/486705234_295x166.jpg"
+  ],
   "vimeo": "104228716",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486705234_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sharedpoint-2013-lessons-learned",
   "abstract": "<p>Join us as we go over some tips, tricks and gotcha's for SharePoint 2013. We've learned the hard way so you don't have to. Topics include a variety of subjects ranging from SharePoint Online, SharePoint On Premise, Powershell, etc.</p>",
+  "description": "<p>Join us as we go over some tips, tricks and gotcha's for SharePoint 2013. We've learned the hard way so you don't have to. Topics include a variety of subjects ranging from SharePoint Online, SharePoint On Premise, Powershell, etc.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/483487770_295x166.jpg"
+  ],
   "vimeo": "101659299",
   "moreinfo": "http://techfests.com/Tulsa/2013/Speakers/DennisBottjer/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/483487770_295x166.jpg",

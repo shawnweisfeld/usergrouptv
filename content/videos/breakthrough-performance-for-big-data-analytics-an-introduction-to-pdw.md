@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "breakthrough-performance-for-big-data-analytics-an-introduction-to-pdw",
   "abstract": "<p>In this session, we will travel the course of how some organizations are embracing the concept of a Modern Data Warehouse by unifying different technologies for handling large volumes of data. Parallel Data Warehouse, or PDW, is a solution that offers high performance data warehousing using the MPP architecture and ability to reach over and combine data from the hadoop platform. We will learn how this technology works and offers extreme performance and yet a very easy platform to manage for the DBA, Infrastructure, and Developers alike.</p>",
+  "description": "<p>In this session, we will travel the course of how some organizations are embracing the concept of a Modern Data Warehouse by unifying different technologies for handling large volumes of data. Parallel Data Warehouse, or PDW, is a solution that offers high performance data warehousing using the MPP architecture and ability to reach over and combine data from the hadoop platform. We will learn how this technology works and offers extreme performance and yet a very easy platform to manage for the DBA, Infrastructure, and Developers alike.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/482636101_295x166.jpg"
+  ],
   "vimeo": "100978221",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=305&sessionid=21731",
   "thumbnail": "https://i.vimeocdn.com/video/482636101_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "mongo-db",
   "abstract": "<p>David Penton will go over Mongo DB</p>",
+  "description": "<p>David Penton will go over Mongo DB</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/498383573_295x166.jpg"
+  ],
   "vimeo": "113160830",
   "moreinfo": "http://northdallas.net",
   "thumbnail": "https://i.vimeocdn.com/video/498383573_295x166.jpg",

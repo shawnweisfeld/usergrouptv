@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "when-to-change-jobs",
   "abstract": "<p>Let's have a discussion on when to make a job change and when to make the jump from technical roles to management roles. Over my 20+ year career I have lost count of the number of people that have come to me and asked my advice on making a job move, a question that many people have, but are afraid to ask.</p>",
+  "description": "<p>Let's have a discussion on when to make a job change and when to make the jump from technical roles to management roles. Over my 20+ year career I have lost count of the number of people that have come to me and asked my advice on making a job move, a question that many people have, but are afraid to ask.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/650698746_295x166.jpg"
+  ],
   "vimeo": "230192741",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650698746_295x166.jpg",

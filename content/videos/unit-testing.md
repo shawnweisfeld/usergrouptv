@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "unit-testing",
   "abstract": "<p>Unit Testing is now considered a required skill for developers.  There are a ton of tools out there.  However, there’s nothing that shows you how to tie them all together to make your software fast, testable, and flexible.  This talk will go over my toolset: MSTest, Moq – Mocking framework, NCover – for coverage, MSBuild – for automation, Unity – for dependency injection. This talk will have a lot of code… a lot. You will come away with a stronger appreciation of how unit testing will improve the quality of your software.</p>",
+  "description": "<p>Unit Testing is now considered a required skill for developers.  There are a ton of tools out there.  However, there’s nothing that shows you how to tie them all together to make your software fast, testable, and flexible.  This talk will go over my toolset: MSTest, Moq – Mocking framework, NCover – for coverage, MSBuild – for automation, Unity – for dependency injection. This talk will have a lot of code… a lot. You will come away with a stronger appreciation of how unit testing will improve the quality of your software.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/561300448_295x166.jpg"
+  ],
   "vimeo": "159530674",
   "moreinfo": "http://adnug.org/Home/march-14-2016-unit-testing/",
   "thumbnail": "https://i.vimeocdn.com/video/561300448_295x166.jpg",

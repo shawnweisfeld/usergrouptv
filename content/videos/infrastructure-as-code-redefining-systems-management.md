@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "infrastructure-as-code-redefining-systems-management",
   "abstract": "<p>Cloud-based systems are becoming increasingly complex, requiring a growing amount of time and expertise to maintain. Infrastructure as Code (IaC) presents a solution to simplify the management of these systems. This session will introduce the concept of IaC, explain why it is a necessity in the current market, and will familiarize participants with current IaC solutions.</p>",
+  "description": "<p>Cloud-based systems are becoming increasingly complex, requiring a growing amount of time and expertise to maintain. Infrastructure as Code (IaC) presents a solution to simplify the management of these systems. This session will introduce the concept of IaC, explain why it is a necessity in the current market, and will familiarize participants with current IaC solutions.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/650871884_295x166.jpg"
+  ],
   "vimeo": "230330983",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650871884_295x166.jpg",

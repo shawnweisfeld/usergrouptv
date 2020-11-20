@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "tips-tricks-for-implementing-enterprise-agile-cultural-transformation-from-within",
   "abstract": "<p>Have you ever been part of an IT organization that had dozens, hundreds, thousands of people, and changes always appear immensely difficult? If changing such a massive organization is difficult, imagine adopting Agile on an enterprise-wide scale. Well, imagine if you could learn a few critical tips & tricks that have worked for some people in the past and might just work for you. Imagine if you could learn specific methods that can be turned into actionable objectives the next day you're back in the office. There are various ways to approach an enterprise Agile transformation - come hear an approach that is based on changing from within, using people and resources that are already within your organization.\r\n</p>",
+  "description": "<p>Have you ever been part of an IT organization that had dozens, hundreds, thousands of people, and changes always appear immensely difficult? If changing such a massive organization is difficult, imagine adopting Agile on an enterprise-wide scale. Well, imagine if you could learn a few critical tips & tricks that have worked for some people in the past and might just work for you. Imagine if you could learn specific methods that can be turned into actionable objectives the next day you're back in the office. There are various ways to approach an enterprise Agile transformation - come hear an approach that is based on changing from within, using people and resources that are already within your organization.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/703327465_295x166.jpg"
+  ],
   "vimeo": "271908156",
   "moreinfo": "http://www.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/703327465_295x166.jpg",

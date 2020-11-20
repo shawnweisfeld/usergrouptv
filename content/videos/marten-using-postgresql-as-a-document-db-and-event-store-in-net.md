@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "marten-using-postgresql-as-a-document-db-and-event-store-in-net",
   "abstract": "<p>Tired of the impedance mismatch between the model your application code wants for behavior and logic and the potentially very different data model that your relational database wants for storage? Scared of NoSQL databases because you’ve always heard that they aren’t transactional, lose your data under load, and lack all the production support tools you need? Fortunately, there’s now the Marten library that allows .Net developers to work with the very robust Postgresql database as a fully ACID-compliant, document database and event store. In this talk, we’ll look at how Marten’s programming model allows developers to be more productive compared to using a more typical ORM tool against a relational database. We’ll also take a look at the integrated event store functionality and how Marten makes event sourcing easier and more manageable in many ways than previous tools.</p>",
+  "description": "<p>Tired of the impedance mismatch between the model your application code wants for behavior and logic and the potentially very different data model that your relational database wants for storage? Scared of NoSQL databases because you’ve always heard that they aren’t transactional, lose your data under load, and lack all the production support tools you need? Fortunately, there’s now the Marten library that allows .Net developers to work with the very robust Postgresql database as a fully ACID-compliant, document database and event store. In this talk, we’ll look at how Marten’s programming model allows developers to be more productive compared to using a more typical ORM tool against a relational database. We’ll also take a look at the integrated event store functionality and how Marten makes event sourcing easier and more manageable in many ways than previous tools.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/712738961_295x166.jpg"
+  ],
   "vimeo": "279474997",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/252508675/",
   "thumbnail": "https://i.vimeocdn.com/video/712738961_295x166.jpg",

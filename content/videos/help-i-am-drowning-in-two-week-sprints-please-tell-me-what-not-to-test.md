@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "help-i-am-drowning-in-two-week-sprints-please-tell-me-what-not-to-test",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/820029751_295x166.jpg"
+  ],
   "vimeo": "364566902",
   "moreinfo": "http://conference.agileaustin.org",
   "thumbnail": "https://i.vimeocdn.com/video/820029751_295x166.jpg",

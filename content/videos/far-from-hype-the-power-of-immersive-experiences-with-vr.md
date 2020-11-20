@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "far-from-hype-the-power-of-immersive-experiences-with-vr",
   "abstract": "<p>5 minute lightening talk about the value and potential of immersive experiences on key industries as well as my personal predictions of the future. I plan to share real-world examples and research from other key influencers in this space.</p>",
+  "description": "<p>5 minute lightening talk about the value and potential of immersive experiences on key industries as well as my personal predictions of the future. I plan to share real-world examples and research from other key influencers in this space.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/650697719_295x166.jpg"
+  ],
   "vimeo": "230192126",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650697719_295x166.jpg",

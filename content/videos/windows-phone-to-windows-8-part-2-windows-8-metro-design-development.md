@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "windows-phone-to-windows-8-part-2-windows-8-metro-design-development",
   "abstract": "<p>Cut in Line and be a Part of What's Next</p>\r\n<p>Learn how to migrate your Windows Phone 7 app to the next platform - Windows 8. Be one of the first developers in the Windows Store when it opens. If you have already started on your Windows 8 app, check this out as well.</p>",
+  "description": "<p>Cut in Line and be a Part of What's Next</p>\r\n<p>Learn how to migrate your Windows Phone 7 app to the next platform - Windows 8. Be one of the first developers in the Windows Store when it opens. If you have already started on your Windows 8 app, check this out as well.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/491653197_295x166.jpg"
+  ],
   "vimeo": "108061656",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/491653197_295x166.jpg",

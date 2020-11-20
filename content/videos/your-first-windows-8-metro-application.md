@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "your-first-windows-8-metro-application",
   "abstract": "<p>In this talk we will discuss the basics of getting started building apps for windows 8</p>",
+  "description": "<p>In this talk we will discuss the basics of getting started building apps for windows 8</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/490130242_295x166.jpg"
+  ],
   "vimeo": "106886379",
   "moreinfo": "http://austincodecamp2012.com/",
   "thumbnail": "https://i.vimeocdn.com/video/490130242_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "populating-a-data-warehouse-with-ssis-and-biml-patterns",
   "abstract": "<p>This session will demonstrate how to leverage Biml Patterns, along with SQL Server Metadata, to rapidly build SSIS packages. The focus of this session will be on populating a data warehouse, however the concepts presented could be applied to most any ETL/ETL scenarios. The components used during this session: - Biml - BimlExpress - BimlSnap On-line are all available at no charge. In addition, attendees will receive: - A complete 'SQL Server Metadata Manager' solution (front and back end) - A fully functional SSIS Framework.\r\n</p>",
+  "description": "<p>This session will demonstrate how to leverage Biml Patterns, along with SQL Server Metadata, to rapidly build SSIS packages. The focus of this session will be on populating a data warehouse, however the concepts presented could be applied to most any ETL/ETL scenarios. The components used during this session: - Biml - BimlExpress - BimlSnap On-line are all available at no charge. In addition, attendees will receive: - A complete 'SQL Server Metadata Manager' solution (front and back end) - A fully functional SSIS Framework.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/709492207_295x166.jpg"
+  ],
   "vimeo": "276868637",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=77775",
   "thumbnail": "https://i.vimeocdn.com/video/709492207_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "beyond-removing-impediments-scrum-master-as-team-coach",
   "abstract": "<p>The role of the Scrum Master is about more than removing impediments and facilitating meetings. Scrum Masters act as mirrors for their teams and mentor team members great Scrum Masters coach their teams to high performance every day. We will share a metaphor for teams to use on their journey to high performance and teach Scrum Masters how to be coaches for their teams. Come learn how to give meaningful feedback and ask powerful questions to grow a team.\r\n</p>",
+  "description": "<p>The role of the Scrum Master is about more than removing impediments and facilitating meetings. Scrum Masters act as mirrors for their teams and mentor team members great Scrum Masters coach their teams to high performance every day. We will share a metaphor for teams to use on their journey to high performance and teach Scrum Masters how to be coaches for their teams. Come learn how to give meaningful feedback and ask powerful questions to grow a team.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/486708877_295x166.jpg"
+  ],
   "vimeo": "104231753",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486708877_295x166.jpg",

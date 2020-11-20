@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "insights-from-tech-hiring-managers",
   "abstract": "<p>Last night I attended an \"Ask a Manager\" panel of tech managers who do interviewing and hiring. There were many great questions and helpful answers. I'm going to recap many of the points that struck me as important.</p>",
+  "description": "<p>Last night I attended an \"Ask a Manager\" panel of tech managers who do interviewing and hiring. There were many great questions and helpful answers. I'm going to recap many of the points that struck me as important.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/824337184_295x166.jpg"
+  ],
   "vimeo": "367833441",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/pttzvqyznbtb/",
   "thumbnail": "https://i.vimeocdn.com/video/824337184_295x166.jpg",

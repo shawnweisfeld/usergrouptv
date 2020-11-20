@@ -10,6 +10,10 @@
   "draft": false,
   "slug": "what-you-can-do-today-with-html-5-and-css-3-on-mobile-devices",
   "abstract": "<p>This meeting is a code/markup/styling-heavy discussion of what you can do with Html 5 and Css 3 on mobile devices today. Bring your iPhones, Android phones, Windows Phone 7 phones, iPads, Android tablets et al. if you have them. Along with the code, we'll also talk a bit about what you can do to plan for devices whose browsers are not as advanced as others.</p>",
+  "description": "<p>This meeting is a code/markup/styling-heavy discussion of what you can do with Html 5 and Css 3 on mobile devices today. Bring your iPhones, Android phones, Windows Phone 7 phones, iPads, Android tablets et al. if you have them. Along with the code, we'll also talk a bit about what you can do to plan for devices whose browsers are not as advanced as others.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/492992526_295x166.jpg"
+  ],
   "vimeo": "109120387",
   "moreinfo": "http://nddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/492992526_295x166.jpg",

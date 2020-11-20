@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "odata-where-art-thou-publishing-odata-feeds-with-wcf-data-services",
   "abstract": "<p>WCF Data Services combines patterns and libraries that enable any data store to be exposed as a REST-ful service, addressable with URIs that clients can interact with using standard HTTP verbs, such as GET and POST. WCF Data Services also has a number of advanced features, which allow you to control things like how query results are merged into previously cached objects, and eager-loading related entities. In this session you will learn how to leverage these features for more fine-grained control and to create query interceptors which allow you to perform logging, validation, and authorization. You will also learn how to manage concurrency among multiple users and expose services using custom data sources.</p>",
+  "description": "<p>WCF Data Services combines patterns and libraries that enable any data store to be exposed as a REST-ful service, addressable with URIs that clients can interact with using standard HTTP verbs, such as GET and POST. WCF Data Services also has a number of advanced features, which allow you to control things like how query results are merged into previously cached objects, and eager-loading related entities. In this session you will learn how to leverage these features for more fine-grained control and to create query interceptors which allow you to perform logging, validation, and authorization. You will also learn how to manage concurrency among multiple users and expose services using custom data sources.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/494182958_295x166.jpg"
+  ],
   "vimeo": "110067601",
   "moreinfo": "http://ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/494182958_295x166.jpg",

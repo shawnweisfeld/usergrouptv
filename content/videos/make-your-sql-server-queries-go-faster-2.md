@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "make-your-sql-server-queries-go-faster-2",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/661278685_295x166.jpg"
+  ],
   "vimeo": "238552170",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/661278685_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "microsoft-azure-fundamentals-compute-network-storage-identity-and-automation",
   "abstract": "<p>For many, cloud computing is a confusing and overwhelming subject. Not only the concepts are abstract and the service models appear perplexing, but often vendors' implementations conglomerate with a steep learning curve. This presentation is to help technical professionals better grasp the essentials and fundamental building blocks of a cloud computing solution, hence accelerate the learning. This delivery takes a methodical approach and offers an accelerated learning experience to establish a solid technical foundation of Microsoft Azure. For both IT pros and developers, this is an opportunity to examine five key capabilities of cloud computing and how to integrate them for building, developing, deploying and managing a solution while employing Azure as a datacenter for business in all sizes.</p>",
+  "description": "<p>For many, cloud computing is a confusing and overwhelming subject. Not only the concepts are abstract and the service models appear perplexing, but often vendors' implementations conglomerate with a steep learning curve. This presentation is to help technical professionals better grasp the essentials and fundamental building blocks of a cloud computing solution, hence accelerate the learning. This delivery takes a methodical approach and offers an accelerated learning experience to establish a solid technical foundation of Microsoft Azure. For both IT pros and developers, this is an opportunity to examine five key capabilities of cloud computing and how to integrate them for building, developing, deploying and managing a solution while employing Azure as a datacenter for business in all sizes.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/594173211_295x166.jpg"
+  ],
   "vimeo": "184673271",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/594173211_295x166.jpg",

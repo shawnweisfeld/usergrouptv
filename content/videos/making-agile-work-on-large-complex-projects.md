@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "making-agile-work-on-large-complex-projects",
   "abstract": "<p>There is a widely accepted myth that extremely complex software platforms, committed delivery schedules, large development teams, and dynamic business environments are in direct opposition to agile development processes and tools and if your product / project fall into one of these categories you will struggle with fully embracing agile methodologies. This is simply not the case, you can fully adopt and leverage an agile methodology through out the full product lifecycle, gaining all the advantages and leverage the tools your teams are already using today and are tightly integrated into the development process. We will explore how Volusion is currently leveraging TFS throughout the complete product lifecycle and discuss some of the key challenges and successes that we've experienced along the way</p>",
+  "description": "<p>There is a widely accepted myth that extremely complex software platforms, committed delivery schedules, large development teams, and dynamic business environments are in direct opposition to agile development processes and tools and if your product / project fall into one of these categories you will struggle with fully embracing agile methodologies. This is simply not the case, you can fully adopt and leverage an agile methodology through out the full product lifecycle, gaining all the advantages and leverage the tools your teams are already using today and are tightly integrated into the development process. We will explore how Volusion is currently leveraging TFS throughout the complete product lifecycle and discuss some of the key challenges and successes that we've experienced along the way</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/482639292_295x166.jpg"
+  ],
   "vimeo": "100980743",
   "moreinfo": "https://sites.google.com/site/tfsaustinusergroup/project-updates/makingagileworkonlargecomplexprojects",
   "thumbnail": "https://i.vimeocdn.com/video/482639292_295x166.jpg",

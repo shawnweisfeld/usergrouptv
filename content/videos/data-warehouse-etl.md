@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "data-warehouse-etl",
   "abstract": "<p>SQL provides many ways to move data from an OLTP source system to a data warehouse server, however choosing the most efficient and scalable ETL solution can be challenging. Various ETL architectures will be explored by analyzing their strengths and weaknesses with data warehouse workloads. Best practices based on having developed ETL systems that load 1+ TB/hr. will be presented. </p>",
+  "description": "<p>SQL provides many ways to move data from an OLTP source system to a data warehouse server, however choosing the most efficient and scalable ETL solution can be challenging. Various ETL architectures will be explored by analyzing their strengths and weaknesses with data warehouse workloads. Best practices based on having developed ETL systems that load 1+ TB/hr. will be presented. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/487542575_295x166.jpg"
+  ],
   "vimeo": "104886061",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=223&sessionid=14173",
   "thumbnail": "https://i.vimeocdn.com/video/487542575_295x166.jpg",

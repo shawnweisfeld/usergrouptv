@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "whats-new-in-sql-server-2017",
   "abstract": "<p>From the lead author of SQL Server 2017 Administration Inside Out by Microsoft Press, come learn in technical detail what’s new for developers, admins, and users of Microsoft SQL Server 2017, including labs and demos. We'll discuss the new features for the platform, high availability, maintenance, and TSQL syntax.</p>",
+  "description": "<p>From the lead author of SQL Server 2017 Administration Inside Out by Microsoft Press, come learn in technical detail what’s new for developers, admins, and users of Microsoft SQL Server 2017, including labs and demos. We'll discuss the new features for the platform, high availability, maintenance, and TSQL syntax.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/699635082_295x166.jpg"
+  ],
   "vimeo": "268816443",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/699635082_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "things-i-wish-i-knew-sooner-about-data-loading",
   "abstract": "<p>\r\n\tIn this session I’ll share some of the lessons I've learned the hard way about loading data.  I’ll show you some ways SQL Server Integration Services can make your life easier (or harder!) and ways you can move data without ever leaving SQL Server management studio.   Want to move data like a boss Monday morning?  This session will show you how!\r\n</p>",
+  "description": "<p>\r\n\tIn this session I’ll share some of the lessons I've learned the hard way about loading data.  I’ll show you some ways SQL Server Integration Services can make your life easier (or harder!) and ways you can move data without ever leaving SQL Server management studio.   Want to move data like a boss Monday morning?  This session will show you how!\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/533908486_295x166.jpg"
+  ],
   "vimeo": "138521549",
   "moreinfo": "http://www.sqlsaturday.com/422/Sessions/Details.aspx?sid=38670",
   "thumbnail": "https://i.vimeocdn.com/video/533908486_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "data-warehouse-design-part-2",
   "abstract": "<p>This is part 2 of a two part view at data warehousing. This session will look at building a SSIS package to load data into the data mart we talked about in the first session. We will talk about the tools available in SSIS for building a data warehouse/data mart.</p>",
+  "description": "<p>This is part 2 of a two part view at data warehousing. This session will look at building a SSIS package to load data into the data mart we talked about in the first session. We will talk about the tools available in SSIS for building a data warehouse/data mart.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/535839624_295x166.jpg"
+  ],
   "vimeo": "139802233",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda",
   "thumbnail": "https://i.vimeocdn.com/video/535839624_295x166.jpg",

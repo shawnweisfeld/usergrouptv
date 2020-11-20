@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "investing-in-diversity-and-inclusion-in-it-how-to-build-more-diverse-and-inclusive-cultures-in-technology",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/728994385_295x166.jpg"
+  ],
   "vimeo": "292572170",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/728994385_295x166.jpg",

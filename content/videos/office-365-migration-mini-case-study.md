@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "office-365-migration-mini-case-study",
   "abstract": "<p>1TB+ from on-prem to cloud, Content discovery -- including PowerShell scripts identifying site customizations, Customization and remediation plans, Punching up processing power and minimizing network latencies by using Azure VMs and Azure Storage</p>",
+  "description": "<p>1TB+ from on-prem to cloud, Content discovery -- including PowerShell scripts identifying site customizations, Customization and remediation plans, Punching up processing power and minimizing network latencies by using Azure VMs and Azure Storage</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/694124069_295x166.jpg"
+  ],
   "vimeo": "264362640",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/lsljlmyxgbpb/",
   "thumbnail": "https://i.vimeocdn.com/video/694124069_295x166.jpg",

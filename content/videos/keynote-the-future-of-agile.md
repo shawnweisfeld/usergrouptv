@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "keynote-the-future-of-agile",
   "abstract": "<p>Agile as a software movement has just reached the decade mark, though some of the seminal processes such as Scrum and XP had their genesis years earlier. In honor of this milestone, we&rsquo;ll take a look at Agile and compare it to the \"Many Worlds\" theory of Quantum Mechanics to draw analogies between Agile done well and agile done poorly. Finally, we&rsquo;ll dig into a key principle underlying Agile, the principle of reducing work in progress. We&rsquo;ll discuss how that principle can be applied in your organization today to provide incremental and sustainable improvements to your software delivery.</p>",
+  "description": "<p>Agile as a software movement has just reached the decade mark, though some of the seminal processes such as Scrum and XP had their genesis years earlier. In honor of this milestone, we&rsquo;ll take a look at Agile and compare it to the \"Many Worlds\" theory of Quantum Mechanics to draw analogies between Agile done well and agile done poorly. Finally, we&rsquo;ll dig into a key principle underlying Agile, the principle of reducing work in progress. We&rsquo;ll discuss how that principle can be applied in your organization today to provide incremental and sustainable improvements to your software delivery.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/501051483_295x166.jpg"
+  ],
   "vimeo": "115130940",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/501051483_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "css3-and-you",
   "abstract": "<p>CSS3 has become popular topic with the growing prevalence of modern browsers and the introduction HTML5 into upcoming Windows 8 Metro Apps. This Session will go over new and useful CSS3 features you may not know about, with a focus on IE9 and IE10 support.</p>",
+  "description": "<p>CSS3 has become popular topic with the growing prevalence of modern browsers and the introduction HTML5 into upcoming Windows 8 Metro Apps. This Session will go over new and useful CSS3 features you may not know about, with a focus on IE9 and IE10 support.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/507719534_295x166.jpg"
+  ],
   "vimeo": "120048536",
   "moreinfo": "http://techfests.com/Tulsa/2011/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/507719534_295x166.jpg",

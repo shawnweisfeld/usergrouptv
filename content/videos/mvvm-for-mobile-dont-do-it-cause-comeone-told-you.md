@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "mvvm-for-mobile-dont-do-it-cause-comeone-told-you",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/661964482_295x166.jpg"
+  ],
   "vimeo": "239089043",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/661964482_295x166.jpg",

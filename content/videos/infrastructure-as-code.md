@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "infrastructure-as-code",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/527050568_295x166.jpg"
+  ],
   "vimeo": "133830086",
   "moreinfo": "http://www.meetup.com/azureaustin/events/221920439/",
   "thumbnail": "https://i.vimeocdn.com/video/527050568_295x166.jpg",

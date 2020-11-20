@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-what-why-and-how-of-client-side-mvc-frameworks",
   "abstract": "<p>Client-side MVC frameworks like Spine, Backbone, JavascriptMVC and SproutCore are there to help you write richer client-side web experiences. Come learn why they can help, how these frameworks work and what some of the existing options are.</p>",
+  "description": "<p>Client-side MVC frameworks like Spine, Backbone, JavascriptMVC and SproutCore are there to help you write richer client-side web experiences. Come learn why they can help, how these frameworks work and what some of the existing options are.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495920990_295x166.jpg"
+  ],
   "vimeo": "111339940",
   "moreinfo": "http://dallastechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/495920990_295x166.jpg",

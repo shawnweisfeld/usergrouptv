@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "contracting-for-techies-101-10-tips-for-making-it-on-your-own",
   "abstract": "<p>Many programmers daydream about leaving their day job to strike out on their own. Going independent can be exceptionally rewarding. It does take a bit of planning and research to do effectively. Alese Stroud, of The Stroud Group, will present 10 Tips for surviving as an independent technical consultant. She has led The Stroud Group for 18+ years, weathering the highs and lows of consulting along with rapid change in the tech market place.</p>",
+  "description": "<p>Many programmers daydream about leaving their day job to strike out on their own. Going independent can be exceptionally rewarding. It does take a bit of planning and research to do effectively. Alese Stroud, of The Stroud Group, will present 10 Tips for surviving as an independent technical consultant. She has led The Stroud Group for 18+ years, weathering the highs and lows of consulting along with rapid change in the tech market place.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/540284075_295x166.jpg"
+  ],
   "vimeo": "142868194",
   "moreinfo": "http://lrtechfest.com/speakerdetails/#Alese-Stroud",
   "thumbnail": "https://i.vimeocdn.com/video/540284075_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "building-wpf-apps-with-mvvm-lite",
   "abstract": "<p>Windows Presentation Foundation is the way to build rich Windows applications today ... and the Model-View-ViewModel (MVVM) pattern is the most common architecture for building these apps. This presentation will provide an overview of MVVM and its core principles and then dig into using the open-source framework MVVM Lite to build a WPF application. We'll get into the details needed for data binding and command binding and what MVVM Lite provides to simplify this as well as tips and tricks for building solid WPF apps that are maintainable and testable.</p>",
+  "description": "<p>Windows Presentation Foundation is the way to build rich Windows applications today ... and the Model-View-ViewModel (MVVM) pattern is the most common architecture for building these apps. This presentation will provide an overview of MVVM and its core principles and then dig into using the open-source framework MVVM Lite to build a WPF application. We'll get into the details needed for data binding and command binding and what MVVM Lite provides to simplify this as well as tips and tricks for building solid WPF apps that are maintainable and testable.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/534896554_295x166.jpg"
+  ],
   "vimeo": "139189953",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda",
   "thumbnail": "https://i.vimeocdn.com/video/534896554_295x166.jpg",

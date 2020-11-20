@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "microsofts-next-generation-web-initiatives-asp-net-vnext-and-microsoft-edge-part-1",
   "abstract": null,
+  "description": null,
+  "images": [
+    "https://i.vimeocdn.com/video/536918456_295x166.jpg"
+  ],
   "vimeo": "140491636",
   "moreinfo": "http://dallasasp.net/Meetings/14835.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/536918456_295x166.jpg",

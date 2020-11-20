@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "wpf-validation-techniques-and-styles",
   "abstract": "<p>Of all the things that WPF gives us, a validation framework is not one of them. There are a few different ways of capturing validation information and providing rules for validation and there are many ways of displaying broken validation rules. In this session, I'll show you what WPF offers in the area of validation, how to include validation in your View-Models when using MVVM, and a few different styles for elegantly reporting validation errors to the user.</p>",
+  "description": "<p>Of all the things that WPF gives us, a validation framework is not one of them. There are a few different ways of capturing validation information and providing rules for validation and there are many ways of displaying broken validation rules. In this session, I'll show you what WPF offers in the area of validation, how to include validation in your View-Models when using MVVM, and a few different styles for elegantly reporting validation errors to the user.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/498380451_295x166.jpg"
+  ],
   "vimeo": "113158517",
   "moreinfo": "http://dallastechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/498380451_295x166.jpg",

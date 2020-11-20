@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "microservices-and-the-cloud",
   "abstract": "<p>What is a Microservice? Functions? Service Fabric? Containers? Oh my! What are my options on hosting them in Azure? In this session we will boil it all down to an actionable roadmap that you can use to guide you on journey. We will then demonstrate their use in Azure.</p>",
+  "description": "<p>What is a Microservice? Functions? Service Fabric? Containers? Oh my! What are my options on hosting them in Azure? In this session we will boil it all down to an actionable roadmap that you can use to guide you on journey. We will then demonstrate their use in Azure.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/636656730_295x166.jpg"
+  ],
   "vimeo": "219011615",
   "moreinfo": "http://dallasasp.net/Meetings/19864.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/636656730_295x166.jpg",

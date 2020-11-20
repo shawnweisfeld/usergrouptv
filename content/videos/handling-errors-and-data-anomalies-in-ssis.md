@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "handling-errors-and-data-anomalies-in-ssis",
   "abstract": "<p>Even in the most reliable ETL system, it's eventually going to happen: A package will fail, an output row count won't match what is expected, a data anomaly will force a forensic search of the package infrastructure... In this session, we'll talk about some of the things that can go wrong during package execution - and some of the defenses that can be built into SSIS to help head off those errors (or at least make the errors easier to troubleshoot). From error handlers to package restartability, and from logging methods to row count validation and remediation, we'll cover various ways to keep your ETL flowing when problems arise.</p>",
+  "description": "<p>Even in the most reliable ETL system, it's eventually going to happen: A package will fail, an output row count won't match what is expected, a data anomaly will force a forensic search of the package infrastructure... In this session, we'll talk about some of the things that can go wrong during package execution - and some of the defenses that can be built into SSIS to help head off those errors (or at least make the errors easier to troubleshoot). From error handlers to package restartability, and from logging methods to row count validation and remediation, we'll cover various ways to keep your ETL flowing when problems arise.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/483489527_295x166.jpg"
+  ],
   "vimeo": "101660458",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=223&sessionid=15602",
   "thumbnail": "https://i.vimeocdn.com/video/483489527_295x166.jpg",

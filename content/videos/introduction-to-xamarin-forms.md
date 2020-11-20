@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "introduction-to-xamarin-forms",
   "abstract": "<p>Xamarin.Forms allow you to build native user interfaces for iOS, Mac, Android, and UWP using shared C#. Xamarin.Forms include more than 40 controls and layouts, which are mapped to native controls at runtime. First, we will go over project new with Xamarin Forms. Then, we'll discuss the latest in Xamarin Forms including bindable pickers and new on idiom for Desktop. Next, we will look at what's ahead with Xamarin Forms Roadmap. </p>",
+  "description": "<p>Xamarin.Forms allow you to build native user interfaces for iOS, Mac, Android, and UWP using shared C#. Xamarin.Forms include more than 40 controls and layouts, which are mapped to native controls at runtime. First, we will go over project new with Xamarin Forms. Then, we'll discuss the latest in Xamarin Forms including bindable pickers and new on idiom for Desktop. Next, we will look at what's ahead with Xamarin Forms Roadmap. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/650631630_295x166.jpg"
+  ],
   "vimeo": "230139329",
   "moreinfo": "http://techfests.com/Tulsa/2017/Speakers/SeanSparkman/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/650631630_295x166.jpg",

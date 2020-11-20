@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "intro-windows-10-development",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/534898454_295x166.jpg"
+  ],
   "vimeo": "139191275",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda",
   "thumbnail": "https://i.vimeocdn.com/video/534898454_295x166.jpg",

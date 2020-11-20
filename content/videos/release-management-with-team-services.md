@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "release-management-with-team-services",
   "abstract": "<p>Learn the fundamentals of Release Management, how it relates to DevOps, and benefits it and continuous deployment bring to any organization. More specifically, I will present an overview of Release Management. I will also cover what Visual Studio Team Services and Team Foundation Services are. We will look at the new Cross-Platform build system, discuss DevOps practices, and benefits of Release Management. Walk away with the knowledge you need to get started with Release Management Team Services.</p>",
+  "description": "<p>Learn the fundamentals of Release Management, how it relates to DevOps, and benefits it and continuous deployment bring to any organization. More specifically, I will present an overview of Release Management. I will also cover what Visual Studio Team Services and Team Foundation Services are. We will look at the new Cross-Platform build system, discuss DevOps practices, and benefits of Release Management. Walk away with the knowledge you need to get started with Release Management Team Services.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/586639846_295x166.jpg"
+  ],
   "vimeo": "178890276",
   "moreinfo": "http://techfests.com/Tulsa/2016/Speakers/PaulHacker/",
   "thumbnail": "https://i.vimeocdn.com/video/586639846_295x166.jpg",

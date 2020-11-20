@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "automate-your-daily-checklist-with-pbm-and-cms",
   "abstract": "<p>\r\n\tThis talk will give you an introduction into monitoring SQL Server using Policy Based Management and Central Management System which is provided out of the box with SQL Server. I will then show you how you can combine these features with the Enterprise Policy Management Framework on codeplex to provide monitoring for your whole SQL Server farm. This topic assumes you know nothing about PBM and CMS and will include lots of examples with only a few PowerPoint slides.\r\n</p>",
+  "description": "<p>\r\n\tThis talk will give you an introduction into monitoring SQL Server using Policy Based Management and Central Management System which is provided out of the box with SQL Server. I will then show you how you can combine these features with the Enterprise Policy Management Framework on codeplex to provide monitoring for your whole SQL Server farm. This topic assumes you know nothing about PBM and CMS and will include lots of examples with only a few PowerPoint slides.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/533908124_295x166.jpg"
+  ],
   "vimeo": "138521251",
   "moreinfo": "http://www.sqlsaturday.com/422/Sessions/Details.aspx?sid=40080",
   "thumbnail": "https://i.vimeocdn.com/video/533908124_295x166.jpg",

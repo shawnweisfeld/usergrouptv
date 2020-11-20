@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "scales-measurements-and-encoding-schemes",
   "abstract": "<p>Programmers have learned how to design programs, but they haven't really thought about how to design data. First normal form requires that the columns in a table be scalar values. But how many database people actually know what a scale is or have any background in measurement theory? Likewise, how many people invent encoding schemes by simply numbering a list of values? This session should make you into a better database programmer.</p>",
+  "description": "<p>Programmers have learned how to design programs, but they haven't really thought about how to design data. First normal form requires that the columns in a table be scalar values. But how many database people actually know what a scale is or have any background in measurement theory? Likewise, how many people invent encoding schemes by simply numbering a list of values? This session should make you into a better database programmer.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/798800080_295x166.jpg"
+  ],
   "vimeo": "348234310",
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=95520",
   "thumbnail": "https://i.vimeocdn.com/video/798800080_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "a-brutal-journey-lessons-learned-while-traveling-the-world-as-a-ceocto",
   "abstract": "<p>A brutal journey: Lessons learned while traveling the world as a CEO/CTO.</p>",
+  "description": "<p>A brutal journey: Lessons learned while traveling the world as a CEO/CTO.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/660634741_295x166.jpg"
+  ],
   "vimeo": "238047871",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660634741_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "to-owasp-and-beyond-common-application-vulnerabilities",
   "abstract": "<p>Application security is talked about more than it is acted on, as evidenced by the vulnerabilities we continue to see every day. In order to highlight these types of vulnerabilities, OWASP (the Open Web Application Security Project) publishes its Top Ten web application vulnerabilities every 3 years. We'll review the current Top Ten list and then discuss other vulnerabilities that aren't included as well as combo attacks (combining multiple vulnerabilities into a finishing move). Along the way, we will laugh and cringe at tales of applications that didn't quite get it right. (Identities of the examples will not be disclosed so as to protect the fails -- and my job.)</p>",
+  "description": "<p>Application security is talked about more than it is acted on, as evidenced by the vulnerabilities we continue to see every day. In order to highlight these types of vulnerabilities, OWASP (the Open Web Application Security Project) publishes its Top Ten web application vulnerabilities every 3 years. We'll review the current Top Ten list and then discuss other vulnerabilities that aren't included as well as combo attacks (combining multiple vulnerabilities into a finishing move). Along the way, we will laugh and cringe at tales of applications that didn't quite get it right. (Identities of the examples will not be disclosed so as to protect the fails -- and my job.)</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/490858504_295x166.jpg"
+  ],
   "vimeo": "107456439",
   "moreinfo": "http://lrtechfest.com/speakers#david-felio",
   "thumbnail": "https://i.vimeocdn.com/video/490858504_295x166.jpg",

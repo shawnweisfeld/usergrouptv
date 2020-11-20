@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "azure-search",
   "abstract": "<p>Josh will be discussing Azure Search with us. </p>",
+  "description": "<p>Josh will be discussing Azure Search with us. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/492991147_295x166.jpg"
+  ],
   "vimeo": "109119350",
   "moreinfo": "http://www.meetup.com/azureaustin/events/208084832/",
   "thumbnail": "https://i.vimeocdn.com/video/492991147_295x166.jpg",

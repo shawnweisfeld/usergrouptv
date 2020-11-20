@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sql-server-reporting-services-develop-deploy-reports",
   "abstract": "<p>This session will begin with a brief architectural overview of Reporting Services and details on getting up and running with Reporting Services. Then, we will look at demonstrations of creating new reports by building connections and data sets using Report Builder and Visual Studio. Reporting design features including parameterization, dynamic drill-downs, matrix reports, charts, and sorting will be provided. Next, we'll look at deployment details, including scheduling reports, configuring caching, creating snapshots, and managing security. Time permitting, the presentation will include a demonstration of using Report Viewer controls within ASP.NET and Windows Forms applications.</p>",
+  "description": "<p>This session will begin with a brief architectural overview of Reporting Services and details on getting up and running with Reporting Services. Then, we will look at demonstrations of creating new reports by building connections and data sets using Report Builder and Visual Studio. Reporting design features including parameterization, dynamic drill-downs, matrix reports, charts, and sorting will be provided. Next, we'll look at deployment details, including scheduling reports, configuring caching, creating snapshots, and managing security. Time permitting, the presentation will include a demonstration of using Report Viewer controls within ASP.NET and Windows Forms applications.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495140135_295x166.jpg"
+  ],
   "vimeo": "110772156",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/495140135_295x166.jpg",

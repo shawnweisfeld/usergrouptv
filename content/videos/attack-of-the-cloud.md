@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "attack-of-the-cloud",
   "abstract": "<p>Cloud computing is great, but what do we put in the cloud? The web is advancing at an incredible pace and it&rsquo;s time to start building true Web Applications, not just web sites! Web Apps shake off the constraints of operating system specific frameworks, and free developers to work in open standards based environment. This session will cover a variety of topics ranging from ASP.NET MVC development, unit testing, REST APIs, JSON, JQuery, ExtJS, tips and tricks, lessons learned, and more. It will conclude with building a sample blog reader Web App, and then deploying that to Windows Azure.</p>",
+  "description": "<p>Cloud computing is great, but what do we put in the cloud? The web is advancing at an incredible pace and it&rsquo;s time to start building true Web Applications, not just web sites! Web Apps shake off the constraints of operating system specific frameworks, and free developers to work in open standards based environment. This session will cover a variety of topics ranging from ASP.NET MVC development, unit testing, REST APIs, JSON, JQuery, ExtJS, tips and tricks, lessons learned, and more. It will conclude with building a sample blog reader Web App, and then deploying that to Windows Azure.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/507048285_295x166.jpg"
+  ],
   "vimeo": "119598272",
   "moreinfo": "http://dallasasp.net",
   "thumbnail": "https://i.vimeocdn.com/video/507048285_295x166.jpg",

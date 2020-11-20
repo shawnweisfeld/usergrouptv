@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "what-is-the-ssis-catalog-and-why-do-i-care",
   "abstract": "<p>SQL Server 2012 redefined how SSIS packages are stored and executed. The advent of the SSISDB catalog gives a central point for working with SSIS projects deployed to the server. From this catalog we can set project and package parameter, configure environments, and monitor execution. There is no need to build in package logging because Microsoft had done it for us. This presentation covers what is in the catalog, how to deploy packages, environment, tips and tricks as well as monitoring package execution.</p>",
+  "description": "<p>SQL Server 2012 redefined how SSIS packages are stored and executed. The advent of the SSISDB catalog gives a central point for working with SSIS projects deployed to the server. From this catalog we can set project and package parameter, configure environments, and monitor execution. There is no need to build in package logging because Microsoft had done it for us. This presentation covers what is in the catalog, how to deploy packages, environment, tips and tricks as well as monitoring package execution.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/548363727_295x166.jpg"
+  ],
   "vimeo": "149213223",
   "moreinfo": "http://cactuss.sqlpass.org/Home.aspx?EventID=4229",
   "thumbnail": "https://i.vimeocdn.com/video/548363727_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "build-embedded-and-iot-solutions-with-microsoft-windows-iot-core",
   "abstract": "<p>Windows IoT is a family of products that enables rich edge devices and applications that can take full advantage of Azure IoT capabilities. We’ll explore the latest capabilities for Windows IoT, and then show how you can use all of your existing Windows development skills to create solutions ranging from fun hobby projects all the way through to critical Intelligent Edge solutions.</p>",
+  "description": "<p>Windows IoT is a family of products that enables rich edge devices and applications that can take full advantage of Azure IoT capabilities. We’ll explore the latest capabilities for Windows IoT, and then show how you can use all of your existing Windows development skills to create solutions ranging from fun hobby projects all the way through to critical Intelligent Edge solutions.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/796753701_295x166.jpg"
+  ],
   "vimeo": "346640681",
   "moreinfo": "https://developer.microsoft.com/en-us/windows/campaigns/us-tx-dallas",
   "thumbnail": "https://i.vimeocdn.com/video/796753701_295x166.jpg",

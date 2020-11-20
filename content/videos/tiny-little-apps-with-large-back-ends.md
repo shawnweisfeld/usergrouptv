@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "tiny-little-apps-with-large-back-ends",
   "abstract": "<p>Windows 8 is a fast, fluid and interactive user experience that enables amazingly beautiful and powerful applications supporting a wide range of devices.Windows Azure is a flexible and open cloud platform for a wide variety of applications ranging from web sites to enterprise and mobile applications. Like the day chocolate met peanut butter, the combination of Windows 8 and Windows Azure represents a powerful architecture for building the next generation of applications for the reimagined desktop. Join Senior Microsoft Technical Evangelist Chris Koenig for an in-depth look at how to take advantage of the scalable, cloud-based data services available through Windows Azure from within your Windows 8 Metro application.\r\n</p>",
+  "description": "<p>Windows 8 is a fast, fluid and interactive user experience that enables amazingly beautiful and powerful applications supporting a wide range of devices.Windows Azure is a flexible and open cloud platform for a wide variety of applications ranging from web sites to enterprise and mobile applications. Like the day chocolate met peanut butter, the combination of Windows 8 and Windows Azure represents a powerful architecture for building the next generation of applications for the reimagined desktop. Join Senior Microsoft Technical Evangelist Chris Koenig for an in-depth look at how to take advantage of the scalable, cloud-based data services available through Windows Azure from within your Windows 8 Metro application.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/485961858_295x166.jpg"
+  ],
   "vimeo": "103659784",
   "moreinfo": "http://www.ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/485961858_295x166.jpg",

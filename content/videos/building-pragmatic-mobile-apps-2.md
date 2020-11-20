@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "building-pragmatic-mobile-apps-2",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/661966343_295x166.jpg"
+  ],
   "vimeo": "239090660",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/661966343_295x166.jpg",

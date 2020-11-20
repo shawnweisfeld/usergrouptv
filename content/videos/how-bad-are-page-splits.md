@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "how-bad-are-page-splits",
   "abstract": "<p>We've always been told that Bad Page Splits hurt performance, but there is little showing actual performance decrements. This session will review the difference between good and bad page splits and continue with an example highlighting the performance decrements encountered during a bad page split as well as the on-going effects of the bad page split on a SELECT query. Results for this example indicate a much larger performance hit than anticipated.</p>",
+  "description": "<p>We've always been told that Bad Page Splits hurt performance, but there is little showing actual performance decrements. This session will review the difference between good and bad page splits and continue with an example highlighting the performance decrements encountered during a bad page split as well as the on-going effects of the bad page split on a SELECT query. Results for this example indicate a much larger performance hit than anticipated.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/859011737_295x166.jpg"
+  ],
   "vimeo": "393490179",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/pttzvqybcdbxb/",
   "thumbnail": "https://i.vimeocdn.com/video/859011737_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sql-in-azure-101",
   "abstract": "<p>Want to run SQL in Azure.  This session will cover all of your options from running SQL in a Windows or Linux VM to Azure SQL PaaS offerings. This is an introductory session.  At the end of this session you will have a good understanding of what SQL options are available in Azure and how to create and manage each one.</p>",
+  "description": "<p>Want to run SQL in Azure.  This session will cover all of your options from running SQL in a Windows or Linux VM to Azure SQL PaaS offerings. This is an introductory session.  At the end of this session you will have a good understanding of what SQL options are available in Azure and how to create and manage each one.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/798692584_295x166.jpg"
+  ],
   "vimeo": "348150972",
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=92123",
   "thumbnail": "https://i.vimeocdn.com/video/798692584_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sql-server-tips-from-the-field",
   "abstract": "",
+  "description": "",
+  "images": [
+    "https://i.vimeocdn.com/video/661277871_295x166.jpg"
+  ],
   "vimeo": "238551518",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/661277871_295x166.jpg",

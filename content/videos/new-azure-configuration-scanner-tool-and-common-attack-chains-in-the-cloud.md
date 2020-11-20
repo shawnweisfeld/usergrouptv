@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "new-azure-configuration-scanner-tool-and-common-attack-chains-in-the-cloud",
   "abstract": "<p>In Feb 2018 the Center for Internet Security (CIS) released their Azure Foundation Benchmark 1.0. Praetorian has been using this in pentration tests and built an automated scanner which will be open-sourced in the coming weeks. We will cover the capabilities of the scanner as well as common mis-configurations, weaknesses and attack chains in the cloud.</p>",
+  "description": "<p>In Feb 2018 the Center for Internet Security (CIS) released their Azure Foundation Benchmark 1.0. Praetorian has been using this in pentration tests and built an automated scanner which will be open-sourced in the coming weeks. We will cover the capabilities of the scanner as well as common mis-configurations, weaknesses and attack chains in the cloud.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/725423772_295x166.jpg"
+  ],
   "vimeo": "289714679",
   "moreinfo": "https://www.meetup.com/azureaustin/events/254215755/",
   "thumbnail": "https://i.vimeocdn.com/video/725423772_295x166.jpg",

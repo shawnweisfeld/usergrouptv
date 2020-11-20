@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "lets-build-a-pwa-showing-real-time-streaming-data",
   "abstract": "<p>We are going to build a application to display real time sensor data that can be displayed on any device that you own using Capacitor</p>",
+  "description": "<p>We are going to build a application to display real time sensor data that can be displayed on any device that you own using Capacitor</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/699642399_295x166.jpg"
+  ],
   "vimeo": "268822118",
   "moreinfo": "http://www.houstontechfest.com/",
   "thumbnail": "https://i.vimeocdn.com/video/699642399_295x166.jpg",

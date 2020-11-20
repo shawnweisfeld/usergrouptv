@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "entrepreneurship-as-a-freelancer",
   "abstract": "<p>It's estimated that nearly 1/3 of all workers are part of the freelance or gig economy. Some prefer to keep a day job and grow their side hustle. Some have left corporate life completely for the freedom of their own business. This session will explore the options, opportunities and pitfalls to avoid if choosing entrepreneurship through freelancing.</p>",
+  "description": "<p>It's estimated that nearly 1/3 of all workers are part of the freelance or gig economy. Some prefer to keep a day job and grow their side hustle. Some have left corporate life completely for the freedom of their own business. This session will explore the options, opportunities and pitfalls to avoid if choosing entrepreneurship through freelancing.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/650871867_295x166.jpg"
+  ],
   "vimeo": "230330945",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
   "thumbnail": "https://i.vimeocdn.com/video/650871867_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "introduction-to-node-js",
   "abstract": "<p>Let's talk about node.js. How does it work? What makes it different? When would you use it? And most importantly, why does it matter?\r\n</p>",
+  "description": "<p>Let's talk about node.js. How does it work? What makes it different? When would you use it? And most importantly, why does it matter?\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/482638242_295x166.jpg"
+  ],
   "vimeo": "100979908",
   "moreinfo": "http://techfests.com/Tulsa/2013/Speakers/GirishGangadharan/default.aspx",
   "thumbnail": "https://i.vimeocdn.com/video/482638242_295x166.jpg",

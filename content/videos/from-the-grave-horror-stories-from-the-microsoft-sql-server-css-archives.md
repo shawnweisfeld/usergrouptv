@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "from-the-grave-horror-stories-from-the-microsoft-sql-server-css-archives",
   "abstract": "<p>Do you like dread stories? Join me while I narrate a few horror stories from the real life, featuring the production server that was down for hours, or the Database corrupted to the bone, or the lethal demon that spreaded thru all the network. In this session, we will examinate a few stories, and how the issue was easy to avoid, if the best practices would have been there since the beggining.\r\n</p>",
+  "description": "<p>Do you like dread stories? Join me while I narrate a few horror stories from the real life, featuring the production server that was down for hours, or the Database corrupted to the bone, or the lethal demon that spreaded thru all the network. In this session, we will examinate a few stories, and how the issue was easy to avoid, if the best practices would have been there since the beggining.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/709500014_295x166.jpg"
+  ],
   "vimeo": "276874932",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=76993",
   "thumbnail": "https://i.vimeocdn.com/video/709500014_295x166.jpg",

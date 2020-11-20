@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "blockchain-and-its-relevance-to-you-your-industry",
   "abstract": "<p>Let’s explore the applicability of Blockchain as a Technology to your Industry and use cases. We will start with a brief overview of what it is, history, hype and reality & then explore Microsoft’s Offerings related to this Technology. We will conclude with my vision for its growth & adoption. In this talk we will: Introduction to Blockchain, Relevance to various Industries, Microsoft’s Success Engagements and Partnerships across Industries, Technology overview, Vision and a view into catalysts that might influence Blockchain’s adoption</p>",
+  "description": "<p>Let’s explore the applicability of Blockchain as a Technology to your Industry and use cases. We will start with a brief overview of what it is, history, hype and reality & then explore Microsoft’s Offerings related to this Technology. We will conclude with my vision for its growth & adoption. In this talk we will: Introduction to Blockchain, Relevance to various Industries, Microsoft’s Success Engagements and Partnerships across Industries, Technology overview, Vision and a view into catalysts that might influence Blockchain’s adoption</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/779161291_295x166.jpg"
+  ],
   "vimeo": "333236027",
   "moreinfo": "https://www.meetup.com/azureaustin/events/258070696/",
   "thumbnail": "https://i.vimeocdn.com/video/779161291_295x166.jpg",

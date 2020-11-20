@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "productive-front-end-test-driven-development-that-actually-works",
   "abstract": "<p>Often the phrase \"Rapid Application Development\" means writing code that is mostly meant to be thrown away, but does it have to? With Acceptance Testing and the right tooling, you can be confident that your productive and rapid application development workflow will live on and not break for years to come (yes YEARS). In this talk, we'll look at live coding a CRUD interface for a T-Shirt store fully test driven.We'll be using Ember, Ember CLI, Bulma, and QUnit as a base to confidently make the application.At the end, we will have a tested application with Continuous Integration on TravisCI and auto deployed to Surge.sh.</p>",
+  "description": "<p>Often the phrase \"Rapid Application Development\" means writing code that is mostly meant to be thrown away, but does it have to? With Acceptance Testing and the right tooling, you can be confident that your productive and rapid application development workflow will live on and not break for years to come (yes YEARS). In this talk, we'll look at live coding a CRUD interface for a T-Shirt store fully test driven.We'll be using Ember, Ember CLI, Bulma, and QUnit as a base to confidently make the application.At the end, we will have a tested application with Continuous Integration on TravisCI and auto deployed to Surge.sh.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/660021162_295x166.jpg"
+  ],
   "vimeo": "237568415",
   "moreinfo": "http://www.lrtechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/660021162_295x166.jpg",

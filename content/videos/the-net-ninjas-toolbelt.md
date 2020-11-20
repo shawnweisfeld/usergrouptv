@@ -6,6 +6,10 @@
   "draft": false,
   "slug": "the-net-ninjas-toolbelt",
   "abstract": "<p>As developers, we all have our favorite utilities, some used occassionally and then there are others that we refuse to work without. We might not use all of them everyday, but a good developer should know his options when the need arises. In this session, we&rsquo;ll discuss the tools, tips and tricks that can make you much more productive as a .Net developer.</p>",
+  "description": "<p>As developers, we all have our favorite utilities, some used occassionally and then there are others that we refuse to work without. We might not use all of them everyday, but a good developer should know his options when the need arises. In this session, we&rsquo;ll discuss the tools, tips and tricks that can make you much more productive as a .Net developer.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/492568863_295x166.jpg"
+  ],
   "vimeo": "108782839",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/492568863_295x166.jpg",

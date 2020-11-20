@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-internet-of-things",
   "abstract": "<p>The Internet of Things - why Cloud is merely the next step in our move to a ubiquitous computing world.  With sensors providing torrents of information, storage practically unlimited, and processing power able to be called upon or released in ever more complex patterns - we will observe how we've come to this point and where we'll be going when your processing power comes not just from one of the giant datacenters, but from your own car or even your shoe</p>",
+  "description": "<p>The Internet of Things - why Cloud is merely the next step in our move to a ubiquitous computing world.  With sensors providing torrents of information, storage practically unlimited, and processing power able to be called upon or released in ever more complex patterns - we will observe how we've come to this point and where we'll be going when your processing power comes not just from one of the giant datacenters, but from your own car or even your shoe</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/487540332_295x166.jpg"
+  ],
   "vimeo": "104884292",
   "moreinfo": "http://www.houstontechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/487540332_295x166.jpg",

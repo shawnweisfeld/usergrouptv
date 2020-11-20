@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "using-admin-tools-to-secure-your-joomla-website",
   "abstract": "<p>We'll take a look at best practices for keeping your site secured with Admin Tools.</p>",
+  "description": "<p>We'll take a look at best practices for keeping your site secured with Admin Tools.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/818415218_295x166.jpg"
+  ],
   "vimeo": "363308129",
   "moreinfo": "https://www.joomladaytexas.com/",
   "thumbnail": "https://i.vimeocdn.com/video/818415218_295x166.jpg",

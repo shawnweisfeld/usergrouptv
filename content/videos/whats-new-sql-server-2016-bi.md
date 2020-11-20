@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "whats-new-sql-server-2016-bi",
   "abstract": "<p>@SQLChicken aka Jorge Segarra from Microsoft will be in town and presenting on What's New with SQL Server 2016 (Business Intelligence)</p>",
+  "description": "<p>@SQLChicken aka Jorge Segarra from Microsoft will be in town and presenting on What's New with SQL Server 2016 (Business Intelligence)</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/572713688_295x166.jpg"
+  ],
   "vimeo": "168243299",
   "moreinfo": "http://www.meetup.com/Austin-SQL-Server-User-Group/events/231314425/",
   "thumbnail": "https://i.vimeocdn.com/video/572713688_295x166.jpg",

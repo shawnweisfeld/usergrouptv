@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "getting-started-with-webmatrix-and-razor",
   "abstract": "<p>David L. Penton will demonstrate how you can easily use WebMatrix to easily create websites and apply the Microsoft Razor syntax to your site and become quickly productive with their templating engine. Razor syntax is a simple programming syntax for embedding server-based code in a web page. In a web page that uses the Razor syntax, there are two kinds of content: client content and server code. David will demonstrate how this fits into the ASP.NET model and discuss new advancements in WebMatrix and Razor.</p>",
+  "description": "<p>David L. Penton will demonstrate how you can easily use WebMatrix to easily create websites and apply the Microsoft Razor syntax to your site and become quickly productive with their templating engine. Razor syntax is a simple programming syntax for embedding server-based code in a web page. In a web page that uses the Razor syntax, there are two kinds of content: client content and server code. David will demonstrate how this fits into the ASP.NET model and discuss new advancements in WebMatrix and Razor.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495397916_295x166.jpg"
+  ],
   "vimeo": "110958517",
   "moreinfo": "http://northdallas.net",
   "thumbnail": "https://i.vimeocdn.com/video/495397916_295x166.jpg",

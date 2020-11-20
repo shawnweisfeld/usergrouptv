@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "manage-your-shop-with-cms-and-policy-based-mgmt",
   "abstract": "<p>In this presentation we talk about Central Management Server and how it can help you manage a disperse environment. We will also cover what Policy Based Management is and how you can leverage its power to better manage your environment. With PBM we'll see what it can and cannot do to help you enforce standards in your enterprise. We will cover and demonstrate PBM for the beginner from creating and evaluating policies to receiving alerts on policy violations.</p>",
+  "description": "<p>In this presentation we talk about Central Management Server and how it can help you manage a disperse environment. We will also cover what Policy Based Management is and how you can leverage its power to better manage your environment. With PBM we'll see what it can and cannot do to help you enforce standards in your enterprise. We will cover and demonstrate PBM for the beginner from creating and evaluating policies to receiving alerts on policy violations.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/495923544_295x166.jpg"
+  ],
   "vimeo": "111342054",
   "moreinfo": null,
   "thumbnail": "https://i.vimeocdn.com/video/495923544_295x166.jpg",

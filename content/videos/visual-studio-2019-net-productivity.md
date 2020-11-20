@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "visual-studio-2019-net-productivity",
   "abstract": "Pump up your .NET productivity with the latest additions to Visual Studio and Visual Studio for Mac. This session includes tips for navigating, refactoring, testing, and cleaning up your code.",
+  "description": "Pump up your .NET productivity with the latest additions to Visual Studio and Visual Studio for Mac. This session includes tips for navigating, refactoring, testing, and cleaning up your code.",
+  "images": [
+    "https://i.vimeocdn.com/video/985853435_295x166.jpg"
+  ],
   "vimeo": "474179540",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/273739292/",
   "thumbnail": "https://i.vimeocdn.com/video/985853435_295x166.jpg",

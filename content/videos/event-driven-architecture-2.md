@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "event-driven-architecture-2",
   "abstract": "<p>In this presentation, I will do a code deep dive an open-source .NET messaging framework and EBS called MassTransit.</p>",
+  "description": "<p>In this presentation, I will do a code deep dive an open-source .NET messaging framework and EBS called MassTransit.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/499119012_295x166.jpg"
+  ],
   "vimeo": "113704886",
   "moreinfo": "http://schoolofdev.com",
   "thumbnail": "https://i.vimeocdn.com/video/499119012_295x166.jpg",

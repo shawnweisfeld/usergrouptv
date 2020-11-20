@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "getting-started-with-microsoft-power-virtual-agents",
   "abstract": "<p>Get started with Power Virtual Agents and create bots to integrate with your business data. Join us in this demo-heavy session.</p>",
+  "description": "<p>Get started with Power Virtual Agents and create bots to integrate with your business data. Join us in this demo-heavy session.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/845730114_295x166.jpg"
+  ],
   "vimeo": "384090672",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/lsljlmybccblb/",
   "thumbnail": "https://i.vimeocdn.com/video/845730114_295x166.jpg",

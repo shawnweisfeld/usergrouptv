@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "microservices-containers-devops-and-kubernetes-in-azure-cloud",
   "abstract": "<p>Developers are looking for ways to build applications quicker and with easier      deployment capabilities. Infrastructure architects are interested in increasing    server density and isolation between applications. A great solution for both  audiences is containerization on Azure. We will explore best practices for containerizing your existing application as well as image registries and integration with other tools </p>",
+  "description": "<p>Developers are looking for ways to build applications quicker and with easier      deployment capabilities. Infrastructure architects are interested in increasing    server density and isolation between applications. A great solution for both  audiences is containerization on Azure. We will explore best practices for containerizing your existing application as well as image registries and integration with other tools </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/696159574_295x166.jpg"
+  ],
   "vimeo": "266009649",
   "moreinfo": "https://global.azurebootcamp.net/locations/gobal-azure-boot-camp-2018-austin-tx/",
   "thumbnail": "https://i.vimeocdn.com/video/696159574_295x166.jpg",

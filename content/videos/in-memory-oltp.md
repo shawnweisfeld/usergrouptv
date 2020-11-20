@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "in-memory-oltp",
   "abstract": "<p> One of the most exciting new features in SQL Server 2014 is the ability to move your tables into memory. This sessions focuses on this in-memory OLTP capability. The session takes a practical look at in-memory OLTP, including its strengths and weaknesses, and gives practical guidance for using in-memory tables in SQL Server 2014. The session will use the latest CTP, so there are limitations in some of the features. Futures will be discussed where confirmed by Microsoft.</p>",
+  "description": "<p> One of the most exciting new features in SQL Server 2014 is the ability to move your tables into memory. This sessions focuses on this in-memory OLTP capability. The session takes a practical look at in-memory OLTP, including its strengths and weaknesses, and gives practical guidance for using in-memory tables in SQL Server 2014. The session will use the latest CTP, so there are limitations in some of the features. Futures will be discussed where confirmed by Microsoft.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/483492285_295x166.jpg"
+  ],
   "vimeo": "101662369",
   "moreinfo": "http://adnug.org/Home/september-9-2013-in-memory-oltp/",
   "thumbnail": "https://i.vimeocdn.com/video/483492285_295x166.jpg",

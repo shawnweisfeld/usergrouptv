@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "intro-to-infopath",
   "abstract": "<p>InfoPath is a powerful tool especially in concert with SharePoint. InfoPath is also not as understood as it could be. In this session, attendees will learn not only what InfoPath is but will also get some examples on how InfoPath can work for them and why it is so powerful. The version used for the session will be InfoPath 2013 on Office 365’s SharePoint Online platform.</p>",
+  "description": "<p>InfoPath is a powerful tool especially in concert with SharePoint. InfoPath is also not as understood as it could be. In this session, attendees will learn not only what InfoPath is but will also get some examples on how InfoPath can work for them and why it is so powerful. The version used for the session will be InfoPath 2013 on Office 365’s SharePoint Online platform.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/593963324_295x166.jpg"
+  ],
   "vimeo": "184508649",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
   "thumbnail": "https://i.vimeocdn.com/video/593963324_295x166.jpg",

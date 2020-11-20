@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "scaling-a-sql-data-warehouse-to-100s-of-tbs",
   "abstract": "<p>Learn how to architect a data warehouse that gets predictable and reliable performance into the HUNDREDS of terabytes. This presentation will focus on both hardware and software best practices for data warehouse specific workloads and will also provide and introduction to Parallel Data Warehouse V2 which scales into multi-petabytes.</p>",
+  "description": "<p>Learn how to architect a data warehouse that gets predictable and reliable performance into the HUNDREDS of terabytes. This presentation will focus on both hardware and software best practices for data warehouse specific workloads and will also provide and introduction to Parallel Data Warehouse V2 which scales into multi-petabytes.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/483490288_295x166.jpg"
+  ],
   "vimeo": "101660993",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=223&sessionid=14172",
   "thumbnail": "https://i.vimeocdn.com/video/483490288_295x166.jpg",

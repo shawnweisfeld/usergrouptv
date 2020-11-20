@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "web-security-how-secure-am-i",
   "abstract": "<p>David Penton will go over features and function of ASP.NET web security but explains how that only gets you so far, realizing that traditional security measures only provide a foundation. Learn the top flaws which include cross site scripting and popular forms of injection to watch out for and ways to mitigate those flaws in your day to day development.</p>",
+  "description": "<p>David Penton will go over features and function of ASP.NET web security but explains how that only gets you so far, realizing that traditional security measures only provide a foundation. Learn the top flaws which include cross site scripting and popular forms of injection to watch out for and ways to mitigate those flaws in your day to day development.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/507046778_295x166.jpg"
+  ],
   "vimeo": "119597354",
   "moreinfo": "http://northdallas.net",
   "thumbnail": "https://i.vimeocdn.com/video/507046778_295x166.jpg",

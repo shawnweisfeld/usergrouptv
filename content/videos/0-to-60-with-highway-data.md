@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "0-to-60-with-highway-data",
   "abstract": "In this session we will take an look at Highway.Data and how it can simplify your interaction with EntityFramework. Highway.Data is part of the Highway Framework being developed by Tim Rayburn and Devlin Liles. This framework pulls together all the best practices of thier Entity Framework 4.1 Expert's Cookbook book into a framework that makes consuming data much easier.",
+  "description": "In this session we will take an look at Highway.Data and how it can simplify your interaction with EntityFramework. Highway.Data is part of the Highway Framework being developed by Tim Rayburn and Devlin Liles. This framework pulls together all the best practices of thier Entity Framework 4.1 Expert's Cookbook book into a framework that makes consuming data much easier.",
+  "images": [
+    "https://i.vimeocdn.com/video/488138475_295x166.jpg"
+  ],
   "vimeo": "105367618",
   "moreinfo": "http://techfests.com/NWA/2012",
   "thumbnail": "https://i.vimeocdn.com/video/488138475_295x166.jpg",

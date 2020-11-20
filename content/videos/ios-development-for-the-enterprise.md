@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "ios-development-for-the-enterprise",
   "abstract": "<p>When most people think of iOS development, the natural assumption is Apple’s App Store. A lesser known option for development is enterprise or in-house development. In this session we will cover the unique considerations and advantages that enterprise development has. Since there is no review and approval process, we will learn that with great power comes great responsibility. Imagine creating your own “App Store” and distributing your apps to users that you get to interact with daily. We will also touch on some of the updated MDM services that Apple has rolled out and how they can make devices easy to manage. Get ready to see the fun world of enterprise app development!</p>",
+  "description": "<p>When most people think of iOS development, the natural assumption is Apple’s App Store. A lesser known option for development is enterprise or in-house development. In this session we will cover the unique considerations and advantages that enterprise development has. Since there is no review and approval process, we will learn that with great power comes great responsibility. Imagine creating your own “App Store” and distributing your apps to users that you get to interact with daily. We will also touch on some of the updated MDM services that Apple has rolled out and how they can make devices easy to manage. Get ready to see the fun world of enterprise app development!</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/491229077_295x166.jpg"
+  ],
   "vimeo": "107745935",
   "moreinfo": "http://lrtechfest.com/speakers#lj-wilson",
   "thumbnail": "https://i.vimeocdn.com/video/491229077_295x166.jpg",

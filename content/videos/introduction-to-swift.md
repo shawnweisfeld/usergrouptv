@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "introduction-to-swift",
   "abstract": "<p>In this session Mohammad Azam will introduce the Swift programming language which is released by Apple at WWDC 2014. Swift allows to write next generation apps for the iPhone and the Mac platform. The session will begin by introducing the main concepts behind Swift programming language. Azam will also explain the differences between Swift and Objective-C and how to interface between the Swift and Objective-C language in the same project.</p>",
+  "description": "<p>In this session Mohammad Azam will introduce the Swift programming language which is released by Apple at WWDC 2014. Swift allows to write next generation apps for the iPhone and the Mac platform. The session will begin by introducing the main concepts behind Swift programming language. Azam will also explain the differences between Swift and Objective-C and how to interface between the Swift and Objective-C language in the same project.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/489180707_295x166.jpg"
+  ],
   "vimeo": "106165980",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#0615",
   "thumbnail": "https://i.vimeocdn.com/video/489180707_295x166.jpg",

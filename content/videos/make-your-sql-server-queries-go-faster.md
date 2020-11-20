@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "make-your-sql-server-queries-go-faster",
   "abstract": "<p>Have you ever developed slowly running queries and wondered how to tune them? In this session you will learn some performance tuning tips from a DBA who has a developer background. We will go over how to identify bottleneck queries and how to measure them. We will go over basic indexing concepts for improving workloads. Finally, we will cover some coding patterns that are developer friendly but are not SQL Server database engine friendly and show you how to optimize them.</p>",
+  "description": "<p>Have you ever developed slowly running queries and wondered how to tune them? In this session you will learn some performance tuning tips from a DBA who has a developer background. We will go over how to identify bottleneck queries and how to measure them. We will go over basic indexing concepts for improving workloads. Finally, we will cover some coding patterns that are developer friendly but are not SQL Server database engine friendly and show you how to optimize them.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/503208295_295x166.jpg"
+  ],
   "vimeo": "116646685",
   "moreinfo": "http://adnug.org/Home/january-12-2015-make-your-sql-server-queries-go-faster/",
   "thumbnail": "https://i.vimeocdn.com/video/503208295_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "this-aint-your-mamas-css",
   "abstract": "<p>Have you checked out the cool stuff you can do with CSS3? With things like transitions, translations, and key-frame animations you can add some awesome effects for little effort and wow your users.</p>",
+  "description": "<p>Have you checked out the cool stuff you can do with CSS3? With things like transitions, translations, and key-frame animations you can add some awesome effects for little effort and wow your users.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/489184051_295x166.jpg"
+  ],
   "vimeo": "106168509",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#0114",
   "thumbnail": "https://i.vimeocdn.com/video/489184051_295x166.jpg",

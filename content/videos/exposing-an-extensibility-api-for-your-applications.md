@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "exposing-an-extensibility-api-for-your-applications",
   "abstract": "<p>Writing software that can be maintained is and always has been crucial. But so is writing software that can be enhanced and extended. It’s become quite commonplace for many apps today to expose APIs so externally written apps can have access to their data or their services. But imagine how cool it is to expose an API for changing or extending an application’s functionality. I’m talking about the ability to use the architecture of an application in order to enhance that system. This is the power of the patterns and techniques I’m going to show you in this session. They’re very useful and very geeky so bring your propeller hat.\r\n</p>",
+  "description": "<p>Writing software that can be maintained is and always has been crucial. But so is writing software that can be enhanced and extended. It’s become quite commonplace for many apps today to expose APIs so externally written apps can have access to their data or their services. But imagine how cool it is to expose an API for changing or extending an application’s functionality. I’m talking about the ability to use the architecture of an application in order to enhance that system. This is the power of the patterns and techniques I’m going to show you in this session. They’re very useful and very geeky so bring your propeller hat.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/571709066_295x166.jpg"
+  ],
   "vimeo": "167407126",
   "moreinfo": "http://www.meetup.com/developer-springboard/events/230644633/",
   "thumbnail": "https://i.vimeocdn.com/video/571709066_295x166.jpg",

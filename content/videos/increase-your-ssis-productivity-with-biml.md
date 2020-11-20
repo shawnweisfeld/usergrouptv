@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "increase-your-ssis-productivity-with-biml",
   "abstract": "<p>Business Intelligence Markup Language (Biml) is an XML language for Microsoft Business Intelligence that can take your Integration Services package development to the next level. Creating template packages added productivity to your Integration Services development effort. If the template design changes after development begins, a fair amount of rework to packages could be needed. See how Biml can help create template packages that can better adapt to changing business needs and allow for more comprehensive design or redesign. This session will be a demo based session that will inspire you to make Biml your number one integration services development tool. Learn how to use Biml scripts to create staging tables and integration services packages. Add metadata to your Biml scripts and really watch the possibilities expand. </p>",
+  "description": "<p>Business Intelligence Markup Language (Biml) is an XML language for Microsoft Business Intelligence that can take your Integration Services package development to the next level. Creating template packages added productivity to your Integration Services development effort. If the template design changes after development begins, a fair amount of rework to packages could be needed. See how Biml can help create template packages that can better adapt to changing business needs and allow for more comprehensive design or redesign. This session will be a demo based session that will inspire you to make Biml your number one integration services development tool. Learn how to use Biml scripts to create staging tables and integration services packages. Add metadata to your Biml scripts and really watch the possibilities expand. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/505669489_295x166.jpg"
+  ],
   "vimeo": "118596365",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=26061",
   "thumbnail": "https://i.vimeocdn.com/video/505669489_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "connect-your-desktop-apps-with-the-microsoft-graph",
   "abstract": "<p>Connect to your user’s data and a variety of services with the Microsoft Graph in your .NET, Win32, or UWP app.  As work and life come together, use the same code to leverage the Graph’s power for both consumer and enterprise accounts. We will spend this demo-focused session covering how to utilize the .NET Standard Graph libraries in your apps to connect them to the world.</p>",
+  "description": "<p>Connect to your user’s data and a variety of services with the Microsoft Graph in your .NET, Win32, or UWP app.  As work and life come together, use the same code to leverage the Graph’s power for both consumer and enterprise accounts. We will spend this demo-focused session covering how to utilize the .NET Standard Graph libraries in your apps to connect them to the world.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/796753583_295x166.jpg"
+  ],
   "vimeo": "346640612",
   "moreinfo": "https://developer.microsoft.com/en-us/windows/campaigns/us-tx-dallas",
   "thumbnail": "https://i.vimeocdn.com/video/796753583_295x166.jpg",

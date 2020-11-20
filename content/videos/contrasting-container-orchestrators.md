@@ -9,6 +9,10 @@
   "draft": false,
   "slug": "contrasting-container-orchestrators",
   "abstract": "<p>The most popular container orchestration systems will be lined-up, categorized and contrasted against one another: Docker Swarm, Kubernetes</p>",
+  "description": "<p>The most popular container orchestration systems will be lined-up, categorized and contrasted against one another: Docker Swarm, Kubernetes</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/567365277_295x166.jpg"
+  ],
   "vimeo": "163878023",
   "moreinfo": "http://www.meetup.com/Microservices-and-Containers-Austin/events/230391578/",
   "thumbnail": "https://i.vimeocdn.com/video/567365277_295x166.jpg",

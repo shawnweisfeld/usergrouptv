@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "ditch-the-designer-building-a-more-maintainable-model-with-the-entity-framework-code-first-api",
   "abstract": "<p>The whiz-bang visual designer features of the Entity Framework demo well, and may even work for small projects, but anyone who's worked with EF knows that on larger projects, the design surface quickly becomes unusable and a bottleneck to your development process. Thankfully, the Entity Framework team has heard our anguished cries and introduced a new API for defining your EF models, dubbed \"Code-First\". In this presentation, Brian will guide you through building a true POCO model, basic mapping techniques, and leveraging conventions to keep your mappings DRY.</p>",
+  "description": "<p>The whiz-bang visual designer features of the Entity Framework demo well, and may even work for small projects, but anyone who's worked with EF knows that on larger projects, the design surface quickly becomes unusable and a bottleneck to your development process. Thankfully, the Entity Framework team has heard our anguished cries and introduced a new API for defining your EF models, dubbed \"Code-First\". In this presentation, Brian will guide you through building a true POCO model, basic mapping techniques, and leveraging conventions to keep your mappings DRY.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/507717602_295x166.jpg"
+  ],
   "vimeo": "120047274",
   "moreinfo": "http://dallasasp.net/",
   "thumbnail": "https://i.vimeocdn.com/video/507717602_295x166.jpg",

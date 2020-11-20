@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "how-html5-and-the-cloud-will-make-you-a-mobile-champion",
   "abstract": "<p>As smartphones, tablets and touch first interfaces become an everyday experience modern client application experiences need to adapt. This session explores the what, why and how to address these demands to help the audience establish a winning strategy using HTML5 and the cloud to create immersive and context appropriate solutions for both consumer and enterprise scenarios.</p>",
+  "description": "<p>As smartphones, tablets and touch first interfaces become an everyday experience modern client application experiences need to adapt. This session explores the what, why and how to address these demands to help the audience establish a winning strategy using HTML5 and the cloud to create immersive and context appropriate solutions for both consumer and enterprise scenarios.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/494179115_295x166.jpg"
+  ],
   "vimeo": "110064555",
   "moreinfo": "http://nddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/494179115_295x166.jpg",

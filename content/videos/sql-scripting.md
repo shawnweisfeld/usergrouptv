@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "sql-scripting",
   "abstract": "<p>Loading from text files using BCP, parsing rows with cursors, temp tables, and crazy sub-queries!</p>",
+  "description": "<p>Loading from text files using BCP, parsing rows with cursors, temp tables, and crazy sub-queries!</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/490859944_295x166.jpg"
+  ],
   "vimeo": "107457573",
   "moreinfo": "http://lrtechfest.com/speakers#randy-walker",
   "thumbnail": "https://i.vimeocdn.com/video/490859944_295x166.jpg",

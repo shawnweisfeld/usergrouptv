@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "knockout-js",
   "abstract": "<p>You have been coding with WPF / Silverlight and managed code goodness using MVVM for a while and now you want to get back to your HTML and JavaScript roots, but you're afraid you'll have to give up your design patterns in the process.  If you want to keep the power of the MVVM pattern in the HTML world, you will want to join Bonas as he walks you through applying MVVM with knockout.js. Get a head start on knockout.js and get to know some of its powerful features.</p>",
+  "description": "<p>You have been coding with WPF / Silverlight and managed code goodness using MVVM for a while and now you want to get back to your HTML and JavaScript roots, but you're afraid you'll have to give up your design patterns in the process.  If you want to keep the power of the MVVM pattern in the HTML world, you will want to join Bonas as he walks you through applying MVVM with knockout.js. Get a head start on knockout.js and get to know some of its powerful features.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/496719690_295x166.jpg"
+  ],
   "vimeo": "111925759",
   "moreinfo": "http://www.vnextdallas.org",
   "thumbnail": "https://i.vimeocdn.com/video/496719690_295x166.jpg",

@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "coding-standards-effective-not-just-efficient",
   "abstract": "<p>Every project has a development standard. Sometimes the\r\nstandard is \"if it was hard to write, it should be hard to\r\nmaintain.\" Developing, and following, a corporate Best Practices\r\nstandard will lead to continuity, maintainability, robustness,\r\nand pride.</p>",
+  "description": "<p>Every project has a development standard. Sometimes the\r\nstandard is \"if it was hard to write, it should be hard to\r\nmaintain.\" Developing, and following, a corporate Best Practices\r\nstandard will lead to continuity, maintainability, robustness,\r\nand pride.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/767081660_295x166.jpg"
+  ],
   "vimeo": "323847343",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/259519233/",
   "thumbnail": "https://i.vimeocdn.com/video/767081660_295x166.jpg",

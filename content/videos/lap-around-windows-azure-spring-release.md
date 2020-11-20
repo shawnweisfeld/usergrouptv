@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "lap-around-windows-azure-spring-release",
   "abstract": "The Windows Azure Spring Release added a LOT of new features and services including durable VMs with our new IaaS offering, FREE web hosting with Windows Azure Web Sites, and a high-powered and flexible Azure Caching Service. Join Senior Technical Evangelist Chris Koenig for a demo-heavy tour of these new features, to see how you can get your applications up and running on Windows Azure today!",
+  "description": "The Windows Azure Spring Release added a LOT of new features and services including durable VMs with our new IaaS offering, FREE web hosting with Windows Azure Web Sites, and a high-powered and flexible Azure Caching Service. Join Senior Technical Evangelist Chris Koenig for a demo-heavy tour of these new features, to see how you can get your applications up and running on Windows Azure today!",
+  "images": [
+    "https://i.vimeocdn.com/video/488139654_295x166.jpg"
+  ],
   "vimeo": "105368665",
   "moreinfo": "http://techfests.com/NWA/2012",
   "thumbnail": "https://i.vimeocdn.com/video/488139654_295x166.jpg",

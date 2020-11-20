@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "database-design-from-user-requirements",
   "abstract": "<p>Designing databases from User requirements is an art form even when you focus on implementing a strict ANSI compliant system. There is more to the database design then table structures and T-SQL statements. In this session you will learn how to translate user requirements into a database design which utilizes the new and existing features to create an efficient and manageable system. </p>",
+  "description": "<p>Designing databases from User requirements is an art form even when you focus on implementing a strict ANSI compliant system. There is more to the database design then table structures and T-SQL statements. In this session you will learn how to translate user requirements into a database design which utilizes the new and existing features to create an efficient and manageable system. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/484299508_295x166.jpg"
+  ],
   "vimeo": "102317523",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=223&sessionid=13947",
   "thumbnail": "https://i.vimeocdn.com/video/484299508_295x166.jpg",

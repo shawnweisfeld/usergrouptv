@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-leading-measures-of-velocity",
   "abstract": "<p>Excellent managers everywhere like to measure and track the performance of their teams. Using metrics to track key indicators of performance helps leaders track the effectiveness of change initiatives. One problem with metrics is that those that are easy to track can be overly-emphasized and create easy suboptimizations. In the agile world, velocity is one of the most used and abused metrics despite the fact that it is a trailing indicator and easily compromised and misrepresented. This session will discuss the dangers of tracking velocity and propose some ideas for gathering and tracking leading indicators of a high performing team.</p>",
+  "description": "<p>Excellent managers everywhere like to measure and track the performance of their teams. Using metrics to track key indicators of performance helps leaders track the effectiveness of change initiatives. One problem with metrics is that those that are easy to track can be overly-emphasized and create easy suboptimizations. In the agile world, velocity is one of the most used and abused metrics despite the fact that it is a trailing indicator and easily compromised and misrepresented. This session will discuss the dangers of tracking velocity and propose some ideas for gathering and tracking leading indicators of a high performing team.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/537239050_295x166.jpg"
+  ],
   "vimeo": "140642108",
   "moreinfo": "http://measureup.io/the-leading-measures-of-velocity/",
   "thumbnail": "https://i.vimeocdn.com/video/537239050_295x166.jpg",

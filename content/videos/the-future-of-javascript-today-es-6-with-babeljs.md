@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "the-future-of-javascript-today-es-6-with-babeljs",
   "abstract": "<p>While Javascript has always been a capable language with its share of devotees, it hasn’t evolved much since its introduction. That’s all about to change. The ECMAScript 6 standard introduces a host of new features, from classes and block-scoped variables to a badly-needed module system. The best part is that you don’t have to wait for browser vendors to implement these new features; you can take advantage of them today with transpilers like babel. Come see how you can experience the future of Javascript today.\r\n</p>",
+  "description": "<p>While Javascript has always been a capable language with its share of devotees, it hasn’t evolved much since its introduction. That’s all about to change. The ECMAScript 6 standard introduces a host of new features, from classes and block-scoped variables to a badly-needed module system. The best part is that you don’t have to wait for browser vendors to implement these new features; you can take advantage of them today with transpilers like babel. Come see how you can experience the future of Javascript today.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/537394041_295x166.jpg"
+  ],
   "vimeo": "140742212",
   "moreinfo": "http://measureup.io/the-future-of-javascript-today-es-6-with-babeljs/",
   "thumbnail": "https://i.vimeocdn.com/video/537394041_295x166.jpg",

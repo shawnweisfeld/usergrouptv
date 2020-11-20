@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "hello-azure-functions-3",
   "abstract": "<p>Azure functions is a solution for easily running small pieces of code, or \"functions,\" in the cloud. You can write just the code you need for the problem at hand, without worrying about a whole application or the infrastructure to run it. In this talk we will provide an overview of the newest member to the Azure family, and then dig into to some code.</p>",
+  "description": "<p>Azure functions is a solution for easily running small pieces of code, or \"functions,\" in the cloud. You can write just the code you need for the problem at hand, without worrying about a whole application or the infrastructure to run it. In this talk we will provide an overview of the newest member to the Azure family, and then dig into to some code.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/586634847_295x166.jpg"
+  ],
   "vimeo": "178886452",
   "moreinfo": "http://techfests.com/Tulsa/2016/Speakers/ShawnWeisfeld/",
   "thumbnail": "https://i.vimeocdn.com/video/586634847_295x166.jpg",

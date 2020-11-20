@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "cloud-federated-security-in-action",
   "abstract": "<p>In this session we will go over some of the details of the federated model and explore the implementation steps required to leverage a federated model in your Azure application. We will build a simple application, secure it with the federated model and use a SignalR enabled monitoring tool to see the security behavior in action.</p>",
+  "description": "<p>In this session we will go over some of the details of the federated model and explore the implementation steps required to leverage a federated model in your Azure application. We will build a simple application, secure it with the federated model and use a SignalR enabled monitoring tool to see the security behavior in action.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/487540064_295x166.jpg"
+  ],
   "vimeo": "104884053",
   "moreinfo": "http://www.houstontechfest.com",
   "thumbnail": "https://i.vimeocdn.com/video/487540064_295x166.jpg",

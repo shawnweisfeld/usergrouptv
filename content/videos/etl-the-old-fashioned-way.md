@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "etl-the-old-fashioned-way",
   "abstract": "<p>What is ETL? SQL tools for ETL. Options for using the tools including format files. Pros and cons for each.</p>",
+  "description": "<p>What is ETL? SQL tools for ETL. Options for using the tools including format files. Pros and cons for each.</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/641739577_295x166.jpg"
+  ],
   "vimeo": "223039138",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/238573416/",
   "thumbnail": "https://i.vimeocdn.com/video/641739577_295x166.jpg",

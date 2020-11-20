@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "analyze-your-query-plan-like-a-microsoft-engineer-sql-2016-edition",
   "abstract": "<p>This session is a deep dive into query plans and is presented by a former Microsoft PFE (Field Engineer). Learn how a Microsoft Engineer looks at plans and go beyond the typical! There will be plenty of demos and a lot to learn. Join me as I cover the \"noteworthy\" query plan patterns that go beyond the normal areas that customer tend to investigate. This session covers SQL Server 2005 forward and includes the new SQL Server 2016 Query Store and Live Query Statistics. </p>",
+  "description": "<p>This session is a deep dive into query plans and is presented by a former Microsoft PFE (Field Engineer). Learn how a Microsoft Engineer looks at plans and go beyond the typical! There will be plenty of demos and a lot to learn. Join me as I cover the \"noteworthy\" query plan patterns that go beyond the normal areas that customer tend to investigate. This session covers SQL Server 2005 forward and includes the new SQL Server 2016 Query Store and Live Query Statistics. </p>",
+  "images": [
+    "https://i.vimeocdn.com/video/589679494_295x166.jpg"
+  ],
   "vimeo": "181196927",
   "moreinfo": "http://www.sqlsaturday.com/553/Sessions/Details.aspx?sid=51161",
   "thumbnail": "https://i.vimeocdn.com/video/589679494_295x166.jpg",

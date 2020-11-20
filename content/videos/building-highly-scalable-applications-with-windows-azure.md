@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "building-highly-scalable-applications-with-windows-azure",
   "abstract": "<p>You've heard of the cloud. You've heard of Windows Azure. You have a general understanding of what it is but you still don't fully understand how or why you would want to use it. If this sounds like you, you owe it to yourself to attend this session and get a foundational understanding of what exactly Windows Azure is and how you can leverage it in powerful ways in your new and existing .NET applications. In this session, Casey starts by covering some basic, high-level cloud-related topics to give you a solid foundation in cloud development, then moves on to how Windows Azure implements these ideas and makes them easily consumable to .NET developers. Finally, you will have the opportunity to dive in with Casey and build applications from scratch that leverage several important Azure features such as Azure storage and service bus.\r\n</p>",
+  "description": "<p>You've heard of the cloud. You've heard of Windows Azure. You have a general understanding of what it is but you still don't fully understand how or why you would want to use it. If this sounds like you, you owe it to yourself to attend this session and get a foundational understanding of what exactly Windows Azure is and how you can leverage it in powerful ways in your new and existing .NET applications. In this session, Casey starts by covering some basic, high-level cloud-related topics to give you a solid foundation in cloud development, then moves on to how Windows Azure implements these ideas and makes them easily consumable to .NET developers. Finally, you will have the opportunity to dive in with Casey and build applications from scratch that leverage several important Azure features such as Azure storage and service bus.\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/482640602_295x166.jpg"
+  ],
   "vimeo": "100981756",
   "moreinfo": "http://www.ddnug.net/",
   "thumbnail": "https://i.vimeocdn.com/video/482640602_295x166.jpg",

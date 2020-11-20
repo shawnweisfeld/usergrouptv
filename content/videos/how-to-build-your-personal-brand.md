@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "how-to-build-your-personal-brand",
   "abstract": "<p>You have a tremendous opportunity to build your personal brand. It doesn't matter if you work for a large corporation, or as an independent consultant. In this session, I'll walk you through how to leverage the learnings I've made while building my Guy in a Cube brand. Take an inside look at how I think about our content and how you can use that to gain attention to your brand!\r\n</p>",
+  "description": "<p>You have a tremendous opportunity to build your personal brand. It doesn't matter if you work for a large corporation, or as an independent consultant. In this session, I'll walk you through how to leverage the learnings I've made while building my Guy in a Cube brand. Take an inside look at how I think about our content and how you can use that to gain attention to your brand!\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/709492162_295x166.jpg"
+  ],
   "vimeo": "276868594",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=80502",
   "thumbnail": "https://i.vimeocdn.com/video/709492162_295x166.jpg",

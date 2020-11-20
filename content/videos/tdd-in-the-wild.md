@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "tdd-in-the-wild",
   "abstract": "<p>You know the rules of TDD, rules are made to be broken. Do you have questions like: How do I use TDD to design my code? How much coverage is enough? How do I know when to cut bait and move on? Does TDD have to be slower than just writing code? How do I convince my manager that we need to use TDD? Come get sane answers to these questions!\r\n</p>",
+  "description": "<p>You know the rules of TDD, rules are made to be broken. Do you have questions like: How do I use TDD to design my code? How much coverage is enough? How do I know when to cut bait and move on? Does TDD have to be slower than just writing code? How do I convince my manager that we need to use TDD? Come get sane answers to these questions!\r\n</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/486708987_295x166.jpg"
+  ],
   "vimeo": "104231838",
   "moreinfo": "http://www.improvingenterprises.com/",
   "thumbnail": "https://i.vimeocdn.com/video/486708987_295x166.jpg",

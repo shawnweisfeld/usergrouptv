@@ -8,6 +8,10 @@
   "draft": false,
   "slug": "whats-new-in-c-7",
   "abstract": "<p>Released just a few weeks ago (March 7, 2017, along with new version of VS), C# 7 brings some new and interesting features; like tuple, pattern matching, etc.  In this talk, I shall ‘show and tell’ some of these new features [with code examples], as well as few interesting ones that didn’t make the final cut. Sample code at https://github.com/reazhaq/CSharp7</p>",
+  "description": "<p>Released just a few weeks ago (March 7, 2017, along with new version of VS), C# 7 brings some new and interesting features; like tuple, pattern matching, etc.  In this talk, I shall ‘show and tell’ some of these new features [with code examples], as well as few interesting ones that didn’t make the final cut. Sample code at https://github.com/reazhaq/CSharp7</p>",
+  "images": [
+    "https://i.vimeocdn.com/video/633620291_295x166.jpg"
+  ],
   "vimeo": "216611448",
   "moreinfo": "http://adnug.org/Home/may-8-2017-whats-new-in-c-7/",
   "thumbnail": "https://i.vimeocdn.com/video/633620291_295x166.jpg",

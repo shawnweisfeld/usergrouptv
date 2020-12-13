@@ -26045,4 +26045,27 @@ From there, we will dive even deeper by simulating more advanced attacks from au
       <slug>azure-sql-database</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Forecasting in Power BI</Title>
+    <Url>https://usergroup.tv/videos/forecasting-in-power-bi/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1014455189_295x166.jpg</Thumbnail>
+    <Excerpt>Time Series Forecasting is essential for any size business to prepare and plan for the future. While Power BI has an in-built forecasting feature that is easy to use, it is severely limited, poorly documented and often misused. In this session, I will explain how Power BI forecasting works, its strengths/limitations, how to overcome those limitations and create advanced forecasting models.</Excerpt>
+    <PostDate>2020-12-09T00:00:00</PostDate>
+    <Id>1048</Id>
+    <Mp4Video>http://player.vimeo.com/external/490205969.hd.mp4?s=14ff06970b44e0032d09332ab7f99524163a9e34&amp;profile_id=174&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/490205969.sd.mp4?s=2190a7b0506caf098e91b096b8021ca7b0757a28&amp;profile_id=139&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Sandeep Pawar</name>
+      <slug>sandeep-pawar</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Power BI</name>
+      <slug>power-bi</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

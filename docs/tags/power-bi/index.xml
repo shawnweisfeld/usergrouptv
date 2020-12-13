@@ -6,22 +6,31 @@
     <description>Recent content in Power BI on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/power-bi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/power-bi/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Machine Learning in Power BI with Python</title>
-      <link>https://usergroup.tv/videos/machine-learning-in-power-bi-with-python/</link>
-      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      <title>Forecasting in Power BI</title>
+      <link>https://usergroup.tv/videos/forecasting-in-power-bi/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://usergroup.tv/videos/machine-learning-in-power-bi-with-python/</guid>
+      <guid>https://usergroup.tv/videos/forecasting-in-power-bi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Power BI</title>
       <link>https://usergroup.tv/videos/tag/power-bi/</link>
-      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning in Power BI with Python</title>
+      <link>https://usergroup.tv/videos/machine-learning-in-power-bi-with-python/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/machine-learning-in-power-bi-with-python/</guid>
       <description></description>
     </item>
     

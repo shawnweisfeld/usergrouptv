@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2020-11-20T23:35:32.8523329Z",
+  "date": "2020-12-13T14:43:03.2702524Z",
   "draft": false,
   "speakers": [
     {
@@ -3390,6 +3390,13 @@
       "slug": "samantha-needham",
       "thumbnail": "https://i.vimeocdn.com/video/650697719_295x166.jpg",
       "date": "2017-08-05T17:10:45",
+      "count": 1
+    },
+    {
+      "title": "Sandeep Pawar",
+      "slug": "sandeep-pawar",
+      "thumbnail": "https://i.vimeocdn.com/video/1014455189_295x166.jpg",
+      "date": "2020-12-09T00:00:00",
       "count": 1
     },
     {

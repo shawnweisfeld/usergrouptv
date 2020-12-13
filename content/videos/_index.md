@@ -1,12 +1,36 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2020-11-20T23:35:27.4970195Z",
+  "date": "2020-12-13T14:42:57.7697533Z",
   "draft": false,
-  "recordingCount": "1,042",
-  "speakerCount": "583",
+  "recordingCount": "1,043",
+  "speakerCount": "584",
   "groupCount": "66",
   "newest": [
+    {
+      "title": "Forecasting in Power BI",
+      "slug": "forecasting-in-power-bi",
+      "thumbnail": "https://i.vimeocdn.com/video/1014455189_295x166.jpg",
+      "date": "2020-12-09T00:00:00",
+      "speakers": [
+        {
+          "name": "Sandeep Pawar",
+          "slug": "sandeep-pawar"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "Cryptography 101",
       "slug": "cryptography-101-2",
@@ -512,30 +536,6 @@
         {
           "name": "Event Hubs",
           "slug": "event-hubs"
-        }
-      ]
-    },
-    {
-      "title": "Drinking a river of IoT data with Akka.NET",
-      "slug": "drinking-a-river-of-iot-data-with-akka-net",
-      "thumbnail": "https://i.vimeocdn.com/video/944750558_295x166.jpg",
-      "date": "2020-08-17T15:14:10",
-      "speakers": [
-        {
-          "name": "Hannes Lowette",
-          "slug": "hannes-lowette"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin .NET UG",
-          "slug": "austin-net-ug"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Akka.NET",
-          "slug": "akka-net"
         }
       ]
     }

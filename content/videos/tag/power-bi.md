@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "power-bi",
-  "date": "2020-10-14T00:00:00",
+  "date": "2020-12-09T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Forecasting in Power BI",
+      "slug": "forecasting-in-power-bi",
+      "thumbnail": "https://i.vimeocdn.com/video/1014455189_295x166.jpg",
+      "date": "2020-12-09T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Sandeep Pawar",
+          "slug": "sandeep-pawar"
+        }
+      ]
+    },
     {
       "title": "Machine Learning in Power BI with Python",
       "slug": "machine-learning-in-power-bi-with-python",

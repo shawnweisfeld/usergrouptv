@@ -6,22 +6,58 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Dec 2020 14:43:04 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Dec 2020 15:26:17 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Power BI</title>
-      <link>https://usergroup.tv/videos/tag/power-bi/</link>
-      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      <title>Azure</title>
+      <link>https://usergroup.tv/videos/tag/azure/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
+      <guid>https://usergroup.tv/videos/tag/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event Hubs</title>
+      <link>https://usergroup.tv/videos/tag/event-hubs/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/event-hubs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>.net</title>
       <link>https://usergroup.tv/videos/tag/net/</link>
-      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASP.NET</title>
+      <link>https://usergroup.tv/videos/tag/asp-net/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/asp-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blazor</title>
+      <link>https://usergroup.tv/videos/tag/blazor/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/blazor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>https://usergroup.tv/videos/tag/power-bi/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
       <description></description>
     </item>
     
@@ -53,29 +89,11 @@
     </item>
     
     <item>
-      <title>ASP.NET</title>
-      <link>https://usergroup.tv/videos/tag/asp-net/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/asp-net/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ASP.NET MVC</title>
       <link>https://usergroup.tv/videos/tag/asp-net-mvc/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/asp-net-mvc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure</title>
-      <link>https://usergroup.tv/videos/tag/azure/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/azure/</guid>
       <description></description>
     </item>
     
@@ -179,15 +197,6 @@
     </item>
     
     <item>
-      <title>Blazor</title>
-      <link>https://usergroup.tv/videos/tag/blazor/</link>
-      <pubDate>Mon, 14 Sep 2020 17:44:41 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/blazor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Dapr</title>
       <link>https://usergroup.tv/videos/tag/dapr/</link>
       <pubDate>Tue, 08 Sep 2020 13:49:27 +0000</pubDate>
@@ -202,15 +211,6 @@
       <pubDate>Tue, 25 Aug 2020 13:52:05 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/static-web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Event Hubs</title>
-      <link>https://usergroup.tv/videos/tag/event-hubs/</link>
-      <pubDate>Tue, 18 Aug 2020 15:15:50 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/event-hubs/</guid>
       <description></description>
     </item>
     
@@ -292,15 +292,6 @@
       <pubDate>Wed, 10 Jun 2020 16:35:48 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/power-automate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blazer</title>
-      <link>https://usergroup.tv/videos/tag/blazer/</link>
-      <pubDate>Tue, 26 May 2020 14:03:48 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/blazer/</guid>
       <description></description>
     </item>
     

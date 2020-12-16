@@ -5,9 +5,35 @@
     "Austin .NET UG"
   ],
   "slug": "austin-net-ug",
-  "date": "2020-11-09T00:00:00",
+  "date": "2020-12-14T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": ".NET 5 and .NET 6",
+      "slug": "net-5-and-net-6",
+      "thumbnail": "https://i.vimeocdn.com/video/1016803292_295x166.jpg",
+      "date": "2020-12-14T00:00:00",
+      "speakers": [
+        {
+          "name": "Scott Hunter",
+          "slug": "scott-hunter"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "ASP.NET",
+          "slug": "asp-net"
+        },
+        {
+          "name": "Blazor",
+          "slug": "blazor"
+        }
+      ]
+    },
     {
       "title": "HtmlTags: The TagHelper library you didn’t know you needed",
       "slug": "htmltags-the-taghelper-library-you-didnt-know-you-needed",

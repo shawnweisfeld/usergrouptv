@@ -6,7 +6,115 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Dec 2020 14:42:57 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Dec 2020 15:26:16 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure</title>
+      <link>https://usergroup.tv/videos/tag/azure/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Austin Meetup</title>
+      <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/azure-austin-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chad Green</title>
+      <link>https://usergroup.tv/videos/category/speaker/chad-green/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/chad-green/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFW Azure User Group</title>
+      <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event Hubs</title>
+      <link>https://usergroup.tv/videos/tag/event-hubs/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/event-hubs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event-Driven Architecture in the Cloud</title>
+      <link>https://usergroup.tv/videos/eventdriven-architecture-in-the-cloud/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/eventdriven-architecture-in-the-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>.net</title>
+      <link>https://usergroup.tv/videos/tag/net/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>.NET 5 and .NET 6</title>
+      <link>https://usergroup.tv/videos/net-5-and-net-6/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/net-5-and-net-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASP.NET</title>
+      <link>https://usergroup.tv/videos/tag/asp-net/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/asp-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Austin .NET UG</title>
+      <link>https://usergroup.tv/videos/category/group/austin-net-ug/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/austin-net-ug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blazor</title>
+      <link>https://usergroup.tv/videos/tag/blazor/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/blazor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scott Hunter</title>
+      <link>https://usergroup.tv/videos/category/speaker/scott-hunter/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/scott-hunter/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Austin Power BI User Group</title>
       <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
@@ -40,24 +148,6 @@
       <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/sandeep-pawar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>.net</title>
-      <link>https://usergroup.tv/videos/tag/net/</link>
-      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/net/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure Austin Meetup</title>
-      <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
-      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/azure-austin-meetup/</guid>
       <description></description>
     </item>
     
@@ -103,15 +193,6 @@
       <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/cryptography-101-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DFW Azure User Group</title>
-      <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
-      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
       <description></description>
     </item>
     
@@ -170,15 +251,6 @@
     </item>
     
     <item>
-      <title>ASP.NET</title>
-      <link>https://usergroup.tv/videos/tag/asp-net/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/asp-net/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ASP.NET MVC</title>
       <link>https://usergroup.tv/videos/tag/asp-net-mvc/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
@@ -188,38 +260,11 @@
     </item>
     
     <item>
-      <title>Austin .NET UG</title>
-      <link>https://usergroup.tv/videos/category/group/austin-net-ug/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/austin-net-ug/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure</title>
-      <link>https://usergroup.tv/videos/tag/azure/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/azure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Building a .NET Application Using Azure Cosmos DB</title>
       <link>https://usergroup.tv/videos/building-a-net-application-using-azure-cosmos-db/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/building-a-net-application-using-azure-cosmos-db/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chad Green</title>
-      <link>https://usergroup.tv/videos/category/speaker/chad-green/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/speaker/chad-green/</guid>
       <description></description>
     </item>
     
@@ -488,15 +533,6 @@ What do we use your information for?</description>
     </item>
     
     <item>
-      <title>Blazor</title>
-      <link>https://usergroup.tv/videos/tag/blazor/</link>
-      <pubDate>Mon, 14 Sep 2020 17:44:41 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/blazor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Blazor Architecture Patterns</title>
       <link>https://usergroup.tv/videos/blazor-architecture-patterns/</link>
       <pubDate>Mon, 14 Sep 2020 17:44:41 +0000</pubDate>
@@ -592,15 +628,6 @@ What do we use your information for?</description>
       <pubDate>Tue, 18 Aug 2020 15:15:50 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/azure-event-hub-stream-analytics-with-power-bi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Event Hubs</title>
-      <link>https://usergroup.tv/videos/tag/event-hubs/</link>
-      <pubDate>Tue, 18 Aug 2020 15:15:50 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/event-hubs/</guid>
       <description></description>
     </item>
     
@@ -898,24 +925,6 @@ What do we use your information for?</description>
       <pubDate>Tue, 26 May 2020 14:03:48 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/a-meeting-with-scott-hunter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blazer</title>
-      <link>https://usergroup.tv/videos/tag/blazer/</link>
-      <pubDate>Tue, 26 May 2020 14:03:48 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/blazer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scott Hunter</title>
-      <link>https://usergroup.tv/videos/category/speaker/scott-hunter/</link>
-      <pubDate>Tue, 26 May 2020 14:03:48 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/speaker/scott-hunter/</guid>
       <description></description>
     </item>
     

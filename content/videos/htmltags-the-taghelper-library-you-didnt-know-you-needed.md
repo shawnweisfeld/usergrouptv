@@ -37,7 +37,7 @@
     {
       "name": "ASP.NET",
       "slug": "asp-net",
-      "count": 5
+      "count": 6
     },
     {
       "name": "HtmlTags",
@@ -49,7 +49,7 @@
     {
       "name": "Austin .NET UG",
       "slug": "austin-net-ug",
-      "count": 53
+      "count": 54
     }
   ]
 }

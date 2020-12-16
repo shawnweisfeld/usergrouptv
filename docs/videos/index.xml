@@ -6,7 +6,25 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Dec 2020 14:42:57 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Dec 2020 15:26:16 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Event-Driven Architecture in the Cloud</title>
+      <link>https://usergroup.tv/videos/eventdriven-architecture-in-the-cloud/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/eventdriven-architecture-in-the-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>.NET 5 and .NET 6</title>
+      <link>https://usergroup.tv/videos/net-5-and-net-6/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/net-5-and-net-6/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Forecasting in Power BI</title>
       <link>https://usergroup.tv/videos/forecasting-in-power-bi/</link>

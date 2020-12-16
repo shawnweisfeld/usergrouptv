@@ -5,9 +5,31 @@
     "DFW Azure User Group"
   ],
   "slug": "dfw-azure-user-group",
-  "date": "2020-11-17T00:00:00",
+  "date": "2020-12-15T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Event-Driven Architecture in the Cloud",
+      "slug": "eventdriven-architecture-in-the-cloud",
+      "thumbnail": "https://i.vimeocdn.com/video/1016814023_295x166.jpg",
+      "date": "2020-12-15T00:00:00",
+      "speakers": [
+        {
+          "name": "Chad Green",
+          "slug": "chad-green"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Event Hubs",
+          "slug": "event-hubs"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
+      ]
+    },
     {
       "title": "SQL Server to Azure SQL: Performance and Availability",
       "slug": "sql-server-to-azure-sql-performance-and-availability",

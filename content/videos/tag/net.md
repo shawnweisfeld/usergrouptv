@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "net",
-  "date": "2020-11-17T00:00:00",
+  "date": "2020-12-14T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": ".NET 5 and .NET 6",
+      "slug": "net-5-and-net-6",
+      "thumbnail": "https://i.vimeocdn.com/video/1016803292_295x166.jpg",
+      "date": "2020-12-14T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Scott Hunter",
+          "slug": "scott-hunter"
+        }
+      ]
+    },
     {
       "title": "Cryptography 101",
       "slug": "cryptography-101-2",

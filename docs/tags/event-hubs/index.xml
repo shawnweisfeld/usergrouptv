@@ -6,22 +6,31 @@
     <description>Recent content in Event Hubs on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2020 15:15:50 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/event-hubs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/event-hubs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Event Hubs</title>
+      <link>https://usergroup.tv/videos/tag/event-hubs/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/event-hubs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event-Driven Architecture in the Cloud</title>
+      <link>https://usergroup.tv/videos/eventdriven-architecture-in-the-cloud/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/eventdriven-architecture-in-the-cloud/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Azure Event Hub &amp; Stream Analytics with Power BI</title>
       <link>https://usergroup.tv/videos/azure-event-hub-stream-analytics-with-power-bi/</link>
       <pubDate>Tue, 18 Aug 2020 15:15:50 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/azure-event-hub-stream-analytics-with-power-bi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Event Hubs</title>
-      <link>https://usergroup.tv/videos/tag/event-hubs/</link>
-      <pubDate>Tue, 18 Aug 2020 15:15:50 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/event-hubs/</guid>
       <description></description>
     </item>
     

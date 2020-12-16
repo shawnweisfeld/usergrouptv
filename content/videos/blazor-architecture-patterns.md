@@ -30,14 +30,14 @@
     {
       "name": "Blazor",
       "slug": "blazor",
-      "count": 1
+      "count": 3
     }
   ],
   "meetups": [
     {
       "name": "Austin .NET UG",
       "slug": "austin-net-ug",
-      "count": 53
+      "count": 54
     }
   ]
 }

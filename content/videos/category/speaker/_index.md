@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2020-12-13T14:43:03.2702524Z",
+  "date": "2020-12-16T15:26:17.2752802Z",
   "draft": false,
   "speakers": [
     {
@@ -609,9 +609,9 @@
     {
       "title": "Chad Green",
       "slug": "chad-green",
-      "thumbnail": "https://i.vimeocdn.com/video/994396316_295x166.jpg",
-      "date": "2020-11-09T00:00:00",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1016814023_295x166.jpg",
+      "date": "2020-12-15T00:00:00",
+      "count": 2
     },
     {
       "title": "Chad Howell",
@@ -3437,9 +3437,9 @@
     {
       "title": "Scott Hunter",
       "slug": "scott-hunter",
-      "thumbnail": "https://i.vimeocdn.com/video/901233634_295x166.jpg",
-      "date": "2020-05-26T14:03:48",
-      "count": 3
+      "thumbnail": "https://i.vimeocdn.com/video/1016803292_295x166.jpg",
+      "date": "2020-12-14T00:00:00",
+      "count": 4
     },
     {
       "title": "Scott J Peterson",

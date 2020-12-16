@@ -245,16 +245,16 @@
           "slug": "net"
         },
         {
-          "name": "Blazer",
-          "slug": "blazer"
-        },
-        {
           "name": ".NET Core",
           "slug": "net-core"
         },
         {
           "name": "ASP.NET",
           "slug": "asp-net"
+        },
+        {
+          "name": "Blazor",
+          "slug": "blazor"
         }
       ]
     },

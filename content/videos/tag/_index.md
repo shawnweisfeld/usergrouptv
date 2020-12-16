@@ -1,15 +1,15 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2020-12-13T14:43:04.3782983Z",
+  "date": "2020-12-16T15:26:17.8963386Z",
   "draft": false,
   "ugtvtags": [
     {
       "title": ".net",
       "slug": "net",
-      "thumbnail": "https://i.vimeocdn.com/video/999196637_295x166.jpg",
-      "date": "2020-11-17T00:00:00",
-      "count": 11
+      "thumbnail": "https://i.vimeocdn.com/video/1016803292_295x166.jpg",
+      "date": "2020-12-14T00:00:00",
+      "count": 12
     },
     {
       "title": ".NET Core",
@@ -147,9 +147,9 @@
     {
       "title": "ASP.NET",
       "slug": "asp-net",
-      "thumbnail": "https://i.vimeocdn.com/video/994396762_295x166.jpg",
-      "date": "2020-11-09T00:00:00",
-      "count": 5
+      "thumbnail": "https://i.vimeocdn.com/video/1016803292_295x166.jpg",
+      "date": "2020-12-14T00:00:00",
+      "count": 6
     },
     {
       "title": "ASP.NET Core",
@@ -224,9 +224,9 @@
     {
       "title": "Azure",
       "slug": "azure",
-      "thumbnail": "https://i.vimeocdn.com/video/994396316_295x166.jpg",
-      "date": "2020-11-09T00:00:00",
-      "count": 37
+      "thumbnail": "https://i.vimeocdn.com/video/1016814023_295x166.jpg",
+      "date": "2020-12-15T00:00:00",
+      "count": 38
     },
     {
       "title": "Azure AD",
@@ -418,18 +418,11 @@
       "count": 1
     },
     {
-      "title": "Blazer",
-      "slug": "blazer",
-      "thumbnail": "https://i.vimeocdn.com/video/901233634_295x166.jpg",
-      "date": "2020-05-26T14:03:48",
-      "count": 1
-    },
-    {
       "title": "Blazor",
       "slug": "blazor",
-      "thumbnail": "https://i.vimeocdn.com/video/958530841_295x166.jpg",
-      "date": "2020-09-14T17:44:41",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1016803292_295x166.jpg",
+      "date": "2020-12-14T00:00:00",
+      "count": 3
     },
     {
       "title": "Blend",
@@ -1036,9 +1029,9 @@
     {
       "title": "Event Hubs",
       "slug": "event-hubs",
-      "thumbnail": "https://i.vimeocdn.com/video/944756978_295x166.jpg",
-      "date": "2020-08-18T15:15:50",
-      "count": 2
+      "thumbnail": "https://i.vimeocdn.com/video/1016814023_295x166.jpg",
+      "date": "2020-12-15T00:00:00",
+      "count": 3
     },
     {
       "title": "Event Sourcing",

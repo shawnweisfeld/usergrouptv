@@ -5,9 +5,31 @@
   ],
   "type": "tag",
   "slug": "event-hubs",
-  "date": "2020-08-18T15:15:50",
+  "date": "2020-12-15T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Event-Driven Architecture in the Cloud",
+      "slug": "eventdriven-architecture-in-the-cloud",
+      "thumbnail": "https://i.vimeocdn.com/video/1016814023_295x166.jpg",
+      "date": "2020-12-15T00:00:00",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Chad Green",
+          "slug": "chad-green"
+        }
+      ]
+    },
     {
       "title": "Azure Event Hub & Stream Analytics with Power BI",
       "slug": "azure-event-hub-stream-analytics-with-power-bi",

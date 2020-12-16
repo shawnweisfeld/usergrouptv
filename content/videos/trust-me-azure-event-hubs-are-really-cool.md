@@ -30,7 +30,7 @@
     {
       "name": "Event Hubs",
       "slug": "event-hubs",
-      "count": 2
+      "count": 3
     }
   ],
   "meetups": [

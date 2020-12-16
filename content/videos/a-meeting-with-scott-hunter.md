@@ -3,9 +3,9 @@
   "type": "recording",
   "tags": [
     ".net",
-    "Blazer",
     ".NET Core",
-    "ASP.NET"
+    "ASP.NET",
+    "Blazor"
   ],
   "date": "2020-05-26T14:03:48",
   "draft": false,
@@ -26,19 +26,14 @@
       "name": "Scott Hunter",
       "slug": "scott-hunter",
       "bio": "<p>Scott Hunter is responsible for the Microsoft’s .NET platform, which includes the .NET Framework, .NET Core, ASP.NET, Entity Framework, .NET Tools, Web Tools and the managed languages (C#, F# and VB). Prior to leading the .NET Platform, Hunter helped the Azure Developer Experience team build the Azure SDK’s, App Service Tooling, Azure Redis Cache, Azure API Management, ASP.NET, Entity Framework and the Web Tooling. In his spare time he loves hiking mountains in Washington State and around the world.</p>",
-      "count": 3
+      "count": 4
     }
   ],
   "ugtvtags": [
     {
       "name": ".net",
       "slug": "net",
-      "count": 11
-    },
-    {
-      "name": "Blazer",
-      "slug": "blazer",
-      "count": 1
+      "count": 12
     },
     {
       "name": ".NET Core",
@@ -48,7 +43,12 @@
     {
       "name": "ASP.NET",
       "slug": "asp-net",
-      "count": 5
+      "count": 6
+    },
+    {
+      "name": "Blazor",
+      "slug": "blazor",
+      "count": 3
     }
   ],
   "meetups": [

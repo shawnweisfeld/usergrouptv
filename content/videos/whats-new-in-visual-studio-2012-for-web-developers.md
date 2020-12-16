@@ -24,7 +24,7 @@
       "name": "Scott Hunter",
       "slug": "scott-hunter",
       "bio": "<p>Scott Hunter is responsible for the Microsoft’s .NET platform, which includes the .NET Framework, .NET Core, ASP.NET, Entity Framework, .NET Tools, Web Tools and the managed languages (C#, F# and VB). Prior to leading the .NET Platform, Hunter helped the Azure Developer Experience team build the Azure SDK’s, App Service Tooling, Azure Redis Cache, Azure API Management, ASP.NET, Entity Framework and the Web Tooling. In his spare time he loves hiking mountains in Washington State and around the world.</p>",
-      "count": 3
+      "count": 4
     }
   ],
   "ugtvtags": [

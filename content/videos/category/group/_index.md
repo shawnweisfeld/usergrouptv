@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2020-12-13T14:43:05.9390184Z",
+  "date": "2020-12-16T15:26:18.403594Z",
   "draft": false,
   "meetups": [
     {
@@ -49,9 +49,9 @@
     {
       "title": "Austin .NET UG",
       "slug": "austin-net-ug",
-      "thumbnail": "https://i.vimeocdn.com/video/994396762_295x166.jpg",
-      "date": "2020-11-09T00:00:00",
-      "count": 53
+      "thumbnail": "https://i.vimeocdn.com/video/1016803292_295x166.jpg",
+      "date": "2020-12-14T00:00:00",
+      "count": 54
     },
     {
       "title": "Austin Agile",
@@ -133,9 +133,9 @@
     {
       "title": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "thumbnail": "https://i.vimeocdn.com/video/999191466_295x166.jpg",
-      "date": "2020-11-17T00:00:00",
-      "count": 43
+      "thumbnail": "https://i.vimeocdn.com/video/1016814023_295x166.jpg",
+      "date": "2020-12-15T00:00:00",
+      "count": 44
     },
     {
       "title": "Capitol Area Central Texas Users of SQL Server",
@@ -259,9 +259,9 @@
     {
       "title": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/999191466_295x166.jpg",
-      "date": "2020-11-17T00:00:00",
-      "count": 7
+      "thumbnail": "https://i.vimeocdn.com/video/1016814023_295x166.jpg",
+      "date": "2020-12-15T00:00:00",
+      "count": 8
     },
     {
       "title": "DFW C++ User Group",

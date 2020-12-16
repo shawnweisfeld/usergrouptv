@@ -8424,16 +8424,16 @@ tier is a good starting point for your existing workload(s) and how to monitor y
       <slug>net</slug>
     </Tags>
     <Tags>
-      <name>Blazer</name>
-      <slug>blazer</slug>
-    </Tags>
-    <Tags>
       <name>.NET Core</name>
       <slug>net-core</slug>
     </Tags>
     <Tags>
       <name>ASP.NET</name>
       <slug>asp-net</slug>
+    </Tags>
+    <Tags>
+      <name>Blazor</name>
+      <slug>blazor</slug>
     </Tags>
   </Post>
   <Post>
@@ -26066,6 +26066,68 @@ From there, we will dive even deeper by simulating more advanced attacks from au
     <Tags>
       <name>Power BI</name>
       <slug>power-bi</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Event-Driven Architecture in the Cloud</Title>
+    <Url>https://usergroup.tv/videos/eventdriven-architecture-in-the-cloud/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1016814023_295x166.jpg</Thumbnail>
+    <Excerpt>Event-driven architectures is a versatile approach to designing and integrating complex software systems with loosely coupled components. While not a new concept, event-driven architecture is seeing a new life as applications move to cloud as it provides much more robust possibilities to solve business problems of today and in the future. In this session, you will learn how to create a loosely coupled architecture for your business that has the domain at the core. You will learn the basics of event-driven architecture, how to transform your complex systems to become event driven, and what benefits this architecture brings to your businesses. The overall architecture is applicable to any cloud stack, but this session will have examples using Azure offerings.</Excerpt>
+    <PostDate>2020-12-15T00:00:00</PostDate>
+    <Id>1049</Id>
+    <Mp4Video>http://player.vimeo.com/external/491655235.hd.mp4?s=ac22fa5cc605946c92ec1bd318a88353dedf060b&amp;profile_id=174&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/491655235.sd.mp4?s=b31ae4e0bf9fa25e7796b525f1f908a66e082c23&amp;profile_id=164&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Chad Green</name>
+      <slug>chad-green</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Event Hubs</name>
+      <slug>event-hubs</slug>
+    </Tags>
+    <Tags>
+      <name>Azure</name>
+      <slug>azure</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>.NET 5 and .NET 6</Title>
+    <Url>https://usergroup.tv/videos/net-5-and-net-6/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1016803292_295x166.jpg</Thumbnail>
+    <Excerpt>This talk will cover the state of .NET and give you an overview of all the new capabilities in .NET 5. Including new features for building smaller, faster Web API’s and gRPC for Microservices, Windows desktop enhancements including ClickOnce, and the new features in Blazor for SPA’s. We will also talk about the journey to One .NET and show a preview of Project Tye for building and publishing Microservices. Ending with a look to the future in .NET 6.</Excerpt>
+    <PostDate>2020-12-14T00:00:00</PostDate>
+    <Id>1051</Id>
+    <Mp4Video>http://player.vimeo.com/external/491418044.hd.mp4?s=65d0d1ff62000b294cd7995b8320deda982f4b3e&amp;profile_id=175&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/491418044.sd.mp4?s=22b8b9ccc922dc54ebb89af5ac3c699256701b97&amp;profile_id=165&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Scott Hunter</name>
+      <slug>scott-hunter</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin .NET UG</name>
+      <slug>austin-net-ug</slug>
+    </Groups>
+    <Tags>
+      <name>.net</name>
+      <slug>net</slug>
+    </Tags>
+    <Tags>
+      <name>ASP.NET</name>
+      <slug>asp-net</slug>
+    </Tags>
+    <Tags>
+      <name>Blazor</name>
+      <slug>blazor</slug>
     </Tags>
   </Post>
 </ArrayOfPost>

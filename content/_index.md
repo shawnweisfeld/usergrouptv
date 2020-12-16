@@ -1,12 +1,76 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2020-12-13T14:42:57.7697533Z",
+  "date": "2020-12-16T15:26:16.6216063Z",
   "draft": false,
-  "recordingCount": "1,043",
+  "recordingCount": "1,045",
   "speakerCount": "584",
   "groupCount": "66",
   "newest": [
+    {
+      "title": "Event-Driven Architecture in the Cloud",
+      "slug": "eventdriven-architecture-in-the-cloud",
+      "thumbnail": "https://i.vimeocdn.com/video/1016814023_295x166.jpg",
+      "date": "2020-12-15T00:00:00",
+      "speakers": [
+        {
+          "name": "Chad Green",
+          "slug": "chad-green"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Event Hubs",
+          "slug": "event-hubs"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
+      ]
+    },
+    {
+      "title": ".NET 5 and .NET 6",
+      "slug": "net-5-and-net-6",
+      "thumbnail": "https://i.vimeocdn.com/video/1016803292_295x166.jpg",
+      "date": "2020-12-14T00:00:00",
+      "speakers": [
+        {
+          "name": "Scott Hunter",
+          "slug": "scott-hunter"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "ASP.NET",
+          "slug": "asp-net"
+        },
+        {
+          "name": "Blazor",
+          "slug": "blazor"
+        }
+      ]
+    },
     {
       "title": "Forecasting in Power BI",
       "slug": "forecasting-in-power-bi",
@@ -468,74 +532,6 @@
         {
           "name": "Dapr",
           "slug": "dapr"
-        }
-      ]
-    },
-    {
-      "title": "Crazy Web Performance with Azure Static Web Apps",
-      "slug": "crazy-web-performance-with-azure-static-web-apps",
-      "thumbnail": "https://i.vimeocdn.com/video/949513028_295x166.jpg",
-      "date": "2020-08-25T13:52:05",
-      "speakers": [
-        {
-          "name": "Kevin Griffin",
-          "slug": "kevin-griffin"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Static Web",
-          "slug": "static-web"
-        },
-        {
-          "name": "Azure",
-          "slug": "azure"
-        }
-      ]
-    },
-    {
-      "title": "Azure Event Hub & Stream Analytics with Power BI",
-      "slug": "azure-event-hub-stream-analytics-with-power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/944756978_295x166.jpg",
-      "date": "2020-08-18T15:15:50",
-      "speakers": [
-        {
-          "name": "Sha Kanjoor Anandan",
-          "slug": "sha-kanjoor-anandan"
-        },
-        {
-          "name": "Mark Moore",
-          "slug": "mark-moore"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        },
-        {
-          "name": "DFW Azure User Group",
-          "slug": "dfw-azure-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Stream Analytics",
-          "slug": "stream-analytics"
-        },
-        {
-          "name": "PowerBI",
-          "slug": "powerbi"
-        },
-        {
-          "name": "Event Hubs",
-          "slug": "event-hubs"
         }
       ]
     }

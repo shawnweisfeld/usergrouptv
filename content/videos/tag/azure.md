@@ -5,9 +5,31 @@
   ],
   "type": "tag",
   "slug": "azure",
-  "date": "2020-11-09T00:00:00",
+  "date": "2020-12-15T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Event-Driven Architecture in the Cloud",
+      "slug": "eventdriven-architecture-in-the-cloud",
+      "thumbnail": "https://i.vimeocdn.com/video/1016814023_295x166.jpg",
+      "date": "2020-12-15T00:00:00",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Chad Green",
+          "slug": "chad-green"
+        }
+      ]
+    },
     {
       "title": "Building a .NET Application Using Azure Cosmos DB",
       "slug": "building-a-net-application-using-azure-cosmos-db",

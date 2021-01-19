@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2020-12-16T15:26:17.2752802Z",
+  "date": "2021-01-19T21:03:23.2528612Z",
   "draft": false,
   "speakers": [
     {
@@ -2998,6 +2998,13 @@
       "slug": "paul-hunter",
       "thumbnail": "https://i.vimeocdn.com/video/500557129_295x166.jpg",
       "date": "2011-04-02T22:05:23",
+      "count": 1
+    },
+    {
+      "title": "Paul Turley",
+      "slug": "paul-turley",
+      "thumbnail": "https://i.vimeocdn.com/video/1039313181_295x166.jpg",
+      "date": "2021-01-13T00:00:00",
       "count": 1
     },
     {

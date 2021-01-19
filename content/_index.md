@@ -1,12 +1,36 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2020-12-16T15:26:16.6216063Z",
+  "date": "2021-01-19T21:03:22.3156944Z",
   "draft": false,
-  "recordingCount": "1,045",
-  "speakerCount": "584",
+  "recordingCount": "1,046",
+  "speakerCount": "585",
   "groupCount": "66",
   "newest": [
+    {
+      "title": "Data modeling essentials and best practices in Power BI and AS tabular",
+      "slug": "data-modeling-essentials-and-best-practices-in-power-bi-and-as-tabular",
+      "thumbnail": "https://i.vimeocdn.com/video/1039313181_295x166.jpg",
+      "date": "2021-01-13T00:00:00",
+      "speakers": [
+        {
+          "name": "Paul Turley",
+          "slug": "paul-turley"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "Event-Driven Architecture in the Cloud",
       "slug": "eventdriven-architecture-in-the-cloud",
@@ -508,30 +532,6 @@
         {
           "name": "Power BI",
           "slug": "power-bi"
-        }
-      ]
-    },
-    {
-      "title": "Adding a little DAPR to your .NET Microservices",
-      "slug": "adding-a-little-dapr-to-your-net-microservices",
-      "thumbnail": "https://i.vimeocdn.com/video/959175670_295x166.jpg",
-      "date": "2020-09-08T13:49:27",
-      "speakers": [
-        {
-          "name": "Cecil Phillip",
-          "slug": "cecil-phillip"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Dapr",
-          "slug": "dapr"
         }
       ]
     }

@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "power-bi",
-  "date": "2020-12-09T00:00:00",
+  "date": "2021-01-13T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Data modeling essentials and best practices in Power BI and AS tabular",
+      "slug": "data-modeling-essentials-and-best-practices-in-power-bi-and-as-tabular",
+      "thumbnail": "https://i.vimeocdn.com/video/1039313181_295x166.jpg",
+      "date": "2021-01-13T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Paul Turley",
+          "slug": "paul-turley"
+        }
+      ]
+    },
     {
       "title": "Forecasting in Power BI",
       "slug": "forecasting-in-power-bi",

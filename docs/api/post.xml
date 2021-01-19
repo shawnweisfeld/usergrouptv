@@ -26130,4 +26130,27 @@ From there, we will dive even deeper by simulating more advanced attacks from au
       <slug>blazor</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Data modeling essentials and best practices in Power BI and AS tabular</Title>
+    <Url>https://usergroup.tv/videos/data-modeling-essentials-and-best-practices-in-power-bi-and-as-tabular/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1039313181_295x166.jpg</Thumbnail>
+    <Excerpt>Part of the series "Doing Power BI the Right Way". A data model is the foundation of analytic reporting. It provides structure and order over information that might otherwise be chaotic and untrustworthy. Loading data into a properly designed model ensures that it conforms to some essential rules that provide better performance, reliability and accuracy.</Excerpt>
+    <PostDate>2021-01-13T00:00:00</PostDate>
+    <Id>1052</Id>
+    <Mp4Video>http://player.vimeo.com/external/502302516.hd.mp4?s=67da626347a833fdbd6a4b707e10586a3f7fcc70&amp;profile_id=175&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/502302516.sd.mp4?s=8787dddca4cb9a10873aa91f6776b8bda98fe970&amp;profile_id=165&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Paul Turley</name>
+      <slug>paul-turley</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Power BI</name>
+      <slug>power-bi</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

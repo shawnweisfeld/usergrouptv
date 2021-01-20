@@ -6,20 +6,11 @@
     <description>Recent content in Meetups on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jan 2021 21:03:24 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/category/group/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Austin Power BI User Group</title>
-      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
-      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 20 Jan 2021 15:38:56 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/category/group/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure Austin Meetup</title>
       <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
-      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/group/azure-austin-meetup/</guid>
       <description></description>
@@ -28,9 +19,18 @@
     <item>
       <title>DFW Azure User Group</title>
       <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
-      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Austin Power BI User Group</title>
+      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
       <description></description>
     </item>
     

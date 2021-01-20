@@ -31,24 +31,24 @@
     {
       "name": "API",
       "slug": "api",
-      "count": 3
+      "count": 4
     },
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 38
+      "count": 39
     }
   ],
   "meetups": [
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 44
+      "count": 45
     },
     {
       "name": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "count": 8
+      "count": 9
     }
   ]
 }

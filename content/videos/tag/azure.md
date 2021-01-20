@@ -5,9 +5,31 @@
   ],
   "type": "tag",
   "slug": "azure",
-  "date": "2020-12-15T00:00:00",
+  "date": "2021-01-19T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Azure API Management",
+      "slug": "azure-api-management-2",
+      "thumbnail": "https://i.vimeocdn.com/video/1039951207_295x166.jpg",
+      "date": "2021-01-19T00:00:00",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Sven Malvik",
+          "slug": "sven-malvik"
+        }
+      ]
+    },
     {
       "title": "Event-Driven Architecture in the Cloud",
       "slug": "eventdriven-architecture-in-the-cloud",

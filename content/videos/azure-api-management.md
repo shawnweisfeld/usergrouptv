@@ -30,14 +30,14 @@
     {
       "name": "API",
       "slug": "api",
-      "count": 3
+      "count": 4
     }
   ],
   "meetups": [
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 44
+      "count": 45
     }
   ]
 }

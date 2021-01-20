@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-01-19T21:03:23.2528612Z",
+  "date": "2021-01-20T15:38:55.438959Z",
   "draft": false,
   "speakers": [
     {
@@ -3761,6 +3761,13 @@
       "slug": "suresh-datla",
       "thumbnail": "https://i.vimeocdn.com/video/798692079_295x166.jpg",
       "date": "2019-07-13T13:46:05",
+      "count": 1
+    },
+    {
+      "title": "Sven Malvik",
+      "slug": "sven-malvik",
+      "thumbnail": "https://i.vimeocdn.com/video/1039951207_295x166.jpg",
+      "date": "2021-01-19T00:00:00",
       "count": 1
     },
     {

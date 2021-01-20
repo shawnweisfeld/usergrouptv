@@ -1,12 +1,44 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-01-19T21:03:22.3156944Z",
+  "date": "2021-01-20T15:38:54.98992Z",
   "draft": false,
-  "recordingCount": "1,046",
-  "speakerCount": "585",
+  "recordingCount": "1,047",
+  "speakerCount": "586",
   "groupCount": "66",
   "newest": [
+    {
+      "title": "Azure API Management",
+      "slug": "azure-api-management-2",
+      "thumbnail": "https://i.vimeocdn.com/video/1039951207_295x166.jpg",
+      "date": "2021-01-19T00:00:00",
+      "speakers": [
+        {
+          "name": "Sven Malvik",
+          "slug": "sven-malvik"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "API",
+          "slug": "api"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
+      ]
+    },
     {
       "title": "Data modeling essentials and best practices in Power BI and AS tabular",
       "slug": "data-modeling-essentials-and-best-practices-in-power-bi-and-as-tabular",
@@ -508,30 +540,6 @@
         {
           "name": "Blazor",
           "slug": "blazor"
-        }
-      ]
-    },
-    {
-      "title": "An Introduction to Tabular Editor",
-      "slug": "an-introduction-to-tabular-editor",
-      "thumbnail": "https://i.vimeocdn.com/video/955146027_295x166.jpg",
-      "date": "2020-09-09T15:22:13",
-      "speakers": [
-        {
-          "name": "Alex Powers",
-          "slug": "alex-powers"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Power BI",
-          "slug": "power-bi"
         }
       ]
     }

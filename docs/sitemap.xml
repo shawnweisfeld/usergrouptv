@@ -4,27 +4,87 @@
   
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2021-01-19T21:03:24+00:00</lastmod>
+    <lastmod>2021-01-20T15:38:56+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2021-01-19T21:03:23+00:00</lastmod>
+    <lastmod>2021-01-20T15:38:55+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2021-01-19T21:03:23+00:00</lastmod>
+    <lastmod>2021-01-20T15:38:55+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2021-01-19T21:03:22+00:00</lastmod>
+    <lastmod>2021-01-20T15:38:54+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2021-01-19T21:03:22+00:00</lastmod>
+    <lastmod>2021-01-20T15:38:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/api/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/tag/api/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/azure/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/tag/azure/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/azure-api-management-2/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/group/azure-austin-meetup/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/dfw-azure-user-group/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/sven-malvik/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/speaker/sven-malvik/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -63,47 +123,12 @@
   </url>
   
   <url>
-    <loc>https://usergroup.tv/tags/</loc>
-    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/azure/</loc>
-    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/tag/azure/</loc>
-    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
-    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/category/group/azure-austin-meetup/</loc>
-    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://usergroup.tv/tags/chad-green/</loc>
     <lastmod>2020-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/videos/category/speaker/chad-green/</loc>
-    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/dfw-azure-user-group/</loc>
-    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</loc>
     <lastmod>2020-12-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -524,16 +549,6 @@
   
   <url>
     <loc>https://usergroup.tv/videos/category/speaker/aaron-lieberman/</loc>
-    <lastmod>2020-09-15T17:47:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/api/</loc>
-    <lastmod>2020-09-15T17:47:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/tag/api/</loc>
     <lastmod>2020-09-15T17:47:45+00:00</lastmod>
   </url>
   

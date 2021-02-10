@@ -6,7 +6,34 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Jan 2021 15:38:55 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Feb 2021 12:48:39 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>.net</title>
+      <link>https://usergroup.tv/videos/tag/net/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>.NET Tips and Tricks</title>
+      <link>https://usergroup.tv/videos/tag/net-tips-and-tricks/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/net-tips-and-tricks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory Analysis</title>
+      <link>https://usergroup.tv/videos/tag/memory-analysis/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/memory-analysis/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>API</title>
       <link>https://usergroup.tv/videos/tag/api/</link>
@@ -26,6 +53,33 @@
     </item>
     
     <item>
+      <title>Azure DevOps</title>
+      <link>https://usergroup.tv/videos/tag/azure-devops/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure-devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://usergroup.tv/videos/tag/devops/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identity</title>
+      <link>https://usergroup.tv/videos/tag/identity/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/identity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Power BI</title>
       <link>https://usergroup.tv/videos/tag/power-bi/</link>
       <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
@@ -40,15 +94,6 @@
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/event-hubs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>.net</title>
-      <link>https://usergroup.tv/videos/tag/net/</link>
-      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/net/</guid>
       <description></description>
     </item>
     
@@ -269,15 +314,6 @@
     </item>
     
     <item>
-      <title>DevOps</title>
-      <link>https://usergroup.tv/videos/tag/devops/</link>
-      <pubDate>Tue, 16 Jun 2020 15:10:57 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Power Apps</title>
       <link>https://usergroup.tv/videos/tag/power-apps/</link>
       <pubDate>Wed, 10 Jun 2020 16:35:48 +0000</pubDate>
@@ -319,15 +355,6 @@
       <pubDate>Wed, 08 Apr 2020 18:34:29 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/azure-blueprint/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure DevOps</title>
-      <link>https://usergroup.tv/videos/tag/azure-devops/</link>
-      <pubDate>Mon, 09 Mar 2020 18:29:59 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/azure-devops/</guid>
       <description></description>
     </item>
     
@@ -3577,15 +3604,6 @@
       <pubDate>Sat, 15 Oct 2011 22:35:33 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/design-patterns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>.NET Tips and Tricks</title>
-      <link>https://usergroup.tv/videos/tag/net-tips-and-tricks/</link>
-      <pubDate>Sat, 15 Oct 2011 03:09:29 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/net-tips-and-tricks/</guid>
       <description></description>
     </item>
     

@@ -6,7 +6,52 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>.net</title>
+      <link>https://usergroup.tv/tags/.net/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/.net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>.NET Tips and Tricks</title>
+      <link>https://usergroup.tv/tags/.net-tips-and-tricks/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/.net-tips-and-tricks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giovanni Bassi</title>
+      <link>https://usergroup.tv/tags/giovanni-bassi/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/giovanni-bassi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory Analysis</title>
+      <link>https://usergroup.tv/tags/memory-analysis/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/memory-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/tags/tulsa-.net-user-group/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/tulsa-.net-user-group/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>API</title>
       <link>https://usergroup.tv/tags/api/</link>
@@ -53,6 +98,51 @@
     </item>
     
     <item>
+      <title>Azure DevOps</title>
+      <link>https://usergroup.tv/tags/azure-devops/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/azure-devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christos Matskas</title>
+      <link>https://usergroup.tv/tags/christos-matskas/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/christos-matskas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://usergroup.tv/tags/devops/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identity</title>
+      <link>https://usergroup.tv/tags/identity/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/identity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Patrick Dandison</title>
+      <link>https://usergroup.tv/tags/john-patrick-dandison/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/john-patrick-dandison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Austin Power BI User Group</title>
       <link>https://usergroup.tv/tags/austin-power-bi-user-group/</link>
       <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
@@ -94,15 +184,6 @@
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/event-hubs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>.net</title>
-      <link>https://usergroup.tv/tags/.net/</link>
-      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/.net/</guid>
       <description></description>
     </item>
     
@@ -193,15 +274,6 @@
       <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/robert-boedigheimer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/tags/tulsa-.net-user-group/</link>
-      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/tulsa-.net-user-group/</guid>
       <description></description>
     </item>
     
@@ -611,15 +683,6 @@
     </item>
     
     <item>
-      <title>DevOps</title>
-      <link>https://usergroup.tv/tags/devops/</link>
-      <pubDate>Tue, 16 Jun 2020 15:10:57 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Charles Sterling</title>
       <link>https://usergroup.tv/tags/charles-sterling/</link>
       <pubDate>Wed, 10 Jun 2020 16:35:48 +0000</pubDate>
@@ -715,15 +778,6 @@
       <pubDate>Wed, 08 Apr 2020 18:34:29 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/azure-blueprint/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure DevOps</title>
-      <link>https://usergroup.tv/tags/azure-devops/</link>
-      <pubDate>Mon, 09 Mar 2020 18:29:59 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/azure-devops/</guid>
       <description></description>
     </item>
     
@@ -9067,15 +9121,6 @@
       <pubDate>Sat, 15 Oct 2011 22:35:33 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/design-patterns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>.NET Tips and Tricks</title>
-      <link>https://usergroup.tv/tags/.net-tips-and-tricks/</link>
-      <pubDate>Sat, 15 Oct 2011 03:09:29 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/.net-tips-and-tricks/</guid>
       <description></description>
     </item>
     

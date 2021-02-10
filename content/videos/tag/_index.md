@@ -1,15 +1,15 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2021-01-20T15:38:55.9086964Z",
+  "date": "2021-02-10T12:48:39.8379448Z",
   "draft": false,
   "ugtvtags": [
     {
       "title": ".net",
       "slug": "net",
-      "thumbnail": "https://i.vimeocdn.com/video/1016803292_295x166.jpg",
-      "date": "2020-12-14T00:00:00",
-      "count": 12
+      "thumbnail": "https://i.vimeocdn.com/video/1057126317_295x166.jpg",
+      "date": "2021-01-26T00:00:00",
+      "count": 13
     },
     {
       "title": ".NET Core",
@@ -21,9 +21,9 @@
     {
       "title": ".NET Tips and Tricks",
       "slug": "net-tips-and-tricks",
-      "thumbnail": "https://i.vimeocdn.com/video/495142844_295x166.jpg",
-      "date": "2011-10-15T03:09:29",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1057126317_295x166.jpg",
+      "date": "2021-01-26T00:00:00",
+      "count": 2
     },
     {
       "title": "3D Printers",
@@ -273,9 +273,9 @@
     {
       "title": "Azure DevOps",
       "slug": "azure-devops",
-      "thumbnail": "https://i.vimeocdn.com/video/876242718_295x166.jpg",
-      "date": "2020-03-09T18:29:59",
-      "count": 2
+      "thumbnail": "https://i.vimeocdn.com/video/1057117933_295x166.jpg",
+      "date": "2021-01-14T00:00:00",
+      "count": 3
     },
     {
       "title": "Azure Functions",
@@ -861,9 +861,9 @@
     {
       "title": "DevOps",
       "slug": "devops",
-      "thumbnail": "https://i.vimeocdn.com/video/910379644_295x166.jpg",
-      "date": "2020-06-16T15:10:57",
-      "count": 15
+      "thumbnail": "https://i.vimeocdn.com/video/1057117933_295x166.jpg",
+      "date": "2021-01-14T00:00:00",
+      "count": 16
     },
     {
       "title": "Distributed Transactions",
@@ -1230,6 +1230,13 @@
       "count": 1
     },
     {
+      "title": "Identity",
+      "slug": "identity",
+      "thumbnail": "https://i.vimeocdn.com/video/1057117933_295x166.jpg",
+      "date": "2021-01-14T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Imposter Syndrome",
       "slug": "imposter-syndrome",
       "thumbnail": "https://i.vimeocdn.com/video/661080971_295x166.jpg",
@@ -1536,6 +1543,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/498383893_295x166.jpg",
       "date": "2011-07-05T19:12:08",
       "count": 2
+    },
+    {
+      "title": "Memory Analysis",
+      "slug": "memory-analysis",
+      "thumbnail": "https://i.vimeocdn.com/video/1057126317_295x166.jpg",
+      "date": "2021-01-26T00:00:00",
+      "count": 1
     },
     {
       "title": "Merge",

@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "net",
-  "date": "2020-12-14T00:00:00",
+  "date": "2021-01-26T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Analyzing memory dumps of .NET applications",
+      "slug": "analyzing-memory-dumps-of-net-applications",
+      "thumbnail": "https://i.vimeocdn.com/video/1057126317_295x166.jpg",
+      "date": "2021-01-26T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Giovanni Bassi",
+          "slug": "giovanni-bassi"
+        }
+      ]
+    },
     {
       "title": ".NET 5 and .NET 6",
       "slug": "net-5-and-net-6",

@@ -1,12 +1,44 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-01-20T15:38:54.98992Z",
+  "date": "2021-02-10T12:48:38.0771644Z",
   "draft": false,
-  "recordingCount": "1,047",
-  "speakerCount": "586",
+  "recordingCount": "1,049",
+  "speakerCount": "589",
   "groupCount": "66",
   "newest": [
+    {
+      "title": "Analyzing memory dumps of .NET applications",
+      "slug": "analyzing-memory-dumps-of-net-applications",
+      "thumbnail": "https://i.vimeocdn.com/video/1057126317_295x166.jpg",
+      "date": "2021-01-26T00:00:00",
+      "speakers": [
+        {
+          "name": "Giovanni Bassi",
+          "slug": "giovanni-bassi"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": ".NET Tips and Tricks",
+          "slug": "net-tips-and-tricks"
+        },
+        {
+          "name": "Memory Analysis",
+          "slug": "memory-analysis"
+        }
+      ]
+    },
     {
       "title": "Azure API Management",
       "slug": "azure-api-management-2",
@@ -36,6 +68,42 @@
         {
           "name": "Azure",
           "slug": "azure"
+        }
+      ]
+    },
+    {
+      "title": "Secure DevOps with the Microsoft Identity platform",
+      "slug": "secure-devops-with-the-microsoft-identity-platform",
+      "thumbnail": "https://i.vimeocdn.com/video/1057117933_295x166.jpg",
+      "date": "2021-01-14T00:00:00",
+      "speakers": [
+        {
+          "name": "Christos Matskas",
+          "slug": "christos-matskas"
+        },
+        {
+          "name": "John Patrick Dandison",
+          "slug": "john-patrick-dandison"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure DevOps",
+          "slug": "azure-devops"
+        },
+        {
+          "name": "DevOps",
+          "slug": "devops"
+        },
+        {
+          "name": "Identity",
+          "slug": "identity"
         }
       ]
     },
@@ -484,62 +552,6 @@
         {
           "name": "Microsoft",
           "slug": "microsoft"
-        }
-      ]
-    },
-    {
-      "title": "Today’s API Thread Landscape: Detect and Block Threats",
-      "slug": "todays-api-thread-landscape-detect-and-block-threats",
-      "thumbnail": "https://i.vimeocdn.com/video/958647865_295x166.jpg",
-      "date": "2020-09-15T17:47:45",
-      "speakers": [
-        {
-          "name": "Aaron Lieberman",
-          "slug": "aaron-lieberman"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        },
-        {
-          "name": "DFW Azure User Group",
-          "slug": "dfw-azure-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "API",
-          "slug": "api"
-        },
-        {
-          "name": "Azure",
-          "slug": "azure"
-        }
-      ]
-    },
-    {
-      "title": "Blazor Architecture Patterns",
-      "slug": "blazor-architecture-patterns",
-      "thumbnail": "https://i.vimeocdn.com/video/958530841_295x166.jpg",
-      "date": "2020-09-14T17:44:41",
-      "speakers": [
-        {
-          "name": "Jeffrey Palermo",
-          "slug": "jeffrey-palermo"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin .NET UG",
-          "slug": "austin-net-ug"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Blazor",
-          "slug": "blazor"
         }
       ]
     }

@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "net-tips-and-tricks",
-  "date": "2011-10-15T03:09:29",
+  "date": "2021-01-26T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Analyzing memory dumps of .NET applications",
+      "slug": "analyzing-memory-dumps-of-net-applications",
+      "thumbnail": "https://i.vimeocdn.com/video/1057126317_295x166.jpg",
+      "date": "2021-01-26T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Giovanni Bassi",
+          "slug": "giovanni-bassi"
+        }
+      ]
+    },
     {
       "title": ".Net Nuggets - Houston Tech Fest Keynote",
       "slug": "net-nuggets-houston-tech-fest-keynote",

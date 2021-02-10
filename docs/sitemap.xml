@@ -4,27 +4,87 @@
   
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2021-01-20T15:38:56+00:00</lastmod>
+    <lastmod>2021-02-10T12:48:40+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2021-01-20T15:38:55+00:00</lastmod>
+    <lastmod>2021-02-10T12:48:39+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2021-01-20T15:38:55+00:00</lastmod>
+    <lastmod>2021-02-10T12:48:39+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2021-01-20T15:38:54+00:00</lastmod>
+    <lastmod>2021-02-10T12:48:38+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2021-01-20T15:38:54+00:00</lastmod>
+    <lastmod>2021-02-10T12:48:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/.net/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/tag/net/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/.net-tips-and-tricks/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/tag/net-tips-and-tricks/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/analyzing-memory-dumps-of-net-applications/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/giovanni-bassi/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/speaker/giovanni-bassi/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/memory-analysis/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/tag/memory-analysis/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -83,8 +143,58 @@
   </url>
   
   <url>
-    <loc>https://usergroup.tv/tags/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+    <loc>https://usergroup.tv/tags/azure-devops/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/tag/azure-devops/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/christos-matskas/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/speaker/christos-matskas/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/devops/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/tag/devops/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/identity/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/tag/identity/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/john-patrick-dandison/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/speaker/john-patrick-dandison/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/secure-devops-with-the-microsoft-identity-platform/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -145,16 +255,6 @@
   <url>
     <loc>https://usergroup.tv/videos/eventdriven-architecture-in-the-cloud/</loc>
     <lastmod>2020-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/.net/</loc>
-    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/tag/net/</loc>
-    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -274,16 +374,6 @@
   
   <url>
     <loc>https://usergroup.tv/videos/sql-server-to-azure-sql-performance-and-availability/</loc>
-    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
-    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
     <lastmod>2020-11-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -868,16 +958,6 @@
   </url>
   
   <url>
-    <loc>https://usergroup.tv/tags/devops/</loc>
-    <lastmod>2020-06-16T15:10:57+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/tag/devops/</loc>
-    <lastmod>2020-06-16T15:10:57+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://usergroup.tv/tags/charles-sterling/</loc>
     <lastmod>2020-06-10T16:35:48+00:00</lastmod>
   </url>
@@ -1025,16 +1105,6 @@
   <url>
     <loc>https://usergroup.tv/videos/azure-blueprint-101/</loc>
     <lastmod>2020-04-08T18:34:29+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/azure-devops/</loc>
-    <lastmod>2020-03-09T18:29:59+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/tag/azure-devops/</loc>
-    <lastmod>2020-03-09T18:29:59+00:00</lastmod>
   </url>
   
   <url>
@@ -14879,16 +14949,6 @@
   
   <url>
     <loc>https://usergroup.tv/videos/net-nuggets-houston-tech-fest-keynote/</loc>
-    <lastmod>2011-10-15T03:09:29+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/.net-tips-and-tricks/</loc>
-    <lastmod>2011-10-15T03:09:29+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/tag/net-tips-and-tricks/</loc>
     <lastmod>2011-10-15T03:09:29+00:00</lastmod>
   </url>
   

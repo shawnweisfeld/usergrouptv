@@ -30,7 +30,7 @@
     {
       "name": ".NET Tips and Tricks",
       "slug": "net-tips-and-tricks",
-      "count": 1
+      "count": 2
     }
   ],
   "meetups": [

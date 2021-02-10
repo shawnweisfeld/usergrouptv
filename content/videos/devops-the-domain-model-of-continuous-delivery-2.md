@@ -30,7 +30,7 @@
     {
       "name": "DevOps",
       "slug": "devops",
-      "count": 15
+      "count": 16
     }
   ],
   "meetups": [

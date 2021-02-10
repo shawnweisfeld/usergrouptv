@@ -26184,4 +26184,70 @@ From there, we will dive even deeper by simulating more advanced attacks from au
       <slug>azure</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Secure DevOps with the Microsoft Identity platform</Title>
+    <Url>https://usergroup.tv/videos/secure-devops-with-the-microsoft-identity-platform/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1057117933_295x166.jpg</Thumbnail>
+    <Excerpt>For decades, developers have been building software that span multiple services or resources. One of the biggest challenges developers are faced with is storing secrets, connection string and API keys that are necessary for securely accessing other resources. What if there was a way to completely eliminate the need to store secrets within your solutions and enable you to connect with other services securely? Join our session and find out how to build, deploy and run apps securely using the Microsoft Identity platform. We're taking secure DevOps to the next level!</Excerpt>
+    <PostDate>2021-01-14T00:00:00</PostDate>
+    <Id>1054</Id>
+    <Mp4Video>http://player.vimeo.com/external/510658061.hd.mp4?s=d181e955ec366b4c8cd3bc97472fbe4bedf8e812&amp;profile_id=174&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/510658061.sd.mp4?s=3b2b1934b6d5b9f86e3edd1c848186d5b7021f89&amp;profile_id=139&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Christos Matskas</name>
+      <slug>christos-matskas</slug>
+    </Speakers>
+    <Speakers>
+      <name>John Patrick Dandison</name>
+      <slug>john-patrick-dandison</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Azure DevOps</name>
+      <slug>azure-devops</slug>
+    </Tags>
+    <Tags>
+      <name>DevOps</name>
+      <slug>devops</slug>
+    </Tags>
+    <Tags>
+      <name>Identity</name>
+      <slug>identity</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Analyzing memory dumps of .NET applications</Title>
+    <Url>https://usergroup.tv/videos/analyzing-memory-dumps-of-net-applications/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1057126317_295x166.jpg</Thumbnail>
+    <Excerpt>When an application stops working as expected in production, few options are available. Sometimes it is not possible to debug, and the bugs are not reproducible on development machines. When that happens, it is not easy to understand the inner workings of the problem, and a memory dump is an excellent tool to help find the bug. In this session you will learn what a memory dump is, how to create one, analyze it, and in what scenarios it can be useful.</Excerpt>
+    <PostDate>2021-01-26T00:00:00</PostDate>
+    <Id>1055</Id>
+    <Mp4Video>http://player.vimeo.com/external/510658276.hd.mp4?s=8d05837cfe7bd61f954164c13e191a70e2e80418&amp;profile_id=174&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/510658276.sd.mp4?s=aa26d9fcca2f26f8394caf0f9929a4de8f09a20f&amp;profile_id=165&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Giovanni Bassi</name>
+      <slug>giovanni-bassi</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>.net</name>
+      <slug>net</slug>
+    </Tags>
+    <Tags>
+      <name>.NET Tips and Tricks</name>
+      <slug>net-tips-and-tricks</slug>
+    </Tags>
+    <Tags>
+      <name>Memory Analysis</name>
+      <slug>memory-analysis</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

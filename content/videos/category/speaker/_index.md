@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-01-20T15:38:55.438959Z",
+  "date": "2021-02-10T12:48:39.3195359Z",
   "draft": false,
   "speakers": [
     {
@@ -747,6 +747,13 @@
       "count": 2
     },
     {
+      "title": "Christos Matskas",
+      "slug": "christos-matskas",
+      "thumbnail": "https://i.vimeocdn.com/video/1057117933_295x166.jpg",
+      "date": "2021-01-14T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Cindy Ashcraft",
       "slug": "cindy-ashcraft",
       "thumbnail": "https://i.vimeocdn.com/video/660004585_295x166.jpg",
@@ -1314,6 +1321,13 @@
       "count": 1
     },
     {
+      "title": "Giovanni Bassi",
+      "slug": "giovanni-bassi",
+      "thumbnail": "https://i.vimeocdn.com/video/1057126317_295x166.jpg",
+      "date": "2021-01-26T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Girish Gangadharan",
       "slug": "girish-gangadharan",
       "thumbnail": "https://i.vimeocdn.com/video/482638242_295x166.jpg",
@@ -1844,6 +1858,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/488139709_295x166.jpg",
       "date": "2012-08-24T00:50:30",
       "count": 2
+    },
+    {
+      "title": "John Patrick Dandison",
+      "slug": "john-patrick-dandison",
+      "thumbnail": "https://i.vimeocdn.com/video/1057117933_295x166.jpg",
+      "date": "2021-01-14T00:00:00",
+      "count": 1
     },
     {
       "title": "John Riviello",

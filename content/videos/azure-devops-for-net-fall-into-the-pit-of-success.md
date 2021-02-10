@@ -30,7 +30,7 @@
     {
       "name": "Azure DevOps",
       "slug": "azure-devops",
-      "count": 2
+      "count": 3
     }
   ],
   "meetups": [

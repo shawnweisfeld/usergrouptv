@@ -5,9 +5,65 @@
     "Tulsa .NET User Group"
   ],
   "slug": "tulsa-net-user-group",
-  "date": "2020-11-17T00:00:00",
+  "date": "2021-01-26T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Analyzing memory dumps of .NET applications",
+      "slug": "analyzing-memory-dumps-of-net-applications",
+      "thumbnail": "https://i.vimeocdn.com/video/1057126317_295x166.jpg",
+      "date": "2021-01-26T00:00:00",
+      "speakers": [
+        {
+          "name": "Giovanni Bassi",
+          "slug": "giovanni-bassi"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": ".NET Tips and Tricks",
+          "slug": "net-tips-and-tricks"
+        },
+        {
+          "name": "Memory Analysis",
+          "slug": "memory-analysis"
+        }
+      ]
+    },
+    {
+      "title": "Secure DevOps with the Microsoft Identity platform",
+      "slug": "secure-devops-with-the-microsoft-identity-platform",
+      "thumbnail": "https://i.vimeocdn.com/video/1057117933_295x166.jpg",
+      "date": "2021-01-14T00:00:00",
+      "speakers": [
+        {
+          "name": "Christos Matskas",
+          "slug": "christos-matskas"
+        },
+        {
+          "name": "John Patrick Dandison",
+          "slug": "john-patrick-dandison"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure DevOps",
+          "slug": "azure-devops"
+        },
+        {
+          "name": "DevOps",
+          "slug": "devops"
+        },
+        {
+          "name": "Identity",
+          "slug": "identity"
+        }
+      ]
+    },
     {
       "title": "Cryptography 101",
       "slug": "cryptography-101-2",

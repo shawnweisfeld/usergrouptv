@@ -26250,4 +26250,27 @@ From there, we will dive even deeper by simulating more advanced attacks from au
       <slug>memory-analysis</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Practical Application of Storytelling Techniques in Power BI</Title>
+    <Url>https://usergroup.tv/videos/practical-application-of-storytelling-techniques-in-power-bi/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1059080814_295x166.jpg</Thumbnail>
+    <Excerpt>In data visualization, we are inundated with the idea that we should be telling a story. But what is a story? And how do you use visual properties and navigation to tell a story? Join Meagan Longoria for this discussion of storytelling in data visualization and demonstration of storytelling techniques.</Excerpt>
+    <PostDate>2021-02-10T00:00:00</PostDate>
+    <Id>1056</Id>
+    <Mp4Video>http://player.vimeo.com/external/511625111.hd.mp4?s=a7749068c9780d444e0b724fcc5315adc10a4121&amp;profile_id=174&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/511625111.sd.mp4?s=e61f51b82d557c32c91294d27dcd5c7c2638c105&amp;profile_id=164&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Meagan Longoria</name>
+      <slug>meagan-longoria</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Power BI</name>
+      <slug>power-bi</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

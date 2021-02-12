@@ -5,9 +5,27 @@
     "Austin Power BI User Group"
   ],
   "slug": "austin-power-bi-user-group",
-  "date": "2021-01-13T00:00:00",
+  "date": "2021-02-10T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Practical Application of Storytelling Techniques in Power BI",
+      "slug": "practical-application-of-storytelling-techniques-in-power-bi",
+      "thumbnail": "https://i.vimeocdn.com/video/1059080814_295x166.jpg",
+      "date": "2021-02-10T00:00:00",
+      "speakers": [
+        {
+          "name": "Meagan Longoria",
+          "slug": "meagan-longoria"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "Data modeling essentials and best practices in Power BI and AS tabular",
       "slug": "data-modeling-essentials-and-best-practices-in-power-bi-and-as-tabular",

@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-02-10T12:48:39.3195359Z",
+  "date": "2021-02-12T15:39:26.1736819Z",
   "draft": false,
   "speakers": [
     {
@@ -2625,9 +2625,9 @@
     {
       "title": "Meagan Longoria",
       "slug": "meagan-longoria",
-      "thumbnail": "https://i.vimeocdn.com/video/854621808_295x166.jpg",
-      "date": "2020-02-08T16:26:29",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1059080814_295x166.jpg",
+      "date": "2021-02-10T00:00:00",
+      "count": 2
     },
     {
       "title": "Melissa Ugiansky",

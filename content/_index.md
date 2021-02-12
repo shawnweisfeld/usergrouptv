@@ -1,12 +1,36 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-02-10T12:48:38.0771644Z",
+  "date": "2021-02-12T15:39:25.4388029Z",
   "draft": false,
-  "recordingCount": "1,049",
+  "recordingCount": "1,050",
   "speakerCount": "589",
   "groupCount": "66",
   "newest": [
+    {
+      "title": "Practical Application of Storytelling Techniques in Power BI",
+      "slug": "practical-application-of-storytelling-techniques-in-power-bi",
+      "thumbnail": "https://i.vimeocdn.com/video/1059080814_295x166.jpg",
+      "date": "2021-02-10T00:00:00",
+      "speakers": [
+        {
+          "name": "Meagan Longoria",
+          "slug": "meagan-longoria"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "Analyzing memory dumps of .NET applications",
       "slug": "analyzing-memory-dumps-of-net-applications",
@@ -516,42 +540,6 @@
         {
           "name": "Compiler",
           "slug": "compiler"
-        }
-      ]
-    },
-    {
-      "title": "The Future of C#",
-      "slug": "the-future-of-c",
-      "thumbnail": "https://i.vimeocdn.com/video/964019398_295x166.jpg",
-      "date": "2020-09-22T00:00:00",
-      "speakers": [
-        {
-          "name": "Mads Torgersen",
-          "slug": "mads-torgersen"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "C#",
-          "slug": "c"
-        },
-        {
-          "name": ".net",
-          "slug": "net"
-        },
-        {
-          "name": ".NET Core",
-          "slug": "net-core"
-        },
-        {
-          "name": "Microsoft",
-          "slug": "microsoft"
         }
       ]
     }

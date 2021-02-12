@@ -6,7 +6,16 @@
     <description>Recent content in Meetups on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Feb 2021 12:48:40 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/category/group/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Feb 2021 15:39:27 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/category/group/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Austin Power BI User Group</title>
+      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Tulsa .NET User Group</title>
       <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
@@ -31,15 +40,6 @@
       <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Austin Power BI User Group</title>
-      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
-      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
       <description></description>
     </item>
     

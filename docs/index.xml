@@ -6,7 +6,43 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Feb 2021 12:48:38 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Feb 2021 15:39:25 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Austin Power BI User Group</title>
+      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meagan Longoria</title>
+      <link>https://usergroup.tv/videos/category/speaker/meagan-longoria/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/meagan-longoria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>https://usergroup.tv/videos/tag/power-bi/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Application of Storytelling Techniques in Power BI</title>
+      <link>https://usergroup.tv/videos/practical-application-of-storytelling-techniques-in-power-bi/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/practical-application-of-storytelling-techniques-in-power-bi/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>.net</title>
       <link>https://usergroup.tv/videos/tag/net/</link>
@@ -170,15 +206,6 @@
     </item>
     
     <item>
-      <title>Austin Power BI User Group</title>
-      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
-      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Data modeling essentials and best practices in Power BI and AS tabular</title>
       <link>https://usergroup.tv/videos/data-modeling-essentials-and-best-practices-in-power-bi-and-as-tabular/</link>
       <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
@@ -193,15 +220,6 @@
       <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/paul-turley/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power BI</title>
-      <link>https://usergroup.tv/videos/tag/power-bi/</link>
-      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
       <description></description>
     </item>
     
@@ -1330,15 +1348,6 @@ What do we use your information for?</description>
       <pubDate>Sat, 08 Feb 2020 16:26:29 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/creating-accessible-power-bi-reports/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meagan Longoria</title>
-      <link>https://usergroup.tv/videos/category/speaker/meagan-longoria/</link>
-      <pubDate>Sat, 08 Feb 2020 16:26:29 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/speaker/meagan-longoria/</guid>
       <description></description>
     </item>
     

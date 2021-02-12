@@ -22,15 +22,15 @@
     {
       "name": "Meagan Longoria",
       "slug": "meagan-longoria",
-      "bio": "<p>Meagan Longoria is a business intelligence consultant with Denny Cherry & Associates who lives in Denver, Colorado. She is a Microsoft Data Platform MVP. Meagan spends a lot of time thinking about how to use data integration, DAX, and data visualization techniques to make data useful for people. She enjoys sharing her knowledge and experiences at conferences and user group meetings as well as through her blog (DataSavvy.me).</p>",
-      "count": 1
+      "bio": "Meagan Longoria is a business intelligence consultant with Denny Cherry & Associates who lives in Denver, Colorado. She is a Microsoft Data Platform MVP. Meagan spends a lot of time thinking about how to use data integration, data modeling, and data visualization techniques to make data useful for people. She enjoys sharing her knowledge and experiences at conferences and user group meetings, as well as through her blog (http://DataSavvy.me).",
+      "count": 2
     }
   ],
   "ugtvtags": [
     {
       "name": "Power BI",
       "slug": "power-bi",
-      "count": 21
+      "count": 22
     }
   ],
   "meetups": [

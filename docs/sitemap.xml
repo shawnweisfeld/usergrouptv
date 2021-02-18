@@ -4,27 +4,77 @@
   
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2021-02-12T15:39:27+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2021-02-12T15:39:26+00:00</lastmod>
+    <lastmod>2021-02-18T15:22:07+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2021-02-12T15:39:26+00:00</lastmod>
+    <lastmod>2021-02-18T15:22:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/speaker/</loc>
+    <lastmod>2021-02-18T15:22:03+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2021-02-12T15:39:25+00:00</lastmod>
+    <lastmod>2021-02-18T15:21:58+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2021-02-12T15:39:25+00:00</lastmod>
+    <lastmod>2021-02-18T15:21:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/.net-core/</loc>
+    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/tag/net-core/</loc>
+    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/gprc/</loc>
+    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/tag/gprc/</loc>
+    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/highperformance-apis-with-grpc-and-net/</loc>
+    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/james-newton-king/</loc>
+    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/speaker/james-newtonking/</loc>
+    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
+    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
+    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -59,11 +109,6 @@
   
   <url>
     <loc>https://usergroup.tv/videos/practical-application-of-storytelling-techniques-in-power-bi/</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -109,16 +154,6 @@
   
   <url>
     <loc>https://usergroup.tv/videos/tag/memory-analysis/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -565,16 +600,6 @@
   <url>
     <loc>https://usergroup.tv/videos/rck-yor-cde-defensive-programming-for-microsoft-net/</loc>
     <lastmod>2020-10-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/tags/.net-core/</loc>
-    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usergroup.tv/videos/tag/net-core/</loc>
-    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>

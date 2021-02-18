@@ -5,9 +5,31 @@
     "Tulsa .NET User Group"
   ],
   "slug": "tulsa-net-user-group",
-  "date": "2021-01-26T00:00:00",
+  "date": "2021-02-11T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "High-performance APIs with gRPC and .NET",
+      "slug": "highperformance-apis-with-grpc-and-net",
+      "thumbnail": "https://i.vimeocdn.com/video/1063960922_295x166.jpg",
+      "date": "2021-02-11T00:00:00",
+      "speakers": [
+        {
+          "name": "James Newton-King",
+          "slug": "james-newtonking"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".NET Core",
+          "slug": "net-core"
+        },
+        {
+          "name": "gPRC",
+          "slug": "gprc"
+        }
+      ]
+    },
     {
       "title": "Analyzing memory dumps of .NET applications",
       "slug": "analyzing-memory-dumps-of-net-applications",

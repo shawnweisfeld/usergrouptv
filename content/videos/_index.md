@@ -1,12 +1,40 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-02-12T15:39:25.4388029Z",
+  "date": "2021-02-18T15:21:58.8033754Z",
   "draft": false,
-  "recordingCount": "1,050",
-  "speakerCount": "589",
+  "recordingCount": "1,051",
+  "speakerCount": "590",
   "groupCount": "66",
   "newest": [
+    {
+      "title": "High-performance APIs with gRPC and .NET",
+      "slug": "highperformance-apis-with-grpc-and-net",
+      "thumbnail": "https://i.vimeocdn.com/video/1063960922_295x166.jpg",
+      "date": "2021-02-11T00:00:00",
+      "speakers": [
+        {
+          "name": "James Newton-King",
+          "slug": "james-newtonking"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".NET Core",
+          "slug": "net-core"
+        },
+        {
+          "name": "gPRC",
+          "slug": "gprc"
+        }
+      ]
+    },
     {
       "title": "Practical Application of Storytelling Techniques in Power BI",
       "slug": "practical-application-of-storytelling-techniques-in-power-bi",
@@ -508,38 +536,6 @@
         {
           "name": ".net",
           "slug": "net"
-        }
-      ]
-    },
-    {
-      "title": "Using the Compiler API in Real-World Scenarios",
-      "slug": "using-the-compiler-api-in-realworld-scenarios",
-      "thumbnail": "https://i.vimeocdn.com/video/972800786_295x166.jpg",
-      "date": "2020-10-08T00:00:00",
-      "speakers": [
-        {
-          "name": "Jason Bock",
-          "slug": "jason-bock"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": ".net",
-          "slug": "net"
-        },
-        {
-          "name": ".NET Core",
-          "slug": "net-core"
-        },
-        {
-          "name": "Compiler",
-          "slug": "compiler"
         }
       ]
     }

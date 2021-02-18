@@ -6,7 +6,43 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>.NET Core</title>
+      <link>https://usergroup.tv/tags/.net-core/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/.net-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gPRC</title>
+      <link>https://usergroup.tv/tags/gprc/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/gprc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James Newton-King</title>
+      <link>https://usergroup.tv/tags/james-newton-king/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/james-newton-king/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/tags/tulsa-.net-user-group/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/tulsa-.net-user-group/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Austin Power BI User Group</title>
       <link>https://usergroup.tv/tags/austin-power-bi-user-group/</link>
@@ -67,15 +103,6 @@
       <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/memory-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/tags/tulsa-.net-user-group/</link>
-      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/tulsa-.net-user-group/</guid>
       <description></description>
     </item>
     
@@ -409,15 +436,6 @@
       <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/david-mccarter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>.NET Core</title>
-      <link>https://usergroup.tv/tags/.net-core/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/.net-core/</guid>
       <description></description>
     </item>
     

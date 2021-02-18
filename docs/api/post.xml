@@ -26273,4 +26273,31 @@ From there, we will dive even deeper by simulating more advanced attacks from au
       <slug>power-bi</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>High-performance APIs with gRPC and .NET</Title>
+    <Url>https://usergroup.tv/videos/highperformance-apis-with-grpc-and-net/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1063960922_295x166.jpg</Thumbnail>
+    <Excerpt>gRPC is a modern high-performance RPC (Remote Procedure Call) framework that can run in any environment. gRPC is based on HTTP/2, Protocol Buffers and other modern standard-based technologies. Together with excellent tooling, it helps you create high throughput, low latency, real-time services.</Excerpt>
+    <PostDate>2021-02-11T00:00:00</PostDate>
+    <Id>1057</Id>
+    <Mp4Video>http://player.vimeo.com/external/513869293.hd.mp4?s=812885d6cd12007d5425cdfe310feeeaae67b6cf&amp;profile_id=174&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/513869293.sd.mp4?s=1efcb75ba8f5ff7e255e22f4e86c447fa3cf4156&amp;profile_id=164&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>James Newton-King</name>
+      <slug>james-newtonking</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>.NET Core</name>
+      <slug>net-core</slug>
+    </Tags>
+    <Tags>
+      <name>gPRC</name>
+      <slug>gprc</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

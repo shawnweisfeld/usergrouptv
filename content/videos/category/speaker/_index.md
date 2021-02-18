@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-02-12T15:39:26.1736819Z",
+  "date": "2021-02-18T15:22:03.3791118Z",
   "draft": false,
   "speakers": [
     {
@@ -1508,6 +1508,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/520899576_295x166.jpg",
       "date": "2015-05-31T13:36:23",
       "count": 2
+    },
+    {
+      "title": "James Newton-King",
+      "slug": "james-newtonking",
+      "thumbnail": "https://i.vimeocdn.com/video/1063960922_295x166.jpg",
+      "date": "2021-02-11T00:00:00",
+      "count": 1
     },
     {
       "title": "Jamey Johnston",

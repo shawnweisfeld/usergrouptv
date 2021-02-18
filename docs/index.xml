@@ -6,7 +6,52 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Feb 2021 15:39:25 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Feb 2021 15:21:58 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>.NET Core</title>
+      <link>https://usergroup.tv/videos/tag/net-core/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/net-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gPRC</title>
+      <link>https://usergroup.tv/videos/tag/gprc/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/gprc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-performance APIs with gRPC and .NET</title>
+      <link>https://usergroup.tv/videos/highperformance-apis-with-grpc-and-net/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/highperformance-apis-with-grpc-and-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James Newton-King</title>
+      <link>https://usergroup.tv/videos/category/speaker/james-newtonking/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/james-newtonking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Austin Power BI User Group</title>
       <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
@@ -85,15 +130,6 @@
       <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/memory-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
-      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
       <description></description>
     </item>
     
@@ -562,15 +598,6 @@
       <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/rck-yor-cde-defensive-programming-for-microsoft-net/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>.NET Core</title>
-      <link>https://usergroup.tv/videos/tag/net-core/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/net-core/</guid>
       <description></description>
     </item>
     

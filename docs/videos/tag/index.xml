@@ -6,7 +6,43 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Feb 2021 15:22:05 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Mar 2021 21:55:52 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>.net</title>
+      <link>https://usergroup.tv/videos/tag/net/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASP.NET</title>
+      <link>https://usergroup.tv/videos/tag/asp-net/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/asp-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Containers</title>
+      <link>https://usergroup.tv/videos/tag/containers/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/containers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://usergroup.tv/videos/tag/docker/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/docker/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>.NET Core</title>
       <link>https://usergroup.tv/videos/tag/net-core/</link>
@@ -31,15 +67,6 @@
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>.net</title>
-      <link>https://usergroup.tv/videos/tag/net/</link>
-      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/net/</guid>
       <description></description>
     </item>
     
@@ -112,15 +139,6 @@
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/event-hubs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ASP.NET</title>
-      <link>https://usergroup.tv/videos/tag/asp-net/</link>
-      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/asp-net/</guid>
       <description></description>
     </item>
     
@@ -1669,15 +1687,6 @@
       <pubDate>Thu, 20 Jul 2017 14:20:01 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/continuous-delivery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Docker</title>
-      <link>https://usergroup.tv/videos/tag/docker/</link>
-      <pubDate>Thu, 20 Jul 2017 14:18:34 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/docker/</guid>
       <description></description>
     </item>
     

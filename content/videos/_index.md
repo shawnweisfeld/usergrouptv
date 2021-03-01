@@ -1,12 +1,48 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-02-18T15:21:58.8033754Z",
+  "date": "2021-03-01T21:55:51.3166319Z",
   "draft": false,
-  "recordingCount": "1,051",
-  "speakerCount": "590",
+  "recordingCount": "1,052",
+  "speakerCount": "591",
   "groupCount": "66",
   "newest": [
+    {
+      "title": "ASP.NET in Linux and Windows containers",
+      "slug": "aspnet-in-linux-and-windows-containers",
+      "thumbnail": "https://i.vimeocdn.com/video/1073474480_295x166.jpg",
+      "date": "2021-02-23T00:00:00",
+      "speakers": [
+        {
+          "name": "Rob Richardson",
+          "slug": "rob-richardson"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "Docker",
+          "slug": "docker"
+        },
+        {
+          "name": "ASP.NET",
+          "slug": "asp-net"
+        },
+        {
+          "name": "Containers",
+          "slug": "containers"
+        }
+      ]
+    },
     {
       "title": "High-performance APIs with gRPC and .NET",
       "slug": "highperformance-apis-with-grpc-and-net",
@@ -512,30 +548,6 @@
         {
           "name": "Power BI",
           "slug": "power-bi"
-        }
-      ]
-    },
-    {
-      "title": "Röck Yoür Cöde: Defensive Programming for Microsoft .NET",
-      "slug": "rck-yor-cde-defensive-programming-for-microsoft-net",
-      "thumbnail": "https://i.vimeocdn.com/video/976577166_295x166.jpg",
-      "date": "2020-10-12T00:00:00",
-      "speakers": [
-        {
-          "name": "David McCarter",
-          "slug": "david-mccarter"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin .NET UG",
-          "slug": "austin-net-ug"
-        }
-      ],
-      "tags": [
-        {
-          "name": ".net",
-          "slug": "net"
         }
       ]
     }

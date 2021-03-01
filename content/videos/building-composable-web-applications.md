@@ -36,7 +36,7 @@
     {
       "name": "ASP.NET",
       "slug": "asp-net",
-      "count": 6
+      "count": 7
     }
   ],
   "meetups": [

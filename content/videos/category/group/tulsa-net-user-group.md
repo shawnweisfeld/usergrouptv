@@ -5,9 +5,39 @@
     "Tulsa .NET User Group"
   ],
   "slug": "tulsa-net-user-group",
-  "date": "2021-02-11T00:00:00",
+  "date": "2021-02-23T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "ASP.NET in Linux and Windows containers",
+      "slug": "aspnet-in-linux-and-windows-containers",
+      "thumbnail": "https://i.vimeocdn.com/video/1073474480_295x166.jpg",
+      "date": "2021-02-23T00:00:00",
+      "speakers": [
+        {
+          "name": "Rob Richardson",
+          "slug": "rob-richardson"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "Docker",
+          "slug": "docker"
+        },
+        {
+          "name": "ASP.NET",
+          "slug": "asp-net"
+        },
+        {
+          "name": "Containers",
+          "slug": "containers"
+        }
+      ]
+    },
     {
       "title": "High-performance APIs with gRPC and .NET",
       "slug": "highperformance-apis-with-grpc-and-net",

@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-02-18T15:22:03.3791118Z",
+  "date": "2021-03-01T21:55:51.9396053Z",
   "draft": false,
   "speakers": [
     {
@@ -3216,6 +3216,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/702635348_295x166.jpg",
       "date": "2018-05-19T22:57:56",
       "count": 3
+    },
+    {
+      "title": "Rob Richardson",
+      "slug": "rob-richardson",
+      "thumbnail": "https://i.vimeocdn.com/video/1073474480_295x166.jpg",
+      "date": "2021-02-23T00:00:00",
+      "count": 1
     },
     {
       "title": "Rob Sullivan",

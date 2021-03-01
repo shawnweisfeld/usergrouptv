@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "asp-net",
-  "date": "2020-12-14T00:00:00",
+  "date": "2021-02-23T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "ASP.NET in Linux and Windows containers",
+      "slug": "aspnet-in-linux-and-windows-containers",
+      "thumbnail": "https://i.vimeocdn.com/video/1073474480_295x166.jpg",
+      "date": "2021-02-23T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Rob Richardson",
+          "slug": "rob-richardson"
+        }
+      ]
+    },
     {
       "title": ".NET 5 and .NET 6",
       "slug": "net-5-and-net-6",

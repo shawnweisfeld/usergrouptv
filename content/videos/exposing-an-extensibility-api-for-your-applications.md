@@ -30,7 +30,7 @@
     {
       "name": "Architecture",
       "slug": "architecture",
-      "count": 5
+      "count": 6
     }
   ],
   "meetups": [

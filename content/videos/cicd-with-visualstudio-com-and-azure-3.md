@@ -55,7 +55,7 @@
     {
       "name": "Austin .NET UG",
       "slug": "austin-net-ug",
-      "count": 54
+      "count": 55
     }
   ]
 }

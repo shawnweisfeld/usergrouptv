@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "architecture",
-  "date": "2020-02-10T21:35:29",
+  "date": "2021-03-11T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Exploring an Immutable Architecture",
+      "slug": "exploring-an-immutable-architecture",
+      "thumbnail": "https://i.vimeocdn.com/video/1084436628_295x166.jpg",
+      "date": "2021-03-11T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Michael L Perry",
+          "slug": "michael-l-perry"
+        }
+      ]
+    },
     {
       "title": "Refactoring the Architect's role",
       "slug": "refactoring-the-architects-role",

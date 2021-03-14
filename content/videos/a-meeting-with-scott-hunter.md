@@ -33,17 +33,17 @@
     {
       "name": ".net",
       "slug": "net",
-      "count": 14
+      "count": 16
     },
     {
       "name": ".NET Core",
       "slug": "net-core",
-      "count": 5
+      "count": 7
     },
     {
       "name": "ASP.NET",
       "slug": "asp-net",
-      "count": 7
+      "count": 9
     },
     {
       "name": "Blazor",
@@ -55,7 +55,7 @@
     {
       "name": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "count": 17
+      "count": 18
     }
   ]
 }

@@ -1,12 +1,116 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-03-01T21:55:51.3166319Z",
+  "date": "2021-03-14T23:22:22.4367679Z",
   "draft": false,
-  "recordingCount": "1,052",
-  "speakerCount": "591",
+  "recordingCount": "1,055",
+  "speakerCount": "592",
   "groupCount": "66",
   "newest": [
+    {
+      "title": "Exploring an Immutable Architecture",
+      "slug": "exploring-an-immutable-architecture",
+      "thumbnail": "https://i.vimeocdn.com/video/1084436628_295x166.jpg",
+      "date": "2021-03-11T00:00:00",
+      "speakers": [
+        {
+          "name": "Michael L Perry",
+          "slug": "michael-l-perry"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": ".NET Core",
+          "slug": "net-core"
+        },
+        {
+          "name": "ASP.NET Core",
+          "slug": "asp-net-core"
+        },
+        {
+          "name": "Architecture",
+          "slug": "architecture"
+        },
+        {
+          "name": "ASP.NET",
+          "slug": "asp-net"
+        }
+      ]
+    },
+    {
+      "title": "Power BI Architecture End-to-End",
+      "slug": "power-bi-architecture-endtoend",
+      "thumbnail": "https://i.vimeocdn.com/video/1084424191_295x166.jpg",
+      "date": "2021-03-10T00:00:00",
+      "speakers": [
+        {
+          "name": "Melissa Coates",
+          "slug": "melissa-coates"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
+    {
+      "title": "Building a .NET Application Using Azure Cosmos DB",
+      "slug": "building-a-net-application-using-azure-cosmos-db-2",
+      "thumbnail": "https://i.vimeocdn.com/video/1084412342_295x166.jpg",
+      "date": "2021-03-08T00:00:00",
+      "speakers": [
+        {
+          "name": "Chad Green",
+          "slug": "chad-green"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "Cosmos DB",
+          "slug": "cosmos-db"
+        },
+        {
+          "name": ".NET Core",
+          "slug": "net-core"
+        },
+        {
+          "name": "ASP.NET Core",
+          "slug": "asp-net-core"
+        },
+        {
+          "name": "ASP.NET",
+          "slug": "asp-net"
+        }
+      ]
+    },
     {
       "title": "ASP.NET in Linux and Windows containers",
       "slug": "aspnet-in-linux-and-windows-containers",
@@ -452,102 +556,6 @@
         {
           "name": "HtmlTags",
           "slug": "htmltags"
-        }
-      ]
-    },
-    {
-      "title": "Visual Studio 2019 .NET Productivity",
-      "slug": "visual-studio-2019-net-productivity",
-      "thumbnail": "https://i.vimeocdn.com/video/985853435_295x166.jpg",
-      "date": "2020-10-27T00:00:00",
-      "speakers": [
-        {
-          "name": "Kendra Havens",
-          "slug": "kendra-havens"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": ".net",
-          "slug": "net"
-        },
-        {
-          "name": "Visual Studio",
-          "slug": "visual-studio"
-        }
-      ]
-    },
-    {
-      "title": "How to get the best TCO while running SQL Server on Azure VM",
-      "slug": "how-to-get-the-best-tco-while-running-sql-server-on-azure-vm",
-      "thumbnail": "https://i.vimeocdn.com/video/980844918_295x166.jpg",
-      "date": "2020-10-20T00:00:00",
-      "speakers": [
-        {
-          "name": "Amit Banerjee",
-          "slug": "amit-banerjee"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        },
-        {
-          "name": "Capitol Area Central Texas Users of SQL Server",
-          "slug": "capitol-area-central-texas-users-of-sql-server"
-        },
-        {
-          "name": "DFW Azure User Group",
-          "slug": "dfw-azure-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "SQL",
-          "slug": "sql"
-        },
-        {
-          "name": "Azure",
-          "slug": "azure"
-        },
-        {
-          "name": "MS SQL",
-          "slug": "ms-sql"
-        },
-        {
-          "name": "SQL Server",
-          "slug": "sql-server"
-        }
-      ]
-    },
-    {
-      "title": "Machine Learning in Power BI with Python",
-      "slug": "machine-learning-in-power-bi-with-python",
-      "thumbnail": "https://i.vimeocdn.com/video/976555636_295x166.jpg",
-      "date": "2020-10-14T00:00:00",
-      "speakers": [
-        {
-          "name": "Pablo Moreno",
-          "slug": "pablo-moreno"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Power BI",
-          "slug": "power-bi"
         }
       ]
     }

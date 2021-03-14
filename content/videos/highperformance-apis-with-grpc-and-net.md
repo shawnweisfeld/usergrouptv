@@ -31,7 +31,7 @@
     {
       "name": ".NET Core",
       "slug": "net-core",
-      "count": 5
+      "count": 7
     },
     {
       "name": "gPRC",
@@ -43,7 +43,7 @@
     {
       "name": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "count": 17
+      "count": 18
     }
   ]
 }

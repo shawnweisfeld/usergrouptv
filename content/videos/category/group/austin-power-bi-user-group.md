@@ -5,9 +5,27 @@
     "Austin Power BI User Group"
   ],
   "slug": "austin-power-bi-user-group",
-  "date": "2021-02-10T00:00:00",
+  "date": "2021-03-10T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Power BI Architecture End-to-End",
+      "slug": "power-bi-architecture-endtoend",
+      "thumbnail": "https://i.vimeocdn.com/video/1084424191_295x166.jpg",
+      "date": "2021-03-10T00:00:00",
+      "speakers": [
+        {
+          "name": "Melissa Coates",
+          "slug": "melissa-coates"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "Practical Application of Storytelling Techniques in Power BI",
       "slug": "practical-application-of-storytelling-techniques-in-power-bi",

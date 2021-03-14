@@ -6,22 +6,121 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>.net</title>
       <link>https://usergroup.tv/tags/.net/</link>
-      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/.net/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>.NET Core</title>
+      <link>https://usergroup.tv/tags/.net-core/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/.net-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architecture</title>
+      <link>https://usergroup.tv/tags/architecture/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ASP.NET</title>
       <link>https://usergroup.tv/tags/asp.net/</link>
-      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/asp.net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASP.NET Core</title>
+      <link>https://usergroup.tv/tags/asp.net-core/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/asp.net-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael L Perry</title>
+      <link>https://usergroup.tv/tags/michael-l-perry/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/michael-l-perry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/tags/tulsa-.net-user-group/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/tulsa-.net-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Austin Power BI User Group</title>
+      <link>https://usergroup.tv/tags/austin-power-bi-user-group/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/austin-power-bi-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melissa Coates</title>
+      <link>https://usergroup.tv/tags/melissa-coates/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/melissa-coates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>https://usergroup.tv/tags/power-bi/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Austin .NET UG</title>
+      <link>https://usergroup.tv/tags/austin-.net-ug/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/austin-.net-ug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chad Green</title>
+      <link>https://usergroup.tv/tags/chad-green/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/chad-green/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cosmos DB</title>
+      <link>https://usergroup.tv/tags/cosmos-db/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/cosmos-db/</guid>
       <description></description>
     </item>
     
@@ -53,24 +152,6 @@
     </item>
     
     <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/tags/tulsa-.net-user-group/</link>
-      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/tulsa-.net-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>.NET Core</title>
-      <link>https://usergroup.tv/tags/.net-core/</link>
-      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/.net-core/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>gPRC</title>
       <link>https://usergroup.tv/tags/gprc/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
@@ -89,29 +170,11 @@
     </item>
     
     <item>
-      <title>Austin Power BI User Group</title>
-      <link>https://usergroup.tv/tags/austin-power-bi-user-group/</link>
-      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/austin-power-bi-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Meagan Longoria</title>
       <link>https://usergroup.tv/tags/meagan-longoria/</link>
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/meagan-longoria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power BI</title>
-      <link>https://usergroup.tv/tags/power-bi/</link>
-      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/power-bi/</guid>
       <description></description>
     </item>
     
@@ -242,29 +305,11 @@
     </item>
     
     <item>
-      <title>Chad Green</title>
-      <link>https://usergroup.tv/tags/chad-green/</link>
-      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/chad-green/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Event Hubs</title>
       <link>https://usergroup.tv/tags/event-hubs/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/event-hubs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Austin .NET UG</title>
-      <link>https://usergroup.tv/tags/austin-.net-ug/</link>
-      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/austin-.net-ug/</guid>
       <description></description>
     </item>
     
@@ -364,15 +409,6 @@
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/asp.net-mvc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cosmos DB</title>
-      <link>https://usergroup.tv/tags/cosmos-db/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/cosmos-db/</guid>
       <description></description>
     </item>
     
@@ -773,15 +809,6 @@
     </item>
     
     <item>
-      <title>Michael L Perry</title>
-      <link>https://usergroup.tv/tags/michael-l-perry/</link>
-      <pubDate>Thu, 14 May 2020 12:03:20 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/michael-l-perry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Reza Rad</title>
       <link>https://usergroup.tv/tags/reza-rad/</link>
       <pubDate>Wed, 13 May 2020 12:43:18 +0000</pubDate>
@@ -841,15 +868,6 @@
       <pubDate>Tue, 18 Feb 2020 12:08:41 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/mike-byrd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Architecture</title>
-      <link>https://usergroup.tv/tags/architecture/</link>
-      <pubDate>Mon, 10 Feb 2020 21:35:29 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/architecture/</guid>
       <description></description>
     </item>
     
@@ -1588,15 +1606,6 @@
       <pubDate>Wed, 14 Aug 2019 14:14:42 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/o365/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ASP.NET Core</title>
-      <link>https://usergroup.tv/tags/asp.net-core/</link>
-      <pubDate>Mon, 12 Aug 2019 14:12:57 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/asp.net-core/</guid>
       <description></description>
     </item>
     

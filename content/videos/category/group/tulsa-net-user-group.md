@@ -5,9 +5,43 @@
     "Tulsa .NET User Group"
   ],
   "slug": "tulsa-net-user-group",
-  "date": "2021-02-23T00:00:00",
+  "date": "2021-03-11T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Exploring an Immutable Architecture",
+      "slug": "exploring-an-immutable-architecture",
+      "thumbnail": "https://i.vimeocdn.com/video/1084436628_295x166.jpg",
+      "date": "2021-03-11T00:00:00",
+      "speakers": [
+        {
+          "name": "Michael L Perry",
+          "slug": "michael-l-perry"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": ".NET Core",
+          "slug": "net-core"
+        },
+        {
+          "name": "ASP.NET Core",
+          "slug": "asp-net-core"
+        },
+        {
+          "name": "Architecture",
+          "slug": "architecture"
+        },
+        {
+          "name": "ASP.NET",
+          "slug": "asp-net"
+        }
+      ]
+    },
     {
       "title": "ASP.NET in Linux and Windows containers",
       "slug": "aspnet-in-linux-and-windows-containers",

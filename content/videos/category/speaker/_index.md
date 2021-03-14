@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-03-01T21:55:51.9396053Z",
+  "date": "2021-03-14T23:22:22.9240579Z",
   "draft": false,
   "speakers": [
     {
@@ -609,9 +609,9 @@
     {
       "title": "Chad Green",
       "slug": "chad-green",
-      "thumbnail": "https://i.vimeocdn.com/video/1016814023_295x166.jpg",
-      "date": "2020-12-15T00:00:00",
-      "count": 2
+      "thumbnail": "https://i.vimeocdn.com/video/1084412342_295x166.jpg",
+      "date": "2021-03-08T00:00:00",
+      "count": 3
     },
     {
       "title": "Chad Howell",
@@ -2637,6 +2637,13 @@
       "count": 2
     },
     {
+      "title": "Melissa Coates",
+      "slug": "melissa-coates",
+      "thumbnail": "https://i.vimeocdn.com/video/1084424191_295x166.jpg",
+      "date": "2021-03-10T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Melissa Ugiansky",
       "slug": "melissa-ugiansky",
       "thumbnail": "https://i.vimeocdn.com/video/820030608_295x166.jpg",
@@ -2709,9 +2716,9 @@
     {
       "title": "Michael L Perry",
       "slug": "michael-l-perry",
-      "thumbnail": "https://i.vimeocdn.com/video/898661059_295x166.jpg",
-      "date": "2020-05-14T12:03:20",
-      "count": 22
+      "thumbnail": "https://i.vimeocdn.com/video/1084436628_295x166.jpg",
+      "date": "2021-03-11T00:00:00",
+      "count": 23
     },
     {
       "title": "Michael McKinley",

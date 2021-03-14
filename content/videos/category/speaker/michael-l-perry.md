@@ -5,10 +5,44 @@
   ],
   "type": "speaker",
   "slug": "michael-l-perry",
-  "date": "2020-05-14T12:03:20",
+  "date": "2021-03-11T00:00:00",
   "draft": false,
-  "bio": "<p>Michael travels through space clinging to the carbon hull of a spherical ship made of molten iron. He commands an army of microorganisms which decompose the molecules that he captures to provide chemical energy for his cells. His mission is to increase entropy throughout the universe. Michael wrote The Art of Immutable Architecture, a book on applying mathematics to building distributed systems. Learn more at https://immutablearchitecture.com. In his spare time, he records Pluralsight courses on CQRS, XAML Patterns, Cryptography, and Provable Code. Formerly a Microsoft MVP for seven years. He maintains the spoon-bending Assisticant, Correspondence, and Jinaga open-source libraries. He shared videos about distributed systems at historicalmodeling.com. And he helps his clients at Improving benefit from the power of software mathematics. Software is math. Every class is a theorem. The compiler is the proof. And unit tests check our work.</p>",
+  "bio": "Software is math. Every class is a theorem. The compiler is the proof. And unit tests check our work. Michael wrote The Art of Immutable Architecture, a book on applying mathematics to building distributed systems. Learn more at https://immutablearchitecture.com. Michael has recorded Pluralsight courses on Distributed Systems, XAML Patterns, and Cryptography, in addition to Provable Code. Formerly a Microsoft MVP for seven years, he maintains the spoon-bending Assisticant and Jinaga open-source libraries. You can find his videos about distributed systems at historicalmodeling.com. And he helps his clients at Improving benefit from the power of software mathematics.",
   "recordings": [
+    {
+      "title": "Exploring an Immutable Architecture",
+      "slug": "exploring-an-immutable-architecture",
+      "thumbnail": "https://i.vimeocdn.com/video/1084436628_295x166.jpg",
+      "date": "2021-03-11T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": ".NET Core",
+          "slug": "net-core"
+        },
+        {
+          "name": "ASP.NET Core",
+          "slug": "asp-net-core"
+        },
+        {
+          "name": "Architecture",
+          "slug": "architecture"
+        },
+        {
+          "name": "ASP.NET",
+          "slug": "asp-net"
+        }
+      ]
+    },
     {
       "title": "ACID 2.0: Designing Better APIs and Messages",
       "slug": "acid-2-0-designing-better-apis-and-messages",

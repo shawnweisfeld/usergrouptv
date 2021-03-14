@@ -32,7 +32,7 @@
     {
       "name": ".net",
       "slug": "net",
-      "count": 14
+      "count": 16
     },
     {
       "name": ".NET Tips and Tricks",
@@ -49,7 +49,7 @@
     {
       "name": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "count": 17
+      "count": 18
     }
   ]
 }

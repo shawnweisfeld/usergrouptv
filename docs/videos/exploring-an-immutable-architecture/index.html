@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="utf-8"><script type="application/ld+json">
+    {
+        "@context" : "http://schema.org",
+        "@type" : "BlogPosting",
+        "mainEntityOfPage": {
+             "@type": "WebPage",
+             "@id": "https:\/\/usergroup.tv\/"
+        },
+        "articleSection" : "videos",
+        "name" : "Exploring an Immutable Architecture",
+        "headline" : "Exploring an Immutable Architecture",
+        "description" : "What would happen if we took immutability seriously? Immutability -- the self-imposed architectural constraint that data cannot be modified or deleted -- solves many of the technical problems of distributed systems. It prevents duplication; if you receive the same immutable message twice, you can see that you\u0027ve already stored it. And it solves synchronization; two copies of the same immutable record are always exactly the same. Moreover, immutability solves many business problems as well. Immutable documents capture the intent of each collaborating party. They preserve the history of that collaboration. And they enable future business processes that we cannot immediately predict. Some architectural patterns give a nod to immutability: model-view-update, and reactive programming for example. But what if we really took it seriously? What would an immutable architecture really look like? I\u0027ll show you what it looks like. Whether you are building an immutable architecture for Web, mobile, or distributed systems, the modeling tools and patterns are the same. Learn how to implement immutability in a SQL database. See how immutability affects an API. And extend immutability across service boundaries via messages. Together we will build an immutable architecture in .NET, persist data in SQL Server, and synchronize apps across a service bus. The example is open source, and based on real-world systems. Those systems have benefited from immutability to solve technical and business problems. Come see how you can do the same.\r\n",
+        "inLanguage" : "en",
+        "author" : "Shawn Weisfeld",
+        "creator" : "Shawn Weisfeld",
+        "publisher": "Shawn Weisfeld",
+        "accountablePerson" : "Shawn Weisfeld",
+        "copyrightHolder" : "Shawn Weisfeld",
+        "copyrightYear" : "2021",
+        "datePublished": "2021-03-11T00:00:00Z",
+        "dateModified" : "2021-03-11T00:00:00Z",
+        "url" : "\/videos\/exploring-an-immutable-architecture\/",
+        "wordCount" : "0",
+        "keywords" : [ ".net",".NET Core","ASP.NET Core","Architecture","ASP.NET","Blog" ]
+    }
+</script>
+<title>
+    Exploring an Immutable Architecture &ndash; UserGroup.tv
+</title><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="What would happen if we took immutability seriously? Immutability -- the self-imposed architectural constraint that data cannot be modified or deleted -- solves many of the technical problems of distributed systems. It prevents duplication; if you receive the same immutable message twice, you can see that you&#39;ve already stored it. And it solves synchronization; two copies of the same immutable record are always exactly the same. Moreover, immutability solves many business problems as well. Immutable documents capture the intent of each collaborating party. They preserve the history of that collaboration. And they enable future business processes that we cannot immediately predict. Some architectural patterns give a nod to immutability: model-view-update, and reactive programming for example. But what if we really took it seriously? What would an immutable architecture really look like? I&#39;ll show you what it looks like. Whether you are building an immutable architecture for Web, mobile, or distributed systems, the modeling tools and patterns are the same. Learn how to implement immutability in a SQL database. See how immutability affects an API. And extend immutability across service boundaries via messages. Together we will build an immutable architecture in .NET, persist data in SQL Server, and synchronize apps across a service bus. The example is open source, and based on real-world systems. Those systems have benefited from immutability to solve technical and business problems. Come see how you can do the same.
+">
+<meta name="author" content="Shawn Weisfeld">
+<link rel="icon" href="/favicon.ico">
+
+
+<meta itemprop="name" content="Exploring an Immutable Architecture">
+<meta itemprop="description" content="What would happen if we took immutability seriously? Immutability -- the self-imposed architectural constraint that data cannot be modified or deleted -- solves many of the technical problems of distributed systems. It prevents duplication; if you receive the same immutable message twice, you can see that you&#39;ve already stored it. And it solves synchronization; two copies of the same immutable record are always exactly the same. Moreover, immutability solves many business problems as well. Immutable documents capture the intent of each collaborating party. They preserve the history of that collaboration. And they enable future business processes that we cannot immediately predict. Some architectural patterns give a nod to immutability: model-view-update, and reactive programming for example. But what if we really took it seriously? What would an immutable architecture really look like? I&#39;ll show you what it looks like. Whether you are building an immutable architecture for Web, mobile, or distributed systems, the modeling tools and patterns are the same. Learn how to implement immutability in a SQL database. See how immutability affects an API. And extend immutability across service boundaries via messages. Together we will build an immutable architecture in .NET, persist data in SQL Server, and synchronize apps across a service bus. The example is open source, and based on real-world systems. Those systems have benefited from immutability to solve technical and business problems. Come see how you can do the same.
+"><meta itemprop="datePublished" content="2021-03-11T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2021-03-11T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="0"><meta itemprop="image" content="https://i.vimeocdn.com/video/1084436628_295x166.jpg">
+<meta itemprop="keywords" content=".net,.NET Core,ASP.NET Core,Architecture,ASP.NET," />
+<meta property="og:title" content="Exploring an Immutable Architecture" />
+<meta property="og:description" content="What would happen if we took immutability seriously? Immutability -- the self-imposed architectural constraint that data cannot be modified or deleted -- solves many of the technical problems of distributed systems. It prevents duplication; if you receive the same immutable message twice, you can see that you&#39;ve already stored it. And it solves synchronization; two copies of the same immutable record are always exactly the same. Moreover, immutability solves many business problems as well. Immutable documents capture the intent of each collaborating party. They preserve the history of that collaboration. And they enable future business processes that we cannot immediately predict. Some architectural patterns give a nod to immutability: model-view-update, and reactive programming for example. But what if we really took it seriously? What would an immutable architecture really look like? I&#39;ll show you what it looks like. Whether you are building an immutable architecture for Web, mobile, or distributed systems, the modeling tools and patterns are the same. Learn how to implement immutability in a SQL database. See how immutability affects an API. And extend immutability across service boundaries via messages. Together we will build an immutable architecture in .NET, persist data in SQL Server, and synchronize apps across a service bus. The example is open source, and based on real-world systems. Those systems have benefited from immutability to solve technical and business problems. Come see how you can do the same.
+" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://usergroup.tv/videos/exploring-an-immutable-architecture/" /><meta property="og:image" content="https://i.vimeocdn.com/video/1084436628_295x166.jpg" /><meta property="article:section" content="videos" />
+<meta property="article:published_time" content="2021-03-11T00:00:00&#43;00:00" />
+<meta property="article:modified_time" content="2021-03-11T00:00:00&#43;00:00" />
+
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://i.vimeocdn.com/video/1084436628_295x166.jpg"/>
+
+<meta name="twitter:title" content="Exploring an Immutable Architecture"/>
+<meta name="twitter:description" content="What would happen if we took immutability seriously? Immutability -- the self-imposed architectural constraint that data cannot be modified or deleted -- solves many of the technical problems of distributed systems. It prevents duplication; if you receive the same immutable message twice, you can see that you&#39;ve already stored it. And it solves synchronization; two copies of the same immutable record are always exactly the same. Moreover, immutability solves many business problems as well. Immutable documents capture the intent of each collaborating party. They preserve the history of that collaboration. And they enable future business processes that we cannot immediately predict. Some architectural patterns give a nod to immutability: model-view-update, and reactive programming for example. But what if we really took it seriously? What would an immutable architecture really look like? I&#39;ll show you what it looks like. Whether you are building an immutable architecture for Web, mobile, or distributed systems, the modeling tools and patterns are the same. Learn how to implement immutability in a SQL database. See how immutability affects an API. And extend immutability across service boundaries via messages. Together we will build an immutable architecture in .NET, persist data in SQL Server, and synchronize apps across a service bus. The example is open source, and based on real-world systems. Those systems have benefited from immutability to solve technical and business problems. Come see how you can do the same.
+"/>
+
+
+<link rel="alternate" href="/index.xml" type="application/rss+xml" title="UserGroup.tv"/>
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/vendor.min.eebe11d68d6a021de91a3cbe54411c88ae98c1c8c08ab91e1be17845379d5e20b95044bb39e1216f87cc957e6641797d40b65d169ca216d294df53eff0aa198b.css" integrity="sha512-7r4R1o1qAh3pGjy&#43;VEEciK6YwcjAirkeG&#43;F4RTedXiC5UES7OeEhb4fMlX5mQXl9QLZdFpyiFtKU31Pv8KoZiw==">
+
+
+
+  <meta property="og:image:secure" content="https://i.vimeocdn.com/video/1084436628_295x166.jpg" />
+<body><nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
+    <div class="container">
+        <a class="navbar-brand" href="/">
+            <img src="/images/Ugtv.png" alt="UserGroup.tv">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="/">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/videos/category/speaker/">Speakers</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/videos/category/group/">Groups</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/videos/tag/">Tags</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/about-us/">About Us</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://forms.office.com/Pages/ResponsePage.aspx?id=TlyBc-0-d0WrTt-gYiae0KLqSn4LXatBuXAR729jgnhUQ0MyQUlFMEw5UTdUMVI1TDQ1M0RFNElTSC4u" target="_blank">Publish</a>
+            </li>
+          </ul>
+        </div>
+    </div>
+</nav>      
+<main role="main">
+
+    <div data-type="ad" data-publisher="lqm.usergrouptv.site" data-format="728x90" data-zone="ros" class="horizontal-ad"></div>
+
+    <div class="container mt-3 mb-3">
+
+        <h1>
+            Exploring an Immutable Architecture
+        </h1>
+
+        <div class="addthis_inline_share_toolbox text-right"></div>
+
+        
+        <iframe src="https://player.vimeo.com/video/523551717" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        
+
+
+        <h2>Abstract: </h2>
+        <div>What would happen if we took immutability seriously? Immutability -- the self-imposed architectural constraint that data cannot be modified or deleted -- solves many of the technical problems of distributed systems. It prevents duplication; if you receive the same immutable message twice, you can see that you've already stored it. And it solves synchronization; two copies of the same immutable record are always exactly the same. Moreover, immutability solves many business problems as well. Immutable documents capture the intent of each collaborating party. They preserve the history of that collaboration. And they enable future business processes that we cannot immediately predict. Some architectural patterns give a nod to immutability: model-view-update, and reactive programming for example. But what if we really took it seriously? What would an immutable architecture really look like? I'll show you what it looks like. Whether you are building an immutable architecture for Web, mobile, or distributed systems, the modeling tools and patterns are the same. Learn how to implement immutability in a SQL database. See how immutability affects an API. And extend immutability across service boundaries via messages. Together we will build an immutable architecture in .NET, persist data in SQL Server, and synchronize apps across a service bus. The example is open source, and based on real-world systems. Those systems have benefited from immutability to solve technical and business problems. Come see how you can do the same.
+</div>
+
+        <h2>Speakers: </h2>
+        <div>
+            <ul>
+                
+                <li>
+                    <h3>
+                        <a href="/videos/category/speaker/michael-l-perry">Michael L Perry</a>
+                    </h3>
+                    <div>
+<span class="badge badge-primary">23 Recordings</span>
+
+</div>
+                    <div>Software is math. Every class is a theorem. The compiler is the proof. And unit tests check our work. Michael wrote The Art of Immutable Architecture, a book on applying mathematics to building distributed systems. Learn more at https://immutablearchitecture.com. Michael has recorded Pluralsight courses on Distributed Systems, XAML Patterns, and Cryptography, in addition to Provable Code. Formerly a Microsoft MVP for seven years, he maintains the spoon-bending Assisticant and Jinaga open-source libraries. You can find his videos about distributed systems at historicalmodeling.com. And he helps his clients at Improving benefit from the power of software mathematics.</div>
+                </li>
+                
+            </ul>            
+        </div>
+
+        <h2>Recorded At: </h2>
+        <div>
+            <ul>
+                
+                <li>
+                    <a href="/videos/category/group/tulsa-net-user-group">Tulsa .NET User Group</a> 
+<span class="badge badge-primary">18 Recordings</span>
+
+
+                </li>
+                
+            </ul>            
+        </div>
+
+        <h2>Recorded on: </h2>
+        <div>Mar 11, 2021</div>
+
+        <h2>More Info: </h2>
+        <div><a href="https://www.meetup.com/TulsaDevelopers-net/events/276121905/" target="_blank" >https://www.meetup.com/TulsaDevelopers-net/events/276121905/</a></div>
+
+        <h2>Tags: </h2>
+        <div>
+            <ul>
+                
+                <li>
+                    <a href="/videos/tag/net">.net</a> 
+<span class="badge badge-primary">16 Recordings</span>
+
+
+                </li>
+                
+                <li>
+                    <a href="/videos/tag/net-core">.NET Core</a> 
+<span class="badge badge-primary">7 Recordings</span>
+
+
+                </li>
+                
+                <li>
+                    <a href="/videos/tag/asp-net-core">ASP.NET Core</a> 
+<span class="badge badge-primary">7 Recordings</span>
+
+
+                </li>
+                
+                <li>
+                    <a href="/videos/tag/architecture">Architecture</a> 
+<span class="badge badge-primary">6 Recordings</span>
+
+
+                </li>
+                
+                <li>
+                    <a href="/videos/tag/asp-net">ASP.NET</a> 
+<span class="badge badge-primary">9 Recordings</span>
+
+
+                </li>
+                
+            </ul>            
+        </div>
+
+
+    </div>
+
+
+        </main>
+
+<nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+    <div class="container">
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+        <span class="navbar-text">
+            &copy; UserGroup.tv 2020
+        </span>
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="/privacy-policy">Privacy Policy</a>
+            </li>
+        </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+<script src="/js/vendor.min.f9eaca568eb5c8629195151ddf9e80178b040b3bd44830c763015945eabc72743a8c2543ecf1ae133c7a4ab0da2bacf49e7adb39f34b52f290fe8e8d041c7c1f.js" integrity="sha512-&#43;erKVo61yGKRlRUd356AF4sECzvUSDDHYwFZReq8cnQ6jCVD7PGuEzx6SrDaK6z0nnrbOfNLUvKQ/o6NBBx8Hw=="></script>
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-155341911-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<script type='text/javascript'>
+    function _dmBootstrap(file) {
+        var _dma = document.createElement('script');
+        _dma.type = 'text/javascript';
+        _dma.async = true;
+        _dma.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + file;
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(_dma);
+    }
+    function _dmFollowup(file) { if (typeof DMAds === 'undefined') _dmBootstrap('cdn2.DeveloperMedia.com/a.min.js'); }
+    (function () { _dmBootstrap('cdn1.DeveloperMedia.com/a.min.js'); setTimeout(_dmFollowup, 2000); })();
+</script>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5fb843a02f2efdea"></script>
+</body>
+</html>

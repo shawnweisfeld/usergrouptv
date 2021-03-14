@@ -37,7 +37,7 @@
     {
       "name": "ASP.NET Core",
       "slug": "asp-net-core",
-      "count": 5
+      "count": 7
     },
     {
       "name": "Aurelia",

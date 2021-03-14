@@ -6,22 +6,67 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Mar 2021 21:55:52 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Mar 2021 23:22:23 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>.net</title>
       <link>https://usergroup.tv/videos/tag/net/</link>
-      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/net/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>.NET Core</title>
+      <link>https://usergroup.tv/videos/tag/net-core/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/net-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architecture</title>
+      <link>https://usergroup.tv/videos/tag/architecture/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ASP.NET</title>
       <link>https://usergroup.tv/videos/tag/asp-net/</link>
-      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/asp-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASP.NET Core</title>
+      <link>https://usergroup.tv/videos/tag/asp-net-core/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/asp-net-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>https://usergroup.tv/videos/tag/power-bi/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cosmos DB</title>
+      <link>https://usergroup.tv/videos/tag/cosmos-db/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/cosmos-db/</guid>
       <description></description>
     </item>
     
@@ -44,29 +89,11 @@
     </item>
     
     <item>
-      <title>.NET Core</title>
-      <link>https://usergroup.tv/videos/tag/net-core/</link>
-      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/net-core/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>gPRC</title>
       <link>https://usergroup.tv/videos/tag/gprc/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/gprc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power BI</title>
-      <link>https://usergroup.tv/videos/tag/power-bi/</link>
-      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
       <description></description>
     </item>
     
@@ -184,15 +211,6 @@
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/asp-net-mvc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cosmos DB</title>
-      <link>https://usergroup.tv/videos/tag/cosmos-db/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/cosmos-db/</guid>
       <description></description>
     </item>
     
@@ -382,15 +400,6 @@
       <pubDate>Wed, 08 Apr 2020 18:34:29 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/azure-blueprint/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Architecture</title>
-      <link>https://usergroup.tv/videos/tag/architecture/</link>
-      <pubDate>Mon, 10 Feb 2020 21:35:29 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/architecture/</guid>
       <description></description>
     </item>
     
@@ -616,15 +625,6 @@
       <pubDate>Wed, 14 Aug 2019 14:14:42 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/o365/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ASP.NET Core</title>
-      <link>https://usergroup.tv/videos/tag/asp-net-core/</link>
-      <pubDate>Mon, 12 Aug 2019 14:12:57 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/asp-net-core/</guid>
       <description></description>
     </item>
     

@@ -32,12 +32,12 @@
     {
       "name": ".net",
       "slug": "net",
-      "count": 14
+      "count": 16
     },
     {
       "name": "ASP.NET",
       "slug": "asp-net",
-      "count": 7
+      "count": 9
     },
     {
       "name": "Blazor",
@@ -49,7 +49,7 @@
     {
       "name": "Austin .NET UG",
       "slug": "austin-net-ug",
-      "count": 54
+      "count": 55
     }
   ]
 }

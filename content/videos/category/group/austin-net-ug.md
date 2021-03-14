@@ -5,9 +5,43 @@
     "Austin .NET UG"
   ],
   "slug": "austin-net-ug",
-  "date": "2020-12-14T00:00:00",
+  "date": "2021-03-08T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Building a .NET Application Using Azure Cosmos DB",
+      "slug": "building-a-net-application-using-azure-cosmos-db-2",
+      "thumbnail": "https://i.vimeocdn.com/video/1084412342_295x166.jpg",
+      "date": "2021-03-08T00:00:00",
+      "speakers": [
+        {
+          "name": "Chad Green",
+          "slug": "chad-green"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "Cosmos DB",
+          "slug": "cosmos-db"
+        },
+        {
+          "name": ".NET Core",
+          "slug": "net-core"
+        },
+        {
+          "name": "ASP.NET Core",
+          "slug": "asp-net-core"
+        },
+        {
+          "name": "ASP.NET",
+          "slug": "asp-net"
+        }
+      ]
+    },
     {
       "title": ".NET 5 and .NET 6",
       "slug": "net-5-and-net-6",

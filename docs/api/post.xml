@@ -26335,4 +26335,108 @@ From there, we will dive even deeper by simulating more advanced attacks from au
       <slug>containers</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Exploring an Immutable Architecture</Title>
+    <Url>https://usergroup.tv/videos/exploring-an-immutable-architecture/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1084436628_295x166.jpg</Thumbnail>
+    <Excerpt>What would happen if we took immutability seriously? Immutability -- the self-imposed architectural constraint that data cannot be modified or deleted -- solves many of the technical problems of distributed systems. It prevents duplication; if you receive the same immutable message twice, you can see that you've already stored it. And it solves synchronization; two copies of the same immutable record are always exactly the same. Moreover, immutability solves many business problems as well. Immutable documents capture the intent of each collaborating party. They preserve the history of that collaboration. And they enable future business processes that we cannot immediately predict. Some architectural patterns give a nod to immutability: model-view-update, and reactive programming for example. But what if we really took it seriously? What would an immutable architecture really look like? I'll show you what it looks like. Whether you are building an immutable architecture for Web, mobile, or distributed systems, the modeling tools and patterns are the same. Learn how to implement immutability in a SQL database. See how immutability affects an API. And extend immutability across service boundaries via messages. Together we will build an immutable architecture in .NET, persist data in SQL Server, and synchronize apps across a service bus. The example is open source, and based on real-world systems. Those systems have benefited from immutability to solve technical and business problems. Come see how you can do the same.
+</Excerpt>
+    <PostDate>2021-03-11T00:00:00</PostDate>
+    <Id>1059</Id>
+    <Mp4Video>http://player.vimeo.com/external/523551717.hd.mp4?s=e9c1bb2f5d5735fe4bbda5ae942bd98938bde310&amp;profile_id=175&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/523551717.sd.mp4?s=dc880ff6f8b3dcf9b9d9b186ebd82d89eba092b8&amp;profile_id=165&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Michael L Perry</name>
+      <slug>michael-l-perry</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>.net</name>
+      <slug>net</slug>
+    </Tags>
+    <Tags>
+      <name>.NET Core</name>
+      <slug>net-core</slug>
+    </Tags>
+    <Tags>
+      <name>ASP.NET Core</name>
+      <slug>asp-net-core</slug>
+    </Tags>
+    <Tags>
+      <name>Architecture</name>
+      <slug>architecture</slug>
+    </Tags>
+    <Tags>
+      <name>ASP.NET</name>
+      <slug>asp-net</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Power BI Architecture End-to-End</Title>
+    <Url>https://usergroup.tv/videos/power-bi-architecture-endtoend/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1084424191_295x166.jpg</Thumbnail>
+    <Excerpt>This session is a technical overview of Power BI architecture options for cloud, on-premises, and hybrid deployments. We will discuss the roles of Power BI Desktop, Power BI Service, Power BI Report Server, Power BI Embedded, Excel, as well as Power BI's relationship to other services in Azure and Office 365. Power BI terminology and its most prominent features and functionality will also be reviewed to help attendees gain an understanding of the broad collection of tools, services, and features which represent the Power BI ecosystem.
+</Excerpt>
+    <PostDate>2021-03-10T00:00:00</PostDate>
+    <Id>1060</Id>
+    <Mp4Video>http://player.vimeo.com/external/523546959.hd.mp4?s=50e500e54601f3337f8d2b154fc5e88f9b98ec21&amp;profile_id=175&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/523546959.sd.mp4?s=c81209625b52cd93aad39f834d01f999be458bc7&amp;profile_id=164&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Melissa Coates</name>
+      <slug>melissa-coates</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Power BI</name>
+      <slug>power-bi</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Building a .NET Application Using Azure Cosmos DB</Title>
+    <Url>https://usergroup.tv/videos/building-a-net-application-using-azure-cosmos-db-2/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1084412342_295x166.jpg</Thumbnail>
+    <Excerpt>Are you looking to build an application that needs a data store with guaranteed single-digit millisecond response times with multi-master global distribution? Then Azure Cosmos DB is for you. In this presentation, you will learn what exactly Cosmos DB is, what it can be used for, how to access data stored in Cosmos using .NET, and some pitfalls you will want to avoid.
+</Excerpt>
+    <PostDate>2021-03-08T00:00:00</PostDate>
+    <Id>1061</Id>
+    <Mp4Video>http://player.vimeo.com/external/523546675.hd.mp4?s=8b633410acff5e33449820e4fd4677af0f2d4e36&amp;profile_id=175&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/523546675.sd.mp4?s=8b844f21af65ac326ae1cb4403b1a3d8d13a397d&amp;profile_id=165&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Chad Green</name>
+      <slug>chad-green</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin .NET UG</name>
+      <slug>austin-net-ug</slug>
+    </Groups>
+    <Tags>
+      <name>.net</name>
+      <slug>net</slug>
+    </Tags>
+    <Tags>
+      <name>Cosmos DB</name>
+      <slug>cosmos-db</slug>
+    </Tags>
+    <Tags>
+      <name>.NET Core</name>
+      <slug>net-core</slug>
+    </Tags>
+    <Tags>
+      <name>ASP.NET Core</name>
+      <slug>asp-net-core</slug>
+    </Tags>
+    <Tags>
+      <name>ASP.NET</name>
+      <slug>asp-net</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

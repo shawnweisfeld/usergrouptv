@@ -32,12 +32,12 @@
     {
       "name": ".net",
       "slug": "net",
-      "count": 14
+      "count": 16
     },
     {
       "name": ".NET Core",
       "slug": "net-core",
-      "count": 5
+      "count": 7
     },
     {
       "name": "Compiler",
@@ -49,7 +49,7 @@
     {
       "name": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "count": 17
+      "count": 18
     }
   ]
 }

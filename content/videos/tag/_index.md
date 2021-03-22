@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2021-03-14T23:22:23.7940395Z",
+  "date": "2021-03-22T14:20:55.8907234Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -224,9 +224,9 @@
     {
       "title": "Azure",
       "slug": "azure",
-      "thumbnail": "https://i.vimeocdn.com/video/1039951207_295x166.jpg",
-      "date": "2021-01-19T00:00:00",
-      "count": 39
+      "thumbnail": "https://i.vimeocdn.com/video/1091600574_295x166.jpg",
+      "date": "2021-03-16T00:00:00",
+      "count": 40
     },
     {
       "title": "Azure AD",
@@ -651,9 +651,9 @@
     {
       "title": "Cosmos DB",
       "slug": "cosmos-db",
-      "thumbnail": "https://i.vimeocdn.com/video/1084412342_295x166.jpg",
-      "date": "2021-03-08T00:00:00",
-      "count": 6
+      "thumbnail": "https://i.vimeocdn.com/video/1091600574_295x166.jpg",
+      "date": "2021-03-16T00:00:00",
+      "count": 7
     },
     {
       "title": "CQRS",

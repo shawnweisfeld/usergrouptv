@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2021-03-14T23:22:24.8058129Z",
+  "date": "2021-03-22T14:20:56.6443761Z",
   "draft": false,
   "meetups": [
     {
@@ -133,9 +133,9 @@
     {
       "title": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "thumbnail": "https://i.vimeocdn.com/video/1039951207_295x166.jpg",
-      "date": "2021-01-19T00:00:00",
-      "count": 45
+      "thumbnail": "https://i.vimeocdn.com/video/1091600574_295x166.jpg",
+      "date": "2021-03-16T00:00:00",
+      "count": 46
     },
     {
       "title": "Capitol Area Central Texas Users of SQL Server",
@@ -259,9 +259,9 @@
     {
       "title": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1039951207_295x166.jpg",
-      "date": "2021-01-19T00:00:00",
-      "count": 9
+      "thumbnail": "https://i.vimeocdn.com/video/1091600574_295x166.jpg",
+      "date": "2021-03-16T00:00:00",
+      "count": 10
     },
     {
       "title": "DFW C++ User Group",

@@ -3,19 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2021-03-14T23:22:24+00:00</lastmod>
+    <lastmod>2021-03-22T14:20:56+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2021-03-14T23:22:23+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/</loc>
-    <lastmod>2021-03-14T23:22:22+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2021-03-14T23:22:22+00:00</lastmod>
+    <lastmod>2021-03-22T14:20:55+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2021-03-14T23:22:22+00:00</lastmod>
+    <lastmod>2021-03-22T14:20:54+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/</loc>
+    <lastmod>2021-03-22T14:20:52+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/</loc>
+    <lastmod>2021-03-22T14:20:52+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/azure/</loc>
+    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/azure/</loc>
+    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
+    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/azure-austin-meetup/</loc>
+    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/chad-green/</loc>
+    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/chad-green/</loc>
+    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/cosmos-db/</loc>
+    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/cosmos-db/</loc>
+    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/dfw-azure-user-group/</loc>
+    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</loc>
+    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/the-hitchhikers-guide-to-the-cosmos/</loc>
+    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/.net/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
@@ -56,9 +92,6 @@
     <loc>https://usergroup.tv/videos/category/speaker/michael-l-perry/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -93,18 +126,6 @@
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/building-a-net-application-using-azure-cosmos-db-2/</loc>
-    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/chad-green/</loc>
-    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/chad-green/</loc>
-    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/cosmos-db/</loc>
-    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/cosmos-db/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/aspnet-in-linux-and-windows-containers/</loc>
@@ -179,25 +200,7 @@
     <loc>https://usergroup.tv/videos/tag/api/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/azure/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/azure/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/videos/azure-api-management-2/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/azure-austin-meetup/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/dfw-azure-user-group/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/sven-malvik/</loc>

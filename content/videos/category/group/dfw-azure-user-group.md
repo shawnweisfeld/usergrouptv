@@ -5,9 +5,31 @@
     "DFW Azure User Group"
   ],
   "slug": "dfw-azure-user-group",
-  "date": "2021-01-19T00:00:00",
+  "date": "2021-03-16T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "The Hitchhiker's Guide to the Cosmos",
+      "slug": "the-hitchhikers-guide-to-the-cosmos",
+      "thumbnail": "https://i.vimeocdn.com/video/1091600574_295x166.jpg",
+      "date": "2021-03-16T00:00:00",
+      "speakers": [
+        {
+          "name": "Chad Green",
+          "slug": "chad-green"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cosmos DB",
+          "slug": "cosmos-db"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
+      ]
+    },
     {
       "title": "Azure API Management",
       "slug": "azure-api-management-2",

@@ -1,12 +1,44 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-03-14T23:22:22.4367679Z",
+  "date": "2021-03-22T14:20:52.8634258Z",
   "draft": false,
-  "recordingCount": "1,055",
+  "recordingCount": "1,056",
   "speakerCount": "592",
   "groupCount": "66",
   "newest": [
+    {
+      "title": "The Hitchhiker's Guide to the Cosmos",
+      "slug": "the-hitchhikers-guide-to-the-cosmos",
+      "thumbnail": "https://i.vimeocdn.com/video/1091600574_295x166.jpg",
+      "date": "2021-03-16T00:00:00",
+      "speakers": [
+        {
+          "name": "Chad Green",
+          "slug": "chad-green"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cosmos DB",
+          "slug": "cosmos-db"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
+      ]
+    },
     {
       "title": "Exploring an Immutable Architecture",
       "slug": "exploring-an-immutable-architecture",
@@ -524,38 +556,6 @@
         {
           "name": "Azure",
           "slug": "azure"
-        }
-      ]
-    },
-    {
-      "title": "HtmlTags: The TagHelper library you didn’t know you needed",
-      "slug": "htmltags-the-taghelper-library-you-didnt-know-you-needed",
-      "thumbnail": "https://i.vimeocdn.com/video/994396762_295x166.jpg",
-      "date": "2020-11-09T00:00:00",
-      "speakers": [
-        {
-          "name": "Nolan Egly",
-          "slug": "nolan-egly"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin .NET UG",
-          "slug": "austin-net-ug"
-        }
-      ],
-      "tags": [
-        {
-          "name": "ASP.NET MVC",
-          "slug": "asp-net-mvc"
-        },
-        {
-          "name": "ASP.NET",
-          "slug": "asp-net"
-        },
-        {
-          "name": "HtmlTags",
-          "slug": "htmltags"
         }
       ]
     }

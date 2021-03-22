@@ -25,7 +25,7 @@
       "name": "Chad Green",
       "slug": "chad-green",
       "bio": "Chad Green is a manager, software development, architect, community leader, Microsoft MVP, and most importantly a father and husband. Over his career spanning three decades, Chad has managed groups from 3 to 63 people, worked on projects in a wide range of markets including education, healthcare, military, government, workforce management, financial services, chemical research, and electronic commerce. Being a big believer in giving back and wanting to ensure that there are cool events for others, Chad founded and chairs the annual Code PaLOUsa conference, organizers the Louisville .NET Meetup user group and the Monthly Tech Leader Coffee and Discussion and has helped other groups like the Louisville Tech Ladies and events like Cincy Deliver.",
-      "count": 3
+      "count": 4
     }
   ],
   "ugtvtags": [
@@ -37,12 +37,12 @@
     {
       "name": "Cosmos DB",
       "slug": "cosmos-db",
-      "count": 6
+      "count": 7
     },
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 39
+      "count": 40
     }
   ],
   "meetups": [

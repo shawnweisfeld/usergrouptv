@@ -6,7 +6,61 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Mar 2021 14:20:52 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Mar 2021 18:06:52 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>https://usergroup.tv/videos/tag/docker/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jamie Phillips</title>
+      <link>https://usergroup.tv/videos/category/speaker/jamie-phillips/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/jamie-phillips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K8S</title>
+      <link>https://usergroup.tv/videos/tag/k8s/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/k8s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>https://usergroup.tv/videos/tag/kubernetes/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solutions to Local Kubernetes Development</title>
+      <link>https://usergroup.tv/videos/solutions-to-local-kubernetes-development/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/solutions-to-local-kubernetes-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Azure</title>
       <link>https://usergroup.tv/videos/tag/azure/</link>
@@ -125,15 +179,6 @@
     </item>
     
     <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
-      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Austin Power BI User Group</title>
       <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
       <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
@@ -202,15 +247,6 @@
       <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/containers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Docker</title>
-      <link>https://usergroup.tv/videos/tag/docker/</link>
-      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/docker/</guid>
       <description></description>
     </item>
     
@@ -2536,15 +2572,6 @@ What do we use your information for?</description>
       <pubDate>Wed, 14 Aug 2019 14:16:16 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/fundamentals-of-the-azure-kubernetes-service/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K8S</title>
-      <link>https://usergroup.tv/videos/tag/k8s/</link>
-      <pubDate>Wed, 14 Aug 2019 14:16:16 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/k8s/</guid>
       <description></description>
     </item>
     
@@ -10708,15 +10735,6 @@ What do we use your information for?</description>
       <pubDate>Thu, 21 Apr 2016 10:57:35 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/docker-swarm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kubernetes</title>
-      <link>https://usergroup.tv/videos/tag/kubernetes/</link>
-      <pubDate>Thu, 21 Apr 2016 10:57:35 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/kubernetes/</guid>
       <description></description>
     </item>
     

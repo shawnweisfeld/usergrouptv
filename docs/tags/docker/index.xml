@@ -6,22 +6,31 @@
     <description>Recent content in Docker on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>https://usergroup.tv/videos/tag/docker/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solutions to Local Kubernetes Development</title>
+      <link>https://usergroup.tv/videos/solutions-to-local-kubernetes-development/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/solutions-to-local-kubernetes-development/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ASP.NET in Linux and Windows containers</title>
       <link>https://usergroup.tv/videos/aspnet-in-linux-and-windows-containers/</link>
       <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/aspnet-in-linux-and-windows-containers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Docker</title>
-      <link>https://usergroup.tv/videos/tag/docker/</link>
-      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/docker/</guid>
       <description></description>
     </item>
     

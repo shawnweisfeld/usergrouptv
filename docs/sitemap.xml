@@ -3,19 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2021-03-22T14:20:56+00:00</lastmod>
+    <lastmod>2021-03-27T18:06:54+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2021-03-22T14:20:55+00:00</lastmod>
+    <lastmod>2021-03-27T18:06:54+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2021-03-22T14:20:54+00:00</lastmod>
+    <lastmod>2021-03-27T18:06:53+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2021-03-22T14:20:52+00:00</lastmod>
+    <lastmod>2021-03-27T18:06:52+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2021-03-22T14:20:52+00:00</lastmod>
+    <lastmod>2021-03-27T18:06:52+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/docker/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/docker/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/jamie-phillips/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/jamie-phillips/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/k8s/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/k8s/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/kubernetes/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/kubernetes/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/solutions-to-local-kubernetes-development/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/azure/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
@@ -45,9 +81,6 @@
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</loc>
-    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/the-hitchhikers-guide-to-the-cosmos/</loc>
@@ -92,12 +125,6 @@
     <loc>https://usergroup.tv/videos/category/speaker/michael-l-perry/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -135,12 +162,6 @@
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/containers/</loc>
-    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/docker/</loc>
-    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/docker/</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/rob-richardson/</loc>
@@ -1383,12 +1404,6 @@
     <lastmod>2019-08-20T13:38:30+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/fundamentals-of-the-azure-kubernetes-service/</loc>
-    <lastmod>2019-08-14T14:16:16+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/k8s/</loc>
-    <lastmod>2019-08-14T14:16:16+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/k8s/</loc>
     <lastmod>2019-08-14T14:16:16+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/ned-bellavance/</loc>
@@ -5493,12 +5508,6 @@
     <lastmod>2016-04-21T10:57:35+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/docker-swarm/</loc>
-    <lastmod>2016-04-21T10:57:35+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/kubernetes/</loc>
-    <lastmod>2016-04-21T10:57:35+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/kubernetes/</loc>
     <lastmod>2016-04-21T10:57:35+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/lee-calcote/</loc>

@@ -6,22 +6,31 @@
     <description>Recent content in Kubernetes on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Apr 2016 10:57:35 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kubernetes</title>
+      <link>https://usergroup.tv/videos/tag/kubernetes/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solutions to Local Kubernetes Development</title>
+      <link>https://usergroup.tv/videos/solutions-to-local-kubernetes-development/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/solutions-to-local-kubernetes-development/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Contrasting Container Orchestrators </title>
       <link>https://usergroup.tv/videos/contrasting-container-orchestrators/</link>
       <pubDate>Thu, 21 Apr 2016 10:57:35 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/contrasting-container-orchestrators/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kubernetes</title>
-      <link>https://usergroup.tv/videos/tag/kubernetes/</link>
-      <pubDate>Thu, 21 Apr 2016 10:57:35 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/kubernetes/</guid>
       <description></description>
     </item>
     

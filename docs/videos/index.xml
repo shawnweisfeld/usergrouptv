@@ -6,7 +6,16 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Mar 2021 14:20:52 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Mar 2021 18:06:52 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solutions to Local Kubernetes Development</title>
+      <link>https://usergroup.tv/videos/solutions-to-local-kubernetes-development/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/solutions-to-local-kubernetes-development/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>The Hitchhiker&#39;s Guide to the Cosmos</title>
       <link>https://usergroup.tv/videos/the-hitchhikers-guide-to-the-cosmos/</link>

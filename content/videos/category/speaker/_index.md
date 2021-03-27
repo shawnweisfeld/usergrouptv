@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-03-22T14:20:54.998026Z",
+  "date": "2021-03-27T12:26:57.4398112Z",
   "draft": false,
   "speakers": [
     {
@@ -1528,6 +1528,13 @@
       "slug": "jamie-dorobek",
       "thumbnail": "https://i.vimeocdn.com/video/650697877_295x166.jpg",
       "date": "2017-08-05T17:03:05",
+      "count": 1
+    },
+    {
+      "title": "Jamie Phillips",
+      "slug": "jamie-phillips",
+      "thumbnail": "https://i.vimeocdn.com/video/1096213728_295x166.jpg",
+      "date": "2021-03-23T00:00:00",
       "count": 1
     },
     {

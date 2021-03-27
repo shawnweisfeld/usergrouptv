@@ -26472,4 +26472,36 @@ In this session, you will learn what you can do with Cosmos DB, the benefits of 
       <slug>azure</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Solutions to Local Kubernetes Development</Title>
+    <Url>https://usergroup.tv/videos/solutions-to-local-kubernetes-development/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1096213728_295x166.jpg</Thumbnail>
+    <Excerpt>Are you interested in Kubernetes? Getting started with it can be challenging, especially if you feel you need a cluster to learn how to use it. Did you know there are several options for running a cluster locally? A locally running cluster provides the complete experience that you would have from a production-ready cluster. We are going to review these options, even including running a cluster using containers. By the end of the presentation, you should have at least one solution to leverage to gain Kubernetes experience.
+</Excerpt>
+    <PostDate>2021-03-23T00:00:00</PostDate>
+    <Id>1063</Id>
+    <Mp4Video>http://player.vimeo.com/external/529688542.hd.mp4?s=f1bd6190d5f4c02642907e3debd9be7dcf2b9f70&amp;profile_id=175&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/529688542.sd.mp4?s=f53c790f6c2d9b083cb23cff15efbb773ac87a23&amp;profile_id=165&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Jamie Phillips</name>
+      <slug>jamie-phillips</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>K8S</name>
+      <slug>k8s</slug>
+    </Tags>
+    <Tags>
+      <name>Docker</name>
+      <slug>docker</slug>
+    </Tags>
+    <Tags>
+      <name>Kubernetes</name>
+      <slug>kubernetes</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

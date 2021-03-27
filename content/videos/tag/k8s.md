@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "k8s",
-  "date": "2019-08-14T14:16:16",
+  "date": "2021-03-23T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Solutions to Local Kubernetes Development",
+      "slug": "solutions-to-local-kubernetes-development",
+      "thumbnail": "https://i.vimeocdn.com/video/1096213728_295x166.jpg",
+      "date": "2021-03-23T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Jamie Phillips",
+          "slug": "jamie-phillips"
+        }
+      ]
+    },
     {
       "title": "Fundamentals of the Azure Kubernetes Service",
       "slug": "fundamentals-of-the-azure-kubernetes-service",

@@ -1,12 +1,44 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-03-22T14:20:52.8634258Z",
+  "date": "2021-03-27T12:26:56.6628876Z",
   "draft": false,
-  "recordingCount": "1,056",
-  "speakerCount": "592",
+  "recordingCount": "1,057",
+  "speakerCount": "593",
   "groupCount": "66",
   "newest": [
+    {
+      "title": "Solutions to Local Kubernetes Development",
+      "slug": "solutions-to-local-kubernetes-development",
+      "thumbnail": "https://i.vimeocdn.com/video/1096213728_295x166.jpg",
+      "date": "2021-03-23T00:00:00",
+      "speakers": [
+        {
+          "name": "Jamie Phillips",
+          "slug": "jamie-phillips"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "K8S",
+          "slug": "k8s"
+        },
+        {
+          "name": "Docker",
+          "slug": "docker"
+        },
+        {
+          "name": "Kubernetes",
+          "slug": "kubernetes"
+        }
+      ]
+    },
     {
       "title": "The Hitchhiker's Guide to the Cosmos",
       "slug": "the-hitchhikers-guide-to-the-cosmos",
@@ -524,38 +556,6 @@
         {
           "name": "PowerBI",
           "slug": "powerbi"
-        }
-      ]
-    },
-    {
-      "title": "Building a .NET Application Using Azure Cosmos DB",
-      "slug": "building-a-net-application-using-azure-cosmos-db",
-      "thumbnail": "https://i.vimeocdn.com/video/994396316_295x166.jpg",
-      "date": "2020-11-09T00:00:00",
-      "speakers": [
-        {
-          "name": "Chad Green",
-          "slug": "chad-green"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": ".net",
-          "slug": "net"
-        },
-        {
-          "name": "Cosmos DB",
-          "slug": "cosmos-db"
-        },
-        {
-          "name": "Azure",
-          "slug": "azure"
         }
       ]
     }

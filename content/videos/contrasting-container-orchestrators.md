@@ -31,7 +31,7 @@
     {
       "name": "Kubernetes",
       "slug": "kubernetes",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Docker Swarm",

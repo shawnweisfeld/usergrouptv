@@ -10,13 +10,13 @@
   "abstract": "What is leadership? That term gets thrown around a lot, but what is it really? What do leader do that makes them leaders? Leadership can be learned and that is good as leaders are in high demand and in short supply. TO be an effective leader, you must first understand what leadership is and what traits a leader exhibits. During this session, we will review leadership traits and principles and how you can implement them within your teams. By demonstrating these in your daily activities you will earn the respect, confidence, and loyal cooperation of those on your team.\r\n",
   "description": "What is leadership? That term gets thrown around a lot, but what is it really? What do leader do that makes them leaders? Leadership can be learned and that is good as leaders are in high demand and in short supply. TO be an effective leader, you must first understand what leadership is and what traits a leader exhibits. During this session, we will review leadership traits and principles and how you can implement them within your teams. By demonstrating these in your daily activities you will earn the respect, confidence, and loyal cooperation of those on your team.\r\n",
   "images": [
-    "/images/thumbnail.png"
+    "https://i.vimeocdn.com/video/1108602152_295x166.jpg"
   ],
-  "vimeo": "0",
+  "vimeo": "535485418",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/276982091/",
-  "thumbnail": "/images/thumbnail.png",
-  "mp4Video": null,
-  "mp4VideoLow": null,
+  "thumbnail": "https://i.vimeocdn.com/video/1108602152_295x166.jpg",
+  "mp4Video": "http://player.vimeo.com/external/535485418.hd.mp4?s=84af7ed4b4fc4bdfaf499decd70076be35f1c8a3&profile_id=175&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/535485418.sd.mp4?s=3b5451b4645e1dc242e34208c532c321efc2666c&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 1064,
   "speakers": [
     {

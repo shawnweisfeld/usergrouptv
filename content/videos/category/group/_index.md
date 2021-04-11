@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2021-04-11T13:12:30.2840952Z",
+  "date": "2021-04-11T13:32:31.3141174Z",
   "draft": false,
   "meetups": [
     {
@@ -434,7 +434,7 @@
     {
       "title": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "thumbnail": "/images/thumbnail.png",
+      "thumbnail": "https://i.vimeocdn.com/video/1108602152_295x166.jpg",
       "date": "2021-04-08T00:00:00",
       "count": 20
     },

@@ -1,7 +1,7 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-04-11T13:12:26.0412957Z",
+  "date": "2021-04-11T13:32:23.0931032Z",
   "draft": false,
   "recordingCount": "1,058",
   "speakerCount": "593",
@@ -10,7 +10,7 @@
     {
       "title": "How to be a Leader",
       "slug": "how-to-be-a-leader",
-      "thumbnail": "/images/thumbnail.png",
+      "thumbnail": "https://i.vimeocdn.com/video/1108602152_295x166.jpg",
       "date": "2021-04-08T00:00:00",
       "speakers": [
         {

@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2021-04-11T13:12:29.3044703Z",
+  "date": "2021-04-11T13:32:29.6231355Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -1428,7 +1428,7 @@
     {
       "title": "Leadership",
       "slug": "leadership",
-      "thumbnail": "/images/thumbnail.png",
+      "thumbnail": "https://i.vimeocdn.com/video/1108602152_295x166.jpg",
       "date": "2021-04-08T00:00:00",
       "count": 2
     },

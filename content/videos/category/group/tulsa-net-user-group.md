@@ -11,7 +11,7 @@
     {
       "title": "How to be a Leader",
       "slug": "how-to-be-a-leader",
-      "thumbnail": "/images/thumbnail.png",
+      "thumbnail": "https://i.vimeocdn.com/video/1108602152_295x166.jpg",
       "date": "2021-04-08T00:00:00",
       "speakers": [
         {

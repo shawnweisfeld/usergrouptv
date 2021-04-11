@@ -1,12 +1,36 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-03-27T18:06:52.4944548Z",
+  "date": "2021-04-11T13:12:26.0412957Z",
   "draft": false,
-  "recordingCount": "1,057",
+  "recordingCount": "1,058",
   "speakerCount": "593",
   "groupCount": "66",
   "newest": [
+    {
+      "title": "How to be a Leader",
+      "slug": "how-to-be-a-leader",
+      "thumbnail": "/images/thumbnail.png",
+      "date": "2021-04-08T00:00:00",
+      "speakers": [
+        {
+          "name": "Chad Green",
+          "slug": "chad-green"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Leadership",
+          "slug": "leadership"
+        }
+      ]
+    },
     {
       "title": "Solutions to Local Kubernetes Development",
       "slug": "solutions-to-local-kubernetes-development",
@@ -532,30 +556,6 @@
         {
           "name": "Azure SQL Database",
           "slug": "azure-sql-database"
-        }
-      ]
-    },
-    {
-      "title": "How Power Query Thinks: Taking the Mystery Out of Streaming and Query Folding",
-      "slug": "how-power-query-thinks-taking-the-mystery-out-of-streaming-and-query-folding",
-      "thumbnail": "https://i.vimeocdn.com/video/994397461_295x166.jpg",
-      "date": "2020-11-11T00:00:00",
-      "speakers": [
-        {
-          "name": "Ben Gribaudo",
-          "slug": "ben-gribaudo"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "PowerBI",
-          "slug": "powerbi"
         }
       ]
     }

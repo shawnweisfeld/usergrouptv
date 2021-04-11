@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-03-27T18:06:53.673025Z",
+  "date": "2021-04-11T13:12:28.2829516Z",
   "draft": false,
   "speakers": [
     {
@@ -609,9 +609,9 @@
     {
       "title": "Chad Green",
       "slug": "chad-green",
-      "thumbnail": "https://i.vimeocdn.com/video/1091600574_295x166.jpg",
-      "date": "2021-03-16T00:00:00",
-      "count": 4
+      "thumbnail": "/images/thumbnail.png",
+      "date": "2021-04-08T00:00:00",
+      "count": 5
     },
     {
       "title": "Chad Howell",

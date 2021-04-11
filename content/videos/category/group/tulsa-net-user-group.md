@@ -5,9 +5,27 @@
     "Tulsa .NET User Group"
   ],
   "slug": "tulsa-net-user-group",
-  "date": "2021-03-23T00:00:00",
+  "date": "2021-04-08T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "How to be a Leader",
+      "slug": "how-to-be-a-leader",
+      "thumbnail": "/images/thumbnail.png",
+      "date": "2021-04-08T00:00:00",
+      "speakers": [
+        {
+          "name": "Chad Green",
+          "slug": "chad-green"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Leadership",
+          "slug": "leadership"
+        }
+      ]
+    },
     {
       "title": "Solutions to Local Kubernetes Development",
       "slug": "solutions-to-local-kubernetes-development",

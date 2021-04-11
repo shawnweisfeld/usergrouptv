@@ -30,7 +30,7 @@
     {
       "name": "Leadership",
       "slug": "leadership",
-      "count": 1
+      "count": 2
     }
   ],
   "meetups": [

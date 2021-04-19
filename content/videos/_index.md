@@ -1,12 +1,36 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-04-11T13:32:23.0931032Z",
+  "date": "2021-04-19T02:28:07.4949348Z",
   "draft": false,
-  "recordingCount": "1,058",
-  "speakerCount": "593",
+  "recordingCount": "1,059",
+  "speakerCount": "594",
   "groupCount": "66",
   "newest": [
+    {
+      "title": "Power BI and Google Datasets to Find a Bike in Austin",
+      "slug": "power-bi-and-google-datasets-to-find-a-bike-in-austin",
+      "thumbnail": "https://i.vimeocdn.com/video/1114913453_295x166.jpg",
+      "date": "2021-04-14T00:00:00",
+      "speakers": [
+        {
+          "name": "Ruth Pozuelo Martinez (Curbal)",
+          "slug": "ruth-pozuelo-martinez-curbal"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "How to be a Leader",
       "slug": "how-to-be-a-leader",
@@ -524,38 +548,6 @@
         {
           "name": "Cryptography",
           "slug": "cryptography"
-        }
-      ]
-    },
-    {
-      "title": "SQL Server to Azure SQL: Performance and Availability",
-      "slug": "sql-server-to-azure-sql-performance-and-availability",
-      "thumbnail": "https://i.vimeocdn.com/video/999191466_295x166.jpg",
-      "date": "2020-11-17T00:00:00",
-      "speakers": [
-        {
-          "name": "Bob Ward",
-          "slug": "bob-ward"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        },
-        {
-          "name": "Capitol Area Central Texas Users of SQL Server",
-          "slug": "capitol-area-central-texas-users-of-sql-server"
-        },
-        {
-          "name": "DFW Azure User Group",
-          "slug": "dfw-azure-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Azure SQL Database",
-          "slug": "azure-sql-database"
         }
       ]
     }

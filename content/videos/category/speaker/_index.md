@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-04-11T13:32:27.6060645Z",
+  "date": "2021-04-19T02:28:09.6706944Z",
   "draft": false,
   "speakers": [
     {
@@ -3370,6 +3370,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/650696918_295x166.jpg",
       "date": "2017-08-05T17:19:59",
       "count": 2
+    },
+    {
+      "title": "Ruth Pozuelo Martinez (Curbal)",
+      "slug": "ruth-pozuelo-martinez-curbal",
+      "thumbnail": "https://i.vimeocdn.com/video/1114913453_295x166.jpg",
+      "date": "2021-04-14T00:00:00",
+      "count": 1
     },
     {
       "title": "Ryan Adams",

@@ -26528,4 +26528,27 @@ In this session, you will learn what you can do with Cosmos DB, the benefits of 
       <slug>leadership</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Power BI and Google Datasets to Find a Bike in Austin</Title>
+    <Url>https://usergroup.tv/videos/power-bi-and-google-datasets-to-find-a-bike-in-austin/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1114913453_295x166.jpg</Thumbnail>
+    <Excerpt>Find out the best time and place to grab a public bike in Austin, using Google Public Datasets and Power BI.</Excerpt>
+    <PostDate>2021-04-14T00:00:00</PostDate>
+    <Id>1065</Id>
+    <Mp4Video>http://player.vimeo.com/external/538480026.hd.mp4?s=7ec9a589d549430234256ac68723f311db52dd05&amp;profile_id=175&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/538480026.sd.mp4?s=4ca269c99e3372609f7ab07718e88388382edd09&amp;profile_id=164&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Ruth Pozuelo Martinez (Curbal)</name>
+      <slug>ruth-pozuelo-martinez-curbal</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Power BI</name>
+      <slug>power-bi</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

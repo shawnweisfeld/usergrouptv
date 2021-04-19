@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "power-bi",
-  "date": "2021-03-10T00:00:00",
+  "date": "2021-04-14T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Power BI and Google Datasets to Find a Bike in Austin",
+      "slug": "power-bi-and-google-datasets-to-find-a-bike-in-austin",
+      "thumbnail": "https://i.vimeocdn.com/video/1114913453_295x166.jpg",
+      "date": "2021-04-14T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Ruth Pozuelo Martinez (Curbal)",
+          "slug": "ruth-pozuelo-martinez-curbal"
+        }
+      ]
+    },
     {
       "title": "Power BI Architecture End-to-End",
       "slug": "power-bi-architecture-endtoend",

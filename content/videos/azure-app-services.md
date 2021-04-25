@@ -30,14 +30,14 @@
     {
       "name": "Azure App Services",
       "slug": "azure-app-services",
-      "count": 1
+      "count": 2
     }
   ],
   "meetups": [
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 46
+      "count": 47
     },
     {
       "name": "Austin Global Azure Bootcamp",

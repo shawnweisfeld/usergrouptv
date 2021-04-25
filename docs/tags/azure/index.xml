@@ -6,13 +6,22 @@
     <description>Recent content in Azure on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/azure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/azure/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure</title>
       <link>https://usergroup.tv/videos/tag/azure/</link>
-      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Five Azure Services Every Developer Should Know</title>
+      <link>https://usergroup.tv/videos/five-azure-services-every-developer-should-know/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/five-azure-services-every-developer-should-know/</guid>
       <description></description>
     </item>
     

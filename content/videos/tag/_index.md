@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2021-04-19T02:28:10.6325759Z",
+  "date": "2021-04-25T19:17:35.3352453Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -224,9 +224,9 @@
     {
       "title": "Azure",
       "slug": "azure",
-      "thumbnail": "https://i.vimeocdn.com/video/1091600574_295x166.jpg",
-      "date": "2021-03-16T00:00:00",
-      "count": 40
+      "thumbnail": "https://i.vimeocdn.com/video/1120787910_295x166.jpg",
+      "date": "2021-04-20T00:00:00",
+      "count": 41
     },
     {
       "title": "Azure AD",
@@ -238,9 +238,9 @@
     {
       "title": "Azure App Services",
       "slug": "azure-app-services",
-      "thumbnail": "https://i.vimeocdn.com/video/778966437_295x166.jpg",
-      "date": "2019-04-27T13:39:31",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1120787910_295x166.jpg",
+      "date": "2021-04-20T00:00:00",
+      "count": 2
     },
     {
       "title": "Azure Blueprint",
@@ -280,9 +280,9 @@
     {
       "title": "Azure Functions",
       "slug": "azure-functions",
-      "thumbnail": "https://i.vimeocdn.com/video/662472028_295x166.jpg",
-      "date": "2017-10-18T11:35:56",
-      "count": 6
+      "thumbnail": "https://i.vimeocdn.com/video/1120787910_295x166.jpg",
+      "date": "2021-04-20T00:00:00",
+      "count": 7
     },
     {
       "title": "Azure IaaS",
@@ -651,9 +651,9 @@
     {
       "title": "Cosmos DB",
       "slug": "cosmos-db",
-      "thumbnail": "https://i.vimeocdn.com/video/1091600574_295x166.jpg",
-      "date": "2021-03-16T00:00:00",
-      "count": 7
+      "thumbnail": "https://i.vimeocdn.com/video/1120787910_295x166.jpg",
+      "date": "2021-04-20T00:00:00",
+      "count": 8
     },
     {
       "title": "CQRS",
@@ -908,6 +908,13 @@
       "count": 1
     },
     {
+      "title": "Documentation",
+      "slug": "documentation",
+      "thumbnail": "https://i.vimeocdn.com/video/1120620236_295x166.jpg",
+      "date": "2021-04-20T00:00:00",
+      "count": 1
+    },
+    {
       "title": "DocuSign",
       "slug": "docusign",
       "thumbnail": "https://i.vimeocdn.com/video/634593156_295x166.jpg",
@@ -1134,9 +1141,9 @@
     {
       "title": "GitHub",
       "slug": "github",
-      "thumbnail": "https://i.vimeocdn.com/video/833796599_295x166.jpg",
-      "date": "2019-11-19T16:17:46",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1120620236_295x166.jpg",
+      "date": "2021-04-20T00:00:00",
+      "count": 2
     },
     {
       "title": "gPRC",
@@ -2408,9 +2415,9 @@
     {
       "title": "SQL",
       "slug": "sql",
-      "thumbnail": "https://i.vimeocdn.com/video/980844918_295x166.jpg",
-      "date": "2020-10-20T00:00:00",
-      "count": 15
+      "thumbnail": "https://i.vimeocdn.com/video/1120620236_295x166.jpg",
+      "date": "2021-04-20T00:00:00",
+      "count": 16
     },
     {
       "title": "SQL Admin",

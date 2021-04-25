@@ -37,12 +37,12 @@
     {
       "name": "Cosmos DB",
       "slug": "cosmos-db",
-      "count": 7
+      "count": 8
     },
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 40
+      "count": 41
     }
   ],
   "meetups": [

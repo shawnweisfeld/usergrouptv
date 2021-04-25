@@ -1,12 +1,92 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-04-19T02:28:07.4949348Z",
+  "date": "2021-04-25T19:17:34.17407Z",
   "draft": false,
-  "recordingCount": "1,059",
-  "speakerCount": "594",
-  "groupCount": "66",
+  "recordingCount": "1,061",
+  "speakerCount": "596",
+  "groupCount": "67",
   "newest": [
+    {
+      "title": "Become a Contributor to Microsoft Docs",
+      "slug": "become-a-contributor-to-microsoft-docs",
+      "thumbnail": "https://i.vimeocdn.com/video/1120620236_295x166.jpg",
+      "date": "2021-04-20T00:00:00",
+      "speakers": [
+        {
+          "name": "William Assaf",
+          "slug": "william-assaf"
+        },
+        {
+          "name": "Mark Ghanayem",
+          "slug": "mark-ghanayem"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "name": "SQL",
+          "slug": "sql"
+        },
+        {
+          "name": "Documentation",
+          "slug": "documentation"
+        }
+      ]
+    },
+    {
+      "title": "Five Azure Services Every Developer Should Know",
+      "slug": "five-azure-services-every-developer-should-know",
+      "thumbnail": "https://i.vimeocdn.com/video/1120787910_295x166.jpg",
+      "date": "2021-04-20T00:00:00",
+      "speakers": [
+        {
+          "name": "Joshua Carlisle",
+          "slug": "joshua-carlisle"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        },
+        {
+          "name": "Azure User Group - Houston",
+          "slug": "azure-user-group-houston"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure App Services",
+          "slug": "azure-app-services"
+        },
+        {
+          "name": "Cosmos DB",
+          "slug": "cosmos-db"
+        },
+        {
+          "name": "Azure Functions",
+          "slug": "azure-functions"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
+      ]
+    },
     {
       "title": "Power BI and Google Datasets to Find a Bike in Austin",
       "slug": "power-bi-and-google-datasets-to-find-a-bike-in-austin",
@@ -496,58 +576,6 @@
         {
           "name": "Blazor",
           "slug": "blazor"
-        }
-      ]
-    },
-    {
-      "title": "Forecasting in Power BI",
-      "slug": "forecasting-in-power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1014455189_295x166.jpg",
-      "date": "2020-12-09T00:00:00",
-      "speakers": [
-        {
-          "name": "Sandeep Pawar",
-          "slug": "sandeep-pawar"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Power BI",
-          "slug": "power-bi"
-        }
-      ]
-    },
-    {
-      "title": "Cryptography 101",
-      "slug": "cryptography-101-2",
-      "thumbnail": "https://i.vimeocdn.com/video/999196637_295x166.jpg",
-      "date": "2020-11-17T00:00:00",
-      "speakers": [
-        {
-          "name": "Robert Boedigheimer",
-          "slug": "robert-boedigheimer"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": ".net",
-          "slug": "net"
-        },
-        {
-          "name": "Cryptography",
-          "slug": "cryptography"
         }
       ]
     }

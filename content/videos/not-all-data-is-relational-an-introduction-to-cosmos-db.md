@@ -30,14 +30,14 @@
     {
       "name": "Cosmos DB",
       "slug": "cosmos-db",
-      "count": 7
+      "count": 8
     }
   ],
   "meetups": [
     {
       "name": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "count": 70
+      "count": 71
     },
     {
       "name": "SQL Saturday",

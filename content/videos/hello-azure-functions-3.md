@@ -30,7 +30,7 @@
     {
       "name": "Azure Functions",
       "slug": "azure-functions",
-      "count": 6
+      "count": 7
     }
   ],
   "meetups": [

@@ -5,9 +5,39 @@
     "Capitol Area Central Texas Users of SQL Server"
   ],
   "slug": "capitol-area-central-texas-users-of-sql-server",
-  "date": "2020-11-17T00:00:00",
+  "date": "2021-04-20T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Become a Contributor to Microsoft Docs",
+      "slug": "become-a-contributor-to-microsoft-docs",
+      "thumbnail": "https://i.vimeocdn.com/video/1120620236_295x166.jpg",
+      "date": "2021-04-20T00:00:00",
+      "speakers": [
+        {
+          "name": "William Assaf",
+          "slug": "william-assaf"
+        },
+        {
+          "name": "Mark Ghanayem",
+          "slug": "mark-ghanayem"
+        }
+      ],
+      "tags": [
+        {
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "name": "SQL",
+          "slug": "sql"
+        },
+        {
+          "name": "Documentation",
+          "slug": "documentation"
+        }
+      ]
+    },
     {
       "title": "SQL Server to Azure SQL: Performance and Availability",
       "slug": "sql-server-to-azure-sql-performance-and-availability",

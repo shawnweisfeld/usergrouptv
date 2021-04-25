@@ -26551,4 +26551,82 @@ In this session, you will learn what you can do with Cosmos DB, the benefits of 
       <slug>power-bi</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Become a Contributor to Microsoft Docs</Title>
+    <Url>https://usergroup.tv/videos/become-a-contributor-to-microsoft-docs/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1120620236_295x166.jpg</Thumbnail>
+    <Excerpt>Microsoft Docs are open source on Github! Join the SQL-Docs content team for a discussion on modern Microsoft documentation (regardless of technology). Learn about the content publishing engines behind Docs, and the best ways to add your content and fixes to Docs that are read by the entire customer community. There are hundreds of thousands of GitHub issues and PR’s submitted to Docs every month, how can you be an effective part of that process and get your face on the top of an article?</Excerpt>
+    <PostDate>2021-04-20T00:00:00</PostDate>
+    <Id>1066</Id>
+    <Mp4Video>http://player.vimeo.com/external/541283769.hd.mp4?s=1eb0c038cb5262897de2b6b569d580c3ba9bf92e&amp;profile_id=175&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/541283769.sd.mp4?s=e0e826971cc6015ac5e8216fc68f50e43019a6ae&amp;profile_id=165&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>William Assaf</name>
+      <slug>william-assaf</slug>
+    </Speakers>
+    <Speakers>
+      <name>Mark Ghanayem</name>
+      <slug>mark-ghanayem</slug>
+    </Speakers>
+    <Groups>
+      <name>Capitol Area Central Texas Users of SQL Server</name>
+      <slug>capitol-area-central-texas-users-of-sql-server</slug>
+    </Groups>
+    <Tags>
+      <name>GitHub</name>
+      <slug>github</slug>
+    </Tags>
+    <Tags>
+      <name>SQL</name>
+      <slug>sql</slug>
+    </Tags>
+    <Tags>
+      <name>Documentation</name>
+      <slug>documentation</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Five Azure Services Every Developer Should Know</Title>
+    <Url>https://usergroup.tv/videos/five-azure-services-every-developer-should-know/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1120787910_295x166.jpg</Thumbnail>
+    <Excerpt>Getting started with Azure can be daunting for new developers. With dozens of various platforms, it's easy to become overwhelmed with choices! Where should I host my applications? Where should I store my data? How do I manage my applications? Despite the broad number of services, it is possible to narrow down to a handful of platforms that meet many of the most common application requirements and is also a great place to get started learning more about Azure. In this talk, I'll introduce you to five of these platforms, how to work with them, alongside some best practices. Along the way, we'll implement and deploy a solution to Azure that takes advantage of them.</Excerpt>
+    <PostDate>2021-04-20T00:00:00</PostDate>
+    <Id>1067</Id>
+    <Mp4Video>http://player.vimeo.com/external/541285908.hd.mp4?s=aa3b840c1919979398581afb56a8aa259cc118a5&amp;profile_id=175&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/541285908.sd.mp4?s=d80a9113e4a0427b02301b4413c5daaf42b0702b&amp;profile_id=165&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Joshua Carlisle</name>
+      <slug>joshua-carlisle</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
+    <Groups>
+      <name>Azure User Group - Houston</name>
+      <slug>azure-user-group-houston</slug>
+    </Groups>
+    <Tags>
+      <name>Azure App Services</name>
+      <slug>azure-app-services</slug>
+    </Tags>
+    <Tags>
+      <name>Cosmos DB</name>
+      <slug>cosmos-db</slug>
+    </Tags>
+    <Tags>
+      <name>Azure Functions</name>
+      <slug>azure-functions</slug>
+    </Tags>
+    <Tags>
+      <name>Azure</name>
+      <slug>azure</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

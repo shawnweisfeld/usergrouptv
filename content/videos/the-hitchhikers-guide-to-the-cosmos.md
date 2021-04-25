@@ -31,24 +31,24 @@
     {
       "name": "Cosmos DB",
       "slug": "cosmos-db",
-      "count": 7
+      "count": 8
     },
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 40
+      "count": 41
     }
   ],
   "meetups": [
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 46
+      "count": 47
     },
     {
       "name": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "count": 10
+      "count": 11
     }
   ]
 }

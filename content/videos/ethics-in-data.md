@@ -22,8 +22,8 @@
     {
       "name": "William Assaf",
       "slug": "william-assaf",
-      "bio": "<p>William Assaf, MCSE, is a principal consultant and DBA Manager in Baton Rouge, LA. Initially a .NET developer, and later into database administration and architecture, William currently works with clients on SQL Server and Azure SQL platform optimization, management, disaster recovery and high availability, and manages a crack multi-city team of SQL DBA's at Sparkhound. William has written for Microsoft SQL Certification exams since 2011 and was the lead author of \"SQL Server 2017 Administration Inside Out\" by Microsoft Press, its second edition due out in 2019. William is a member of the Baton Rouge User Groups Board, a regional mentor for PASS, and head of the annual SQLSaturday Baton Rouge Planning Committee.</p>",
-      "count": 5
+      "bio": "William Assaf (@william_a_dba), a senior content developer on the SQL-Docs team. Formerly a Data Platform MVP and a consultant, William currently works with Microsoft product groups on content related to Microsoft SQL offerings, specifically over SQL performance, and Azure SQL DB, Big Data Clusters, and Azure Synapse.",
+      "count": 6
     },
     {
       "name": "Christine Assaf",
@@ -48,7 +48,7 @@
     {
       "name": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "count": 70
+      "count": 71
     }
   ]
 }

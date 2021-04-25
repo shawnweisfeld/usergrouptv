@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-04-19T02:28:09.6706944Z",
+  "date": "2021-04-25T19:17:34.7846718Z",
   "draft": false,
   "speakers": [
     {
@@ -2042,6 +2042,13 @@
       "count": 1
     },
     {
+      "title": "Joshua Carlisle",
+      "slug": "joshua-carlisle",
+      "thumbnail": "https://i.vimeocdn.com/video/1120787910_295x166.jpg",
+      "date": "2021-04-20T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Joydeep Ghosh",
       "slug": "joydeep-ghosh",
       "thumbnail": "https://i.vimeocdn.com/video/778966691_295x166.jpg",
@@ -2466,6 +2473,13 @@
       "slug": "mark-carleo",
       "thumbnail": "https://i.vimeocdn.com/video/660011864_295x166.jpg",
       "date": "2017-10-05T21:45:34",
+      "count": 1
+    },
+    {
+      "title": "Mark Ghanayem",
+      "slug": "mark-ghanayem",
+      "thumbnail": "https://i.vimeocdn.com/video/1120620236_295x166.jpg",
+      "date": "2021-04-20T00:00:00",
       "count": 1
     },
     {
@@ -4109,9 +4123,9 @@
     {
       "title": "William Assaf",
       "slug": "william-assaf",
-      "thumbnail": "https://i.vimeocdn.com/video/854624827_295x166.jpg",
-      "date": "2020-02-08T16:17:42",
-      "count": 5
+      "thumbnail": "https://i.vimeocdn.com/video/1120620236_295x166.jpg",
+      "date": "2021-04-20T00:00:00",
+      "count": 6
     },
     {
       "title": "Yasser Farra",

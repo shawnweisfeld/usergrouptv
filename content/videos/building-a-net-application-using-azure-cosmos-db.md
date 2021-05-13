@@ -37,7 +37,7 @@
     {
       "name": "Cosmos DB",
       "slug": "cosmos-db",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Azure",
@@ -49,7 +49,7 @@
     {
       "name": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "count": 20
+      "count": 21
     }
   ]
 }

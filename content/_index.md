@@ -1,12 +1,36 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-04-25T19:17:34.17407Z",
+  "date": "2021-05-13T19:47:35.9864754Z",
   "draft": false,
-  "recordingCount": "1,061",
-  "speakerCount": "596",
+  "recordingCount": "1,063",
+  "speakerCount": "598",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Introduction to Paginated Reports",
+      "slug": "introduction-to-paginated-reports",
+      "thumbnail": "https://i.vimeocdn.com/video/1136394295_295x166",
+      "date": "2021-05-12T00:00:00",
+      "speakers": [
+        {
+          "name": "Laura Graham-Brown",
+          "slug": "laura-grahambrown"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "Become a Contributor to Microsoft Docs",
       "slug": "become-a-contributor-to-microsoft-docs",
@@ -84,6 +108,34 @@
         {
           "name": "Azure",
           "slug": "azure"
+        }
+      ]
+    },
+    {
+      "title": "Cosmos Tools for the Relational Developer",
+      "slug": "cosmos-tools-for-the-relational-developer",
+      "thumbnail": "https://i.vimeocdn.com/video/1136615596_295x166",
+      "date": "2021-04-20T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Benkovich",
+          "slug": "mike-benkovich"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cosmos DB",
+          "slug": "cosmos-db"
+        },
+        {
+          "name": "Database",
+          "slug": "database"
         }
       ]
     },
@@ -512,70 +564,6 @@
         {
           "name": "Power BI",
           "slug": "power-bi"
-        }
-      ]
-    },
-    {
-      "title": "Event-Driven Architecture in the Cloud",
-      "slug": "eventdriven-architecture-in-the-cloud",
-      "thumbnail": "https://i.vimeocdn.com/video/1016814023_295x166.jpg",
-      "date": "2020-12-15T00:00:00",
-      "speakers": [
-        {
-          "name": "Chad Green",
-          "slug": "chad-green"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        },
-        {
-          "name": "DFW Azure User Group",
-          "slug": "dfw-azure-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Event Hubs",
-          "slug": "event-hubs"
-        },
-        {
-          "name": "Azure",
-          "slug": "azure"
-        }
-      ]
-    },
-    {
-      "title": ".NET 5 and .NET 6",
-      "slug": "net-5-and-net-6",
-      "thumbnail": "https://i.vimeocdn.com/video/1016803292_295x166.jpg",
-      "date": "2020-12-14T00:00:00",
-      "speakers": [
-        {
-          "name": "Scott Hunter",
-          "slug": "scott-hunter"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin .NET UG",
-          "slug": "austin-net-ug"
-        }
-      ],
-      "tags": [
-        {
-          "name": ".net",
-          "slug": "net"
-        },
-        {
-          "name": "ASP.NET",
-          "slug": "asp-net"
-        },
-        {
-          "name": "Blazor",
-          "slug": "blazor"
         }
       ]
     }

@@ -3,19 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2021-04-25T19:17:35+00:00</lastmod>
+    <lastmod>2021-05-13T19:47:37+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2021-04-25T19:17:35+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/</loc>
-    <lastmod>2021-04-25T19:17:34+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2021-04-25T19:17:34+00:00</lastmod>
+    <lastmod>2021-05-13T19:47:37+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2021-04-25T19:17:34+00:00</lastmod>
+    <lastmod>2021-05-13T19:47:36+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/</loc>
+    <lastmod>2021-05-13T19:47:35+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/</loc>
+    <lastmod>2021-05-13T19:47:35+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/introduction-to-paginated-reports/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/laura-graham-brown/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/laura-grahambrown/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/power-bi/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/power-bi/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/azure/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
@@ -62,6 +86,15 @@
     <loc>https://usergroup.tv/videos/tag/cosmos-db/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://usergroup.tv/videos/cosmos-tools-for-the-relational-developer/</loc>
+    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/database/</loc>
+    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/database/</loc>
+    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://usergroup.tv/tags/dfw-azure-user-group/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -95,13 +128,22 @@
     <loc>https://usergroup.tv/videos/category/speaker/mark-ghanayem/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://usergroup.tv/tags/mike-benkovich/</loc>
+    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/mike-benkovich/</loc>
+    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://usergroup.tv/tags/sql/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/sql/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/</loc>
+    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
+    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/william-assaf/</loc>
@@ -109,18 +151,6 @@
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/william-assaf/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
-    <lastmod>2021-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
-    <lastmod>2021-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/power-bi/</loc>
-    <lastmod>2021-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/power-bi/</loc>
-    <lastmod>2021-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/power-bi-and-google-datasets-to-find-a-bike-in-austin/</loc>
     <lastmod>2021-04-14T00:00:00+00:00</lastmod>
@@ -144,12 +174,6 @@
     <lastmod>2021-04-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/leadership/</loc>
-    <lastmod>2021-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
-    <lastmod>2021-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
     <lastmod>2021-04-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/docker/</loc>
@@ -1576,12 +1600,6 @@
   </url><url>
     <loc>https://usergroup.tv/videos/successfully-migrating-existing-databases-to-azure-sql-database-2/</loc>
     <lastmod>2019-07-13T14:01:49+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/database/</loc>
-    <lastmod>2019-07-13T13:58:57+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/database/</loc>
-    <lastmod>2019-07-13T13:58:57+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/joe-celko/</loc>
     <lastmod>2019-07-13T13:58:57+00:00</lastmod>

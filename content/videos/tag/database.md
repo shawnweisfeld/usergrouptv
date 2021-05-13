@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "database",
-  "date": "2019-07-13T13:58:57",
+  "date": "2021-04-20T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Cosmos Tools for the Relational Developer",
+      "slug": "cosmos-tools-for-the-relational-developer",
+      "thumbnail": "https://i.vimeocdn.com/video/1136615596_295x166",
+      "date": "2021-04-20T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Mike Benkovich",
+          "slug": "mike-benkovich"
+        }
+      ]
+    },
     {
       "title": "Scales, Measurements and Encoding Schemes",
       "slug": "scales-measurements-and-encoding-schemes",

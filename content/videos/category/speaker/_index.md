@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-04-25T19:17:34.7846718Z",
+  "date": "2021-05-13T19:47:36.646883Z",
   "draft": false,
   "speakers": [
     {
@@ -2315,6 +2315,13 @@
       "count": 4
     },
     {
+      "title": "Laura Graham-Brown",
+      "slug": "laura-grahambrown",
+      "thumbnail": "https://i.vimeocdn.com/video/1136394295_295x166",
+      "date": "2021-05-12T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Laura Musa",
       "slug": "laura-musa",
       "thumbnail": "https://i.vimeocdn.com/video/650784688_295x166.jpg",
@@ -2788,6 +2795,13 @@
       "slug": "miguel-gonzalez",
       "thumbnail": "https://i.vimeocdn.com/video/593964660_295x166.jpg",
       "date": "2016-09-24T19:56:29",
+      "count": 1
+    },
+    {
+      "title": "Mike Benkovich",
+      "slug": "mike-benkovich",
+      "thumbnail": "https://i.vimeocdn.com/video/1136615596_295x166",
+      "date": "2021-04-20T00:00:00",
       "count": 1
     },
     {

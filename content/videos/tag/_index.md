@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2021-04-25T19:17:35.3352453Z",
+  "date": "2021-05-13T19:47:37.3355654Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -653,7 +653,7 @@
       "slug": "cosmos-db",
       "thumbnail": "https://i.vimeocdn.com/video/1120787910_295x166.jpg",
       "date": "2021-04-20T00:00:00",
-      "count": 8
+      "count": 9
     },
     {
       "title": "CQRS",
@@ -777,9 +777,9 @@
     {
       "title": "Database",
       "slug": "database",
-      "thumbnail": "https://i.vimeocdn.com/video/798800080_295x166.jpg",
-      "date": "2019-07-13T13:58:57",
-      "count": 3
+      "thumbnail": "https://i.vimeocdn.com/video/1136615596_295x166",
+      "date": "2021-04-20T00:00:00",
+      "count": 4
     },
     {
       "title": "Databases",
@@ -1995,9 +1995,9 @@
     {
       "title": "Power BI",
       "slug": "power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1114913453_295x166.jpg",
-      "date": "2021-04-14T00:00:00",
-      "count": 24
+      "thumbnail": "https://i.vimeocdn.com/video/1136394295_295x166",
+      "date": "2021-05-12T00:00:00",
+      "count": 25
     },
     {
       "title": "Power Map",

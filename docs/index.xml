@@ -6,7 +6,43 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Apr 2021 19:17:34 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 May 2021 19:47:35 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Austin Power BI User Group</title>
+      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Paginated Reports</title>
+      <link>https://usergroup.tv/videos/introduction-to-paginated-reports/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/introduction-to-paginated-reports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laura Graham-Brown</title>
+      <link>https://usergroup.tv/videos/category/speaker/laura-grahambrown/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/laura-grahambrown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>https://usergroup.tv/videos/tag/power-bi/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Azure</title>
       <link>https://usergroup.tv/videos/tag/azure/</link>
@@ -80,6 +116,24 @@
     </item>
     
     <item>
+      <title>Cosmos Tools for the Relational Developer</title>
+      <link>https://usergroup.tv/videos/cosmos-tools-for-the-relational-developer/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/cosmos-tools-for-the-relational-developer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>https://usergroup.tv/videos/tag/database/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DFW Azure User Group</title>
       <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
@@ -134,6 +188,15 @@
     </item>
     
     <item>
+      <title>Mike Benkovich</title>
+      <link>https://usergroup.tv/videos/category/speaker/mike-benkovich/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/mike-benkovich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SQL</title>
       <link>https://usergroup.tv/videos/tag/sql/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
@@ -143,29 +206,20 @@
     </item>
     
     <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>William Assaf</title>
       <link>https://usergroup.tv/videos/category/speaker/william-assaf/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/william-assaf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Austin Power BI User Group</title>
-      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
-      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power BI</title>
-      <link>https://usergroup.tv/videos/tag/power-bi/</link>
-      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
       <description></description>
     </item>
     
@@ -211,15 +265,6 @@
       <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/leadership/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
-      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
       <description></description>
     </item>
     
@@ -2896,15 +2941,6 @@ What do we use your information for?</description>
       <pubDate>Sat, 13 Jul 2019 14:01:49 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/successfully-migrating-existing-databases-to-azure-sql-database-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Database</title>
-      <link>https://usergroup.tv/videos/tag/database/</link>
-      <pubDate>Sat, 13 Jul 2019 13:58:57 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/database/</guid>
       <description></description>
     </item>
     

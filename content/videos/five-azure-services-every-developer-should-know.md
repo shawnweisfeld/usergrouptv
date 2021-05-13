@@ -38,7 +38,7 @@
     {
       "name": "Cosmos DB",
       "slug": "cosmos-db",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Azure Functions",

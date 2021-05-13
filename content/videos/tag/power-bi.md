@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "power-bi",
-  "date": "2021-04-14T00:00:00",
+  "date": "2021-05-12T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Introduction to Paginated Reports",
+      "slug": "introduction-to-paginated-reports",
+      "thumbnail": "https://i.vimeocdn.com/video/1136394295_295x166",
+      "date": "2021-05-12T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Laura Graham-Brown",
+          "slug": "laura-grahambrown"
+        }
+      ]
+    },
     {
       "title": "Power BI and Google Datasets to Find a Bike in Austin",
       "slug": "power-bi-and-google-datasets-to-find-a-bike-in-austin",

@@ -35,6 +35,24 @@
       ]
     },
     {
+      "title": "Cosmos Tools for the Relational Developer",
+      "slug": "cosmos-tools-for-the-relational-developer",
+      "thumbnail": "https://i.vimeocdn.com/video/1136615596_295x166",
+      "date": "2021-04-20T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Mike Benkovich",
+          "slug": "mike-benkovich"
+        }
+      ]
+    },
+    {
       "title": "The Hitchhiker's Guide to the Cosmos",
       "slug": "the-hitchhikers-guide-to-the-cosmos",
       "thumbnail": "https://i.vimeocdn.com/video/1091600574_295x166.jpg",

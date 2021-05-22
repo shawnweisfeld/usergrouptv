@@ -1,12 +1,48 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-05-13T19:47:35.9864754Z",
+  "date": "2021-05-22T14:24:44.1097692Z",
   "draft": false,
-  "recordingCount": "1,063",
-  "speakerCount": "598",
+  "recordingCount": "1,064",
+  "speakerCount": "599",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Azure Arc Data Services",
+      "slug": "azure-arc-data-services",
+      "thumbnail": "https://i.vimeocdn.com/video/1144084262_295x166",
+      "date": "2021-05-18T00:00:00",
+      "speakers": [
+        {
+          "name": "Tolga Tekin",
+          "slug": "tolga-tekin"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        },
+        {
+          "name": "Azure Arc",
+          "slug": "azure-arc"
+        }
+      ]
+    },
     {
       "title": "Introduction to Paginated Reports",
       "slug": "introduction-to-paginated-reports",
@@ -540,30 +576,6 @@
         {
           "name": "Identity",
           "slug": "identity"
-        }
-      ]
-    },
-    {
-      "title": "Data modeling essentials and best practices in Power BI and AS tabular",
-      "slug": "data-modeling-essentials-and-best-practices-in-power-bi-and-as-tabular",
-      "thumbnail": "https://i.vimeocdn.com/video/1039313181_295x166.jpg",
-      "date": "2021-01-13T00:00:00",
-      "speakers": [
-        {
-          "name": "Paul Turley",
-          "slug": "paul-turley"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Power BI",
-          "slug": "power-bi"
         }
       ]
     }

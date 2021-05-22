@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2021-05-13T19:47:37.3355654Z",
+  "date": "2021-05-22T14:24:47.2701796Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -241,6 +241,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/1120787910_295x166.jpg",
       "date": "2021-04-20T00:00:00",
       "count": 2
+    },
+    {
+      "title": "Azure Arc",
+      "slug": "azure-arc",
+      "thumbnail": "https://i.vimeocdn.com/video/1144084262_295x166",
+      "date": "2021-05-18T00:00:00",
+      "count": 1
     },
     {
       "title": "Azure Blueprint",
@@ -2415,9 +2422,9 @@
     {
       "title": "SQL",
       "slug": "sql",
-      "thumbnail": "https://i.vimeocdn.com/video/1120620236_295x166.jpg",
-      "date": "2021-04-20T00:00:00",
-      "count": 16
+      "thumbnail": "https://i.vimeocdn.com/video/1144084262_295x166",
+      "date": "2021-05-18T00:00:00",
+      "count": 17
     },
     {
       "title": "SQL Admin",

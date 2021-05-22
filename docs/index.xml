@@ -6,7 +6,70 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 May 2021 19:47:35 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 May 2021 14:24:44 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Arc</title>
+      <link>https://usergroup.tv/videos/tag/azure-arc/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure-arc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Arc Data Services</title>
+      <link>https://usergroup.tv/videos/azure-arc-data-services/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/azure-arc-data-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Austin Meetup</title>
+      <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/azure-austin-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capitol Area Central Texas Users of SQL Server</title>
+      <link>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFW Azure User Group</title>
+      <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://usergroup.tv/videos/tag/sql/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tolga Tekin</title>
+      <link>https://usergroup.tv/videos/category/speaker/tolga-tekin/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/tolga-tekin/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Austin Power BI User Group</title>
       <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
@@ -62,15 +125,6 @@
     </item>
     
     <item>
-      <title>Azure Austin Meetup</title>
-      <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
-      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/azure-austin-meetup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Azure Functions</title>
       <link>https://usergroup.tv/videos/tag/azure-functions/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
@@ -98,15 +152,6 @@
     </item>
     
     <item>
-      <title>Capitol Area Central Texas Users of SQL Server</title>
-      <link>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</link>
-      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cosmos DB</title>
       <link>https://usergroup.tv/videos/tag/cosmos-db/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
@@ -130,15 +175,6 @@
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/database/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DFW Azure User Group</title>
-      <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
-      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
       <description></description>
     </item>
     
@@ -193,15 +229,6 @@
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/mike-benkovich/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQL</title>
-      <link>https://usergroup.tv/videos/tag/sql/</link>
-      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/sql/</guid>
       <description></description>
     </item>
     

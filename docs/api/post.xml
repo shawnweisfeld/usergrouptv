@@ -26681,4 +26681,39 @@ In this session, you will learn what you can do with Cosmos DB, the benefits of 
       <slug>power-bi</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Azure Arc Data Services</Title>
+    <Url>https://usergroup.tv/videos/azure-arc-data-services/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1144084262_295x166</Thumbnail>
+    <Excerpt>Bringing hybrid data services to customers on prem infra using Kubernetes and managing these instances via Azure portal.</Excerpt>
+    <PostDate>2021-05-18T00:00:00</PostDate>
+    <Id>1070</Id>
+    <Mp4Video>http://player.vimeo.com/external/553692638.hd.mp4?s=d17a1144c605bf61c15d6c36828acb1730e68eb4&amp;profile_id=175&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/553692638.sd.mp4?s=358ea4028d60244bf414fed8f838dc5461249e3a&amp;profile_id=165&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Tolga Tekin</name>
+      <slug>tolga-tekin</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>Capitol Area Central Texas Users of SQL Server</name>
+      <slug>capitol-area-central-texas-users-of-sql-server</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>SQL</name>
+      <slug>sql</slug>
+    </Tags>
+    <Tags>
+      <name>Azure Arc</name>
+      <slug>azure-arc</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

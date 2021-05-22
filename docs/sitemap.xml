@@ -3,19 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2021-05-13T19:47:37+00:00</lastmod>
+    <lastmod>2021-05-22T14:24:48+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2021-05-13T19:47:37+00:00</lastmod>
+    <lastmod>2021-05-22T14:24:47+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2021-05-13T19:47:36+00:00</lastmod>
+    <lastmod>2021-05-22T14:24:46+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2021-05-13T19:47:35+00:00</lastmod>
+    <lastmod>2021-05-22T14:24:44+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2021-05-13T19:47:35+00:00</lastmod>
+    <lastmod>2021-05-22T14:24:44+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/azure-arc/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/azure-arc/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/azure-arc-data-services/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/azure-austin-meetup/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/dfw-azure-user-group/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/sql/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/sql/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/tolga-tekin/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/tolga-tekin/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
     <lastmod>2021-05-12T00:00:00+00:00</lastmod>
@@ -38,9 +80,6 @@
     <loc>https://usergroup.tv/videos/tag/power-bi/</loc>
     <lastmod>2021-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/</loc>
-    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/azure/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -51,12 +90,6 @@
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/azure-app-services/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/azure-austin-meetup/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/azure-functions/</loc>
@@ -74,12 +107,6 @@
     <loc>https://usergroup.tv/videos/become-a-contributor-to-microsoft-docs/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/cosmos-db/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -93,12 +120,6 @@
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/database/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/dfw-azure-user-group/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/documentation/</loc>
@@ -132,12 +153,6 @@
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/mike-benkovich/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/sql/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/sql/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>

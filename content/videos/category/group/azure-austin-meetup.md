@@ -5,9 +5,31 @@
     "Azure Austin Meetup"
   ],
   "slug": "azure-austin-meetup",
-  "date": "2021-04-20T00:00:00",
+  "date": "2021-05-18T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Azure Arc Data Services",
+      "slug": "azure-arc-data-services",
+      "thumbnail": "https://i.vimeocdn.com/video/1144084262_295x166",
+      "date": "2021-05-18T00:00:00",
+      "speakers": [
+        {
+          "name": "Tolga Tekin",
+          "slug": "tolga-tekin"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        },
+        {
+          "name": "Azure Arc",
+          "slug": "azure-arc"
+        }
+      ]
+    },
     {
       "title": "Five Azure Services Every Developer Should Know",
       "slug": "five-azure-services-every-developer-should-know",

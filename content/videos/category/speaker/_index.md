@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-05-13T19:47:36.646883Z",
+  "date": "2021-05-22T14:24:46.3312446Z",
   "draft": false,
   "speakers": [
     {
@@ -4000,6 +4000,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/487541828_295x166.jpg",
       "date": "2012-09-25T15:17:04",
       "count": 2
+    },
+    {
+      "title": "Tolga Tekin",
+      "slug": "tolga-tekin",
+      "thumbnail": "https://i.vimeocdn.com/video/1144084262_295x166",
+      "date": "2021-05-18T00:00:00",
+      "count": 1
     },
     {
       "title": "Tom Baehr",

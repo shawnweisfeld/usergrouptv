@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-05-22T14:24:46.3312446Z",
+  "date": "2021-06-15T12:41:07.2738768Z",
   "draft": false,
   "speakers": [
     {
@@ -3475,6 +3475,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/615005495_295x166.jpg",
       "date": "2017-01-26T15:25:59",
       "count": 5
+    },
+    {
+      "title": "Sam McKay",
+      "slug": "sam-mckay",
+      "thumbnail": "https://i.vimeocdn.com/video/1164372990_295x166",
+      "date": "2021-06-09T00:00:00",
+      "count": 1
     },
     {
       "title": "Samantha Needham",

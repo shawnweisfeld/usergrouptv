@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "power-bi",
-  "date": "2021-05-12T00:00:00",
+  "date": "2021-06-09T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "How we use Power BI at Enterprise DNA",
+      "slug": "how-we-use-power-bi-at-enterprise-dna",
+      "thumbnail": "https://i.vimeocdn.com/video/1164372990_295x166",
+      "date": "2021-06-09T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Sam McKay",
+          "slug": "sam-mckay"
+        }
+      ]
+    },
     {
       "title": "Introduction to Paginated Reports",
       "slug": "introduction-to-paginated-reports",

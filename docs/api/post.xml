@@ -26716,4 +26716,27 @@ In this session, you will learn what you can do with Cosmos DB, the benefits of 
       <slug>azure-arc</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>How we use Power BI at Enterprise DNA</Title>
+    <Url>https://usergroup.tv/videos/how-we-use-power-bi-at-enterprise-dna/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1164372990_295x166</Thumbnail>
+    <Excerpt>Get a peek behind the curtains to a Learning Plan tool that we build using Power BI at Enterprise DNA and how it works. </Excerpt>
+    <PostDate>2021-06-09T00:00:00</PostDate>
+    <Id>1071</Id>
+    <Mp4Video>http://player.vimeo.com/external/562938681.hd.mp4?s=98cef2ba1b85b816d8c1c2afbf55f7a32fe6a530&amp;profile_id=174&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/562938681.sd.mp4?s=d4e651783c4b0fadc9bbb8eab1da67c05f2db2f6&amp;profile_id=164&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Sam McKay</name>
+      <slug>sam-mckay</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Power BI</name>
+      <slug>power-bi</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

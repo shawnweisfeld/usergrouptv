@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2021-05-22T14:24:48.049528Z",
+  "date": "2021-06-15T12:41:08.478038Z",
   "draft": false,
   "meetups": [
     {
@@ -112,9 +112,9 @@
     {
       "title": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1136394295_295x166",
-      "date": "2021-05-12T00:00:00",
-      "count": 20
+      "thumbnail": "https://i.vimeocdn.com/video/1164372990_295x166",
+      "date": "2021-06-09T00:00:00",
+      "count": 21
     },
     {
       "title": "Austin SQL Saturday",

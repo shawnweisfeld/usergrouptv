@@ -1,12 +1,36 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-05-22T14:24:44.1097692Z",
+  "date": "2021-06-15T12:41:06.7332891Z",
   "draft": false,
-  "recordingCount": "1,064",
-  "speakerCount": "599",
+  "recordingCount": "1,065",
+  "speakerCount": "600",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "How we use Power BI at Enterprise DNA",
+      "slug": "how-we-use-power-bi-at-enterprise-dna",
+      "thumbnail": "https://i.vimeocdn.com/video/1164372990_295x166",
+      "date": "2021-06-09T00:00:00",
+      "speakers": [
+        {
+          "name": "Sam McKay",
+          "slug": "sam-mckay"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "Azure Arc Data Services",
       "slug": "azure-arc-data-services",
@@ -540,42 +564,6 @@
         {
           "name": "Azure",
           "slug": "azure"
-        }
-      ]
-    },
-    {
-      "title": "Secure DevOps with the Microsoft Identity platform",
-      "slug": "secure-devops-with-the-microsoft-identity-platform",
-      "thumbnail": "https://i.vimeocdn.com/video/1057117933_295x166.jpg",
-      "date": "2021-01-14T00:00:00",
-      "speakers": [
-        {
-          "name": "Christos Matskas",
-          "slug": "christos-matskas"
-        },
-        {
-          "name": "John Patrick Dandison",
-          "slug": "john-patrick-dandison"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Azure DevOps",
-          "slug": "azure-devops"
-        },
-        {
-          "name": "DevOps",
-          "slug": "devops"
-        },
-        {
-          "name": "Identity",
-          "slug": "identity"
         }
       ]
     }

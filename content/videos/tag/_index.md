@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2021-05-22T14:24:47.2701796Z",
+  "date": "2021-06-15T12:41:07.8269428Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -2002,9 +2002,9 @@
     {
       "title": "Power BI",
       "slug": "power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1136394295_295x166",
-      "date": "2021-05-12T00:00:00",
-      "count": 25
+      "thumbnail": "https://i.vimeocdn.com/video/1164372990_295x166",
+      "date": "2021-06-09T00:00:00",
+      "count": 26
     },
     {
       "title": "Power Map",

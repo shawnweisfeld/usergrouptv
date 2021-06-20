@@ -3,19 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2021-06-15T12:41:08+00:00</lastmod>
+    <lastmod>2021-06-20T12:29:19+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2021-06-15T12:41:07+00:00</lastmod>
+    <lastmod>2021-06-20T12:29:18+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2021-06-15T12:41:07+00:00</lastmod>
+    <lastmod>2021-06-20T12:29:18+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2021-06-15T12:41:06+00:00</lastmod>
+    <lastmod>2021-06-20T12:29:17+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2021-06-15T12:41:06+00:00</lastmod>
+    <lastmod>2021-06-20T12:29:17+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/adam-whitlatch/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/adam-whitlatch/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/azure-austin-meetup/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/azure-virtual-desktop/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/azure-virtual-desktop/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/azure-virtual-desktop-by-adam-whitlatch/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/dfw-azure-user-group/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/mike-burek/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/mike-burek/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/sql/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/sql/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/the-case-statement/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
@@ -38,9 +89,6 @@
     <loc>https://usergroup.tv/videos/category/speaker/sam-mckay/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/azure-arc/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -48,30 +96,6 @@
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/azure-arc-data-services/</loc>
-    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
-    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/azure-austin-meetup/</loc>
-    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</loc>
-    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</loc>
-    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/dfw-azure-user-group/</loc>
-    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</loc>
-    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/sql/</loc>
-    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/sql/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/tolga-tekin/</loc>
@@ -1224,12 +1248,6 @@
     <lastmod>2019-11-11T17:23:37+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/insights-from-tech-hiring-managers/</loc>
-    <lastmod>2019-10-15T15:09:32+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/mike-burek/</loc>
-    <lastmod>2019-10-15T15:09:32+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/mike-burek/</loc>
     <lastmod>2019-10-15T15:09:32+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/report-showcase/</loc>

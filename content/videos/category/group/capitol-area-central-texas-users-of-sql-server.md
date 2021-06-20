@@ -5,9 +5,27 @@
     "Capitol Area Central Texas Users of SQL Server"
   ],
   "slug": "capitol-area-central-texas-users-of-sql-server",
-  "date": "2021-05-18T00:00:00",
+  "date": "2021-06-16T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "The CASE statement",
+      "slug": "the-case-statement",
+      "thumbnail": "https://i.vimeocdn.com/video/1168688602_295x166",
+      "date": "2021-06-16T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Burek",
+          "slug": "mike-burek"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        }
+      ]
+    },
     {
       "title": "Azure Arc Data Services",
       "slug": "azure-arc-data-services",

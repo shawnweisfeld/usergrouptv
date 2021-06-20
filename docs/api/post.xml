@@ -26739,4 +26739,75 @@ In this session, you will learn what you can do with Cosmos DB, the benefits of 
       <slug>power-bi</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Azure Virtual Desktop by Adam Whitlatch</Title>
+    <Url>https://usergroup.tv/videos/azure-virtual-desktop-by-adam-whitlatch/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1168688870_295x166</Thumbnail>
+    <Excerpt>Azure Virtual Desktop (aka. Windows Virtual Desktop) is a desktop app virtualization service that runs in Azure. Come learn how Windows Virtual Desktop can help you deploy and scale your Windows Desktops and Apps in Azure in minutes all while allowing your employees to work in a secure manner wherever they are? We’ll discuss the current capabilities, newly released features, and Partner Integration such as Citrix, and Horizon.
+&lt;ul&gt;
+&lt;li&gt;Technical overview&lt;/li&gt;
+&lt;li&gt;Windows 10 Multi-user&lt;/li&gt;
+&lt;li&gt;WVD Global Service&lt;/li&gt;
+&lt;li&gt;New Features &amp; Updates in the latest release&lt;/li&gt;
+&lt;li&gt;Integration into other Azure services&lt;/li&gt;
+&lt;li&gt;Azure Portal Integration&lt;/li&gt;
+&lt;li&gt;Partnership with Citrix / VMware&lt;/li&gt;
+&lt;li&gt;3rd Party integrators and tools&lt;/li&gt;
+&lt;li&gt;Q&amp;A&lt;/li&gt;
+&lt;/ul&gt;</Excerpt>
+    <PostDate>2021-06-16T00:00:00</PostDate>
+    <Id>1072</Id>
+    <Mp4Video>http://player.vimeo.com/external/565028559.hd.mp4?s=77e67be9d8523788f110b9b368d83b5eda360bc4&amp;profile_id=175&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/565028559.sd.mp4?s=4e54047ba34e341f172c41fb9c1be45877ac86c0&amp;profile_id=164&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Adam Whitlatch</name>
+      <slug>adam-whitlatch</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Azure Virtual Desktop</name>
+      <slug>azure-virtual-desktop</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>The CASE statement</Title>
+    <Url>https://usergroup.tv/videos/the-case-statement/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1168688602_295x166</Thumbnail>
+    <Excerpt>It seems like the CASE statement can be used anywhere. But where does it make sense to use the CASE statement? What are alternatives and are the alternatives better or worse? We'll cover:
+
+&lt;ul&gt;
+&lt;li&gt;Basic syntax&lt;/li&gt;
+&lt;li&gt;What it can't do&lt;/li&gt;
+&lt;li&gt;Common uses&lt;/li&gt;
+&lt;li&gt;Unexpected uses&lt;/li&gt;
+&lt;li&gt;Benefits&lt;/li&gt;
+&lt;li&gt;Alternatives for various uses&lt;/li&gt;
+&lt;/ul&gt;
+</Excerpt>
+    <PostDate>2021-06-16T00:00:00</PostDate>
+    <Id>1073</Id>
+    <Mp4Video>http://player.vimeo.com/external/565028671.hd.mp4?s=5dc3a086ccddc5632ca0fdc307391994b2f1c5f6&amp;profile_id=174&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/565028671.sd.mp4?s=7b7ee6c5857e964ee9b263fdfba7b6efb558446f&amp;profile_id=164&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Mike Burek</name>
+      <slug>mike-burek</slug>
+    </Speakers>
+    <Groups>
+      <name>Capitol Area Central Texas Users of SQL Server</name>
+      <slug>capitol-area-central-texas-users-of-sql-server</slug>
+    </Groups>
+    <Tags>
+      <name>SQL</name>
+      <slug>sql</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

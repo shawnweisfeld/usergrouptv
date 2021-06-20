@@ -5,9 +5,27 @@
     "Azure Austin Meetup"
   ],
   "slug": "azure-austin-meetup",
-  "date": "2021-05-18T00:00:00",
+  "date": "2021-06-16T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Azure Virtual Desktop by Adam Whitlatch",
+      "slug": "azure-virtual-desktop-by-adam-whitlatch",
+      "thumbnail": "https://i.vimeocdn.com/video/1168688870_295x166",
+      "date": "2021-06-16T00:00:00",
+      "speakers": [
+        {
+          "name": "Adam Whitlatch",
+          "slug": "adam-whitlatch"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure Virtual Desktop",
+          "slug": "azure-virtual-desktop"
+        }
+      ]
+    },
     {
       "title": "Azure Arc Data Services",
       "slug": "azure-arc-data-services",

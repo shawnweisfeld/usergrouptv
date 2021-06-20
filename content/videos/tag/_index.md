@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2021-06-15T12:41:07.8269428Z",
+  "date": "2021-06-20T12:29:18.9582816Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -367,6 +367,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/999191466_295x166.jpg",
       "date": "2020-11-17T00:00:00",
       "count": 7
+    },
+    {
+      "title": "Azure Virtual Desktop",
+      "slug": "azure-virtual-desktop",
+      "thumbnail": "https://i.vimeocdn.com/video/1168688870_295x166",
+      "date": "2021-06-16T00:00:00",
+      "count": 1
     },
     {
       "title": "BabelJS",
@@ -2422,9 +2429,9 @@
     {
       "title": "SQL",
       "slug": "sql",
-      "thumbnail": "https://i.vimeocdn.com/video/1144084262_295x166",
-      "date": "2021-05-18T00:00:00",
-      "count": 17
+      "thumbnail": "https://i.vimeocdn.com/video/1168688602_295x166",
+      "date": "2021-06-16T00:00:00",
+      "count": 18
     },
     {
       "title": "SQL Admin",

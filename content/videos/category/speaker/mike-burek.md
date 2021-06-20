@@ -5,10 +5,28 @@
   ],
   "type": "speaker",
   "slug": "mike-burek",
-  "date": "2019-10-15T15:09:32",
+  "date": "2021-06-16T00:00:00",
   "draft": false,
   "bio": "<p>Mike is the leader of the Austin SQL User Group</p>",
   "recordings": [
+    {
+      "title": "The CASE statement",
+      "slug": "the-case-statement",
+      "thumbnail": "https://i.vimeocdn.com/video/1168688602_295x166",
+      "date": "2021-06-16T00:00:00",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        }
+      ]
+    },
     {
       "title": "Insights from Tech Hiring Managers",
       "slug": "insights-from-tech-hiring-managers",

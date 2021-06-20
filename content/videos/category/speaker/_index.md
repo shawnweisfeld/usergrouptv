@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-06-15T12:41:07.2738768Z",
+  "date": "2021-06-20T12:29:18.0055578Z",
   "draft": false,
   "speakers": [
     {
@@ -45,6 +45,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/709492162_295x166.jpg",
       "date": "2018-06-23T19:35:48",
       "count": 2
+    },
+    {
+      "title": "Adam Whitlatch",
+      "slug": "adam-whitlatch",
+      "thumbnail": "https://i.vimeocdn.com/video/1168688870_295x166",
+      "date": "2021-06-16T00:00:00",
+      "count": 1
     },
     {
       "title": "Ado Kukic",
@@ -2814,9 +2821,9 @@
     {
       "title": "Mike Burek",
       "slug": "mike-burek",
-      "thumbnail": "https://i.vimeocdn.com/video/824337184_295x166.jpg",
-      "date": "2019-10-15T15:09:32",
-      "count": 4
+      "thumbnail": "https://i.vimeocdn.com/video/1168688602_295x166",
+      "date": "2021-06-16T00:00:00",
+      "count": 5
     },
     {
       "title": "Mike Byrd",

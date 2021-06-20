@@ -6,22 +6,31 @@
     <description>Recent content in SQL on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL</title>
+      <link>https://usergroup.tv/videos/tag/sql/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The CASE statement</title>
+      <link>https://usergroup.tv/videos/the-case-statement/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/the-case-statement/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Azure Arc Data Services</title>
       <link>https://usergroup.tv/videos/azure-arc-data-services/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/azure-arc-data-services/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQL</title>
-      <link>https://usergroup.tv/videos/tag/sql/</link>
-      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/sql/</guid>
       <description></description>
     </item>
     

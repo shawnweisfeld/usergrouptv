@@ -1,12 +1,64 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-06-15T12:41:06.7332891Z",
+  "date": "2021-06-20T12:29:17.253446Z",
   "draft": false,
-  "recordingCount": "1,065",
-  "speakerCount": "600",
+  "recordingCount": "1,067",
+  "speakerCount": "601",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Azure Virtual Desktop by Adam Whitlatch",
+      "slug": "azure-virtual-desktop-by-adam-whitlatch",
+      "thumbnail": "https://i.vimeocdn.com/video/1168688870_295x166",
+      "date": "2021-06-16T00:00:00",
+      "speakers": [
+        {
+          "name": "Adam Whitlatch",
+          "slug": "adam-whitlatch"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure Virtual Desktop",
+          "slug": "azure-virtual-desktop"
+        }
+      ]
+    },
+    {
+      "title": "The CASE statement",
+      "slug": "the-case-statement",
+      "thumbnail": "https://i.vimeocdn.com/video/1168688602_295x166",
+      "date": "2021-06-16T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Burek",
+          "slug": "mike-burek"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        }
+      ]
+    },
     {
       "title": "How we use Power BI at Enterprise DNA",
       "slug": "how-we-use-power-bi-at-enterprise-dna",
@@ -500,70 +552,6 @@
         {
           "name": "Power BI",
           "slug": "power-bi"
-        }
-      ]
-    },
-    {
-      "title": "Analyzing memory dumps of .NET applications",
-      "slug": "analyzing-memory-dumps-of-net-applications",
-      "thumbnail": "https://i.vimeocdn.com/video/1057126317_295x166.jpg",
-      "date": "2021-01-26T00:00:00",
-      "speakers": [
-        {
-          "name": "Giovanni Bassi",
-          "slug": "giovanni-bassi"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": ".net",
-          "slug": "net"
-        },
-        {
-          "name": ".NET Tips and Tricks",
-          "slug": "net-tips-and-tricks"
-        },
-        {
-          "name": "Memory Analysis",
-          "slug": "memory-analysis"
-        }
-      ]
-    },
-    {
-      "title": "Azure API Management",
-      "slug": "azure-api-management-2",
-      "thumbnail": "https://i.vimeocdn.com/video/1039951207_295x166.jpg",
-      "date": "2021-01-19T00:00:00",
-      "speakers": [
-        {
-          "name": "Sven Malvik",
-          "slug": "sven-malvik"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        },
-        {
-          "name": "DFW Azure User Group",
-          "slug": "dfw-azure-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "API",
-          "slug": "api"
-        },
-        {
-          "name": "Azure",
-          "slug": "azure"
         }
       ]
     }

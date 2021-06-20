@@ -6,7 +6,7 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jun 2021 12:29:17 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jun 2021 12:48:48 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adam Whitlatch</title>
       <link>https://usergroup.tv/videos/category/speaker/adam-whitlatch/</link>
@@ -27,19 +27,19 @@
     
     <item>
       <title>Azure Virtual Desktop</title>
-      <link>https://usergroup.tv/videos/tag/azure-virtual-desktop/</link>
-      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/azure-virtual-desktop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure Virtual Desktop by Adam Whitlatch</title>
       <link>https://usergroup.tv/videos/azure-virtual-desktop-by-adam-whitlatch/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/azure-virtual-desktop-by-adam-whitlatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Virtual Desktop</title>
+      <link>https://usergroup.tv/videos/tag/azure-virtual-desktop/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure-virtual-desktop/</guid>
       <description></description>
     </item>
     

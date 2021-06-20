@@ -9,7 +9,7 @@
   "draft": false,
   "recordings": [
     {
-      "title": "Azure Virtual Desktop by Adam Whitlatch",
+      "title": "Azure Virtual Desktop",
       "slug": "azure-virtual-desktop-by-adam-whitlatch",
       "thumbnail": "https://i.vimeocdn.com/video/1168688870_295x166",
       "date": "2021-06-16T00:00:00",

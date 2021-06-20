@@ -1,14 +1,14 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-06-20T12:29:17.253446Z",
+  "date": "2021-06-20T12:48:48.4713954Z",
   "draft": false,
   "recordingCount": "1,067",
   "speakerCount": "601",
   "groupCount": "67",
   "newest": [
     {
-      "title": "Azure Virtual Desktop by Adam Whitlatch",
+      "title": "Azure Virtual Desktop",
       "slug": "azure-virtual-desktop-by-adam-whitlatch",
       "thumbnail": "https://i.vimeocdn.com/video/1168688870_295x166",
       "date": "2021-06-16T00:00:00",

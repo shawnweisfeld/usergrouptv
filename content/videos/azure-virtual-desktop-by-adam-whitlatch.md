@@ -1,5 +1,5 @@
 {
-  "title": "Azure Virtual Desktop by Adam Whitlatch",
+  "title": "Azure Virtual Desktop",
   "type": "recording",
   "tags": [
     "Azure Virtual Desktop"

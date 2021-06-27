@@ -1,12 +1,36 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-06-20T12:48:48.4713954Z",
+  "date": "2021-06-27T20:27:12.243154Z",
   "draft": false,
-  "recordingCount": "1,067",
+  "recordingCount": "1,068",
   "speakerCount": "601",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Entity Framework Performance Monitoring and Tuning",
+      "slug": "entity-framework-performance-monitoring-and-tuning",
+      "thumbnail": "https://i.vimeocdn.com/video/1175041310_295x166",
+      "date": "2021-06-22T00:00:00",
+      "speakers": [
+        {
+          "name": "Jim Wooley",
+          "slug": "jim-wooley"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Entity Framework",
+          "slug": "entity-framework"
+        }
+      ]
+    },
     {
       "title": "Azure Virtual Desktop",
       "slug": "azure-virtual-desktop-by-adam-whitlatch",
@@ -528,30 +552,6 @@
         {
           "name": "gPRC",
           "slug": "gprc"
-        }
-      ]
-    },
-    {
-      "title": "Practical Application of Storytelling Techniques in Power BI",
-      "slug": "practical-application-of-storytelling-techniques-in-power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1059080814_295x166.jpg",
-      "date": "2021-02-10T00:00:00",
-      "speakers": [
-        {
-          "name": "Meagan Longoria",
-          "slug": "meagan-longoria"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Power BI",
-          "slug": "power-bi"
         }
       ]
     }

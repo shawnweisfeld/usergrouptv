@@ -6,7 +6,16 @@
     <description>Recent content in Meetups on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jun 2021 12:48:50 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/category/group/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Jun 2021 20:27:13 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/category/group/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Azure Austin Meetup</title>
       <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
@@ -49,15 +58,6 @@
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/group/azure-user-group-houston/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
-      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
       <description></description>
     </item>
     

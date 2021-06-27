@@ -5,9 +5,27 @@
     "Tulsa .NET User Group"
   ],
   "slug": "tulsa-net-user-group",
-  "date": "2021-04-20T00:00:00",
+  "date": "2021-06-22T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Entity Framework Performance Monitoring and Tuning",
+      "slug": "entity-framework-performance-monitoring-and-tuning",
+      "thumbnail": "https://i.vimeocdn.com/video/1175041310_295x166",
+      "date": "2021-06-22T00:00:00",
+      "speakers": [
+        {
+          "name": "Jim Wooley",
+          "slug": "jim-wooley"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Entity Framework",
+          "slug": "entity-framework"
+        }
+      ]
+    },
     {
       "title": "Cosmos Tools for the Relational Developer",
       "slug": "cosmos-tools-for-the-relational-developer",

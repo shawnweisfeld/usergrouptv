@@ -26810,4 +26810,27 @@ In this session, you will learn what you can do with Cosmos DB, the benefits of 
       <slug>sql</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Entity Framework Performance Monitoring and Tuning</Title>
+    <Url>https://usergroup.tv/videos/entity-framework-performance-monitoring-and-tuning/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1175041310_295x166</Thumbnail>
+    <Excerpt>Object Relational Mapping technologies, including the Entity Framework can drastically simplify the programming model against databases, but when done carelessly, performance can suffer. In this session, we'll explore some real-life strategies that have solved performance issues in production applications that I have encountered at a variety of customers.</Excerpt>
+    <PostDate>2021-06-22T00:00:00</PostDate>
+    <Id>1074</Id>
+    <Mp4Video>http://player.vimeo.com/external/568174958.hd.mp4?s=469fb60cf91527591ff366ee93f1f00976483fbf&amp;profile_id=174&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/568174958.sd.mp4?s=4bb572c26d4398203fe43e62bdee689fce7023e5&amp;profile_id=164&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Jim Wooley</name>
+      <slug>jim-wooley</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Entity Framework</name>
+      <slug>entity-framework</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-06-20T12:48:49.0921897Z",
+  "date": "2021-06-27T20:27:12.8306212Z",
   "draft": false,
   "speakers": [
     {
@@ -1841,9 +1841,9 @@
     {
       "title": "Jim Wooley",
       "slug": "jim-wooley",
-      "thumbnail": "https://i.vimeocdn.com/video/732109736_295x166.jpg",
-      "date": "2018-10-13T14:11:03",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1175041310_295x166",
+      "date": "2021-06-22T00:00:00",
+      "count": 2
     },
     {
       "title": "Jimmy Bogard",

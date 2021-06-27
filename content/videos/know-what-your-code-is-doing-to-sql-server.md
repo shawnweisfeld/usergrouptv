@@ -30,7 +30,7 @@
     {
       "name": "Entity Framework",
       "slug": "entity-framework",
-      "count": 2
+      "count": 3
     }
   ],
   "meetups": [

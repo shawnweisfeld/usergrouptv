@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2021-06-27T20:27:13.8507676Z",
+  "date": "2021-07-22T12:37:40.2762597Z",
   "draft": false,
   "meetups": [
     {
@@ -133,23 +133,23 @@
     {
       "title": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "thumbnail": "https://i.vimeocdn.com/video/1168688870_295x166",
-      "date": "2021-06-16T00:00:00",
-      "count": 49
+      "thumbnail": "https://i.vimeocdn.com/video/1195698558_295x166",
+      "date": "2021-07-20T00:00:00",
+      "count": 50
     },
     {
       "title": "Azure User Group - Houston",
       "slug": "azure-user-group-houston",
-      "thumbnail": "https://i.vimeocdn.com/video/1120787910_295x166.jpg",
-      "date": "2021-04-20T00:00:00",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1195698558_295x166",
+      "date": "2021-07-20T00:00:00",
+      "count": 2
     },
     {
       "title": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "thumbnail": "https://i.vimeocdn.com/video/1168688602_295x166",
-      "date": "2021-06-16T00:00:00",
-      "count": 73
+      "thumbnail": "https://i.vimeocdn.com/video/1195699085_295x166",
+      "date": "2021-07-20T00:00:00",
+      "count": 74
     },
     {
       "title": "Chicago IT Architects Group",
@@ -266,9 +266,9 @@
     {
       "title": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1168688870_295x166",
-      "date": "2021-06-16T00:00:00",
-      "count": 13
+      "thumbnail": "https://i.vimeocdn.com/video/1195698558_295x166",
+      "date": "2021-07-20T00:00:00",
+      "count": 14
     },
     {
       "title": "DFW C++ User Group",
@@ -441,9 +441,9 @@
     {
       "title": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1175041310_295x166",
-      "date": "2021-06-22T00:00:00",
-      "count": 22
+      "thumbnail": "https://i.vimeocdn.com/video/1195698289_295x166",
+      "date": "2021-07-08T00:00:00",
+      "count": 23
     },
     {
       "title": "Tulsa School of Dev",

@@ -5,9 +5,35 @@
     "Capitol Area Central Texas Users of SQL Server"
   ],
   "slug": "capitol-area-central-texas-users-of-sql-server",
-  "date": "2021-06-16T00:00:00",
+  "date": "2021-07-20T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "DBA Fired by the PowerShell Wiz",
+      "slug": "dba-fired-by-the-powershell-wiz",
+      "thumbnail": "https://i.vimeocdn.com/video/1195699085_295x166",
+      "date": "2021-07-20T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Burek",
+          "slug": "mike-burek"
+        }
+      ],
+      "tags": [
+        {
+          "name": "PowerShell",
+          "slug": "powershell"
+        },
+        {
+          "name": "SQL",
+          "slug": "sql"
+        },
+        {
+          "name": "SQL Admin",
+          "slug": "sql-admin"
+        }
+      ]
+    },
     {
       "title": "The CASE statement",
       "slug": "the-case-statement",

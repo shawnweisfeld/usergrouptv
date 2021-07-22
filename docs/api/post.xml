@@ -26833,4 +26833,120 @@ In this session, you will learn what you can do with Cosmos DB, the benefits of 
       <slug>entity-framework</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Real-Time Revolution: SignalR In Action</Title>
+    <Url>https://usergroup.tv/videos/realtime-revolution-signalr-in-action/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1195698289_295x166</Thumbnail>
+    <Excerpt>Does your application render a page and then just leave it? Do you deal with issues of the local state being out of date? Do you wish the server could just tell all the browsers that something has changed? If you answered yes to any of those questions, it's time to join the real-time revolution! SignalR is a library designed to help .NET developers build performant, real-time cross-platform applications (not just web apps!). In this demo-filled talk, you'll learn about what SignalR is, how it fits into a modern application ecosystem, and how you can take advantage of it in your current or future projects.
+</Excerpt>
+    <PostDate>2021-07-08T00:00:00</PostDate>
+    <Id>1075</Id>
+    <Mp4Video>http://player.vimeo.com/external/578010716.hd.mp4?s=3d1f94e69129301f42b5b7fe80ebdde2c228656d&amp;profile_id=174&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/578010716.sd.mp4?s=82ea8cf2cbd3e2ca12a0b063035aa3c4dcc9e38e&amp;profile_id=164&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Kevin Griffin</name>
+      <slug>kevin-griffin</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>SignalR</name>
+      <slug>signalr</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Azure Logic Apps: Innovating on B2B Connectivity</Title>
+    <Url>https://usergroup.tv/videos/azure-logic-apps-innovating-on-b2b-connectivity/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1195698558_295x166</Thumbnail>
+    <Excerpt>&lt;p&gt;Code-less orchestration and integration that scales is often sought after when it comes to creating an elegant integration solution. Azure Logic Apps provides exactly that where developers or integration experts (or novices) can create custom integration solutions easily and quickly with drag-and-drop functionality and out of the box integrations native to Azure as well as external to Azure.&lt;/p&gt;
+
+&lt;p&gt;A subset of this is implementing and orchestrating an elegant B2B solution. B2B and EDI is so common across industries, and Azure Logic Apps provides an incredible way to create a scalable solution for B2B integrations.&lt;/p&gt;
+
+&lt;p&gt;You will learn:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What Azure Logic Apps is&lt;/li&gt;
+&lt;li&gt;Benefits of Azure Logic Apps&lt;/li&gt;
+&lt;li&gt;How to create B2B solutions using Azure Logic Apps including partner management&lt;/li&gt;
+&lt;li&gt;How to enable AS2 connectivity (and other connectivity) for inbound and outbound EDI communication&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Who should attend:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;IT leaders looking to implement a scalable B2B solution&lt;/li&gt;
+&lt;li&gt;Developers who have struggled with trading partner management or B2B implementations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Reasons to attend:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Find your scalable B2B integration solution&lt;/li&gt;
+&lt;li&gt;Discuss and alleviate common pain points in creating B2B solutions&lt;/li&gt;
+&lt;/ul&gt;
+</Excerpt>
+    <PostDate>2021-07-20T00:00:00</PostDate>
+    <Id>1076</Id>
+    <Mp4Video>http://player.vimeo.com/external/578010849.hd.mp4?s=a2e165857d201d0600890a4b8ab6c7c2646d979e&amp;profile_id=174&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/578010849.sd.mp4?s=1a2197c3fc344fb5a8d7a8531fbff371ccfec733&amp;profile_id=164&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Aaron Lieberman</name>
+      <slug>aaron-lieberman</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
+    <Groups>
+      <name>Azure User Group - Houston</name>
+      <slug>azure-user-group-houston</slug>
+    </Groups>
+    <Tags>
+      <name>Logic Apps</name>
+      <slug>logic-apps</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>DBA Fired by the PowerShell Wiz</Title>
+    <Url>https://usergroup.tv/videos/dba-fired-by-the-powershell-wiz/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1195699085_295x166</Thumbnail>
+    <Excerpt>&lt;p&gt;DBA work usually means you touch many different severs, and you do many mundane tasks. Your main tool for performing work is SSMS. You know all the keyboard shortcuts, which drilldown dialog box has which parameter, and you've got a long list of t-sql script templates to pull out the information you need.&lt;/p&gt;
+&lt;p&gt;But all of that takes time. There is still a lot of mouse clicking in SSMS. Many times you need to copy data out to further massage it to create a report.&lt;/p&gt;
+&lt;p&gt;Take a look at some of the great things you can do with PowerShell as a scripting language to let you access settings and make changes. You can make custom changes to your investigative queries much faster with a scripting language than t-sql. PowerShell's object-oriented nature allows for compact code. Learning to use PowerShell to manage SQL Server can save you large amount of time.
+&lt;/p&gt;
+&lt;p&gt;This will go over the PowerShell module SqlServer (the replacement of SqlPs) and the benefits of a scripting language.&lt;/p&gt;
+&lt;p&gt;This will not use DbaTools.io, since that amazing tool deserves its own presentation.&lt;/p&gt;
+&lt;p&gt;Installing the module SqlServer will not be include. There are many tutorials on how to do this, and there are also a wide range of possible strange issues that are annoying to cover when they don't pertain to you.&lt;/p&gt;
+&lt;p&gt;Also, the DBA's intelligence is still needed. PowerShell can get you data much faster, but you still need to understand what it means and what settings to change. So a PowerShell wiz probably won't take over a DBA's job, but a DBA with PowerShell knowledge is preferred when hiring for a DBA position.&lt;/p&gt;</Excerpt>
+    <PostDate>2021-07-20T00:00:00</PostDate>
+    <Id>1077</Id>
+    <Mp4Video>http://player.vimeo.com/external/578011071.hd.mp4?s=a0233e6e1ce7883933eda99d4516b52faf56b0e2&amp;profile_id=174&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/578011071.sd.mp4?s=9f2db2ce4104c05c0366a31ff853ff939166429c&amp;profile_id=164&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Mike Burek</name>
+      <slug>mike-burek</slug>
+    </Speakers>
+    <Groups>
+      <name>Capitol Area Central Texas Users of SQL Server</name>
+      <slug>capitol-area-central-texas-users-of-sql-server</slug>
+    </Groups>
+    <Tags>
+      <name>PowerShell</name>
+      <slug>powershell</slug>
+    </Tags>
+    <Tags>
+      <name>SQL</name>
+      <slug>sql</slug>
+    </Tags>
+    <Tags>
+      <name>SQL Admin</name>
+      <slug>sql-admin</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2021-06-27T20:27:13.4145814Z",
+  "date": "2021-07-22T12:37:39.7136572Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -1526,9 +1526,9 @@
     {
       "title": "Logic Apps",
       "slug": "logic-apps",
-      "thumbnail": "https://i.vimeocdn.com/video/696171720_295x166.jpg",
-      "date": "2018-04-21T13:17:28",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1195698558_295x166",
+      "date": "2021-07-20T00:00:00",
+      "count": 2
     },
     {
       "title": "m365",
@@ -2065,9 +2065,9 @@
     {
       "title": "PowerShell",
       "slug": "powershell",
-      "thumbnail": "https://i.vimeocdn.com/video/589679680_295x166.jpg",
-      "date": "2016-08-27T12:46:44",
-      "count": 2
+      "thumbnail": "https://i.vimeocdn.com/video/1195699085_295x166",
+      "date": "2021-07-20T00:00:00",
+      "count": 3
     },
     {
       "title": "Practices",
@@ -2338,9 +2338,9 @@
     {
       "title": "SignalR",
       "slug": "signalr",
-      "thumbnail": "https://i.vimeocdn.com/video/485934934_295x166.jpg",
-      "date": "2014-08-15T20:04:41",
-      "count": 4
+      "thumbnail": "https://i.vimeocdn.com/video/1195698289_295x166",
+      "date": "2021-07-08T00:00:00",
+      "count": 5
     },
     {
       "title": "Silverlight",
@@ -2429,16 +2429,16 @@
     {
       "title": "SQL",
       "slug": "sql",
-      "thumbnail": "https://i.vimeocdn.com/video/1168688602_295x166",
-      "date": "2021-06-16T00:00:00",
-      "count": 18
+      "thumbnail": "https://i.vimeocdn.com/video/1195699085_295x166",
+      "date": "2021-07-20T00:00:00",
+      "count": 19
     },
     {
       "title": "SQL Admin",
       "slug": "sql-admin",
-      "thumbnail": "https://i.vimeocdn.com/video/722418765_295x166.jpg",
-      "date": "2018-08-25T19:38:27",
-      "count": 8
+      "thumbnail": "https://i.vimeocdn.com/video/1195699085_295x166",
+      "date": "2021-07-20T00:00:00",
+      "count": 9
     },
     {
       "title": "SQL AlwaysOn",

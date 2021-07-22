@@ -6,22 +6,31 @@
     <description>Recent content in Logic Apps on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Apr 2018 13:17:28 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/logic-apps/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/logic-apps/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Getting Hands-on with Azure Logic Apps</title>
-      <link>https://usergroup.tv/videos/getting-hands-on-with-azure-logic-apps/</link>
-      <pubDate>Sat, 21 Apr 2018 13:17:28 +0000</pubDate>
+      <title>Azure Logic Apps: Innovating on B2B Connectivity</title>
+      <link>https://usergroup.tv/videos/azure-logic-apps-innovating-on-b2b-connectivity/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://usergroup.tv/videos/getting-hands-on-with-azure-logic-apps/</guid>
+      <guid>https://usergroup.tv/videos/azure-logic-apps-innovating-on-b2b-connectivity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Logic Apps</title>
       <link>https://usergroup.tv/videos/tag/logic-apps/</link>
-      <pubDate>Sat, 21 Apr 2018 13:17:28 +0000</pubDate>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/logic-apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting Hands-on with Azure Logic Apps</title>
+      <link>https://usergroup.tv/videos/getting-hands-on-with-azure-logic-apps/</link>
+      <pubDate>Sat, 21 Apr 2018 13:17:28 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/getting-hands-on-with-azure-logic-apps/</guid>
       <description></description>
     </item>
     

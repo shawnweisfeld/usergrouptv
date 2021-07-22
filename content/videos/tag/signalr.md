@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "signalr",
-  "date": "2014-08-15T20:04:41",
+  "date": "2021-07-08T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Real-Time Revolution: SignalR In Action",
+      "slug": "realtime-revolution-signalr-in-action",
+      "thumbnail": "https://i.vimeocdn.com/video/1195698289_295x166",
+      "date": "2021-07-08T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Kevin Griffin",
+          "slug": "kevin-griffin"
+        }
+      ]
+    },
     {
       "title": "How SignalR is Turning the Internet Upside Down",
       "slug": "how-signalr-is-turning-the-internet-upside-down",

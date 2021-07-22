@@ -30,7 +30,7 @@
     {
       "name": "PowerShell",
       "slug": "powershell",
-      "count": 2
+      "count": 3
     }
   ],
   "meetups": [

@@ -5,9 +5,27 @@
     "Tulsa .NET User Group"
   ],
   "slug": "tulsa-net-user-group",
-  "date": "2021-06-22T00:00:00",
+  "date": "2021-07-08T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Real-Time Revolution: SignalR In Action",
+      "slug": "realtime-revolution-signalr-in-action",
+      "thumbnail": "https://i.vimeocdn.com/video/1195698289_295x166",
+      "date": "2021-07-08T00:00:00",
+      "speakers": [
+        {
+          "name": "Kevin Griffin",
+          "slug": "kevin-griffin"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SignalR",
+          "slug": "signalr"
+        }
+      ]
+    },
     {
       "title": "Entity Framework Performance Monitoring and Tuning",
       "slug": "entity-framework-performance-monitoring-and-tuning",

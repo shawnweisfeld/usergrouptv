@@ -1,12 +1,100 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-06-27T20:27:12.243154Z",
+  "date": "2021-07-22T12:37:38.6887397Z",
   "draft": false,
-  "recordingCount": "1,068",
+  "recordingCount": "1,071",
   "speakerCount": "601",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Azure Logic Apps: Innovating on B2B Connectivity",
+      "slug": "azure-logic-apps-innovating-on-b2b-connectivity",
+      "thumbnail": "https://i.vimeocdn.com/video/1195698558_295x166",
+      "date": "2021-07-20T00:00:00",
+      "speakers": [
+        {
+          "name": "Aaron Lieberman",
+          "slug": "aaron-lieberman"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        },
+        {
+          "name": "Azure User Group - Houston",
+          "slug": "azure-user-group-houston"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Logic Apps",
+          "slug": "logic-apps"
+        }
+      ]
+    },
+    {
+      "title": "DBA Fired by the PowerShell Wiz",
+      "slug": "dba-fired-by-the-powershell-wiz",
+      "thumbnail": "https://i.vimeocdn.com/video/1195699085_295x166",
+      "date": "2021-07-20T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Burek",
+          "slug": "mike-burek"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "PowerShell",
+          "slug": "powershell"
+        },
+        {
+          "name": "SQL",
+          "slug": "sql"
+        },
+        {
+          "name": "SQL Admin",
+          "slug": "sql-admin"
+        }
+      ]
+    },
+    {
+      "title": "Real-Time Revolution: SignalR In Action",
+      "slug": "realtime-revolution-signalr-in-action",
+      "thumbnail": "https://i.vimeocdn.com/video/1195698289_295x166",
+      "date": "2021-07-08T00:00:00",
+      "speakers": [
+        {
+          "name": "Kevin Griffin",
+          "slug": "kevin-griffin"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SignalR",
+          "slug": "signalr"
+        }
+      ]
+    },
     {
       "title": "Entity Framework Performance Monitoring and Tuning",
       "slug": "entity-framework-performance-monitoring-and-tuning",
@@ -448,110 +536,6 @@
         {
           "name": "Power BI",
           "slug": "power-bi"
-        }
-      ]
-    },
-    {
-      "title": "Building a .NET Application Using Azure Cosmos DB",
-      "slug": "building-a-net-application-using-azure-cosmos-db-2",
-      "thumbnail": "https://i.vimeocdn.com/video/1084412342_295x166.jpg",
-      "date": "2021-03-08T00:00:00",
-      "speakers": [
-        {
-          "name": "Chad Green",
-          "slug": "chad-green"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin .NET UG",
-          "slug": "austin-net-ug"
-        }
-      ],
-      "tags": [
-        {
-          "name": ".net",
-          "slug": "net"
-        },
-        {
-          "name": "Cosmos DB",
-          "slug": "cosmos-db"
-        },
-        {
-          "name": ".NET Core",
-          "slug": "net-core"
-        },
-        {
-          "name": "ASP.NET Core",
-          "slug": "asp-net-core"
-        },
-        {
-          "name": "ASP.NET",
-          "slug": "asp-net"
-        }
-      ]
-    },
-    {
-      "title": "ASP.NET in Linux and Windows containers",
-      "slug": "aspnet-in-linux-and-windows-containers",
-      "thumbnail": "https://i.vimeocdn.com/video/1073474480_295x166.jpg",
-      "date": "2021-02-23T00:00:00",
-      "speakers": [
-        {
-          "name": "Rob Richardson",
-          "slug": "rob-richardson"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": ".net",
-          "slug": "net"
-        },
-        {
-          "name": "Docker",
-          "slug": "docker"
-        },
-        {
-          "name": "ASP.NET",
-          "slug": "asp-net"
-        },
-        {
-          "name": "Containers",
-          "slug": "containers"
-        }
-      ]
-    },
-    {
-      "title": "High-performance APIs with gRPC and .NET",
-      "slug": "highperformance-apis-with-grpc-and-net",
-      "thumbnail": "https://i.vimeocdn.com/video/1063960922_295x166.jpg",
-      "date": "2021-02-11T00:00:00",
-      "speakers": [
-        {
-          "name": "James Newton-King",
-          "slug": "james-newtonking"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": ".NET Core",
-          "slug": "net-core"
-        },
-        {
-          "name": "gPRC",
-          "slug": "gprc"
         }
       ]
     }

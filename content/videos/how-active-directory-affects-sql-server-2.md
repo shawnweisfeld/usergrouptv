@@ -31,7 +31,7 @@
     {
       "name": "SQL",
       "slug": "sql",
-      "count": 18
+      "count": 19
     },
     {
       "name": "AD",

@@ -6,22 +6,31 @@
     <description>Recent content in SignalR on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Aug 2014 20:04:41 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/signalr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/signalr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How SignalR is Turning the Internet Upside Down</title>
-      <link>https://usergroup.tv/videos/how-signalr-is-turning-the-internet-upside-down/</link>
-      <pubDate>Fri, 15 Aug 2014 20:04:41 +0000</pubDate>
+      <title>Real-Time Revolution: SignalR In Action</title>
+      <link>https://usergroup.tv/videos/realtime-revolution-signalr-in-action/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://usergroup.tv/videos/how-signalr-is-turning-the-internet-upside-down/</guid>
+      <guid>https://usergroup.tv/videos/realtime-revolution-signalr-in-action/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SignalR</title>
       <link>https://usergroup.tv/videos/tag/signalr/</link>
-      <pubDate>Fri, 15 Aug 2014 20:04:41 +0000</pubDate>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/signalr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How SignalR is Turning the Internet Upside Down</title>
+      <link>https://usergroup.tv/videos/how-signalr-is-turning-the-internet-upside-down/</link>
+      <pubDate>Fri, 15 Aug 2014 20:04:41 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/how-signalr-is-turning-the-internet-upside-down/</guid>
       <description></description>
     </item>
     

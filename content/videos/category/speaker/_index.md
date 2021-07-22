@@ -1,15 +1,15 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-06-27T20:27:12.8306212Z",
+  "date": "2021-07-22T12:37:39.1399008Z",
   "draft": false,
   "speakers": [
     {
       "title": "Aaron Lieberman",
       "slug": "aaron-lieberman",
-      "thumbnail": "https://i.vimeocdn.com/video/958647865_295x166.jpg",
-      "date": "2020-09-15T17:47:45",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1195698558_295x166",
+      "date": "2021-07-20T00:00:00",
+      "count": 2
     },
     {
       "title": "Aaron Stannard",
@@ -2226,9 +2226,9 @@
     {
       "title": "Kevin Griffin",
       "slug": "kevin-griffin",
-      "thumbnail": "https://i.vimeocdn.com/video/949513028_295x166.jpg",
-      "date": "2020-08-25T13:52:05",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1195698289_295x166",
+      "date": "2021-07-08T00:00:00",
+      "count": 2
     },
     {
       "title": "Kevin Hill",
@@ -2821,9 +2821,9 @@
     {
       "title": "Mike Burek",
       "slug": "mike-burek",
-      "thumbnail": "https://i.vimeocdn.com/video/1168688602_295x166",
-      "date": "2021-06-16T00:00:00",
-      "count": 5
+      "thumbnail": "https://i.vimeocdn.com/video/1195699085_295x166",
+      "date": "2021-07-20T00:00:00",
+      "count": 6
     },
     {
       "title": "Mike Byrd",

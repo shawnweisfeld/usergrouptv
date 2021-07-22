@@ -6,7 +6,52 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Jun 2021 20:27:13 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jul 2021 12:37:39 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Logic Apps</title>
+      <link>https://usergroup.tv/videos/tag/logic-apps/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/logic-apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PowerShell</title>
+      <link>https://usergroup.tv/videos/tag/powershell/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/powershell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://usergroup.tv/videos/tag/sql/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Admin</title>
+      <link>https://usergroup.tv/videos/tag/sql-admin/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql-admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SignalR</title>
+      <link>https://usergroup.tv/videos/tag/signalr/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/signalr/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Entity Framework</title>
       <link>https://usergroup.tv/videos/tag/entity-framework/</link>
@@ -22,15 +67,6 @@
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/azure-virtual-desktop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQL</title>
-      <link>https://usergroup.tv/videos/tag/sql/</link>
-      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/sql/</guid>
       <description></description>
     </item>
     
@@ -998,15 +1034,6 @@
     </item>
     
     <item>
-      <title>SQL Admin</title>
-      <link>https://usergroup.tv/videos/tag/sql-admin/</link>
-      <pubDate>Sat, 25 Aug 2018 19:38:27 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/sql-admin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SQL Server Security</title>
       <link>https://usergroup.tv/videos/tag/sql-server-security/</link>
       <pubDate>Sat, 25 Aug 2018 19:35:49 +0000</pubDate>
@@ -1138,15 +1165,6 @@
       <pubDate>Sat, 05 May 2018 15:33:09 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/arkit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Logic Apps</title>
-      <link>https://usergroup.tv/videos/tag/logic-apps/</link>
-      <pubDate>Sat, 21 Apr 2018 13:17:28 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/logic-apps/</guid>
       <description></description>
     </item>
     
@@ -2033,15 +2051,6 @@
     </item>
     
     <item>
-      <title>PowerShell</title>
-      <link>https://usergroup.tv/videos/tag/powershell/</link>
-      <pubDate>Sat, 27 Aug 2016 12:46:44 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/powershell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>unit testing</title>
       <link>https://usergroup.tv/videos/tag/unit-testing/</link>
       <pubDate>Fri, 05 Aug 2016 14:47:30 +0000</pubDate>
@@ -2686,15 +2695,6 @@
       <pubDate>Fri, 15 Aug 2014 20:11:13 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/moble/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SignalR</title>
-      <link>https://usergroup.tv/videos/tag/signalr/</link>
-      <pubDate>Fri, 15 Aug 2014 20:04:41 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/signalr/</guid>
       <description></description>
     </item>
     

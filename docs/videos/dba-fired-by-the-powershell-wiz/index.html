@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="utf-8"><script type="application/ld+json">
+    {
+        "@context" : "http://schema.org",
+        "@type" : "BlogPosting",
+        "mainEntityOfPage": {
+             "@type": "WebPage",
+             "@id": "https:\/\/usergroup.tv\/"
+        },
+        "articleSection" : "videos",
+        "name" : "DBA Fired by the PowerShell Wiz",
+        "headline" : "DBA Fired by the PowerShell Wiz",
+        "description" : "\u003cp\u003eDBA work usually means you touch many different severs, and you do many mundane tasks. Your main tool for performing work is SSMS. You know all the keyboard shortcuts, which drilldown dialog box has which parameter, and you\u0027ve got a long list of t-sql script templates to pull out the information you need.\u003c\/p\u003e\r\n\u003cp\u003eBut all of that takes time. There is still a lot of mouse clicking in SSMS. Many times you need to copy data out to further massage it to create a report.\u003c\/p\u003e\r\n\u003cp\u003eTake a look at some of the great things you can do with PowerShell as a scripting language to let you access settings and make changes. You can make custom changes to your investigative queries much faster with a scripting language than t-sql. PowerShell\u0027s object-oriented nature allows for compact code. Learning to use PowerShell to manage SQL Server can save you large amount of time.\r\n\u003c\/p\u003e\r\n\u003cp\u003eThis will go over the PowerShell module SqlServer (the replacement of SqlPs) and the benefits of a scripting language.\u003c\/p\u003e\r\n\u003cp\u003eThis will not use DbaTools.io, since that amazing tool deserves its own presentation.\u003c\/p\u003e\r\n\u003cp\u003eInstalling the module SqlServer will not be include. There are many tutorials on how to do this, and there are also a wide range of possible strange issues that are annoying to cover when they don\u0027t pertain to you.\u003c\/p\u003e\r\n\u003cp\u003eAlso, the DBA\u0027s intelligence is still needed. PowerShell can get you data much faster, but you still need to understand what it means and what settings to change. So a PowerShell wiz probably won\u0027t take over a DBA\u0027s job, but a DBA with PowerShell knowledge is preferred when hiring for a DBA position.\u003c\/p\u003e",
+        "inLanguage" : "en",
+        "author" : "Shawn Weisfeld",
+        "creator" : "Shawn Weisfeld",
+        "publisher": "Shawn Weisfeld",
+        "accountablePerson" : "Shawn Weisfeld",
+        "copyrightHolder" : "Shawn Weisfeld",
+        "copyrightYear" : "2021",
+        "datePublished": "2021-07-20T00:00:00Z",
+        "dateModified" : "2021-07-20T00:00:00Z",
+        "url" : "\/videos\/dba-fired-by-the-powershell-wiz\/",
+        "wordCount" : "0",
+        "keywords" : [ "PowerShell","SQL","SQL Admin","Blog" ]
+    }
+</script>
+<title>
+    DBA Fired by the PowerShell Wiz &ndash; UserGroup.tv
+</title><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="&lt;p&gt;DBA work usually means you touch many different severs, and you do many mundane tasks. Your main tool for performing work is SSMS. You know all the keyboard shortcuts, which drilldown dialog box has which parameter, and you&#39;ve got a long list of t-sql script templates to pull out the information you need.&lt;/p&gt;
+&lt;p&gt;But all of that takes time. There is still a lot of mouse clicking in SSMS. Many times you need to copy data out to further massage it to create a report.&lt;/p&gt;
+&lt;p&gt;Take a look at some of the great things you can do with PowerShell as a scripting language to let you access settings and make changes. You can make custom changes to your investigative queries much faster with a scripting language than t-sql. PowerShell&#39;s object-oriented nature allows for compact code. Learning to use PowerShell to manage SQL Server can save you large amount of time.
+&lt;/p&gt;
+&lt;p&gt;This will go over the PowerShell module SqlServer (the replacement of SqlPs) and the benefits of a scripting language.&lt;/p&gt;
+&lt;p&gt;This will not use DbaTools.io, since that amazing tool deserves its own presentation.&lt;/p&gt;
+&lt;p&gt;Installing the module SqlServer will not be include. There are many tutorials on how to do this, and there are also a wide range of possible strange issues that are annoying to cover when they don&#39;t pertain to you.&lt;/p&gt;
+&lt;p&gt;Also, the DBA&#39;s intelligence is still needed. PowerShell can get you data much faster, but you still need to understand what it means and what settings to change. So a PowerShell wiz probably won&#39;t take over a DBA&#39;s job, but a DBA with PowerShell knowledge is preferred when hiring for a DBA position.&lt;/p&gt;">
+<meta name="author" content="Shawn Weisfeld">
+<link rel="icon" href="/favicon.ico">
+
+
+<meta itemprop="name" content="DBA Fired by the PowerShell Wiz">
+<meta itemprop="description" content="&lt;p&gt;DBA work usually means you touch many different severs, and you do many mundane tasks. Your main tool for performing work is SSMS. You know all the keyboard shortcuts, which drilldown dialog box has which parameter, and you&#39;ve got a long list of t-sql script templates to pull out the information you need.&lt;/p&gt;
+&lt;p&gt;But all of that takes time. There is still a lot of mouse clicking in SSMS. Many times you need to copy data out to further massage it to create a report.&lt;/p&gt;
+&lt;p&gt;Take a look at some of the great things you can do with PowerShell as a scripting language to let you access settings and make changes. You can make custom changes to your investigative queries much faster with a scripting language than t-sql. PowerShell&#39;s object-oriented nature allows for compact code. Learning to use PowerShell to manage SQL Server can save you large amount of time.
+&lt;/p&gt;
+&lt;p&gt;This will go over the PowerShell module SqlServer (the replacement of SqlPs) and the benefits of a scripting language.&lt;/p&gt;
+&lt;p&gt;This will not use DbaTools.io, since that amazing tool deserves its own presentation.&lt;/p&gt;
+&lt;p&gt;Installing the module SqlServer will not be include. There are many tutorials on how to do this, and there are also a wide range of possible strange issues that are annoying to cover when they don&#39;t pertain to you.&lt;/p&gt;
+&lt;p&gt;Also, the DBA&#39;s intelligence is still needed. PowerShell can get you data much faster, but you still need to understand what it means and what settings to change. So a PowerShell wiz probably won&#39;t take over a DBA&#39;s job, but a DBA with PowerShell knowledge is preferred when hiring for a DBA position.&lt;/p&gt;"><meta itemprop="datePublished" content="2021-07-20T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2021-07-20T00:00:00+00:00" />
+<meta itemprop="wordCount" content="0"><meta itemprop="image" content="https://i.vimeocdn.com/video/1195699085_295x166">
+<meta itemprop="keywords" content="PowerShell,SQL,SQL Admin," />
+<meta property="og:title" content="DBA Fired by the PowerShell Wiz" />
+<meta property="og:description" content="&lt;p&gt;DBA work usually means you touch many different severs, and you do many mundane tasks. Your main tool for performing work is SSMS. You know all the keyboard shortcuts, which drilldown dialog box has which parameter, and you&#39;ve got a long list of t-sql script templates to pull out the information you need.&lt;/p&gt;
+&lt;p&gt;But all of that takes time. There is still a lot of mouse clicking in SSMS. Many times you need to copy data out to further massage it to create a report.&lt;/p&gt;
+&lt;p&gt;Take a look at some of the great things you can do with PowerShell as a scripting language to let you access settings and make changes. You can make custom changes to your investigative queries much faster with a scripting language than t-sql. PowerShell&#39;s object-oriented nature allows for compact code. Learning to use PowerShell to manage SQL Server can save you large amount of time.
+&lt;/p&gt;
+&lt;p&gt;This will go over the PowerShell module SqlServer (the replacement of SqlPs) and the benefits of a scripting language.&lt;/p&gt;
+&lt;p&gt;This will not use DbaTools.io, since that amazing tool deserves its own presentation.&lt;/p&gt;
+&lt;p&gt;Installing the module SqlServer will not be include. There are many tutorials on how to do this, and there are also a wide range of possible strange issues that are annoying to cover when they don&#39;t pertain to you.&lt;/p&gt;
+&lt;p&gt;Also, the DBA&#39;s intelligence is still needed. PowerShell can get you data much faster, but you still need to understand what it means and what settings to change. So a PowerShell wiz probably won&#39;t take over a DBA&#39;s job, but a DBA with PowerShell knowledge is preferred when hiring for a DBA position.&lt;/p&gt;" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://usergroup.tv/videos/dba-fired-by-the-powershell-wiz/" /><meta property="og:image" content="https://i.vimeocdn.com/video/1195699085_295x166" /><meta property="article:section" content="videos" />
+<meta property="article:published_time" content="2021-07-20T00:00:00+00:00" />
+<meta property="article:modified_time" content="2021-07-20T00:00:00+00:00" />
+
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://i.vimeocdn.com/video/1195699085_295x166"/>
+
+<meta name="twitter:title" content="DBA Fired by the PowerShell Wiz"/>
+<meta name="twitter:description" content="&lt;p&gt;DBA work usually means you touch many different severs, and you do many mundane tasks. Your main tool for performing work is SSMS. You know all the keyboard shortcuts, which drilldown dialog box has which parameter, and you&#39;ve got a long list of t-sql script templates to pull out the information you need.&lt;/p&gt;
+&lt;p&gt;But all of that takes time. There is still a lot of mouse clicking in SSMS. Many times you need to copy data out to further massage it to create a report.&lt;/p&gt;
+&lt;p&gt;Take a look at some of the great things you can do with PowerShell as a scripting language to let you access settings and make changes. You can make custom changes to your investigative queries much faster with a scripting language than t-sql. PowerShell&#39;s object-oriented nature allows for compact code. Learning to use PowerShell to manage SQL Server can save you large amount of time.
+&lt;/p&gt;
+&lt;p&gt;This will go over the PowerShell module SqlServer (the replacement of SqlPs) and the benefits of a scripting language.&lt;/p&gt;
+&lt;p&gt;This will not use DbaTools.io, since that amazing tool deserves its own presentation.&lt;/p&gt;
+&lt;p&gt;Installing the module SqlServer will not be include. There are many tutorials on how to do this, and there are also a wide range of possible strange issues that are annoying to cover when they don&#39;t pertain to you.&lt;/p&gt;
+&lt;p&gt;Also, the DBA&#39;s intelligence is still needed. PowerShell can get you data much faster, but you still need to understand what it means and what settings to change. So a PowerShell wiz probably won&#39;t take over a DBA&#39;s job, but a DBA with PowerShell knowledge is preferred when hiring for a DBA position.&lt;/p&gt;"/>
+
+
+<link rel="alternate" href="/index.xml" type="application/rss+xml" title="UserGroup.tv"/>
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/vendor.min.bfce43db53ea1b06d2bb16511e9b733eb4aefaf130b53804b253a4f9bf9f0702e2c08227c6ebbce6b4b537d898593af583d5fb1da9557104d61005dd624588d5.css" integrity="sha512-v85D21PqGwbSuxZRHptzPrSu&#43;vEwtTgEslOk&#43;b&#43;fBwLiwIInxuu85rS1N9iYWTr1g9X7HalVcQTWEAXdYkWI1Q==">
+
+
+
+  <meta property="og:image:secure" content="https://i.vimeocdn.com/video/1195699085_295x166" />
+<body><nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
+    <div class="container">
+        <a class="navbar-brand" href="/">
+            <img src="/images/Ugtv.png" alt="UserGroup.tv">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="/">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/videos/category/speaker/">Speakers</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/videos/category/group/">Groups</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/videos/tag/">Tags</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/about-us/">About Us</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://forms.office.com/Pages/ResponsePage.aspx?id=TlyBc-0-d0WrTt-gYiae0KLqSn4LXatBuXAR729jgnhUQ0MyQUlFMEw5UTdUMVI1TDQ1M0RFNElTSC4u" target="_blank">Publish</a>
+            </li>
+          </ul>
+        </div>
+    </div>
+</nav>      
+<main role="main">
+
+    <div data-type="ad" data-publisher="lqm.usergrouptv.site" data-format="728x90" data-zone="ros" class="horizontal-ad"></div>
+
+    <div class="container mt-3 mb-3">
+
+        <h1>
+            DBA Fired by the PowerShell Wiz
+        </h1>
+
+        <div class="addthis_inline_share_toolbox text-right"></div>
+
+        
+        <iframe src="https://player.vimeo.com/video/578011071" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        
+
+
+        <h2>Abstract: </h2>
+        <div><p>DBA work usually means you touch many different severs, and you do many mundane tasks. Your main tool for performing work is SSMS. You know all the keyboard shortcuts, which drilldown dialog box has which parameter, and you've got a long list of t-sql script templates to pull out the information you need.</p>
+<p>But all of that takes time. There is still a lot of mouse clicking in SSMS. Many times you need to copy data out to further massage it to create a report.</p>
+<p>Take a look at some of the great things you can do with PowerShell as a scripting language to let you access settings and make changes. You can make custom changes to your investigative queries much faster with a scripting language than t-sql. PowerShell's object-oriented nature allows for compact code. Learning to use PowerShell to manage SQL Server can save you large amount of time.
+</p>
+<p>This will go over the PowerShell module SqlServer (the replacement of SqlPs) and the benefits of a scripting language.</p>
+<p>This will not use DbaTools.io, since that amazing tool deserves its own presentation.</p>
+<p>Installing the module SqlServer will not be include. There are many tutorials on how to do this, and there are also a wide range of possible strange issues that are annoying to cover when they don't pertain to you.</p>
+<p>Also, the DBA's intelligence is still needed. PowerShell can get you data much faster, but you still need to understand what it means and what settings to change. So a PowerShell wiz probably won't take over a DBA's job, but a DBA with PowerShell knowledge is preferred when hiring for a DBA position.</p></div>
+
+        <h2>Speakers: </h2>
+        <div>
+            <ul>
+                
+                <li>
+                    <h3>
+                        <a href="/videos/category/speaker/mike-burek">Mike Burek</a>
+                    </h3>
+                    <div>
+<span class="badge badge-primary">6 Recordings</span>
+
+</div>
+                    <div><p>Mike is the leader of the Austin SQL User Group</p></div>
+                </li>
+                
+            </ul>            
+        </div>
+
+        <h2>Recorded At: </h2>
+        <div>
+            <ul>
+                
+                <li>
+                    <a href="/videos/category/group/capitol-area-central-texas-users-of-sql-server">Capitol Area Central Texas Users of SQL Server</a> 
+<span class="badge badge-primary">74 Recordings</span>
+
+
+                </li>
+                
+            </ul>            
+        </div>
+
+        <h2>Recorded on: </h2>
+        <div>Jul 20, 2021</div>
+
+        <h2>More Info: </h2>
+        <div><a href="https://www.meetup.com/Austin-SQL-Server-User-Group/events/llgfgsycckbbc/" target="_blank" >https://www.meetup.com/Austin-SQL-Server-User-Group/events/llgfgsycckbbc/</a></div>
+
+        <h2>Tags: </h2>
+        <div>
+            <ul>
+                
+                <li>
+                    <a href="/videos/tag/powershell">PowerShell</a> 
+<span class="badge badge-primary">3 Recordings</span>
+
+
+                </li>
+                
+                <li>
+                    <a href="/videos/tag/sql">SQL</a> 
+<span class="badge badge-primary">19 Recordings</span>
+
+
+                </li>
+                
+                <li>
+                    <a href="/videos/tag/sql-admin">SQL Admin</a> 
+<span class="badge badge-primary">9 Recordings</span>
+
+
+                </li>
+                
+            </ul>            
+        </div>
+
+
+    </div>
+
+
+        </main>
+
+<nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+    <div class="container">
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+        <span class="navbar-text">
+            &copy; UserGroup.tv 2020
+        </span>
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="/privacy-policy">Privacy Policy</a>
+            </li>
+        </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+<script src="/js/vendor.min.0f3e21e638cffa1720da5bc4a216f68c52abe0582dcc0490da58f90b49d515ac177e401bad24e7391946e4ed35e5b9ebbfba50a933598ba8075f43d19bc4a968.js" integrity="sha512-Dz4h5jjP&#43;hcg2lvEohb2jFKr4FgtzASQ2lj5C0nVFawXfkAbrSTnORlG5O015bnrv7pQqTNZi6gHX0PRm8SpaA=="></script>
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-155341911-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<script type='text/javascript'>
+    function _dmBootstrap(file) {
+        var _dma = document.createElement('script');
+        _dma.type = 'text/javascript';
+        _dma.async = true;
+        _dma.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + file;
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(_dma);
+    }
+    function _dmFollowup(file) { if (typeof DMAds === 'undefined') _dmBootstrap('cdn2.DeveloperMedia.com/a.min.js'); }
+    (function () { _dmBootstrap('cdn1.DeveloperMedia.com/a.min.js'); setTimeout(_dmFollowup, 2000); })();
+</script>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5fb843a02f2efdea"></script>
+</body>
+</html>

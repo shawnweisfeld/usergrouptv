@@ -30,7 +30,7 @@
     {
       "name": "SignalR",
       "slug": "signalr",
-      "count": 4
+      "count": 5
     }
   ],
   "meetups": [

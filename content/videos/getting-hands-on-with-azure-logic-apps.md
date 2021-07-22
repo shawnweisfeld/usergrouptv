@@ -30,7 +30,7 @@
     {
       "name": "Logic Apps",
       "slug": "logic-apps",
-      "count": 1
+      "count": 2
     }
   ],
   "meetups": [

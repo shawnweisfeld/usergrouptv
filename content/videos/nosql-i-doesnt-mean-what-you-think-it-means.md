@@ -30,7 +30,7 @@
     {
       "name": "NoSQL",
       "slug": "nosql",
-      "count": 3
+      "count": 4
     }
   ],
   "meetups": [

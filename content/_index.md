@@ -1,12 +1,60 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-07-27T16:44:36.488843Z",
+  "date": "2021-08-03T12:54:45.6289722Z",
   "draft": false,
-  "recordingCount": "1,071",
-  "speakerCount": "601",
+  "recordingCount": "1,073",
+  "speakerCount": "602",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Intro to LiteDB",
+      "slug": "intro-to-litedb",
+      "thumbnail": "https://i.vimeocdn.com/video/1205594121_295x166",
+      "date": "2021-07-27T00:00:00",
+      "speakers": [
+        {
+          "name": "Chris Conley",
+          "slug": "chris-conley"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "LiteDB",
+          "slug": "litedb"
+        }
+      ]
+    },
+    {
+      "title": "Going Schema-less: How to migrate a relational database to a NoSQL database",
+      "slug": "going-schemaless-how-to-migrate-a-relational-database-to-a-nosql-database",
+      "thumbnail": "https://i.vimeocdn.com/video/1205594992_295x166",
+      "date": "2021-07-27T00:00:00",
+      "speakers": [
+        {
+          "name": "Chad Green",
+          "slug": "chad-green"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "NoSQL",
+          "slug": "nosql"
+        }
+      ]
+    },
     {
       "title": "Azure Logic Apps: Innovating on B2B Connectivity",
       "slug": "azure-logic-apps-innovating-on-b2b-connectivity",
@@ -472,70 +520,6 @@
         {
           "name": "Azure",
           "slug": "azure"
-        }
-      ]
-    },
-    {
-      "title": "Exploring an Immutable Architecture",
-      "slug": "exploring-an-immutable-architecture",
-      "thumbnail": "https://i.vimeocdn.com/video/1084436628_295x166.jpg",
-      "date": "2021-03-11T00:00:00",
-      "speakers": [
-        {
-          "name": "Michael L Perry",
-          "slug": "michael-l-perry"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": ".net",
-          "slug": "net"
-        },
-        {
-          "name": ".NET Core",
-          "slug": "net-core"
-        },
-        {
-          "name": "ASP.NET Core",
-          "slug": "asp-net-core"
-        },
-        {
-          "name": "Architecture",
-          "slug": "architecture"
-        },
-        {
-          "name": "ASP.NET",
-          "slug": "asp-net"
-        }
-      ]
-    },
-    {
-      "title": "Power BI Architecture End-to-End",
-      "slug": "power-bi-architecture-endtoend",
-      "thumbnail": "https://i.vimeocdn.com/video/1084424191_295x166.jpg",
-      "date": "2021-03-10T00:00:00",
-      "speakers": [
-        {
-          "name": "Melissa Coates",
-          "slug": "melissa-coates"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Power BI",
-          "slug": "power-bi"
         }
       ]
     }

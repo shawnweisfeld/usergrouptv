@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-07-27T16:44:36.9498066Z",
+  "date": "2021-08-03T12:54:47.1733732Z",
   "draft": false,
   "speakers": [
     {
@@ -616,9 +616,9 @@
     {
       "title": "Chad Green",
       "slug": "chad-green",
-      "thumbnail": "https://i.vimeocdn.com/video/1108602152_295x166.jpg",
-      "date": "2021-04-08T00:00:00",
-      "count": 5
+      "thumbnail": "https://i.vimeocdn.com/video/1205594992_295x166",
+      "date": "2021-07-27T00:00:00",
+      "count": 6
     },
     {
       "title": "Chad Howell",
@@ -667,6 +667,13 @@
       "slug": "chris-baudo",
       "thumbnail": "https://i.vimeocdn.com/video/483485660_295x166.jpg",
       "date": "2013-09-28T12:47:03",
+      "count": 1
+    },
+    {
+      "title": "Chris Conley",
+      "slug": "chris-conley",
+      "thumbnail": "https://i.vimeocdn.com/video/1205594121_295x166",
+      "date": "2021-07-27T00:00:00",
       "count": 1
     },
     {

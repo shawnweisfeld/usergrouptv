@@ -31,7 +31,7 @@
     {
       "name": "NoSQL",
       "slug": "nosql",
-      "count": 3
+      "count": 4
     },
     {
       "name": "Open Source DB",

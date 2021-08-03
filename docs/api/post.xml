@@ -26951,4 +26951,50 @@ In this session, you will learn what you can do with Cosmos DB, the benefits of 
       <slug>sql-admin</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Intro to LiteDB</Title>
+    <Url>https://usergroup.tv/videos/intro-to-litedb/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1205594121_295x166</Thumbnail>
+    <Excerpt>Have you ever needed a simple database for a web or windows application? What if I could demonstrate a database that: * Merely needs a small .NET DLL to run * Simply installable with NuGet * Compatible with .NET 4.5 and .NET Standard 2.0 * Delivers very fast performance * Uses a single data file * Has LINQ query support * Supports encrypted data files * Is a NoSQL database * Easily allows you to run a database in memory * FREE, including for commercial use In my action pack code filled presentation I will reveal all that and more. Don't miss it!</Excerpt>
+    <PostDate>2021-07-27T00:00:00</PostDate>
+    <Id>1078</Id>
+    <Mp4Video>http://player.vimeo.com/external/582226695.hd.mp4?s=b5be434f22a708eed04dc6a71463480fee6d7613&amp;profile_id=175&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/582226695.sd.mp4?s=5580d324295c437df98b75b6120e074a3afc6f98&amp;profile_id=164&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Chris Conley</name>
+      <slug>chris-conley</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>LiteDB</name>
+      <slug>litedb</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Going Schema-less: How to migrate a relational database to a NoSQL database</Title>
+    <Url>https://usergroup.tv/videos/going-schemaless-how-to-migrate-a-relational-database-to-a-nosql-database/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1205594992_295x166</Thumbnail>
+    <Excerpt>There can be a lot of great benefits of developing with a NoSQL database over a relational database. In this presentation, you will learn about those benefits and also the potential pitfalls. There will be demonstrations where we take relationally developed data, restructure it into a NoSQL database (Cosmos DB in particular), and create an application to work with that data.</Excerpt>
+    <PostDate>2021-07-27T00:00:00</PostDate>
+    <Id>1079</Id>
+    <Mp4Video>http://player.vimeo.com/external/582227139.hd.mp4?s=c651e0104fe1662230110badd1e4d800159b2e6b&amp;profile_id=174&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/582227139.sd.mp4?s=82572f150c0719e30dbbd89916e20ed9d4a0e7d1&amp;profile_id=164&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Chad Green</name>
+      <slug>chad-green</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>NoSQL</name>
+      <slug>nosql</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

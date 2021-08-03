@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2021-07-27T16:44:37.8345585Z",
+  "date": "2021-08-03T12:54:48.2939191Z",
   "draft": false,
   "meetups": [
     {
@@ -441,9 +441,9 @@
     {
       "title": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1195698289_295x166",
-      "date": "2021-07-08T00:00:00",
-      "count": 23
+      "thumbnail": "https://i.vimeocdn.com/video/1205594121_295x166",
+      "date": "2021-07-27T00:00:00",
+      "count": 25
     },
     {
       "title": "Tulsa School of Dev",

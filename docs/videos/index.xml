@@ -6,7 +6,25 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jul 2021 16:44:36 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Aug 2021 12:54:45 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Going Schema-less: How to migrate a relational database to a NoSQL database</title>
+      <link>https://usergroup.tv/videos/going-schemaless-how-to-migrate-a-relational-database-to-a-nosql-database/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/going-schemaless-how-to-migrate-a-relational-database-to-a-nosql-database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to LiteDB</title>
+      <link>https://usergroup.tv/videos/intro-to-litedb/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/intro-to-litedb/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Azure Logic Apps: Innovating on B2B Connectivity</title>
       <link>https://usergroup.tv/videos/azure-logic-apps-innovating-on-b2b-connectivity/</link>

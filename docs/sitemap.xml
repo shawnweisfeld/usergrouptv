@@ -3,19 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2021-07-27T16:44:37+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2021-07-27T16:44:37+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/</loc>
-    <lastmod>2021-07-27T16:44:36+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2021-07-27T16:44:36+00:00</lastmod>
+    <lastmod>2021-08-03T12:54:48+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2021-07-27T16:44:36+00:00</lastmod>
+    <lastmod>2021-08-03T12:54:47+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/</loc>
+    <lastmod>2021-08-03T12:54:47+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/</loc>
+    <lastmod>2021-08-03T12:54:45+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/</loc>
+    <lastmod>2021-08-03T12:54:45+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/chad-green/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/chad-green/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/chris-conley/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/chris-conley/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/going-schemaless-how-to-migrate-a-relational-database-to-a-nosql-database/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/intro-to-litedb/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/litedb/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/litedb/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/nosql/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/nosql/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/aaron-lieberman/</loc>
     <lastmod>2021-07-20T00:00:00+00:00</lastmod>
@@ -83,9 +122,6 @@
     <loc>https://usergroup.tv/videos/tag/sql-admin/</loc>
     <lastmod>2021-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/</loc>
-    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/kevin-griffin/</loc>
     <lastmod>2021-07-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -99,12 +135,6 @@
     <lastmod>2021-07-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/signalr/</loc>
-    <lastmod>2021-07-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
-    <lastmod>2021-07-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
     <lastmod>2021-07-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/entity-framework/</loc>
@@ -268,12 +298,6 @@
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/ruth-pozuelo-martinez-curbal/</loc>
     <lastmod>2021-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/chad-green/</loc>
-    <lastmod>2021-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/chad-green/</loc>
-    <lastmod>2021-04-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/how-to-be-a-leader/</loc>
     <lastmod>2021-04-08T00:00:00+00:00</lastmod>
@@ -6630,12 +6654,6 @@
     <lastmod>2014-10-10T11:22:54+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/david-rollins/</loc>
-    <lastmod>2014-10-10T11:22:54+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/nosql/</loc>
-    <lastmod>2014-10-10T11:22:54+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/nosql/</loc>
     <lastmod>2014-10-10T11:22:54+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/nosql-i-doesnt-mean-what-you-think-it-means/</loc>

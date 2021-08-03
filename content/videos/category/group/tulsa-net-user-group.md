@@ -5,9 +5,45 @@
     "Tulsa .NET User Group"
   ],
   "slug": "tulsa-net-user-group",
-  "date": "2021-07-08T00:00:00",
+  "date": "2021-07-27T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Intro to LiteDB",
+      "slug": "intro-to-litedb",
+      "thumbnail": "https://i.vimeocdn.com/video/1205594121_295x166",
+      "date": "2021-07-27T00:00:00",
+      "speakers": [
+        {
+          "name": "Chris Conley",
+          "slug": "chris-conley"
+        }
+      ],
+      "tags": [
+        {
+          "name": "LiteDB",
+          "slug": "litedb"
+        }
+      ]
+    },
+    {
+      "title": "Going Schema-less: How to migrate a relational database to a NoSQL database",
+      "slug": "going-schemaless-how-to-migrate-a-relational-database-to-a-nosql-database",
+      "thumbnail": "https://i.vimeocdn.com/video/1205594992_295x166",
+      "date": "2021-07-27T00:00:00",
+      "speakers": [
+        {
+          "name": "Chad Green",
+          "slug": "chad-green"
+        }
+      ],
+      "tags": [
+        {
+          "name": "NoSQL",
+          "slug": "nosql"
+        }
+      ]
+    },
     {
       "title": "Real-Time Revolution: SignalR In Action",
       "slug": "realtime-revolution-signalr-in-action",

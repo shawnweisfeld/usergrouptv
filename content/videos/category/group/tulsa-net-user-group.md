@@ -5,9 +5,31 @@
     "Tulsa .NET User Group"
   ],
   "slug": "tulsa-net-user-group",
-  "date": "2021-07-27T00:00:00",
+  "date": "2021-08-12T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "One Band One Sound",
+      "slug": "one-band-one-sound",
+      "thumbnail": "https://i.vimeocdn.com/video/1216459740_295x166",
+      "date": "2021-08-12T00:00:00",
+      "speakers": [
+        {
+          "name": "Phil Japikse",
+          "slug": "phil-japikse"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        },
+        {
+          "name": "Team building",
+          "slug": "team-building"
+        }
+      ]
+    },
     {
       "title": "Intro to LiteDB",
       "slug": "intro-to-litedb",

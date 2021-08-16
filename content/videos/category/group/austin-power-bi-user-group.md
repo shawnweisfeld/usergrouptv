@@ -5,9 +5,49 @@
     "Austin Power BI User Group"
   ],
   "slug": "austin-power-bi-user-group",
-  "date": "2021-06-09T00:00:00",
+  "date": "2021-08-11T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Introduction to Charticulator",
+      "slug": "introduction-to-charticulator",
+      "thumbnail": "https://i.vimeocdn.com/video/1216459183_295x166",
+      "date": "2021-08-11T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Carlo",
+          "slug": "mike-carlo"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        },
+        {
+          "name": "Charticulator",
+          "slug": "charticulator"
+        }
+      ]
+    },
+    {
+      "title": "Building Successful BI and Data Platforms following a Results First Strategy",
+      "slug": "building-successful-bi-and-data-platforms-following-a-results-first-strategy",
+      "thumbnail": "https://i.vimeocdn.com/video/1216459477_295x166",
+      "date": "2021-07-14T00:00:00",
+      "speakers": [
+        {
+          "name": "Chris Wagner",
+          "slug": "chris-wagner"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "How we use Power BI at Enterprise DNA",
       "slug": "how-we-use-power-bi-at-enterprise-dna",

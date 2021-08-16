@@ -30,14 +30,14 @@
     {
       "name": "Agile",
       "slug": "agile",
-      "count": 65
+      "count": 66
     }
   ],
   "meetups": [
     {
       "name": "Austin .NET UG",
       "slug": "austin-net-ug",
-      "count": 55
+      "count": 56
     }
   ]
 }

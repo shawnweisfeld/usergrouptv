@@ -6,7 +6,151 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Aug 2021 12:54:45 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Aug 2021 18:56:51 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agile</title>
+      <link>https://usergroup.tv/videos/tag/agile/</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One Band One Sound</title>
+      <link>https://usergroup.tv/videos/one-band-one-sound/</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/one-band-one-sound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phil Japikse</title>
+      <link>https://usergroup.tv/videos/category/speaker/phil-japikse/</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/phil-japikse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team building</title>
+      <link>https://usergroup.tv/videos/tag/team-building/</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/team-building/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Austin Power BI User Group</title>
+      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charticulator</title>
+      <link>https://usergroup.tv/videos/tag/charticulator/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/charticulator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Charticulator</title>
+      <link>https://usergroup.tv/videos/introduction-to-charticulator/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/introduction-to-charticulator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mike Carlo</title>
+      <link>https://usergroup.tv/videos/category/speaker/mike-carlo/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/mike-carlo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>https://usergroup.tv/videos/tag/power-bi/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Actor based distributed caching model using Microsoft Orleans</title>
+      <link>https://usergroup.tv/videos/actor-based-distributed-caching-model-using-microsoft-orleans/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/actor-based-distributed-caching-model-using-microsoft-orleans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Austin .NET UG</title>
+      <link>https://usergroup.tv/videos/category/group/austin-net-ug/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/austin-net-ug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gopi Kandhadi</title>
+      <link>https://usergroup.tv/videos/category/speaker/gopi-kandhadi/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/gopi-kandhadi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Irfan Gilani</title>
+      <link>https://usergroup.tv/videos/category/speaker/irfan-gilani/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/irfan-gilani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Orleans</title>
+      <link>https://usergroup.tv/videos/tag/microsoft-orleans/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/microsoft-orleans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohammad Sadiq</title>
+      <link>https://usergroup.tv/videos/category/speaker/mohammad-sadiq/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/mohammad-sadiq/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Chad Green</title>
       <link>https://usergroup.tv/videos/category/speaker/chad-green/</link>
@@ -58,15 +202,6 @@
       <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/nosql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
-      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
       <description></description>
     </item>
     
@@ -179,6 +314,24 @@
     </item>
     
     <item>
+      <title>Building Successful BI and Data Platforms following a Results First Strategy</title>
+      <link>https://usergroup.tv/videos/building-successful-bi-and-data-platforms-following-a-results-first-strategy/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/building-successful-bi-and-data-platforms-following-a-results-first-strategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Wagner</title>
+      <link>https://usergroup.tv/videos/category/speaker/chris-wagner/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/chris-wagner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kevin Griffin</title>
       <link>https://usergroup.tv/videos/category/speaker/kevin-griffin/</link>
       <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
@@ -269,29 +422,11 @@
     </item>
     
     <item>
-      <title>Austin Power BI User Group</title>
-      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>How we use Power BI at Enterprise DNA</title>
       <link>https://usergroup.tv/videos/how-we-use-power-bi-at-enterprise-dna/</link>
       <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/how-we-use-power-bi-at-enterprise-dna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power BI</title>
-      <link>https://usergroup.tv/videos/tag/power-bi/</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
       <description></description>
     </item>
     
@@ -643,15 +778,6 @@
       <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/power-bi-architecture-endtoend/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Austin .NET UG</title>
-      <link>https://usergroup.tv/videos/category/group/austin-net-ug/</link>
-      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/austin-net-ug/</guid>
       <description></description>
     </item>
     
@@ -2464,15 +2590,6 @@ What do we use your information for?</description>
       <pubDate>Wed, 09 Oct 2019 23:37:13 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/bob-jacobs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Agile</title>
-      <link>https://usergroup.tv/videos/tag/agile/</link>
-      <pubDate>Fri, 04 Oct 2019 16:51:06 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/agile/</guid>
       <description></description>
     </item>
     
@@ -7918,15 +8035,6 @@ What do we use your information for?</description>
       <pubDate>Sun, 06 Aug 2017 16:44:08 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/building-a-diversity-inclusion-team-from-the-bottom-up/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Team building</title>
-      <link>https://usergroup.tv/videos/tag/team-building/</link>
-      <pubDate>Sun, 06 Aug 2017 16:44:08 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/team-building/</guid>
       <description></description>
     </item>
     

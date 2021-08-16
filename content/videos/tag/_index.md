@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2021-08-03T12:54:47.6901659Z",
+  "date": "2021-08-16T18:56:53.1644558Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -63,9 +63,9 @@
     {
       "title": "Agile",
       "slug": "agile",
-      "thumbnail": "https://i.vimeocdn.com/video/820031943_295x166.jpg",
-      "date": "2019-10-04T16:51:06",
-      "count": 65
+      "thumbnail": "https://i.vimeocdn.com/video/1216459740_295x166",
+      "date": "2021-08-12T00:00:00",
+      "count": 66
     },
     {
       "title": "AI",
@@ -541,6 +541,13 @@
       "slug": "cdc",
       "thumbnail": "https://i.vimeocdn.com/video/505504007_295x166.jpg",
       "date": "2015-01-31T18:44:00",
+      "count": 1
+    },
+    {
+      "title": "Charticulator",
+      "slug": "charticulator",
+      "thumbnail": "https://i.vimeocdn.com/video/1216459183_295x166",
+      "date": "2021-08-11T00:00:00",
       "count": 1
     },
     {
@@ -1657,6 +1664,13 @@
       "count": 1
     },
     {
+      "title": "Microsoft Orleans",
+      "slug": "microsoft-orleans",
+      "thumbnail": "https://i.vimeocdn.com/video/1215477680_295x166",
+      "date": "2021-08-09T00:00:00",
+      "count": 1
+    },
+    {
       "title": "millennials",
       "slug": "millennials",
       "thumbnail": "https://i.vimeocdn.com/video/650871904_295x166.jpg",
@@ -2016,9 +2030,9 @@
     {
       "title": "Power BI",
       "slug": "power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1164372990_295x166",
-      "date": "2021-06-09T00:00:00",
-      "count": 26
+      "thumbnail": "https://i.vimeocdn.com/video/1216459183_295x166",
+      "date": "2021-08-11T00:00:00",
+      "count": 28
     },
     {
       "title": "Power Map",
@@ -2730,9 +2744,9 @@
     {
       "title": "Team building",
       "slug": "team-building",
-      "thumbnail": "https://i.vimeocdn.com/video/650784762_295x166.jpg",
-      "date": "2017-08-06T16:44:08",
-      "count": 2
+      "thumbnail": "https://i.vimeocdn.com/video/1216459740_295x166",
+      "date": "2021-08-12T00:00:00",
+      "count": 3
     },
     {
       "title": "Teams",

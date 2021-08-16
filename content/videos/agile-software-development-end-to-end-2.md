@@ -30,7 +30,7 @@
     {
       "name": "Agile",
       "slug": "agile",
-      "count": 65
+      "count": 66
     }
   ],
   "meetups": [

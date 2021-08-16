@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "agile",
-  "date": "2019-10-04T16:51:06",
+  "date": "2021-08-12T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "One Band One Sound",
+      "slug": "one-band-one-sound",
+      "thumbnail": "https://i.vimeocdn.com/video/1216459740_295x166",
+      "date": "2021-08-12T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Phil Japikse",
+          "slug": "phil-japikse"
+        }
+      ]
+    },
     {
       "title": "All the Sugar and Twice the Caffeine Applying Design Thinking Within an Agile Transformation",
       "slug": "all-the-sugar-and-twice-the-caffeine-applying-design-thinking-within-an-agile-transformation",

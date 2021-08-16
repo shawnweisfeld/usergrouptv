@@ -5,9 +5,35 @@
     "Austin .NET UG"
   ],
   "slug": "austin-net-ug",
-  "date": "2021-03-08T00:00:00",
+  "date": "2021-08-09T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Actor based distributed caching model using Microsoft Orleans",
+      "slug": "actor-based-distributed-caching-model-using-microsoft-orleans",
+      "thumbnail": "https://i.vimeocdn.com/video/1215477680_295x166",
+      "date": "2021-08-09T00:00:00",
+      "speakers": [
+        {
+          "name": "Irfan Gilani",
+          "slug": "irfan-gilani"
+        },
+        {
+          "name": "Gopi Kandhadi",
+          "slug": "gopi-kandhadi"
+        },
+        {
+          "name": "Mohammad Sadiq",
+          "slug": "mohammad-sadiq"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Microsoft Orleans",
+          "slug": "microsoft-orleans"
+        }
+      ]
+    },
     {
       "title": "Building a .NET Application Using Azure Cosmos DB",
       "slug": "building-a-net-application-using-azure-cosmos-db-2",

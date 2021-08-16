@@ -26997,4 +26997,113 @@ In this session, you will learn what you can do with Cosmos DB, the benefits of 
       <slug>nosql</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>One Band One Sound</Title>
+    <Url>https://usergroup.tv/videos/one-band-one-sound/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1216459740_295x166</Thumbnail>
+    <Excerpt>Like the progression of a band moving 5th grade to university, teams go through a series of growth steps. In this talk, I discuss the different phases of team dynamics, how to facilitate that growth and what to watch out for. Plus, we will discuss some of the animals that can prevent that growth (and corral them).
+</Excerpt>
+    <PostDate>2021-08-12T00:00:00</PostDate>
+    <Id>1080</Id>
+    <Mp4Video>http://player.vimeo.com/external/587912381.hd.mp4?s=8e48213cf8174b1bf80f844cb425485a1965ea87&amp;profile_id=175&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/587912381.sd.mp4?s=e20c0e2ed061863a1b2b7637d754a373d7fd2cb9&amp;profile_id=164&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Phil Japikse</name>
+      <slug>phil-japikse</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Agile</name>
+      <slug>agile</slug>
+    </Tags>
+    <Tags>
+      <name>Team building</name>
+      <slug>team-building</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Introduction to Charticulator</Title>
+    <Url>https://usergroup.tv/videos/introduction-to-charticulator/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1216459183_295x166</Thumbnail>
+    <Excerpt>Introduction to Charticulator</Excerpt>
+    <PostDate>2021-08-11T00:00:00</PostDate>
+    <Id>1081</Id>
+    <Mp4Video>http://player.vimeo.com/external/587542341.hd.mp4?s=8bb3fc69755bd2e331a7714fccce389d08b643f9&amp;profile_id=174&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/587542341.sd.mp4?s=269828c12304e8a9439bbe6023991bba0621e7c1&amp;profile_id=165&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Mike Carlo</name>
+      <slug>mike-carlo</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Power BI</name>
+      <slug>power-bi</slug>
+    </Tags>
+    <Tags>
+      <name>Charticulator</name>
+      <slug>charticulator</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Building Successful BI and Data Platforms following a Results First Strategy</Title>
+    <Url>https://usergroup.tv/videos/building-successful-bi-and-data-platforms-following-a-results-first-strategy/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1216459477_295x166</Thumbnail>
+    <Excerpt>Building Successful BI and Data Platforms following a Results First Strategy</Excerpt>
+    <PostDate>2021-07-14T00:00:00</PostDate>
+    <Id>1082</Id>
+    <Mp4Video>http://player.vimeo.com/external/587912135.hd.mp4?s=2ed6bf88564b6265813474cb5cdc57b90896ac51&amp;profile_id=175&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/587912135.sd.mp4?s=0b12df1a0d7aed8dc7525ae95b941f05e16ba35b&amp;profile_id=165&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Chris Wagner</name>
+      <slug>chris-wagner</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Power BI</name>
+      <slug>power-bi</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Actor based distributed caching model using Microsoft Orleans</Title>
+    <Url>https://usergroup.tv/videos/actor-based-distributed-caching-model-using-microsoft-orleans/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1215477680_295x166</Thumbnail>
+    <Excerpt>This talk will cover a mechanism to implement an actor based distributed caching model using Microsoft Orleans. Including use cases to support both external caching as well as in-process caching. It will also touch up on design for multiple data structures like key-values, hash collections, and hierarchical sets with support for persistence and notifications.</Excerpt>
+    <PostDate>2021-08-09T00:00:00</PostDate>
+    <Id>1083</Id>
+    <Mp4Video>http://player.vimeo.com/external/587458821.hd.mp4?s=611d6d11c09327648f8add507735809c3265f6ab&amp;profile_id=174&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/587458821.sd.mp4?s=9e1730d9948e21cb5213729c626cf8cecb46255c&amp;profile_id=164&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Irfan Gilani</name>
+      <slug>irfan-gilani</slug>
+    </Speakers>
+    <Speakers>
+      <name>Gopi Kandhadi</name>
+      <slug>gopi-kandhadi</slug>
+    </Speakers>
+    <Speakers>
+      <name>Mohammad Sadiq</name>
+      <slug>mohammad-sadiq</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin .NET UG</name>
+      <slug>austin-net-ug</slug>
+    </Groups>
+    <Tags>
+      <name>Microsoft Orleans</name>
+      <slug>microsoft-orleans</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

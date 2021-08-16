@@ -36,7 +36,7 @@
     {
       "name": "Team building",
       "slug": "team-building",
-      "count": 2
+      "count": 3
     }
   ],
   "meetups": [

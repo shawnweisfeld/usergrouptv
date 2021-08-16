@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-08-03T12:54:47.1733732Z",
+  "date": "2021-08-16T18:56:52.6436091Z",
   "draft": false,
   "speakers": [
     {
@@ -733,6 +733,13 @@
       "count": 2
     },
     {
+      "title": "Chris Wagner",
+      "slug": "chris-wagner",
+      "thumbnail": "https://i.vimeocdn.com/video/1216459477_295x166",
+      "date": "2021-07-14T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Chris Weldon",
       "slug": "chris-weldon",
       "thumbnail": "https://i.vimeocdn.com/video/501052476_295x166.jpg",
@@ -1363,6 +1370,13 @@
       "count": 1
     },
     {
+      "title": "Gopi Kandhadi",
+      "slug": "gopi-kandhadi",
+      "thumbnail": "https://i.vimeocdn.com/video/1215477680_295x166",
+      "date": "2021-08-09T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Grant Fritchey",
       "slug": "grant-fritchey",
       "thumbnail": "https://i.vimeocdn.com/video/488131611_295x166.jpg",
@@ -1444,6 +1458,13 @@
       "slug": "ian-henehan",
       "thumbnail": "https://i.vimeocdn.com/video/495398321_295x166.jpg",
       "date": "2012-03-14T13:01:38",
+      "count": 1
+    },
+    {
+      "title": "Irfan Gilani",
+      "slug": "irfan-gilani",
+      "thumbnail": "https://i.vimeocdn.com/video/1215477680_295x166",
+      "date": "2021-08-09T00:00:00",
       "count": 1
     },
     {
@@ -2840,6 +2861,13 @@
       "count": 9
     },
     {
+      "title": "Mike Carlo",
+      "slug": "mike-carlo",
+      "thumbnail": "https://i.vimeocdn.com/video/1216459183_295x166",
+      "date": "2021-08-11T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Mike Cottmeyer",
       "slug": "mike-cottmeyer",
       "thumbnail": "https://i.vimeocdn.com/video/703347369_295x166.jpg",
@@ -2914,6 +2942,13 @@
       "slug": "mohammad-darab",
       "thumbnail": "https://i.vimeocdn.com/video/702681929_295x166.jpg",
       "date": "2018-05-19T23:07:04",
+      "count": 1
+    },
+    {
+      "title": "Mohammad Sadiq",
+      "slug": "mohammad-sadiq",
+      "thumbnail": "https://i.vimeocdn.com/video/1215477680_295x166",
+      "date": "2021-08-09T00:00:00",
       "count": 1
     },
     {
@@ -3124,6 +3159,13 @@
       "slug": "peter-siri",
       "thumbnail": "https://i.vimeocdn.com/video/537256476_295x166.jpg",
       "date": "2015-09-26T12:08:46",
+      "count": 1
+    },
+    {
+      "title": "Phil Japikse",
+      "slug": "phil-japikse",
+      "thumbnail": "https://i.vimeocdn.com/video/1216459740_295x166",
+      "date": "2021-08-12T00:00:00",
       "count": 1
     },
     {

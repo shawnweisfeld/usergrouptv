@@ -6,7 +6,52 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Aug 2021 12:54:47 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Aug 2021 18:56:53 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agile</title>
+      <link>https://usergroup.tv/videos/tag/agile/</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team building</title>
+      <link>https://usergroup.tv/videos/tag/team-building/</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/team-building/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charticulator</title>
+      <link>https://usergroup.tv/videos/tag/charticulator/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/charticulator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>https://usergroup.tv/videos/tag/power-bi/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Orleans</title>
+      <link>https://usergroup.tv/videos/tag/microsoft-orleans/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/microsoft-orleans/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>LiteDB</title>
       <link>https://usergroup.tv/videos/tag/litedb/</link>
@@ -85,15 +130,6 @@
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/azure-virtual-desktop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power BI</title>
-      <link>https://usergroup.tv/videos/tag/power-bi/</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
       <description></description>
     </item>
     
@@ -733,15 +769,6 @@
       <pubDate>Wed, 09 Oct 2019 23:37:13 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/blockchain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Agile</title>
-      <link>https://usergroup.tv/videos/tag/agile/</link>
-      <pubDate>Fri, 04 Oct 2019 16:51:06 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/agile/</guid>
       <description></description>
     </item>
     
@@ -1570,15 +1597,6 @@
       <pubDate>Sun, 06 Aug 2017 16:45:13 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/tech-leader/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Team building</title>
-      <link>https://usergroup.tv/videos/tag/team-building/</link>
-      <pubDate>Sun, 06 Aug 2017 16:44:08 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/team-building/</guid>
       <description></description>
     </item>
     

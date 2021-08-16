@@ -1,12 +1,100 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-08-03T12:54:45.6289722Z",
+  "date": "2021-08-16T18:56:51.8265048Z",
   "draft": false,
-  "recordingCount": "1,073",
-  "speakerCount": "602",
+  "recordingCount": "1,077",
+  "speakerCount": "608",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "One Band One Sound",
+      "slug": "one-band-one-sound",
+      "thumbnail": "https://i.vimeocdn.com/video/1216459740_295x166",
+      "date": "2021-08-12T00:00:00",
+      "speakers": [
+        {
+          "name": "Phil Japikse",
+          "slug": "phil-japikse"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Agile",
+          "slug": "agile"
+        },
+        {
+          "name": "Team building",
+          "slug": "team-building"
+        }
+      ]
+    },
+    {
+      "title": "Introduction to Charticulator",
+      "slug": "introduction-to-charticulator",
+      "thumbnail": "https://i.vimeocdn.com/video/1216459183_295x166",
+      "date": "2021-08-11T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Carlo",
+          "slug": "mike-carlo"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        },
+        {
+          "name": "Charticulator",
+          "slug": "charticulator"
+        }
+      ]
+    },
+    {
+      "title": "Actor based distributed caching model using Microsoft Orleans",
+      "slug": "actor-based-distributed-caching-model-using-microsoft-orleans",
+      "thumbnail": "https://i.vimeocdn.com/video/1215477680_295x166",
+      "date": "2021-08-09T00:00:00",
+      "speakers": [
+        {
+          "name": "Irfan Gilani",
+          "slug": "irfan-gilani"
+        },
+        {
+          "name": "Gopi Kandhadi",
+          "slug": "gopi-kandhadi"
+        },
+        {
+          "name": "Mohammad Sadiq",
+          "slug": "mohammad-sadiq"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin .NET UG",
+          "slug": "austin-net-ug"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Microsoft Orleans",
+          "slug": "microsoft-orleans"
+        }
+      ]
+    },
     {
       "title": "Intro to LiteDB",
       "slug": "intro-to-litedb",
@@ -116,6 +204,30 @@
         {
           "name": "SQL Admin",
           "slug": "sql-admin"
+        }
+      ]
+    },
+    {
+      "title": "Building Successful BI and Data Platforms following a Results First Strategy",
+      "slug": "building-successful-bi-and-data-platforms-following-a-results-first-strategy",
+      "thumbnail": "https://i.vimeocdn.com/video/1216459477_295x166",
+      "date": "2021-07-14T00:00:00",
+      "speakers": [
+        {
+          "name": "Chris Wagner",
+          "slug": "chris-wagner"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
         }
       ]
     },
@@ -408,118 +520,6 @@
         {
           "name": "Database",
           "slug": "database"
-        }
-      ]
-    },
-    {
-      "title": "Power BI and Google Datasets to Find a Bike in Austin",
-      "slug": "power-bi-and-google-datasets-to-find-a-bike-in-austin",
-      "thumbnail": "https://i.vimeocdn.com/video/1114913453_295x166.jpg",
-      "date": "2021-04-14T00:00:00",
-      "speakers": [
-        {
-          "name": "Ruth Pozuelo Martinez (Curbal)",
-          "slug": "ruth-pozuelo-martinez-curbal"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Power BI",
-          "slug": "power-bi"
-        }
-      ]
-    },
-    {
-      "title": "How to be a Leader",
-      "slug": "how-to-be-a-leader",
-      "thumbnail": "https://i.vimeocdn.com/video/1108602152_295x166.jpg",
-      "date": "2021-04-08T00:00:00",
-      "speakers": [
-        {
-          "name": "Chad Green",
-          "slug": "chad-green"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Leadership",
-          "slug": "leadership"
-        }
-      ]
-    },
-    {
-      "title": "Solutions to Local Kubernetes Development",
-      "slug": "solutions-to-local-kubernetes-development",
-      "thumbnail": "https://i.vimeocdn.com/video/1096213728_295x166.jpg",
-      "date": "2021-03-23T00:00:00",
-      "speakers": [
-        {
-          "name": "Jamie Phillips",
-          "slug": "jamie-phillips"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "K8S",
-          "slug": "k8s"
-        },
-        {
-          "name": "Docker",
-          "slug": "docker"
-        },
-        {
-          "name": "Kubernetes",
-          "slug": "kubernetes"
-        }
-      ]
-    },
-    {
-      "title": "The Hitchhiker's Guide to the Cosmos",
-      "slug": "the-hitchhikers-guide-to-the-cosmos",
-      "thumbnail": "https://i.vimeocdn.com/video/1091600574_295x166.jpg",
-      "date": "2021-03-16T00:00:00",
-      "speakers": [
-        {
-          "name": "Chad Green",
-          "slug": "chad-green"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        },
-        {
-          "name": "DFW Azure User Group",
-          "slug": "dfw-azure-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Cosmos DB",
-          "slug": "cosmos-db"
-        },
-        {
-          "name": "Azure",
-          "slug": "azure"
         }
       ]
     }

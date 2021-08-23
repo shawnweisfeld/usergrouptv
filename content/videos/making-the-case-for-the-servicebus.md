@@ -30,7 +30,7 @@
     {
       "name": "Azure Service Bus",
       "slug": "azure-service-bus",
-      "count": 1
+      "count": 2
     }
   ],
   "meetups": [

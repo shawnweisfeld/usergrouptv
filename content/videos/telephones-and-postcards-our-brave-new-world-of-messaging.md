@@ -30,7 +30,7 @@
     {
       "name": "Messaging",
       "slug": "messaging",
-      "count": 1
+      "count": 2
     }
   ],
   "meetups": [

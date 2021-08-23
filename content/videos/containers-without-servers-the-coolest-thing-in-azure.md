@@ -37,7 +37,7 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 50
+      "count": 51
     },
     {
       "name": "Austin Global Azure Bootcamp",

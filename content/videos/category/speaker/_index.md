@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-08-16T18:56:52.6436091Z",
+  "date": "2021-08-23T12:17:20.3844009Z",
   "draft": false,
   "speakers": [
     {
@@ -2849,9 +2849,9 @@
     {
       "title": "Mike Burek",
       "slug": "mike-burek",
-      "thumbnail": "https://i.vimeocdn.com/video/1195699085_295x166",
-      "date": "2021-07-20T00:00:00",
-      "count": 6
+      "thumbnail": "https://i.vimeocdn.com/video/1221979479_295x166",
+      "date": "2021-08-17T00:00:00",
+      "count": 7
     },
     {
       "title": "Mike Byrd",
@@ -3731,9 +3731,9 @@
     {
       "title": "Simon Timms",
       "slug": "simon-timms",
-      "thumbnail": "https://i.vimeocdn.com/video/662472028_295x166.jpg",
-      "date": "2017-10-18T11:35:56",
-      "count": 2
+      "thumbnail": "https://i.vimeocdn.com/video/1221979247_295x166",
+      "date": "2021-08-17T00:00:00",
+      "count": 3
     },
     {
       "title": "Siraj Mohammad",

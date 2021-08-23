@@ -23,8 +23,8 @@
     {
       "name": "Simon Timms",
       "slug": "simon-timms",
-      "bio": "<p>Eric Fleming is a lover of the finer things in life: football, pushups and his brand new wife. When not doing pushups while watching a football match, he is a software developer with a passion for keep code simple, testable and readable. He is a frequent guest on the ASP.NET Monsters video cast and a founding member of Function Junction - the preeminent podcast about Azure Functions</p>",
-      "count": 2
+      "bio": "Simon is a polyglot developer who has worked on everything from serial port drivers on an Android tablet, to NServiceBus, to processing tens of thousands of messages a second using stream analytics, to building Angular web applications. All that in the last year. He is the author of a number of books on JavaScript and ASP.NET and blogs far less regularly than he should on both the Western Devs site (https://www.westerndevs.com/) and on his blog (https://blog.simontimms.com/). He is also the least visible member of the ASP.NET monsters (https://aspnetmonsters.com/).",
+      "count": 3
     },
     {
       "name": "James Chambers",
@@ -67,7 +67,7 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 50
+      "count": 51
     }
   ]
 }

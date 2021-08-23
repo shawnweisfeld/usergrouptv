@@ -5,10 +5,32 @@
   ],
   "type": "speaker",
   "slug": "mike-burek",
-  "date": "2021-07-20T00:00:00",
+  "date": "2021-08-17T00:00:00",
   "draft": false,
   "bio": "<p>Mike is the leader of the Austin SQL User Group</p>",
   "recordings": [
+    {
+      "title": "How and Where to Practice Writing Queries",
+      "slug": "how-and-where-to-practice-writing-queries",
+      "thumbnail": "https://i.vimeocdn.com/video/1221979479_295x166",
+      "date": "2021-08-17T00:00:00",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "DBA",
+          "slug": "dba"
+        },
+        {
+          "name": "MS SQL",
+          "slug": "ms-sql"
+        }
+      ]
+    },
     {
       "title": "DBA Fired by the PowerShell Wiz",
       "slug": "dba-fired-by-the-powershell-wiz",

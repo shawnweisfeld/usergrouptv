@@ -1,12 +1,76 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-08-16T18:56:51.8265048Z",
+  "date": "2021-08-23T12:17:19.807943Z",
   "draft": false,
-  "recordingCount": "1,077",
+  "recordingCount": "1,079",
   "speakerCount": "608",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Messaging Without Servers",
+      "slug": "messaging-without-servers",
+      "thumbnail": "https://i.vimeocdn.com/video/1221979247_295x166",
+      "date": "2021-08-17T00:00:00",
+      "speakers": [
+        {
+          "name": "Simon Timms",
+          "slug": "simon-timms"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        },
+        {
+          "name": "Azure User Group - Houston",
+          "slug": "azure-user-group-houston"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Messaging",
+          "slug": "messaging"
+        },
+        {
+          "name": "Azure Service Bus",
+          "slug": "azure-service-bus"
+        }
+      ]
+    },
+    {
+      "title": "How and Where to Practice Writing Queries",
+      "slug": "how-and-where-to-practice-writing-queries",
+      "thumbnail": "https://i.vimeocdn.com/video/1221979479_295x166",
+      "date": "2021-08-17T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Burek",
+          "slug": "mike-burek"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "DBA",
+          "slug": "dba"
+        },
+        {
+          "name": "MS SQL",
+          "slug": "ms-sql"
+        }
+      ]
+    },
     {
       "title": "One Band One Sound",
       "slug": "one-band-one-sound",
@@ -448,78 +512,6 @@
         {
           "name": "Documentation",
           "slug": "documentation"
-        }
-      ]
-    },
-    {
-      "title": "Five Azure Services Every Developer Should Know",
-      "slug": "five-azure-services-every-developer-should-know",
-      "thumbnail": "https://i.vimeocdn.com/video/1120787910_295x166.jpg",
-      "date": "2021-04-20T00:00:00",
-      "speakers": [
-        {
-          "name": "Joshua Carlisle",
-          "slug": "joshua-carlisle"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        },
-        {
-          "name": "DFW Azure User Group",
-          "slug": "dfw-azure-user-group"
-        },
-        {
-          "name": "Azure User Group - Houston",
-          "slug": "azure-user-group-houston"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Azure App Services",
-          "slug": "azure-app-services"
-        },
-        {
-          "name": "Cosmos DB",
-          "slug": "cosmos-db"
-        },
-        {
-          "name": "Azure Functions",
-          "slug": "azure-functions"
-        },
-        {
-          "name": "Azure",
-          "slug": "azure"
-        }
-      ]
-    },
-    {
-      "title": "Cosmos Tools for the Relational Developer",
-      "slug": "cosmos-tools-for-the-relational-developer",
-      "thumbnail": "https://i.vimeocdn.com/video/1136615596_295x166",
-      "date": "2021-04-20T00:00:00",
-      "speakers": [
-        {
-          "name": "Mike Benkovich",
-          "slug": "mike-benkovich"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Cosmos DB",
-          "slug": "cosmos-db"
-        },
-        {
-          "name": "Database",
-          "slug": "database"
         }
       ]
     }

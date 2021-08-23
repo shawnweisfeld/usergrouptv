@@ -5,9 +5,31 @@
     "Azure User Group - Houston"
   ],
   "slug": "azure-user-group-houston",
-  "date": "2021-07-20T00:00:00",
+  "date": "2021-08-17T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Messaging Without Servers",
+      "slug": "messaging-without-servers",
+      "thumbnail": "https://i.vimeocdn.com/video/1221979247_295x166",
+      "date": "2021-08-17T00:00:00",
+      "speakers": [
+        {
+          "name": "Simon Timms",
+          "slug": "simon-timms"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Messaging",
+          "slug": "messaging"
+        },
+        {
+          "name": "Azure Service Bus",
+          "slug": "azure-service-bus"
+        }
+      ]
+    },
     {
       "title": "Azure Logic Apps: Innovating on B2B Connectivity",
       "slug": "azure-logic-apps-innovating-on-b2b-connectivity",

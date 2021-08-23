@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "ms-sql",
-  "date": "2020-10-20T00:00:00",
+  "date": "2021-08-17T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "How and Where to Practice Writing Queries",
+      "slug": "how-and-where-to-practice-writing-queries",
+      "thumbnail": "https://i.vimeocdn.com/video/1221979479_295x166",
+      "date": "2021-08-17T00:00:00",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Mike Burek",
+          "slug": "mike-burek"
+        }
+      ]
+    },
     {
       "title": "How to get the best TCO while running SQL Server on Azure VM",
       "slug": "how-to-get-the-best-tco-while-running-sql-server-on-azure-vm",

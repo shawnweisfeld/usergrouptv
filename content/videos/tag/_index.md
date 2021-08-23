@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2021-08-16T18:56:53.1644558Z",
+  "date": "2021-08-23T12:17:21.097658Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -343,9 +343,9 @@
     {
       "title": "Azure Service Bus",
       "slug": "azure-service-bus",
-      "thumbnail": "https://i.vimeocdn.com/video/631739272_295x166.jpg",
-      "date": "2017-04-22T13:08:54",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1221979247_295x166",
+      "date": "2021-08-17T00:00:00",
+      "count": 2
     },
     {
       "title": "Azure Service Fabric",
@@ -833,9 +833,9 @@
     {
       "title": "DBA",
       "slug": "dba",
-      "thumbnail": "https://i.vimeocdn.com/video/561392072_295x166.jpg",
-      "date": "2016-02-16T13:33:02",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1221979479_295x166",
+      "date": "2021-08-17T00:00:00",
+      "count": 2
     },
     {
       "title": "DDD",
@@ -1610,9 +1610,9 @@
     {
       "title": "Messaging",
       "slug": "messaging",
-      "thumbnail": "https://i.vimeocdn.com/video/483486400_295x166.jpg",
-      "date": "2013-09-28T12:49:32",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1221979247_295x166",
+      "date": "2021-08-17T00:00:00",
+      "count": 2
     },
     {
       "title": "metro",
@@ -1757,9 +1757,9 @@
     {
       "title": "MS SQL",
       "slug": "ms-sql",
-      "thumbnail": "https://i.vimeocdn.com/video/980844918_295x166.jpg",
-      "date": "2020-10-20T00:00:00",
-      "count": 19
+      "thumbnail": "https://i.vimeocdn.com/video/1221979479_295x166",
+      "date": "2021-08-17T00:00:00",
+      "count": 20
     },
     {
       "title": "MSMQ",

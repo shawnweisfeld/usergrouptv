@@ -6,7 +6,61 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>graph</title>
+      <link>https://usergroup.tv/tags/graph/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Databases</title>
+      <link>https://usergroup.tv/tags/graph-databases/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/graph-databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graphdb</title>
+      <link>https://usergroup.tv/tags/graphdb/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/graphdb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guy Royse</title>
+      <link>https://usergroup.tv/tags/guy-royse/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/guy-royse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redis</title>
+      <link>https://usergroup.tv/tags/redis/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/redis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/tags/tulsa-.net-user-group/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/tulsa-.net-user-group/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Azure Austin Meetup</title>
       <link>https://usergroup.tv/tags/azure-austin-meetup/</link>
@@ -121,15 +175,6 @@
       <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/team-building/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/tags/tulsa-.net-user-group/</link>
-      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/tulsa-.net-user-group/</guid>
       <description></description>
     </item>
     
@@ -3860,15 +3905,6 @@
     </item>
     
     <item>
-      <title>Graph Databases</title>
-      <link>https://usergroup.tv/tags/graph-databases/</link>
-      <pubDate>Fri, 06 Oct 2017 22:27:23 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/graph-databases/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Greg Jordan</title>
       <link>https://usergroup.tv/tags/greg-jordan/</link>
       <pubDate>Fri, 06 Oct 2017 22:27:23 +0000</pubDate>
@@ -6871,15 +6907,6 @@
       <pubDate>Sat, 31 Jan 2015 13:59:33 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/ssdt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Redis</title>
-      <link>https://usergroup.tv/tags/redis/</link>
-      <pubDate>Tue, 16 Dec 2014 17:57:15 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/redis/</guid>
       <description></description>
     </item>
     

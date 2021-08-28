@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2021-08-23T12:17:21.097658Z",
+  "date": "2021-08-28T20:25:12.2899913Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -1174,10 +1174,24 @@
       "count": 1
     },
     {
+      "title": "graph",
+      "slug": "graph",
+      "thumbnail": "https://i.vimeocdn.com/video/1226770946_295x166",
+      "date": "2021-08-24T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Graph Databases",
       "slug": "graph-databases",
-      "thumbnail": "https://i.vimeocdn.com/video/660049778_295x166.jpg",
-      "date": "2017-10-06T22:27:23",
+      "thumbnail": "https://i.vimeocdn.com/video/1226770946_295x166",
+      "date": "2021-08-24T00:00:00",
+      "count": 2
+    },
+    {
+      "title": "graphdb",
+      "slug": "graphdb",
+      "thumbnail": "https://i.vimeocdn.com/video/1226770946_295x166",
+      "date": "2021-08-24T00:00:00",
       "count": 1
     },
     {
@@ -2198,9 +2212,9 @@
     {
       "title": "Redis",
       "slug": "redis",
-      "thumbnail": "https://i.vimeocdn.com/video/501095947_295x166.jpg",
-      "date": "2014-12-16T17:57:15",
-      "count": 3
+      "thumbnail": "https://i.vimeocdn.com/video/1226770946_295x166",
+      "date": "2021-08-24T00:00:00",
+      "count": 4
     },
     {
       "title": "redux",

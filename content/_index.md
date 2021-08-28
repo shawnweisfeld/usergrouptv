@@ -1,12 +1,48 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-08-23T12:17:19.807943Z",
+  "date": "2021-08-28T20:25:10.5025727Z",
   "draft": false,
-  "recordingCount": "1,079",
-  "speakerCount": "608",
+  "recordingCount": "1,080",
+  "speakerCount": "609",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Dungeons, Dragons, and Graph Databases",
+      "slug": "dungeons-dragons-and-graph-databases",
+      "thumbnail": "https://i.vimeocdn.com/video/1226770946_295x166",
+      "date": "2021-08-24T00:00:00",
+      "speakers": [
+        {
+          "name": "Guy Royse",
+          "slug": "guy-royse"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Graph Databases",
+          "slug": "graph-databases"
+        },
+        {
+          "name": "Redis",
+          "slug": "redis"
+        },
+        {
+          "name": "graph",
+          "slug": "graph"
+        },
+        {
+          "name": "graphdb",
+          "slug": "graphdb"
+        }
+      ]
+    },
     {
       "title": "Messaging Without Servers",
       "slug": "messaging-without-servers",
@@ -476,42 +512,6 @@
         {
           "name": "Power BI",
           "slug": "power-bi"
-        }
-      ]
-    },
-    {
-      "title": "Become a Contributor to Microsoft Docs",
-      "slug": "become-a-contributor-to-microsoft-docs",
-      "thumbnail": "https://i.vimeocdn.com/video/1120620236_295x166.jpg",
-      "date": "2021-04-20T00:00:00",
-      "speakers": [
-        {
-          "name": "William Assaf",
-          "slug": "william-assaf"
-        },
-        {
-          "name": "Mark Ghanayem",
-          "slug": "mark-ghanayem"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Capitol Area Central Texas Users of SQL Server",
-          "slug": "capitol-area-central-texas-users-of-sql-server"
-        }
-      ],
-      "tags": [
-        {
-          "name": "GitHub",
-          "slug": "github"
-        },
-        {
-          "name": "SQL",
-          "slug": "sql"
-        },
-        {
-          "name": "Documentation",
-          "slug": "documentation"
         }
       ]
     }

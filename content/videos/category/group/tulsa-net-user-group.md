@@ -5,9 +5,39 @@
     "Tulsa .NET User Group"
   ],
   "slug": "tulsa-net-user-group",
-  "date": "2021-08-12T00:00:00",
+  "date": "2021-08-24T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Dungeons, Dragons, and Graph Databases",
+      "slug": "dungeons-dragons-and-graph-databases",
+      "thumbnail": "https://i.vimeocdn.com/video/1226770946_295x166",
+      "date": "2021-08-24T00:00:00",
+      "speakers": [
+        {
+          "name": "Guy Royse",
+          "slug": "guy-royse"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Graph Databases",
+          "slug": "graph-databases"
+        },
+        {
+          "name": "Redis",
+          "slug": "redis"
+        },
+        {
+          "name": "graph",
+          "slug": "graph"
+        },
+        {
+          "name": "graphdb",
+          "slug": "graphdb"
+        }
+      ]
+    },
     {
       "title": "One Band One Sound",
       "slug": "one-band-one-sound",

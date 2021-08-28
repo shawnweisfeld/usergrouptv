@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "redis",
-  "date": "2014-12-16T17:57:15",
+  "date": "2021-08-24T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Dungeons, Dragons, and Graph Databases",
+      "slug": "dungeons-dragons-and-graph-databases",
+      "thumbnail": "https://i.vimeocdn.com/video/1226770946_295x166",
+      "date": "2021-08-24T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Guy Royse",
+          "slug": "guy-royse"
+        }
+      ]
+    },
     {
       "title": "Redis - Caching for .NET Developers",
       "slug": "redis-caching-for-net-developers",

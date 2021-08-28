@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-08-23T12:17:20.3844009Z",
+  "date": "2021-08-28T20:25:11.362888Z",
   "draft": false,
   "speakers": [
     {
@@ -1409,6 +1409,13 @@
       "slug": "gregory-beamer",
       "thumbnail": "https://i.vimeocdn.com/video/483492285_295x166.jpg",
       "date": "2013-09-09T02:34:44",
+      "count": 1
+    },
+    {
+      "title": "Guy Royse",
+      "slug": "guy-royse",
+      "thumbnail": "https://i.vimeocdn.com/video/1226770946_295x166",
+      "date": "2021-08-24T00:00:00",
       "count": 1
     },
     {

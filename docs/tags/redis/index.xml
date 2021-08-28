@@ -6,11 +6,20 @@
     <description>Recent content in Redis on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Dec 2014 17:57:15 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/redis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/redis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dungeons, Dragons, and Graph Databases</title>
+      <link>https://usergroup.tv/videos/dungeons-dragons-and-graph-databases/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/dungeons-dragons-and-graph-databases/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Redis</title>
       <link>https://usergroup.tv/videos/tag/redis/</link>
-      <pubDate>Tue, 16 Dec 2014 17:57:15 +0000</pubDate>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/redis/</guid>
       <description></description>

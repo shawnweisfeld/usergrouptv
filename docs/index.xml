@@ -6,7 +6,70 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Aug 2021 12:17:19 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Aug 2021 20:25:10 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dungeons, Dragons, and Graph Databases</title>
+      <link>https://usergroup.tv/videos/dungeons-dragons-and-graph-databases/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/dungeons-dragons-and-graph-databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph</title>
+      <link>https://usergroup.tv/videos/tag/graph/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Databases</title>
+      <link>https://usergroup.tv/videos/tag/graph-databases/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/graph-databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graphdb</title>
+      <link>https://usergroup.tv/videos/tag/graphdb/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/graphdb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guy Royse</title>
+      <link>https://usergroup.tv/videos/category/speaker/guy-royse/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/guy-royse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redis</title>
+      <link>https://usergroup.tv/videos/tag/redis/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/redis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Azure Austin Meetup</title>
       <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
@@ -148,15 +211,6 @@
       <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/team-building/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
-      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
       <description></description>
     </item>
     
@@ -7085,15 +7139,6 @@ What do we use your information for?</description>
     </item>
     
     <item>
-      <title>Graph Databases</title>
-      <link>https://usergroup.tv/videos/tag/graph-databases/</link>
-      <pubDate>Fri, 06 Oct 2017 22:27:23 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/graph-databases/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Greg Jordan</title>
       <link>https://usergroup.tv/videos/category/speaker/greg-jordan/</link>
       <pubDate>Fri, 06 Oct 2017 22:27:23 +0000</pubDate>
@@ -13057,15 +13102,6 @@ What do we use your information for?</description>
       <pubDate>Mon, 12 Jan 2015 12:11:50 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/make-your-sql-server-queries-go-faster/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Redis</title>
-      <link>https://usergroup.tv/videos/tag/redis/</link>
-      <pubDate>Tue, 16 Dec 2014 17:57:15 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/redis/</guid>
       <description></description>
     </item>
     

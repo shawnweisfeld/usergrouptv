@@ -6,7 +6,43 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Aug 2021 12:17:21 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Aug 2021 20:25:12 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>graph</title>
+      <link>https://usergroup.tv/videos/tag/graph/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Databases</title>
+      <link>https://usergroup.tv/videos/tag/graph-databases/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/graph-databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graphdb</title>
+      <link>https://usergroup.tv/videos/tag/graphdb/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/graphdb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redis</title>
+      <link>https://usergroup.tv/videos/tag/redis/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/redis/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Azure Service Bus</title>
       <link>https://usergroup.tv/videos/tag/azure-service-bus/</link>
@@ -1412,15 +1448,6 @@
     </item>
     
     <item>
-      <title>Graph Databases</title>
-      <link>https://usergroup.tv/videos/tag/graph-databases/</link>
-      <pubDate>Fri, 06 Oct 2017 22:27:23 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/graph-databases/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Keynote</title>
       <link>https://usergroup.tv/videos/tag/keynote/</link>
       <pubDate>Fri, 06 Oct 2017 22:26:24 +0000</pubDate>
@@ -2506,15 +2533,6 @@
       <pubDate>Sat, 31 Jan 2015 13:59:33 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/ssdt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Redis</title>
-      <link>https://usergroup.tv/videos/tag/redis/</link>
-      <pubDate>Tue, 16 Dec 2014 17:57:15 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/redis/</guid>
       <description></description>
     </item>
     

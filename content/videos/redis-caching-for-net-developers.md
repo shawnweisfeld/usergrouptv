@@ -30,7 +30,7 @@
     {
       "name": "Redis",
       "slug": "redis",
-      "count": 3
+      "count": 4
     }
   ],
   "meetups": [

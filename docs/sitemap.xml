@@ -3,19 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2021-08-28T20:25:13+00:00</lastmod>
+    <lastmod>2021-09-13T12:25:57+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2021-08-28T20:25:12+00:00</lastmod>
+    <lastmod>2021-09-13T12:25:56+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2021-08-28T20:25:11+00:00</lastmod>
+    <lastmod>2021-09-13T12:25:55+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2021-08-28T20:25:10+00:00</lastmod>
+    <lastmod>2021-09-13T12:25:53+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2021-08-28T20:25:10+00:00</lastmod>
+    <lastmod>2021-09-13T12:25:53+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
+    <lastmod>2021-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
+    <lastmod>2021-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/daniel-marsh-patrick/</loc>
+    <lastmod>2021-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/daniel-marshpatrick/</loc>
+    <lastmod>2021-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/deneb/</loc>
+    <lastmod>2021-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/deneb/</loc>
+    <lastmod>2021-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/deneb/</loc>
+    <lastmod>2021-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/kerry-kolosko/</loc>
+    <lastmod>2021-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/kerry-kolosko/</loc>
+    <lastmod>2021-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/power-bi/</loc>
+    <lastmod>2021-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/power-bi/</loc>
+    <lastmod>2021-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2021-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/dungeons-dragons-and-graph-databases/</loc>
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
@@ -48,9 +84,6 @@
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/redis/</loc>
-    <lastmod>2021-08-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/</loc>
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
@@ -146,12 +179,6 @@
     <loc>https://usergroup.tv/videos/tag/team-building/</loc>
     <lastmod>2021-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
-    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
-    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/charticulator/</loc>
     <lastmod>2021-08-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -165,12 +192,6 @@
     <lastmod>2021-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/mike-carlo/</loc>
-    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/power-bi/</loc>
-    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/power-bi/</loc>
     <lastmod>2021-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/actor-based-distributed-caching-model-using-microsoft-orleans/</loc>

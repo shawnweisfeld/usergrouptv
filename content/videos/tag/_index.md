@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2021-08-28T20:25:12.2899913Z",
+  "date": "2021-09-13T12:25:56.5209707Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -863,6 +863,13 @@
       "slug": "delphi",
       "thumbnail": "https://i.vimeocdn.com/video/490861399_295x166.jpg",
       "date": "2014-09-26T18:51:48",
+      "count": 1
+    },
+    {
+      "title": "Deneb",
+      "slug": "deneb",
+      "thumbnail": "https://i.vimeocdn.com/video/1240211628_295x166",
+      "date": "2021-09-08T00:00:00",
       "count": 1
     },
     {
@@ -2044,9 +2051,9 @@
     {
       "title": "Power BI",
       "slug": "power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1216459183_295x166",
-      "date": "2021-08-11T00:00:00",
-      "count": 28
+      "thumbnail": "https://i.vimeocdn.com/video/1240211628_295x166",
+      "date": "2021-09-08T00:00:00",
+      "count": 29
     },
     {
       "title": "Power Map",

@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-08-28T20:25:11.362888Z",
+  "date": "2021-09-13T12:25:55.3793947Z",
   "draft": false,
   "speakers": [
     {
@@ -891,6 +891,13 @@
       "slug": "daniel-lioznyansky",
       "thumbnail": "https://i.vimeocdn.com/video/593962045_295x166.jpg",
       "date": "2016-09-24T19:50:58",
+      "count": 1
+    },
+    {
+      "title": "Daniel Marsh-Patrick",
+      "slug": "daniel-marshpatrick",
+      "thumbnail": "https://i.vimeocdn.com/video/1240211628_295x166",
+      "date": "2021-09-08T00:00:00",
       "count": 1
     },
     {
@@ -2214,6 +2221,13 @@
       "slug": "kent-sloan",
       "thumbnail": "https://i.vimeocdn.com/video/722234775_295x166.jpg",
       "date": "2018-08-25T19:30:52",
+      "count": 1
+    },
+    {
+      "title": "Kerry Kolosko",
+      "slug": "kerry-kolosko",
+      "thumbnail": "https://i.vimeocdn.com/video/1240211628_295x166",
+      "date": "2021-09-08T00:00:00",
       "count": 1
     },
     {

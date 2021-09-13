@@ -1,12 +1,44 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-08-28T20:25:10.5025727Z",
+  "date": "2021-09-13T12:25:53.3261835Z",
   "draft": false,
-  "recordingCount": "1,080",
-  "speakerCount": "609",
+  "recordingCount": "1,081",
+  "speakerCount": "611",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Deneb",
+      "slug": "deneb",
+      "thumbnail": "https://i.vimeocdn.com/video/1240211628_295x166",
+      "date": "2021-09-08T00:00:00",
+      "speakers": [
+        {
+          "name": "Daniel Marsh-Patrick",
+          "slug": "daniel-marshpatrick"
+        },
+        {
+          "name": "Kerry Kolosko",
+          "slug": "kerry-kolosko"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        },
+        {
+          "name": "Deneb",
+          "slug": "deneb"
+        }
+      ]
+    },
     {
       "title": "Dungeons, Dragons, and Graph Databases",
       "slug": "dungeons-dragons-and-graph-databases",
@@ -488,30 +520,6 @@
         {
           "name": "Azure Arc",
           "slug": "azure-arc"
-        }
-      ]
-    },
-    {
-      "title": "Introduction to Paginated Reports",
-      "slug": "introduction-to-paginated-reports",
-      "thumbnail": "https://i.vimeocdn.com/video/1136394295_295x166",
-      "date": "2021-05-12T00:00:00",
-      "speakers": [
-        {
-          "name": "Laura Graham-Brown",
-          "slug": "laura-grahambrown"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Power BI",
-          "slug": "power-bi"
         }
       ]
     }

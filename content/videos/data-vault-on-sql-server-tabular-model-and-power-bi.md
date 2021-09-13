@@ -31,7 +31,7 @@
     {
       "name": "Power BI",
       "slug": "power-bi",
-      "count": 28
+      "count": 29
     },
     {
       "name": "MS SQL",

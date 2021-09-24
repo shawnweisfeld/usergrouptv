@@ -10,11 +10,11 @@
   "abstract": "<p>Look around, the business environment is changing. New technologies, platforms, languages, start-ups, global competition….. at times it can seem as if the foundation of our business world is built on quicksand. So how do we learn to survive and thrive in such a chaotic environment? Well, it all started in 1657! If your interest has peaked, join us as we reflect on our 460-year journey in measuring the rate of change and discuss how today’s environment not only demands Agile execution but Agile planning as well.</p>",
   "description": "<p>Look around, the business environment is changing. New technologies, platforms, languages, start-ups, global competition….. at times it can seem as if the foundation of our business world is built on quicksand. So how do we learn to survive and thrive in such a chaotic environment? Well, it all started in 1657! If your interest has peaked, join us as we reflect on our 460-year journey in measuring the rate of change and discuss how today’s environment not only demands Agile execution but Agile planning as well.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/703267445_295x166.jpg"
+    "https://i.vimeocdn.com/video/703267445-3d992799e04ee93e3b8b73b08cc2d57fa1e2a94a4047278fd961f5cb7d2b1245-d_295x166"
   ],
   "vimeo": "271861950",
   "moreinfo": "http://www.agileaustin.org",
-  "thumbnail": "https://i.vimeocdn.com/video/703267445_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/703267445-3d992799e04ee93e3b8b73b08cc2d57fa1e2a94a4047278fd961f5cb7d2b1245-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/271861950.hd.mp4?s=42b5a8a0e6c9d88ae0acb447bb66ff822a78a033&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/271861950.sd.mp4?s=89eb54e24d2c2798bc8a809a4441baab3d77685a&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 443,

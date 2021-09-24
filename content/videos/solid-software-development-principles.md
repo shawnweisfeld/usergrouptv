@@ -10,11 +10,11 @@
   "abstract": "<p>SOLID is an acronym for five basic principles of object oriented design and development. Michael will give a platform agnostic presentation of these principles and how they can be used to improve our projects.</p>",
   "description": "<p>SOLID is an acronym for five basic principles of object oriented design and development. Michael will give a platform agnostic presentation of these principles and how they can be used to improve our projects.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/507716738_295x166.jpg"
+    "https://i.vimeocdn.com/video/507716738-77f3d284bd711480d6ce14461d3899b96a197f2e3f09f871aed8a851a9888222-d_295x166"
   ],
   "vimeo": "120046616",
   "moreinfo": "http://sqlconnections.org/",
-  "thumbnail": "https://i.vimeocdn.com/video/507716738_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/507716738-77f3d284bd711480d6ce14461d3899b96a197f2e3f09f871aed8a851a9888222-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/120046616.hd.mp4?s=c79f31ba1b52ed95c88894b84c52903f2621e068&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/120046616.sd.mp4?s=3b541fa966a4f98cc5c2569a9ebdf5c32d77480d&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 673,

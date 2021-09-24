@@ -10,11 +10,11 @@
   "abstract": "<p>JavaScript Object Notation (JSON) is a highly popular format for storing and transferring data, especially in the realm of web development. JSON can sometimes be intimidating for those more familiar with tabular or XML data exchange formats. We’ll demystify JSON with a high-level overview of the format. We’ll then discuss the variety of built-in T-SQL functionality available to store, query, or even generate JSON within your SQL Server databases.\r\n</p>",
   "description": "<p>JavaScript Object Notation (JSON) is a highly popular format for storing and transferring data, especially in the realm of web development. JSON can sometimes be intimidating for those more familiar with tabular or XML data exchange formats. We’ll demystify JSON with a high-level overview of the format. We’ll then discuss the variety of built-in T-SQL functionality available to store, query, or even generate JSON within your SQL Server databases.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/722234970_295x166.jpg"
+    "https://i.vimeocdn.com/video/722234970-8cc6c92c5fb20ad052abc4e758947789122bf146aae3a5c4903045462d52cbab-d_295x166"
   ],
   "vimeo": "287161066",
   "moreinfo": "http://www.sqlsaturday.com/794/Sessions/Details.aspx?sid=84078",
-  "thumbnail": "https://i.vimeocdn.com/video/722234970_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/722234970-8cc6c92c5fb20ad052abc4e758947789122bf146aae3a5c4903045462d52cbab-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/287161066.hd.mp4?s=9f263816a038393e8a6ce0243fdd96c5aba422dd&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/287161066.sd.mp4?s=30f6ef3055b4b9f7920c3c453ff5df6ec16ac96c&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 494,

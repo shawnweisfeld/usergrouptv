@@ -10,11 +10,11 @@
   "abstract": "<p>Join our panel discussion as we explore the current state of Computer Science education and how we can prepare students for the working world. Some of the questions to be discussed: How do you feel regarding the introduction of computer science in the education system? Has this peaked an interested in tech fields? From an employer perspective, are you satisfied with computer science education programs today? Are you satisfied with the level of Educator training available? What could be different? What is your current experience/opinion regarding the number of female and minorities enrolled in computer science classes? Are there things we can do to encourage more enrollment for under represented groups?</p>",
   "description": "<p>Join our panel discussion as we explore the current state of Computer Science education and how we can prepare students for the working world. Some of the questions to be discussed: How do you feel regarding the introduction of computer science in the education system? Has this peaked an interested in tech fields? From an employer perspective, are you satisfied with computer science education programs today? Are you satisfied with the level of Educator training available? What could be different? What is your current experience/opinion regarding the number of female and minorities enrolled in computer science classes? Are there things we can do to encourage more enrollment for under represented groups?</p>",
   "images": [
-    "https://i.vimeocdn.com/video/660004585_295x166.jpg"
+    "https://i.vimeocdn.com/video/660004585-91a29c5347c9686c64a99951289ce895d7dd674ec68974af7e081f26b599bda9-d_295x166"
   ],
   "vimeo": "237557409",
   "moreinfo": "http://www.lrtechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/660004585_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/660004585-91a29c5347c9686c64a99951289ce895d7dd674ec68974af7e081f26b599bda9-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/237557409.hd.mp4?s=2eea197f18ee999d6bf18b76d38ecbcbdbd865ff&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/237557409.sd.mp4?s=183daaaa579df61672b108c37c838974bcb1fd92&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 112,

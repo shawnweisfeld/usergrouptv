@@ -11,7 +11,7 @@
     {
       "title": "How to get the best TCO while running SQL Server on Azure VM",
       "slug": "how-to-get-the-best-tco-while-running-sql-server-on-azure-vm",
-      "thumbnail": "https://i.vimeocdn.com/video/980844918_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/980844918-beb054c71fc1d2c2e628d251ae8a0959a6192aecff06475077513364c59786d1-d_295x166",
       "date": "2020-10-20T00:00:00",
       "meetups": [
         {
@@ -37,7 +37,7 @@
     {
       "title": "Demystifying JSON in SQL Server",
       "slug": "demystifying-json-in-sql-server",
-      "thumbnail": "https://i.vimeocdn.com/video/722234970_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/722234970-8cc6c92c5fb20ad052abc4e758947789122bf146aae3a5c4903045462d52cbab-d_295x166",
       "date": "2018-08-25T19:32:15",
       "meetups": [
         {
@@ -55,7 +55,7 @@
     {
       "title": "SQL Saturday Dallas 2018 Keynote",
       "slug": "sql-saturday-dallas-2018-keynote",
-      "thumbnail": "https://i.vimeocdn.com/video/702612830_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/702612830-1c97a6ef3782ca25ce8fed303a41ebd74b17e24f73565292beeaa189b55b0d40-d_295x166",
       "date": "2018-05-19T22:56:13",
       "meetups": [
         {
@@ -73,7 +73,7 @@
     {
       "title": "SQL Server Tips from the Field",
       "slug": "sql-server-tips-from-the-field",
-      "thumbnail": "https://i.vimeocdn.com/video/661277871_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/661277871-76fdbc4b583fd87c3adbb6a6e57fddaa63c15c2d4660db676f8038c4fdccca6d-d_295x166",
       "date": "2017-10-14T11:50:04",
       "meetups": [
         {
@@ -91,7 +91,7 @@
     {
       "title": "Using T-SQL to find differences between tables",
       "slug": "using-t-sql-to-find-differences-between-tables",
-      "thumbnail": "https://i.vimeocdn.com/video/651776320_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/651776320-0f94e93c95e354fab27e7754b26990db797c6d3db2134777fe22b8af0d750a55-d_295x166",
       "date": "2017-08-15T14:34:00",
       "meetups": [
         {
@@ -109,7 +109,7 @@
     {
       "title": "How to Think Like the SQL Server Engine",
       "slug": "how-to-think-like-the-sql-server-engine",
-      "thumbnail": "https://i.vimeocdn.com/video/640581599_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/640581599-39ea7b45e00aa8fca0d3e6ce9a16ce65e4ff3793712690df815d0788cd5322b7-d_295x166",
       "date": "2017-06-17T14:24:57",
       "meetups": [
         {
@@ -131,7 +131,7 @@
     {
       "title": "Random Acts of Senseless Databasing",
       "slug": "random-acts-of-senseless-databasing",
-      "thumbnail": "https://i.vimeocdn.com/video/640583204_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/640583204-2951774bccac1bb0bed51be37271492eaeec6a6f2fc65a555c544182a1b68b40-d_295x166",
       "date": "2017-06-17T14:17:44",
       "meetups": [
         {
@@ -153,7 +153,7 @@
     {
       "title": "What's New SQL Server 2016 (BI) ",
       "slug": "whats-new-sql-server-2016-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/572713688_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/572713688-0cbe4a47c0ff35562d4571cb8596e5cfd2d05febf6813de9c9384c70b563fea6-d_295x166",
       "date": "2016-05-25T22:41:44",
       "meetups": [
         {
@@ -171,7 +171,7 @@
     {
       "title": "What's New SQL Server 2016 (engine)",
       "slug": "whats-new-sql-server-2016-engine",
-      "thumbnail": "https://i.vimeocdn.com/video/572507846_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/572507846-4a65031e069625c1fe2d4ae0f16e3b3f5603eb18143a9ebf0b9f8852ed9b6988-d_295x166",
       "date": "2016-05-24T23:11:13",
       "meetups": [
         {
@@ -189,7 +189,7 @@
     {
       "title": "New features of SQL 2014",
       "slug": "new-features-of-sql-2014",
-      "thumbnail": "https://i.vimeocdn.com/video/486706769_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/486706769-157f21c8a9c43c936b060d8aacb058469469a2a6878cdef02b0e595a42fd618f-d_295x166",
       "date": "2014-08-19T18:15:14",
       "meetups": [
         {
@@ -207,7 +207,7 @@
     {
       "title": "In Memory OLTP",
       "slug": "in-memory-oltp",
-      "thumbnail": "https://i.vimeocdn.com/video/483492285_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/483492285-e8d48e3480d19dc029e51e793b782dee99b15884a4dd87611e056fb0b243d6e9-d_295x166",
       "date": "2013-09-09T02:34:44",
       "meetups": [
         {
@@ -225,7 +225,7 @@
     {
       "title": "Performance Analysis – Finding What Needs Tuning",
       "slug": "performance-analysis-finding-what-needs-tuning",
-      "thumbnail": "https://i.vimeocdn.com/video/488131594_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/488131594-f005b339e4df0d6462917c544581d908bf9b0319dfec49c19e15c2ce330e6e84-d_295x166",
       "date": "2012-08-25T22:00:47",
       "meetups": [
         {

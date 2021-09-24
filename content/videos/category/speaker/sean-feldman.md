@@ -12,7 +12,7 @@
     {
       "title": "Azure Service Bus - The good, the Bad and the Awesome ",
       "slug": "azure-service-bus-the-good-the-bad-and-the-awesome",
-      "thumbnail": "https://i.vimeocdn.com/video/590927556_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/590927556-8bcb7f2938f415a0f11df935433bdcb1d7070919b0209238ce4ea806be4affac-d_295x166",
       "date": "2016-09-08T18:26:16",
       "meetups": [
         {

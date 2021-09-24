@@ -12,7 +12,7 @@
     {
       "title": "Knockout.js",
       "slug": "knockout-js",
-      "thumbnail": "https://i.vimeocdn.com/video/496719690_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/496719690-2eafef7cbc5e443636f615d3fce9b2490da28b6a881b1be976a647ea89cbec3b-d_295x166",
       "date": "2012-03-22T12:00:36",
       "meetups": [
         {

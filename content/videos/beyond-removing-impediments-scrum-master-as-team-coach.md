@@ -10,11 +10,11 @@
   "abstract": "<p>The role of the Scrum Master is about more than removing impediments and facilitating meetings. Scrum Masters act as mirrors for their teams and mentor team members great Scrum Masters coach their teams to high performance every day. We will share a metaphor for teams to use on their journey to high performance and teach Scrum Masters how to be coaches for their teams. Come learn how to give meaningful feedback and ask powerful questions to grow a team.\r\n</p>",
   "description": "<p>The role of the Scrum Master is about more than removing impediments and facilitating meetings. Scrum Masters act as mirrors for their teams and mentor team members great Scrum Masters coach their teams to high performance every day. We will share a metaphor for teams to use on their journey to high performance and teach Scrum Masters how to be coaches for their teams. Come learn how to give meaningful feedback and ask powerful questions to grow a team.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/486708877_295x166.jpg"
+    "https://i.vimeocdn.com/video/486708877-e7a19c754ee36d2e3cd84989abe541c0b07ba7375a4df0af65e4d8be4844bd8c-d_295x166"
   ],
   "vimeo": "104231753",
   "moreinfo": "http://www.improvingenterprises.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/486708877_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/486708877-e7a19c754ee36d2e3cd84989abe541c0b07ba7375a4df0af65e4d8be4844bd8c-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/104231753.hd.mp4?s=fea0afa5b173fcb4ae6d874d4e6ec71db7cf8ac6&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/104231753.sd.mp4?s=ef2f7c49e84463865e8a98d3ee205cda3b86ba40&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 1007,

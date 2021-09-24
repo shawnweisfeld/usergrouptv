@@ -12,7 +12,7 @@
     {
       "title": "Running AI on the Edge with Windows ML",
       "slug": "running-ai-on-the-edge-with-windows-ml",
-      "thumbnail": "https://i.vimeocdn.com/video/732130362_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/732130362-31715a473f082fa46edb59d33cf2d037849a59f911fdb13a527508b0929615bf-d_295x166",
       "date": "2018-10-13T14:15:33",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Making AR for the web a reality",
       "slug": "making-ar-for-the-web-a-reality",
-      "thumbnail": "https://i.vimeocdn.com/video/699683266_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/699683266-b2ce12198561eecb8ff9adc566e4070ef838617a2061049f70c55cdb2f27fd47-d_295x166",
       "date": "2018-05-05T14:57:36",
       "meetups": [
         {

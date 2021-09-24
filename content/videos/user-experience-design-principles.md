@@ -10,11 +10,11 @@
   "abstract": "<p>It is time for us as developers to move on from developing mediocre, stereotypical user interfaces. We spend so much time focusing on the backend of development and ignoring the part that potentially impacts users the most. By applying just a few simple design principles, we can begin to create a user experience that is easier to use and gives a high-quality feel to our software. In this session, we will discuss a variety of design principles that will stretch our brains and take our software to the next level.\r\n</p>",
   "description": "<p>It is time for us as developers to move on from developing mediocre, stereotypical user interfaces. We spend so much time focusing on the backend of development and ignoring the part that potentially impacts users the most. By applying just a few simple design principles, we can begin to create a user experience that is easier to use and gives a high-quality feel to our software. In this session, we will discuss a variety of design principles that will stretch our brains and take our software to the next level.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/485935517_295x166.jpg"
+    "https://i.vimeocdn.com/video/485935517-a2e676b5b0da103e3844bccfd6eabd29d562aa8df311680eb61f4c8669a281cf-d_295x166"
   ],
   "vimeo": "103637994",
   "moreinfo": "http://techfests.com/Tulsa/2014",
-  "thumbnail": "https://i.vimeocdn.com/video/485935517_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/485935517-a2e676b5b0da103e3844bccfd6eabd29d562aa8df311680eb61f4c8669a281cf-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/103637994.hd.mp4?s=acb7ef89aff7632a076fb9006e78b4fa4fab89b0&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/103637994.sd.mp4?s=3abcef8685cc3f7033391c9b42e5f9d6e76b243a&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 996,

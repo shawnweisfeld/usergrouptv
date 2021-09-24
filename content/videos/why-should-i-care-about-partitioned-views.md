@@ -10,11 +10,11 @@
   "abstract": "<p>Partitioned tables are awesome and partitioned views are dead, right? Well, sure partitioned views are not sexy but there are still plenty of applications where they are critical. And not necessarily just for standard edition who aren't on the new service pack yet. If your data is time stamped, do you see different queries run against older data than new data? Do you with you could segment your data across multiple columns? Do you have data you need to partition horizontally? It's possible partitioned views may still be for you. Come hear why this is still an important topic long after cargo pants and trucker hats went away ... and possibly even after 2016 SP1.</p>",
   "description": "<p>Partitioned tables are awesome and partitioned views are dead, right? Well, sure partitioned views are not sexy but there are still plenty of applications where they are critical. And not necessarily just for standard edition who aren't on the new service pack yet. If your data is time stamped, do you see different queries run against older data than new data? Do you with you could segment your data across multiple columns? Do you have data you need to partition horizontally? It's possible partitioned views may still be for you. Come hear why this is still an important topic long after cargo pants and trucker hats went away ... and possibly even after 2016 SP1.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/702635348_295x166.jpg"
+    "https://i.vimeocdn.com/video/702635348-d97cc483af2f89ea6cc10d51c5abf8c7d2d882f5c89900393c488502639b4831-d_295x166"
   ],
   "vimeo": "271356001",
   "moreinfo": "http://www.sqlsaturday.com/734/Sessions/Details.aspx?sid=77815",
-  "thumbnail": "https://i.vimeocdn.com/video/702635348_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/702635348-d97cc483af2f89ea6cc10d51c5abf8c7d2d882f5c89900393c488502639b4831-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/271356001.hd.mp4?s=6592fc9117332a5fe2ba303896c850c64484ef1b&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/271356001.sd.mp4?s=c53dbba94cb1125bcff6ff6d2f4410d5900836e1&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 431,

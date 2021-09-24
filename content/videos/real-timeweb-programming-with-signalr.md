@@ -10,11 +10,11 @@
   "abstract": "<p>Web programming has always been a one-way conversation; a client calls a server and the server sends a response. But what if you could go the other direction? What if your server code could call Javascript methods on your client? That's what SignalR allows you to do. Come see how this new library opens up a ton of possibilities for interactive and collaborative web applications.</p>",
   "description": "<p>Web programming has always been a one-way conversation; a client calls a server and the server sends a response. But what if you could go the other direction? What if your server code could call Javascript methods on your client? That's what SignalR allows you to do. Come see how this new library opens up a ton of possibilities for interactive and collaborative web applications.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/485088537_295x166.jpg"
+    "https://i.vimeocdn.com/video/485088537-11f1478595364adde2270c6fc11e09b481a518a0646ef4ac3c688cf57cc87c61-d_295x166"
   ],
   "vimeo": "102968959",
   "moreinfo": "http://lrtechfest.com/speakers/list/#brian-sullivan",
-  "thumbnail": "https://i.vimeocdn.com/video/485088537_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/485088537-11f1478595364adde2270c6fc11e09b481a518a0646ef4ac3c688cf57cc87c61-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/102968959.hd.mp4?s=c313cd00cfd8faeaab27cc7972f0ba076a3b9f9d&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/102968959.sd.mp4?s=611dc479c600d69a5e1695ab7d55026f089bd659&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 584,

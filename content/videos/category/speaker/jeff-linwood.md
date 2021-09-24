@@ -12,7 +12,7 @@
     {
       "title": "Developing Node.js apps with Visual Studio Code ",
       "slug": "developing-node-js-apps-with-visual-studio-code",
-      "thumbnail": "https://i.vimeocdn.com/video/567149928_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/567149928-e96e611322bcf3ff731e261b650738d53ec1cb5f6956f7805f127a27f05ac7b7-d_295x166",
       "date": "2016-04-20T23:43:58",
       "meetups": [
         {

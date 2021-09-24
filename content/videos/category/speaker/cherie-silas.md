@@ -12,7 +12,7 @@
     {
       "title": "Change Your Questions - Change Your World",
       "slug": "change-your-questions-change-your-world",
-      "thumbnail": "https://i.vimeocdn.com/video/492565783_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/492565783-eda21be43b5605d3cdb7043f53b6b3e2cb314e4ca31c0b266b7821e5467a0571-d_295x166",
       "date": "2014-10-10T11:17:18",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "BEYOND REMOVING IMPEDIMENTS - SCRUM MASTER AS TEAM COACH",
       "slug": "beyond-removing-impediments-scrum-master-as-team-coach",
-      "thumbnail": "https://i.vimeocdn.com/video/486708877_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/486708877-e7a19c754ee36d2e3cd84989abe541c0b07ba7375a4df0af65e4d8be4844bd8c-d_295x166",
       "date": "2014-08-22T17:31:41",
       "meetups": [
         {
@@ -48,7 +48,7 @@
     {
       "title": "MOTIVATING PEOPLE THROUGH THE LANGUAGE OF APPRECIATION",
       "slug": "motivating-people-through-the-language-of-appreciation",
-      "thumbnail": "https://i.vimeocdn.com/video/486708418_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/486708418-f58b202d10a9be0f003155a330e7c19d22db5855ba76090a5ca2bd8c616e51cd-d_295x166",
       "date": "2014-08-22T17:29:45",
       "meetups": [
         {

@@ -12,7 +12,7 @@
     {
       "title": "Dockerize Your Development",
       "slug": "dockerize-your-development",
-      "thumbnail": "https://i.vimeocdn.com/video/650251578_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/650251578-020cdfba96444bd3d5355c52c0edd7e0669d6173fd42231825f1e943d29991af-d_295x166",
       "date": "2017-07-20T14:18:34",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "ASP.NET Core + React Equals Awesome",
       "slug": "asp-net-core-react-equals-awesome",
-      "thumbnail": "https://i.vimeocdn.com/video/650202777_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/650202777-70218b8925d6848b0bd28c1354cc52ccfd4356c2053cda2869a145f33aeafca1-d_295x166",
       "date": "2017-07-20T14:09:00",
       "meetups": [
         {
@@ -48,7 +48,7 @@
     {
       "title": "iOS for the .Net Web Guy",
       "slug": "ios-for-the-net-web-guy",
-      "thumbnail": "https://i.vimeocdn.com/video/485945304_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/485945304-c64cdde12747f84f3f8963d66c710d83c8879dc947278ac156fc3895deaf32f0-d_295x166",
       "date": "2014-08-15T20:08:48",
       "meetups": [
         {

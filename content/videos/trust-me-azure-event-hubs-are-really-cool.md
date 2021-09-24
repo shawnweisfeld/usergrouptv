@@ -10,11 +10,11 @@
   "abstract": "<p>With all the talk about big data, Internet of things, and the value that can be derived from the analysis of all of that information, no one seems to talk about how we collect it. There are a number of traditional ways. Those ways usually have problems with how to handle data spikes, durability, and distribution for processing. Azure Event Hubs may be an answer to part of those problems. We will go over what they are, how to set them up, the costs, and the various ways to send and receive information. </p>",
   "description": "<p>With all the talk about big data, Internet of things, and the value that can be derived from the analysis of all of that information, no one seems to talk about how we collect it. There are a number of traditional ways. Those ways usually have problems with how to handle data spikes, durability, and distribution for processing. Azure Event Hubs may be an answer to part of those problems. We will go over what they are, how to set them up, the costs, and the various ways to send and receive information. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/586638129_295x166.jpg"
+    "https://i.vimeocdn.com/video/586638129-56fa934b316208234db4aab3a1d1cd313f1a92e989a129d14633a6b68e6e9b94-d_295x166"
   ],
   "vimeo": "178888902",
   "moreinfo": "http://techfests.com/Tulsa/2016/Speakers/HaroldPulcher/",
-  "thumbnail": "https://i.vimeocdn.com/video/586638129_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/586638129-56fa934b316208234db4aab3a1d1cd313f1a92e989a129d14633a6b68e6e9b94-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/178888902.hd.mp4?s=f82bbc28bac141b0ddd199f9c43b0cc722b5809a&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/178888902.sd.mp4?s=36ef98610e5aff9c637f01e8a8d8d67f7163b863&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 176,

@@ -10,11 +10,11 @@
   "abstract": "<p>The Best of SharePoint Conference 2011 - In this talk Chris Geier tell us what he learned about:</p>\r\n<ul>\r\n<li>Tips for SharePoint Performance and Scale</li>\r\n<li>Driving Adoption</li>\r\n<li>On-Premise Cloud Hybrid Models</li>\r\n<li>And more...</li>\r\n</ul>",
   "description": "<p>The Best of SharePoint Conference 2011 - In this talk Chris Geier tell us what he learned about:</p>\r\n<ul>\r\n<li>Tips for SharePoint Performance and Scale</li>\r\n<li>Driving Adoption</li>\r\n<li>On-Premise Cloud Hybrid Models</li>\r\n<li>And more...</li>\r\n</ul>",
   "images": [
-    "https://i.vimeocdn.com/video/494179426_295x166.jpg"
+    "https://i.vimeocdn.com/video/494179426-9035372ddb105ac1d79003088cc465a46202c5c440e134a1e6b45a6826401969-d_295x166"
   ],
   "vimeo": "110064800",
   "moreinfo": "http://web.cspug.org",
-  "thumbnail": "https://i.vimeocdn.com/video/494179426_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/494179426-9035372ddb105ac1d79003088cc465a46202c5c440e134a1e6b45a6826401969-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/110064800.hd.mp4?s=5490692a973314c56b431c3134971d80b3438298&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/110064800.sd.mp4?s=da0386c90c224e3626126e0a7533176cdb5dacec&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 725,

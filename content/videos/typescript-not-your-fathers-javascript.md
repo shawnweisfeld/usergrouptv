@@ -10,11 +10,11 @@
   "abstract": "<p>Hate writing JavaScript? Wish it was strongly typed, scalable, and had better tool support? TypeScirpt is a typed superset of JavaScript that compiles to plain JavaScript. Any browser. Any host. Any OS. Open Source.</p>",
   "description": "<p>Hate writing JavaScript? Wish it was strongly typed, scalable, and had better tool support? TypeScirpt is a typed superset of JavaScript that compiles to plain JavaScript. Any browser. Any host. Any OS. Open Source.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/484302613_295x166.jpg"
+    "https://i.vimeocdn.com/video/484302613-7093ead48c008f6208a4b9cf8e0a2151dc8911cb16876faeabc7ddb9f167ee0f-d_295x166"
   ],
   "vimeo": "102320331",
   "moreinfo": "http://www.dallasasp.net/Meetings/3782.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/484302613_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/484302613-7093ead48c008f6208a4b9cf8e0a2151dc8911cb16876faeabc7ddb9f167ee0f-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/102320331.hd.mp4?s=7a96dc029322b9b1355008ad55d99bdaa7143848&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/102320331.sd.mp4?s=093a2175baa056ecebbd51bcf1edfe9d7938e56a&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 599,

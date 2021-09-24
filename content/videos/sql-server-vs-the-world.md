@@ -11,11 +11,11 @@
   "abstract": "<p>While SQL Server is the 3rd most used database in the world, the landscape of how we build applications and the technology supporting them is quickly changing. As if keeping up with SQL Server isn't enough on its own, we now have to deal with the terms and technology that comes with NoSQL (Not-Only-SQL) as well as fast moving, feature rich open source Relational DBs. In this session, we will explore some of the popular data stores, why AppDevs like using them and how your skills in SQL Server translate to them. Note: This session is geared towards OLTP systems. BI Solutions are NOT on the radar for this.</p>",
   "description": "<p>While SQL Server is the 3rd most used database in the world, the landscape of how we build applications and the technology supporting them is quickly changing. As if keeping up with SQL Server isn't enough on its own, we now have to deal with the terms and technology that comes with NoSQL (Not-Only-SQL) as well as fast moving, feature rich open source Relational DBs. In this session, we will explore some of the popular data stores, why AppDevs like using them and how your skills in SQL Server translate to them. Note: This session is geared towards OLTP systems. BI Solutions are NOT on the radar for this.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/483491133_295x166.jpg"
+    "https://i.vimeocdn.com/video/483491133-f14203f39aca9367d001c579acf8841026ac77590a7238d008d78aa874d3343b-d_295x166"
   ],
   "vimeo": "101661613",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=223&sessionid=16329",
-  "thumbnail": "https://i.vimeocdn.com/video/483491133_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/483491133-f14203f39aca9367d001c579acf8841026ac77590a7238d008d78aa874d3343b-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/101661613.hd.mp4?s=5feed07d973c655236af5a10fad3b99c75cf54d6&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/101661613.sd.mp4?s=5297f6f5c0bf7bfdb3acaed2d2045019f168a7a5&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 774,

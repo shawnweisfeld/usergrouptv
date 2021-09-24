@@ -12,7 +12,7 @@
     {
       "title": "Growing Agile Managers",
       "slug": "growing-agile-managers",
-      "thumbnail": "https://i.vimeocdn.com/video/703312800_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/703312800-72b96591cb57f6ebde8ac21c882fe1cd4715ec6303e8796d4c3f4e3eca28e0d8-d_295x166",
       "date": "2018-05-24T16:47:13",
       "meetups": [
         {

@@ -12,7 +12,7 @@
     {
       "title": "From the trenches - An Open Panel and Q&A discussion all about moving to Azure ",
       "slug": "from-the-trenches-an-open-panel-and-qa-discussion-all-about-moving-to-azure",
-      "thumbnail": "https://i.vimeocdn.com/video/598780341_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/598780341-7cc7d768ec7f7c7c46adc307b4167e4f12df2ace2a91d716212d8db2cbe13e23-d_295x166",
       "date": "2016-10-20T11:24:52",
       "meetups": [
         {
@@ -34,7 +34,7 @@
     {
       "title": "MVC6 – What You Need to Know When Moving to Next",
       "slug": "mvc6-what-you-need-to-know-when-moving-to-next",
-      "thumbnail": "https://i.vimeocdn.com/video/537261105_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/537261105-dc9553026d5fe45d679282236f88e860bc330123c33b9389e62a0f8f899909b3-d_295x166",
       "date": "2015-09-26T12:10:38",
       "meetups": [
         {

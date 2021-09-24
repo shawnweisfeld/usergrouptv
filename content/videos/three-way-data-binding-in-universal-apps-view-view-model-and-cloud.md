@@ -10,11 +10,11 @@
   "abstract": "<p>XAML gives us two-way data binding: view to view model. But how do you synchronize data between phones and tablets? Learn how to data bind to the cloud. When a change is made on one device, the change appears on another. Data flows seamlessly across devices.But those devices aren't always connected. And even when they are, users don't want to wait for a network connection before they can see or work with their data. So data needs to be stored locally, and synchronized in the background.Build a universal app where the phone and tablet share a common data model. That model is synchronized through a cloud service and into local storage. Project that storage through the view model, and data bind it to the view.</p>",
   "description": "<p>XAML gives us two-way data binding: view to view model. But how do you synchronize data between phones and tablets? Learn how to data bind to the cloud. When a change is made on one device, the change appears on another. Data flows seamlessly across devices.But those devices aren't always connected. And even when they are, users don't want to wait for a network connection before they can see or work with their data. So data needs to be stored locally, and synchronized in the background.Build a universal app where the phone and tablet share a common data model. That model is synchronized through a cloud service and into local storage. Project that storage through the view model, and data bind it to the view.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/492566941_295x166.jpg"
+    "https://i.vimeocdn.com/video/492566941-9d7f0654136d1e3fa0c281f0c174e9ec10f5f4b5cfd0671ae1bcfee619fbf600-d_295x166"
   ],
   "vimeo": "108781250",
   "moreinfo": "http://www.dallastechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/492566941_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/492566941-9d7f0654136d1e3fa0c281f0c174e9ec10f5f4b5cfd0671ae1bcfee619fbf600-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/108781250.hd.mp4?s=2026d2f375154b903408d62043deceb2c33240c3&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/108781250.sd.mp4?s=277a1846076d13a5d026f9a49ec8ea6705f47471&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 987,

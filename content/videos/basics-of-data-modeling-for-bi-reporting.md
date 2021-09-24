@@ -10,11 +10,11 @@
   "abstract": "<p>Come learn about the basics of data modeling for your business intelligence and reporting needs.  This course will cover several introductory modeling subjects, including: Transactional vs. Analytical models, Kimball / Inman approaches, The process for designing your data model, Hierarchies / Parent-child relationships</p>",
   "description": "<p>Come learn about the basics of data modeling for your business intelligence and reporting needs.  This course will cover several introductory modeling subjects, including: Transactional vs. Analytical models, Kimball / Inman approaches, The process for designing your data model, Hierarchies / Parent-child relationships</p>",
   "images": [
-    "https://i.vimeocdn.com/video/854623065_295x166.jpg"
+    "https://i.vimeocdn.com/video/854623065-a0db84037aaa32d04c934ad34d95a113f68fed48499d813ce98880043b5cb775-d_295x166"
   ],
   "vimeo": "390484488",
   "moreinfo": "https://www.sqlsaturday.com/939/Sessions/Details.aspx?sid=101582",
-  "thumbnail": "https://i.vimeocdn.com/video/854623065_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/854623065-a0db84037aaa32d04c934ad34d95a113f68fed48499d813ce98880043b5cb775-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/390484488.hd.mp4?s=bcb6364abe98be0f9597cc708c4bc93f66c50182&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/390484488.sd.mp4?s=8f30859e5583ec33b3c45067c541c1b6eecd16ed&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 330,

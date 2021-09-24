@@ -10,11 +10,11 @@
   "abstract": null,
   "description": null,
   "images": [
-    "https://i.vimeocdn.com/video/536918456_295x166.jpg"
+    "https://i.vimeocdn.com/video/536918456-732b485f6702ef9eef3505c42fbec87f2ccdda2788ff3b90755876f760b15f3e-d_295x166"
   ],
   "vimeo": "140491636",
   "moreinfo": "http://dallasasp.net/Meetings/14835.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/536918456_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/536918456-732b485f6702ef9eef3505c42fbec87f2ccdda2788ff3b90755876f760b15f3e-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/140491636.hd.mp4?s=3f75b7f9d9cac89638a76ce8d3603d26025c6890&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/140491636.sd.mp4?s=5907c9ccc5b4ea4f5e39d6fa75ee0435e5837cde&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 871,

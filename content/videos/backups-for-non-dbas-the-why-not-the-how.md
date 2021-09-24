@@ -10,11 +10,11 @@
   "abstract": "<p>Join me and get some new perspective on what your DBA is doing, and why! Targeted at the non-DBA such as BI/DW folks, Application Developers, Managers, and System Admins, this session will go over the reasons we back up our databases, our systems, etc.  Considerations such as Single points of failure, High Availability/Disaster recovery, Business Continuity and others will be discussed in this interactive conversation.   It will be conversation heavy, with supporting slides to download, and one Database backup demo at the end if time permits. Everyone involved in a technical role needs to at least know that the things they have created will be recoverable in the event of a disaster, or even just an \"oops\" moment.   The CIO/CTO should know how long critical systems will be down when bad things happen.  Backups are everyone's responsibility...whether asking the right questions or implementing the process.</p>",
   "description": "<p>Join me and get some new perspective on what your DBA is doing, and why! Targeted at the non-DBA such as BI/DW folks, Application Developers, Managers, and System Admins, this session will go over the reasons we back up our databases, our systems, etc.  Considerations such as Single points of failure, High Availability/Disaster recovery, Business Continuity and others will be discussed in this interactive conversation.   It will be conversation heavy, with supporting slides to download, and one Database backup demo at the end if time permits. Everyone involved in a technical role needs to at least know that the things they have created will be recoverable in the event of a disaster, or even just an \"oops\" moment.   The CIO/CTO should know how long critical systems will be down when bad things happen.  Backups are everyone's responsibility...whether asking the right questions or implementing the process.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/640579433_295x166.jpg"
+    "https://i.vimeocdn.com/video/640579433-b1645982ce2f2cd374741517a654aeda03020063b921bcc7cffea5334caccb3f-d_295x166"
   ],
   "vimeo": "222133137",
   "moreinfo": "http://www.sqlsaturday.com/651/Sessions/Details.aspx?sid=63590",
-  "thumbnail": "https://i.vimeocdn.com/video/640579433_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/640579433-b1645982ce2f2cd374741517a654aeda03020063b921bcc7cffea5334caccb3f-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/222133137.hd.mp4?s=e10db34856f0c68dd716e4f384d8bf733a018343&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/222133137.sd.mp4?s=94169b61aa133861571142d249823ca703ebafc1&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 210,

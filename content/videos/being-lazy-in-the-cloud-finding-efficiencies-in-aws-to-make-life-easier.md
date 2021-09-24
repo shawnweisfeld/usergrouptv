@@ -10,11 +10,11 @@
   "abstract": "<p>AWS provides a wide array of tools and methodologies for hosting your infrastructure in the cloud. Out of the box, however, I've found myself wishing things that should be simple would be just that...simple! I'll walk you through some of the inefficiencies encountered by the normal user and how to overcome those. I'll show you some examples of AWS-provided time savers as well as some home-grown processes. I'll provide any code I demo on my github account for use after my talk and will provide links to write-ups on how to perform each task I demo. Did I mention I will demo each of these LIVE?</p>",
   "description": "<p>AWS provides a wide array of tools and methodologies for hosting your infrastructure in the cloud. Out of the box, however, I've found myself wishing things that should be simple would be just that...simple! I'll walk you through some of the inefficiencies encountered by the normal user and how to overcome those. I'll show you some examples of AWS-provided time savers as well as some home-grown processes. I'll provide any code I demo on my github account for use after my talk and will provide links to write-ups on how to perform each task I demo. Did I mention I will demo each of these LIVE?</p>",
   "images": [
-    "https://i.vimeocdn.com/video/660639439_295x166.jpg"
+    "https://i.vimeocdn.com/video/660639439-4024123141ee363b2e4d1fb52a71e154cab2c955d9684c000b5b1dca793c3644-d_295x166"
   ],
   "vimeo": "238051446",
   "moreinfo": "http://www.lrtechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/660639439_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/660639439-4024123141ee363b2e4d1fb52a71e154cab2c955d9684c000b5b1dca793c3644-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/238051446.hd.mp4?s=4fe361a44fcbe903aa521afe9bba06b6bb1e2611&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/238051446.sd.mp4?s=9bd0d05f97429305828ba1738d28f964a31087fa&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 110,

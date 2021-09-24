@@ -10,11 +10,11 @@
   "abstract": "<p>The Single Responsibility Principle states that a class should have one (and only one) reason to change. Classes that don't adhere to this principle can result in tightly coupled spaghetti code that leads to more bugs and higher maintenance. We'll look at how to identify these classes by using some heuristics and looking for 'code smells', and we'll clean them up using refactoring tools, design patterns, dependency injection and even aspect-oriented programming. Examples will be in C#, but the concepts can be applied to a variety of languages.</p>",
   "description": "<p>The Single Responsibility Principle states that a class should have one (and only one) reason to change. Classes that don't adhere to this principle can result in tightly coupled spaghetti code that leads to more bugs and higher maintenance. We'll look at how to identify these classes by using some heuristics and looking for 'code smells', and we'll clean them up using refactoring tools, design patterns, dependency injection and even aspect-oriented programming. Examples will be in C#, but the concepts can be applied to a variety of languages.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/484298668_295x166.jpg"
+    "https://i.vimeocdn.com/video/484298668-7b633ac1fef54dc7e0621fb2d4b9765b7a6a0376f62d461a5090c63e073b7f7d-d_295x166"
   ],
   "vimeo": "102316776",
   "moreinfo": "http://codecamp13.adnug.org/",
-  "thumbnail": "https://i.vimeocdn.com/video/484298668_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/484298668-7b633ac1fef54dc7e0621fb2d4b9765b7a6a0376f62d461a5090c63e073b7f7d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/102316776.hd.mp4?s=e0cc86a5d344976e1a77c1cde9d0c774da02acc0&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/102316776.sd.mp4?s=fe061a4af17b540b3432d7af3da6fdec83cf53a0&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 605,

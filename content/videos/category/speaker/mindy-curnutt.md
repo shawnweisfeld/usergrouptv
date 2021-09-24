@@ -12,7 +12,7 @@
     {
       "title": "Imposter Syndrome: Are You Faking It & Will they Find Out?",
       "slug": "imposter-syndrome-are-you-faking-it-will-they-find-out",
-      "thumbnail": "https://i.vimeocdn.com/video/587192849_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/587192849-21eabfd5b8d563d2aab82f96b259570003d1d701bc7407d08d95f09de4e96aee-d_295x166",
       "date": "2016-08-13T15:06:52",
       "meetups": [
         {

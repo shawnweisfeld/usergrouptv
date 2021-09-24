@@ -10,11 +10,11 @@
   "abstract": "<p>NT Silverlight&rsquo;s very own Justin Weinberg and Michael Perry will be covering all aspects of Silverlight testing. First we&rsquo;ll look at the developer side of testing. Do you want to get a test first workflow with Silverlight? Curious how to unit test Silverlight assemblies? What about continuous integration options?</p>\r\n<p>After that we&rsquo;ll be shifting focus to functional testing and testing automation. Can Silverlight tests be scripted? What tools and practices do you need and what level of experience? We&rsquo;ll answer these questions and more.</p>",
   "description": "<p>NT Silverlight&rsquo;s very own Justin Weinberg and Michael Perry will be covering all aspects of Silverlight testing. First we&rsquo;ll look at the developer side of testing. Do you want to get a test first workflow with Silverlight? Curious how to unit test Silverlight assemblies? What about continuous integration options?</p>\r\n<p>After that we&rsquo;ll be shifting focus to functional testing and testing automation. Can Silverlight tests be scripted? What tools and practices do you need and what level of experience? We&rsquo;ll answer these questions and more.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/500558222_295x166.jpg"
+    "https://i.vimeocdn.com/video/500558222-ed5f5980abe85f8a528d0d1a1cf3b48175ab0b23ef999106e72c72260febfbcf-d_295x166"
   ],
   "vimeo": "114768467",
   "moreinfo": "http://www.ntsilverlight.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/500558222_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/500558222-ed5f5980abe85f8a528d0d1a1cf3b48175ab0b23ef999106e72c72260febfbcf-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/114768467.hd.mp4?s=944bee843178a4e986df3cfa476faa137fb9495d&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/114768467.sd.mp4?s=faf350270160dd7db24459b059c8bf68797b9f93&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 691,

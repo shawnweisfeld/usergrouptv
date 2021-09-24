@@ -10,11 +10,11 @@
   "abstract": "<p>HTML, CSS, and Javascript are becoming a \"first class\" development platform under the banner of HTML5. But what is it? In this session, we'll cover a short history of the web and how we got to HTML5. Then we'll see what's already possible across desktop and mobile platforms using the modern web stack. Finally, we'll discuss what's next and how we can participate to shape our own destiny as developers.</p>",
   "description": "<p>HTML, CSS, and Javascript are becoming a \"first class\" development platform under the banner of HTML5. But what is it? In this session, we'll cover a short history of the web and how we got to HTML5. Then we'll see what's already possible across desktop and mobile platforms using the modern web stack. Finally, we'll discuss what's next and how we can participate to shape our own destiny as developers.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/507718513_295x166.jpg"
+    "https://i.vimeocdn.com/video/507718513-b77a6464b410233c6182e562ce5f3243da6ce44462f59f59da6570c1ba02650e-d_295x166"
   ],
   "vimeo": "120047938",
   "moreinfo": "http://techfests.com/Tulsa/2011/default.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/507718513_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/507718513-b77a6464b410233c6182e562ce5f3243da6ce44462f59f59da6570c1ba02650e-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/120047938.hd.mp4?s=ed237771b2a854c925ec1b0c4c958c7ef9cb2835&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/120047938.sd.mp4?s=8c623dbb70657e757559cb1b897291c19bd866eb&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 760,

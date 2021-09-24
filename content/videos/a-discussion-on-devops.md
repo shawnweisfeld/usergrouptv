@@ -10,11 +10,11 @@
   "abstract": "<p>Ever heard of DevOps, but aren't sure what it is or why it's incredibly important? Come find out what it means to continuously deliver software, to operate at velocity, and how this will fundamentally transform businesses. We'll discuss the concepts behind DevOps, how it relates to both startups and enterprises, and talk about why it's more than good for just Dev and Infra.</p>",
   "description": "<p>Ever heard of DevOps, but aren't sure what it is or why it's incredibly important? Come find out what it means to continuously deliver software, to operate at velocity, and how this will fundamentally transform businesses. We'll discuss the concepts behind DevOps, how it relates to both startups and enterprises, and talk about why it's more than good for just Dev and Infra.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/540281229_295x166.jpg"
+    "https://i.vimeocdn.com/video/540281229-8e0f1d756e56c41fa0445126e47b3d4fb4f5a646e237a6820cda085b8ef2d881-d_295x166"
   ],
   "vimeo": "142866196",
   "moreinfo": "http://lrtechfest.com/speakerdetails/#Pete-Buletza",
-  "thumbnail": "https://i.vimeocdn.com/video/540281229_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/540281229-8e0f1d756e56c41fa0445126e47b3d4fb4f5a646e237a6820cda085b8ef2d881-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/142866196.hd.mp4?s=defb016c9df8457b9832e6984c05b480135a13ba&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/142866196.sd.mp4?s=7ad37cf81bf170304dee2671c7605da0245b0903&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 870,

@@ -11,11 +11,11 @@
   "abstract": "<p>Taking inspirational cues from Bauhaus design, International Typographic Style, \r\n and cinematography, the Windows 8 UI design style brings an application to life \r\n while presenting content clearly and beautifully. This session is intended to help \r\n developers and designers understand the design concepts and basic building blocks \r\n of the Windows 8 user interface. In this session, you will be introduced to the \r\n principles behind this design style and learn how to effectively apply these principles \r\n in your applications.</p>",
   "description": "<p>Taking inspirational cues from Bauhaus design, International Typographic Style, \r\n and cinematography, the Windows 8 UI design style brings an application to life \r\n while presenting content clearly and beautifully. This session is intended to help \r\n developers and designers understand the design concepts and basic building blocks \r\n of the Windows 8 user interface. In this session, you will be introduced to the \r\n principles behind this design style and learn how to effectively apply these principles \r\n in your applications.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/484300871_295x166.jpg"
+    "https://i.vimeocdn.com/video/484300871-bff90f70df11c25184192087f9cf3a517ef44fe0b556e2184995ce4122d28f04-d_295x166"
   ],
   "vimeo": "102318740",
   "moreinfo": "http://www.ddnug.net/",
-  "thumbnail": "https://i.vimeocdn.com/video/484300871_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/484300871-bff90f70df11c25184192087f9cf3a517ef44fe0b556e2184995ce4122d28f04-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/102318740.hd.mp4?s=4ba3bb6e945fc06ca311d9ef92c4b82af477468f&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/102318740.sd.mp4?s=351341dcf11e2c46e594e1565d7a88fa43a71fe2&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 595,

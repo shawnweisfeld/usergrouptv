@@ -12,7 +12,7 @@
     {
       "title": "Full Stack Development with .NET and NoSQL ",
       "slug": "full-stack-development-with-net-and-nosql",
-      "thumbnail": "https://i.vimeocdn.com/video/596869606_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/596869606-ddb3d9747871d8d3c064e009a4d0bd170a297d1f2e235ff797e866ff16dad12d-d_295x166",
       "date": "2016-10-10T11:59:51",
       "meetups": [
         {
@@ -25,7 +25,7 @@
     {
       "title": "The class that knew too much: refactoring spaghetti code",
       "slug": "the-class-that-knew-too-much-refactoring-spaghetti-code",
-      "thumbnail": "https://i.vimeocdn.com/video/484298668_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/484298668-7b633ac1fef54dc7e0621fb2d4b9765b7a6a0376f62d461a5090c63e073b7f7d-d_295x166",
       "date": "2013-08-17T22:05:55",
       "meetups": [
         {

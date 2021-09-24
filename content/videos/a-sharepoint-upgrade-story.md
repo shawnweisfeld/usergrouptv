@@ -10,11 +10,11 @@
   "abstract": "<p>Jim McFadden, CSPUG member who will tell us about their experiences with the upgrade of www.cspug.org.</p>",
   "description": "<p>Jim McFadden, CSPUG member who will tell us about their experiences with the upgrade of www.cspug.org.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/494179649_295x166.jpg"
+    "https://i.vimeocdn.com/video/494179649-67e415e169f74ca96241d552d313a34c347003a4b8e0bcc022bd16082d82fe92-d_295x166"
   ],
   "vimeo": "110065000",
   "moreinfo": "http://web.cspug.org",
-  "thumbnail": "https://i.vimeocdn.com/video/494179649_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/494179649-67e415e169f74ca96241d552d313a34c347003a4b8e0bcc022bd16082d82fe92-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/110065000.hd.mp4?s=52d98cc5f17f5257e52f8f20b92b797d0a937022&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/110065000.sd.mp4?s=7e9edac3c668e7777b6a601733a48b09953265de&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 712,

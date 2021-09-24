@@ -10,11 +10,11 @@
   "abstract": "<p>Join us as Sean McDonough, MVP, walks us through metrics, tools and best practices for performant Office 365 cloud services. This is a Skype meeting using Microsoft's state-of-the-art conference rooms. Sean will be fielding our questions in real-time. </p>",
   "description": "<p>Join us as Sean McDonough, MVP, walks us through metrics, tools and best practices for performant Office 365 cloud services. This is a Skype meeting using Microsoft's state-of-the-art conference rooms. Sean will be fielding our questions in real-time. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/700408581_295x166.jpg"
+    "https://i.vimeocdn.com/video/700408581-2bc14ef2b8e6f9b6574ba990fc1d1f60a2f0c57ec2170fef789b0c05d38c147e-d_295x166"
   ],
   "vimeo": "269475664",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/lsljlmyxhbmb/",
-  "thumbnail": "https://i.vimeocdn.com/video/700408581_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/700408581-2bc14ef2b8e6f9b6574ba990fc1d1f60a2f0c57ec2170fef789b0c05d38c147e-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/269475664.hd.mp4?s=d72ce74f40c62d2fdaabb7f77c620b23cc348f09&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/269475664.sd.mp4?s=aa1a27f4db82859a87ee6bd058a75b47fa8f06a8&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 265,

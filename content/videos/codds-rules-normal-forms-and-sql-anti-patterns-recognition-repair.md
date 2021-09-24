@@ -10,11 +10,11 @@
   "abstract": "<p>In 1970 E.F. Codd presented a seminal set of ideas now known as the Relational Model of Data.  Revolutionary for its time, these notions would give rise to many of the database engines of today including SQL Server.  Too many software developers and database designers though are unfamiliar with these ideas or do not know how to effectively apply them.  This presentation reviews Codd's rules and the relational normal forms; explains the differences between the relational model of data and the SQL database engines these ideas inspired; identifies some of the SQL anti-patterns that avoidance of these rules and normal forms gives rise to; and discusses both technical and organizational strategies for improving existing applications and their associated database designs and implementations.</p>",
   "description": "<p>In 1970 E.F. Codd presented a seminal set of ideas now known as the Relational Model of Data.  Revolutionary for its time, these notions would give rise to many of the database engines of today including SQL Server.  Too many software developers and database designers though are unfamiliar with these ideas or do not know how to effectively apply them.  This presentation reviews Codd's rules and the relational normal forms; explains the differences between the relational model of data and the SQL database engines these ideas inspired; identifies some of the SQL anti-patterns that avoidance of these rules and normal forms gives rise to; and discusses both technical and organizational strategies for improving existing applications and their associated database designs and implementations.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/570948383_295x166.jpg"
+    "https://i.vimeocdn.com/video/570948383-597d6d11066b55154993609f732f57c15bf899b9647daed4712f0ef2ae2c4303-d_295x166"
   ],
   "vimeo": "166789554",
   "moreinfo": "http://www.sqlsaturday.com/514/Sessions/Details.aspx?sid=48571",
-  "thumbnail": "https://i.vimeocdn.com/video/570948383_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/570948383-597d6d11066b55154993609f732f57c15bf899b9647daed4712f0ef2ae2c4303-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/166789554.hd.mp4?s=b254d40e919df5a701bbe1b67a1e5319c834a858&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/166789554.sd.mp4?s=b77505f720c0d65d7dcb1637bd838046b09584c0&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 520,

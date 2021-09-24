@@ -12,7 +12,7 @@
     {
       "title": "git AND TFS > git OR TFS",
       "slug": "git-and-tfs-git-or-tfs",
-      "thumbnail": "https://i.vimeocdn.com/video/481993967_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/481993967-a3f8d1520a4a03b32ddffb9f50ad5ff034b286bfece54c290c226f4b46975041-d_295x166",
       "date": "2014-06-14T14:54:40",
       "meetups": [
         {

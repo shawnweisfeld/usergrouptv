@@ -11,7 +11,7 @@
     {
       "title": "Secure DevOps with the Microsoft Identity platform",
       "slug": "secure-devops-with-the-microsoft-identity-platform",
-      "thumbnail": "https://i.vimeocdn.com/video/1057117933_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/1057117933-131fc8c6482aedee3d0149389adf2f9b12a02eb7dc3fbc25828a33a8d8159e1c-d_295x166",
       "date": "2021-01-14T00:00:00",
       "meetups": [
         {

@@ -10,11 +10,11 @@
   "abstract": "<p>D3.js is a data visualization library written in javascript. Charts? Yes. But so much more. With this talk we will take the red pill and learn to wield d3 to start turning our data into impressive visuals.</p>",
   "description": "<p>D3.js is a data visualization library written in javascript. Charts? Yes. But so much more. With this talk we will take the red pill and learn to wield d3 to start turning our data into impressive visuals.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/487539388_295x166.jpg"
+    "https://i.vimeocdn.com/video/487539388-18a6af2e139fef6e24c4154ea3db3275631df3a41688abc1eb723fc107624105-d_295x166"
   ],
   "vimeo": "104883506",
   "moreinfo": "http://www.houstontechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/487539388_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/487539388-18a6af2e139fef6e24c4154ea3db3275631df3a41688abc1eb723fc107624105-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/104883506.hd.mp4?s=e047c3a00d487c056168563e047990cc720db75a&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/104883506.sd.mp4?s=098540b3518526742b0b739a75e22f44b4d8aeae&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 618,

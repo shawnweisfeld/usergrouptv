@@ -10,11 +10,11 @@
   "abstract": "<p>Agile is built on collaboration - How do you make this work with distributed teams? Distributed teams are a reality in the software industry. Whether you have remote team members or just occasional work-from-home, it takes extra effort to overcome distance and keep your Agile collaboration effective. At GAP we have created hundreds of Agile teams, all of which have one or more remote members. It varies from something as simple as a remote Product Owner to something as complex as a spread across three countries. Come learn the best practices we have developed for overcoming distance with our Agile teams.\r\n</p>",
   "description": "<p>Agile is built on collaboration - How do you make this work with distributed teams? Distributed teams are a reality in the software industry. Whether you have remote team members or just occasional work-from-home, it takes extra effort to overcome distance and keep your Agile collaboration effective. At GAP we have created hundreds of Agile teams, all of which have one or more remote members. It varies from something as simple as a remote Product Owner to something as complex as a spread across three countries. Come learn the best practices we have developed for overcoming distance with our Agile teams.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/703338230_295x166.jpg"
+    "https://i.vimeocdn.com/video/703338230-896b554c176098d91dda22c0324d31ceb82e88cff749b859a8f28ffdd6f1c3fe-d_295x166"
   ],
   "vimeo": "271916606",
   "moreinfo": "http://www.agileaustin.org",
-  "thumbnail": "https://i.vimeocdn.com/video/703338230_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/703338230-896b554c176098d91dda22c0324d31ceb82e88cff749b859a8f28ffdd6f1c3fe-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/271916606.hd.mp4?s=f5489746b05b0502350a2a34b136ab982b5f1bc2&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/271916606.sd.mp4?s=5a1d5b79c875f23537df77157b4543732634adf8&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 448,

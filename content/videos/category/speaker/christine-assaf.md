@@ -12,7 +12,7 @@
     {
       "title": "Ethics in Data",
       "slug": "ethics-in-data",
-      "thumbnail": "https://i.vimeocdn.com/video/854624827_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854624827-363163b41d52d27a11212778ab23b84e4aead7bec861895f8df60c65206dcb1b-d_295x166",
       "date": "2020-02-08T16:17:42",
       "meetups": [
         {
@@ -34,7 +34,7 @@
     {
       "title": "Mastering your Resume & Interview: Tips to Get Hired",
       "slug": "mastering-your-resume-interview-tips-to-get-hired",
-      "thumbnail": "https://i.vimeocdn.com/video/483484332_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/483484332-5ecf13163487b80f07c7d53071324d89e2911c8d81edfb38f0fc396a9d81d64d-d_295x166",
       "date": "2013-09-28T18:39:33",
       "meetups": [
         {

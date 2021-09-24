@@ -12,7 +12,7 @@
     {
       "title": "Introduction to Web Components & Polymer",
       "slug": "introduction-to-web-components-polymer",
-      "thumbnail": "https://i.vimeocdn.com/video/660019941_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/660019941-76366cf3f8853d10f77c4192d3d0cebd80b5f948a10dc0a30a12df58977d7886-d_295x166",
       "date": "2017-10-05T21:50:10",
       "meetups": [
         {

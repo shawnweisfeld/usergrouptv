@@ -10,11 +10,11 @@
   "abstract": "<p>Mobile & UX: Inside the Eye of the Perfect Storm</p>",
   "description": "<p>Mobile & UX: Inside the Eye of the Perfect Storm</p>",
   "images": [
-    "https://i.vimeocdn.com/video/492571874_295x166.jpg"
+    "https://i.vimeocdn.com/video/492571874-a87f7307189a48d7a4a5d02660416a403afd7b9d9de509fe6961cfc95dd3a6d1-d_295x166"
   ],
   "vimeo": "108785082",
   "moreinfo": "http://www.dallastechfest.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/492571874_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/492571874-a87f7307189a48d7a4a5d02660416a403afd7b9d9de509fe6961cfc95dd3a6d1-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/108785082.hd.mp4?s=e22df6fbe4724ee4f0b0928adcfef0c8ee359281&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/108785082.sd.mp4?s=427b277b8f8131c26f2cb43a9e8edbe7a76a7c4e&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 989,

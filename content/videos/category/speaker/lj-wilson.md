@@ -12,7 +12,7 @@
     {
       "title": "iOS Development for the Enterprise",
       "slug": "ios-development-for-the-enterprise",
-      "thumbnail": "https://i.vimeocdn.com/video/491229077_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/491229077-2ca1689cc1b93398d5eadb55d66816f77d27b27a3c89a0b93431256564c78797-d_295x166",
       "date": "2014-09-26T11:26:00",
       "meetups": [
         {

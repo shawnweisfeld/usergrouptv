@@ -12,7 +12,7 @@
     {
       "title": "Plex",
       "slug": "plex",
-      "thumbnail": "https://i.vimeocdn.com/video/661965594_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/661965594-77ea62978429dceef9153bbad08f39f67076b1ca3fc670cba40f275072a6ad1f-d_295x166",
       "date": "2017-10-14T11:42:46",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Building WPF Apps with MVVM Lite",
       "slug": "building-wpf-apps-with-mvvm-lite",
-      "thumbnail": "https://i.vimeocdn.com/video/534896554_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/534896554-35271855afcc92205b664cf1241d2a8e75e5921bb04d472f293f3882c3e684ad-d_295x166",
       "date": "2015-09-12T16:19:13",
       "meetups": [
         {

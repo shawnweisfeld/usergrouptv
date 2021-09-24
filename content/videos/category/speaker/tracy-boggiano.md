@@ -12,7 +12,7 @@
     {
       "title": "More Common Than You Think: Mental Illness in Tech",
       "slug": "more-common-than-you-think-mental-illness-in-tech",
-      "thumbnail": "https://i.vimeocdn.com/video/854625923_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854625923-93d325df8b9a112cfea728d6839f0d30e2e4f11beaf569a482a5a510f627a2e8-d_295x166",
       "date": "2020-02-08T16:12:39",
       "meetups": [
         {
@@ -34,7 +34,7 @@
     {
       "title": "Monitoring Availability Groups",
       "slug": "monitoring-availability-groups",
-      "thumbnail": "https://i.vimeocdn.com/video/709494199_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/709494199-2cfa3a2d247c9dc879add931e3c48bd5e5484a4582212e23fbe1f42589c54f75-d_295x166",
       "date": "2018-06-23T19:42:34",
       "meetups": [
         {

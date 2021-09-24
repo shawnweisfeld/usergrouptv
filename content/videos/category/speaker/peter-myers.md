@@ -12,7 +12,7 @@
     {
       "title": "Azure Machine Learning: From Design to Integration",
       "slug": "azure-machine-learning-from-design-to-integration",
-      "thumbnail": "https://i.vimeocdn.com/video/626872892_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/626872892-b8f311c911f6d8fab50a25f1783ebd70877331fe7866c7b02c0714715311e7f0-d_295x166",
       "date": "2017-03-04T21:54:37",
       "meetups": [
         {

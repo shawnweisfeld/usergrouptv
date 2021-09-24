@@ -12,7 +12,7 @@
     {
       "title": "It's 2018. Why aren't you using Azure Search?",
       "slug": "its-2018-why-arent-you-using-azure-search",
-      "thumbnail": "https://i.vimeocdn.com/video/739778084_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/739778084-147c51e83ed0dd7fded9f5b8cbdd79a077460552af03e32515c4ab30621737a7-d_295x166",
       "date": "2018-11-14T16:55:09",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Microservice-Powere­d Applications - It worked for Voltron, it can work for you!",
       "slug": "microservice-powere%c2%add-applications-it-worked-for-voltron-it-can-work-for-you",
-      "thumbnail": "https://i.vimeocdn.com/video/660006631_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/660006631-a28145032d15a170d0429d88181819be44c34857dec604ac2fb67c72cc7bb6cb-d_295x166",
       "date": "2017-10-06T22:09:19",
       "meetups": [
         {
@@ -48,7 +48,7 @@
     {
       "title": "Building Your Evil(?) Empire with Azure Functions",
       "slug": "building-your-evil-empire-with-azure-functions",
-      "thumbnail": "https://i.vimeocdn.com/video/660020591_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/660020591-c8cc6a1b45870fa28d3d4fe31ad6067ee6b777fa5b292fbb3d8ee52648a7e38b-d_295x166",
       "date": "2017-10-05T21:55:35",
       "meetups": [
         {

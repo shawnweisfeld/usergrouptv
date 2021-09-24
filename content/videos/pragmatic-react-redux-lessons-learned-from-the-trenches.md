@@ -11,11 +11,11 @@
   "abstract": "<p>React and Redux have made a huge impact on front end web development -- they are amazing tools, but the pace of change is very fast and best practices are hard to keep up with. Ryan Vice is here to share some practical advice based on the real-world experience he and his team have gained over multiple projects and while developing their own custom React boilerplate focused on developer ergonomics.</p>",
   "description": "<p>React and Redux have made a huge impact on front end web development -- they are amazing tools, but the pace of change is very fast and best practices are hard to keep up with. Ryan Vice is here to share some practical advice based on the real-world experience he and his team have gained over multiple projects and while developing their own custom React boilerplate focused on developer ergonomics.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/615005495_295x166.jpg"
+    "https://i.vimeocdn.com/video/615005495-fed9c1830b9367add1e9452f38cc9557bd0d6a7a8e73dfcab748ba4f04d5dc06-d_295x166"
   ],
   "vimeo": "201263120",
   "moreinfo": "https://www.meetup.com/developer-springboard/events/236639682/",
-  "thumbnail": "https://i.vimeocdn.com/video/615005495_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/615005495-fed9c1830b9367add1e9452f38cc9557bd0d6a7a8e73dfcab748ba4f04d5dc06-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/201263120.hd.mp4?s=d14d4277d018b17314b19dcf7c81abd028d85d48&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/201263120.sd.mp4?s=c3512ac106538247c62bcebf40492312e3b0943b&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 161,

@@ -10,11 +10,11 @@
   "abstract": "<p>We upgraded to SQL 2016 in part to take advantage of the updateable nonclustered columnstore indexes for our web based Credit Risk product for D&B. I will show you the before and after for our product as well as some general exercises using columnstore in a BI over OLTP environment.</p>",
   "description": "<p>We upgraded to SQL 2016 in part to take advantage of the updateable nonclustered columnstore indexes for our web based Credit Risk product for D&B. I will show you the before and after for our product as well as some general exercises using columnstore in a BI over OLTP environment.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/628438702_295x166.jpg"
+    "https://i.vimeocdn.com/video/628438702-5ad5893811dd135cd64c3dfe637658c2050cf3e94c869bae1b987866d5288f3e-d_295x166"
   ],
   "vimeo": "212454253",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/237907417/",
-  "thumbnail": "https://i.vimeocdn.com/video/628438702_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/628438702-5ad5893811dd135cd64c3dfe637658c2050cf3e94c869bae1b987866d5288f3e-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/212454253.hd.mp4?s=c042a65e213c3a61b3b5b40e3950d82b771f8a36&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/212454253.sd.mp4?s=152b81aeb30f493bf351662ccfed8ef0a604d5f4&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 242,

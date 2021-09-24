@@ -10,11 +10,11 @@
   "abstract": "<p>David Penton will go over Mongo DB</p>",
   "description": "<p>David Penton will go over Mongo DB</p>",
   "images": [
-    "https://i.vimeocdn.com/video/498383573_295x166.jpg"
+    "https://i.vimeocdn.com/video/498383573-e8c617fab645e3c500c801012bc12dc8c41fbbdb7c4c92121e16f0d1fb04bd0d-d_295x166"
   ],
   "vimeo": "113160830",
   "moreinfo": "http://northdallas.net",
-  "thumbnail": "https://i.vimeocdn.com/video/498383573_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/498383573-e8c617fab645e3c500c801012bc12dc8c41fbbdb7c4c92121e16f0d1fb04bd0d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/113160830.hd.mp4?s=b8e0da1b585a5042ff6ac22901d5e35a750f0d18&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/113160830.sd.mp4?s=718af127aebc5a2bf413b27ceb613a736ebabbbb&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 654,

@@ -10,11 +10,11 @@
   "abstract": "<p>Everyone knows TDD (Test Driven Development), but have you heard of FDD (FAITH Driven Development)? I first learned about this spritually rewarding practice in 2009 from an April Fools Joke published in SDTimes magazine.</p>\r\n<p>After years of experience and seeing the adoption (or lack there of) of TDD, I came to realize that I truly do BELEIVE in FAITH Driven Development</p>\r\n<p>I BELIEVE you will too!</p>\r\n<p>This session will entertain you and more importantly provide you with the motivation and ammunition to take your code to a heavenly state!?Come get some FAITH!</p>",
   "description": "<p>Everyone knows TDD (Test Driven Development), but have you heard of FDD (FAITH Driven Development)? I first learned about this spritually rewarding practice in 2009 from an April Fools Joke published in SDTimes magazine.</p>\r\n<p>After years of experience and seeing the adoption (or lack there of) of TDD, I came to realize that I truly do BELEIVE in FAITH Driven Development</p>\r\n<p>I BELIEVE you will too!</p>\r\n<p>This session will entertain you and more importantly provide you with the motivation and ammunition to take your code to a heavenly state!?Come get some FAITH!</p>",
   "images": [
-    "https://i.vimeocdn.com/video/499118829_295x166.jpg"
+    "https://i.vimeocdn.com/video/499118829-92d4deb94578572732cf9b76cf23cfd2dd848ea9613c3310a5b219bb981a86a2-d_295x166"
   ],
   "vimeo": "113704779",
   "moreinfo": "http://schoolofdev.com",
-  "thumbnail": "https://i.vimeocdn.com/video/499118829_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/499118829-92d4deb94578572732cf9b76cf23cfd2dd848ea9613c3310a5b219bb981a86a2-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/113704779.hd.mp4?s=5f9ddc8c01da91c3a0260cbf256f6ca221e35a8c&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/113704779.sd.mp4?s=ff0d697e7231f64ac11b08d01ac1ad1836c636c0&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 693,

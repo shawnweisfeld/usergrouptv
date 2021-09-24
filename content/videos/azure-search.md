@@ -10,11 +10,11 @@
   "abstract": "<p>Josh will be discussing Azure Search with us. </p>",
   "description": "<p>Josh will be discussing Azure Search with us. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/492991147_295x166.jpg"
+    "https://i.vimeocdn.com/video/492991147-dac3eec4cc0217c717af1662d121824892998408aa2866e6dfa9151691d8a0f6-d_295x166"
   ],
   "vimeo": "109119350",
   "moreinfo": "http://www.meetup.com/azureaustin/events/208084832/",
-  "thumbnail": "https://i.vimeocdn.com/video/492991147_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/492991147-dac3eec4cc0217c717af1662d121824892998408aa2866e6dfa9151691d8a0f6-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/109119350.hd.mp4?s=2486cd0c316626c836aa517653df865c7d5659d1&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/109119350.sd.mp4?s=2db7872fa10696296f37e60b4ce960faa3679772&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 994,
@@ -37,7 +37,7 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 51
+      "count": 52
     }
   ]
 }

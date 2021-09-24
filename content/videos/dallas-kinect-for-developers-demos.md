@@ -10,11 +10,11 @@
   "abstract": null,
   "description": null,
   "images": [
-    "https://i.vimeocdn.com/video/492995043_295x166.jpg"
+    "https://i.vimeocdn.com/video/492995043-60252fce48d939bb5cb1fa47a78572b73fcba34d268fdf1075dab9c8ee296831-d_295x166"
   ],
   "vimeo": "109122229",
   "moreinfo": "http://gravitycentredallas.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/492995043_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/492995043-60252fce48d939bb5cb1fa47a78572b73fcba34d268fdf1075dab9c8ee296831-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/109122229.hd.mp4?s=8f33c6ec3d225ede314b20e2b55ddd0f2828b7b0&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/109122229.sd.mp4?s=95f8e2224e6213d7c9d51646e876b42831e29821&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 727,

@@ -12,7 +12,7 @@
     {
       "title": "To cloud or not to cloud?",
       "slug": "to-cloud-or-not-to-cloud",
-      "thumbnail": "https://i.vimeocdn.com/video/492562986_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/492562986-8c3154199a9ac8ec18c46d9941d47f67cddfad64676147946e704d6d689927f3-d_295x166",
       "date": "2014-10-10T11:35:21",
       "meetups": [
         {

@@ -12,7 +12,7 @@
     {
       "title": "Entity Framework Performance Monitoring and Tuning",
       "slug": "entity-framework-performance-monitoring-and-tuning",
-      "thumbnail": "https://i.vimeocdn.com/video/1175041310_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1175041310-73a82bc8959cfbb17fed600f052802532fe51afae84eec46729874ae673eb4c1-d_295x166",
       "date": "2021-06-22T00:00:00",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "C# 6, 7 And Beyond",
       "slug": "c-6-7-and-beyond",
-      "thumbnail": "https://i.vimeocdn.com/video/732109736_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/732109736-4e5cd6ee372f38a6871b38fad3b765c6a479e1bbd9cf9c290315a3ca49ab04d2-d_295x166",
       "date": "2018-10-13T14:11:03",
       "meetups": [
         {

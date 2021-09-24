@@ -10,11 +10,11 @@
   "abstract": "Part of the series \"Doing Power BI the Right Way\". A data model is the foundation of analytic reporting. It provides structure and order over information that might otherwise be chaotic and untrustworthy. Loading data into a properly designed model ensures that it conforms to some essential rules that provide better performance, reliability and accuracy.",
   "description": "Part of the series \"Doing Power BI the Right Way\". A data model is the foundation of analytic reporting. It provides structure and order over information that might otherwise be chaotic and untrustworthy. Loading data into a properly designed model ensures that it conforms to some essential rules that provide better performance, reliability and accuracy.",
   "images": [
-    "https://i.vimeocdn.com/video/1039313181_295x166.jpg"
+    "https://i.vimeocdn.com/video/1039313181-e18eda3a331d12a641d123c2dc6fad192012a044580b47911cb888b553258782-d_295x166"
   ],
   "vimeo": "502302516",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/275508473/",
-  "thumbnail": "https://i.vimeocdn.com/video/1039313181_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/1039313181-e18eda3a331d12a641d123c2dc6fad192012a044580b47911cb888b553258782-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/502302516.hd.mp4?s=67da626347a833fdbd6a4b707e10586a3f7fcc70&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/502302516.sd.mp4?s=8787dddca4cb9a10873aa91f6776b8bda98fe970&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 1052,

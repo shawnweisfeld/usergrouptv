@@ -10,11 +10,11 @@
   "abstract": "<p>There is a widely accepted myth that extremely complex software platforms, committed delivery schedules, large development teams, and dynamic business environments are in direct opposition to agile development processes and tools and if your product / project fall into one of these categories you will struggle with fully embracing agile methodologies. This is simply not the case, you can fully adopt and leverage an agile methodology through out the full product lifecycle, gaining all the advantages and leverage the tools your teams are already using today and are tightly integrated into the development process. We will explore how Volusion is currently leveraging TFS throughout the complete product lifecycle and discuss some of the key challenges and successes that we've experienced along the way</p>",
   "description": "<p>There is a widely accepted myth that extremely complex software platforms, committed delivery schedules, large development teams, and dynamic business environments are in direct opposition to agile development processes and tools and if your product / project fall into one of these categories you will struggle with fully embracing agile methodologies. This is simply not the case, you can fully adopt and leverage an agile methodology through out the full product lifecycle, gaining all the advantages and leverage the tools your teams are already using today and are tightly integrated into the development process. We will explore how Volusion is currently leveraging TFS throughout the complete product lifecycle and discuss some of the key challenges and successes that we've experienced along the way</p>",
   "images": [
-    "https://i.vimeocdn.com/video/482639292_295x166.jpg"
+    "https://i.vimeocdn.com/video/482639292-221c83fc4bcd477d0aa1988452053660b9896c9c6f5dc96038e339a5d81cfefd-d_295x166"
   ],
   "vimeo": "100980743",
   "moreinfo": "https://sites.google.com/site/tfsaustinusergroup/project-updates/makingagileworkonlargecomplexprojects",
-  "thumbnail": "https://i.vimeocdn.com/video/482639292_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/482639292-221c83fc4bcd477d0aa1988452053660b9896c9c6f5dc96038e339a5d81cfefd-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/100980743.hd.mp4?s=8280bed1cbaaef8861834b6c465473049e569e52&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/100980743.sd.mp4?s=eb6b0f26eea70b875ff06eaa704944bc1ff0e4e5&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 959,

@@ -10,11 +10,11 @@
   "abstract": "<p>Performance troubleshooting is detective work. We'll have a lab system being assaulted by PowerShell scripts  (to simulate live users), and simulated performance problems like those that can make your on-call cell phone ring too much! Do you think you have what it takes to find these \"needle in the haystack\" issues and resolve them quickly?  This will be a highly interactive session where we will locate the rogue queries together, work through solutions, implement them and measure the results.  In this episode we'll focus primarily on improper indexing as a common underlying problem and all will walk away with much better troubleshooting skills and an upgraded knowledge of performance tuning!</p>",
   "description": "<p>Performance troubleshooting is detective work. We'll have a lab system being assaulted by PowerShell scripts  (to simulate live users), and simulated performance problems like those that can make your on-call cell phone ring too much! Do you think you have what it takes to find these \"needle in the haystack\" issues and resolve them quickly?  This will be a highly interactive session where we will locate the rogue queries together, work through solutions, implement them and measure the results.  In this episode we'll focus primarily on improper indexing as a common underlying problem and all will walk away with much better troubleshooting skills and an upgraded knowledge of performance tuning!</p>",
   "images": [
-    "https://i.vimeocdn.com/video/587192030_295x166.jpg"
+    "https://i.vimeocdn.com/video/587192030-be493758cd7a036f0bbae1368e4eff6397e6a068d4048942afa328a05cf6fb1e-d_295x166"
   ],
   "vimeo": "179315183",
   "moreinfo": "http://www.sqlsaturday.com/550/Sessions/Details.aspx?sid=50342",
-  "thumbnail": "https://i.vimeocdn.com/video/587192030_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/587192030-be493758cd7a036f0bbae1368e4eff6397e6a068d4048942afa328a05cf6fb1e-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/179315183.hd.mp4?s=fa04626c076065c89a585c4cb09dd48b6975ac5a&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/179315183.sd.mp4?s=afd76c9f5652a8a25a6159970950f9497ea9e333&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 198,

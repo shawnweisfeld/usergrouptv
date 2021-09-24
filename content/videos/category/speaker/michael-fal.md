@@ -12,7 +12,7 @@
     {
       "title": "Getting Started with Git/GitHub",
       "slug": "getting-started-with-gitgithub",
-      "thumbnail": "https://i.vimeocdn.com/video/719305826_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/719305826-f992b34a7de0a1a5d07d7a21bad1453a67fa2dd8343c41a73dcfb3b4481693d6-d_295x166",
       "date": "2018-08-11T15:49:54",
       "meetups": [
         {

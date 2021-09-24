@@ -12,7 +12,7 @@
     {
       "title": "Azure API Management",
       "slug": "azure-api-management-2",
-      "thumbnail": "https://i.vimeocdn.com/video/1039951207_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/1039951207-b9444ca759cc775617a805df0c47cb19fa8108d60132af32f46dab413e65c592-d_295x166",
       "date": "2021-01-19T00:00:00",
       "meetups": [
         {

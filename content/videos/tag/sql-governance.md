@@ -11,7 +11,7 @@
     {
       "title": "Governing Your Database Environment",
       "slug": "governing-your-database-environment",
-      "thumbnail": "https://i.vimeocdn.com/video/495924241_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/495924241-036231ebb98744b6c71839b4cffccbc51d6ac32d6c7f83ed705635b3f827ff9b-d_295x166",
       "date": "2011-08-27T22:41:24",
       "meetups": [
         {

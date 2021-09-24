@@ -10,11 +10,11 @@
   "abstract": "<p>Geo Location has evolved over the past several years to encompass much broader concepts than simple latitude and longitude coordinates. Today's world of GPS enabled mobile devices has spawned a revolution in the software world. Given all the services available today, where do you start? What data can you use and store and which providers have the strictest license agreements? What if you need specific types of data for a specific project? We will dig into the dirty details and show you the who  what  and \"where\".</p>",
   "description": "<p>Geo Location has evolved over the past several years to encompass much broader concepts than simple latitude and longitude coordinates. Today's world of GPS enabled mobile devices has spawned a revolution in the software world. Given all the services available today, where do you start? What data can you use and store and which providers have the strictest license agreements? What if you need specific types of data for a specific project? We will dig into the dirty details and show you the who  what  and \"where\".</p>",
   "images": [
-    "https://i.vimeocdn.com/video/500550762_295x166.jpg"
+    "https://i.vimeocdn.com/video/500550762-6aeabe846f24fd108488c2d1558d8283bf34f7d4d926a8f528cb2381ead69b8d-d_295x166"
   ],
   "vimeo": "114763036",
   "moreinfo": "http://www.ddnug.net/",
-  "thumbnail": "https://i.vimeocdn.com/video/500550762_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/500550762-6aeabe846f24fd108488c2d1558d8283bf34f7d4d926a8f528cb2381ead69b8d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/114763036.hd.mp4?s=61a894366cce55d29a3bc0a42a8deb892936fcde&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/114763036.sd.mp4?s=febc141a399c4fc7f02faf9e7f09dd3bbf916cf6&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 694,

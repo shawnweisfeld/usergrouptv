@@ -10,11 +10,11 @@
   "abstract": "<p>Extended Events are an essential part of properly monitoring and every DBA should know what they are and how to use them.  This session will cover the basics of Extended events as well as an introduction to the system_health session.  This session will give someone who has never used Extended events before the skills to start using them!</p>",
   "description": "<p>Extended Events are an essential part of properly monitoring and every DBA should know what they are and how to use them.  This session will cover the basics of Extended events as well as an introduction to the system_health session.  This session will give someone who has never used Extended events before the skills to start using them!</p>",
   "images": [
-    "https://i.vimeocdn.com/video/702645343_295x166.jpg"
+    "https://i.vimeocdn.com/video/702645343-3d4b91b99404a2c00e6deb436def728f6426bf35746b969d929d0c596ea8b464-d_295x166"
   ],
   "vimeo": "271363666",
   "moreinfo": "http://www.sqlsaturday.com/734/Sessions/Details.aspx?sid=74059",
-  "thumbnail": "https://i.vimeocdn.com/video/702645343_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/702645343-3d4b91b99404a2c00e6deb436def728f6426bf35746b969d929d0c596ea8b464-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/271363666.hd.mp4?s=8869e11d6382ab532840259310434e8b62ecbb31&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/271363666.sd.mp4?s=6009848557548998a8cddf1f2310c66134d9b47b&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 432,

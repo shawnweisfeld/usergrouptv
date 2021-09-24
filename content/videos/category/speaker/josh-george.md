@@ -12,7 +12,7 @@
     {
       "title": "Time Intelligence with Excel Power Pivot",
       "slug": "time-intelligence-with-excel-power-pivot",
-      "thumbnail": "https://i.vimeocdn.com/video/482637734_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/482637734-42588d40942b8764c0e879ba8656159e59e648e676df64f5ccd26a95297ebe82-d_295x166",
       "date": "2014-05-03T19:56:46",
       "meetups": [
         {

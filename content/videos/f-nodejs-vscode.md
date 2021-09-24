@@ -10,11 +10,11 @@
   "abstract": "<p>This month Chet will show us how to use F# and NodeJS to build a plugin for VS Code.</p>",
   "description": "<p>This month Chet will show us how to use F# and NodeJS to build a plugin for VS Code.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/770998697_295x166.jpg"
+    "https://i.vimeocdn.com/video/770998697-e9748ec8936c8f6a1790d629073b4a8071bd5b3e5db70ac9dd5d82fce0c54313-d_295x166"
   ],
   "vimeo": "326877136",
   "moreinfo": "https://www.meetup.com/Austin-F-Meetup/events/mbscmqyzfbcc/",
-  "thumbnail": "https://i.vimeocdn.com/video/770998697_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/770998697-e9748ec8936c8f6a1790d629073b4a8071bd5b3e5db70ac9dd5d82fce0c54313-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/326877136.hd.mp4?s=c2ea5a7884f8b6cec2c29f4f655de7e41e03e5a6&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/326877136.sd.mp4?s=c631d7953a5d5e94f6186cf4a0f575f77a647200&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 297,

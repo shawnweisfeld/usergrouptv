@@ -12,7 +12,7 @@
     {
       "title": "Coding your Future with the Windows Insider Program",
       "slug": "coding-your-future-with-the-windows-insider-program",
-      "thumbnail": "https://i.vimeocdn.com/video/796753634_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/796753634-7ebd116cbccad1bfedf31d02fde6a01e376d79939649a6efeaa5fc2351c68c3b-d_295x166",
       "date": "2019-06-24T16:46:01",
       "meetups": [
         {

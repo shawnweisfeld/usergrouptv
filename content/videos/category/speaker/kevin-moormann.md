@@ -12,7 +12,7 @@
     {
       "title": "CRUD, Our Grand Failure...and how to rectifiy it",
       "slug": "crud-our-grand-failure-and-how-to-rectifiy-it",
-      "thumbnail": "https://i.vimeocdn.com/video/534899363_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/534899363-ec99c345f50cc95e1282f994046a747cb8c9f7ce42f644bb512d96a5275381f8-d_295x166",
       "date": "2015-09-12T16:27:45",
       "meetups": [
         {

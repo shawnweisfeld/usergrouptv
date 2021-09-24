@@ -10,11 +10,11 @@
   "abstract": "<p>You’ve got data to load into an already existing table, perhaps a slowly changing dimension, and need a method that is simple, supportable, and performs well. The T-SQL Merge statement, introduced in SQL 2008, can do all of this and more. Many DBAs investigate it, but find it unintuitive, time consuming, or they couldn’t get it to perform well. This doesn’t need to be difficult; after attending this session you’ll thoroughly understand the fundamentals of the merge statement and how to write them. You will also leave with scripts which automatically write well formed merge statements for you in less than 1 minute, guaranteed. Come see how. </p>",
   "description": "<p>You’ve got data to load into an already existing table, perhaps a slowly changing dimension, and need a method that is simple, supportable, and performs well. The T-SQL Merge statement, introduced in SQL 2008, can do all of this and more. Many DBAs investigate it, but find it unintuitive, time consuming, or they couldn’t get it to perform well. This doesn’t need to be difficult; after attending this session you’ll thoroughly understand the fundamentals of the merge statement and how to write them. You will also leave with scripts which automatically write well formed merge statements for you in less than 1 minute, guaranteed. Come see how. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/484299830_295x166.jpg"
+    "https://i.vimeocdn.com/video/484299830-53ad11933e7e35efbdcfbd426ef00615c5b5c62c7f8f3e1cb7bf7b43a228f810-d_295x166"
   ],
   "vimeo": "102317833",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=223&sessionid=16319",
-  "thumbnail": "https://i.vimeocdn.com/video/484299830_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/484299830-53ad11933e7e35efbdcfbd426ef00615c5b5c62c7f8f3e1cb7bf7b43a228f810-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/102317833.hd.mp4?s=217db35863296449f89a7cec13cba5e48339a844&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/102317833.sd.mp4?s=18840412f71be2fb233071f8f62886f3ff3e5f3a&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 610,

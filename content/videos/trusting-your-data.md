@@ -10,11 +10,11 @@
   "abstract": "<p>People make decisions based on two qualities: intent and competency.  Said another way: trust and data.  We all think we are providing the customer with good data.  But many of the systems we use to provide that data are completely opaque to the average end user. How can we win their trust?\r\n</p>",
   "description": "<p>People make decisions based on two qualities: intent and competency.  Said another way: trust and data.  We all think we are providing the customer with good data.  But many of the systems we use to provide that data are completely opaque to the average end user. How can we win their trust?\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/709492813_295x166.jpg"
+    "https://i.vimeocdn.com/video/709492813-366a46aec4c8903963556a7114454bcc4427941ab6ac60dc1dca0b9b47379ff3-d_295x166"
   ],
   "vimeo": "276869153",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=83389",
-  "thumbnail": "https://i.vimeocdn.com/video/709492813_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/709492813-366a46aec4c8903963556a7114454bcc4427941ab6ac60dc1dca0b9b47379ff3-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/276869153.hd.mp4?s=e1cad51d3f5d533ad76365622f48c3db5ab7499f&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/276869153.sd.mp4?s=fe019791db7cdaca614c1e61de969f1f8d081cb5&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 395,

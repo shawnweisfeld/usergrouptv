@@ -12,7 +12,7 @@
     {
       "title": "Unlocking New Visualizations and Features in Power BI",
       "slug": "unlocking-new-visualizations-and-features-in-power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/940309865_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/940309865-685ca9b5c6a2e8799a5bd6e216d5ef33eb7e397c9d9575601aa17675d756d458-d_295x166",
       "date": "2020-08-12T14:05:27",
       "meetups": [
         {

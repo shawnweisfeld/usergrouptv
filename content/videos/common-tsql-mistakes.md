@@ -10,11 +10,11 @@
   "abstract": "<p>Common TSQL Mistakes: We are going to examine a variety of oopsies MANY developers fall prey to - some obvious, some pretty subtle and some downright sneaky! Lots of code examples with the bad AND good code presented. I GUARANTEE that you will find things here that will either prevent you from getting bad data, throwing unwanted errors or vastly improving your database application's performance and concurrency. I have given this talk over 100 times now and it is always very highly rated!</p>",
   "description": "<p>Common TSQL Mistakes: We are going to examine a variety of oopsies MANY developers fall prey to - some obvious, some pretty subtle and some downright sneaky! Lots of code examples with the bad AND good code presented. I GUARANTEE that you will find things here that will either prevent you from getting bad data, throwing unwanted errors or vastly improving your database application's performance and concurrency. I have given this talk over 100 times now and it is always very highly rated!</p>",
   "images": [
-    "https://i.vimeocdn.com/video/833796580_295x166.jpg"
+    "https://i.vimeocdn.com/video/833796580-626fbdb38336c10e8424d6fbff9a24f42966504bcd0e4bd5caea2fbc051b7eb4-d_295x166"
   ],
   "vimeo": "375132321",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/pttzvqyzpbzb/",
-  "thumbnail": "https://i.vimeocdn.com/video/833796580_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/833796580-626fbdb38336c10e8424d6fbff9a24f42966504bcd0e4bd5caea2fbc051b7eb4-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/375132321.hd.mp4?s=4dd0107da17dcc4b1de28cbaebd407c231c69cf1&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/375132321.sd.mp4?s=21f4e389062ab8eb6001bd6e21c1a6e5911fff7a&profile_id=139&oauth2_token_id=20985841",
   "recordingID": 381,

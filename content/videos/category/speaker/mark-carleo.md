@@ -12,7 +12,7 @@
     {
       "title": "Real Life IoT - Principles for Success",
       "slug": "real-life-iot-principles-for-success",
-      "thumbnail": "https://i.vimeocdn.com/video/660011864_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/660011864-6165d66b3a9becb75661cb69275fde8036cef411033c81b7b3a73474cea1454e-d_295x166",
       "date": "2017-10-05T21:45:34",
       "meetups": [
         {

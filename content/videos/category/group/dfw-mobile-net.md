@@ -11,7 +11,7 @@
     {
       "title": "Add a cloud backend to your app in minutes",
       "slug": "add-a-cloud-backend-to-your-app-in-minutes",
-      "thumbnail": "https://i.vimeocdn.com/video/519304884_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/519304884-89b383e2dd93852d5f6c37956b655dbc3ade20ce7582ca3f1ed8d534622f6ef9-d_295x166",
       "date": "2015-05-13T13:21:34",
       "speakers": [
         {

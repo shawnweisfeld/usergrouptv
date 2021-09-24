@@ -10,11 +10,11 @@
   "abstract": "<p>AngularJS enables developers to rapidly build single page applications. However, the framework leaves many decisions to development teams including structuring content, script loading, and module management. When building large scale applications for businesses and enterprises this can quickly become challenging to maintain, test, iterate, and extend.&nbsp;</p><p>The talk will focus on best practices and strategies for structuring large AngularJS applications, maintainable code styling for modular code, and introduce tools and strategies for teams to effectively build, package, deliver, and deploy in an enterprise environment.</p>",
   "description": "<p>AngularJS enables developers to rapidly build single page applications. However, the framework leaves many decisions to development teams including structuring content, script loading, and module management. When building large scale applications for businesses and enterprises this can quickly become challenging to maintain, test, iterate, and extend.&nbsp;</p><p>The talk will focus on best practices and strategies for structuring large AngularJS applications, maintainable code styling for modular code, and introduce tools and strategies for teams to effectively build, package, deliver, and deploy in an enterprise environment.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/540280447_295x166.jpg"
+    "https://i.vimeocdn.com/video/540280447-68fd233e7ad4ab7077d41ec9993ec04963bec962eb6ea2b71e3393493dbcf629-d_295x166"
   ],
   "vimeo": "142865593",
   "moreinfo": "http://lrtechfest.com/speakerdetails/#Jonathan-Fontanez",
-  "thumbnail": "https://i.vimeocdn.com/video/540280447_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/540280447-68fd233e7ad4ab7077d41ec9993ec04963bec962eb6ea2b71e3393493dbcf629-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/142865593.hd.mp4?s=31b142b91de2931dad6d4b0fe61f4d49e579890a&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/142865593.sd.mp4?s=2723b15402f0aed84d5a43f7bb8acddcdd04d7fe&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 894,

@@ -12,7 +12,7 @@
     {
       "title": "Microsoft Cloud Adoption Framework for Azure in a Nutshell",
       "slug": "microsoft-cloud-adoption-framework-for-azure-in-a-nutshell",
-      "thumbnail": "https://i.vimeocdn.com/video/831974744_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/831974744-d6f89a4b524d0f093adc518979f5cad30d0a0fcc8cd749bf25f9ca9c69844a45-d_295x166",
       "date": "2019-11-13T17:28:13",
       "meetups": [
         {

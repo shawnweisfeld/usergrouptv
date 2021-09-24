@@ -10,11 +10,11 @@
   "abstract": "<p>Browsers are more capable than ever at delivering rich, native-like experiences, but the stateless nature of the web makes them rather difficult to build. Binding a data model to the UI using an MVVM (Model, View, ViewModel) javascript framework allows developers to manage complex interfaces with relatively little code. We'll walk you through how we use Knockout (one such MVVM framework) to untangle modern UIs and how we simplify our CSS by using BEM syntax to provide \"stateful\" classes for our interface.</p>",
   "description": "<p>Browsers are more capable than ever at delivering rich, native-like experiences, but the stateless nature of the web makes them rather difficult to build. Binding a data model to the UI using an MVVM (Model, View, ViewModel) javascript framework allows developers to manage complex interfaces with relatively little code. We'll walk you through how we use Knockout (one such MVVM framework) to untangle modern UIs and how we simplify our CSS by using BEM syntax to provide \"stateful\" classes for our interface.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/540281922_295x166.jpg"
+    "https://i.vimeocdn.com/video/540281922-ce1a41e900e57fd1c37cd92c95e55397e1cf338f8cf0066f36c5058d5741ba24-d_295x166"
   ],
   "vimeo": "142866669",
   "moreinfo": "http://lrtechfest.com/speakerdetails/#Brent-Coney",
-  "thumbnail": "https://i.vimeocdn.com/video/540281922_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/540281922-ce1a41e900e57fd1c37cd92c95e55397e1cf338f8cf0066f36c5058d5741ba24-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/142866669.hd.mp4?s=065941289b20e475407db7c881f4cd16bbc91abc&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/142866669.sd.mp4?s=1ee920c811c4e933aee40d40330be15d9a5c5b1d&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 884,

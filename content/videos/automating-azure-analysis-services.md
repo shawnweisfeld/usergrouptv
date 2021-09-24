@@ -10,11 +10,11 @@
   "abstract": "<p>The elasticity of the cloud lets you provide a better user experience instead of breaking the bank running your solution at the highest scale 24 hours a day. This demo-heavy session will show how to automate Azure Analysis Services. We will look at solutions to the following questions: How do you schedule a refresh of the data in your Azure Analysis Services model? How do you pause the server on the weekends? Better yet, how can you pause it when the last user disconnects and start it automatically when the first user connects in the morning? How do you scale to meet peak demand each day? How can Azure Analysis Services load balance across servers in multiple countries so that the user connects to the geographically closest server? How do you extend your on-premises SSAS solution into Azure Analysis Services?</p>",
   "description": "<p>The elasticity of the cloud lets you provide a better user experience instead of breaking the bank running your solution at the highest scale 24 hours a day. This demo-heavy session will show how to automate Azure Analysis Services. We will look at solutions to the following questions: How do you schedule a refresh of the data in your Azure Analysis Services model? How do you pause the server on the weekends? Better yet, how can you pause it when the last user disconnects and start it automatically when the first user connects in the morning? How do you scale to meet peak demand each day? How can Azure Analysis Services load balance across servers in multiple countries so that the user connects to the geographically closest server? How do you extend your on-premises SSAS solution into Azure Analysis Services?</p>",
   "images": [
-    "https://i.vimeocdn.com/video/702679647_295x166.jpg"
+    "https://i.vimeocdn.com/video/702679647-1156fa455df508f548330160cd289f93918cf3aa701837c65cb806081cab8bfc-d_295x166"
   ],
   "vimeo": "271390704",
   "moreinfo": "http://www.sqlsaturday.com/734/Sessions/Details.aspx?sid=77768",
-  "thumbnail": "https://i.vimeocdn.com/video/702679647_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/702679647-1156fa455df508f548330160cd289f93918cf3aa701837c65cb806081cab8bfc-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/271390704.hd.mp4?s=77bbf2f765cbaabbef41e3ce9b1e0ffb8e9c6a38&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/271390704.sd.mp4?s=5f92bba5960be06e9686b13149ae6231f6c79eeb&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 437,

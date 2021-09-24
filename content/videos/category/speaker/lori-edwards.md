@@ -12,7 +12,7 @@
     {
       "title": "SQL Server Statistics – What Are The Chances?",
       "slug": "sql-server-statistics-what-are-the-chances",
-      "thumbnail": "https://i.vimeocdn.com/video/587192886_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/587192886-c90ac76ed3ff070a9520bc50cf09e715fc7395a140c66bc848e8d29c12453a2e-d_295x166",
       "date": "2016-08-13T15:05:14",
       "meetups": [
         {

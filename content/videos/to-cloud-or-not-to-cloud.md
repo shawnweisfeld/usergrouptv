@@ -10,11 +10,11 @@
   "abstract": "<p>Cloud computing is emerging as a promising IT service delivery vehicle. But is the question “To cloud or not to cloud”? For IT professionals and your IT organizations, it is crucial to recognize the opportunities and play a key role in the transformation from existing infrastructure-focused IT into a service-oriented, user-centric, and IT-as-a-Service (IaaS) environment. Are you ready for the challenge to lead and transform your IT organization?</p>\r\n<p>This session will clarify the myths and provide pertinent information on cloud computing from a business and datacenter viewpoint. We will review the architectures and examine the service delivery models of cloud computing while stepping through business scenarios and operations of employing public cloud and private cloud</p>",
   "description": "<p>Cloud computing is emerging as a promising IT service delivery vehicle. But is the question “To cloud or not to cloud”? For IT professionals and your IT organizations, it is crucial to recognize the opportunities and play a key role in the transformation from existing infrastructure-focused IT into a service-oriented, user-centric, and IT-as-a-Service (IaaS) environment. Are you ready for the challenge to lead and transform your IT organization?</p>\r\n<p>This session will clarify the myths and provide pertinent information on cloud computing from a business and datacenter viewpoint. We will review the architectures and examine the service delivery models of cloud computing while stepping through business scenarios and operations of employing public cloud and private cloud</p>",
   "images": [
-    "https://i.vimeocdn.com/video/492562986_295x166.jpg"
+    "https://i.vimeocdn.com/video/492562986-8c3154199a9ac8ec18c46d9941d47f67cddfad64676147946e704d6d689927f3-d_295x166"
   ],
   "vimeo": "108778175",
   "moreinfo": "http://www.dallastechfest.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/492562986_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/492562986-8c3154199a9ac8ec18c46d9941d47f67cddfad64676147946e704d6d689927f3-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/108778175.hd.mp4?s=99a0c536da1e7cb87f1f65b0d5f77f1e5bd3bba0&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/108778175.sd.mp4?s=e5380be24683f791ba77df3b2e62b53b2a43d8fa&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 993,
@@ -30,7 +30,7 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 41
+      "count": 42
     }
   ],
   "meetups": [

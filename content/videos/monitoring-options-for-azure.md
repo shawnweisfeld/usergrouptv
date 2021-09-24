@@ -11,11 +11,11 @@
   "abstract": "<p>Learn what options exist for monitoring workloads in Azure using Azure native tools. What monitoring options exist for Applications, infrastructure, and time series.</p>",
   "description": "<p>Learn what options exist for monitoring workloads in Azure using Azure native tools. What monitoring options exist for Applications, infrastructure, and time series.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/745979214_295x166.jpg"
+    "https://i.vimeocdn.com/video/745979214-daac911fed8ba8aeb0892e4c1acbf1f8c4b20d7125c683d64ad6f5a69778eb05-d_295x166"
   ],
   "vimeo": "306272170",
   "moreinfo": "https://www.meetup.com/azureaustin/events/256066908/",
-  "thumbnail": "https://i.vimeocdn.com/video/745979214_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/745979214-daac911fed8ba8aeb0892e4c1acbf1f8c4b20d7125c683d64ad6f5a69778eb05-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/306272170.hd.mp4?s=4e6c09572b771acea25ed6ca22799390a19c387c&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/306272170.sd.mp4?s=bafbfd9b31671a52764600f9c05f6ddb6fd791b6&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 478,
@@ -36,14 +36,14 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 41
+      "count": 42
     }
   ],
   "meetups": [
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 51
+      "count": 52
     }
   ]
 }

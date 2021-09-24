@@ -10,11 +10,11 @@
   "abstract": "<p>With the publication of the DevOps Handbook (the yellow book), the software industry has an expanded body of knowledge on which practitioners may draw. Many successful software service and software product companies have innovated and shared their breakthroughs. Now, just like at the time of the original Agile Manifesto, it is up to individual teams to adopt and adapt the learnings of others. From details of the compilation, to automated tests, to database and data store configuration, custom software applications have common building blocks. There is a domain model that has emerged for continuous delivery. The relationships between the abstract types are known. Each team implements this model according to the toolset and language of their software, but the model remains. This session reviews that model in details as well as a reference implementation of it on the Microsoft platform.</p>",
   "description": "<p>With the publication of the DevOps Handbook (the yellow book), the software industry has an expanded body of knowledge on which practitioners may draw. Many successful software service and software product companies have innovated and shared their breakthroughs. Now, just like at the time of the original Agile Manifesto, it is up to individual teams to adopt and adapt the learnings of others. From details of the compilation, to automated tests, to database and data store configuration, custom software applications have common building blocks. There is a domain model that has emerged for continuous delivery. The relationships between the abstract types are known. Each team implements this model according to the toolset and language of their software, but the model remains. This session reviews that model in details as well as a reference implementation of it on the Microsoft platform.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/707075239_295x166.jpg"
+    "https://i.vimeocdn.com/video/707075239-c06f8a0e954b425efc923f407ff97d9cf168694585bbf2ac61b36729fbc512f0-d_295x166"
   ],
   "vimeo": "274922558",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/251462529/",
-  "thumbnail": "https://i.vimeocdn.com/video/707075239_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/707075239-c06f8a0e954b425efc923f407ff97d9cf168694585bbf2ac61b36729fbc512f0-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/274922558.hd.mp4?s=e4c2fe28de800555ab769d511fbcf546a70c664a&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/274922558.sd.mp4?s=3050a883ff814185d83fdd551bce23ca586f8c20&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 438,

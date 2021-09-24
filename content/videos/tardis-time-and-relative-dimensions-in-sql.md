@@ -10,11 +10,11 @@
   "abstract": "<p>In this session, you'll learn why you need a date table, how to build one and how to use one.  We'll look at a couple common uses for date tables and explore how to get the most of them!</p>",
   "description": "<p>In this session, you'll learn why you need a date table, how to build one and how to use one.  We'll look at a couple common uses for date tables and explore how to get the most of them!</p>",
   "images": [
-    "https://i.vimeocdn.com/video/589679291_295x166.jpg"
+    "https://i.vimeocdn.com/video/589679291-fa8c205a0177270e60d264757ee2735e8da5423d34eb682d816bcefccf6d0aac-d_295x166"
   ],
   "vimeo": "181196971",
   "moreinfo": "http://www.sqlsaturday.com/553/Sessions/Details.aspx?sid=51101",
-  "thumbnail": "https://i.vimeocdn.com/video/589679291_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/589679291-fa8c205a0177270e60d264757ee2735e8da5423d34eb682d816bcefccf6d0aac-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/181196971.hd.mp4?s=2b5bd8c0bf09c4c424c8d89c4f3a517fee6041cf&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/181196971.sd.mp4?s=f2455ab33b07d69e636c37f333605db5c155901f&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 193,

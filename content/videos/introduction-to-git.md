@@ -11,11 +11,11 @@
   "abstract": "<p>Always checking out the newest shiny thing? Distributed version control (DVCS) is spreading like wildfire across the .NET ecosystem but is really all that beneficial or is it just hype? Having worn a tarnish into this tool using it for the past couple of year, I’m going to discuss the benefits and battles of using it in your everyday developer life. We will be taking a look at how Git achieves it’s \"magic\" as well as run thru some standard practices to hopefully help you determine if Git would be right for and your environment.</p>",
   "description": "<p>Always checking out the newest shiny thing? Distributed version control (DVCS) is spreading like wildfire across the .NET ecosystem but is really all that beneficial or is it just hype? Having worn a tarnish into this tool using it for the past couple of year, I’m going to discuss the benefits and battles of using it in your everyday developer life. We will be taking a look at how Git achieves it’s \"magic\" as well as run thru some standard practices to hopefully help you determine if Git would be right for and your environment.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/492988166_295x166.jpg"
+    "https://i.vimeocdn.com/video/492988166-1c2717717e5dbaa4c927fd38a5a458869c40ef39bb7d9ba01a719970963e022b-d_295x166"
   ],
   "vimeo": "109117124",
   "moreinfo": "http://dallas-csharp-sig.com",
-  "thumbnail": "https://i.vimeocdn.com/video/492988166_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/492988166-1c2717717e5dbaa4c927fd38a5a458869c40ef39bb7d9ba01a719970963e022b-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/109117124.hd.mp4?s=e0c7b631d0aaa58947f01c94b25d205b824cc136&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/109117124.sd.mp4?s=51d4b8a1e53d0c7f8f07602c6a84b1cda2be8ccd&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 729,

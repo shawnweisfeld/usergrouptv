@@ -11,11 +11,11 @@
   "abstract": "<p>The next version of the Microsoft Visual Studio suite of tools, code named “Dev 11”, raises the bar yet again for full-spectrum application lifecycle management (ALM). Come see the latest editions of Visual Studio, Team Foundation Server, and Microsoft Test Manager in action as they all work together to provide the new “state of the art” in agile development.</p>",
   "description": "<p>The next version of the Microsoft Visual Studio suite of tools, code named “Dev 11”, raises the bar yet again for full-spectrum application lifecycle management (ALM). Come see the latest editions of Visual Studio, Team Foundation Server, and Microsoft Test Manager in action as they all work together to provide the new “state of the art” in agile development.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/495918685_295x166.jpg"
+    "https://i.vimeocdn.com/video/495918685-db86eb268ba8e87d586e1a28de951f7f31150a64f1afcf44d1f680b82ba514af-d_295x166"
   ],
   "vimeo": "111338124",
   "moreinfo": "http://www.improvingenterprises.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/495918685_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/495918685-db86eb268ba8e87d586e1a28de951f7f31150a64f1afcf44d1f680b82ba514af-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/111338124.hd.mp4?s=d8d25a8816a318b85f83bd6449049d22d6c239a8&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/111338124.sd.mp4?s=06bfa938e065a1861a752af43538c41698907b0b&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 558,

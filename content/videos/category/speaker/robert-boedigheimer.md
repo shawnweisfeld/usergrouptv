@@ -12,7 +12,7 @@
     {
       "title": "Cryptography 101",
       "slug": "cryptography-101-2",
-      "thumbnail": "https://i.vimeocdn.com/video/999196637_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/999196637-22d81e4b66a82c3a8fdf77f7bd433bdc12c4f0334949430031029df5fc15206a-d_295x166",
       "date": "2020-11-17T00:00:00",
       "meetups": [
         {

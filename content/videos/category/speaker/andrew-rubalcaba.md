@@ -12,7 +12,7 @@
     {
       "title": "Getting The Spring Application To The Cloud",
       "slug": "getting-the-spring-application-to-the-cloud",
-      "thumbnail": "https://i.vimeocdn.com/video/498381085_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/498381085-3cbc3bc4dd3d4e24831860d49db67f4a127324e762220760bbf2bc791ec271d1-d_295x166",
       "date": "2011-08-12T20:11:07",
       "meetups": [
         {

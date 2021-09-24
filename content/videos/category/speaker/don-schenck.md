@@ -12,7 +12,7 @@
     {
       "title": "Creating Bots with the Microsoft Bot Framework",
       "slug": "creating-bots-with-the-microsoft-bot-framework",
-      "thumbnail": "https://i.vimeocdn.com/video/660639129_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/660639129-01e1b4ec98b9a58f270edad9de8fc7c347a0343b1de7e25f8933d60d9848f9c7-d_295x166",
       "date": "2017-10-06T16:24:08",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": ".NET, Linux and Microservices Architecture",
       "slug": "net-linux-and-microservices-architecture",
-      "thumbnail": "https://i.vimeocdn.com/video/660003611_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/660003611-9f1ac2debb1d5b6bd42e48c01cb4bd0a171f7845445f751c6316b8a22fb1e077-d_295x166",
       "date": "2017-10-05T21:59:16",
       "meetups": [
         {

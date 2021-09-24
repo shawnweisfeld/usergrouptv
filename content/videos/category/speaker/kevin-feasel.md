@@ -12,7 +12,7 @@
     {
       "title": "Getting Started with Apache Spark",
       "slug": "getting-started-with-apache-spark",
-      "thumbnail": "https://i.vimeocdn.com/video/854621628_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854621628-90a96b7507d6125ab05d0d5a5c43440a41d6a215e8d33b1670bd3a7f6862ef0b-d_295x166",
       "date": "2020-02-08T16:27:50",
       "meetups": [
         {
@@ -34,7 +34,7 @@
     {
       "title": "R For the SQL Server Developer",
       "slug": "r-for-the-sql-server-developer",
-      "thumbnail": "https://i.vimeocdn.com/video/622684266_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/622684266-a0ed39bc5b399892b10d4aa4ac1856a561824b55c591571266b96e7a941f40f5-d_295x166",
       "date": "2017-03-04T22:04:31",
       "meetups": [
         {

@@ -10,11 +10,11 @@
   "abstract": "<p>The classes in the Reflection namespace, together with System.Type, allow you to obtain information about loaded assemblies and the types defined within them, such as classes, interfaces, and value types. You can also use reflection to create type instances at run time, and to invoke and access them. In this talk we will cover the basics of .NET Reflection and best practices for its use in your applications.</p>",
   "description": "<p>The classes in the Reflection namespace, together with System.Type, allow you to obtain information about loaded assemblies and the types defined within them, such as classes, interfaces, and value types. You can also use reflection to create type instances at run time, and to invoke and access them. In this talk we will cover the basics of .NET Reflection and best practices for its use in your applications.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/495140850_295x166.jpg"
+    "https://i.vimeocdn.com/video/495140850-39070992b9d1423e7cc74328e51a60a7fd32c89e37336107d6697ea604964dc6-d_295x166"
   ],
   "vimeo": "110772604",
   "moreinfo": null,
-  "thumbnail": "https://i.vimeocdn.com/video/495140850_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/495140850-39070992b9d1423e7cc74328e51a60a7fd32c89e37336107d6697ea604964dc6-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/110772604.hd.mp4?s=50319a92c7b81cc4772fbabb69e6006150b25bb9&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/110772604.sd.mp4?s=3f8738c428aaa0891fd71ad9445c67db834204e7&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 755,

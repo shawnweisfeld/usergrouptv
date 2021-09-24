@@ -10,11 +10,11 @@
   "abstract": "<p>JavaScript has come into its own as a language for building large, rich applications. Browser improvements have made it lightning-fast and a healthy ecosystem of libraries has risen up around it. Still, building Single-Page applications on your own can be a daunting task. That's where Durandal comes in. It leverages existing libraries like Knockout and RequireJS for data-binding and dependency management, and layers on additional features needed by real-world applications like compositional UI. Come see how Durandal can help you create web applications using state-of-the-art practices and tooling.\r\n</p>",
   "description": "<p>JavaScript has come into its own as a language for building large, rich applications. Browser improvements have made it lightning-fast and a healthy ecosystem of libraries has risen up around it. Still, building Single-Page applications on your own can be a daunting task. That's where Durandal comes in. It leverages existing libraries like Knockout and RequireJS for data-binding and dependency management, and layers on additional features needed by real-world applications like compositional UI. Come see how Durandal can help you create web applications using state-of-the-art practices and tooling.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/482638811_295x166.jpg"
+    "https://i.vimeocdn.com/video/482638811-fab2657f7d5c5983f0a5e8b6aa82d0b27a8cbc0042b87a52a33cd6197d6db588-d_295x166"
   ],
   "vimeo": "100980387",
   "moreinfo": "http://techfests.com/Tulsa/2013/Speakers/BrianSullivan/default.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/482638811_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/482638811-fab2657f7d5c5983f0a5e8b6aa82d0b27a8cbc0042b87a52a33cd6197d6db588-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/100980387.hd.mp4?s=a018bad55b7102adb8d0641f131e21473fede276&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/100980387.sd.mp4?s=5c16dfd8af8fbf4d49d2ea8e059999c6b6032729&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 956,

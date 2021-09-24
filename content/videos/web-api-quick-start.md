@@ -10,11 +10,11 @@
   "abstract": "<p>This session will cover the basics of Web API but dig deeper and take attendees past basic CRUD operations on resources and dive into how to create a robust API using Web API. We will learn best practices for how to organize non-CRUD operations allowing for creating maintainable APIs that embrace the spirit of Web API and not just the semantics allowing for maximizing the ROI of the technology. We will also look at other useful topics like how to bridge the conventions gap that exists between Javascript and C# and talk about versioning.</p>",
   "description": "<p>This session will cover the basics of Web API but dig deeper and take attendees past basic CRUD operations on resources and dive into how to create a robust API using Web API. We will learn best practices for how to organize non-CRUD operations allowing for creating maintainable APIs that embrace the spirit of Web API and not just the semantics allowing for maximizing the ROI of the technology. We will also look at other useful topics like how to bridge the conventions gap that exists between Javascript and C# and talk about versioning.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/484302932_295x166.jpg"
+    "https://i.vimeocdn.com/video/484302932-8481a25c0f7049d390584dec7157ae5c4f957bf6a863b8d8387dab2b1bfe31ec-d_295x166"
   ],
   "vimeo": "102320622",
   "moreinfo": "http://codecamp13.adnug.org/",
-  "thumbnail": "https://i.vimeocdn.com/video/484302932_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/484302932-8481a25c0f7049d390584dec7157ae5c4f957bf6a863b8d8387dab2b1bfe31ec-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/102320622.hd.mp4?s=3b3b4d9cfb822aaf7c7bab814ea1b334fd64adf6&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/102320622.sd.mp4?s=1055c8e2b97d40e060fadbf969b7bd5d2b6d27f2&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 600,

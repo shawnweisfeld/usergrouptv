@@ -12,7 +12,7 @@
     {
       "title": "Unit Testing",
       "slug": "unit-testing",
-      "thumbnail": "https://i.vimeocdn.com/video/561300448_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/561300448-b8161a323839737cf581cb78fe1207146437f173428736fba338229f30bc5c13-d_295x166",
       "date": "2016-03-14T18:34:17",
       "meetups": [
         {

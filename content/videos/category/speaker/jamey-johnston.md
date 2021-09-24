@@ -12,7 +12,7 @@
     {
       "title": "Enterprise Row Level Security in SQL Server and Power BI",
       "slug": "enterprise-row-level-security-in-sql-server-and-power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/719328503_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/719328503-aa0ffded11e238b5f655d0d8a0fc3e8134cc748dba6b8a4308036a2e47f21e8e-d_295x166",
       "date": "2018-08-11T15:56:58",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Code Like a Pirate ... Intro to R and Data Science Tools in MS",
       "slug": "code-like-a-pirate-intro-to-r-and-data-science-tools-in-ms",
-      "thumbnail": "https://i.vimeocdn.com/video/719328131_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/719328131-e5fcee097fcda6bceee31676f7c0baba829bea657b63cb5f93bcc1306e49cb4a-d_295x166",
       "date": "2018-08-11T15:55:45",
       "meetups": [
         {
@@ -48,7 +48,7 @@
     {
       "title": "Enterprise Row Level Security in SQL Server 2016 and Azure SQL DB",
       "slug": "enterprise-row-level-security-in-sql-server-2016-and-azure-sql-db",
-      "thumbnail": "https://i.vimeocdn.com/video/587192797_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/587192797-7c47e2f7215ad20a75acb535e06823a4eaca7fb46667d54d286c693b66d86b3f-d_295x166",
       "date": "2016-08-13T15:03:03",
       "meetups": [
         {

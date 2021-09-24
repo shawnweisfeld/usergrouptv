@@ -10,11 +10,11 @@
   "abstract": "<p>You have a tremendous opportunity to build your personal brand. It doesn't matter if you work for a large corporation, or as an independent consultant. In this session, I'll walk you through how to leverage the learnings I've made while building my Guy in a Cube brand. Take an inside look at how I think about our content and how you can use that to gain attention to your brand!\r\n</p>",
   "description": "<p>You have a tremendous opportunity to build your personal brand. It doesn't matter if you work for a large corporation, or as an independent consultant. In this session, I'll walk you through how to leverage the learnings I've made while building my Guy in a Cube brand. Take an inside look at how I think about our content and how you can use that to gain attention to your brand!\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/709492162_295x166.jpg"
+    "https://i.vimeocdn.com/video/709492162-105379b260e35af1860572ebaf51dc12a5ea1558413ccf1cc866b85f4d810710-d_295x166"
   ],
   "vimeo": "276868594",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=80502",
-  "thumbnail": "https://i.vimeocdn.com/video/709492162_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/709492162-105379b260e35af1860572ebaf51dc12a5ea1558413ccf1cc866b85f4d810710-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/276868594.hd.mp4?s=2dc56e8e302b1a6d7a50d91d5a6aab48fe397cb3&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/276868594.sd.mp4?s=6f609fff6f6379557bc926e34c10d4febfe32d0c&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 406,

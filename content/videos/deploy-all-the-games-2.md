@@ -10,11 +10,11 @@
   "abstract": "<p>Come see how you can use Unity3D toolset to build and deploy your game to ALL THE DEVICES!. New devices do not need ports from scratch anymore, its the 21st Century.</p>\r\n<p>We will explore how to deal with differing form factors, pixel densities, graphics support, input systems and other multi platform madness.</p>\r\n<p>It can be done. It’s not too hard.</p>",
   "description": "<p>Come see how you can use Unity3D toolset to build and deploy your game to ALL THE DEVICES!. New devices do not need ports from scratch anymore, its the 21st Century.</p>\r\n<p>We will explore how to deal with differing form factors, pixel densities, graphics support, input systems and other multi platform madness.</p>\r\n<p>It can be done. It’s not too hard.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/490860700_295x166.jpg"
+    "https://i.vimeocdn.com/video/490860700-6a5fd2de92f0d989d314ad69f799172945e6b3d98cb31f4d82de940641e81440-d_295x166"
   ],
   "vimeo": "107458125",
   "moreinfo": "http://lrtechfest.com/speakers#adam-hill",
-  "thumbnail": "https://i.vimeocdn.com/video/490860700_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/490860700-6a5fd2de92f0d989d314ad69f799172945e6b3d98cb31f4d82de940641e81440-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/107458125.hd.mp4?s=f6534effae2e0e82919726385232d7c340a62521&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/107458125.sd.mp4?s=7f989cebaf952f255f926d489d2516e4fbf6a209&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 979,

@@ -10,11 +10,11 @@
   "abstract": "<p>Using SharePoing Designer 2010 and its out-of-the-box workflow features, we'll cobble together a real-world solution. This solution will use SharePoint 2010, customized InfoPath forms and SharePoint Designer workflows to unleash the power of SharePoint to the beginner or intermediate business user.</p>",
   "description": "<p>Using SharePoing Designer 2010 and its out-of-the-box workflow features, we'll cobble together a real-world solution. This solution will use SharePoint 2010, customized InfoPath forms and SharePoint Designer workflows to unleash the power of SharePoint to the beginner or intermediate business user.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/495922033_295x166.jpg"
+    "https://i.vimeocdn.com/video/495922033-22381e4f2ecac8e6d9569536f04abc9e2ad54bcd6786ef3ffb77cdd6ab71599d-d_295x166"
   ],
   "vimeo": "111340843",
   "moreinfo": "http://dallastechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/495922033_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/495922033-22381e4f2ecac8e6d9569536f04abc9e2ad54bcd6786ef3ffb77cdd6ab71599d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/111340843.hd.mp4?s=d184d1025d241dfbebc1ead192dff953153b6f4a&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/111340843.sd.mp4?s=75ea6bb6106b692a4c7ddc2774c70cd1accce089&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 672,

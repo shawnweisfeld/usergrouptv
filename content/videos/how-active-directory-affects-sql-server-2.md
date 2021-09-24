@@ -11,11 +11,11 @@
   "abstract": "<p>If you have ever had a Kerberos or SSPI context error, then you won't want to miss this session. SQL Server has a large surface area and Active Directory can influence a big part of it. I will discuss AD DNS configuration, Group Policy Objects, Kerberos (of course), and how all of them affect your SQL Server. By the end of the session you'll have a check list of things to discuss with your domain administrator when you return to work.\r\n\r\n</p>",
   "description": "<p>If you have ever had a Kerberos or SSPI context error, then you won't want to miss this session. SQL Server has a large surface area and Active Directory can influence a big part of it. I will discuss AD DNS configuration, Group Policy Objects, Kerberos (of course), and how all of them affect your SQL Server. By the end of the session you'll have a check list of things to discuss with your domain administrator when you return to work.\r\n\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/505666855_295x166.jpg"
+    "https://i.vimeocdn.com/video/505666855-820fce567d77638820fab34d6f1ab49af8d1f24ea1a58271c9508f9372c8f663-d_295x166"
   ],
   "vimeo": "118594430",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=25949",
-  "thumbnail": "https://i.vimeocdn.com/video/505666855_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/505666855-820fce567d77638820fab34d6f1ab49af8d1f24ea1a58271c9508f9372c8f663-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/118594430.hd.mp4?s=128cc5c6a8204831b71ce68de6c8b080343e3465&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/118594430.sd.mp4?s=9e5e6d50ce3e4f6a8807ace257d3ba272ef558bd&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 835,

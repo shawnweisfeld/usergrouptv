@@ -11,11 +11,11 @@
   "abstract": null,
   "description": null,
   "images": [
-    "https://i.vimeocdn.com/video/598780341_295x166.jpg"
+    "https://i.vimeocdn.com/video/598780341-7cc7d768ec7f7c7c46adc307b4167e4f12df2ace2a91d716212d8db2cbe13e23-d_295x166"
   ],
   "vimeo": "188698636",
   "moreinfo": "https://www.meetup.com/azureaustin/events/234504314/",
-  "thumbnail": "https://i.vimeocdn.com/video/598780341_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/598780341-7cc7d768ec7f7c7c46adc307b4167e4f12df2ace2a91d716212d8db2cbe13e23-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/188698636.hd.mp4?s=3422f98db2e45cd6bea1e1d5c5be4b4c2a521195&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/188698636.sd.mp4?s=ef275c8e41cb2695e75e763e17fb8c91e69d4ad8&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 154,
@@ -67,7 +67,7 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 51
+      "count": 52
     }
   ]
 }

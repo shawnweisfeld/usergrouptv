@@ -10,11 +10,11 @@
   "abstract": "<p>As more data services come online in Microsoft Azure, DBAs are being tasked with bringing these services into their organizations.  Azure Databricks is one such service that has the appeal of combining scalable compute resources with collaborative development and analytic tools in Notebooks and workspaces.  To the traditional DBA, however, many of the concepts and language support may be foreign. What the heck is Scala anyway?  This session is designed to introduce the DBA to the Azure Databricks workspace and show how to easily integrate it with upstream and downstream services like Azure Data Factory and Machine Learning.</p>",
   "description": "<p>As more data services come online in Microsoft Azure, DBAs are being tasked with bringing these services into their organizations.  Azure Databricks is one such service that has the appeal of combining scalable compute resources with collaborative development and analytic tools in Notebooks and workspaces.  To the traditional DBA, however, many of the concepts and language support may be foreign. What the heck is Scala anyway?  This session is designed to introduce the DBA to the Azure Databricks workspace and show how to easily integrate it with upstream and downstream services like Azure Data Factory and Machine Learning.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/798963741_295x166.jpg"
+    "https://i.vimeocdn.com/video/798963741-2e8f9f26ca0969bb7269a1c4b9b3ce361b5eb2b13cfa62d49acca12592714eca-d_295x166"
   ],
   "vimeo": "348360180",
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=93870",
-  "thumbnail": "https://i.vimeocdn.com/video/798963741_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/798963741-2e8f9f26ca0969bb7269a1c4b9b3ce361b5eb2b13cfa62d49acca12592714eca-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/348360180.hd.mp4?s=3e08abcb49366c41794a2102786412889f49287f&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/348360180.sd.mp4?s=f11e1db06108de5fe2ce5b15f89e1a688c5210d7&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 275,

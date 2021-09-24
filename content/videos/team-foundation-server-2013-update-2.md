@@ -10,11 +10,11 @@
   "abstract": "<p>Team Foundations Server 2013 Update 2 introduces many enhancements to existing features. Work item tagging, backlog management, charting, web testing, Git, and more. We will discuss the changes in this update including demonstrations.</p>",
   "description": "<p>Team Foundations Server 2013 Update 2 introduces many enhancements to existing features. Work item tagging, backlog management, charting, web testing, Git, and more. We will discuss the changes in this update including demonstrations.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/482027494_295x166.jpg"
+    "https://i.vimeocdn.com/video/482027494-202187b80e4be902b6e470acb8b202312b753d0abbc0a53ad6ee436bc2d68daa-d_295x166"
   ],
   "vimeo": "100516595",
   "moreinfo": "https://sites.google.com/site/tfsaustinusergroup/",
-  "thumbnail": "https://i.vimeocdn.com/video/482027494_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/482027494-202187b80e4be902b6e470acb8b202312b753d0abbc0a53ad6ee436bc2d68daa-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/100516595.hd.mp4?s=677154e56987a8b3a58111e2b5f1d0fb2f6ffa1a&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/100516595.sd.mp4?s=b8e2a74c7d18af9c85a7786ec718adbda1c1a1f3&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 931,

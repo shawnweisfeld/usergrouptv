@@ -10,11 +10,11 @@
   "abstract": "<p>Loading from text files using BCP, parsing rows with cursors, temp tables, and crazy sub-queries!</p>",
   "description": "<p>Loading from text files using BCP, parsing rows with cursors, temp tables, and crazy sub-queries!</p>",
   "images": [
-    "https://i.vimeocdn.com/video/490859944_295x166.jpg"
+    "https://i.vimeocdn.com/video/490859944-64b63686f2aaa6830f5ac861ed3afefe481f03d0b76ff063718bc890bc7c472d-d_295x166"
   ],
   "vimeo": "107457573",
   "moreinfo": "http://lrtechfest.com/speakers#randy-walker",
-  "thumbnail": "https://i.vimeocdn.com/video/490859944_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/490859944-64b63686f2aaa6830f5ac861ed3afefe481f03d0b76ff063718bc890bc7c472d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/107457573.hd.mp4?s=1349bed45e64fbf567b46b2142a7768bf22e18d3&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/107457573.sd.mp4?s=bde4b398c75e6007e9e4e4a607f38b6ee85454b5&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 995,

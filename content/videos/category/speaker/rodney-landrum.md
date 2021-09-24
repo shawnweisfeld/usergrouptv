@@ -12,7 +12,7 @@
     {
       "title": "Azure Databricks (ADB) and the Traditional DBA",
       "slug": "azure-databricks-adb-and-the-traditional-dba",
-      "thumbnail": "https://i.vimeocdn.com/video/798963741_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/798963741-2e8f9f26ca0969bb7269a1c4b9b3ce361b5eb2b13cfa62d49acca12592714eca-d_295x166",
       "date": "2019-07-13T14:07:03",
       "meetups": [
         {

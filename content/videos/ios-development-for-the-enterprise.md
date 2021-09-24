@@ -10,11 +10,11 @@
   "abstract": "<p>When most people think of iOS development, the natural assumption is Apple’s App Store. A lesser known option for development is enterprise or in-house development. In this session we will cover the unique considerations and advantages that enterprise development has. Since there is no review and approval process, we will learn that with great power comes great responsibility. Imagine creating your own “App Store” and distributing your apps to users that you get to interact with daily. We will also touch on some of the updated MDM services that Apple has rolled out and how they can make devices easy to manage. Get ready to see the fun world of enterprise app development!</p>",
   "description": "<p>When most people think of iOS development, the natural assumption is Apple’s App Store. A lesser known option for development is enterprise or in-house development. In this session we will cover the unique considerations and advantages that enterprise development has. Since there is no review and approval process, we will learn that with great power comes great responsibility. Imagine creating your own “App Store” and distributing your apps to users that you get to interact with daily. We will also touch on some of the updated MDM services that Apple has rolled out and how they can make devices easy to manage. Get ready to see the fun world of enterprise app development!</p>",
   "images": [
-    "https://i.vimeocdn.com/video/491229077_295x166.jpg"
+    "https://i.vimeocdn.com/video/491229077-2ca1689cc1b93398d5eadb55d66816f77d27b27a3c89a0b93431256564c78797-d_295x166"
   ],
   "vimeo": "107745935",
   "moreinfo": "http://lrtechfest.com/speakers#lj-wilson",
-  "thumbnail": "https://i.vimeocdn.com/video/491229077_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/491229077-2ca1689cc1b93398d5eadb55d66816f77d27b27a3c89a0b93431256564c78797-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/107745935.hd.mp4?s=422dcb7a3aee04d2212d9f1fe3d6d91fa9cdf86a&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/107745935.sd.mp4?s=97dcece921b6d6a3ef653bb05143cf3b7890cd09&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 974,

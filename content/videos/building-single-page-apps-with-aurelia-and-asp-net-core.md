@@ -12,11 +12,11 @@
   "abstract": "<p>These days, the SPA framework space is crowded. Aurelia stands out from its contemporaries in a few important ways. Creating components using vanilla Javascript classes, leveraging convention to minimize development overhead, and future-proofing for upcoming technologies like Web Components are just a few of the advantages Aurelia offers. Come see how you can easily use Aurelia to create great single-page apps backed by the latest ASP.NET backend. We'll cover data binding, templating, dependency injection, custom HTML elements, and more.</p>",
   "description": "<p>These days, the SPA framework space is crowded. Aurelia stands out from its contemporaries in a few important ways. Creating components using vanilla Javascript classes, leveraging convention to minimize development overhead, and future-proofing for upcoming technologies like Web Components are just a few of the advantages Aurelia offers. Come see how you can easily use Aurelia to create great single-page apps backed by the latest ASP.NET backend. We'll cover data binding, templating, dependency injection, custom HTML elements, and more.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/593960776_295x166.jpg"
+    "https://i.vimeocdn.com/video/593960776-54789b1dc4408c69522ef4b90f112a2072693ad3119e77fcc091f78662f04756-d_295x166"
   ],
   "vimeo": "184506479",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
-  "thumbnail": "https://i.vimeocdn.com/video/593960776_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/593960776-54789b1dc4408c69522ef4b90f112a2072693ad3119e77fcc091f78662f04756-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/184506479.hd.mp4?s=b113ceb0b61fe2bf0392a745e5a1d53788d4860e&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/184506479.sd.mp4?s=44cdd2e4f99a5e7cffe455a4fd922c3cb57d1689&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 140,

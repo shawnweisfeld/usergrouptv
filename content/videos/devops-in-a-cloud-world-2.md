@@ -10,11 +10,11 @@
   "abstract": "<p>One of the key benefits of both the cloud and DevOps practices is the agility that they can provide. In this session we will combine both cloud and DevOps practices to build a complete pipeline for deploying a simple application. This will provide you a blueprint and techniques that you can use to increase the agility of your team.</p>",
   "description": "<p>One of the key benefits of both the cloud and DevOps practices is the agility that they can provide. In this session we will combine both cloud and DevOps practices to build a complete pipeline for deploying a simple application. This will provide you a blueprint and techniques that you can use to increase the agility of your team.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/752682612_295x166.jpg"
+    "https://i.vimeocdn.com/video/752682612-f7872d5d785527b6e3892a8abc84cac8059ec4eee7ecde1ce8c77ce318d44362-d_295x166"
   ],
   "vimeo": "311787811",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/257918359/",
-  "thumbnail": "https://i.vimeocdn.com/video/752682612_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/752682612-f7872d5d785527b6e3892a8abc84cac8059ec4eee7ecde1ce8c77ce318d44362-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/311787811.hd.mp4?s=1719984fe0c25119ee82ba587e41526d8c924768&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/311787811.sd.mp4?s=e4fcc56d73336d862e0c84aa33f530ca021e8db6&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 480,
@@ -37,7 +37,7 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 51
+      "count": 52
     },
     {
       "name": "Austin .NET UG",

@@ -10,11 +10,11 @@
   "abstract": "<p>Overview and Demo of T-SQL Windowing Functions: Row_Number, Rank, Dense_Rank, Lead, Lag, First_Value, Last_Value, Sum Over Partition</p>",
   "description": "<p>Overview and Demo of T-SQL Windowing Functions: Row_Number, Rank, Dense_Rank, Lead, Lag, First_Value, Last_Value, Sum Over Partition</p>",
   "images": [
-    "https://i.vimeocdn.com/video/673576571_295x166.jpg"
+    "https://i.vimeocdn.com/video/673576571-9c8fefddbe895ae75af165070445d78d3a7d4ddca4637aa949aa4f76d2947afd-d_295x166"
   ],
   "vimeo": "248137985",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/lzcdrmywqbzb/",
-  "thumbnail": "https://i.vimeocdn.com/video/673576571_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/673576571-9c8fefddbe895ae75af165070445d78d3a7d4ddca4637aa949aa4f76d2947afd-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/248137985.hd.mp4?s=bff31dbfd963657a4af21a33a385a887955e948b&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/248137985.sd.mp4?s=63804a7634624d3bafc73f79c887b25d7bc2b7dd&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 78,

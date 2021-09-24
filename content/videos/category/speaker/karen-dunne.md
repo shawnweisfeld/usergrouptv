@@ -12,7 +12,7 @@
     {
       "title": "Learn a repeatable home page structure that turns browsers into buyers",
       "slug": "learn-a-repeatable-home-page-structure-that-turns-browsers-into-buyers",
-      "thumbnail": "https://i.vimeocdn.com/video/818412599_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/818412599-c5c663ec6c48ee7e1201990b6ff77ba2d17e7da5479229cadc3087ebe82d78ac-d_295x166",
       "date": "2019-09-28T16:17:16",
       "meetups": [
         {

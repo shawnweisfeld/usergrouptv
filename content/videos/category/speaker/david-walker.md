@@ -12,7 +12,7 @@
     {
       "title": "Hard-Core Integration Intoxication",
       "slug": "hard-core-integration-intoxication",
-      "thumbnail": "https://i.vimeocdn.com/video/650632734_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/650632734-549127fe8eea7f29bce580b8f891778b78e52a24318ceb5fcd75c0e979d7a27b-d_295x166",
       "date": "2017-07-21T14:08:22",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Azure Machine Learning",
       "slug": "azure-machine-learning",
-      "thumbnail": "https://i.vimeocdn.com/video/511724609_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/511724609-99ddf8edfcca022c941d9550fca3b3dd67c37cb4b6186779e8a8f109eff358e9-d_295x166",
       "date": "2015-03-18T19:08:34",
       "meetups": [
         {
@@ -48,7 +48,7 @@
     {
       "title": "Feel the POWER of FAITH Driven Development",
       "slug": "feel-the-power-of-faith-driven-development",
-      "thumbnail": "https://i.vimeocdn.com/video/499118829_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/499118829-92d4deb94578572732cf9b76cf23cfd2dd848ea9613c3310a5b219bb981a86a2-d_295x166",
       "date": "2011-05-27T01:16:47",
       "meetups": [
         {

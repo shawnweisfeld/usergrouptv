@@ -10,11 +10,11 @@
   "abstract": "Designing software before writing a line of code, while not a new concept in today's world, for many developers it is a difficult concept to grasp. Developers are faced with difficult questions, such as which methodology to use? In this session we will discuss the benefits of Emergent Design and how we can approach software development, which will allow developers to work with the natural flow of the development process and let the design emerge as they go through that flow.",
   "description": "Designing software before writing a line of code, while not a new concept in today's world, for many developers it is a difficult concept to grasp. Developers are faced with difficult questions, such as which methodology to use? In this session we will discuss the benefits of Emergent Design and how we can approach software development, which will allow developers to work with the natural flow of the development process and let the design emerge as they go through that flow.",
   "images": [
-    "https://i.vimeocdn.com/video/488499701_295x166.jpg"
+    "https://i.vimeocdn.com/video/488499701-63b79f3d782b795ed6e632f191ffb6c09ba46f89f31a140d3ff8e2c54b19e12e-d_295x166"
   ],
   "vimeo": "105641111",
   "moreinfo": "http://www.ddnug.net/",
-  "thumbnail": "https://i.vimeocdn.com/video/488499701_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/488499701-63b79f3d782b795ed6e632f191ffb6c09ba46f89f31a140d3ff8e2c54b19e12e-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/105641111.hd.mp4?s=80afe48a4ddb43787ed4a21fc88fb782b3f79bcc&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/105641111.sd.mp4?s=eeefe656db6c69eab8695b645f0bb6524cd827e7&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 551,

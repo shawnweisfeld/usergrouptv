@@ -10,11 +10,11 @@
   "abstract": "<p>In this half-technical, half-philosophical talk, Udi will debunk many of the best practices in software, explain why Agile methodologies are failing in so many organizations, and describe some pretty important problems that many developers are totally oblivious of. You might not want to bring any non-technical managers with you to this talk – you’ll probably want some time to deal with these issues quietly before exposing these topics to upper management.\r\n</p>",
   "description": "<p>In this half-technical, half-philosophical talk, Udi will debunk many of the best practices in software, explain why Agile methodologies are failing in so many organizations, and describe some pretty important problems that many developers are totally oblivious of. You might not want to bring any non-technical managers with you to this talk – you’ll probably want some time to deal with these issues quietly before exposing these topics to upper management.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/485962451_295x166.jpg"
+    "https://i.vimeocdn.com/video/485962451-94e0a1d0633deac186c3e7900ee84bf4d596c3d7421fe404bdfea5aecd110910-d_295x166"
   ],
   "vimeo": "103660376",
   "moreinfo": "http://northdallas.net/meetings/how-can-so-many-have-been-so-wrong-about-so-much-for-so-long/",
-  "thumbnail": "https://i.vimeocdn.com/video/485962451_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/485962451-94e0a1d0633deac186c3e7900ee84bf4d596c3d7421fe404bdfea5aecd110910-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/103660376.hd.mp4?s=9ba0ffab129c7b9758eaf95c6a0457d8965169ef&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/103660376.sd.mp4?s=663061017abee6479f455af840854aa4ebb52e04&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 640,

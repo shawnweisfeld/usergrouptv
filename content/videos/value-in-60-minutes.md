@@ -10,11 +10,11 @@
   "abstract": "<p>Have you ever shuddered when your team informed you they would need a “Sprint 0” to setup the architecture of a project before they could begin to deliver value? Are you tired of re-writing the same standard plumbing code, again and again, whenever another project starts? Come discuss and learn about practices you can implement in your organization so that you can get down to real value in just 60 minutes.\r\n</p>",
   "description": "<p>Have you ever shuddered when your team informed you they would need a “Sprint 0” to setup the architecture of a project before they could begin to deliver value? Are you tired of re-writing the same standard plumbing code, again and again, whenever another project starts? Come discuss and learn about practices you can implement in your organization so that you can get down to real value in just 60 minutes.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/486704704_295x166.jpg"
+    "https://i.vimeocdn.com/video/486704704-89ed66aed080df82b39cbdb57ca07efb505d7f732941d1abf166923b072e70f5-d_295x166"
   ],
   "vimeo": "104228279",
   "moreinfo": "http://www.improvingenterprises.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/486704704_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/486704704-89ed66aed080df82b39cbdb57ca07efb505d7f732941d1abf166923b072e70f5-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/104228279.hd.mp4?s=59acbf1835ba4a1f20c2759a9ec41f2569337654&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/104228279.sd.mp4?s=76ed81591258882310ea241787c9c00dfd780f21&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 1011,

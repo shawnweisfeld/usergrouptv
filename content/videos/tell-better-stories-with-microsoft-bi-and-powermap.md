@@ -10,11 +10,11 @@
   "abstract": "<p>Storytelling seems to be a lost art form; in this fast-paced world people are more interested in getting as many bits of information as they can. But without a story, something to pull all the data together, the target audience will probably gloss over your message. Throwing a few numbers and charts at the reader has become pretty acceptable nowadays. But to make something truly memorable, and hopefully shared with someone else, you need some kind of story. You need something to tie it all together, to give it some meaning. That’s where Microsoft steps in with its latest addition to the Business Intelligence Analytics space with an add-in to Excel called PowerMap.</p>",
   "description": "<p>Storytelling seems to be a lost art form; in this fast-paced world people are more interested in getting as many bits of information as they can. But without a story, something to pull all the data together, the target audience will probably gloss over your message. Throwing a few numbers and charts at the reader has become pretty acceptable nowadays. But to make something truly memorable, and hopefully shared with someone else, you need some kind of story. You need something to tie it all together, to give it some meaning. That’s where Microsoft steps in with its latest addition to the Business Intelligence Analytics space with an add-in to Excel called PowerMap.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/482637298_295x166.jpg"
+    "https://i.vimeocdn.com/video/482637298-2e4b504e30cf13751c3dc4e9a5b949d7e0bf5fbe42e88dc8f17d9f3675f62e34-d_295x166"
   ],
   "vimeo": "100979151",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=305&sessionid=21704",
-  "thumbnail": "https://i.vimeocdn.com/video/482637298_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/482637298-2e4b504e30cf13751c3dc4e9a5b949d7e0bf5fbe42e88dc8f17d9f3675f62e34-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/100979151.hd.mp4?s=a19bfdf60947e12030b45212f18945ea74715a0d&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/100979151.sd.mp4?s=70a53bebb36910f5aeb54c4a73678881664d3332&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 904,

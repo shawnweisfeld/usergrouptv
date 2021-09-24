@@ -10,11 +10,11 @@
   "abstract": "<p>Integrating CSS into your ASP.NET web applications doesn’t have to be painful. Dave and Hugo demonstrate how to make it easier for you, and the Designers you work with, to use CSS and take your websites from “Meh...” to “Wow”!</p>",
   "description": "<p>Integrating CSS into your ASP.NET web applications doesn’t have to be painful. Dave and Hugo demonstrate how to make it easier for you, and the Designers you work with, to use CSS and take your websites from “Meh...” to “Wow”!</p>",
   "images": [
-    "https://i.vimeocdn.com/video/485960271_295x166.jpg"
+    "https://i.vimeocdn.com/video/485960271-b3c75ffd138a1bf95b790d15d64dfd94e457c66154de249b78848f65ed085d5d-d_295x166"
   ],
   "vimeo": "103658570",
   "moreinfo": "http://dallasasp.net/Meetings/3771.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/485960271_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/485960271-b3c75ffd138a1bf95b790d15d64dfd94e457c66154de249b78848f65ed085d5d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/103658570.hd.mp4?s=ac66ee32c74e8916ca1bbd3c4fb247bccd0b0c4b&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/103658570.sd.mp4?s=76fc7ebd628f90093183b699a7596ee6b0318b34&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 635,

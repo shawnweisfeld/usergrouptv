@@ -10,11 +10,11 @@
   "abstract": "<p>From details of private build, compilation, to automated tests, to database and data store configuration, custom software applications have common building blocks, and when the application is running Azure, the building blocks are known. There is a model that has emerged for continuous delivery. The relationships between the components are known. Each team implements this model according to the toolset and language of their software, but the model remains. This session reviews that model against several options for enabling a CI/CD pipeline to Azure with Azure DevOps Services and Octopus Deploy.</p>",
   "description": "<p>From details of private build, compilation, to automated tests, to database and data store configuration, custom software applications have common building blocks, and when the application is running Azure, the building blocks are known. There is a model that has emerged for continuous delivery. The relationships between the components are known. Each team implements this model according to the toolset and language of their software, but the model remains. This session reviews that model against several options for enabling a CI/CD pipeline to Azure with Azure DevOps Services and Octopus Deploy.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/731528333_295x166.jpg"
+    "https://i.vimeocdn.com/video/731528333-1798886c09a0dd03584fc1ea75d2b598fa2c50399a80a1fc1cd7e3b87598dfc8-d_295x166"
   ],
   "vimeo": "294593265",
   "moreinfo": "https://www.meetup.com/azureaustin/events/254663537/",
-  "thumbnail": "https://i.vimeocdn.com/video/731528333_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/731528333-1798886c09a0dd03584fc1ea75d2b598fa2c50399a80a1fc1cd7e3b87598dfc8-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/294593265.hd.mp4?s=85a712c6db6586181098511e123d479e3a9ed2a2&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/294593265.sd.mp4?s=f5ec8888a7bb795383019a640ab6436f1ebf7ea6&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 458,
@@ -37,7 +37,7 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 51
+      "count": 52
     }
   ]
 }

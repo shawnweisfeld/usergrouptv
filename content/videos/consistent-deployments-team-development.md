@@ -10,11 +10,11 @@
   "abstract": "<p>Unless you are developing code by yourself, you face challenges of working with several team members. Different people are changing code which affects the code someone else is working on. In addition, there will be teams working on different projects at the same time.  In the middle of the projects, an emergency fix needs to be deployed to Production. So where is the code, when do you shared it with others, when do you get the code that has been shared, where is the production code branch located.  How do I branch and when do merge? How do I get a release branch? Let me share with you how we are handling this area of DevOps.\r\n</p>",
   "description": "<p>Unless you are developing code by yourself, you face challenges of working with several team members. Different people are changing code which affects the code someone else is working on. In addition, there will be teams working on different projects at the same time.  In the middle of the projects, an emergency fix needs to be deployed to Production. So where is the code, when do you shared it with others, when do you get the code that has been shared, where is the production code branch located.  How do I branch and when do merge? How do I get a release branch? Let me share with you how we are handling this area of DevOps.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/709499118_295x166.jpg"
+    "https://i.vimeocdn.com/video/709499118-24c8227ef3e8377902424a8113a4eefe2295d889d3ea43c86d3aaff011e4a5bc-d_295x166"
   ],
   "vimeo": "276874039",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=82072",
-  "thumbnail": "https://i.vimeocdn.com/video/709499118_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/709499118-24c8227ef3e8377902424a8113a4eefe2295d889d3ea43c86d3aaff011e4a5bc-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/276874039.hd.mp4?s=19444f19126a29e87b6f56de969072a11757f243&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/276874039.sd.mp4?s=e9cc8ce9521871c63c392d5f007c995c35df247f&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 407,

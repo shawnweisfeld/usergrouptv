@@ -12,7 +12,7 @@
     {
       "title": "Orchestrate Containers with Azure Kubernetes Service",
       "slug": "orchestrate-containers-with-azure-kubernetes-service",
-      "thumbnail": "https://i.vimeocdn.com/video/760925456_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/760925456-e30491b0a9c2a745275b1e65043bf05e6be906cb2d47c8f7ffd9b98e5836b01e-d_295x166",
       "date": "2019-02-19T15:31:47",
       "meetups": [
         {

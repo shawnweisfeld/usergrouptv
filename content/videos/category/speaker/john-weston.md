@@ -12,7 +12,7 @@
     {
       "title": "Public Cloud, Private Cloud, Hybrid Cloud, What’s Really The Truth?",
       "slug": "public-cloud-private-cloud-hybrid-cloud-whats-really-the-truth",
-      "thumbnail": "https://i.vimeocdn.com/video/495920372_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/495920372-24e6e56cd318a0ab82e7a53a9016f4d2219ca07b04363ff47441502f3870cf94-d_295x166",
       "date": "2011-08-13T20:14:51",
       "meetups": [
         {

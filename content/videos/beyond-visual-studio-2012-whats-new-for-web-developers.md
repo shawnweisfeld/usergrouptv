@@ -11,11 +11,11 @@
   "abstract": "<p>If you think the HTML, CSS and JavaScript editor experiences in Visual Studio 2012 are awesome, then wait till you see what’s coming next. Join Mads as he shows some of the features that are coming to Visual Studio and get a sneak peek at some of the latest innovations and experiments that are currently under development by his team.</p>",
   "description": "<p>If you think the HTML, CSS and JavaScript editor experiences in Visual Studio 2012 are awesome, then wait till you see what’s coming next. Join Mads as he shows some of the features that are coming to Visual Studio and get a sneak peek at some of the latest innovations and experiments that are currently under development by his team.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/485084627_295x166.jpg"
+    "https://i.vimeocdn.com/video/485084627-a81b0e3bc8942097e68010a5172073a00e5eeab4dd4367ce52446d543e963322-d_295x166"
   ],
   "vimeo": "102965954",
   "moreinfo": "http://northdallas.net/",
-  "thumbnail": "https://i.vimeocdn.com/video/485084627_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/485084627-a81b0e3bc8942097e68010a5172073a00e5eeab4dd4367ce52446d543e963322-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/102965954.hd.mp4?s=bef2a9b674e29bdb9ce2335e7ddd9cddc18c4f3e&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/102965954.sd.mp4?s=5038c3ab2c667e9f64a7a77822cf1870d36e0fe0&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 590,

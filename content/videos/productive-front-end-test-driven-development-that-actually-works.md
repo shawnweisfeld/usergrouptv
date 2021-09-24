@@ -10,11 +10,11 @@
   "abstract": "<p>Often the phrase \"Rapid Application Development\" means writing code that is mostly meant to be thrown away, but does it have to? With Acceptance Testing and the right tooling, you can be confident that your productive and rapid application development workflow will live on and not break for years to come (yes YEARS). In this talk, we'll look at live coding a CRUD interface for a T-Shirt store fully test driven.We'll be using Ember, Ember CLI, Bulma, and QUnit as a base to confidently make the application.At the end, we will have a tested application with Continuous Integration on TravisCI and auto deployed to Surge.sh.</p>",
   "description": "<p>Often the phrase \"Rapid Application Development\" means writing code that is mostly meant to be thrown away, but does it have to? With Acceptance Testing and the right tooling, you can be confident that your productive and rapid application development workflow will live on and not break for years to come (yes YEARS). In this talk, we'll look at live coding a CRUD interface for a T-Shirt store fully test driven.We'll be using Ember, Ember CLI, Bulma, and QUnit as a base to confidently make the application.At the end, we will have a tested application with Continuous Integration on TravisCI and auto deployed to Surge.sh.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/660021162_295x166.jpg"
+    "https://i.vimeocdn.com/video/660021162-d527fac37fa638dc05f50c16c79e765297c8745d0d9f409532caf930e17b54da-d_295x166"
   ],
   "vimeo": "237568415",
   "moreinfo": "http://www.lrtechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/660021162_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/660021162-d527fac37fa638dc05f50c16c79e765297c8745d0d9f409532caf930e17b54da-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/237568415.hd.mp4?s=cd78c12ddaf871b23427adf76b7b766a9c3947c2&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/237568415.sd.mp4?s=0bc696b1d96bcca101502880f6ce510e5bc42a68&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 30,

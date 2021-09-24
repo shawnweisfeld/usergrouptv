@@ -12,7 +12,7 @@
     {
       "title": ".Net Nuggets - Houston Tech Fest Keynote",
       "slug": "net-nuggets-houston-tech-fest-keynote",
-      "thumbnail": "https://i.vimeocdn.com/video/495142844_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/495142844-b49abbb53d4fc2d6298213b50db804373994f17cc4d99a560ecd2a3170d80598-d_295x166",
       "date": "2011-10-15T03:09:29",
       "meetups": [
         {

@@ -11,11 +11,11 @@
   "abstract": "<p>Building websites has become more and more important for most businesses worldwide, and with the introduction of HTML 5 we now have more possibilities than ever. Join us on a journey through the features of the upcoming version of Microsoft ASP.NET and Visual Studio to get a sneak peek on the new abilities and tools needed to build modern websites.</p>",
   "description": "<p>Building websites has become more and more important for most businesses worldwide, and with the introduction of HTML 5 we now have more possibilities than ever. Join us on a journey through the features of the upcoming version of Microsoft ASP.NET and Visual Studio to get a sneak peek on the new abilities and tools needed to build modern websites.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/487544765_295x166.jpg"
+    "https://i.vimeocdn.com/video/487544765-5c2bce9ff4a7c073f36c826f16551342c3cb6a0c567f1972c892047cc889b861-d_295x166"
   ],
   "vimeo": "104887840",
   "moreinfo": "http://www.houstontechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/487544765_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/487544765-5c2bce9ff4a7c073f36c826f16551342c3cb6a0c567f1972c892047cc889b861-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/104887840.hd.mp4?s=09ef021c6f04c328afe9209e3a590283a518185d&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/104887840.sd.mp4?s=da39503379000a1d2a67f0ccc98a3f576ccf8365&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 621,

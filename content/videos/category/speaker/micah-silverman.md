@@ -12,7 +12,7 @@
     {
       "title": "SOLID Principles in Action: from Slack to Twilio",
       "slug": "solid-principles-in-action-from-slack-to-twilio",
-      "thumbnail": "https://i.vimeocdn.com/video/660013618_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/660013618-07c55312cbea6e37563fdb66dc889a7c2bf4522cdd3b939b11fdb7a0fa9c395e-d_295x166",
       "date": "2017-10-05T21:47:23",
       "meetups": [
         {

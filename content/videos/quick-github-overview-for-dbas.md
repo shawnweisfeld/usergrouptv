@@ -10,11 +10,11 @@
   "abstract": "<p>Quick GitHub overview for DBAs</p>",
   "description": "<p>Quick GitHub overview for DBAs</p>",
   "images": [
-    "https://i.vimeocdn.com/video/833796599_295x166.jpg"
+    "https://i.vimeocdn.com/video/833796599-eaadeac3b55b0d1f5733194c127aaee731b06f2fac6c88de284fa39a2f8c58f3-d_295x166"
   ],
   "vimeo": "375132455",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/pttzvqyzpbzb/",
-  "thumbnail": "https://i.vimeocdn.com/video/833796599_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/833796599-eaadeac3b55b0d1f5733194c127aaee731b06f2fac6c88de284fa39a2f8c58f3-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/375132455.hd.mp4?s=3c46a0026930e1f7388cea7d955f0974e5709d64&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/375132455.sd.mp4?s=9b23f802579cc9722a623a3636733f3ebc7d421a&profile_id=139&oauth2_token_id=20985841",
   "recordingID": 380,

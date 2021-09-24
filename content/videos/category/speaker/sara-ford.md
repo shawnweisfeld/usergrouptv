@@ -12,7 +12,7 @@
     {
       "title": "Mastering the Git porcelain commands",
       "slug": "mastering-the-git-porcelain-commands",
-      "thumbnail": "https://i.vimeocdn.com/video/927702077_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/927702077-c35657faa66e1a1358a7922e459f1fcfdc24272a10b215d9cf6cb51d9a7b2c83-d_295x166",
       "date": "2020-06-23T13:06:06",
       "meetups": [
         {

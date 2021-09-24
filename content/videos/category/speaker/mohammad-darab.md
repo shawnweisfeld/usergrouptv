@@ -12,7 +12,7 @@
     {
       "title": "3 Lessons Learned in Successful Consulting",
       "slug": "3-lessons-learned-in-successful-consulting",
-      "thumbnail": "https://i.vimeocdn.com/video/702681929_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/702681929-bc7f1a08fe58690b656105f0bbe41fec68781d2cd9e1a605584408c2d127639d-d_295x166",
       "date": "2018-05-19T23:07:04",
       "meetups": [
         {

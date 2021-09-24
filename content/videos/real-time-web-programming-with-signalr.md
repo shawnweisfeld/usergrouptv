@@ -10,11 +10,11 @@
   "abstract": "<p>Web programming has always been a one-way conversation; a client calls a server and the server sends a response. But what if you could go the other direction? What if your server could call your client directly? No more inefficient polling. No more waiting for the next server poll to get your data; the server sends it as soon as it has it. Using a variety of techniques behind the scenes to smooth over the rough edges of dealing with variously capable browsers and web servers, SignalR makes real-time client-server communication ridiculously easy. Come see how this new library opens up a ton of possibilities for interactive and collaborative web applications\r\n</p>",
   "description": "<p>Web programming has always been a one-way conversation; a client calls a server and the server sends a response. But what if you could go the other direction? What if your server could call your client directly? No more inefficient polling. No more waiting for the next server poll to get your data; the server sends it as soon as it has it. Using a variety of techniques behind the scenes to smooth over the rough edges of dealing with variously capable browsers and web servers, SignalR makes real-time client-server communication ridiculously easy. Come see how this new library opens up a ton of possibilities for interactive and collaborative web applications\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/485961809_295x166.jpg"
+    "https://i.vimeocdn.com/video/485961809-1a41f37769e438c6617b7891c87325ce504efa4240239cc9b8ed66c2dc96afa3-d_295x166"
   ],
   "vimeo": "103659750",
   "moreinfo": "http://dallas-csharp-sig.com/2012/12/10/dallas-c-sig-jan-meeting-real-time-web-programming-with-signalr/",
-  "thumbnail": "https://i.vimeocdn.com/video/485961809_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/485961809-1a41f37769e438c6617b7891c87325ce504efa4240239cc9b8ed66c2dc96afa3-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/103659750.hd.mp4?s=00b723e35801509b4d217ea49763b59339edde00&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/103659750.sd.mp4?s=4730fef2827eb66de20445032e09c5f15b1934fb&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 639,

@@ -12,7 +12,7 @@
     {
       "title": "A Discussion on DevOps ",
       "slug": "a-discussion-on-devops",
-      "thumbnail": "https://i.vimeocdn.com/video/540281229_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/540281229-8e0f1d756e56c41fa0445126e47b3d4fb4f5a646e237a6820cda085b8ef2d881-d_295x166",
       "date": "2015-10-16T02:06:00",
       "meetups": [
         {

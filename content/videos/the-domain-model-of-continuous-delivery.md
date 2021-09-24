@@ -10,11 +10,11 @@
   "abstract": "<p>With the publication of the DevOps Handbook (the yellow book), the software industry has an expanded body of knowledge on which practitioners may draw. Many successful software service and software product companies have innovated and shared their breakthroughs.  Now, just like at the time of the original Agile Manifesto, it is up to individual teams to adopt and adapt the learnings of others. From details of the compilation, to automated tests, to database and data store configuration, custom software applications have common building blocks.  There is a domain model that has emerged for continuous delivery. The relationships between the abstract types are known. Each team implements this model according to the toolset and language of their software, but the model remains. This session reviews that model in details as well as a reference implementation of it on the Microsoft platform.</p>",
   "description": "<p>With the publication of the DevOps Handbook (the yellow book), the software industry has an expanded body of knowledge on which practitioners may draw. Many successful software service and software product companies have innovated and shared their breakthroughs.  Now, just like at the time of the original Agile Manifesto, it is up to individual teams to adopt and adapt the learnings of others. From details of the compilation, to automated tests, to database and data store configuration, custom software applications have common building blocks.  There is a domain model that has emerged for continuous delivery. The relationships between the abstract types are known. Each team implements this model according to the toolset and language of their software, but the model remains. This session reviews that model in details as well as a reference implementation of it on the Microsoft platform.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/696175471_295x166.jpg"
+    "https://i.vimeocdn.com/video/696175471-4ede947a63dda47ae75cabc9bf813dd500243090558393721c6c5e65de8c38a9-d_295x166"
   ],
   "vimeo": "266022140",
   "moreinfo": "https://global.azurebootcamp.net/locations/gobal-azure-boot-camp-2018-austin-tx/",
-  "thumbnail": "https://i.vimeocdn.com/video/696175471_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/696175471-4ede947a63dda47ae75cabc9bf813dd500243090558393721c6c5e65de8c38a9-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/266022140.hd.mp4?s=e0a5b939f1c7ed199699b0cda0ff472b745ece71&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/266022140.sd.mp4?s=b9623bdb048f5e0b957d7d52d99033ae06155466&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 93,

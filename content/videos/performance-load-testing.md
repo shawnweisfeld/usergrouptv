@@ -10,11 +10,11 @@
   "abstract": "<p>Agile teams can&rsquo;t afford to wait until the end of a project to worry about performance. A successful agile team knows that non-functional requirements are just as important as functional requirements and formulates a definition of done that takes those requirements into account. This session will discuss how load and performance testing fits within an agile project and how to use Visual Studio 2010 Ultimate to determine whether your application will withstand the load of a production environment.</p>\r\n<p>Topics Covered:</p>\r\n<ul>\r\n<li>Performance testing in an agile environment</li>\r\n<li>Formulating a performance testing plan</li>\r\n<li>Implementing load tests in Visual Studio 2010</li>\r\n<li>Evaluating load test results and behaviors</li>\r\n</ul>",
   "description": "<p>Agile teams can&rsquo;t afford to wait until the end of a project to worry about performance. A successful agile team knows that non-functional requirements are just as important as functional requirements and formulates a definition of done that takes those requirements into account. This session will discuss how load and performance testing fits within an agile project and how to use Visual Studio 2010 Ultimate to determine whether your application will withstand the load of a production environment.</p>\r\n<p>Topics Covered:</p>\r\n<ul>\r\n<li>Performance testing in an agile environment</li>\r\n<li>Formulating a performance testing plan</li>\r\n<li>Implementing load tests in Visual Studio 2010</li>\r\n<li>Evaluating load test results and behaviors</li>\r\n</ul>",
   "images": [
-    "https://i.vimeocdn.com/video/492570028_295x166.jpg"
+    "https://i.vimeocdn.com/video/492570028-e620c495a85cd97eb5a428d0850cab4498e0fd061893ed17bdba2dd2875c23c8-d_295x166"
   ],
   "vimeo": "108783685",
   "moreinfo": "http://www.improvingenterprises.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/492570028_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/492570028-e620c495a85cd97eb5a428d0850cab4498e0fd061893ed17bdba2dd2875c23c8-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/108783685.hd.mp4?s=91fd869993e0dacc8cc9e53cad300a72252c6976&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/108783685.sd.mp4?s=18a005ea8635497001946a9b96d03193802b1089&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 736,

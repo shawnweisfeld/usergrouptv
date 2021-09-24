@@ -10,11 +10,11 @@
   "abstract": "<p>As web developers, we know that SEO (Search Engine Optimization) is important when building a website. But what parts of SEO is important, and what parts of on-site SEO can be ignored? In this panel, we'll discuss search engine friendly websites, building sites with 'responsive design' and migrating sites from old an older CMS to WordPress.</p>\r\n<p>The focus will be primarily on on-site search engine optimization, and making websites are search engine friendly. We'll also discuss how to perform a search engine optimization audit of your own website, using several widely available tools. Some of the tools discussed will be website crawlers (you can crawl your own website and check for errors and common SEO problems) and using the data provided in Google Webmaster Tools and Bing Webmaster Tools.</p>",
   "description": "<p>As web developers, we know that SEO (Search Engine Optimization) is important when building a website. But what parts of SEO is important, and what parts of on-site SEO can be ignored? In this panel, we'll discuss search engine friendly websites, building sites with 'responsive design' and migrating sites from old an older CMS to WordPress.</p>\r\n<p>The focus will be primarily on on-site search engine optimization, and making websites are search engine friendly. We'll also discuss how to perform a search engine optimization audit of your own website, using several widely available tools. Some of the tools discussed will be website crawlers (you can crawl your own website and check for errors and common SEO problems) and using the data provided in Google Webmaster Tools and Bing Webmaster Tools.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/490860473_295x166.jpg"
+    "https://i.vimeocdn.com/video/490860473-abad7aa6814c8308921a0e13cc72d9d8d26b059f435fcde1af111a00cb15146f-d_295x166"
   ],
   "vimeo": "107457956",
   "moreinfo": "http://lrtechfest.com/speakers#bill-hartzer",
-  "thumbnail": "https://i.vimeocdn.com/video/490860473_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/490860473-abad7aa6814c8308921a0e13cc72d9d8d26b059f435fcde1af111a00cb15146f-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/107457956.hd.mp4?s=3986a14b313cf742828b1b6ccbf36483500eff69&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/107457956.sd.mp4?s=6e4e15a652ffca9211588e7425589ec63e8d4a05&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 978,

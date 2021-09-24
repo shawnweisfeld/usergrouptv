@@ -8,11 +8,11 @@
   "abstract": "<p>As developers, we all have our favorite utilities, some used occassionally and then there are others that we refuse to work without. We might not use all of them everyday, but a good developer should know his options when the need arises. In this session, we&rsquo;ll discuss the tools, tips and tricks that can make you much more productive as a .Net developer.</p>",
   "description": "<p>As developers, we all have our favorite utilities, some used occassionally and then there are others that we refuse to work without. We might not use all of them everyday, but a good developer should know his options when the need arises. In this session, we&rsquo;ll discuss the tools, tips and tricks that can make you much more productive as a .Net developer.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/492568863_295x166.jpg"
+    "https://i.vimeocdn.com/video/492568863-123f150468319204c32f934589e9330eb76cc68785ef22ba81da641fca3b4ffc-d_295x166"
   ],
   "vimeo": "108782839",
   "moreinfo": "http://www.improvingenterprises.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/492568863_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/492568863-123f150468319204c32f934589e9330eb76cc68785ef22ba81da641fca3b4ffc-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/108782839.hd.mp4?s=7451f16f603fd5523c4a262bbe11c4e275260f57&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/108782839.sd.mp4?s=aa4f14a4dba625c3314ef4db6ec8da7bc25177f6&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 734,

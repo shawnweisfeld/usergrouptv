@@ -10,11 +10,11 @@
   "abstract": "<p>In this session you will learn the best practices, tips and tricks on how to successfully use Azure SQL Database on production environments. You will learn how to monitor and improve Azure SQL Database query performance. I will cover how Microsoft CSS has been using Query Store, Extended Events, Azure SQL Database Advisor to help customers monitor and improve query response times when running their databases in the Microsoft Azure cloud. These learnings are all fruit of CSS support cases, and customer field engagements. This session includes several demos.</p>",
   "description": "<p>In this session you will learn the best practices, tips and tricks on how to successfully use Azure SQL Database on production environments. You will learn how to monitor and improve Azure SQL Database query performance. I will cover how Microsoft CSS has been using Query Store, Extended Events, Azure SQL Database Advisor to help customers monitor and improve query response times when running their databases in the Microsoft Azure cloud. These learnings are all fruit of CSS support cases, and customer field engagements. This session includes several demos.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/626869262_295x166.jpg"
+    "https://i.vimeocdn.com/video/626869262-f0c103cb0b8c2005d21c1d58f34b777604ab832f49871eee8487bc2df365873f-d_295x166"
   ],
   "vimeo": "210947611",
   "moreinfo": "http://www.sqlsaturday.com/603/Sessions/Details.aspx?sid=57101",
-  "thumbnail": "https://i.vimeocdn.com/video/626869262_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/626869262-f0c103cb0b8c2005d21c1d58f34b777604ab832f49871eee8487bc2df365873f-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/210947611.hd.mp4?s=0b31e77b445102d348bb8973193dffc3e440e4f2&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/210947611.sd.mp4?s=37a94ba6028e633c41f000c0d2765164dd21c652&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 240,

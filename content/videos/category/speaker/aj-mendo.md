@@ -12,7 +12,7 @@
     {
       "title": "DBA Survival Guide: Daily Checklist and Server Monitoring",
       "slug": "dba-survival-guide-daily-checklist-and-server-monitoring",
-      "thumbnail": "https://i.vimeocdn.com/video/561392072_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/561392072-a8a4d429119f00839cb29b3037b29c0bf13ec2a87766a6e5ff80e9c1f4b18664-d_295x166",
       "date": "2016-02-16T13:33:02",
       "meetups": [
         {

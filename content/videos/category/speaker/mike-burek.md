@@ -12,7 +12,7 @@
     {
       "title": "How and Where to Practice Writing Queries",
       "slug": "how-and-where-to-practice-writing-queries",
-      "thumbnail": "https://i.vimeocdn.com/video/1221979479_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1221979479-19a2b6ea9dab28d17b337d4abafac963787dbed61c0f857996f9c405135f2d56-d_295x166",
       "date": "2021-08-17T00:00:00",
       "meetups": [
         {
@@ -34,7 +34,7 @@
     {
       "title": "DBA Fired by the PowerShell Wiz",
       "slug": "dba-fired-by-the-powershell-wiz",
-      "thumbnail": "https://i.vimeocdn.com/video/1195699085_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1195699085-faab9d9f165de121fc99ce499b423f95f96dc93a0fc2c1bf395e5c8d8742287f-d_295x166",
       "date": "2021-07-20T00:00:00",
       "meetups": [
         {
@@ -60,7 +60,7 @@
     {
       "title": "The CASE statement",
       "slug": "the-case-statement",
-      "thumbnail": "https://i.vimeocdn.com/video/1168688602_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1168688602-f0ca057b08c550227c40304be0d538166d0555dc1b7fb17dc55b4d6d8f627e70-d_295x166",
       "date": "2021-06-16T00:00:00",
       "meetups": [
         {
@@ -78,7 +78,7 @@
     {
       "title": "Insights from Tech Hiring Managers",
       "slug": "insights-from-tech-hiring-managers",
-      "thumbnail": "https://i.vimeocdn.com/video/824337184_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/824337184-630f1d286b62ea3a9ccd62a0f29d17ef5c70d38349683e1718f6054aa7cbda7c-d_295x166",
       "date": "2019-10-15T15:09:32",
       "meetups": [
         {
@@ -96,7 +96,7 @@
     {
       "title": "SQL Server 2019 New Features",
       "slug": "sql-server-2019-new-features",
-      "thumbnail": "https://i.vimeocdn.com/video/769268281_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/769268281-738e457c9f29dd96b92cb4bac7875d24fbdf8e8951ed61aa393a8339e89057e1-d_295x166",
       "date": "2019-03-19T16:24:05",
       "meetups": [
         {
@@ -114,7 +114,7 @@
     {
       "title": "What can Python in SQL Server do for you?",
       "slug": "what-can-python-in-sql-server-do-for-you",
-      "thumbnail": "https://i.vimeocdn.com/video/726721101_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/726721101-858e6a633cecdcd6e59f1e70013b8609f4837fe1aaa8acddd2e25b0cf601149c-d_295x166",
       "date": "2018-09-18T23:10:26",
       "meetups": [
         {
@@ -132,7 +132,7 @@
     {
       "title": "T-SQL Windowing Functions",
       "slug": "t-sql-windowing-functions",
-      "thumbnail": "https://i.vimeocdn.com/video/673576571_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/673576571-9c8fefddbe895ae75af165070445d78d3a7d4ddca4637aa949aa4f76d2947afd-d_295x166",
       "date": "2017-12-19T13:08:16",
       "meetups": [
         {

@@ -12,7 +12,7 @@
     {
       "title": "Microservices , Containers, Devops and Kubernetes in Azure Cloud ",
       "slug": "microservices-containers-devops-and-kubernetes-in-azure-cloud",
-      "thumbnail": "https://i.vimeocdn.com/video/696159574_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/696159574-e24e608cad132e42545a7aec666005d41de33646079b175e8fcc487c506e7ad4-d_295x166",
       "date": "2018-04-21T13:08:30",
       "meetups": [
         {

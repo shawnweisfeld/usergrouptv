@@ -10,11 +10,11 @@
   "abstract": "",
   "description": "",
   "images": [
-    "https://i.vimeocdn.com/video/634593156_295x166.jpg"
+    "https://i.vimeocdn.com/video/634593156-0e65af3560650ce1dc2869cfe78a964435027a85683568349a9a16030d589757-d_295x166"
   ],
   "vimeo": "217392644",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/236857555/",
-  "thumbnail": "https://i.vimeocdn.com/video/634593156_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/634593156-0e65af3560650ce1dc2869cfe78a964435027a85683568349a9a16030d589757-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/217392644.hd.mp4?s=eb5d29c1c061931f1d4642d9fd9f48c6563a93a3&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/217392644.sd.mp4?s=63659698704f6175747fa46865629f8bfabd7a0b&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 255,

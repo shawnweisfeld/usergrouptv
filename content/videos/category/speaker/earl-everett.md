@@ -12,7 +12,7 @@
     {
       "title": "Value Stream Mapping: Seeing and Improving Your Product Flow and Process",
       "slug": "value-stream-mapping-seeing-and-improving-your-product-flow-and-process",
-      "thumbnail": "https://i.vimeocdn.com/video/820030814_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/820030814-d292855dfa32e77a2a13359730e02e17e5e54c122164085a9fdbe01258d024d1-d_295x166",
       "date": "2019-10-04T16:42:30",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Are We Done Yet?",
       "slug": "are-we-done-yet",
-      "thumbnail": "https://i.vimeocdn.com/video/703378800_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/703378800-ec569a67baaa6668fb2f2fca7811c5259292cbe497b3cba0688cb6d14f747b16-d_295x166",
       "date": "2018-05-24T16:37:01",
       "meetups": [
         {

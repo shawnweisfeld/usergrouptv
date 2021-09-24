@@ -10,11 +10,11 @@
   "abstract": "<p>In this session we will go over some of the details of the federated model and explore the implementation steps required to leverage a federated model in your Azure application. We will build a simple application, secure it with the federated model and use a SignalR enabled monitoring tool to see the security behavior in action.</p>",
   "description": "<p>In this session we will go over some of the details of the federated model and explore the implementation steps required to leverage a federated model in your Azure application. We will build a simple application, secure it with the federated model and use a SignalR enabled monitoring tool to see the security behavior in action.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/487540064_295x166.jpg"
+    "https://i.vimeocdn.com/video/487540064-5b8e0bf7f0fd6f599e38ca0faa5694aea037f4dc90092e4046ed9cc44ec7307b-d_295x166"
   ],
   "vimeo": "104884053",
   "moreinfo": "http://www.houstontechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/487540064_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/487540064-5b8e0bf7f0fd6f599e38ca0faa5694aea037f4dc90092e4046ed9cc44ec7307b-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/104884053.hd.mp4?s=869c249f4b8a063b032a05fa325e414a71ca2bd9&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/104884053.sd.mp4?s=37b469041b1dee16bd4989ae4f551d0ec76951ee&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 620,

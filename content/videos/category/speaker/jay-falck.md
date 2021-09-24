@@ -12,7 +12,7 @@
     {
       "title": "Setting up a test lab with Hyper-V",
       "slug": "setting-up-a-test-lab-with-hyper-v",
-      "thumbnail": "https://i.vimeocdn.com/video/842319677_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/842319677-17c7d798238caec91735d1ebc9a787a5ba47dfaa50185c4080f5b2967b0b1be4-d_295x166",
       "date": "2019-12-07T19:21:50",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Introduction to Linux for SQL Server Professionals",
       "slug": "introduction-to-linux-for-sql-server-professionals",
-      "thumbnail": "https://i.vimeocdn.com/video/709499260_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/709499260-7372af8328e48e790fd0fbc689758a73d2bed476df5c1c2c81c135773d8e9276-d_295x166",
       "date": "2018-06-23T19:57:05",
       "meetups": [
         {
@@ -48,7 +48,7 @@
     {
       "title": "ETL The Old Fashioned Way ",
       "slug": "etl-the-old-fashioned-way",
-      "thumbnail": "https://i.vimeocdn.com/video/641739577_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/641739577-70f27ebdd91da644985709480da8b929b0e10a5d97b6a2249d5bccd88bbfc785-d_295x166",
       "date": "2017-06-20T22:06:47",
       "meetups": [
         {

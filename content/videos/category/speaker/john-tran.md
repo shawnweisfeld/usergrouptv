@@ -12,7 +12,7 @@
     {
       "title": "Intro to Power BI, Pros and Cons",
       "slug": "intro-to-power-bi-pros-and-cons",
-      "thumbnail": "https://i.vimeocdn.com/video/778862340_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/778862340-9114141d41d530f35d33fc74e35bb7f23bfa5618b9f87a80394e342cfd90101b-d_295x166",
       "date": "2019-04-16T13:35:56",
       "meetups": [
         {

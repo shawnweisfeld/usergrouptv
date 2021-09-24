@@ -11,11 +11,11 @@
   "abstract": "<p>Now that TFS 2013 supports Git there is a need to replicate on top of this new storage infrastructure the same kind automation that has been well known to TFS users for the past 8 years, for instance, build scripts and other administrative operations so that you can transparently access the repos, the same you can do with TFS Source Control. This talk explores some of the existing options, plus how-tos with code samples, and gotchas.  </p>",
   "description": "<p>Now that TFS 2013 supports Git there is a need to replicate on top of this new storage infrastructure the same kind automation that has been well known to TFS users for the past 8 years, for instance, build scripts and other administrative operations so that you can transparently access the repos, the same you can do with TFS Source Control. This talk explores some of the existing options, plus how-tos with code samples, and gotchas.  </p>",
   "images": [
-    "https://i.vimeocdn.com/video/482640523_295x166.jpg"
+    "https://i.vimeocdn.com/video/482640523-765a109a2fa8312297e7ecf8e10c33298c2298ca4d9edde2117ae4b01ad57210-d_295x166"
   ],
   "vimeo": "100981749",
   "moreinfo": "https://sites.google.com/site/tfsaustinusergroup/project-updates/accessingatfsgitrepoprogrammatically",
-  "thumbnail": "https://i.vimeocdn.com/video/482640523_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/482640523-765a109a2fa8312297e7ecf8e10c33298c2298ca4d9edde2117ae4b01ad57210-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/100981749.hd.mp4?s=ab33a52da56928f139f2cc20fff08b2c78e8da2d&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/100981749.sd.mp4?s=e73157d99908d778c8d92aabb0f418b2ace42ee1&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 934,

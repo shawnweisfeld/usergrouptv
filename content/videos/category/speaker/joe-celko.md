@@ -12,7 +12,7 @@
     {
       "title": "Scales, Measurements and Encoding Schemes",
       "slug": "scales-measurements-and-encoding-schemes",
-      "thumbnail": "https://i.vimeocdn.com/video/798800080_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/798800080-8dcfc95367686d0ed661c9c97d4be49fb3c228f47958a67d298bd074dbcc442f-d_295x166",
       "date": "2019-07-13T13:58:57",
       "meetups": [
         {

@@ -10,11 +10,11 @@
   "abstract": "<p>This month is FAKE 5 and some nice new features that make it more than just a build tool.</p>",
   "description": "<p>This month is FAKE 5 and some nice new features that make it more than just a build tool.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/739822130_295x166.jpg"
+    "https://i.vimeocdn.com/video/739822130-0d52f7cfdd5f8b7ce67244543f248785c9bafab98736404b29e12214614736b1-d_295x166"
   ],
   "vimeo": "301295483",
   "moreinfo": "https://www.meetup.com/Austin-F-Meetup/events/rrrbjqyxpbtb/",
-  "thumbnail": "https://i.vimeocdn.com/video/739822130_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/739822130-0d52f7cfdd5f8b7ce67244543f248785c9bafab98736404b29e12214614736b1-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/301295483.hd.mp4?s=61ec962e904020fb17f85ac8aae22076ffa4882a&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/301295483.sd.mp4?s=91f4c8434c62b989610c37b2ba7f38e3c517fbf6&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 477,

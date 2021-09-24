@@ -12,7 +12,7 @@
     {
       "title": "An Introduction to AngularJS Forms Validation",
       "slug": "an-introduction-to-angularjs-forms-validation",
-      "thumbnail": "https://i.vimeocdn.com/video/481964618_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/481964618-763840b84fed7c4b4d5fea55c82f8753f7177ba49ea8825c5d923b0d953bd0da-d_295x166",
       "date": "2014-06-14T11:02:26",
       "meetups": [
         {

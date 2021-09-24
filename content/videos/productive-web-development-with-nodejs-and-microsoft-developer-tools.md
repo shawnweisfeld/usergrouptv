@@ -10,11 +10,11 @@
   "abstract": "<p>Did you know how productive you can be as a NodeJS developer on Windows 10? This fast-paced tips, tricks, and practices session walks you through some of the best and most interesting integrations with Visual Studio Code, Windows, and NodeJS, that will be sure to raise your developer productivity and enjoyment.</p>",
   "description": "<p>Did you know how productive you can be as a NodeJS developer on Windows 10? This fast-paced tips, tricks, and practices session walks you through some of the best and most interesting integrations with Visual Studio Code, Windows, and NodeJS, that will be sure to raise your developer productivity and enjoyment.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/796753511_295x166.jpg"
+    "https://i.vimeocdn.com/video/796753511-8365c3446c368d2ce78fceab995899905d0a015902c186c5211cfa4af2164a90-d_295x166"
   ],
   "vimeo": "346640553",
   "moreinfo": "https://developer.microsoft.com/en-us/windows/campaigns/us-tx-dallas",
-  "thumbnail": "https://i.vimeocdn.com/video/796753511_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/796753511-8365c3446c368d2ce78fceab995899905d0a015902c186c5211cfa4af2164a90-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/346640553.hd.mp4?s=eaeeb9dd9ae3e86ba38638f7243826a348d9ef13&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/346640553.sd.mp4?s=cd9006d39d1fde095745972550d544badd47f62a&profile_id=139&oauth2_token_id=20985841",
   "recordingID": 317,

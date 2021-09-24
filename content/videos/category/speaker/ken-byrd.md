@@ -12,7 +12,7 @@
     {
       "title": "Just JavaScript",
       "slug": "just-javascript",
-      "thumbnail": "https://i.vimeocdn.com/video/490126580_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/490126580-8cfdac157194bbc5762d49a778f8b92c5b4461f55b2a062d1e780456dc2bd9d5-d_295x166",
       "date": "2012-05-24T11:20:32",
       "meetups": [
         {

@@ -12,7 +12,7 @@
     {
       "title": "One Band One Sound",
       "slug": "one-band-one-sound",
-      "thumbnail": "https://i.vimeocdn.com/video/1216459740_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1216459740-dd7c081acfd681496457af72337193a418e19f34e4a507f9bac0ecb9f3935aae-d_295x166",
       "date": "2021-08-12T00:00:00",
       "meetups": [
         {

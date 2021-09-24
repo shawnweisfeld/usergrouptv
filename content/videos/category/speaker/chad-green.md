@@ -12,7 +12,7 @@
     {
       "title": "Going Schema-less: How to migrate a relational database to a NoSQL database",
       "slug": "going-schemaless-how-to-migrate-a-relational-database-to-a-nosql-database",
-      "thumbnail": "https://i.vimeocdn.com/video/1205594992_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1205594992-45e2a444eb3219402d3fe3bf0f1098359fcb996de610804934b7e12496666eea-d_295x166",
       "date": "2021-07-27T00:00:00",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "How to be a Leader",
       "slug": "how-to-be-a-leader",
-      "thumbnail": "https://i.vimeocdn.com/video/1108602152_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/1108602152-a7c13afc2eea8242d364f51ebacfffaa5191b68154e35602af17ba2f9ddb4421-d_295x166",
       "date": "2021-04-08T00:00:00",
       "meetups": [
         {
@@ -48,7 +48,7 @@
     {
       "title": "The Hitchhiker's Guide to the Cosmos",
       "slug": "the-hitchhikers-guide-to-the-cosmos",
-      "thumbnail": "https://i.vimeocdn.com/video/1091600574_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/1091600574-d998b603994e12a4065835b017db3cdb9106da8028a0f5d668c5d868865028fe-d_295x166",
       "date": "2021-03-16T00:00:00",
       "meetups": [
         {
@@ -74,7 +74,7 @@
     {
       "title": "Building a .NET Application Using Azure Cosmos DB",
       "slug": "building-a-net-application-using-azure-cosmos-db-2",
-      "thumbnail": "https://i.vimeocdn.com/video/1084412342_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/1084412342-ef0ab8fb12d636d17ede566403755f5c1225f0119bddd03554a1d259cf56886e-d_295x166",
       "date": "2021-03-08T00:00:00",
       "meetups": [
         {
@@ -108,7 +108,7 @@
     {
       "title": "Event-Driven Architecture in the Cloud",
       "slug": "eventdriven-architecture-in-the-cloud",
-      "thumbnail": "https://i.vimeocdn.com/video/1016814023_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/1016814023-05908dca26a8520f04c4de134f4391f21774787c1bccd97b5299a8ee7a14c7e4-d_295x166",
       "date": "2020-12-15T00:00:00",
       "meetups": [
         {
@@ -134,7 +134,7 @@
     {
       "title": "Building a .NET Application Using Azure Cosmos DB",
       "slug": "building-a-net-application-using-azure-cosmos-db",
-      "thumbnail": "https://i.vimeocdn.com/video/994396316_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/994396316-ae3c00783688a2d2a3eef9da84fcae5924cecaae495a85cba30fb19260a986ce-d_295x166",
       "date": "2020-11-09T00:00:00",
       "meetups": [
         {

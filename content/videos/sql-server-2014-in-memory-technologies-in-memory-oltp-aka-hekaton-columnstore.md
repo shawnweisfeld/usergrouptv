@@ -10,11 +10,11 @@
   "abstract": "<p>With the advent of new hardware servers with hundreds of Gigabytes of RAM memory and incredibly faster CPUs with multi-core dies Microsoft has catapulted SQL Server above competitors with some new In Memory technologies. Did you ever want to have no locking, no blocking, no latch? For highly transactional systems, In Memory OLTP can boost performance 10x by hosting a table in memory and compiling the stored procedure in C code/DLL. Did you ever wanted to have queries return blazing fast for slow changing data? Updatable ColumnStore index allows for quick results to be returned as massive compression on the column exist and data is kept in RAM. Having participated in SQL14/Hekaton TAP, I'll be showing demo on both of these technologies, gotchas, best practices.\r\n</p>",
   "description": "<p>With the advent of new hardware servers with hundreds of Gigabytes of RAM memory and incredibly faster CPUs with multi-core dies Microsoft has catapulted SQL Server above competitors with some new In Memory technologies. Did you ever want to have no locking, no blocking, no latch? For highly transactional systems, In Memory OLTP can boost performance 10x by hosting a table in memory and compiling the stored procedure in C code/DLL. Did you ever wanted to have queries return blazing fast for slow changing data? Updatable ColumnStore index allows for quick results to be returned as massive compression on the column exist and data is kept in RAM. Having participated in SQL14/Hekaton TAP, I'll be showing demo on both of these technologies, gotchas, best practices.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/505669133_295x166.jpg"
+    "https://i.vimeocdn.com/video/505669133-4fab5af25ea78e29f94a7d7ad632dfb5952bd5f164f00cf61811f18c84ff7125-d_295x166"
   ],
   "vimeo": "118596087",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=25290",
-  "thumbnail": "https://i.vimeocdn.com/video/505669133_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/505669133-4fab5af25ea78e29f94a7d7ad632dfb5952bd5f164f00cf61811f18c84ff7125-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/118596087.hd.mp4?s=875353c126c5e05e075b6c7630957a32e31a171b&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/118596087.sd.mp4?s=16eb73b72933a016b2a90803fbbff5b1b20ed1a6&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 809,

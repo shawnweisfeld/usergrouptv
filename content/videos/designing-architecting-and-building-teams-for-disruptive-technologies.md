@@ -10,11 +10,11 @@
   "abstract": "<p>In this session, we will cover the trends we are seeing among our Fortune 500 clients around disruptive technologies (microservices, AI, machine learning, no UI, AR, VR, IoT) and how they are designing for these new experiences to beat out their competition. We will also cover how to transform teams to ensure you have the talent to compete.</p>",
   "description": "<p>In this session, we will cover the trends we are seeing among our Fortune 500 clients around disruptive technologies (microservices, AI, machine learning, no UI, AR, VR, IoT) and how they are designing for these new experiences to beat out their competition. We will also cover how to transform teams to ensure you have the talent to compete.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/650784807_295x166.jpg"
+    "https://i.vimeocdn.com/video/650784807-786e006b5f85a41b41ccb011bd5a4777ba2207f4da439744cfecc1eb57b6033e-d_295x166"
   ],
   "vimeo": "230260497",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
-  "thumbnail": "https://i.vimeocdn.com/video/650784807_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/650784807-786e006b5f85a41b41ccb011bd5a4777ba2207f4da439744cfecc1eb57b6033e-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/230260497.hd.mp4?s=87786735c96002255219a855e3b55b3ba59a25a0&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/230260497.sd.mp4?s=e32201ac45e6e0ade4b3d926c545945bc2906c82&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 41,

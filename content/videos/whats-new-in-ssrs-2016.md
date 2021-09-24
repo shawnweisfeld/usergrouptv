@@ -10,11 +10,11 @@
   "abstract": "<p>It’s been 10 years SQL Server Reporting Services has been updated.  Hey Microsoft, what’s the hold up?  Well the wait is over.  Join me in this demo-heavy session where I will discuss and demonstrate all the new features of SSRS, from custom parameter layouts to pinning reports to Power BI.</p>",
   "description": "<p>It’s been 10 years SQL Server Reporting Services has been updated.  Hey Microsoft, what’s the hold up?  Well the wait is over.  Join me in this demo-heavy session where I will discuss and demonstrate all the new features of SSRS, from custom parameter layouts to pinning reports to Power BI.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/571063205_295x166.jpg"
+    "https://i.vimeocdn.com/video/571063205-1cb9de356ede43f7cae0ae6ac4ebf9f8d6a762cb0c3e9733430472880ca6a632-d_295x166"
   ],
   "vimeo": "166881952",
   "moreinfo": "http://www.sqlsaturday.com/514/Sessions/Details.aspx?sid=46875",
-  "thumbnail": "https://i.vimeocdn.com/video/571063205_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/571063205-1cb9de356ede43f7cae0ae6ac4ebf9f8d6a762cb0c3e9733430472880ca6a632-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/166881952.hd.mp4?s=54e847061c40cebcb04958877405ae5563f2c8b1&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/166881952.sd.mp4?s=40b51743aebfd79b64c0964b9d91debe5d5d8878&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 860,

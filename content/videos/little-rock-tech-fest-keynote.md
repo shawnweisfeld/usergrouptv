@@ -10,11 +10,11 @@
   "abstract": "<p>In the opening keynote from the 2015 Little Rock Tech Fest. Governor of Arkansas, Asa Hutchinson, speaks to computer science professionals and students about the importance of computer science to the future of Arkansas. Read more about the Governor's Computer Science Initiative <a href=\"http://governor.arkansas.gov/promises/computer-science/\">here</a></p>",
   "description": "<p>In the opening keynote from the 2015 Little Rock Tech Fest. Governor of Arkansas, Asa Hutchinson, speaks to computer science professionals and students about the importance of computer science to the future of Arkansas. Read more about the Governor's Computer Science Initiative <a href=\"http://governor.arkansas.gov/promises/computer-science/\">here</a></p>",
   "images": [
-    "https://i.vimeocdn.com/video/540279596_295x166.jpg"
+    "https://i.vimeocdn.com/video/540279596-822c517e70aa72dc1174c3f326b38369ac5f1b71de76a012737289db1b6049da-d_295x166"
   ],
   "vimeo": "142864954",
   "moreinfo": "http://lrtechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/540279596_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/540279596-822c517e70aa72dc1174c3f326b38369ac5f1b71de76a012737289db1b6049da-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/142864954.hd.mp4?s=ee93014846439568ec61fe3b4ecc19b335ddfedb&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/142864954.sd.mp4?s=ba8f55bdfc1703fc8a028c1a67025740d57f4a2c&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 852,

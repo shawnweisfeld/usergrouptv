@@ -12,7 +12,7 @@
     {
       "title": "The Best of SharePoint Conference 2011 - Coskun Cavusoglu",
       "slug": "the-best-of-sharepoint-conference-2011-coskun-cavusoglu",
-      "thumbnail": "https://i.vimeocdn.com/video/494180096_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/494180096-dd98735bef1035a4a7b3d3f3c318b1e41572ce22df328db86ac180ca79e33bf0-d_295x166",
       "date": "2011-11-03T14:06:42",
       "meetups": [
         {

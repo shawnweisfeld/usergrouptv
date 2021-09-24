@@ -12,7 +12,7 @@
     {
       "title": "The Bot Continuum and You",
       "slug": "the-bot-continuum-and-you",
-      "thumbnail": "https://i.vimeocdn.com/video/798691818_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/798691818-7328fbd4abfe3c1d7015906069b372e7d1eef58d8c72e55eea0ee1d8551e058a-d_295x166",
       "date": "2019-07-10T13:40:57",
       "meetups": [
         {

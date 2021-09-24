@@ -10,11 +10,11 @@
   "abstract": "<p>In this session, we will build out a multidimensional data cube based on ACH transaction data. The data will be approximately 25 million rows of data. Once we go over the design and load of the data cube, we will look at the data mining capability built into SQL Server to see what kind of insight we can get from the data using SQL Server-based tools. We are going to simulate the data that a financial institution would be receiving in direct deposits and other ACH type transactions. Remember, if your organization is using the enterprise version of SQL Server, all of the associated tools are free to install and use.</p>",
   "description": "<p>In this session, we will build out a multidimensional data cube based on ACH transaction data. The data will be approximately 25 million rows of data. Once we go over the design and load of the data cube, we will look at the data mining capability built into SQL Server to see what kind of insight we can get from the data using SQL Server-based tools. We are going to simulate the data that a financial institution would be receiving in direct deposits and other ACH type transactions. Remember, if your organization is using the enterprise version of SQL Server, all of the associated tools are free to install and use.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/798964104_295x166.jpg"
+    "https://i.vimeocdn.com/video/798964104-0d611439155564d1895dc7a29965af034f3e969889e3a4e881b027e1eb9ae24e-d_295x166"
   ],
   "vimeo": "348360491",
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=95705",
-  "thumbnail": "https://i.vimeocdn.com/video/798964104_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/798964104-0d611439155564d1895dc7a29965af034f3e969889e3a4e881b027e1eb9ae24e-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/348360491.hd.mp4?s=19ca42a783f913809df41d4b784e8adb8d9e273e&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/348360491.sd.mp4?s=c78730fa5d6760543d4e4b83fd172d1131bcfb76&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 277,

@@ -10,11 +10,11 @@
   "abstract": "<p>Scrum is the most popular Agile framework in the world for effective team collaboration on complex projects. Scrum provides a small set of rules that create just enough structure for teams to be able to focus their innovation. Scrum is optimized for teams for teams of 5 to 9 people. Making Scrum work with larger teams or in large enterprise environments brings its own set of challenges. This talk presents 3 patterns used on enterprise teams and the lessons learned in practice at a global software company to scale Scrum effectively with global teams.</p>",
   "description": "<p>Scrum is the most popular Agile framework in the world for effective team collaboration on complex projects. Scrum provides a small set of rules that create just enough structure for teams to be able to focus their innovation. Scrum is optimized for teams for teams of 5 to 9 people. Making Scrum work with larger teams or in large enterprise environments brings its own set of challenges. This talk presents 3 patterns used on enterprise teams and the lessons learned in practice at a global software company to scale Scrum effectively with global teams.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/496721608_295x166.jpg"
+    "https://i.vimeocdn.com/video/496721608-0431744083adb5b676c6d65090870ad92c2b3772b7ef7141fbac3652c8155a49-d_295x166"
   ],
   "vimeo": "111927352",
   "moreinfo": "http://www.agiledotnet.com",
-  "thumbnail": "https://i.vimeocdn.com/video/496721608_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/496721608-0431744083adb5b676c6d65090870ad92c2b3772b7ef7141fbac3652c8155a49-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/111927352.hd.mp4?s=7d3967dce340989e2a1ed0d39d2dcc79060360a0&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/111927352.sd.mp4?s=bae0656e16669f118fcc67771d50eb8c89d8cfe4&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 556,

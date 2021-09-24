@@ -10,11 +10,11 @@
   "abstract": "<p>Our industry has convinced our customers (end users) to accept CRUDy systems, when they really are in need of task and behavior based systems. In this talk, we'll review how we got here, and how we can design our systems from the beginning to get at the heart of what the users really need. An introduction of the architectural pattern of CQRS will follow along with a discussion of its business and technical benefits.</p>",
   "description": "<p>Our industry has convinced our customers (end users) to accept CRUDy systems, when they really are in need of task and behavior based systems. In this talk, we'll review how we got here, and how we can design our systems from the beginning to get at the heart of what the users really need. An introduction of the architectural pattern of CQRS will follow along with a discussion of its business and technical benefits.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/534899363_295x166.jpg"
+    "https://i.vimeocdn.com/video/534899363-ec99c345f50cc95e1282f994046a747cb8c9f7ce42f644bb512d96a5275381f8-d_295x166"
   ],
   "vimeo": "139191915",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda",
-  "thumbnail": "https://i.vimeocdn.com/video/534899363_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/534899363-ec99c345f50cc95e1282f994046a747cb8c9f7ce42f644bb512d96a5275381f8-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/139191915.hd.mp4?s=ca97cabbb5a664401e7a72ba95cc25e06359ed53&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/139191915.sd.mp4?s=eaa16cf38afe3a95f32c7fdec5234013820a8b85&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 801,

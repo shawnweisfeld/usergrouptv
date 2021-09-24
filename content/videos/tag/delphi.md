@@ -11,7 +11,7 @@
     {
       "title": "Cross platform mobile development with Delphi",
       "slug": "cross-platform-mobile-development-with-delphi",
-      "thumbnail": "https://i.vimeocdn.com/video/490861399_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/490861399-6562e5c4df3ca1852dfa35ba409d6d2db5be3161af678b544966b1766a8d6b99-d_295x166",
       "date": "2014-09-26T18:51:48",
       "meetups": [
         {

@@ -10,11 +10,11 @@
   "abstract": "<p>Say goodbye to System.Web! If you could drop a box of TNT on the ASP.NET stack and start over, what would it look like? Fewer dependencies, faster builds and viewing changes without compiling? Check! A composable, injectable, self-hostable stack? Check! The MVC 6 Framework has several new features, but these aren’t only skin-deep. In this session we’ll walk through the MVC pipeline, expose the new parts and discuss what the internal changes mean to the development of applications down the road.\r\n</p>",
   "description": "<p>Say goodbye to System.Web! If you could drop a box of TNT on the ASP.NET stack and start over, what would it look like? Fewer dependencies, faster builds and viewing changes without compiling? Check! A composable, injectable, self-hostable stack? Check! The MVC 6 Framework has several new features, but these aren’t only skin-deep. In this session we’ll walk through the MVC pipeline, expose the new parts and discuss what the internal changes mean to the development of applications down the road.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/537261105_295x166.jpg"
+    "https://i.vimeocdn.com/video/537261105-dc9553026d5fe45d679282236f88e860bc330123c33b9389e62a0f8f899909b3-d_295x166"
   ],
   "vimeo": "140648085",
   "moreinfo": "http://measureup2015.azurewebsites.net/mvc6/",
-  "thumbnail": "https://i.vimeocdn.com/video/537261105_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/537261105-dc9553026d5fe45d679282236f88e860bc330123c33b9389e62a0f8f899909b3-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/140648085.hd.mp4?s=feecf7c28315b8e48d0d4b8f74e6799851dfd9b8&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/140648085.sd.mp4?s=2713c5e5ddf3b26f03b527d7a61cda47e7832350&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 880,

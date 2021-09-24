@@ -10,11 +10,11 @@
   "abstract": "<p>AR is still cutting edge technology, and while there’s no standard for AR today, we can start experimenting with using web tools to create AR-enhanced web experiences. AR.js is an efficient Augmented Reality solution on the Web. It runs 100% in web browsers, this means no app to install!</p>",
   "description": "<p>AR is still cutting edge technology, and while there’s no standard for AR today, we can start experimenting with using web tools to create AR-enhanced web experiences. AR.js is an efficient Augmented Reality solution on the Web. It runs 100% in web browsers, this means no app to install!</p>",
   "images": [
-    "https://i.vimeocdn.com/video/699683266_295x166.jpg"
+    "https://i.vimeocdn.com/video/699683266-b2ce12198561eecb8ff9adc566e4070ef838617a2061049f70c55cdb2f27fd47-d_295x166"
   ],
   "vimeo": "268854007",
   "moreinfo": "http://www.houstontechfest.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/699683266_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/699683266-b2ce12198561eecb8ff9adc566e4070ef838617a2061049f70c55cdb2f27fd47-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/268854007.hd.mp4?s=c1e7a738c7788ccd69afe62610ea01ab0947e1ab&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/268854007.sd.mp4?s=c3583c01d52cd83b91ffcd0adb2dc98d00299183&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 95,

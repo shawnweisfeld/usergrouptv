@@ -10,11 +10,11 @@
   "abstract": "<p>You’ve heard all the buzz about Power BI, but you have no idea what it is and how it works. This session explains what Power BI is, who can use it and why you would want to. It’s an introductory session that gives you the information you need to determine if Power BI is right for you and your organization.\r\n</p>",
   "description": "<p>You’ve heard all the buzz about Power BI, but you have no idea what it is and how it works. This session explains what Power BI is, who can use it and why you would want to. It’s an introductory session that gives you the information you need to determine if Power BI is right for you and your organization.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/719492065_295x166.jpg"
+    "https://i.vimeocdn.com/video/719492065-d56c83957471771e3c8525374152aed1f523f1f022b160d49b87c50a3793c6a5-d_295x166"
   ],
   "vimeo": "284935170",
   "moreinfo": "http://www.sqlsaturday.com/749/Sessions/Details.aspx?sid=78696",
-  "thumbnail": "https://i.vimeocdn.com/video/719492065_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/719492065-d56c83957471771e3c8525374152aed1f523f1f022b160d49b87c50a3793c6a5-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/284935170.hd.mp4?s=4b6e16df03b224b5cec7fb14d6079bbb61ea8d0e&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/284935170.sd.mp4?s=7d2166c6bf41680df77874bf1e46542a3dc4c8e0&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 420,

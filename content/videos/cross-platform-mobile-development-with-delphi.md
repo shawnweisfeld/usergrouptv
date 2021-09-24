@@ -10,11 +10,11 @@
   "abstract": "<p>With Delphi XE 6, you can develop an application that can run on Windows, Mac OS X, iOS, and Android. All from a single IDE. In this session, I'll give an introduction to using Delphi XE 6 to do just that. For each platform, I'll demonstrate how to build, deploy, and debug a sample application.</p>",
   "description": "<p>With Delphi XE 6, you can develop an application that can run on Windows, Mac OS X, iOS, and Android. All from a single IDE. In this session, I'll give an introduction to using Delphi XE 6 to do just that. For each platform, I'll demonstrate how to build, deploy, and debug a sample application.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/490861399_295x166.jpg"
+    "https://i.vimeocdn.com/video/490861399-6562e5c4df3ca1852dfa35ba409d6d2db5be3161af678b544966b1766a8d6b99-d_295x166"
   ],
   "vimeo": "107458711",
   "moreinfo": "http://lrtechfest.com/speakers#jon-robertson",
-  "thumbnail": "https://i.vimeocdn.com/video/490861399_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/490861399-6562e5c4df3ca1852dfa35ba409d6d2db5be3161af678b544966b1766a8d6b99-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/107458711.hd.mp4?s=ffa7d9ba8afbdf8eb4288bd7232644307cfa9e8c&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/107458711.sd.mp4?s=dfb0971f7f9b52eb2c3fdca355aaad6e6753e97f&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 977,

@@ -10,11 +10,11 @@
   "abstract": "<p>From the lead author of SQL Server 2017 Administration Inside Out by Microsoft Press, come learn in technical detail what’s new for developers, admins, and users of Microsoft SQL Server 2017, including labs and demos. We'll discuss the new features for the platform, high availability, maintenance, and TSQL syntax.</p>",
   "description": "<p>From the lead author of SQL Server 2017 Administration Inside Out by Microsoft Press, come learn in technical detail what’s new for developers, admins, and users of Microsoft SQL Server 2017, including labs and demos. We'll discuss the new features for the platform, high availability, maintenance, and TSQL syntax.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/702668038_295x166.jpg"
+    "https://i.vimeocdn.com/video/702668038-e2ac794eb2479a848577b10d0b5b1cdfd17ab97abb3b4def4a96f51314b6509b-d_295x166"
   ],
   "vimeo": "271381256",
   "moreinfo": "http://www.sqlsaturday.com/734/Sessions/Details.aspx?sid=77161",
-  "thumbnail": "https://i.vimeocdn.com/video/702668038_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/702668038-e2ac794eb2479a848577b10d0b5b1cdfd17ab97abb3b4def4a96f51314b6509b-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/271381256.hd.mp4?s=7f045f0af4cae8ef36341254656e437cfeb57d12&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/271381256.sd.mp4?s=637c970739524606f8a5c67fcaf1faf5a5c9f2ac&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 434,

@@ -10,11 +10,11 @@
   "abstract": "<p>Building out your environment in the cloud can quickly become a mess. Microsoft has developed the Cloud Adoption Framework as a \"best practices\" guide for cloud adoption and to enable success during your cloud adoption journey. The Microsoft Cloud Adoption Framework for Azure can help companies become more efficient at any stage of their cloud journey. Whether they are just starting, migrating their infrastructure from on-prem, or have several resources deployed in their environment. Come to this session and join in the discussion to see an overview of these many capabilities in Azure as well as a demo of the process. This will be an interactive, demo-heavy session. ZERO prior knowledge on these topics is assumed.</p>",
   "description": "<p>Building out your environment in the cloud can quickly become a mess. Microsoft has developed the Cloud Adoption Framework as a \"best practices\" guide for cloud adoption and to enable success during your cloud adoption journey. The Microsoft Cloud Adoption Framework for Azure can help companies become more efficient at any stage of their cloud journey. Whether they are just starting, migrating their infrastructure from on-prem, or have several resources deployed in their environment. Come to this session and join in the discussion to see an overview of these many capabilities in Azure as well as a demo of the process. This will be an interactive, demo-heavy session. ZERO prior knowledge on these topics is assumed.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/928416507_295x166.jpg"
+    "https://i.vimeocdn.com/video/928416507-4f8c30b7df4af1e147c77723ce813a141150309d68131bd5c52bea0efcdb68d0-d_295x166"
   ],
   "vimeo": "440691082",
   "moreinfo": "https://github.com/shawnweisfeld/AzureAustinMeetupFiles/raw/master/20200721_ZebCharlie.pdf",
-  "thumbnail": "https://i.vimeocdn.com/video/928416507_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/928416507-4f8c30b7df4af1e147c77723ce813a141150309d68131bd5c52bea0efcdb68d0-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/440691082.hd.mp4?s=0df8947a04a440a5a5c51332f1da8d66c3836c2c&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/440691082.sd.mp4?s=6a8dda0cfcec1f2ea6ea114e92b9f083dfd4a253&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 352,
@@ -43,7 +43,7 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 51
+      "count": 52
     }
   ]
 }

@@ -11,7 +11,7 @@
     {
       "title": "SQL Server Window Functions",
       "slug": "sql-server-window-functions",
-      "thumbnail": "https://i.vimeocdn.com/video/570948261_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/570948261-b55fb7f4c5df80c028df230d2ab956aac796c6061fdd49e6ae563920af8382f6-d_295x166",
       "date": "2016-05-14T12:32:55",
       "meetups": [
         {

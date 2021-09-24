@@ -12,7 +12,7 @@
     {
       "title": "Do You Know Storage ? Come talk to us and learn how to talk to your Storage Admin!",
       "slug": "do-you-know-storage-come-talk-to-us-and-learn-how-to-talk-to-your-storage-admin",
-      "thumbnail": "https://i.vimeocdn.com/video/626861915_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/626861915-02092a9c9cdcc859dfef2391de5f4528af788cafdacfcaa35c3a0e7e486aefe8-d_295x166",
       "date": "2017-03-04T22:00:09",
       "meetups": [
         {

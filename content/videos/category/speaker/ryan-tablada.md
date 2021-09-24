@@ -12,7 +12,7 @@
     {
       "title": "Productive Front End Test Driven Development That ACTUALLY Works",
       "slug": "productive-front-end-test-driven-development-that-actually-works",
-      "thumbnail": "https://i.vimeocdn.com/video/660021162_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/660021162-d527fac37fa638dc05f50c16c79e765297c8745d0d9f409532caf930e17b54da-d_295x166",
       "date": "2017-10-05T21:54:11",
       "meetups": [
         {

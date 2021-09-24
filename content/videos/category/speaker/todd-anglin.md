@@ -12,7 +12,7 @@
     {
       "title": "Making HTML5 Work Everywhere",
       "slug": "making-html5-work-everywhere",
-      "thumbnail": "https://i.vimeocdn.com/video/487544568_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/487544568-bdf39b82863b6f3a8b6e669c830abe991911d84c7fe77c267064ee19c5b723d3-d_295x166",
       "date": "2012-09-08T02:40:02",
       "meetups": [
         {
@@ -25,7 +25,7 @@
     {
       "title": "Building a Testable Data Access Layer",
       "slug": "building-a-testable-data-access-layer",
-      "thumbnail": "https://i.vimeocdn.com/video/499122139_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/499122139-3d24bd981fda54ddc62524f13e6e3b4389cdfc7ead28698246580b357a4f20d8-d_295x166",
       "date": "2011-05-05T23:46:55",
       "meetups": [
         {
@@ -43,7 +43,7 @@
     {
       "title": "Silverlight 5 What is new & State of Silverlight",
       "slug": "silverlight-5-what-is-new-state-of-silverlight",
-      "thumbnail": "https://i.vimeocdn.com/video/500553999_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/500553999-0549f06f00dd1a0af1aa6b8d78c22e6fb955c76d6c354f07acf130828748dff8-d_295x166",
       "date": "2011-05-03T23:42:03",
       "meetups": [
         {

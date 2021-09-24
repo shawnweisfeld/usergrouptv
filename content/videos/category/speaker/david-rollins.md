@@ -12,7 +12,7 @@
     {
       "title": "NoSQL: I doesn’t mean what you think it means",
       "slug": "nosql-i-doesnt-mean-what-you-think-it-means",
-      "thumbnail": "https://i.vimeocdn.com/video/492564994_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/492564994-ccc8a4e87fb8c077e32359fecea375f0371e3f3fa3913682a5a773a5818dac94-d_295x166",
       "date": "2014-10-10T11:22:54",
       "meetups": [
         {

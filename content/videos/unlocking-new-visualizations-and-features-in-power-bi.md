@@ -10,11 +10,11 @@
   "abstract": "<p>Power BI is a great sandbox environment for report design. However, knowing how to leverage visuals and features in a way that adds additional value can be challenging. New visualizations and features can be created a number of ways including: layering visuals, customizing visual formatting, and/or utilizing DAX measures. The session will include a series of visualization and reporting techniques that you'll be able to leverage in your company's reports to take them to the next level.</p>",
   "description": "<p>Power BI is a great sandbox environment for report design. However, knowing how to leverage visuals and features in a way that adds additional value can be challenging. New visualizations and features can be created a number of ways including: layering visuals, customizing visual formatting, and/or utilizing DAX measures. The session will include a series of visualization and reporting techniques that you'll be able to leverage in your company's reports to take them to the next level.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/940309865_295x166.jpg"
+    "https://i.vimeocdn.com/video/940309865-685ca9b5c6a2e8799a5bd6e216d5ef33eb7e397c9d9575601aa17675d756d458-d_295x166"
   ],
   "vimeo": "447352942",
   "moreinfo": "https://www.havensconsulting.net/speaking-events",
-  "thumbnail": "https://i.vimeocdn.com/video/940309865_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/940309865-685ca9b5c6a2e8799a5bd6e216d5ef33eb7e397c9d9575601aa17675d756d458-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/447352942.hd.mp4?s=8578a9394a267fd92c153a4efc42fa52f376c6ca&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/447352942.sd.mp4?s=0ebbc705f74423571e21c9f4fed46e904f0e2efd&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 354,

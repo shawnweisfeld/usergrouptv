@@ -10,11 +10,11 @@
   "abstract": "<p>Silverlight is not just a browser plug-in. It is a platform for delivering rich desktop applications. When used out-of-browser, it has access to isolated storage and the ability to run off-line. Correspondence helps you take advantage of these features. Correspondence automatically synchronizes your application's local data with other users and other devices. When you design your data model using its DSL, it generates both a local database and a network protocol. Then it gives you an object model to code against that seamlessly bridges local and remote. I'll walk you through the development of a collaborative application, Thought Cloud. We'll cover the following topics: The Facutal modeling language, The Community, The view model layer, Publish/subscribe communications, Good Silverlight citizenship (asynchronous behavior, network status, quota elevation).</p>",
   "description": "<p>Silverlight is not just a browser plug-in. It is a platform for delivering rich desktop applications. When used out-of-browser, it has access to isolated storage and the ability to run off-line. Correspondence helps you take advantage of these features. Correspondence automatically synchronizes your application's local data with other users and other devices. When you design your data model using its DSL, it generates both a local database and a network protocol. Then it gives you an object model to code against that seamlessly bridges local and remote. I'll walk you through the development of a collaborative application, Thought Cloud. We'll cover the following topics: The Facutal modeling language, The Community, The view model layer, Publish/subscribe communications, Good Silverlight citizenship (asynchronous behavior, network status, quota elevation).</p>",
   "images": [
-    "https://i.vimeocdn.com/video/498430940_295x166.jpg"
+    "https://i.vimeocdn.com/video/498430940-a5919f321987956a0a9c8d4a90a53a20dfc585e5515bf4e70a567cca605b33e4-d_295x166"
   ],
   "vimeo": "113196939",
   "moreinfo": "http://www.ddnug.net/",
-  "thumbnail": "https://i.vimeocdn.com/video/498430940_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/498430940-a5919f321987956a0a9c8d4a90a53a20dfc585e5515bf4e70a567cca605b33e4-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/113196939.hd.mp4?s=258fc1309e33a97a8fe017035303ba009dc98198&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/113196939.sd.mp4?s=f0901d5aa6298a73c439c81c86c353974a0d6ebe&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 653,

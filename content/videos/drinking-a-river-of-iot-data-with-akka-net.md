@@ -10,11 +10,11 @@
   "abstract": "<p>You can’t develop a device anymore without it connecting to something. These ‘smart’ devices all have one thing in common: they generate a never-ending stream of data. If you want to process all that data for 100, 1000, or 10000 devices, you can probably get by with a very simple web stack. But as soon as you want to scale to 1000000 or more devices, you’re going to need a better strategy. Scaling software is always tricky. We all have been through this. You load balance your web farm only to find out that your database is a bottleneck. Or to find out you need to synchronize caches across your farm. Akka.NET and its implementation of the actor model make scaling a bit easier. Developing a highly concurrent stateful system becomes a breeze. And it's just as easy to scale it out and to make it resilient. But obviously there are pitfalls as well. No prior Akka.NET knowledge is required.</p>",
   "description": "<p>You can’t develop a device anymore without it connecting to something. These ‘smart’ devices all have one thing in common: they generate a never-ending stream of data. If you want to process all that data for 100, 1000, or 10000 devices, you can probably get by with a very simple web stack. But as soon as you want to scale to 1000000 or more devices, you’re going to need a better strategy. Scaling software is always tricky. We all have been through this. You load balance your web farm only to find out that your database is a bottleneck. Or to find out you need to synchronize caches across your farm. Akka.NET and its implementation of the actor model make scaling a bit easier. Developing a highly concurrent stateful system becomes a breeze. And it's just as easy to scale it out and to make it resilient. But obviously there are pitfalls as well. No prior Akka.NET knowledge is required.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/944750558_295x166.jpg"
+    "https://i.vimeocdn.com/video/944750558-b9721c47c0bcd21afc7a0fd6609bf829bcbfe6fc996898f9aae914d5582ce4a3-d_295x166"
   ],
   "vimeo": "450475486",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/272527029/",
-  "thumbnail": "https://i.vimeocdn.com/video/944750558_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/944750558-b9721c47c0bcd21afc7a0fd6609bf829bcbfe6fc996898f9aae914d5582ce4a3-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/450475486.hd.mp4?s=0d8f7eff89bdaa88fb1fe67a857979d84eb05b10&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/450475486.sd.mp4?s=61bc61a2e02eb208f8acb580a02ad2d4309d4d58&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 355,

@@ -12,7 +12,7 @@
     {
       "title": "Why Should I Care About ... Partitioned Views?",
       "slug": "why-should-i-care-about-partitioned-views",
-      "thumbnail": "https://i.vimeocdn.com/video/702635348_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/702635348-d97cc483af2f89ea6cc10d51c5abf8c7d2d882f5c89900393c488502639b4831-d_295x166",
       "date": "2018-05-19T22:57:56",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Why should I care about ... the plan cache?",
       "slug": "why-should-i-care-about-the-plan-cache-2",
-      "thumbnail": "https://i.vimeocdn.com/video/640582102_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/640582102-b95f17478f5c45d1dacb064b30cfc16176cb0f93ea1b50c853dc84c7c8327d7d-d_295x166",
       "date": "2017-06-17T14:15:04",
       "meetups": [
         {
@@ -52,7 +52,7 @@
     {
       "title": "Why Should I Care About … The Plan Cache",
       "slug": "why-should-i-care-about-the-plan-cache",
-      "thumbnail": "https://i.vimeocdn.com/video/587192028_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/587192028-ab60a644a5e6a3a40f3fc139124d2b145ae9d3c9435396e6c601fb4ce60b0fcb-d_295x166",
       "date": "2016-08-13T15:01:07",
       "meetups": [
         {

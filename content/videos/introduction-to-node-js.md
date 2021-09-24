@@ -10,11 +10,11 @@
   "abstract": "<p>Let's talk about node.js. How does it work? What makes it different? When would you use it? And most importantly, why does it matter?\r\n</p>",
   "description": "<p>Let's talk about node.js. How does it work? What makes it different? When would you use it? And most importantly, why does it matter?\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/482638242_295x166.jpg"
+    "https://i.vimeocdn.com/video/482638242-857f40ff6a96e185fe67540c8ea7880ff1243739987c44e661b94cf455236ec2-d_295x166"
   ],
   "vimeo": "100979908",
   "moreinfo": "http://techfests.com/Tulsa/2013/Speakers/GirishGangadharan/default.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/482638242_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/482638242-857f40ff6a96e185fe67540c8ea7880ff1243739987c44e661b94cf455236ec2-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/100979908.hd.mp4?s=a0b407cc744ab86512a4490c18fd5c49bb6c9cd1&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/100979908.sd.mp4?s=3f6a9b11e9dad552ab66a0db86e599cfe7543478&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 957,

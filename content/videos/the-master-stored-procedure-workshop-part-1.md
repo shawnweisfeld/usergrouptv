@@ -10,11 +10,11 @@
   "abstract": "<p>Your job includes designing and writing stored procedures, but you haven’t had a lot of actual training on the subject, right? I will show you how to write stored procedures from scratch, using the design advice I’ve accumulated in my 20+ years of experience. Here are a few of the things you’ll learn: When and how to use stored procedures, The benefits and basics of contractual programming, How to write stored procedures from scratch, How to structure and organize stored procedures, Key techniques for ideal stored procedure management, Troubleshooting and debugging stored procedures. The session will be packed with tons of code examples, with plenty of labs to reinforce key concepts.  Beginner and experienced T-SQL programmers both will walk away with a greater understanding of how to design, manage, and troubleshoot stored procedures. Join me for one fun session of SQL Server programming!</p>",
   "description": "<p>Your job includes designing and writing stored procedures, but you haven’t had a lot of actual training on the subject, right? I will show you how to write stored procedures from scratch, using the design advice I’ve accumulated in my 20+ years of experience. Here are a few of the things you’ll learn: When and how to use stored procedures, The benefits and basics of contractual programming, How to write stored procedures from scratch, How to structure and organize stored procedures, Key techniques for ideal stored procedure management, Troubleshooting and debugging stored procedures. The session will be packed with tons of code examples, with plenty of labs to reinforce key concepts.  Beginner and experienced T-SQL programmers both will walk away with a greater understanding of how to design, manage, and troubleshoot stored procedures. Join me for one fun session of SQL Server programming!</p>",
   "images": [
-    "https://i.vimeocdn.com/video/798692239_295x166.jpg"
+    "https://i.vimeocdn.com/video/798692239-4d176c523ff52cb9550acb22f1a7ee2bbe25fe95480b551424cce7ecbf5e83bf-d_295x166"
   ],
   "vimeo": "348150716",
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=92645",
-  "thumbnail": "https://i.vimeocdn.com/video/798692239_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/798692239-4d176c523ff52cb9550acb22f1a7ee2bbe25fe95480b551424cce7ecbf5e83bf-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/348150716.hd.mp4?s=54c90d60aac02d0816e70351caf023c548eaca8e&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/348150716.sd.mp4?s=6fd9466e1a2dc4774452099d6510c4a4c4b89f71&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 294,

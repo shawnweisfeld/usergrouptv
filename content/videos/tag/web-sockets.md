@@ -11,7 +11,7 @@
     {
       "title": "HTML5 WEBSOCKETS: Real-Time Web",
       "slug": "html5-websockets-real-time-web",
-      "thumbnail": "https://i.vimeocdn.com/video/488134956_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/488134956-ac55998fe56e686b944a120dd745423a9371db28b5ec2643832d2d02aa97f5da-d_295x166",
       "date": "2012-08-14T19:35:46",
       "meetups": [
         {

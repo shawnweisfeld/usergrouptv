@@ -10,11 +10,11 @@
   "abstract": "<p>Hint – this session is not about health coverage. Instead, it is about a development team role called the “Proxy Product Owner” which acts as part product owner, part architect, part business analyst, part UI/UX designer, part QA engineer, part project manager, and 100% difference-maker. Come learn about this illusive, yet critically important role. The session will cover the important aspects of this role, how it interacts with the rest of a software development team, and whether or not it is the right career path for you!\r\n</p>",
   "description": "<p>Hint – this session is not about health coverage. Instead, it is about a development team role called the “Proxy Product Owner” which acts as part product owner, part architect, part business analyst, part UI/UX designer, part QA engineer, part project manager, and 100% difference-maker. Come learn about this illusive, yet critically important role. The session will cover the important aspects of this role, how it interacts with the rest of a software development team, and whether or not it is the right career path for you!\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/537387571_295x166.jpg"
+    "https://i.vimeocdn.com/video/537387571-66c0dd576f3bd7f318fba7326f41824b079a70a76a4822917598babe8a189da6-d_295x166"
   ],
   "vimeo": "140730504",
   "moreinfo": "http://measureup2015.azurewebsites.net/behold-the-power-of-the-ppo/",
-  "thumbnail": "https://i.vimeocdn.com/video/537387571_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/537387571-66c0dd576f3bd7f318fba7326f41824b079a70a76a4822917598babe8a189da6-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/140730504.hd.mp4?s=28cf526cc458d8b29e9af532246bb3c2c1eb174e&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/140730504.sd.mp4?s=06a13fe380ab45bdec6d575e30ab442f038f3aad&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 874,

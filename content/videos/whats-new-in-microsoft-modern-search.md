@@ -10,11 +10,11 @@
   "abstract": "<p>Microsoft has been hard at work optimizing and enriching the Microsoft 365 Search experience. This session will detail the updates and provide insight into how your organization can take advantage of the new features and experiences. See what Microsoft and the community are working on for Search experiences in Microsoft 365.</p>",
   "description": "<p>Microsoft has been hard at work optimizing and enriching the Microsoft 365 Search experience. This session will detail the updates and provide insight into how your organization can take advantage of the new features and experiences. See what Microsoft and the community are working on for Search experiences in Microsoft 365.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/822338757_295x166.jpg"
+    "https://i.vimeocdn.com/video/822338757-71ea55fd4f3dd01fe613a4d015397b0e30f34bacbe51a0ce51c03f9bc0f5f39f-d_295x166"
   ],
   "vimeo": "366330347",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/lsljlmyznbmb/",
-  "thumbnail": "https://i.vimeocdn.com/video/822338757_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/822338757-71ea55fd4f3dd01fe613a4d015397b0e30f34bacbe51a0ce51c03f9bc0f5f39f-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/366330347.hd.mp4?s=a9e4b824cb6335298926a4234b2380504d092e4d&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/366330347.sd.mp4?s=ba8ac4f97d4aa3d9ae31dba23f43ac2b88b94b74&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 373,

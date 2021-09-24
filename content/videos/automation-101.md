@@ -10,11 +10,11 @@
   "abstract": "<p>Automation is often misunderstood, and means a lot of different things to a lot of different people. I want to help change that. By drawing on my years of experience building and managing automation teams within a variety of environment, I will walk you through the things you should or shouldn't do. I'll help you understand what things need to be considered, and what things you should simply pass on. I'm not going to teach you how to automate, but I AM gonna to teach you how to succeed at it.</p>",
   "description": "<p>Automation is often misunderstood, and means a lot of different things to a lot of different people. I want to help change that. By drawing on my years of experience building and managing automation teams within a variety of environment, I will walk you through the things you should or shouldn't do. I'll help you understand what things need to be considered, and what things you should simply pass on. I'm not going to teach you how to automate, but I AM gonna to teach you how to succeed at it.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/660009212_295x166.jpg"
+    "https://i.vimeocdn.com/video/660009212-2d0e3b7f5e9e608975e1874ff8cac9eb66f12239644e152632bd2835a2602e87-d_295x166"
   ],
   "vimeo": "237560992",
   "moreinfo": "http://www.lrtechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/660009212_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/660009212-2d0e3b7f5e9e608975e1874ff8cac9eb66f12239644e152632bd2835a2602e87-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/237560992.hd.mp4?s=b02b6b0e6eb7601e796682304b5d09435bbc01a5&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/237560992.sd.mp4?s=c5cb464a388a0dc43984ed184f712898ec8916af&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 116,

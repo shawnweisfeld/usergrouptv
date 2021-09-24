@@ -12,7 +12,7 @@
     {
       "title": "Scaling Joomla",
       "slug": "scaling-joomla",
-      "thumbnail": "https://i.vimeocdn.com/video/818419103_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/818419103-a0826d9533efe65385cef7542cdc01057ccb42b65bdd71beca22d0d72832c94f-d_295x166",
       "date": "2019-09-28T17:03:52",
       "meetups": [
         {

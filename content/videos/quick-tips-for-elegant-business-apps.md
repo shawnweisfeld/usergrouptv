@@ -10,11 +10,11 @@
   "abstract": "<p>In this session we will show some quick tips for building elegant business apps with SharePoint, PowerApps and Flow. Some of the things we will cover include: Executing a Flow from SharePoint using Column Formatting, Passing Parameters to PowerApps, Creating compelling visuals in PowerApps with SVGs, and More!</p>",
   "description": "<p>In this session we will show some quick tips for building elegant business apps with SharePoint, PowerApps and Flow. Some of the things we will cover include: Executing a Flow from SharePoint using Column Formatting, Passing Parameters to PowerApps, Creating compelling visuals in PowerApps with SVGs, and More!</p>",
   "images": [
-    "https://i.vimeocdn.com/video/831974276_295x166.jpg"
+    "https://i.vimeocdn.com/video/831974276-95095755802ce2f88b26bc8b647c89be00c41bfab2cd51b07226467f7854c95c-d_295x166"
   ],
   "vimeo": "373751308",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/lsljlmyzpbrb/",
-  "thumbnail": "https://i.vimeocdn.com/video/831974276_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/831974276-95095755802ce2f88b26bc8b647c89be00c41bfab2cd51b07226467f7854c95c-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/373751308.hd.mp4?s=4c18ef03b145821bda4ceeb856e083d2f2eff07d&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/373751308.sd.mp4?s=243b88409845a73e03d7215b64601bc13fcc29c4&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 378,

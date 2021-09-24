@@ -10,11 +10,11 @@
   "abstract": "<p>Azure functions is a solution for easily running small pieces of code, or \"functions,\" in the cloud. You can write just the code you need for the problem at hand, without worrying about a whole application or the infrastructure to run it. In this talk we will provide an overview of the newest member to the Azure family, and then dig into to some code.\r\n</p>",
   "description": "<p>Azure functions is a solution for easily running small pieces of code, or \"functions,\" in the cloud. You can write just the code you need for the problem at hand, without worrying about a whole application or the infrastructure to run it. In this talk we will provide an overview of the newest member to the Azure family, and then dig into to some code.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/594173150_295x166.jpg"
+    "https://i.vimeocdn.com/video/594173150-7191bac854e67d5984003c3f65155f4628bb8ef94733572216d3d8813e437008-d_295x166"
   ],
   "vimeo": "184673180",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
-  "thumbnail": "https://i.vimeocdn.com/video/594173150_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/594173150-7191bac854e67d5984003c3f65155f4628bb8ef94733572216d3d8813e437008-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/184673180.hd.mp4?s=131f3b068e039076edcca5443f75dc5156fe5953&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/184673180.sd.mp4?s=29503e5aa9b4281a5e5998a3da1805d6352a7c4f&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 148,

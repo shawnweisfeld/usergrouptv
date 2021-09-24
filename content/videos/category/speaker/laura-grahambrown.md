@@ -12,7 +12,7 @@
     {
       "title": "Introduction to Paginated Reports",
       "slug": "introduction-to-paginated-reports",
-      "thumbnail": "https://i.vimeocdn.com/video/1136394295_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1136394295-1ca6cad4f804e2fd74ea245d4d71de7d9320b4e40e675d028444a714b0d21800-d_295x166",
       "date": "2021-05-12T00:00:00",
       "meetups": [
         {

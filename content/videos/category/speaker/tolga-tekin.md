@@ -12,7 +12,7 @@
     {
       "title": "Azure Arc Data Services",
       "slug": "azure-arc-data-services",
-      "thumbnail": "https://i.vimeocdn.com/video/1144084262_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1144084262-e03fe76a1b1a1f39f9566e7c66c269186d9d634e61f8171d0f0daee1d5cf5c0b-d_295x166",
       "date": "2021-05-18T00:00:00",
       "meetups": [
         {

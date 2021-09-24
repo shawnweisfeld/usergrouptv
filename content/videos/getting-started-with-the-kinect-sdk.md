@@ -10,11 +10,11 @@
   "abstract": "<p>This talk is also designed for people who want to get started developing with the official Microsoft Kinect SDK. I will walk the user through downloading the bits and starting a new project. We will take a look at several great free open-source tools to help jump-start your first NUI project.</p>",
   "description": "<p>This talk is also designed for people who want to get started developing with the official Microsoft Kinect SDK. I will walk the user through downloading the bits and starting a new project. We will take a look at several great free open-source tools to help jump-start your first NUI project.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/507721083_295x166.jpg"
+    "https://i.vimeocdn.com/video/507721083-3e98534896c3bbf7490529233814ef2fad202d9ccb79ec251aeaaac4a15d4a00-d_295x166"
   ],
   "vimeo": "120049662",
   "moreinfo": "http://www.allaboutxaml.net",
-  "thumbnail": "https://i.vimeocdn.com/video/507721083_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/507721083-3e98534896c3bbf7490529233814ef2fad202d9ccb79ec251aeaaac4a15d4a00-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/120049662.hd.mp4?s=fa1594b79d84ed8d3d06e367cad9ca8e495b7e33&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/120049662.sd.mp4?s=5d439937d0ff1f9d0064be510b5cbfa96841f958&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 656,

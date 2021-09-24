@@ -10,11 +10,11 @@
   "abstract": "<p>The Internet of Things - why Cloud is merely the next step in our move to a ubiquitous computing world.  With sensors providing torrents of information, storage practically unlimited, and processing power able to be called upon or released in ever more complex patterns - we will observe how we've come to this point and where we'll be going when your processing power comes not just from one of the giant datacenters, but from your own car or even your shoe</p>",
   "description": "<p>The Internet of Things - why Cloud is merely the next step in our move to a ubiquitous computing world.  With sensors providing torrents of information, storage practically unlimited, and processing power able to be called upon or released in ever more complex patterns - we will observe how we've come to this point and where we'll be going when your processing power comes not just from one of the giant datacenters, but from your own car or even your shoe</p>",
   "images": [
-    "https://i.vimeocdn.com/video/487540332_295x166.jpg"
+    "https://i.vimeocdn.com/video/487540332-2c304ece1847d768ae06b9b8411383e48e4d06955e0c2798303b16f5b4e03f08-d_295x166"
   ],
   "vimeo": "104884292",
   "moreinfo": "http://www.houstontechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/487540332_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/487540332-2c304ece1847d768ae06b9b8411383e48e4d06955e0c2798303b16f5b4e03f08-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/104884292.hd.mp4?s=356d82090d43dec9f333c3387fd6dd9dd6aeea3c&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/104884292.sd.mp4?s=5f22a1ead6b7de011d6d2bac6b8748e3b99af2b8&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 617,

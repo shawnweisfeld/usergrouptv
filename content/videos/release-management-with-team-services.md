@@ -10,11 +10,11 @@
   "abstract": "<p>Learn the fundamentals of Release Management, how it relates to DevOps, and benefits it and continuous deployment bring to any organization. More specifically, I will present an overview of Release Management. I will also cover what Visual Studio Team Services and Team Foundation Services are. We will look at the new Cross-Platform build system, discuss DevOps practices, and benefits of Release Management. Walk away with the knowledge you need to get started with Release Management Team Services.</p>",
   "description": "<p>Learn the fundamentals of Release Management, how it relates to DevOps, and benefits it and continuous deployment bring to any organization. More specifically, I will present an overview of Release Management. I will also cover what Visual Studio Team Services and Team Foundation Services are. We will look at the new Cross-Platform build system, discuss DevOps practices, and benefits of Release Management. Walk away with the knowledge you need to get started with Release Management Team Services.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/586639846_295x166.jpg"
+    "https://i.vimeocdn.com/video/586639846-7ec102c8330ad2d5cfbcfe41e5003ae03942399a584809c03b45120266739731-d_295x166"
   ],
   "vimeo": "178890276",
   "moreinfo": "http://techfests.com/Tulsa/2016/Speakers/PaulHacker/",
-  "thumbnail": "https://i.vimeocdn.com/video/586639846_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/586639846-7ec102c8330ad2d5cfbcfe41e5003ae03942399a584809c03b45120266739731-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/178890276.hd.mp4?s=40516c40e9ffbb5e431987b24c25213806909a05&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/178890276.sd.mp4?s=5322b47994ec339caa1cf1bda4e1142da75fb5b7&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 178,

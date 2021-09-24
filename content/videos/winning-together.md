@@ -10,11 +10,11 @@
   "abstract": "<p>The concept of privilege can help people learn about issues that hold others back. However, when people leave the conversation feeling ashamed of attributes they can't change, such as their gender, color of skin, or ablebodiedness, they have a hard time feeling empowered to create change. Let's reshape our conversations around the idea that the \"privileges\" that certain groups have are what every person deserves. Rather than taking those away from some, let's work together on elevating everyone to a \"privileged\" level</p>",
   "description": "<p>The concept of privilege can help people learn about issues that hold others back. However, when people leave the conversation feeling ashamed of attributes they can't change, such as their gender, color of skin, or ablebodiedness, they have a hard time feeling empowered to create change. Let's reshape our conversations around the idea that the \"privileges\" that certain groups have are what every person deserves. Rather than taking those away from some, let's work together on elevating everyone to a \"privileged\" level</p>",
   "images": [
-    "https://i.vimeocdn.com/video/650696673_295x166.jpg"
+    "https://i.vimeocdn.com/video/650696673-8f0f5a5904f38da372d676ef2fcb8bf329166586aa988847b5b1f6f35be0a66e-d_295x166"
   ],
   "vimeo": "230191143",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
-  "thumbnail": "https://i.vimeocdn.com/video/650696673_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/650696673-8f0f5a5904f38da372d676ef2fcb8bf329166586aa988847b5b1f6f35be0a66e-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/230191143.hd.mp4?s=ebd4c5624c59e66c9415f33922e626a380670c85&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/230191143.sd.mp4?s=6febf64bed1211837262e55af3e5888ed24fb9f9&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 67,

@@ -10,11 +10,11 @@
   "abstract": "<p>Along the Agile adoption journey, Scrum teams are faced with both internal and external obstacles to fully embracing Scrum and reaping the benefits. Internally, teams may compromise on the essential elements of Scrum, such as not holding a retrospective at the end of a sprint or holding stand-ups only when the entire team is present rather than on a daily basis. Collectively, these compromises are known as “ScrumButs” and are all too common and dilute the benefits that Scrum provides to software projects. These obstacles may also be applied externally, such as a requirement for a detailed project plan or “gate reviews” for the project to proceed to the next “phase.” Managing these obstacles to ensure that the benefits of Scrum are fully realized while understanding and managing the organizational culture are important to a successful adoption and maintaining continuous improvement.\r\n</p>",
   "description": "<p>Along the Agile adoption journey, Scrum teams are faced with both internal and external obstacles to fully embracing Scrum and reaping the benefits. Internally, teams may compromise on the essential elements of Scrum, such as not holding a retrospective at the end of a sprint or holding stand-ups only when the entire team is present rather than on a daily basis. Collectively, these compromises are known as “ScrumButs” and are all too common and dilute the benefits that Scrum provides to software projects. These obstacles may also be applied externally, such as a requirement for a detailed project plan or “gate reviews” for the project to proceed to the next “phase.” Managing these obstacles to ensure that the benefits of Scrum are fully realized while understanding and managing the organizational culture are important to a successful adoption and maintaining continuous improvement.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/486708620_295x166.jpg"
+    "https://i.vimeocdn.com/video/486708620-6b8d8307a35dc928eba2593b67d070316e126be634fb5e0288fe235400702330-d_295x166"
   ],
   "vimeo": "104231528",
   "moreinfo": "http://www.improvingenterprises.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/486708620_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/486708620-6b8d8307a35dc928eba2593b67d070316e126be634fb5e0288fe235400702330-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/104231528.hd.mp4?s=386ab8487c378003b10566cedbadb03b840a54b7&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/104231528.sd.mp4?s=3eb44e2d68b9f71e0363d9047e4b9e80e8606da7&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 1006,

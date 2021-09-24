@@ -10,11 +10,11 @@
   "abstract": "<p>A common misconception is that Agile teams don't plan. Reese is here to tell you, that's bull$h!t. Agile teams plan all the time, but they focus on doing so at the right time and the right fidelity. How long did it take you to plan your last six-month project before the team started working? Weeks? Months?!  What if Reese said that in 45 minutes she could teach you how to plan that six-month project in 10% of the time it would have taken you to plan the old way? During this learning-packed workshop, you will learn how to plan the Agile way. Using a real project, you will build a backlog, estimate that backlog, prioritize it, order it based on ROI, capacity plan, and track to completion. The goal is to not deliver a plan. The goal is to deliver value. So join Reese in learning how to plan at the right time, in less time, so your teams can get to the delivering value part that really matters.\r\n</p>",
   "description": "<p>A common misconception is that Agile teams don't plan. Reese is here to tell you, that's bull$h!t. Agile teams plan all the time, but they focus on doing so at the right time and the right fidelity. How long did it take you to plan your last six-month project before the team started working? Weeks? Months?!  What if Reese said that in 45 minutes she could teach you how to plan that six-month project in 10% of the time it would have taken you to plan the old way? During this learning-packed workshop, you will learn how to plan the Agile way. Using a real project, you will build a backlog, estimate that backlog, prioritize it, order it based on ROI, capacity plan, and track to completion. The goal is to not deliver a plan. The goal is to deliver value. So join Reese in learning how to plan at the right time, in less time, so your teams can get to the delivering value part that really matters.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/703357756_295x166.jpg"
+    "https://i.vimeocdn.com/video/703357756-30f210ede9aa7d1e63c033a6ef08ae9d1ca3bd05bd0e442155838cb91acdad83-d_295x166"
   ],
   "vimeo": "271931374",
   "moreinfo": "http://www.agileaustin.org",
-  "thumbnail": "https://i.vimeocdn.com/video/703357756_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/703357756-30f210ede9aa7d1e63c033a6ef08ae9d1ca3bd05bd0e442155838cb91acdad83-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/271931374.hd.mp4?s=e848001c08c62a90796711565f42a775c95fec79&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/271931374.sd.mp4?s=e3340af5142372eac35da2a8efa6abec2d28c983&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 451,

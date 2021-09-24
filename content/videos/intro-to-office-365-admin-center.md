@@ -10,11 +10,11 @@
   "abstract": "<p>You got Office 365 and you need to use it. You need to let others in your organization use it because you were designated the admin but you can't spell Office 365... yet. Where do you start? In this session, you will learn about the basics of administering Office 365 through the Admin Centers.</p>",
   "description": "<p>You got Office 365 and you need to use it. You need to let others in your organization use it because you were designated the admin but you can't spell Office 365... yet. Where do you start? In this session, you will learn about the basics of administering Office 365 through the Admin Centers.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/593964486_295x166.jpg"
+    "https://i.vimeocdn.com/video/593964486-bdc185ddee4dafb4fbc9db304d5c63ed67b2def81206458e007d47aea1ed3ee0-d_295x166"
   ],
   "vimeo": "184509652",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
-  "thumbnail": "https://i.vimeocdn.com/video/593964486_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/593964486-bdc185ddee4dafb4fbc9db304d5c63ed67b2def81206458e007d47aea1ed3ee0-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/184509652.hd.mp4?s=19d47896522514a25828f293aba1cb14de731a02&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/184509652.sd.mp4?s=fd249d9d15bdcbe59b73d30a0e7854ccc5cc3232&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 146,

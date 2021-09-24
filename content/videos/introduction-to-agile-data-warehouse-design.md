@@ -10,11 +10,11 @@
   "abstract": "<p>Ever wonder if you are capturing enough data for your data warehouse? Or if you're even capturing the right data? In this session we'll look at new ways to plan and design a data warehouse. We'll look at how dimensional design (classic star schema) is a great fit for the agile methodology and I'll share some cool ways to build iteration and collaboration into your process!</p>",
   "description": "<p>Ever wonder if you are capturing enough data for your data warehouse? Or if you're even capturing the right data? In this session we'll look at new ways to plan and design a data warehouse. We'll look at how dimensional design (classic star schema) is a great fit for the agile methodology and I'll share some cool ways to build iteration and collaboration into your process!</p>",
   "images": [
-    "https://i.vimeocdn.com/video/592958259_295x166.jpg"
+    "https://i.vimeocdn.com/video/592958259-146f48f6ccf31209e2219253bd134f889b15ffe45c5fb31716cfaf1cee9df892-d_295x166"
   ],
   "vimeo": "183678706",
   "moreinfo": "http://www.meetup.com/Austin-SQL-Server-User-Group/events/232418605/",
-  "thumbnail": "https://i.vimeocdn.com/video/592958259_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/592958259-146f48f6ccf31209e2219253bd134f889b15ffe45c5fb31716cfaf1cee9df892-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/183678706.hd.mp4?s=c75404f83b03dc1a3fc9590321e4ecf38a3c1b94&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/183678706.sd.mp4?s=4a18138b49fec6b64dd3193cb3227ebbed33f8fb&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 197,

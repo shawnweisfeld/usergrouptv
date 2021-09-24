@@ -11,7 +11,7 @@
     {
       "title": "Behaviors in Blend",
       "slug": "behaviors-in-blend",
-      "thumbnail": "https://i.vimeocdn.com/video/500557846_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/500557846-fa4be21069e842aa1b7983a0b854a426e30046a7176fd0ac7effdc31c4a07c06-d_295x166",
       "date": "2011-04-05T22:09:13",
       "meetups": [
         {

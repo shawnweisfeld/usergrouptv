@@ -11,7 +11,7 @@
     {
       "title": "Introduction to the XML Source",
       "slug": "introduction-to-the-xml-source",
-      "thumbnail": "https://i.vimeocdn.com/video/483491352_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/483491352-17d67e84c8ecd7e0af425d7d753313623ee85af33d9be55682deaad9165966ce-d_295x166",
       "date": "2013-08-24T11:39:21",
       "meetups": [
         {

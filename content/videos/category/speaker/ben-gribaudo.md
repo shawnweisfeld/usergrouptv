@@ -12,7 +12,7 @@
     {
       "title": "How Power Query Thinks: Taking the Mystery Out of Streaming and Query Folding",
       "slug": "how-power-query-thinks-taking-the-mystery-out-of-streaming-and-query-folding",
-      "thumbnail": "https://i.vimeocdn.com/video/994397461_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/994397461-9752af41de0d44cd05d1f77639b56d84038e599aaeb582f53f24a5f59295bdf9-d_295x166",
       "date": "2020-11-11T00:00:00",
       "meetups": [
         {

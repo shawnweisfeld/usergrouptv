@@ -10,11 +10,11 @@
   "abstract": "<p>@SQLChicken aka Jorge Segarra from Microsoft will be in town and presenting on What's New with SQL Server 2016 (Business Intelligence)</p>",
   "description": "<p>@SQLChicken aka Jorge Segarra from Microsoft will be in town and presenting on What's New with SQL Server 2016 (Business Intelligence)</p>",
   "images": [
-    "https://i.vimeocdn.com/video/572713688_295x166.jpg"
+    "https://i.vimeocdn.com/video/572713688-0cbe4a47c0ff35562d4571cb8596e5cfd2d05febf6813de9c9384c70b563fea6-d_295x166"
   ],
   "vimeo": "168243299",
   "moreinfo": "http://www.meetup.com/Austin-SQL-Server-User-Group/events/231314425/",
-  "thumbnail": "https://i.vimeocdn.com/video/572713688_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/572713688-0cbe4a47c0ff35562d4571cb8596e5cfd2d05febf6813de9c9384c70b563fea6-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/168243299.hd.mp4?s=c200493d55707c690c43840b824ecc4ba12567dd&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/168243299.sd.mp4?s=c6fec111a5842cf75d44967b0748a3a1e3e2d429&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 454,

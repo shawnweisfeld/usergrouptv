@@ -10,11 +10,11 @@
   "abstract": "<p>You might have heard about the ability for you to build amazing add-ins for Microsoft Visual Studio 2010. But did you know that you could leverage the same technology in your own applications to build not only extensible, but composite applications? Come share in what I&rsquo;ve discovered thus far and why I&rsquo;ve jumped head first into learning everything I can about the Managed Extensibility Framework (MEF) that is included in .NET 4.</p>",
   "description": "<p>You might have heard about the ability for you to build amazing add-ins for Microsoft Visual Studio 2010. But did you know that you could leverage the same technology in your own applications to build not only extensible, but composite applications? Come share in what I&rsquo;ve discovered thus far and why I&rsquo;ve jumped head first into learning everything I can about the Managed Extensibility Framework (MEF) that is included in .NET 4.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/500555308_295x166.jpg"
+    "https://i.vimeocdn.com/video/500555308-d1dce830b880f3cbbc9c068198f2d6c90ed2acd4b3e6ee797ab92edbf27e7c40-d_295x166"
   ],
   "vimeo": "114766369",
   "moreinfo": "http://fwdnug.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/500555308_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/500555308-d1dce830b880f3cbbc9c068198f2d6c90ed2acd4b3e6ee797ab92edbf27e7c40-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/114766369.hd.mp4?s=d6f3ab8aed104cd29999be4fb4ffdfc8909ac02f&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/114766369.sd.mp4?s=af93747c9a7b701b2d3abff96f5acfec8c959696&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 684,

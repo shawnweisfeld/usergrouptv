@@ -10,11 +10,11 @@
   "abstract": "Find out the best time and place to grab a public bike in Austin, using Google Public Datasets and Power BI.",
   "description": "Find out the best time and place to grab a public bike in Austin, using Google Public Datasets and Power BI.",
   "images": [
-    "https://i.vimeocdn.com/video/1114913453_295x166.jpg"
+    "https://i.vimeocdn.com/video/1114913453-fc820eab3dacc351672caf6f4d19a15de97d236704d031972e7b94b23f894350-d_295x166"
   ],
   "vimeo": "538480026",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/276830478/",
-  "thumbnail": "https://i.vimeocdn.com/video/1114913453_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/1114913453-fc820eab3dacc351672caf6f4d19a15de97d236704d031972e7b94b23f894350-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/538480026.hd.mp4?s=7ec9a589d549430234256ac68723f311db52dd05&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/538480026.sd.mp4?s=4ca269c99e3372609f7ab07718e88388382edd09&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 1065,

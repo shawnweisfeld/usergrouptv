@@ -12,7 +12,7 @@
     {
       "title": "CIS Benchmarks – A Guide to SQL Server Security",
       "slug": "cis-benchmarks-a-guide-to-sql-server-security",
-      "thumbnail": "https://i.vimeocdn.com/video/505665397_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/505665397-482a9ae165cba4264a6215ff084395af1b064b8d4ad191f65a65e8c38c42af64-d_295x166",
       "date": "2015-01-31T23:00:11",
       "meetups": [
         {

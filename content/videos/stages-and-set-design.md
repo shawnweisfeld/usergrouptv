@@ -10,11 +10,11 @@
   "abstract": "<p>Does your team’s workspace support or hinder their performance? A team’s space must support a variety of conflicting needs like collaboration vs. focused work; team space vs. personal space; and team uniqueness vs. corporate culture/facilities policy. In this session, we’ll look at the needs of individuals and teams from the physical, social, and neurobiological perspectives to identify the factors that matter, and those that don’t. You will leave this interactive session with a clear picture of what is good, and what is not so good about your team space.</p>",
   "description": "<p>Does your team’s workspace support or hinder their performance? A team’s space must support a variety of conflicting needs like collaboration vs. focused work; team space vs. personal space; and team uniqueness vs. corporate culture/facilities policy. In this session, we’ll look at the needs of individuals and teams from the physical, social, and neurobiological perspectives to identify the factors that matter, and those that don’t. You will leave this interactive session with a clear picture of what is good, and what is not so good about your team space.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/486705644_295x166.jpg"
+    "https://i.vimeocdn.com/video/486705644-1342b04077d8d680db5bef0ec25bd887643073f4e0185caaa6ff40b5f02caeae-d_295x166"
   ],
   "vimeo": "104229093",
   "moreinfo": "http://www.improvingenterprises.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/486705644_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/486705644-1342b04077d8d680db5bef0ec25bd887643073f4e0185caaa6ff40b5f02caeae-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/104229093.hd.mp4?s=ce5632234e9de92b8da05334766fe364e58e167f&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/104229093.sd.mp4?s=91238aa2889269d9c815dd21469c82f358d741f5&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 1017,

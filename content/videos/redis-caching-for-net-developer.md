@@ -10,11 +10,11 @@
   "abstract": "<p>Redis (http://msopentech.com/opentech-projects/redis) is a very popular open-source, networked, in-memory, key-value data store. It is known for high performance, flexibility, a rich set of data structures, and a simple straightforward API. MS Open Tech has been working with the Redis community to build a production-ready Windows port of Redis, including 64-bit support, an installer for Windows Azure, NuGet support, and much more. In this talk we will discuss what it takes as a .NET Developer to work with Redis both on prem and in the cloud. \r\n</p>",
   "description": "<p>Redis (http://msopentech.com/opentech-projects/redis) is a very popular open-source, networked, in-memory, key-value data store. It is known for high performance, flexibility, a rich set of data structures, and a simple straightforward API. MS Open Tech has been working with the Redis community to build a production-ready Windows port of Redis, including 64-bit support, an installer for Windows Azure, NuGet support, and much more. In this talk we will discuss what it takes as a .NET Developer to work with Redis both on prem and in the cloud. \r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/498382867_295x166.jpg"
+    "https://i.vimeocdn.com/video/498382867-08fdbf526d0ef28983ad20e32f1c2b7848adf40daa9e2bd1341ab33eeac563d3-d_295x166"
   ],
   "vimeo": "113160307",
   "moreinfo": "http://www.dallasasp.net/Meetings/9829.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/498382867_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/498382867-08fdbf526d0ef28983ad20e32f1c2b7848adf40daa9e2bd1341ab33eeac563d3-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/113160307.hd.mp4?s=a80deb151dfaac37ce02e56224cb513bb47d08ec&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/113160307.sd.mp4?s=481283499fcba28cb207505f3895369c597c3c4c&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 900,

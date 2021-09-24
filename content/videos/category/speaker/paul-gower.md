@@ -12,7 +12,7 @@
     {
       "title": "Write Code For The Future You ",
       "slug": "write-code-for-the-future-you",
-      "thumbnail": "https://i.vimeocdn.com/video/540281865_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/540281865-94d4424813d6f88b4cbb747c19b11a9e7aa7870260331b41b79c2406bb9ebd7b-d_295x166",
       "date": "2015-10-16T02:03:49",
       "meetups": [
         {

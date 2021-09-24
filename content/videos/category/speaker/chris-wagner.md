@@ -12,7 +12,7 @@
     {
       "title": "Building Successful BI and Data Platforms following a Results First Strategy",
       "slug": "building-successful-bi-and-data-platforms-following-a-results-first-strategy",
-      "thumbnail": "https://i.vimeocdn.com/video/1216459477_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1216459477-5e9e26d653a62cd292d0f63b73ed5b53b3acc21fe78215be4b460bc0dd7921fd-d_295x166",
       "date": "2021-07-14T00:00:00",
       "meetups": [
         {

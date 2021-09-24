@@ -10,11 +10,11 @@
   "abstract": "<p>provide a solution template - a standard from which your team can rally. The standards will cover topics from variable naming, project templates, separation of concerns, and available frameworks. A short project may be demonstrated using these standards.</p>",
   "description": "<p>provide a solution template - a standard from which your team can rally. The standards will cover topics from variable naming, project templates, separation of concerns, and available frameworks. A short project may be demonstrated using these standards.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/587191234_295x166.jpg"
+    "https://i.vimeocdn.com/video/587191234-1cac4eba75fddd18b7855a8b481f53da685cc153e8adc4f17418309146b2519c-d_295x166"
   ],
   "vimeo": "179314611",
   "moreinfo": "http://techfests.com/Tulsa/2016/Speakers/MarkReynolds/",
-  "thumbnail": "https://i.vimeocdn.com/video/587191234_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/587191234-1cac4eba75fddd18b7855a8b481f53da685cc153e8adc4f17418309146b2519c-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/179314611.hd.mp4?s=d6977de92663bb8bbc0e07893112421dbe834b5d&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/179314611.sd.mp4?s=71e16b1954c035e62d0cbc415aff26dbad4ec894&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 181,

@@ -12,7 +12,7 @@
     {
       "title": "Develop/Deploy Node Apps with Docker",
       "slug": "developdeploy-node-apps-with-docker",
-      "thumbnail": "https://i.vimeocdn.com/video/650203200_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/650203200-a1b8eab6cbc210f3dfe413217fe6347bd6bdc10c6f5cf658e4092dc98f748c09-d_295x166",
       "date": "2017-07-20T14:16:36",
       "meetups": [
         {

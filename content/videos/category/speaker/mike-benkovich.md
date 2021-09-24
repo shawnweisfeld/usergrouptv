@@ -12,7 +12,7 @@
     {
       "title": "Cosmos Tools for the Relational Developer",
       "slug": "cosmos-tools-for-the-relational-developer",
-      "thumbnail": "https://i.vimeocdn.com/video/1136615596_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1136615596-c3a82d4580ef1aebf8763c8ff4eb603e622aa5e96d09045bdbcd3a18afd3422f-d_295x166",
       "date": "2021-04-20T00:00:00",
       "meetups": [
         {

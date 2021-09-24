@@ -13,11 +13,11 @@
   "abstract": "<p>Get the latest updates in .NET Core and how you can be more productive building apps that run on any platform or device. Learn about some of the exciting things we’re working on for .NET 5 and beyond.</p>",
   "description": "<p>Get the latest updates in .NET Core and how you can be more productive building apps that run on any platform or device. Learn about some of the exciting things we’re working on for .NET 5 and beyond.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/901233634_295x166.jpg"
+    "https://i.vimeocdn.com/video/901233634-5b0a14c07926d8f1416db2c5f4ecbf2eefe27282f1f1b98c8b48c5c82a0457b6-d_295x166"
   ],
   "vimeo": "424346253",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/270352812/",
-  "thumbnail": "https://i.vimeocdn.com/video/901233634_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/901233634-5b0a14c07926d8f1416db2c5f4ecbf2eefe27282f1f1b98c8b48c5c82a0457b6-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/424346253.hd.mp4?s=b06ea3dbe0f1ee15bc72aa45a3288d143e00d1c7&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/424346253.sd.mp4?s=5b5ce63ccb4984d8e4d9bf1384d79d030cdf0a07&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 345,

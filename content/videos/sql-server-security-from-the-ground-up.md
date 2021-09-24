@@ -10,11 +10,11 @@
   "abstract": "<p>In the modern age, data is a company's most valuable resource and, unfortunately, data crimes are common and laws to protect data are becoming more common and can have harsh punishments. Because of this, everyone that works with SQL Server should have a basic understanding of database security. Attend this session to learn the what, how, and why of database security. Learn what permissions, securables, and principals are. Learn how to manage database security. Most importantly, learn what the best practices are and why they are important. Your company's data is your responsibility, and after attending this session you can step up and keep it safe.\r\n</p>",
   "description": "<p>In the modern age, data is a company's most valuable resource and, unfortunately, data crimes are common and laws to protect data are becoming more common and can have harsh punishments. Because of this, everyone that works with SQL Server should have a basic understanding of database security. Attend this session to learn the what, how, and why of database security. Learn what permissions, securables, and principals are. Learn how to manage database security. Most importantly, learn what the best practices are and why they are important. Your company's data is your responsibility, and after attending this session you can step up and keep it safe.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/722234125_295x166.jpg"
+    "https://i.vimeocdn.com/video/722234125-6d3b2ce4dfb635b4b4f2af31ea047c0f64f0c4941481ac7b04f357c30254edfe-d_295x166"
   ],
   "vimeo": "287160428",
   "moreinfo": "http://www.sqlsaturday.com/794/Sessions/Details.aspx?sid=83772",
-  "thumbnail": "https://i.vimeocdn.com/video/722234125_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/722234125-6d3b2ce4dfb635b4b4f2af31ea047c0f64f0c4941481ac7b04f357c30254edfe-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/287160428.hd.mp4?s=825a8aeb2e62c7ae3bc188f401f417659300e494&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/287160428.sd.mp4?s=4c84be4b3622e72828fccf9e1e7a97ab2190b43f&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 489,

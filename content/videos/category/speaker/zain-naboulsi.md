@@ -12,7 +12,7 @@
     {
       "title": "The Ultimate Guide to Visual Studio 2010: Coding Debugging, Modeling, Testing, Building and Deployment",
       "slug": "the-ultimate-guide-to-visual-studio-2010-coding-debugging-modeling-testing-building-and-deployment",
-      "thumbnail": "https://i.vimeocdn.com/video/492995038_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/492995038-bc00a44c0305661efe200e82deff077ecb38477bffb21d83e2b912589510a6e1-d_295x166",
       "date": "2012-01-24T01:19:35",
       "meetups": [
         {
@@ -34,7 +34,7 @@
     {
       "title": "VS 2010 Tips and Tricks - Advanced",
       "slug": "vs-2010-tips-and-tricks-advanced",
-      "thumbnail": "https://i.vimeocdn.com/video/495144806_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/495144806-31f104f2b9a49ef372c8fc2b112d155d55a4db16a0c4847fe7f7b11b7c60c83a-d_295x166",
       "date": "2011-10-15T22:42:04",
       "meetups": [
         {

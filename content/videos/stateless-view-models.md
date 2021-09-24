@@ -10,11 +10,11 @@
   "abstract": "<p>You've seen how to use MVVM Light to build stateful view models. You've used the message bus to synchronize that state among several view models. You saw how complex a solution can get. Now lets see a simpler alternative. Stateless view models don't need a message bus to keep data up to date. They track dependencies upon the model, and automatically update when that data changes. This simplifies your view model code by eliminating property changed notification, message publication, and state management. Stateless view models enable a powerful new set of patterns. In this session, we will explore some of those patterns, including: Linq projections, Selection model, Dynamic search and sort. This style of view model is made possible with the use of a dependency tracking framework. For this workshop, we will be using Update Controls, an open-source library available through NuGet.</p>",
   "description": "<p>You've seen how to use MVVM Light to build stateful view models. You've used the message bus to synchronize that state among several view models. You saw how complex a solution can get. Now lets see a simpler alternative. Stateless view models don't need a message bus to keep data up to date. They track dependencies upon the model, and automatically update when that data changes. This simplifies your view model code by eliminating property changed notification, message publication, and state management. Stateless view models enable a powerful new set of patterns. In this session, we will explore some of those patterns, including: Linq projections, Selection model, Dynamic search and sort. This style of view model is made possible with the use of a dependency tracking framework. For this workshop, we will be using Update Controls, an open-source library available through NuGet.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/485084413_295x166.jpg"
+    "https://i.vimeocdn.com/video/485084413-3ee98558009c5fcf376a5a4c940dd7af66aaf99fa0481347fc8ef1b37c351662-d_295x166"
   ],
   "vimeo": "102965333",
   "moreinfo": "http://dallasxaml.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/485084413_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/485084413-3ee98558009c5fcf376a5a4c940dd7af66aaf99fa0481347fc8ef1b37c351662-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/102965333.hd.mp4?s=2ba6b6058e04a83521840889379c6ae912f302f7&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/102965333.sd.mp4?s=a0ed57b547ab9cd1004e4f85f982596bc8fe54f4&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 589,

@@ -12,7 +12,7 @@
     {
       "title": "Database Project Makes Deployment Consistent",
       "slug": "database-project-makes-deployment-consistent",
-      "thumbnail": "https://i.vimeocdn.com/video/640581517_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/640581517-ba02aba79c20c7c842e7c548fd2455fbd1c8beeb8a04496b964e71e50530695a-d_295x166",
       "date": "2017-06-17T14:13:22",
       "meetups": [
         {
@@ -34,7 +34,7 @@
     {
       "title": "Beginning Azure",
       "slug": "beginning-azure",
-      "thumbnail": "https://i.vimeocdn.com/video/570946679_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/570946679-41ea1f25f84d0c62a234fd1886b7a815745a7e904ba3e7df1ef46fbd2276fc57-d_295x166",
       "date": "2016-05-14T12:26:44",
       "meetups": [
         {

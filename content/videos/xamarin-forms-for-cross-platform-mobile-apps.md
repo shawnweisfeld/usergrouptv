@@ -10,11 +10,11 @@
   "abstract": "<p>Xamarin.Forms is a new framework that allows mobile application developers to write portable apps for Android, iOS, and Windows Phone with nearly 100% reusable code while still maintaining a native look and feel for each platform. This talk will cover the basics of using Xamarin.Forms from building a basic application using XAML and MVVM to using custom renderers to customize the application for each platform. </p>",
   "description": "<p>Xamarin.Forms is a new framework that allows mobile application developers to write portable apps for Android, iOS, and Windows Phone with nearly 100% reusable code while still maintaining a native look and feel for each platform. This talk will cover the basics of using Xamarin.Forms from building a basic application using XAML and MVVM to using custom renderers to customize the application for each platform. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/511708027_295x166.jpg"
+    "https://i.vimeocdn.com/video/511708027-9ffa64dfb93440139b6418f1efecb1328973993d1a4dc1020f8e5025098a224b-d_295x166"
   ],
   "vimeo": "122649308",
   "moreinfo": "http://www.meetup.com/Austin-Mobile-NET-Developers-Group/events/220150155/",
-  "thumbnail": "https://i.vimeocdn.com/video/511708027_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/511708027-9ffa64dfb93440139b6418f1efecb1328973993d1a4dc1020f8e5025098a224b-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/122649308.hd.mp4?s=1646ebb7982e777d694a06d8729b95c60cdff68a&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/122649308.sd.mp4?s=5cd056d1b9cb85183f138c190edc1dab8398c405&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 827,

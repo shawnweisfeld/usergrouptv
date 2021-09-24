@@ -10,11 +10,11 @@
   "abstract": "",
   "description": "",
   "images": [
-    "https://i.vimeocdn.com/video/722233963_295x166.jpg"
+    "https://i.vimeocdn.com/video/722233963-7c9000a5f375349f34a807309a9b35a3627934379587cb6130cb3ab47d3d12e8-d_295x166"
   ],
   "vimeo": "287160260",
   "moreinfo": "http://www.sqlsaturday.com/794/Sessions/Details.aspx?sid=85483",
-  "thumbnail": "https://i.vimeocdn.com/video/722233963_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/722233963-7c9000a5f375349f34a807309a9b35a3627934379587cb6130cb3ab47d3d12e8-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/287160260.hd.mp4?s=546859f3ab1acbc4c1d8bf378a0a2414188239e6&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/287160260.sd.mp4?s=87fdfa0001ce2726348a149fe5164b0470dcbe29&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 456,

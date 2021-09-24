@@ -12,7 +12,7 @@
     {
       "title": "Ship Your First Epic Game",
       "slug": "ship-your-first-epic-game",
-      "thumbnail": "https://i.vimeocdn.com/video/481993830_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/481993830-68219cc694badb6fc10ddc8a13f96ee0a34207e31227e2809b958a429c8e2ec0-d_295x166",
       "date": "2014-06-14T11:00:42",
       "meetups": [
         {

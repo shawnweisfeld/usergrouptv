@@ -12,7 +12,7 @@
     {
       "title": "DOZENS of New Product Announcements, a MSFT Solutions Pro's Take on MSFT Ignite",
       "slug": "dozens-of-new-product-announcements-a-msft-solutions-pros-take-on-msft-ignite",
-      "thumbnail": "https://i.vimeocdn.com/video/739798321_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/739798321-b1f7df13bb564990179a3a491dd9189a0c254e203ad53b6071974d1fddb24839-d_295x166",
       "date": "2018-11-14T16:53:41",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Office 365 eDiscovery & Compliance",
       "slug": "office-365-ediscovery-compliance",
-      "thumbnail": "https://i.vimeocdn.com/video/651775311_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/651775311-d24113cef14138f431950c56e01276a4293cb91a3b9b28132871b74cbe9332b5-d_295x166",
       "date": "2017-08-09T14:31:31",
       "meetups": [
         {

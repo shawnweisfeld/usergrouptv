@@ -11,11 +11,11 @@
   "abstract": "Introduction to Charticulator",
   "description": "Introduction to Charticulator",
   "images": [
-    "https://i.vimeocdn.com/video/1216459183_295x166"
+    "https://i.vimeocdn.com/video/1216459183-dbe72bd6fea263a34dad08e2ae0dc3a57bd4a3b82fac3eba875a5e43663be541-d_295x166"
   ],
   "vimeo": "587542341",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/279597216",
-  "thumbnail": "https://i.vimeocdn.com/video/1216459183_295x166",
+  "thumbnail": "https://i.vimeocdn.com/video/1216459183-dbe72bd6fea263a34dad08e2ae0dc3a57bd4a3b82fac3eba875a5e43663be541-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/587542341.hd.mp4?s=8bb3fc69755bd2e331a7714fccce389d08b643f9&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/587542341.sd.mp4?s=269828c12304e8a9439bbe6023991bba0621e7c1&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 1081,

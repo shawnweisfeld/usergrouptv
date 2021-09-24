@@ -12,7 +12,7 @@
     {
       "title": "Getting Started with WebMatrix and Razor",
       "slug": "getting-started-with-webmatrix-and-razor",
-      "thumbnail": "https://i.vimeocdn.com/video/495397916_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/495397916-9d698beae05e4919918277ed714a1c6985d64ee06fcb661e483e6f3c4d70a41a-d_295x166",
       "date": "2012-04-04T12:19:27",
       "meetups": [
         {
@@ -34,7 +34,7 @@
     {
       "title": "Web Security - How Secure Am I?",
       "slug": "web-security-how-secure-am-i",
-      "thumbnail": "https://i.vimeocdn.com/video/507046778_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/507046778-09caee7d6c2425d612077f44681d3c0bb7ae0c3fbec40f9af1c1a26341f55d65-d_295x166",
       "date": "2011-07-07T22:27:39",
       "meetups": [
         {
@@ -52,7 +52,7 @@
     {
       "title": "Mongo DB",
       "slug": "mongo-db",
-      "thumbnail": "https://i.vimeocdn.com/video/498383573_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/498383573-e8c617fab645e3c500c801012bc12dc8c41fbbdb7c4c92121e16f0d1fb04bd0d-d_295x166",
       "date": "2011-06-21T18:58:09",
       "meetups": [
         {

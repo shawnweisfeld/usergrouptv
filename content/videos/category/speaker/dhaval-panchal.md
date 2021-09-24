@@ -12,7 +12,7 @@
     {
       "title": "Systems thinking for transformative change",
       "slug": "systems-thinking-for-transformative-change",
-      "thumbnail": "https://i.vimeocdn.com/video/728996042_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/728996042-f720d5ceada2afbaa4f72d9fb18bc60c10d67adee1b57c9920ec5efd666e5769-d_295x166",
       "date": "2018-09-29T15:26:19",
       "meetups": [
         {

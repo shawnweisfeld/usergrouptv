@@ -12,7 +12,7 @@
     {
       "title": "Tutorial on Building Scalable Web Applications in the Cloud",
       "slug": "tutorial-on-building-scalable-web-applications-in-the-cloud",
-      "thumbnail": "https://i.vimeocdn.com/video/586634769_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/586634769-590962dee6eece2e545d5cee7ca6fe239b75e464130c7ff38cb78b6f641231b6-d_295x166",
       "date": "2016-08-05T14:31:33",
       "meetups": [
         {

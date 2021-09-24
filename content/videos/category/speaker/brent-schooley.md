@@ -12,7 +12,7 @@
     {
       "title": "Designing for Windows 8",
       "slug": "designing-for-windows-8",
-      "thumbnail": "https://i.vimeocdn.com/video/484300871_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/484300871-bff90f70df11c25184192087f9cf3a517ef44fe0b556e2184995ce4122d28f04-d_295x166",
       "date": "2013-05-09T13:24:23",
       "meetups": [
         {

@@ -10,11 +10,11 @@
   "abstract": "<p>Building apps with Wearable Technology using Xamarin for the Apple Watch and Microsoft Band</p>",
   "description": "<p>Building apps with Wearable Technology using Xamarin for the Apple Watch and Microsoft Band</p>",
   "images": [
-    "https://i.vimeocdn.com/video/521723567_295x166.jpg"
+    "https://i.vimeocdn.com/video/521723567-82411f88116f37f9fd899e8d358419b1153ca1537baf50011a7e6af71dfe369b-d_295x166"
   ],
   "vimeo": "130023124",
   "moreinfo": "http://xamarin.com/dev-days",
-  "thumbnail": "https://i.vimeocdn.com/video/521723567_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/521723567-82411f88116f37f9fd899e8d358419b1153ca1537baf50011a7e6af71dfe369b-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/130023124.hd.mp4?s=16afae634e3f1602ec59bd29df08a4a37c6e5cb8&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/130023124.sd.mp4?s=6013ed648b59d99f438c2df5e878c17d82e7e910&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 803,

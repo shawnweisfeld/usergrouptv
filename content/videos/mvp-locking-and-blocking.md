@@ -10,11 +10,11 @@
   "abstract": "",
   "description": "",
   "images": [
-    "https://i.vimeocdn.com/video/760925178_295x166.jpg"
+    "https://i.vimeocdn.com/video/760925178-736f42f98cce95c8531dbfe22dc7828e755df152d23f9a1bcef37e4856fde78b-d_295x166"
   ],
   "vimeo": "318521280",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/fnxhcqyzdbzb/",
-  "thumbnail": "https://i.vimeocdn.com/video/760925178_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/760925178-736f42f98cce95c8531dbfe22dc7828e755df152d23f9a1bcef37e4856fde78b-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/318521280.hd.mp4?s=ab7a89baaf61f35eecad3e5318882c4ae1ab0870&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/318521280.sd.mp4?s=03ed194e872d0c2ea7682dae46adc438a5776cdd&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 482,

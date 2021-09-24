@@ -12,7 +12,7 @@
     {
       "title": "Automated Browser Testing From The Trenches ",
       "slug": "automated-browser-testing-from-the-trenches",
-      "thumbnail": "https://i.vimeocdn.com/video/581848094_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/581848094-633deef48a7dda9162d6fc221e73e0a8a3a4843d0b4a62494e6b32ba3f97c49c-d_295x166",
       "date": "2016-07-11T11:23:34",
       "meetups": [
         {

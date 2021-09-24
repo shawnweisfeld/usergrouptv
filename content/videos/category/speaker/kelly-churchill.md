@@ -12,7 +12,7 @@
     {
       "title": "USE DESIGN THINKING TO HELP LAND YOUR NEXT JOB",
       "slug": "use-design-thinking-to-help-land-your-next-job",
-      "thumbnail": "https://i.vimeocdn.com/video/650871796_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/650871796-222a4c8f621f8bcfb376e6d08426346da2b6af784a9e8a3f1bf4a1e45d7f3c95-d_295x166",
       "date": "2017-08-05T16:36:42",
       "meetups": [
         {

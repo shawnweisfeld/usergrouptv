@@ -11,11 +11,11 @@
   "abstract": "<p>Windows 8 is a fast, fluid and interactive user experience that enables amazingly beautiful and powerful applications supporting a wide range of devices.Windows Azure is a flexible and open cloud platform for a wide variety of applications ranging from web sites to enterprise and mobile applications. Like the day chocolate met peanut butter, the combination of Windows 8 and Windows Azure represents a powerful architecture for building the next generation of applications for the reimagined desktop. Join Senior Microsoft Technical Evangelist Chris Koenig for an in-depth look at how to take advantage of the scalable, cloud-based data services available through Windows Azure from within your Windows 8 Metro application.\r\n</p>",
   "description": "<p>Windows 8 is a fast, fluid and interactive user experience that enables amazingly beautiful and powerful applications supporting a wide range of devices.Windows Azure is a flexible and open cloud platform for a wide variety of applications ranging from web sites to enterprise and mobile applications. Like the day chocolate met peanut butter, the combination of Windows 8 and Windows Azure represents a powerful architecture for building the next generation of applications for the reimagined desktop. Join Senior Microsoft Technical Evangelist Chris Koenig for an in-depth look at how to take advantage of the scalable, cloud-based data services available through Windows Azure from within your Windows 8 Metro application.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/485961858_295x166.jpg"
+    "https://i.vimeocdn.com/video/485961858-8c78f048a7556a211f32e10a9ec6e3f5b6e30a9ba66e57ab97ab5b3d22b2b596-d_295x166"
   ],
   "vimeo": "103659784",
   "moreinfo": "http://www.ddnug.net/",
-  "thumbnail": "https://i.vimeocdn.com/video/485961858_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/485961858-8c78f048a7556a211f32e10a9ec6e3f5b6e30a9ba66e57ab97ab5b3d22b2b596-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/103659784.hd.mp4?s=eaf0830a1bd0efd41a2c4860f7df96a0b41e40b6&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/103659784.sd.mp4?s=5c75b4833cc5eaec8c52684153905e985f7c42ec&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 638,
@@ -31,7 +31,7 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 41
+      "count": 42
     },
     {
       "name": "win8",

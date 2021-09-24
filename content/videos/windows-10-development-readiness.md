@@ -10,11 +10,11 @@
   "abstract": "<p>Windows 10 is here. Within 2-3 years, it’ll be on 1 Billion devices. Are you ready? Joseph Reynolds will provide information about what you need to know, as a developer, to take advantage of the over 2500 new platform features. This will be focused on introducing the new concepts of Windows 10 – and will be a fairly high level course. We will look at some code, but it won’t be a coding-heavy course, so if you’re a business user wanting some information on Windows 10 and what it can do for your brand, come on over!\r\n</p>",
   "description": "<p>Windows 10 is here. Within 2-3 years, it’ll be on 1 Billion devices. Are you ready? Joseph Reynolds will provide information about what you need to know, as a developer, to take advantage of the over 2500 new platform features. This will be focused on introducing the new concepts of Windows 10 – and will be a fairly high level course. We will look at some code, but it won’t be a coding-heavy course, so if you’re a business user wanting some information on Windows 10 and what it can do for your brand, come on over!\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/537387987_295x166.jpg"
+    "https://i.vimeocdn.com/video/537387987-6c812a3b93ce8000ed845c809c2c350876e52be27429541f53673dbf3b6c0192-d_295x166"
   ],
   "vimeo": "140730570",
   "moreinfo": "http://measureup.io/windows-10-development-readiness/",
-  "thumbnail": "https://i.vimeocdn.com/video/537387987_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/537387987-6c812a3b93ce8000ed845c809c2c350876e52be27429541f53673dbf3b6c0192-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/140730570.hd.mp4?s=0a621e72d9d6ccd43c277f2e386198712e8f18e4&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/140730570.sd.mp4?s=b1efe18146b7db809b73cd922fc999890814d6c1&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 899,

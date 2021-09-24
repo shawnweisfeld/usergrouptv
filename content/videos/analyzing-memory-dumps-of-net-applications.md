@@ -12,11 +12,11 @@
   "abstract": "When an application stops working as expected in production, few options are available. Sometimes it is not possible to debug, and the bugs are not reproducible on development machines. When that happens, it is not easy to understand the inner workings of the problem, and a memory dump is an excellent tool to help find the bug. In this session you will learn what a memory dump is, how to create one, analyze it, and in what scenarios it can be useful.",
   "description": "When an application stops working as expected in production, few options are available. Sometimes it is not possible to debug, and the bugs are not reproducible on development machines. When that happens, it is not easy to understand the inner workings of the problem, and a memory dump is an excellent tool to help find the bug. In this session you will learn what a memory dump is, how to create one, analyze it, and in what scenarios it can be useful.",
   "images": [
-    "https://i.vimeocdn.com/video/1057126317_295x166.jpg"
+    "https://i.vimeocdn.com/video/1057126317-d3e4f79d905d865144343f913bcdb425bec97c57de11ede8612a6e4f2652c21d-d_295x166"
   ],
   "vimeo": "510658276",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/275667256/",
-  "thumbnail": "https://i.vimeocdn.com/video/1057126317_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/1057126317-d3e4f79d905d865144343f913bcdb425bec97c57de11ede8612a6e4f2652c21d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/510658276.hd.mp4?s=8d05837cfe7bd61f954164c13e191a70e2e80418&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/510658276.sd.mp4?s=aa26d9fcca2f26f8394caf0f9929a4de8f09a20f&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 1055,

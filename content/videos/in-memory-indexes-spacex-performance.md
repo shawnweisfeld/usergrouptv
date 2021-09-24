@@ -10,11 +10,11 @@
   "abstract": "<p>This session does an in-depth dive into hash, range, and columnstore indexes in the in-memory environment. It will be about 25% presentation and 75% demos with emphasis on when and how to apply in-memory indexes for stated environments/scenarios. The demos will include performance comparisons to similar disk based indexes as well as the cost in RAM for the in-memory tables and storage memory for the equivalent disk based indexes.  Performance is everyone’s goal, and this session will boast your in-memory performance to Falcon Heavy® performance.\r\n</p>",
   "description": "<p>This session does an in-depth dive into hash, range, and columnstore indexes in the in-memory environment. It will be about 25% presentation and 75% demos with emphasis on when and how to apply in-memory indexes for stated environments/scenarios. The demos will include performance comparisons to similar disk based indexes as well as the cost in RAM for the in-memory tables and storage memory for the equivalent disk based indexes.  Performance is everyone’s goal, and this session will boast your in-memory performance to Falcon Heavy® performance.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/709493839_295x166.jpg"
+    "https://i.vimeocdn.com/video/709493839-60ddedcba408a0477e58f34c087b94c6feaeda370b3d9e463d899b7923395d1f-d_295x166"
   ],
   "vimeo": "276869922",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=77858",
-  "thumbnail": "https://i.vimeocdn.com/video/709493839_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/709493839-60ddedcba408a0477e58f34c087b94c6feaeda370b3d9e463d899b7923395d1f-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/276869922.hd.mp4?s=8fa447bb4ee5c4f033151bfcc7d23f92ed90eaec&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/276869922.sd.mp4?s=0a91c2687ac8cadc7d064631d992546e750eb525&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 396,

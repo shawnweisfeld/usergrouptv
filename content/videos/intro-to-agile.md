@@ -10,11 +10,11 @@
   "abstract": "<p>In today's world of software development the challenge of delivering quality value added software quickly and often have brought rise to a new approach in software development. Agile software development is becoming a widely proven and accepted alternative to heavy up front software development. There are many misconceptions with the processes and practices of Agile software development. This sessions is designed to give you a grounding on concepts that are used in many forms of Agile development including Scrum and Extreme Programming.</p>",
   "description": "<p>In today's world of software development the challenge of delivering quality value added software quickly and often have brought rise to a new approach in software development. Agile software development is becoming a widely proven and accepted alternative to heavy up front software development. There are many misconceptions with the processes and practices of Agile software development. This sessions is designed to give you a grounding on concepts that are used in many forms of Agile development including Scrum and Extreme Programming.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/499119325_295x166.jpg"
+    "https://i.vimeocdn.com/video/499119325-c5bbf8ef3a52614fe13a18b1fc1ab2a8a197f06326ae022f89642c8a9f993e97-d_295x166"
   ],
   "vimeo": "113705110",
   "moreinfo": "http://schoolofdev.com",
-  "thumbnail": "https://i.vimeocdn.com/video/499119325_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/499119325-c5bbf8ef3a52614fe13a18b1fc1ab2a8a197f06326ae022f89642c8a9f993e97-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/113705110.hd.mp4?s=e6a3507f23a2c3bc6eeb040d11ad3b68ed0905ad&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/113705110.sd.mp4?s=69f48bd4a189ef064cb42be31cc07f12fd579c00&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 678,

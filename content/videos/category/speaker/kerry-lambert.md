@@ -12,7 +12,7 @@
     {
       "title": "Case Study: National Instruments' Modern Workplace Journey",
       "slug": "case-study-national-instruments-modern-workplace-journey",
-      "thumbnail": "https://i.vimeocdn.com/video/807051205_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/807051205-bc83819e6306ae3cf0c88e458c0d3ae546251829d028d4e52b85963e6decde6c-d_295x166",
       "date": "2019-08-14T14:14:42",
       "meetups": [
         {

@@ -10,11 +10,11 @@
   "abstract": "<p>So people are talking about Docker. And Microsoft. IN THE SAME SENTENCE! And now it looks like you’ll have to figure out what it is and what it means to you. Well, I’ll tell you what it means to you. REVOLUTION! THAT’S WHAT! Just like Tupperware containers revolutionized how you view leftovers, Docker containers will change how we design and deploy our applications. In this session, we’ll look at how you will be able to use Docker when Windows Server vNext is released as well as how you can take advantage of it today, despite its Linux leanings.\r\n</p>",
   "description": "<p>So people are talking about Docker. And Microsoft. IN THE SAME SENTENCE! And now it looks like you’ll have to figure out what it is and what it means to you. Well, I’ll tell you what it means to you. REVOLUTION! THAT’S WHAT! Just like Tupperware containers revolutionized how you view leftovers, Docker containers will change how we design and deploy our applications. In this session, we’ll look at how you will be able to use Docker when Windows Server vNext is released as well as how you can take advantage of it today, despite its Linux leanings.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/537388230_295x166.jpg"
+    "https://i.vimeocdn.com/video/537388230-e29c95136efc179adba819ce34d9519b24935213a20acfe8ea2c227625c4882b-d_295x166"
   ],
   "vimeo": "140730533",
   "moreinfo": "http://measureup2015.azurewebsites.net/docker/",
-  "thumbnail": "https://i.vimeocdn.com/video/537388230_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/537388230-e29c95136efc179adba819ce34d9519b24935213a20acfe8ea2c227625c4882b-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/140730533.hd.mp4?s=46fabcc29bc58a22e80b5d56a876e2a597992c90&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/140730533.sd.mp4?s=30646cfb4bede45120db235983f5551813e1e1b3&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 885,

@@ -12,7 +12,7 @@
     {
       "title": "Cross-Platform Development With jQuery Mobile",
       "slug": "cross-platform-development-with-jquery-mobile",
-      "thumbnail": "https://i.vimeocdn.com/video/499118405_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/499118405-f3ec4aefaf66485563fb1fabe2d06284d3c4c704e4441064a2f29e08bb9503ad-d_295x166",
       "date": "2011-05-24T18:16:17",
       "meetups": [
         {

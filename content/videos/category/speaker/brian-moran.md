@@ -12,7 +12,7 @@
     {
       "title": "IS INDEPENDENT CONSULTING FOR ME?",
       "slug": "is-independent-consulting-for-me",
-      "thumbnail": "https://i.vimeocdn.com/video/489458367_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/489458367-0270e88bb1cd052c0ed430057ea64c34e0dab4f7b7359876a0b489c460b6db5f-d_295x166",
       "date": "2014-09-16T16:24:48",
       "meetups": [
         {

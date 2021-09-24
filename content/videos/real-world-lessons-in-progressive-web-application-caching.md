@@ -10,11 +10,11 @@
   "abstract": "<p>In this session we will cover real details about caching reality based on real world experience in bringing Progressive Web Applications to market. This is not a session to sell the concept, but a session to highlight caching nuances you don't see until you sit down to write the code.</p>",
   "description": "<p>In this session we will cover real details about caching reality based on real world experience in bringing Progressive Web Applications to market. This is not a session to sell the concept, but a session to highlight caching nuances you don't see until you sit down to write the code.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/732110035_295x166.jpg"
+    "https://i.vimeocdn.com/video/732110035-d7d8dba67f6ca5a12f5c6b0344b78d07ee063010ea08c9473e8df685e06fe1aa-d_295x166"
   ],
   "vimeo": "295055212",
   "moreinfo": "https://www.devfestweekend.com/schedule",
-  "thumbnail": "https://i.vimeocdn.com/video/732110035_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/732110035-d7d8dba67f6ca5a12f5c6b0344b78d07ee063010ea08c9473e8df685e06fe1aa-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/295055212.hd.mp4?s=02361b8e4826b809bbf20d97c240a8f526fa9719&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/295055212.sd.mp4?s=23667db971fb33e44728053547e3f10917896fc3&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 463,

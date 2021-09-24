@@ -10,11 +10,11 @@
   "abstract": "<p>Writing a full-fledged Rich Internet Application presents a number of daunting challenges: forced n-tier, async, latency, validation, concurrency, and authentication. WCF RIA Services simplifies and streamlines the process with support for query composability, change-tracking and batch updates, attributes for presentation and data validation, shared code and async support. In this seminar Tony will pull back the curtain to show you how RIA Services performs its magic, and he&rsquo;ll provide tools and techniques to reduce the time and effort required to build Silverlight business applications.</p>\r\n<p><a href=\"http://blog.tonysneed.com/2011/04/20/wcf-ria-services-webinar\">More info on Tony's blog here</a></p>",
   "description": "<p>Writing a full-fledged Rich Internet Application presents a number of daunting challenges: forced n-tier, async, latency, validation, concurrency, and authentication. WCF RIA Services simplifies and streamlines the process with support for query composability, change-tracking and batch updates, attributes for presentation and data validation, shared code and async support. In this seminar Tony will pull back the curtain to show you how RIA Services performs its magic, and he&rsquo;ll provide tools and techniques to reduce the time and effort required to build Silverlight business applications.</p>\r\n<p><a href=\"http://blog.tonysneed.com/2011/04/20/wcf-ria-services-webinar\">More info on Tony's blog here</a></p>",
   "images": [
-    "https://i.vimeocdn.com/video/507042264_295x166.jpg"
+    "https://i.vimeocdn.com/video/507042264-5f315507f38e12baf91a162239b26d93c644b6e035f1272e5f58322930ff1f3f-d_295x166"
   ],
   "vimeo": "119594925",
   "moreinfo": "http://www.develop.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/507042264_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/507042264-5f315507f38e12baf91a162239b26d93c644b6e035f1272e5f58322930ff1f3f-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/119594925.hd.mp4?s=428b1a45f646f6876156c59562593bebaa4e68fe&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/119594925.sd.mp4?s=7e1a898bc65fbf94beb1d40f73c176703da78c0c&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 696,

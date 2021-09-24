@@ -12,7 +12,7 @@
     {
       "title": "0 to 60 with Highway.Data",
       "slug": "0-to-60-with-highway-data",
-      "thumbnail": "https://i.vimeocdn.com/video/488138475_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/488138475-f33e709a283d38f92b320bad9575f49ebfd56b88763dd8f768a3ddea31ca3541-d_295x166",
       "date": "2012-08-24T12:56:03",
       "meetups": [
         {
@@ -34,7 +34,7 @@
     {
       "title": "Intro to Agile",
       "slug": "intro-to-agile",
-      "thumbnail": "https://i.vimeocdn.com/video/499119325_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/499119325-c5bbf8ef3a52614fe13a18b1fc1ab2a8a197f06326ae022f89642c8a9f993e97-d_295x166",
       "date": "2011-05-27T01:27:15",
       "meetups": [
         {

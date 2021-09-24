@@ -10,11 +10,11 @@
   "abstract": "<p>Get started with Power Virtual Agents and create bots to integrate with your business data. Join us in this demo-heavy session.</p>",
   "description": "<p>Get started with Power Virtual Agents and create bots to integrate with your business data. Join us in this demo-heavy session.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/845730114_295x166.jpg"
+    "https://i.vimeocdn.com/video/845730114-5de5e9489099f3c447b06d1e7b07caf26941c5c2b09c32bb5c6c95d2e7ef72ba-d_295x166"
   ],
   "vimeo": "384090672",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/lsljlmybccblb/",
-  "thumbnail": "https://i.vimeocdn.com/video/845730114_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/845730114-5de5e9489099f3c447b06d1e7b07caf26941c5c2b09c32bb5c6c95d2e7ef72ba-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/384090672.hd.mp4?s=34a83bbe406d5efa7ebb304e4a997d05a04755b4&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/384090672.sd.mp4?s=553fff6458f6c7c1e0e44c1923d8d591eb852884&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 383,

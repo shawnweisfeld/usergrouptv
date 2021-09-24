@@ -10,11 +10,11 @@
   "abstract": "<p>Few technologies get more press than Domain Specific Languages. Often viewed as unapproachable, this presentation will demystify them. We will use Antlr to create a Lexer, Parser, and Abstract Syntax Tree for a small language we create from scratch. We will use CodeDom to generate C# code that runs it. The new language will solves a real business case. You should walk away with knowledge about how to create a language and how to actually run it.</p>",
   "description": "<p>Few technologies get more press than Domain Specific Languages. Often viewed as unapproachable, this presentation will demystify them. We will use Antlr to create a Lexer, Parser, and Abstract Syntax Tree for a small language we create from scratch. We will use CodeDom to generate C# code that runs it. The new language will solves a real business case. You should walk away with knowledge about how to create a language and how to actually run it.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/551268339_295x166.jpg"
+    "https://i.vimeocdn.com/video/551268339-f6aa477482490b785f0df933b726e6310dfc066526b0097b62f9cbb9859abc62-d_295x166"
   ],
   "vimeo": "151507058",
   "moreinfo": "http://adnug.org/Home/january-11-2016-dsl-using-antlr-and-c/",
-  "thumbnail": "https://i.vimeocdn.com/video/551268339_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/551268339-f6aa477482490b785f0df933b726e6310dfc066526b0097b62f9cbb9859abc62-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/151507058.hd.mp4?s=4337f68652142999411ae39af74228d786c0eba9&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/151507058.sd.mp4?s=fe280d8460ac6ce7b46f291208e2ce0519965cf8&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 844,

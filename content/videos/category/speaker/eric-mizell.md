@@ -12,7 +12,7 @@
     {
       "title": "An Introduction to Hadoop ",
       "slug": "an-introduction-to-hadoop",
-      "thumbnail": "https://i.vimeocdn.com/video/482636565_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/482636565-511b802b773c99ee2854210542f5b62c731af79e201dfb8c6d8af34fb42e8532-d_295x166",
       "date": "2014-05-03T19:42:00",
       "meetups": [
         {

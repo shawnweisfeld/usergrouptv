@@ -10,11 +10,11 @@
   "abstract": "<p>Windows 7 brought with it some new visual goodies that with Windows Forms, we are not able to tap into. WPF 4.0 however lets us add features to our desktop applications that hook directly into these cool new Windows 7 capabilities. In this session, I'll show how to use WPF to provide jump lists for your application, how to customize the task-bar popup as well as the task-bar icon, how to add features to the task-bar thumbnail, and how to add aero-glass visuals to any part of your application.</p>",
   "description": "<p>Windows 7 brought with it some new visual goodies that with Windows Forms, we are not able to tap into. WPF 4.0 however lets us add features to our desktop applications that hook directly into these cool new Windows 7 capabilities. In this session, I'll show how to use WPF to provide jump lists for your application, how to customize the task-bar popup as well as the task-bar icon, how to add features to the task-bar thumbnail, and how to add aero-glass visuals to any part of your application.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/495920369_295x166.jpg"
+    "https://i.vimeocdn.com/video/495920369-2e8d45153e92a335ff9cb73a0ed853965d8e4ffd9d7760e19250db51f31a2907-d_295x166"
   ],
   "vimeo": "111339411",
   "moreinfo": "http://dallastechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/495920369_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/495920369-2e8d45153e92a335ff9cb73a0ed853965d8e4ffd9d7760e19250db51f31a2907-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/111339411.hd.mp4?s=e734245373490a6a663242ec3cdd80f474c94710&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/111339411.sd.mp4?s=83314144b960cb372b1135c57c02ac84d9729451&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 664,

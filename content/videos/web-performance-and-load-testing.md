@@ -10,11 +10,11 @@
   "abstract": "<p>Visual Studio provides some exceptional tools for performance testing, particularly in relation to Web Performance and Web Service Performance. Even better, you can use Azure to run your tests! This session will provide you with an overview of the tools available to you, and some best practices based on projects I’ve been working on, and what has worked out best for our team. Some of the topics that will be covered include:\r\n</p>\r\n<ul>\r\n<li>Recorded Web Tests</li>\r\n<li>Coded Web Tests</li>\r\n<li>Web Service Tests</li>\r\n<li>Setting up a test environment</li>\r\n<li>Testing using Azure as the environment</li>\r\n</ul>",
   "description": "<p>Visual Studio provides some exceptional tools for performance testing, particularly in relation to Web Performance and Web Service Performance. Even better, you can use Azure to run your tests! This session will provide you with an overview of the tools available to you, and some best practices based on projects I’ve been working on, and what has worked out best for our team. Some of the topics that will be covered include:\r\n</p>\r\n<ul>\r\n<li>Recorded Web Tests</li>\r\n<li>Coded Web Tests</li>\r\n<li>Web Service Tests</li>\r\n<li>Setting up a test environment</li>\r\n<li>Testing using Azure as the environment</li>\r\n</ul>",
   "images": [
-    "https://i.vimeocdn.com/video/537238989_295x166.jpg"
+    "https://i.vimeocdn.com/video/537238989-f6bfc90384ab30023b543f434f178d67c51f882e654f3b8d7107f9820b14ccb3-d_295x166"
   ],
   "vimeo": "140642034",
   "moreinfo": "http://measureup.io/web-performance-and-load-testing/",
-  "thumbnail": "https://i.vimeocdn.com/video/537238989_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/537238989-f6bfc90384ab30023b543f434f178d67c51f882e654f3b8d7107f9820b14ccb3-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/140642034.hd.mp4?s=c2446333646e7d09d69a23571029b1b7a675b123&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/140642034.sd.mp4?s=b8eade78dbfab3324f9deeaf64d1883543b507e0&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 875,

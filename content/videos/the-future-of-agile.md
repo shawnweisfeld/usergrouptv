@@ -10,11 +10,11 @@
   "abstract": "<p>13 years after the Agile Manifesto, how are we doing? Is it what the manifesto authors expected? Has our industry improved as a whole? Is Agile just a trend? This interactive session will begin with a look back at the trends of the Agile movement. Attendees will then participate in an exercise that use those trends to predict what agility will look like 10 years from now.</p>",
   "description": "<p>13 years after the Agile Manifesto, how are we doing? Is it what the manifesto authors expected? Has our industry improved as a whole? Is Agile just a trend? This interactive session will begin with a look back at the trends of the Agile movement. Attendees will then participate in an exercise that use those trends to predict what agility will look like 10 years from now.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/486705637_295x166.jpg"
+    "https://i.vimeocdn.com/video/486705637-b2ac433353ec4f2436eb776f4f26184c0803aac16d94ad52847b7381888070ac-d_295x166"
   ],
   "vimeo": "104229052",
   "moreinfo": "http://www.improvingenterprises.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/486705637_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/486705637-b2ac433353ec4f2436eb776f4f26184c0803aac16d94ad52847b7381888070ac-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/104229052.hd.mp4?s=6d220d99401e2ea83a190316f79b2502a5f359e3&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/104229052.sd.mp4?s=e04e8290af0727708795413969de73346ad3fd3b&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 1016,

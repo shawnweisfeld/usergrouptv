@@ -10,11 +10,11 @@
   "abstract": "<p>Technical debt is no different from any other debt or liability a company holds. If left alone for enough time, it will slow down development to a crawl and halt the company's innovation in its tracks. Therefore, it must be paid off over time to prevent a technological apocalypse. This talk will showcase a few different strategies to pay off technical debt. Each strategy takes a balanced approach that does not encourage rewriting applications plagued by technical debt. Rewriting may be the most effective way of reducing technical debt, but it is impractical for most software companies. Features still need to be delivered while paying off technical debt. No matter the development process used by your company, you can incorporate these strategies into your workflow.</p>",
   "description": "<p>Technical debt is no different from any other debt or liability a company holds. If left alone for enough time, it will slow down development to a crawl and halt the company's innovation in its tracks. Therefore, it must be paid off over time to prevent a technological apocalypse. This talk will showcase a few different strategies to pay off technical debt. Each strategy takes a balanced approach that does not encourage rewriting applications plagued by technical debt. Rewriting may be the most effective way of reducing technical debt, but it is impractical for most software companies. Features still need to be delivered while paying off technical debt. No matter the development process used by your company, you can incorporate these strategies into your workflow.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/660010364_295x166.jpg"
+    "https://i.vimeocdn.com/video/660010364-8c7758918b5d6f000a0e5b4b88dd27f326f8cbf9784f2c8892956a1f27f7ac3d-d_295x166"
   ],
   "vimeo": "237561915",
   "moreinfo": "http://www.lrtechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/660010364_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/660010364-8c7758918b5d6f000a0e5b4b88dd27f326f8cbf9784f2c8892956a1f27f7ac3d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/237561915.hd.mp4?s=2d0285e036e586da19216dc8148ed039dac49a50&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/237561915.sd.mp4?s=0ccff9f5415db97fe47aa9c934f618dfaea391d0&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 23,

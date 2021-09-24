@@ -10,11 +10,11 @@
   "abstract": "<p>This is a walk-through on how to architect, build, and deploy web applications in the Cloud for people who have not built cloud applications before. This covers a few general cloud architectures, avoiding bottlenecks, and the nuts and bolts of configuring and deploying cloud servers.</p>",
   "description": "<p>This is a walk-through on how to architect, build, and deploy web applications in the Cloud for people who have not built cloud applications before. This covers a few general cloud architectures, avoiding bottlenecks, and the nuts and bolts of configuring and deploying cloud servers.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/586634769_295x166.jpg"
+    "https://i.vimeocdn.com/video/586634769-590962dee6eece2e545d5cee7ca6fe239b75e464130c7ff38cb78b6f641231b6-d_295x166"
   ],
   "vimeo": "178886498",
   "moreinfo": "http://techfests.com/Tulsa/2016/Speakers/JonathanBartlett/",
-  "thumbnail": "https://i.vimeocdn.com/video/586634769_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/586634769-590962dee6eece2e545d5cee7ca6fe239b75e464130c7ff38cb78b6f641231b6-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/178886498.hd.mp4?s=3f5343104a70fe680072e5fd6dd5776318bcb89e&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/178886498.sd.mp4?s=b21f5715e0f84f4445bdbec0fe207977e8f2f3c1&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 175,

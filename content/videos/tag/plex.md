@@ -11,7 +11,7 @@
     {
       "title": "Plex",
       "slug": "plex",
-      "thumbnail": "https://i.vimeocdn.com/video/661965594_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/661965594-77ea62978429dceef9153bbad08f39f67076b1ca3fc670cba40f275072a6ad1f-d_295x166",
       "date": "2017-10-14T11:42:46",
       "meetups": [
         {

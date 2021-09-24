@@ -12,7 +12,7 @@
     {
       "title": "Little Rock Tech Fest Keynote",
       "slug": "little-rock-tech-fest-keynote",
-      "thumbnail": "https://i.vimeocdn.com/video/540279596_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/540279596-822c517e70aa72dc1174c3f326b38369ac5f1b71de76a012737289db1b6049da-d_295x166",
       "date": "2015-10-16T02:21:20",
       "meetups": [
         {

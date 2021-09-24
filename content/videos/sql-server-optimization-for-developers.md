@@ -10,11 +10,11 @@
   "abstract": "<p>Database optimization is a critical component of overall application performance, and sub-optimal configurations can limit reliability, scalability, and the user experience. Unfortunately, many developers see database monitoring and optimization as a black art – something that’s better left to production and operations specialists. This presentation will focus on practical, real-world methods for monitoring and optimizing performance for SQL Server-based applications. Demonstrations will include understanding index types, capturing query data with SQL Profiler, analyzing indexes and using the Database Engine Tuning Advisor. In addition to live demos the content will focus on managing locking, managing schema changes, and application design best practices for developers.\r\n</p>",
   "description": "<p>Database optimization is a critical component of overall application performance, and sub-optimal configurations can limit reliability, scalability, and the user experience. Unfortunately, many developers see database monitoring and optimization as a black art – something that’s better left to production and operations specialists. This presentation will focus on practical, real-world methods for monitoring and optimizing performance for SQL Server-based applications. Demonstrations will include understanding index types, capturing query data with SQL Profiler, analyzing indexes and using the Database Engine Tuning Advisor. In addition to live demos the content will focus on managing locking, managing schema changes, and application design best practices for developers.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/482636013_295x166.jpg"
+    "https://i.vimeocdn.com/video/482636013-2ceaebd36a317225c442258032860e6c9711282b86e9765f2aa2d9ed47098052-d_295x166"
   ],
   "vimeo": "100978201",
   "moreinfo": "http://adnug.org/Home/april-14-2014-sql-server-optimization-for-developers/",
-  "thumbnail": "https://i.vimeocdn.com/video/482636013_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/482636013-2ceaebd36a317225c442258032860e6c9711282b86e9765f2aa2d9ed47098052-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/100978201.hd.mp4?s=582e6685ab9da2a163ba9ad875926deba4208ef2&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/100978201.sd.mp4?s=02e5125b4ade424578fa30e4510598dd6f1727f1&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 948,

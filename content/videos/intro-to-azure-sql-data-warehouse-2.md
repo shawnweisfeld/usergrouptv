@@ -10,11 +10,11 @@
   "abstract": "<p>In this session we will introduce Azure SQL Data Warehouse and provide the basics you need to get started. Azure SQL Data Warehouse combines the SQL Server relational database with Azure cloud scale-out capabilities. Built on our massively parallel processing (MPP) architecture, SQL Data Warehouse can handle your enterprise workload.</p>",
   "description": "<p>In this session we will introduce Azure SQL Data Warehouse and provide the basics you need to get started. Azure SQL Data Warehouse combines the SQL Server relational database with Azure cloud scale-out capabilities. Built on our massively parallel processing (MPP) architecture, SQL Data Warehouse can handle your enterprise workload.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/640579839_295x166.jpg"
+    "https://i.vimeocdn.com/video/640579839-c1c133aa4e46dec46626aa4cde4b600495d5f281702e6ca9007c4110fd20a8d2-d_295x166"
   ],
   "vimeo": "222133474",
   "moreinfo": "http://www.sqlsaturday.com/651/Sessions/Details.aspx?sid=63588",
-  "thumbnail": "https://i.vimeocdn.com/video/640579839_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/640579839-c1c133aa4e46dec46626aa4cde4b600495d5f281702e6ca9007c4110fd20a8d2-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/222133474.hd.mp4?s=ebba3112b63903678f0c3770e2ed7ba09ae8fcd5&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/222133474.sd.mp4?s=2a1906d224118d5798357b3f16f61d1ec8295056&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 211,

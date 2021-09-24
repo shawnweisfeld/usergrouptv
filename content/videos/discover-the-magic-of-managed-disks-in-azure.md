@@ -10,11 +10,11 @@
   "abstract": "<p>Come checkout the Magic of Managed Disks and learn how things like snapshots, scalability and encryption are handled for you. In this talk, we'll talk about Managed Disks and explore the situations that work best for them. Expect to walk away with a good understanding of their uses cases.</p>\r\n<p>WARNING: Many attendees experience a strong, inexplicable desire to use Managed Disks in their application immediately. If this symptoms persist, please contact your local Cloud Solution Architect or consult with Azure.com immediately.\r\n</p>",
   "description": "<p>Come checkout the Magic of Managed Disks and learn how things like snapshots, scalability and encryption are handled for you. In this talk, we'll talk about Managed Disks and explore the situations that work best for them. Expect to walk away with a good understanding of their uses cases.</p>\r\n<p>WARNING: Many attendees experience a strong, inexplicable desire to use Managed Disks in their application immediately. If this symptoms persist, please contact your local Cloud Solution Architect or consult with Azure.com immediately.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/632015565_295x166.jpg"
+    "https://i.vimeocdn.com/video/632015565-3e43d68b435174bead38930543324bac56ed27f95dd25daa326d7f9362b2825c-d_295x166"
   ],
   "vimeo": "215325271",
   "moreinfo": "https://www.meetup.com/azureaustin/events/238929285/",
-  "thumbnail": "https://i.vimeocdn.com/video/632015565_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/632015565-3e43d68b435174bead38930543324bac56ed27f95dd25daa326d7f9362b2825c-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/215325271.hd.mp4?s=3c625df64375ca89b0e754d56e520cbd5325cb3f&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/215325271.sd.mp4?s=cd02c6937322bdac720541e14cc586480a76a354&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 245,
@@ -37,7 +37,7 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 51
+      "count": 52
     }
   ]
 }

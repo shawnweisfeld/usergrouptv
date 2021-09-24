@@ -10,11 +10,11 @@
   "abstract": "<p>A ground-floor introduction to SQL Server permissions starting with the basics and moving into the security implications behinds stored procedures, views, database ownership, application connections, consolidated databases, application roles and more. This class is perfect for DBA's, developers and system admins, and includes information on securing Azure SQL databases!</p>",
   "description": "<p>A ground-floor introduction to SQL Server permissions starting with the basics and moving into the security implications behinds stored procedures, views, database ownership, application connections, consolidated databases, application roles and more. This class is perfect for DBA's, developers and system admins, and includes information on securing Azure SQL databases!</p>",
   "images": [
-    "https://i.vimeocdn.com/video/640578807_295x166.jpg"
+    "https://i.vimeocdn.com/video/640578807-c4818b4c790ba8a040e52b588c1ecbcf90b56516488ad6a2438ba065599d78cc-d_295x166"
   ],
   "vimeo": "222132616",
   "moreinfo": "http://www.sqlsaturday.com/651/Sessions/Details.aspx?sid=63544",
-  "thumbnail": "https://i.vimeocdn.com/video/640578807_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/640578807-c4818b4c790ba8a040e52b588c1ecbcf90b56516488ad6a2438ba065599d78cc-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/222132616.hd.mp4?s=6b54a8c529efc36174d239daa25f054a26711e49&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/222132616.sd.mp4?s=64e68c82e716ff26667fefd50813d73e859c0f88&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 209,

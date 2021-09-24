@@ -12,7 +12,7 @@
     {
       "title": "Introduction to Execution Plans",
       "slug": "introduction-to-execution-plans",
-      "thumbnail": "https://i.vimeocdn.com/video/661278314_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/661278314-02138652920043a47973e75d1aeb94a44458f749f675a0091fa3261ebc311859-d_295x166",
       "date": "2017-10-14T11:47:49",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Parameter Sniffing the Good, the Bad, and the Ugly",
       "slug": "parameter-sniffing-the-good-the-bad-and-the-ugly",
-      "thumbnail": "https://i.vimeocdn.com/video/598533698_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/598533698-62052e81098581e6ddb3c3cf23227bcf627408e253e44a49b4ced0d92a8a52ef-d_295x166",
       "date": "2016-10-18T10:43:46",
       "meetups": [
         {

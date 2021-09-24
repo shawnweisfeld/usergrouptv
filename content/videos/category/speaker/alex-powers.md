@@ -12,7 +12,7 @@
     {
       "title": "An Introduction to Tabular Editor",
       "slug": "an-introduction-to-tabular-editor",
-      "thumbnail": "https://i.vimeocdn.com/video/955146027_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/955146027-31557f168f459449cfd724f65df0b37c78173451482ddd18ae29df0230b5916c-d_295x166",
       "date": "2020-09-09T15:22:13",
       "meetups": [
         {

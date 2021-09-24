@@ -12,7 +12,7 @@
     {
       "title": "How we use Power BI at Enterprise DNA",
       "slug": "how-we-use-power-bi-at-enterprise-dna",
-      "thumbnail": "https://i.vimeocdn.com/video/1164372990_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1164372990-4630d4c63f8dc45e63ba30cfc2ffb209edb5da6180ae0aeed59d6fce474f9bfa-d_295x166",
       "date": "2021-06-09T00:00:00",
       "meetups": [
         {

@@ -12,7 +12,7 @@
     {
       "title": "Azure Search",
       "slug": "azure-search",
-      "thumbnail": "https://i.vimeocdn.com/video/492991147_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/492991147-dac3eec4cc0217c717af1662d121824892998408aa2866e6dfa9151691d8a0f6-d_295x166",
       "date": "2014-10-15T21:28:04",
       "meetups": [
         {

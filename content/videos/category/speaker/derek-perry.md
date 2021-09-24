@@ -12,7 +12,7 @@
     {
       "title": "Successfully Delivering Agile with Remotely Located Teams",
       "slug": "successfully-delivering-agile-with-remotely-located-teams",
-      "thumbnail": "https://i.vimeocdn.com/video/650202913_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/650202913-1588ddb920a1d5b85942da3e50d5da73bba263682b5f713ecb89d93b8f67f7ce-d_295x166",
       "date": "2017-07-20T14:10:33",
       "meetups": [
         {

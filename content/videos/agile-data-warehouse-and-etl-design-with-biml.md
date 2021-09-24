@@ -10,11 +10,11 @@
   "abstract": "<p>Business Intelligence Markup Language is literally changing the way we think about Data Warehouse design and ETL. In this interactive presentation you'll see how you can rapidly iterate through the Data Warehouse Development Cycle and provide ROI almost immediately.  Learn how you can use BimlScript to automatically create staging tables, SSIS Packages, and other necessary objects during the modeling process.</p>",
   "description": "<p>Business Intelligence Markup Language is literally changing the way we think about Data Warehouse design and ETL. In this interactive presentation you'll see how you can rapidly iterate through the Data Warehouse Development Cycle and provide ROI almost immediately.  Learn how you can use BimlScript to automatically create staging tables, SSIS Packages, and other necessary objects during the modeling process.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/622686595_295x166.jpg"
+    "https://i.vimeocdn.com/video/622686595-6f8506fc826ad273a1b7de7a6152e908362be9daf6c21f6664a99613cd1d3871-d_295x166"
   ],
   "vimeo": "207571402",
   "moreinfo": "http://www.sqlsaturday.com/603/Sessions/Details.aspx?sid=62914",
-  "thumbnail": "https://i.vimeocdn.com/video/622686595_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/622686595-6f8506fc826ad273a1b7de7a6152e908362be9daf6c21f6664a99613cd1d3871-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/207571402.hd.mp4?s=b0a9d30eea4889a32fd3324924f1ce04df78e710&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/207571402.sd.mp4?s=350a6a40141c28603d7c82d0ec0beb6b4f520c6e&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 238,

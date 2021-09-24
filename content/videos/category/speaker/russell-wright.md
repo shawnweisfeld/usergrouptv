@@ -12,7 +12,7 @@
     {
       "title": "Creating A SharePoint 2010 Workflow Real World Application",
       "slug": "creating-a-sharepoint-2010-workflow-real-world-application",
-      "thumbnail": "https://i.vimeocdn.com/video/495922033_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/495922033-22381e4f2ecac8e6d9569536f04abc9e2ad54bcd6786ef3ffb77cdd6ab71599d-d_295x166",
       "date": "2011-08-13T20:23:46",
       "meetups": [
         {

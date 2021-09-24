@@ -11,7 +11,7 @@
     {
       "title": "Intro to Azure SQL Data Warehouse",
       "slug": "intro-to-azure-sql-data-warehouse-2",
-      "thumbnail": "https://i.vimeocdn.com/video/640579839_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/640579839-c1c133aa4e46dec46626aa4cde4b600495d5f281702e6ca9007c4110fd20a8d2-d_295x166",
       "date": "2017-06-17T14:23:54",
       "meetups": [
         {

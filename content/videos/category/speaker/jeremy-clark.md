@@ -12,7 +12,7 @@
     {
       "title": "What's New in C# 8 Interfaces (and how to use them effectively)",
       "slug": "whats-new-in-c-8-interfaces-and-how-to-use-them-effectively",
-      "thumbnail": "https://i.vimeocdn.com/video/930462703_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/930462703-2490ba6715ddc0e7f1fdee938ac99c81fd6ad5b5c40337c71b8d4537da839433-d_295x166",
       "date": "2020-07-23T02:10:01",
       "meetups": [
         {

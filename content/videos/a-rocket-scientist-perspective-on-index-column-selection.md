@@ -10,11 +10,11 @@
   "abstract": "<p>Ever wonder how to select what columns need to be in an index definition and what columns should be in the INCLUDE clause.  This session will take a deep dive in looking at two SELECT queries on the AdventureWorks2017 database and what indexes give the best, adequate, and poor performance and their relation to disk space utilization.  Sometime what you have heard (word of mouth) is not always the overall best solution.  This session is about 60% demos and yields some surprising results.</p>",
   "description": "<p>Ever wonder how to select what columns need to be in an index definition and what columns should be in the INCLUDE clause.  This session will take a deep dive in looking at two SELECT queries on the AdventureWorks2017 database and what indexes give the best, adequate, and poor performance and their relation to disk space utilization.  Sometime what you have heard (word of mouth) is not always the overall best solution.  This session is about 60% demos and yields some surprising results.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/798800671_295x166.jpg"
+    "https://i.vimeocdn.com/video/798800671-732e7903129f6fdbfcbb16e5c293e289ea1a4bc92b1c84a011564bd95bd28c6e-d_295x166"
   ],
   "vimeo": "348234764",
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=92064",
-  "thumbnail": "https://i.vimeocdn.com/video/798800671_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/798800671-732e7903129f6fdbfcbb16e5c293e289ea1a4bc92b1c84a011564bd95bd28c6e-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/348234764.hd.mp4?s=81013e629131014d2fb29d5f68d8c12e013b6806&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/348234764.sd.mp4?s=dca981da7210a859b3550b3fcf137655b74c3ba2&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 272,

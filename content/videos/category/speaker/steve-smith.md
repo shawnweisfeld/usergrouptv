@@ -12,7 +12,7 @@
     {
       "title": "Introducing Domain-Driven Design",
       "slug": "introducing-domain-driven-design",
-      "thumbnail": "https://i.vimeocdn.com/video/927684320_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/927684320-67c205ecddb8dba06b8a17d7a6d8a36e6389731752e70ff66b029ff3c8b88aab-d_295x166",
       "date": "2020-07-07T13:07:52",
       "meetups": [
         {

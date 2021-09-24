@@ -12,7 +12,7 @@
     {
       "title": "Validation with RIA Services",
       "slug": "validation-with-ria-services",
-      "thumbnail": "https://i.vimeocdn.com/video/499120864_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/499120864-5a82365b43ccada430ebbc186510cec8beed0aa2ac9d879007d3ccc910682665-d_295x166",
       "date": "2011-06-07T18:29:01",
       "meetups": [
         {

@@ -10,11 +10,11 @@
   "abstract": "<p>XML is all over the place. But how do you get that data into SQL Server? SSIS provides an XML Source, but it is not easy to use. In this session we will handle increasingly complex XML documents. After an introduction to using the XML Source with a single set of elements, we will look at how to work with multiple element sets. This includes hierarchically structured XML documents.Attendees will be able to import simple XML using SSIS. They will be able to create import routines that pull data from different elements of more complex XML. They will understand the role the XML Schema plays in defining the XML data they import. </p>",
   "description": "<p>XML is all over the place. But how do you get that data into SQL Server? SSIS provides an XML Source, but it is not easy to use. In this session we will handle increasingly complex XML documents. After an introduction to using the XML Source with a single set of elements, we will look at how to work with multiple element sets. This includes hierarchically structured XML documents.Attendees will be able to import simple XML using SSIS. They will be able to create import routines that pull data from different elements of more complex XML. They will understand the role the XML Schema plays in defining the XML data they import. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/483491352_295x166.jpg"
+    "https://i.vimeocdn.com/video/483491352-17d67e84c8ecd7e0af425d7d753313623ee85af33d9be55682deaad9165966ce-d_295x166"
   ],
   "vimeo": "101661723",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=223&sessionid=14723",
-  "thumbnail": "https://i.vimeocdn.com/video/483491352_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/483491352-17d67e84c8ecd7e0af425d7d753313623ee85af33d9be55682deaad9165966ce-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/101661723.hd.mp4?s=a932185eff1e133549f4571ef47c97edd322fec5&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/101661723.sd.mp4?s=c64c3b7c4580651d3e97452ff2bfdcb3da8b3f58&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 964,

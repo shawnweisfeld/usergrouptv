@@ -10,11 +10,11 @@
   "abstract": "<p>Ever wonder what should go in a fact table and what belongs in a dimension? Have a suspicion that you’re forgetting important dimensions? Wouldn't it be great if somehow your design was self-documenting? In this session I’ll give you a couple new tools and show you a new way to look at your star schema. We’ll go past ‘why’ to see ‘how’ dimensional design is a great fit with the agile principles.</p>",
   "description": "<p>Ever wonder what should go in a fact table and what belongs in a dimension? Have a suspicion that you’re forgetting important dimensions? Wouldn't it be great if somehow your design was self-documenting? In this session I’ll give you a couple new tools and show you a new way to look at your star schema. We’ll go past ‘why’ to see ‘how’ dimensional design is a great fit with the agile principles.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/483489817_295x166.jpg"
+    "https://i.vimeocdn.com/video/483489817-52f0918621dd191edca31c19087b01f4e4229e5c253210d7de321557481b5fcd-d_295x166"
   ],
   "vimeo": "101660649",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=223&sessionid=16311",
-  "thumbnail": "https://i.vimeocdn.com/video/483489817_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/483489817-52f0918621dd191edca31c19087b01f4e4229e5c253210d7de321557481b5fcd-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/101660649.hd.mp4?s=913069b998aa17de700b7903ac400aaa4e288f99&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/101660649.sd.mp4?s=e791615aa66e436c815d9b669770cb43586f0904&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 937,

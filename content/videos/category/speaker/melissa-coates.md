@@ -12,7 +12,7 @@
     {
       "title": "Power BI Architecture End-to-End",
       "slug": "power-bi-architecture-endtoend",
-      "thumbnail": "https://i.vimeocdn.com/video/1084424191_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/1084424191-9a9f465e126d49535c974549887272300d4c653be9728063cbe52592cad6805d-d_295x166",
       "date": "2021-03-10T00:00:00",
       "meetups": [
         {

@@ -10,11 +10,11 @@
   "abstract": "<p>In this talk we dive into the code first approach using Entity Framework and specifically how to develop test first and architecturally sound EF code. This talk will morph and twist, so bring your questions and plenty of geek points.</p>",
   "description": "<p>In this talk we dive into the code first approach using Entity Framework and specifically how to develop test first and architecturally sound EF code. This talk will morph and twist, so bring your questions and plenty of geek points.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/494184191_295x166.jpg"
+    "https://i.vimeocdn.com/video/494184191-e6397355efd1b365aaceda012061af879a4a0ca1ddb5d5a068b7db9e192a7a37-d_295x166"
   ],
   "vimeo": "110068565",
   "moreinfo": "http://dallas-csharp-sig.com",
-  "thumbnail": "https://i.vimeocdn.com/video/494184191_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/494184191-e6397355efd1b365aaceda012061af879a4a0ca1ddb5d5a068b7db9e192a7a37-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/110068565.hd.mp4?s=f0104d36dba5dfde37bde1704a9b95d446b74648&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/110068565.sd.mp4?s=795bda2f642b99cc5455d539cd9bd458d53126f2&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 715,

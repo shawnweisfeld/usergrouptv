@@ -11,11 +11,11 @@
   "abstract": "<p>In this presentation, I will do a code deep dive an open-source .NET messaging framework and EBS called MassTransit.</p>",
   "description": "<p>In this presentation, I will do a code deep dive an open-source .NET messaging framework and EBS called MassTransit.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/499119012_295x166.jpg"
+    "https://i.vimeocdn.com/video/499119012-db8d736fe713321973fa57e5450e02d0ae3b7ee3f0547bad15787675e689e53b-d_295x166"
   ],
   "vimeo": "113704886",
   "moreinfo": "http://schoolofdev.com",
-  "thumbnail": "https://i.vimeocdn.com/video/499119012_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/499119012-db8d736fe713321973fa57e5450e02d0ae3b7ee3f0547bad15787675e689e53b-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/113704886.hd.mp4?s=17751e9ce0ef2e20235e5f80216d5912f04c8945&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/113704886.sd.mp4?s=a17167d37db47d8f942b47cfe2fbe3307c57551c&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 661,

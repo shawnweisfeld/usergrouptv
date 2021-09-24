@@ -10,11 +10,11 @@
   "abstract": "<p>Barry Rogers, President of Improving Texas, will moderate a Q&amp;A session with 4 IT leaders in the DFW area. Questions about the agile adoption experience for each company will be addressed from Barry and you, the audience!</p>",
   "description": "<p>Barry Rogers, President of Improving Texas, will moderate a Q&amp;A session with 4 IT leaders in the DFW area. Questions about the agile adoption experience for each company will be addressed from Barry and you, the audience!</p>",
   "images": [
-    "https://i.vimeocdn.com/video/491655161_295x166.jpg"
+    "https://i.vimeocdn.com/video/491655161-16b5e521b84b148fb1a3812fe32cc5fb3921544ea7ffa1b9a34a9ce9e8bd856d-d_295x166"
   ],
   "vimeo": "108063143",
   "moreinfo": "http://www.improvingenterprises.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/491655161_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/491655161-16b5e521b84b148fb1a3812fe32cc5fb3921544ea7ffa1b9a34a9ce9e8bd856d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/108063143.hd.mp4?s=bdb079b203ec601c54164ca4e7a99928ae159c5f&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/108063143.sd.mp4?s=5c40332abe160eb31555bba07eb3c36a46f6ab6b&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 738,

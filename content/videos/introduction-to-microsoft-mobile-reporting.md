@@ -10,11 +10,11 @@
   "abstract": "<p>This is a must attend session for every data professional.  Join me as I provide an overview of Microsoft Mobile Reporting, Microsofts newly acquired on-premises mobile BI solution.  Mobile Reporting is optimized for SQL Server and designed to enable rapid development and publishing of business intelligence in a way that delivers premium user experience on any device.  In this session I will provide an overview of Mobile Reporting, discuss its key features, provide an architectural overview and finally demonstrate how to author and publish dashboards.</p>",
   "description": "<p>This is a must attend session for every data professional.  Join me as I provide an overview of Microsoft Mobile Reporting, Microsofts newly acquired on-premises mobile BI solution.  Mobile Reporting is optimized for SQL Server and designed to enable rapid development and publishing of business intelligence in a way that delivers premium user experience on any device.  In this session I will provide an overview of Mobile Reporting, discuss its key features, provide an architectural overview and finally demonstrate how to author and publish dashboards.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/571063222_295x166.jpg"
+    "https://i.vimeocdn.com/video/571063222-c41028f4ccbdc7e822445cbd86d20a86c57b70d082476311fbf57392bcecbc70-d_295x166"
   ],
   "vimeo": "166881979",
   "moreinfo": "http://www.sqlsaturday.com/514/Sessions/Details.aspx?sid=46872",
-  "thumbnail": "https://i.vimeocdn.com/video/571063222_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/571063222-c41028f4ccbdc7e822445cbd86d20a86c57b70d082476311fbf57392bcecbc70-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/166881979.hd.mp4?s=5d8aef563bbb380dfd100cb8d8472ebf2b5350a9&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/166881979.sd.mp4?s=c2458be67abd804d84c63101d4253c9967a94699&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 861,

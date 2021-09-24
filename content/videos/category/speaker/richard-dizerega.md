@@ -12,7 +12,7 @@
     {
       "title": "Microsoft Graph: What is it and what it means for the SharePoint community",
       "slug": "microsoft-graph-what-is-it-and-what-it-means-for-the-sharepoint-community",
-      "thumbnail": "https://i.vimeocdn.com/video/707340319_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/707340319-58fa7fbdc97b39651ff9f5cb92a91e43df29f641b7e5f83f50c74b105174ce07-d_295x166",
       "date": "2018-06-13T13:28:22",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "What a SharePoint expert should know about Microsoft Teams ",
       "slug": "what-a-sharepoint-expert-should-know-about-microsoft-teams",
-      "thumbnail": "https://i.vimeocdn.com/video/640017038_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/640017038-3f0b302ba5cb46f922f09f856fccb3277697fc9e5b2c6cea439c49f35e65aac3-d_295x166",
       "date": "2017-06-14T12:34:57",
       "meetups": [
         {

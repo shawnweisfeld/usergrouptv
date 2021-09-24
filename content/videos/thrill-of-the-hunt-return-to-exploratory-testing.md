@@ -10,11 +10,11 @@
   "abstract": "<p>Some of the most interesting stories come from the career paths of software testers. What did you do before you started testing? Everyone has a before. Everyone has a moment they can point to when they realized quality assurance was something they might enjoy, and that it was an actual job. Then, came test automation. Automation divided the discipline into distinct groups: pro-manual, pro-automation, and bored. Uncover how exploratory testing can re-ignite a discipline and pave the way for more to enter testing as a career path. </p>",
   "description": "<p>Some of the most interesting stories come from the career paths of software testers. What did you do before you started testing? Everyone has a before. Everyone has a moment they can point to when they realized quality assurance was something they might enjoy, and that it was an actual job. Then, came test automation. Automation divided the discipline into distinct groups: pro-manual, pro-automation, and bored. Uncover how exploratory testing can re-ignite a discipline and pave the way for more to enter testing as a career path. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/660004408_295x166.jpg"
+    "https://i.vimeocdn.com/video/660004408-11a253dad054ad2ecae17e53110fde0fcf315fc077139dec2f1725d633e7b209-d_295x166"
   ],
   "vimeo": "237557230",
   "moreinfo": "http://www.lrtechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/660004408_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/660004408-11a253dad054ad2ecae17e53110fde0fcf315fc077139dec2f1725d633e7b209-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/237557230.hd.mp4?s=a2474c31c46e79844ef20633d02d177e77255cc6&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/237557230.sd.mp4?s=36b07492ab9397f50f64fce7f46a48b8a733fa92&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 37,

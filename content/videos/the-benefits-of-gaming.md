@@ -10,11 +10,11 @@
   "abstract": "<p>Studies show that people today are more stressed than ever.  We will discuss how playing video games can benefit your life. We will explore how to de-stress your mind, build team work strategies, exercise your body, and improve your communication skills all through play!  But wait, there's more!  Video games can also be very educational!  So take some time for yourself, and let's play!\r\n</p>",
   "description": "<p>Studies show that people today are more stressed than ever.  We will discuss how playing video games can benefit your life. We will explore how to de-stress your mind, build team work strategies, exercise your body, and improve your communication skills all through play!  But wait, there's more!  Video games can also be very educational!  So take some time for yourself, and let's play!\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/709498227_295x166.jpg"
+    "https://i.vimeocdn.com/video/709498227-4c414e151a0c188498fef2f03d960c325ddaffd4e511a84a639f332ef9c6ee63-d_295x166"
   ],
   "vimeo": "276873451",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=82868",
-  "thumbnail": "https://i.vimeocdn.com/video/709498227_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/709498227-4c414e151a0c188498fef2f03d960c325ddaffd4e511a84a639f332ef9c6ee63-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/276873451.hd.mp4?s=df645d00e3f4ff082d93eda39489be599c91ab2c&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/276873451.sd.mp4?s=23023db4c9d976c2a121533e1a15bd3973028d58&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 405,

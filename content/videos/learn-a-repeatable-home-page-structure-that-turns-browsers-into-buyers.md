@@ -10,11 +10,11 @@
   "abstract": "<p>We may describe ourselves simply as website builders, but we’re really in the business of marketing. At the heart and soul of marketing is content, yet it's often the most difficult part of a website, causing major slow downs in development and costing precious time and money. We’re left feeling stuck and frustrated. In this session, I’ll show you a proven strategy for structuring your home page content so it turns browsers into buyers, provides clearly defined steps to fill in content, and speeds up project completion. This super powerful approach is designed to work in our oversaturated, swipe-and-scan world of the web. When you know how to communicate what you offer, you have a clear path to bring in new business and you can go live in less time. You’ll be confident in a system that generates the right leads, allows you to charge more, and results in happy and loyal clients. </p>",
   "description": "<p>We may describe ourselves simply as website builders, but we’re really in the business of marketing. At the heart and soul of marketing is content, yet it's often the most difficult part of a website, causing major slow downs in development and costing precious time and money. We’re left feeling stuck and frustrated. In this session, I’ll show you a proven strategy for structuring your home page content so it turns browsers into buyers, provides clearly defined steps to fill in content, and speeds up project completion. This super powerful approach is designed to work in our oversaturated, swipe-and-scan world of the web. When you know how to communicate what you offer, you have a clear path to bring in new business and you can go live in less time. You’ll be confident in a system that generates the right leads, allows you to charge more, and results in happy and loyal clients. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/818412599_295x166.jpg"
+    "https://i.vimeocdn.com/video/818412599-c5c663ec6c48ee7e1201990b6ff77ba2d17e7da5479229cadc3087ebe82d78ac-d_295x166"
   ],
   "vimeo": "363306211",
   "moreinfo": "https://www.joomladaytexas.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/818412599_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/818412599-c5c663ec6c48ee7e1201990b6ff77ba2d17e7da5479229cadc3087ebe82d78ac-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/363306211.hd.mp4?s=694fa90ce63c0ded036845b558ece232dab7ecad&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/363306211.sd.mp4?s=b9e917013ee370b8504405189a9d2dcf0c1810dc&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 285,

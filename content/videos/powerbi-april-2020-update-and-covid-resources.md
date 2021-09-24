@@ -10,11 +10,11 @@
   "abstract": "<p>PowerBI April 2020 Update and COVID Resources</p>",
   "description": "<p>PowerBI April 2020 Update and COVID Resources</p>",
   "images": [
-    "https://i.vimeocdn.com/video/876243985_295x166.jpg"
+    "https://i.vimeocdn.com/video/876243985-d53cfce208daedd3f73eaaddf178e0d1820b62485b97295987606c19c3c52cc3-d_295x166"
   ],
   "vimeo": "405919435",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/268688134/",
-  "thumbnail": "https://i.vimeocdn.com/video/876243985_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/876243985-d53cfce208daedd3f73eaaddf178e0d1820b62485b97295987606c19c3c52cc3-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/405919435.hd.mp4?s=478c146ae096725b9239490b876610566fd54759&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/405919435.sd.mp4?s=f6daa3b9966bfabcb40317288144993ab825c13f&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 340,

@@ -10,11 +10,11 @@
   "abstract": "<p>In this talk I will talk about SQL Server stored procedures and techniques you can use to optimize them. I will cover stored procedures from a developer’s point of view including table variables, common table expressions and temporary tables. Which do you use and when do you use it. There will also be a number of quick tips that you can use to improve query performance when you walk out of the session</p>",
   "description": "<p>In this talk I will talk about SQL Server stored procedures and techniques you can use to optimize them. I will cover stored procedures from a developer’s point of view including table variables, common table expressions and temporary tables. Which do you use and when do you use it. There will also be a number of quick tips that you can use to improve query performance when you walk out of the session</p>",
   "images": [
-    "https://i.vimeocdn.com/video/487542423_295x166.jpg"
+    "https://i.vimeocdn.com/video/487542423-96c9eef3340d0fb0aca4c2a0bce32a7c66b5f0eea98090bf8e01a2938c882b1b-d_295x166"
   ],
   "vimeo": "104885907",
   "moreinfo": "http://codecamp13.adnug.org/",
-  "thumbnail": "https://i.vimeocdn.com/video/487542423_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/487542423-96c9eef3340d0fb0aca4c2a0bce32a7c66b5f0eea98090bf8e01a2938c882b1b-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/104885907.hd.mp4?s=a6866b68306b8083489712510d3b0372aca3bb65&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/104885907.sd.mp4?s=8ec93c306f1e903789a2e037997d570e99f4be48&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 603,

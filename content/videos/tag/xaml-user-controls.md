@@ -11,7 +11,7 @@
     {
       "title": "XAML User Controls",
       "slug": "xaml-user-controls",
-      "thumbnail": "https://i.vimeocdn.com/video/496719510_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/496719510-b423fffa84f17030daed6c8f364baff97ab93cb7e27120c45c8fb7e91ba8ed65-d_295x166",
       "date": "2011-09-06T03:17:42",
       "meetups": [
         {

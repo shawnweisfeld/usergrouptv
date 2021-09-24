@@ -12,7 +12,7 @@
     {
       "title": "R and SQL Server: Two Great Tastes That Taste Great Together",
       "slug": "r-and-sql-server-two-great-tastes-that-taste-great-together",
-      "thumbnail": "https://i.vimeocdn.com/video/661278006_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/661278006-a7326675813e18680c884d33198ed00705864e7f4c0ad93cac99a19921d9add4-d_295x166",
       "date": "2017-10-14T11:48:49",
       "meetups": [
         {

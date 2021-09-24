@@ -10,11 +10,11 @@
   "abstract": "<p>Kinect for Windows enables all kinds of new applications & experiences. Come to this session to find out how you can start using the Kinect SDK today. This C# code focused session will dive into the different aspects of the Kinect API. We’ll cover color and depth cameras, skeletal tracking, working with audio and a lot of cool demos.</p>",
   "description": "<p>Kinect for Windows enables all kinds of new applications & experiences. Come to this session to find out how you can start using the Kinect SDK today. This C# code focused session will dive into the different aspects of the Kinect API. We’ll cover color and depth cameras, skeletal tracking, working with audio and a lot of cool demos.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/484299124_295x166.jpg"
+    "https://i.vimeocdn.com/video/484299124-85d88aa76ddcc9ee71af0c6f01b7f0c93d90bef93d60fcb381c4e8a04d6265f0-d_295x166"
   ],
   "vimeo": "102317140",
   "moreinfo": "http://codecamp13.adnug.org/",
-  "thumbnail": "https://i.vimeocdn.com/video/484299124_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/484299124-85d88aa76ddcc9ee71af0c6f01b7f0c93d90bef93d60fcb381c4e8a04d6265f0-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/102317140.hd.mp4?s=d46ae12ece02d3c47468edb5771c6abb369d4537&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/102317140.sd.mp4?s=9838182b924efd102a960345129d858046b4cdd5&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 606,

@@ -10,11 +10,11 @@
   "abstract": "Get a peek behind the curtains to a Learning Plan tool that we build using Power BI at Enterprise DNA and how it works. ",
   "description": "Get a peek behind the curtains to a Learning Plan tool that we build using Power BI at Enterprise DNA and how it works. ",
   "images": [
-    "https://i.vimeocdn.com/video/1164372990_295x166"
+    "https://i.vimeocdn.com/video/1164372990-4630d4c63f8dc45e63ba30cfc2ffb209edb5da6180ae0aeed59d6fce474f9bfa-d_295x166"
   ],
   "vimeo": "562938681",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/278122697/",
-  "thumbnail": "https://i.vimeocdn.com/video/1164372990_295x166",
+  "thumbnail": "https://i.vimeocdn.com/video/1164372990-4630d4c63f8dc45e63ba30cfc2ffb209edb5da6180ae0aeed59d6fce474f9bfa-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/562938681.hd.mp4?s=98cef2ba1b85b816d8c1c2afbf55f7a32fe6a530&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/562938681.sd.mp4?s=d4e651783c4b0fadc9bbb8eab1da67c05f2db2f6&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 1071,

@@ -12,7 +12,7 @@
     {
       "title": "Introduction to Azure and cloud",
       "slug": "introduction-to-azure-and-cloud",
-      "thumbnail": "https://i.vimeocdn.com/video/566418431_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/566418431-14b2e714e5d940ea48aad4b1242611433f34a56b25d66c848d728193227c9a54-d_295x166",
       "date": "2016-04-16T11:00:27",
       "meetups": [
         {

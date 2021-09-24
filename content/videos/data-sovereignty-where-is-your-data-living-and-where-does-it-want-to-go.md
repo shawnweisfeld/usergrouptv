@@ -10,11 +10,11 @@
   "abstract": "<p>Originally from the Washington DC area, my experience across industries ranges from building nuclear power plants, working at vendors to the Space Shuttle program to working on Wall Street with major banks. Overall, I have worked on and implemented big or fast data at companies across North America, South American, Asia, and Europe in over 25 different industries across every imaginable platform, from Big Iron mainframes to the tiniest of embedded systems.</p>",
   "description": "<p>Originally from the Washington DC area, my experience across industries ranges from building nuclear power plants, working at vendors to the Space Shuttle program to working on Wall Street with major banks. Overall, I have worked on and implemented big or fast data at companies across North America, South American, Asia, and Europe in over 25 different industries across every imaginable platform, from Big Iron mainframes to the tiniest of embedded systems.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/650633572_295x166.jpg"
+    "https://i.vimeocdn.com/video/650633572-97e2985b44a813ed3b422d7740a247454bf7aae2e48f2fdfb2de3e48f5bc2279-d_295x166"
   ],
   "vimeo": "230140960",
   "moreinfo": "http://techfests.com/Tulsa/2017/Speakers/JamesBedenbaugh/default.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/650633572_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/650633572-97e2985b44a813ed3b422d7740a247454bf7aae2e48f2fdfb2de3e48f5bc2279-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/230140960.hd.mp4?s=e7afeb1369311ed8b3e7b38e060bbcdba7c18a72&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/230140960.sd.mp4?s=b754a3640dc1236a683379585e1f1e305ef410f2&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 228,

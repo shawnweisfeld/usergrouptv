@@ -12,7 +12,7 @@
     {
       "title": "In Memory OLTP",
       "slug": "in-memory-oltp",
-      "thumbnail": "https://i.vimeocdn.com/video/483492285_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/483492285-e8d48e3480d19dc029e51e793b782dee99b15884a4dd87611e056fb0b243d6e9-d_295x166",
       "date": "2013-09-09T02:34:44",
       "meetups": [
         {

@@ -10,11 +10,11 @@
   "abstract": "<p>Intro to Tableau</p>",
   "description": "<p>Intro to Tableau</p>",
   "images": [
-    "https://i.vimeocdn.com/video/483489271_295x166.jpg"
+    "https://i.vimeocdn.com/video/483489271-f17de1e20ad3c646d5c580d807c398a4ee3b37fc4e1de8b90e15eec0922bb17c-d_295x166"
   ],
   "vimeo": "101660276",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=223&sessionid=17464",
-  "thumbnail": "https://i.vimeocdn.com/video/483489271_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/483489271-f17de1e20ad3c646d5c580d807c398a4ee3b37fc4e1de8b90e15eec0922bb17c-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/101660276.hd.mp4?s=f3985ba6110db851c793a669f019d14bf981a05f&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/101660276.sd.mp4?s=31fa5503e902cc935cda9e171e60eb2816ec028c&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 936,

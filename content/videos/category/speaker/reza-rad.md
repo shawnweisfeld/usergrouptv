@@ -12,7 +12,7 @@
     {
       "title": "Power BI Relationship Simplified",
       "slug": "power-bi-relationship-simplified",
-      "thumbnail": "https://i.vimeocdn.com/video/894750510_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/894750510-6bff714ff3966f8e9d3198f241db77b274d9ddbb2b58f08d03a49be983137a84-d_295x166",
       "date": "2020-05-13T12:43:18",
       "meetups": [
         {

@@ -12,7 +12,7 @@
     {
       "title": "Adding a little DAPR to your .NET Microservices",
       "slug": "adding-a-little-dapr-to-your-net-microservices",
-      "thumbnail": "https://i.vimeocdn.com/video/959175670_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/959175670-2c225eacde5dccf6f0aa59218dfa985110d38c315e4c9f11cf679a15441e8b30-d_295x166",
       "date": "2020-09-08T13:49:27",
       "meetups": [
         {

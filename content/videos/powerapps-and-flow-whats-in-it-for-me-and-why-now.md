@@ -11,11 +11,11 @@
   "abstract": "<p>Overview of PowerApps and Flow, Best practices and current state, Review new features like Canvas Components, Responsive Design</p>",
   "description": "<p>Overview of PowerApps and Flow, Best practices and current state, Review new features like Canvas Components, Responsive Design</p>",
   "images": [
-    "https://i.vimeocdn.com/video/767089144_295x166.jpg"
+    "https://i.vimeocdn.com/video/767089144-7fa3185f01747d5f0cdbf8680a2d75eaeb8a52397727e7eafa80359519f7a77d-d_295x166"
   ],
   "vimeo": "323853065",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/lsljlmyzfbrb/",
-  "thumbnail": "https://i.vimeocdn.com/video/767089144_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/767089144-7fa3185f01747d5f0cdbf8680a2d75eaeb8a52397727e7eafa80359519f7a77d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/323853065.hd.mp4?s=ae2a9062639b4dbd4a5380af128fbda51eed1ee3&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/323853065.sd.mp4?s=d763133a59aa498a7f0fb3b2e978e297368c4107&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 390,

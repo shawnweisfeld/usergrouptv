@@ -10,11 +10,11 @@
   "abstract": "<p>Do you like dread stories? Join me while I narrate a few horror stories from the real life, featuring the production server that was down for hours, or the Database corrupted to the bone, or the lethal demon that spreaded thru all the network. In this session, we will examinate a few stories, and how the issue was easy to avoid, if the best practices would have been there since the beggining.\r\n</p>",
   "description": "<p>Do you like dread stories? Join me while I narrate a few horror stories from the real life, featuring the production server that was down for hours, or the Database corrupted to the bone, or the lethal demon that spreaded thru all the network. In this session, we will examinate a few stories, and how the issue was easy to avoid, if the best practices would have been there since the beggining.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/709500014_295x166.jpg"
+    "https://i.vimeocdn.com/video/709500014-73920547f85361eb9af9a701c9034fb85e87f5f1b02fb40988e2ff1e395b9e1f-d_295x166"
   ],
   "vimeo": "276874932",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=76993",
-  "thumbnail": "https://i.vimeocdn.com/video/709500014_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/709500014-73920547f85361eb9af9a701c9034fb85e87f5f1b02fb40988e2ff1e395b9e1f-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/276874932.hd.mp4?s=2502731c00b9c90df4965437537f5dd5e8c84e45&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/276874932.sd.mp4?s=cfb920ccf70bcca801d4d497b9b2a44092250b27&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 408,

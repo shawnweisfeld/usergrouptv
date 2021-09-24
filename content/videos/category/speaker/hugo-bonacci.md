@@ -12,7 +12,7 @@
     {
       "title": "JavaScript Deep Dive ",
       "slug": "javascript-deep-dive",
-      "thumbnail": "https://i.vimeocdn.com/video/484301548_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/484301548-f9ef0c1feeeaa0c1e179f0443645db7abd494ebe3c8eb56fcdc2176c26b5c0e2-d_295x166",
       "date": "2013-05-28T21:10:07",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Making CSS and ASP.NET Work ",
       "slug": "making-css-and-asp-net-work",
-      "thumbnail": "https://i.vimeocdn.com/video/485960271_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/485960271-b3c75ffd138a1bf95b790d15d64dfd94e457c66154de249b78848f65ed085d5d-d_295x166",
       "date": "2012-11-27T16:00:42",
       "meetups": [
         {

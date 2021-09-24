@@ -10,11 +10,11 @@
   "abstract": "<p>This presentation will provide you with the core knowledge needed to build fantastic forms in AngularJS by leveraging the framework's existing functionality and how to expand upon it to handle more complex validation tasks. Topics to be covered include: The AngularJS Form Controller Existing Validation Directives Displaying of Error Messages Enabling and Disabling of Submit Buttons Building Custom Validation Directives\r\n</p>",
   "description": "<p>This presentation will provide you with the core knowledge needed to build fantastic forms in AngularJS by leveraging the framework's existing functionality and how to expand upon it to handle more complex validation tasks. Topics to be covered include: The AngularJS Form Controller Existing Validation Directives Displaying of Error Messages Enabling and Disabling of Submit Buttons Building Custom Validation Directives\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/481964618_295x166.jpg"
+    "https://i.vimeocdn.com/video/481964618-763840b84fed7c4b4d5fea55c82f8753f7177ba49ea8825c5d923b0d953bd0da-d_295x166"
   ],
   "vimeo": "100467738",
   "moreinfo": "http://2014.cowtowntechroundup.com/Profile/d84644a5-8df8-44b4-b909-e76ff4a61737",
-  "thumbnail": "https://i.vimeocdn.com/video/481964618_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/481964618-763840b84fed7c4b4d5fea55c82f8753f7177ba49ea8825c5d923b0d953bd0da-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/100467738.hd.mp4?s=c88480b3679563029a067536a56e06f34c499b2d&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/100467738.sd.mp4?s=73bd86d7f575ed3385122c5a3f12833b4640f63d&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 923,

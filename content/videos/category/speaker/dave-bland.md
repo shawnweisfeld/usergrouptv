@@ -12,7 +12,7 @@
     {
       "title": "Extended Events: What are they and How do I use them",
       "slug": "extended-events-what-are-they-and-how-do-i-use-them",
-      "thumbnail": "https://i.vimeocdn.com/video/702645343_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/702645343-3d4b91b99404a2c00e6deb436def728f6426bf35746b969d929d0c596ea8b464-d_295x166",
       "date": "2018-05-19T22:59:19",
       "meetups": [
         {

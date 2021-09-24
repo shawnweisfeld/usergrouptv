@@ -10,11 +10,11 @@
   "abstract": "<p>You have an awesome idea for the next hit app in the mobile marketplace, but want to spend your time focusing on building the app, not maintaining the web services, databases and other server side components that are needed to power your app. Take advantage of Azure Mobile services to add a cloud backend to your app in minutes. Better yet it works with every major mobile dev toolset (iOS, Android, Xamarin, HTML, PhoneGap, and all flavors of Windows development). In this talk we will provide an overview of the service and walk through building one from scratch.</p>",
   "description": "<p>You have an awesome idea for the next hit app in the mobile marketplace, but want to spend your time focusing on building the app, not maintaining the web services, databases and other server side components that are needed to power your app. Take advantage of Azure Mobile services to add a cloud backend to your app in minutes. Better yet it works with every major mobile dev toolset (iOS, Android, Xamarin, HTML, PhoneGap, and all flavors of Windows development). In this talk we will provide an overview of the service and walk through building one from scratch.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/519304884_295x166.jpg"
+    "https://i.vimeocdn.com/video/519304884-89b383e2dd93852d5f6c37956b655dbc3ade20ce7582ca3f1ed8d534622f6ef9-d_295x166"
   ],
   "vimeo": "128245133",
   "moreinfo": "http://www.meetup.com/DFW-Mobile-NET/events/222070277/",
-  "thumbnail": "https://i.vimeocdn.com/video/519304884_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/519304884-89b383e2dd93852d5f6c37956b655dbc3ade20ce7582ca3f1ed8d534622f6ef9-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/128245133.hd.mp4?s=003d0038416f75041185daa7102bd482794890f9&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/128245133.sd.mp4?s=9e01ffafe7404e1af603ced4733b1cce858aa84b&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 831,

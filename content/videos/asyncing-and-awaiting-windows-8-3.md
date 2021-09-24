@@ -11,11 +11,11 @@
   "abstract": "<p>If you thought Silverlight was asynchronous, just a-wait till you see WinRT. Windows 8 is coming, and it has a completely new API. In addition to the familiar Win32, developers can now take advantage of WinRT to participate in the Metro experience.Just about every operation in WinRT is asynchronous. And not just web calls. Even opening a file is an async operation. Arm yourself with the latest tools in .NET 4.5 -- the async and await keywords -- to take full advantage of the platform.</p>",
   "description": "<p>If you thought Silverlight was asynchronous, just a-wait till you see WinRT. Windows 8 is coming, and it has a completely new API. In addition to the familiar Win32, developers can now take advantage of WinRT to participate in the Metro experience.Just about every operation in WinRT is asynchronous. And not just web calls. Even opening a file is an async operation. Arm yourself with the latest tools in .NET 4.5 -- the async and await keywords -- to take full advantage of the platform.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/489467062_295x166.jpg"
+    "https://i.vimeocdn.com/video/489467062-fa2b475e4f64847a95b46aab2f141a462e0799acd1ec59a8667654cb131bcaee-d_295x166"
   ],
   "vimeo": "106374548",
   "moreinfo": "http://www.dallas-csharp-sig.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/489467062_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/489467062-fa2b475e4f64847a95b46aab2f141a462e0799acd1ec59a8667654cb131bcaee-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/106374548.hd.mp4?s=6bcf161bf32e64cf72fba2ca57c9bf6cede00e30&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/106374548.sd.mp4?s=a285950b76a3c94e590a2103c39e050bf3052a8e&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 523,

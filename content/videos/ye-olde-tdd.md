@@ -10,11 +10,11 @@
   "abstract": "<p>Lo, thou are most humbly invited to carouse with Chris and Allen as they bring ye a tale of agile testing you'll not soon forget! They will cover unit testing in general, TDD and BDD practices in particular, and other whys whens and hows of agile developer testing. If thou oft lack a shine to thy code or ye quality is in the privy, prithee attend!</p>",
   "description": "<p>Lo, thou are most humbly invited to carouse with Chris and Allen as they bring ye a tale of agile testing you'll not soon forget! They will cover unit testing in general, TDD and BDD practices in particular, and other whys whens and hows of agile developer testing. If thou oft lack a shine to thy code or ye quality is in the privy, prithee attend!</p>",
   "images": [
-    "https://i.vimeocdn.com/video/501052476_295x166.jpg"
+    "https://i.vimeocdn.com/video/501052476-5df202da63a51e55c79487632f0aa319f18aab854a4283b5a4fbe210c2c1fce0-d_295x166"
   ],
   "vimeo": "115131543",
   "moreinfo": "http://www.improvingenterprises.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/501052476_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/501052476-5df202da63a51e55c79487632f0aa319f18aab854a4283b5a4fbe210c2c1fce0-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/115131543.hd.mp4?s=e8a0ff1c5fecfcd27b5bd956fb97339609307327&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/115131543.sd.mp4?s=a927af228aacbf605d821516b09230d7616e91eb&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 7,

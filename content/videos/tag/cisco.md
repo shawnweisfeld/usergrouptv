@@ -11,7 +11,7 @@
     {
       "title": "What Happens When SQL Server 2014 Meets Cisco UCS? Better Business Intelligence",
       "slug": "what-happens-when-sql-server-2014-meets-cisco-ucs-better-business-intelligence",
-      "thumbnail": "https://i.vimeocdn.com/video/505665745_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/505665745-02dfb5050a028d33419dbdc472afdcc6de1252237eae5addd870c858facc54de-d_295x166",
       "date": "2015-01-31T23:13:05",
       "meetups": [
         {

@@ -12,7 +12,7 @@
     {
       "title": "So Your Momma's Got Big... Data, Huh?",
       "slug": "so-your-momma-s-got-big-data-huh",
-      "thumbnail": "https://i.vimeocdn.com/video/507866423_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/507866423-704cc6a145b1ddbfc943cfa0332aab19b0ed8b78925d865cb23e237e85a32959-d_295x166",
       "date": "2011-08-12T20:05:46",
       "meetups": [
         {

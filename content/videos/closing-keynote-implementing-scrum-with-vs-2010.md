@@ -11,11 +11,11 @@
   "abstract": "<p>Scrum teams often discover that sticky note Scrum boards is a fun, functional, and low cost way to track and broadcast the state of a Scrum project. There are some good reasons to store Scrum data electronically: to share/sync project state with multiple boards/locations, simplify reporting, change notifications, and enable historical data mining. In this session we will look at the various options available to TFS users to manage their Scrum projects. We will discuss the Visual Studio Scrum 1.0 process template, Urban Turtle scrum board, Telerik Team Pulse, and EMC TFS Workbench.</p>",
   "description": "<p>Scrum teams often discover that sticky note Scrum boards is a fun, functional, and low cost way to track and broadcast the state of a Scrum project. There are some good reasons to store Scrum data electronically: to share/sync project state with multiple boards/locations, simplify reporting, change notifications, and enable historical data mining. In this session we will look at the various options available to TFS users to manage their Scrum projects. We will discuss the Visual Studio Scrum 1.0 process template, Urban Turtle scrum board, Telerik Team Pulse, and EMC TFS Workbench.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/501052843_295x166.jpg"
+    "https://i.vimeocdn.com/video/501052843-2cff1340c5217ba683b7d4b7881d455fdeb0565600801549974f7f72de55122d-d_295x166"
   ],
   "vimeo": "115131812",
   "moreinfo": "http://www.improvingenterprises.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/501052843_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/501052843-2cff1340c5217ba683b7d4b7881d455fdeb0565600801549974f7f72de55122d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/115131812.hd.mp4?s=3c0aa05b3eceeaacc203b968cc9c05d7ac06f503&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/115131812.sd.mp4?s=6c829e3f00ed2ba3edccd4374f669761f95a11b0&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 9,

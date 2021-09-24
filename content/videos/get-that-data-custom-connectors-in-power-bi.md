@@ -10,11 +10,11 @@
   "abstract": "<p>The data is out there, but if you can't easily get to it, you -- and your clients or colleagues -- won't use it. Custom Connectors allow you to get data from disparate and currently unsupported sources. They allow for a branded experience to the data that your colleagues use most, without troubling them with creating queries. We will look at the steps needed to create your own custom connector, from setting up a development environment and planning; continuing to implementing and debugging; and finally deploying it company-wide.</p>",
   "description": "<p>The data is out there, but if you can't easily get to it, you -- and your clients or colleagues -- won't use it. Custom Connectors allow you to get data from disparate and currently unsupported sources. They allow for a branded experience to the data that your colleagues use most, without troubling them with creating queries. We will look at the steps needed to create your own custom connector, from setting up a development environment and planning; continuing to implementing and debugging; and finally deploying it company-wide.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/699622186_295x166.jpg"
+    "https://i.vimeocdn.com/video/699622186-3061cc94b70fd51b4b791a5ef5ed93190b06d821ea0424394db137a673499fb6-d_295x166"
   ],
   "vimeo": "268806272",
   "moreinfo": "http://www.houstontechfest.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/699622186_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/699622186-3061cc94b70fd51b4b791a5ef5ed93190b06d821ea0424394db137a673499fb6-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/268806272.hd.mp4?s=de7828c4695e233b21f2a39be2ee8034592f0dfa&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/268806272.sd.mp4?s=7e15d2541bc90130ba059dab2c094294a26f1d99&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 101,

@@ -10,11 +10,11 @@
   "abstract": "<p>In this talk Shawn will share how he built the UserGroup.tv app for the Windows Store. He will walk through the basics of putting this type of an application together with C# and XAML. Discuss some of the principals around Windows 8 development, and wrap up with some of the lessons learned from going through the submission process. If you are thinking about building an app for Windows 8 or are just curious what all the buzz is about, come get the unfiltered opinions of someone that has been there, done that.\r\n</p>",
   "description": "<p>In this talk Shawn will share how he built the UserGroup.tv app for the Windows Store. He will walk through the basics of putting this type of an application together with C# and XAML. Discuss some of the principals around Windows 8 development, and wrap up with some of the lessons learned from going through the submission process. If you are thinking about building an app for Windows 8 or are just curious what all the buzz is about, come get the unfiltered opinions of someone that has been there, done that.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/485960924_295x166.jpg"
+    "https://i.vimeocdn.com/video/485960924-0749617bb53d9aae311445323a379cab7298de9a1c5a177f1c8221ea23818502-d_295x166"
   ],
   "vimeo": "103659077",
   "moreinfo": "http://northdallas.net/meetings/usergroup-tv-windows-8-edition-a-tale-of-a-developer-an-app-windows-8-and-a-store/",
-  "thumbnail": "https://i.vimeocdn.com/video/485960924_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/485960924-0749617bb53d9aae311445323a379cab7298de9a1c5a177f1c8221ea23818502-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/103659077.hd.mp4?s=3a80ee6d366475438f5fc663ec015688171c8999&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/103659077.sd.mp4?s=ffe665bed602ae98b3c4bb15ebd61f6a812cfe48&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 637,

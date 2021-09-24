@@ -10,11 +10,11 @@
   "abstract": "<p>Having spent most of the last 17 years writing web apps on a Microsoft platform, the switch to iOS was a tricky one for me. I will share all that I have learned in the last year making the transition. You will learn the basics of iOS programming from a .NETters perspective. For any .NET web developers looking to make the jump to iOS, but are not sure what to expect, this session is for you.</p>",
   "description": "<p>Having spent most of the last 17 years writing web apps on a Microsoft platform, the switch to iOS was a tricky one for me. I will share all that I have learned in the last year making the transition. You will learn the basics of iOS programming from a .NETters perspective. For any .NET web developers looking to make the jump to iOS, but are not sure what to expect, this session is for you.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/485945304_295x166.jpg"
+    "https://i.vimeocdn.com/video/485945304-c64cdde12747f84f3f8963d66c710d83c8879dc947278ac156fc3895deaf32f0-d_295x166"
   ],
   "vimeo": "103646345",
   "moreinfo": "http://techfests.com/Tulsa/2014",
-  "thumbnail": "https://i.vimeocdn.com/video/485945304_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/485945304-c64cdde12747f84f3f8963d66c710d83c8879dc947278ac156fc3895deaf32f0-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/103646345.hd.mp4?s=902c2d59a6a7a118d2e4796a00952d8f92bc8a79&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/103646345.sd.mp4?s=0921fa82948142787b5ebdabe508239a2f247e71&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 966,

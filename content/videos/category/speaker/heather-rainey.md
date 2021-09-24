@@ -12,7 +12,7 @@
     {
       "title": "DEALING WITH OUTSIDE PRESSURE - STAYING SCRUM",
       "slug": "dealing-with-outside-pressure-staying-scrum",
-      "thumbnail": "https://i.vimeocdn.com/video/486708620_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/486708620-6b8d8307a35dc928eba2593b67d070316e126be634fb5e0288fe235400702330-d_295x166",
       "date": "2014-08-22T17:30:44",
       "meetups": [
         {

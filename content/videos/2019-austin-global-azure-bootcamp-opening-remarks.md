@@ -10,11 +10,11 @@
   "abstract": "<p>In this keynote Shawn will provide a quick overview of Azure, highlighting the major\r\nservices that are offered and provide some practice guidance around picking the right one for\r\nyour workload. With well over 100 major services in the Azure platform this is sure to be a whirl\r\nwind, so strap on your seat belt and get ready for a great 2019 Global Azure Bootcamp!</p>",
   "description": "<p>In this keynote Shawn will provide a quick overview of Azure, highlighting the major\r\nservices that are offered and provide some practice guidance around picking the right one for\r\nyour workload. With well over 100 major services in the Azure platform this is sure to be a whirl\r\nwind, so strap on your seat belt and get ready for a great 2019 Global Azure Bootcamp!</p>",
   "images": [
-    "https://i.vimeocdn.com/video/778862386_295x166.jpg"
+    "https://i.vimeocdn.com/video/778862386-1dc6e8ef50bbaf2d89521b3a984ae82055f8353bf4711de90786e737eabe9e5f-d_295x166"
   ],
   "vimeo": "333004324",
   "moreinfo": "https://www.meetup.com/azureaustin/events/258070696/",
-  "thumbnail": "https://i.vimeocdn.com/video/778862386_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/778862386-1dc6e8ef50bbaf2d89521b3a984ae82055f8353bf4711de90786e737eabe9e5f-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/333004324.hd.mp4?s=73cdbeaa06aa1b5d3ace74d71dc3153ac94d2e43&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/333004324.sd.mp4?s=22b18d0dbe00a86cc58fd55fd4128169ccec8c66&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 301,
@@ -30,14 +30,14 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 41
+      "count": 42
     }
   ],
   "meetups": [
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 51
+      "count": 52
     },
     {
       "name": "Austin Global Azure Bootcamp",

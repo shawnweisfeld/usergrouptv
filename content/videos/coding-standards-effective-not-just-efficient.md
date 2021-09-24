@@ -10,11 +10,11 @@
   "abstract": "<p>Every project has a development standard. Sometimes the\r\nstandard is \"if it was hard to write, it should be hard to\r\nmaintain.\" Developing, and following, a corporate Best Practices\r\nstandard will lead to continuity, maintainability, robustness,\r\nand pride.</p>",
   "description": "<p>Every project has a development standard. Sometimes the\r\nstandard is \"if it was hard to write, it should be hard to\r\nmaintain.\" Developing, and following, a corporate Best Practices\r\nstandard will lead to continuity, maintainability, robustness,\r\nand pride.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/767081660_295x166.jpg"
+    "https://i.vimeocdn.com/video/767081660-764ece4c7b9c93eed80304735b4272edc9bcdeec228432ebcdc7c71aafbce5b9-d_295x166"
   ],
   "vimeo": "323847343",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/259519233/",
-  "thumbnail": "https://i.vimeocdn.com/video/767081660_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/767081660-764ece4c7b9c93eed80304735b4272edc9bcdeec228432ebcdc7c71aafbce5b9-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/323847343.hd.mp4?s=19b581d97f142cfc9e69c670ead132eac1b8e82c&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/323847343.sd.mp4?s=08f0198f4deaa63af2c08f501bf32014c44c608f&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 392,

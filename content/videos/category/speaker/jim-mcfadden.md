@@ -12,7 +12,7 @@
     {
       "title": "OFFICE 365 MIGRATION MINI-CASE STUDY",
       "slug": "office-365-migration-mini-case-study",
-      "thumbnail": "https://i.vimeocdn.com/video/694124069_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/694124069-85d78fad6c41ce4a4c7c429f892608f1f4144ee6d614335b7876bc56c1acd6b9-d_295x166",
       "date": "2018-04-11T21:07:50",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "A SharePoint Upgrade Story",
       "slug": "a-sharepoint-upgrade-story",
-      "thumbnail": "https://i.vimeocdn.com/video/494179649_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/494179649-67e415e169f74ca96241d552d313a34c347003a4b8e0bcc022bd16082d82fe92-d_295x166",
       "date": "2011-11-03T23:03:17",
       "meetups": [
         {

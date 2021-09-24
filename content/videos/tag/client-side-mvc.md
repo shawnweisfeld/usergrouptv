@@ -11,7 +11,7 @@
     {
       "title": "The What, Why And How Of Client-Side MVC Frameworks",
       "slug": "the-what-why-and-how-of-client-side-mvc-frameworks",
-      "thumbnail": "https://i.vimeocdn.com/video/495920990_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/495920990-8b24200d76db6afed75b73e12e4748feef051f6d1cd3bc99d1f6ab5290948897-d_295x166",
       "date": "2011-08-13T02:36:07",
       "meetups": [
         {

@@ -3,19 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2021-09-13T12:25:57+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2021-09-13T12:25:56+00:00</lastmod>
+    <lastmod>2021-09-24T13:12:11+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2021-09-13T12:25:55+00:00</lastmod>
+    <lastmod>2021-09-24T13:12:11+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/</loc>
+    <lastmod>2021-09-24T13:12:11+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2021-09-13T12:25:53+00:00</lastmod>
+    <lastmod>2021-09-24T13:12:10+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2021-09-13T12:25:53+00:00</lastmod>
+    <lastmod>2021-09-24T13:12:10+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/azure/</loc>
+    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/azure/</loc>
+    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
+    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/azure-austin-meetup/</loc>
+    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/azure-user-group-houston/</loc>
+    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/azure-user-group-houston/</loc>
+    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/dfw-azure-user-group/</loc>
+    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</loc>
+    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/mark-moore/</loc>
+    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/mark-moore/</loc>
+    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/postgresql/</loc>
+    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/postgresql/</loc>
+    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/postgresql-in-azure/</loc>
+    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
     <lastmod>2021-09-08T00:00:00+00:00</lastmod>
@@ -48,9 +90,6 @@
     <lastmod>2021-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/power-bi/</loc>
-    <lastmod>2021-09-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/</loc>
     <lastmod>2021-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/dungeons-dragons-and-graph-databases/</loc>
@@ -92,22 +131,10 @@
     <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
-    <lastmod>2021-08-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/azure-austin-meetup/</loc>
-    <lastmod>2021-08-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/azure-service-bus/</loc>
     <lastmod>2021-08-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/azure-service-bus/</loc>
-    <lastmod>2021-08-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/azure-user-group-houston/</loc>
-    <lastmod>2021-08-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/azure-user-group-houston/</loc>
     <lastmod>2021-08-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</loc>
@@ -120,12 +147,6 @@
     <lastmod>2021-08-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/dba/</loc>
-    <lastmod>2021-08-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/dfw-azure-user-group/</loc>
-    <lastmod>2021-08-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</loc>
     <lastmod>2021-08-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/how-and-where-to-practice-writing-queries/</loc>
@@ -382,12 +403,6 @@
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/laura-grahambrown/</loc>
     <lastmod>2021-05-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/azure/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/azure/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/azure-app-services/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
@@ -912,12 +927,6 @@
     <lastmod>2020-08-25T13:52:05+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/azure-event-hub-stream-analytics-with-power-bi/</loc>
-    <lastmod>2020-08-18T15:15:50+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/mark-moore/</loc>
-    <lastmod>2020-08-18T15:15:50+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/mark-moore/</loc>
     <lastmod>2020-08-18T15:15:50+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/sha-kanjoor-anandan/</loc>

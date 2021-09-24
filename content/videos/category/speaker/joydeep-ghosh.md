@@ -12,7 +12,7 @@
     {
       "title": "Playing Containers with Azure Kubernetes Service",
       "slug": "playing-containers-with-azure-kubernetes-service",
-      "thumbnail": "https://i.vimeocdn.com/video/778966691_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/778966691-58ac9d8e12adf9ad7d8bbd76d4265069cd3c6712848208dc3fa8673ee25cc232-d_295x166",
       "date": "2019-04-27T13:44:15",
       "meetups": [
         {

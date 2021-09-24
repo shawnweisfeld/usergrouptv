@@ -10,11 +10,11 @@
   "abstract": "<p>Azure functions is a solution for easily running small pieces of code, or \"functions,\" in the cloud. You can write just the code you need for the problem at hand, without worrying about a whole application or the infrastructure to run it. In this talk we will provide an overview of the newest member to the Azure family, and then dig into to some code.\r\n</p>",
   "description": "<p>Azure functions is a solution for easily running small pieces of code, or \"functions,\" in the cloud. You can write just the code you need for the problem at hand, without worrying about a whole application or the infrastructure to run it. In this talk we will provide an overview of the newest member to the Azure family, and then dig into to some code.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/581848051_295x166.jpg"
+    "https://i.vimeocdn.com/video/581848051-d55177b6286d3ccd9179c8babcf33b314e364a32f6d8ac9a0faec87115daa04b-d_295x166"
   ],
   "vimeo": "174797354",
   "moreinfo": "https://twitter.com/aggielanddnug",
-  "thumbnail": "https://i.vimeocdn.com/video/581848051_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/581848051-d55177b6286d3ccd9179c8babcf33b314e364a32f6d8ac9a0faec87115daa04b-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/174797354.hd.mp4?s=95f865eae4f83690ce49f3dd2c37355423cb14aa&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/174797354.sd.mp4?s=2f4d0c8027616a9f1fffb00d7ca3c9017dafd4fa&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 172,

@@ -12,7 +12,7 @@
     {
       "title": "Keeping Up With JavaScript",
       "slug": "keeping-up-with-javascript",
-      "thumbnail": "https://i.vimeocdn.com/video/492564822_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/492564822-4cb1ea3b8ec407ed96a4739a1e18ad6e188d43cf2b0b4642a41c8c7dd1665108-d_295x166",
       "date": "2014-10-10T11:26:28",
       "meetups": [
         {

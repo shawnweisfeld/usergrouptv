@@ -12,7 +12,7 @@
     {
       "title": "MassTransit",
       "slug": "event-driven-architecture-2",
-      "thumbnail": "https://i.vimeocdn.com/video/499119012_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/499119012-db8d736fe713321973fa57e5450e02d0ae3b7ee3f0547bad15787675e689e53b-d_295x166",
       "date": "2011-05-27T13:48:23",
       "meetups": [
         {
@@ -38,7 +38,7 @@
     {
       "title": "Event Driven Architecture",
       "slug": "event-driven-architecture",
-      "thumbnail": "https://i.vimeocdn.com/video/499118463_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/499118463-65a090e68678f1937fcb88658ae1eb01f1c046c2552601b99bdd23d342145e74-d_295x166",
       "date": "2011-05-27T01:13:49",
       "meetups": [
         {

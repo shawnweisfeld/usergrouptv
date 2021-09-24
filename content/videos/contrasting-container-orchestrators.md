@@ -11,11 +11,11 @@
   "abstract": "<p>The most popular container orchestration systems will be lined-up, categorized and contrasted against one another: Docker Swarm, Kubernetes</p>",
   "description": "<p>The most popular container orchestration systems will be lined-up, categorized and contrasted against one another: Docker Swarm, Kubernetes</p>",
   "images": [
-    "https://i.vimeocdn.com/video/567365277_295x166.jpg"
+    "https://i.vimeocdn.com/video/567365277-5f8e26d78da4015d0d5d06dd1cd1d38346fc84bd6bf46b669a24bcc55f340c97-d_295x166"
   ],
   "vimeo": "163878023",
   "moreinfo": "http://www.meetup.com/Microservices-and-Containers-Austin/events/230391578/",
-  "thumbnail": "https://i.vimeocdn.com/video/567365277_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/567365277-5f8e26d78da4015d0d5d06dd1cd1d38346fc84bd6bf46b669a24bcc55f340c97-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/163878023.hd.mp4?s=74ebd011d3731840913d6553b020eceb4e866dab&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/163878023.sd.mp4?s=1aeb681c090d07e514545650dda6caccd99b9924&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 855,

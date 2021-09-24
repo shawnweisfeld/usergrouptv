@@ -12,7 +12,7 @@
     {
       "title": "Common TSQL Mistakes",
       "slug": "common-tsql-mistakes",
-      "thumbnail": "https://i.vimeocdn.com/video/833796580_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/833796580-626fbdb38336c10e8424d6fbff9a24f42966504bcd0e4bd5caea2fbc051b7eb4-d_295x166",
       "date": "2019-11-19T16:20:04",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Know What Your Code is Doing to SQL Server!",
       "slug": "know-what-your-code-is-doing-to-sql-server",
-      "thumbnail": "https://i.vimeocdn.com/video/719306247_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/719306247-d7b2a0991c76170d5658979ad2e5915584ff17a1d75c5f036a53ddd276b83628-d_295x166",
       "date": "2018-08-11T15:51:07",
       "meetups": [
         {
@@ -48,7 +48,7 @@
     {
       "title": "SQL Injection",
       "slug": "sql-injection-2",
-      "thumbnail": "https://i.vimeocdn.com/video/505667364_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/505667364-bf14cf33231498a9b1303861b9344402a3b3f1fe2005d9a93cbb23f7b7c41bbd-d_295x166",
       "date": "2015-01-31T23:17:05",
       "meetups": [
         {
@@ -66,7 +66,7 @@
     {
       "title": "SQL Injection",
       "slug": "sql-injection",
-      "thumbnail": "https://i.vimeocdn.com/video/487543450_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/487543450-e268f5398dc4367a08598af1945ece0c57a61ff1a605072737fc99cea0c9cde0-d_295x166",
       "date": "2012-08-25T22:04:45",
       "meetups": [
         {
@@ -88,7 +88,7 @@
     {
       "title": "Parallel Query Execution",
       "slug": "parallel-query-execution",
-      "thumbnail": "https://i.vimeocdn.com/video/500556667_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/500556667-90528bc7c7dab5633d7fce60e8ffebceec1342e9bd119f565aad72325497a8c0-d_295x166",
       "date": "2011-04-02T22:01:13",
       "meetups": [
         {

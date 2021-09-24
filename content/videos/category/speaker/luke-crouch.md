@@ -12,7 +12,7 @@
     {
       "title": "HTML5: Code for all the platforms!",
       "slug": "html5-code-for-all-the-platforms",
-      "thumbnail": "https://i.vimeocdn.com/video/507718513_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/507718513-b77a6464b410233c6182e562ce5f3243da6ce44462f59f59da6570c1ba02650e-d_295x166",
       "date": "2011-10-07T04:57:17",
       "meetups": [
         {

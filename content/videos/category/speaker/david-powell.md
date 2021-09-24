@@ -12,7 +12,7 @@
     {
       "title": "Cross-Platform Authentication",
       "slug": "cross-platform-authentication",
-      "thumbnail": "https://i.vimeocdn.com/video/543955534_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/543955534-fb85a94000239db40ea3a7ce85a752af872e9f26290588b7ac8023498e472fd5-d_295x166",
       "date": "2015-11-12T13:21:05",
       "meetups": [
         {

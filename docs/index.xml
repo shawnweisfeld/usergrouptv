@@ -6,7 +6,70 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Sep 2021 12:25:53 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Sep 2021 13:12:10 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure</title>
+      <link>https://usergroup.tv/videos/tag/azure/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Austin Meetup</title>
+      <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/azure-austin-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure User Group - Houston</title>
+      <link>https://usergroup.tv/videos/category/group/azure-user-group-houston/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/azure-user-group-houston/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFW Azure User Group</title>
+      <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Moore</title>
+      <link>https://usergroup.tv/videos/category/speaker/mark-moore/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/mark-moore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL</title>
+      <link>https://usergroup.tv/videos/tag/postgresql/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/postgresql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL in Azure</title>
+      <link>https://usergroup.tv/videos/postgresql-in-azure/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/postgresql-in-azure/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Austin Power BI User Group</title>
       <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
@@ -125,29 +188,11 @@
     </item>
     
     <item>
-      <title>Azure Austin Meetup</title>
-      <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
-      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/azure-austin-meetup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Azure Service Bus</title>
       <link>https://usergroup.tv/videos/tag/azure-service-bus/</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/azure-service-bus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure User Group - Houston</title>
-      <link>https://usergroup.tv/videos/category/group/azure-user-group-houston/</link>
-      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/azure-user-group-houston/</guid>
       <description></description>
     </item>
     
@@ -166,15 +211,6 @@
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/dba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DFW Azure User Group</title>
-      <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
-      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
       <description></description>
     </item>
     
@@ -634,15 +670,6 @@
       <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/laura-grahambrown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure</title>
-      <link>https://usergroup.tv/videos/tag/azure/</link>
-      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/azure/</guid>
       <description></description>
     </item>
     
@@ -1609,15 +1636,6 @@ What do we use your information for?</description>
       <pubDate>Tue, 18 Aug 2020 15:15:50 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/azure-event-hub-stream-analytics-with-power-bi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mark Moore</title>
-      <link>https://usergroup.tv/videos/category/speaker/mark-moore/</link>
-      <pubDate>Tue, 18 Aug 2020 15:15:50 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/speaker/mark-moore/</guid>
       <description></description>
     </item>
     

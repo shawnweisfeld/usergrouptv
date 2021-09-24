@@ -10,11 +10,11 @@
   "abstract": "<p>\r\n\tSQL Server is a core dependency for all components of the System Center suite of products.  Configuration Manager 2012, a component of the suite, will be the focus of our discussion as it is more demanding that a typical SQL application.  To best support Configuration Manager 2012 administrators need to understand database structure, configurations that will allow for optimal SQL performance, the way Configuration Manager 2012 replication leverages the SQL Broker engine and more.  This session will focus on the nuggets that the Configuration Manager administrator needs to understand to make sense of the SQL backend.  Beyond the Configuration Manager 2012 administrator discussions will be interesting to anyone trying to tune SQL.\r\n</p>",
   "description": "<p>\r\n\tSQL Server is a core dependency for all components of the System Center suite of products.  Configuration Manager 2012, a component of the suite, will be the focus of our discussion as it is more demanding that a typical SQL application.  To best support Configuration Manager 2012 administrators need to understand database structure, configurations that will allow for optimal SQL performance, the way Configuration Manager 2012 replication leverages the SQL Broker engine and more.  This session will focus on the nuggets that the Configuration Manager administrator needs to understand to make sense of the SQL backend.  Beyond the Configuration Manager 2012 administrator discussions will be interesting to anyone trying to tune SQL.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/533910919_295x166.jpg"
+    "https://i.vimeocdn.com/video/533910919-856537f9bac85875886167c35869b3529b076791518d76b14c9c563a17e01704-d_295x166"
   ],
   "vimeo": "138523302",
   "moreinfo": "http://www.sqlsaturday.com/422/Sessions/Details.aspx?sid=25815",
-  "thumbnail": "https://i.vimeocdn.com/video/533910919_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/533910919-856537f9bac85875886167c35869b3529b076791518d76b14c9c563a17e01704-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/138523302.hd.mp4?s=dbce67b6f5085114797576b95c87e13b45d3b65a&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/138523302.sd.mp4?s=42685769230b868c3a5f10956690f1aadf230022&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 791,

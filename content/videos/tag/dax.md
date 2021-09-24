@@ -11,7 +11,7 @@
     {
       "title": "Using calculation groups in DAX",
       "slug": "using-calculation-groups-in-dax",
-      "thumbnail": "https://i.vimeocdn.com/video/854620219_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854620219-6c36281626d0c81dff1aeeedd544c816a56c5d4350a6b96c3cde569468732c07-d_295x166",
       "date": "2020-02-08T16:29:06",
       "meetups": [
         {

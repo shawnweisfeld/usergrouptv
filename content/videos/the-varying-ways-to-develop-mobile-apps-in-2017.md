@@ -10,11 +10,11 @@
   "abstract": "<p>We'll cover all the ways to code mobile apps including Native, Hybrid, & Cross-Platform apps like React Native, NativeScript, Xamarin, Unity and more! We'll compare/contrast the language choices, level of native knowledge needed and developer experience to help you make a more informed choice on your next Mobile App project.</p>",
   "description": "<p>We'll cover all the ways to code mobile apps including Native, Hybrid, & Cross-Platform apps like React Native, NativeScript, Xamarin, Unity and more! We'll compare/contrast the language choices, level of native knowledge needed and developer experience to help you make a more informed choice on your next Mobile App project.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/650402437_295x166.jpg"
+    "https://i.vimeocdn.com/video/650402437-234ac9c64625b8846935df71fd8e3243b3ddb49f53c1202591ea7168ecdc3933-d_295x166"
   ],
   "vimeo": "229955822",
   "moreinfo": "http://techfests.com/Tulsa/2017/Speakers/PatrickKurz/default.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/650402437_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/650402437-234ac9c64625b8846935df71fd8e3243b3ddb49f53c1202591ea7168ecdc3933-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/229955822.hd.mp4?s=4739587ab4bb56d8cce3447a6a9ac397d9459fbd&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/229955822.sd.mp4?s=4c7e2e64312fd3f7e65db7343abb415b2dedf8ea&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 43,

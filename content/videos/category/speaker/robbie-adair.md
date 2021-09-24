@@ -12,7 +12,7 @@
     {
       "title": "Make your Augmented Reality \"Speak\" with Video & 3D Characters",
       "slug": "make-your-augmented-reality-speak-with-video-3d-characters",
-      "thumbnail": "https://i.vimeocdn.com/video/818418611_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/818418611-09333965f17daf325f37cb620eec70a14e214cfa1f21e153680a3755c317dfdc-d_295x166",
       "date": "2019-09-28T17:02:10",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Fabrik: An Open Source Rapid Development Web Application Builder",
       "slug": "fabrik-an-open-source-rapid-development-web-application-builder",
-      "thumbnail": "https://i.vimeocdn.com/video/818413689_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/818413689-414d8c56d3affe6fc3cc0357978569ad1813d99d1d20e74a19aca2ea155d6de5-d_295x166",
       "date": "2019-09-28T16:19:05",
       "meetups": [
         {

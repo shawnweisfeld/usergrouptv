@@ -12,7 +12,7 @@
     {
       "title": "Basics of Data Modeling for BI Reporting",
       "slug": "basics-of-data-modeling-for-bi-reporting",
-      "thumbnail": "https://i.vimeocdn.com/video/854623065_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854623065-a0db84037aaa32d04c934ad34d95a113f68fed48499d813ce98880043b5cb775-d_295x166",
       "date": "2020-02-08T16:20:52",
       "meetups": [
         {

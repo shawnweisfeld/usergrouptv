@@ -12,7 +12,7 @@
     {
       "title": "Understanding Storage Systems and SQL Server",
       "slug": "understanding-storage-systems-and-sql-server",
-      "thumbnail": "https://i.vimeocdn.com/video/495923011_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/495923011-4261213f6a6f5650e9aedda8ebb2e0681f273860aa92fae198018a1df5582ffe-d_295x166",
       "date": "2011-08-27T20:49:06",
       "meetups": [
         {

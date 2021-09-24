@@ -10,11 +10,11 @@
   "abstract": "<p>Window functions are a great TSQL tool that will allow you to write simpler, more elegant code. They were first introduced in SQL 2005, and then expanded in SQL 2012. By using TSQL Window functions you can simply your code and make it easier to understand. They allow you to see both aggregations and details all at the same time. In this demo-centric session we will begin with the basics introduced in SQL 2005, then move on to examine the new functions that were added with SQL 2012.</p>",
   "description": "<p>Window functions are a great TSQL tool that will allow you to write simpler, more elegant code. They were first introduced in SQL 2005, and then expanded in SQL 2012. By using TSQL Window functions you can simply your code and make it easier to understand. They allow you to see both aggregations and details all at the same time. In this demo-centric session we will begin with the basics introduced in SQL 2005, then move on to examine the new functions that were added with SQL 2012.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/570948261_295x166.jpg"
+    "https://i.vimeocdn.com/video/570948261-b55fb7f4c5df80c028df230d2ab956aac796c6061fdd49e6ae563920af8382f6-d_295x166"
   ],
   "vimeo": "166789422",
   "moreinfo": "http://www.sqlsaturday.com/514/Sessions/Details.aspx?sid=46986",
-  "thumbnail": "https://i.vimeocdn.com/video/570948261_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/570948261-b55fb7f4c5df80c028df230d2ab956aac796c6061fdd49e6ae563920af8382f6-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/166789422.hd.mp4?s=d0b29edc18c980542acf7ddf10792fc3638ee711&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/166789422.sd.mp4?s=1011cb57b230ba70c4d73be13740bad08185a97b&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 866,

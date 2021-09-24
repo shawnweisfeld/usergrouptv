@@ -12,7 +12,7 @@
     {
       "title": "Contracting for Techies 101: 10 Tips For Making It On Your Own ",
       "slug": "contracting-for-techies-101-10-tips-for-making-it-on-your-own",
-      "thumbnail": "https://i.vimeocdn.com/video/540284075_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/540284075-1be733394ee054a5e29e9799892be3b5e67a5569291bb1311e2873b6c45c1605-d_295x166",
       "date": "2015-10-16T02:10:04",
       "meetups": [
         {

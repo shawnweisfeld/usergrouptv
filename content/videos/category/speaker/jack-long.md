@@ -12,7 +12,7 @@
     {
       "title": "QA/DEVELOPER MIND MELD",
       "slug": "qadeveloper-mind-meld",
-      "thumbnail": "https://i.vimeocdn.com/video/486704489_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/486704489-fde374308b2c8d8ebcbfbefee14fbd1b478c85f2862afa4a34cc2987ed549c4e-d_295x166",
       "date": "2014-08-22T17:34:02",
       "meetups": [
         {

@@ -11,7 +11,7 @@
     {
       "title": "Multidimensional Data Cubes and Data Mining in the Real World",
       "slug": "multidimensional-data-cubes-and-data-mining-in-the-real-world",
-      "thumbnail": "https://i.vimeocdn.com/video/798964104_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/798964104-0d611439155564d1895dc7a29965af034f3e969889e3a4e881b027e1eb9ae24e-d_295x166",
       "date": "2019-07-13T14:09:40",
       "meetups": [
         {
@@ -33,7 +33,7 @@
     {
       "title": "Automating Azure Analysis Services",
       "slug": "automating-azure-analysis-services",
-      "thumbnail": "https://i.vimeocdn.com/video/702679647_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/702679647-1156fa455df508f548330160cd289f93918cf3aa701837c65cb806081cab8bfc-d_295x166",
       "date": "2018-05-19T23:08:38",
       "meetups": [
         {
@@ -51,7 +51,7 @@
     {
       "title": "Analysis Services is in Azure? Seriously!? Let's build a model!",
       "slug": "analysis-services-is-in-azure-seriously-lets-build-a-model",
-      "thumbnail": "https://i.vimeocdn.com/video/641693852_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/641693852-502da82e84f0b01c894b93cc5c70f330cda784d9b409fcde3313128338f5495e-d_295x166",
       "date": "2017-06-17T14:06:27",
       "meetups": [
         {
@@ -73,7 +73,7 @@
     {
       "title": "Rent-a-Cube: Azure Analysis Services",
       "slug": "rent-a-cube-azure-analysis-services",
-      "thumbnail": "https://i.vimeocdn.com/video/622682828_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/622682828-687f0d862d8efc877b353826646107e83d7a7852fbcd146e1c51b9a4703df3a4-d_295x166",
       "date": "2017-03-04T22:05:57",
       "meetups": [
         {

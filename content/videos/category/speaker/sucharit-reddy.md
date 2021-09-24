@@ -12,7 +12,7 @@
     {
       "title": "An Introduction to Blockchain on Azure",
       "slug": "an-introduction-to-blockchain-on-azure",
-      "thumbnail": "https://i.vimeocdn.com/video/696169887_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/696169887-502c8cf698adc64ff7329ebaeda12806162d5fa67055d2855d885f1804a5a969-d_295x166",
       "date": "2018-04-21T13:16:02",
       "meetups": [
         {

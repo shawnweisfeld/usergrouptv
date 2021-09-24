@@ -11,11 +11,11 @@
   "abstract": "<p>\r\nWhen you build cross-device applications you want to build it once, have it work across all devices and deliver the best user experience. With Windows 8 and Windows Phone 8, the WinRT kernel means that building across devices has never been easier. There are 2 important concepts we need to embrace in order to build the best cross-device applications. We will give you best practices for sharing code, focusing on portable class libraries. Then we’ll show you how to optimize the interfaces to most appropriately target your app for the best user experience while leveraging that shared code.\r\n</p>",
   "description": "<p>\r\nWhen you build cross-device applications you want to build it once, have it work across all devices and deliver the best user experience. With Windows 8 and Windows Phone 8, the WinRT kernel means that building across devices has never been easier. There are 2 important concepts we need to embrace in order to build the best cross-device applications. We will give you best practices for sharing code, focusing on portable class libraries. Then we’ll show you how to optimize the interfaces to most appropriately target your app for the best user experience while leveraging that shared code.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/487542865_295x166.jpg"
+    "https://i.vimeocdn.com/video/487542865-58adcd9540336b2337449377a60a8ea997d5eebc296cb36cb98dda614acbe61f-d_295x166"
   ],
   "vimeo": "104886313",
   "moreinfo": "http://www.houstontechfest.org/Lists/ScheduleInfo/DispForm.aspx?ID=14&Source=http%3A%2F%2Fwww%2Ehoustontechfest%2Eorg%2FSitePages%2FTabbedSchedule%2Easpx",
-  "thumbnail": "https://i.vimeocdn.com/video/487542865_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/487542865-58adcd9540336b2337449377a60a8ea997d5eebc296cb36cb98dda614acbe61f-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/104886313.hd.mp4?s=00f9a64ea2a053afcb8643beeb90310e2e87c8d3&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/104886313.sd.mp4?s=707331d78803202751faa333c3e97cfd1226edc3&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 942,

@@ -12,7 +12,7 @@
     {
       "title": "Big Data & Analytics in Azure",
       "slug": "big-data-analytics-in-azure",
-      "thumbnail": "https://i.vimeocdn.com/video/566415745_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/566415745-6d2cbb7f6052bc5f00663bd91986b1d008b1b65fe2bf0136219d34fc8f85c4c4-d_295x166",
       "date": "2016-04-16T10:56:28",
       "meetups": [
         {

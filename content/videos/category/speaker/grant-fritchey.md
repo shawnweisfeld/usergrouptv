@@ -12,7 +12,7 @@
     {
       "title": "Top Tips for Writing Better T-SQL Queries",
       "slug": "top-tips-for-writing-better-t-sql-queries",
-      "thumbnail": "https://i.vimeocdn.com/video/488131611_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/488131611-dade1b629ff630130ef38622e201b641b3f69c1d860f9573009af24486af987e-d_295x166",
       "date": "2012-08-25T21:54:32",
       "meetups": [
         {

@@ -10,11 +10,11 @@
   "abstract": "<p>Join us as we go over some tips, tricks and gotcha's for SharePoint 2013. We've learned the hard way so you don't have to. Topics include a variety of subjects ranging from SharePoint Online, SharePoint On Premise, Powershell, etc.</p>",
   "description": "<p>Join us as we go over some tips, tricks and gotcha's for SharePoint 2013. We've learned the hard way so you don't have to. Topics include a variety of subjects ranging from SharePoint Online, SharePoint On Premise, Powershell, etc.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/483487770_295x166.jpg"
+    "https://i.vimeocdn.com/video/483487770-79eed059750e73c738f28c16f9cbdf8e5703d4233933d62f6aad651e10363af0-d_295x166"
   ],
   "vimeo": "101659299",
   "moreinfo": "http://techfests.com/Tulsa/2013/Speakers/DennisBottjer/default.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/483487770_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/483487770-79eed059750e73c738f28c16f9cbdf8e5703d4233933d62f6aad651e10363af0-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/101659299.hd.mp4?s=2ece4bafac201c48132d5bc130740df0f3443d77&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/101659299.sd.mp4?s=17a71a4d7cb8affd31e77de659f6592d49f19ef8&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 953,

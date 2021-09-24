@@ -10,11 +10,11 @@
   "abstract": "Thinking about creating a Windows 8 app? Currently building one? Don’t forget to support Search and Share Contracts. Search and Share is supported natively in Windows 8. Search Contracts expose YOUR app to the entire Windows 8 system. Share Contracts are an easy way to make your apps social. We will walk through and implement both of these new features in Windows 8.",
   "description": "Thinking about creating a Windows 8 app? Currently building one? Don’t forget to support Search and Share Contracts. Search and Share is supported natively in Windows 8. Search Contracts expose YOUR app to the entire Windows 8 system. Share Contracts are an easy way to make your apps social. We will walk through and implement both of these new features in Windows 8.",
   "images": [
-    "https://i.vimeocdn.com/video/488136265_295x166.jpg"
+    "https://i.vimeocdn.com/video/488136265-59b5347fad230f7c70efaf0b12fbac57a5e194e571ce4407a5ad174310761ba9-d_295x166"
   ],
   "vimeo": "105365831",
   "moreinfo": "http://www.fwdnug.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/488136265_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/488136265-59b5347fad230f7c70efaf0b12fbac57a5e194e571ce4407a5ad174310761ba9-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/105365831.hd.mp4?s=46c2a11f2acd13e2b5494c1ee645dc3a7fc2f732&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/105365831.sd.mp4?s=210fe880469a6d5063f9e3bad7213e075a2979ea&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 531,

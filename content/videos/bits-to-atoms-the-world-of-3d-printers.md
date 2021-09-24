@@ -10,11 +10,11 @@
   "abstract": "<p>\r\n3D printers are all in the news these days - but as much as everyone reads about them, fewer actually have looked at the bigger picture of what they mean.  This session will give you a background in 3D printers, theory behind their operation (software and hardware), and a demonstration of how they work.  We'll wrap up with some ideas about how you can bridge your own Bits world into the physical world we inhabit.\r\n</p>",
   "description": "<p>\r\n3D printers are all in the news these days - but as much as everyone reads about them, fewer actually have looked at the bigger picture of what they mean.  This session will give you a background in 3D printers, theory behind their operation (software and hardware), and a demonstration of how they work.  We'll wrap up with some ideas about how you can bridge your own Bits world into the physical world we inhabit.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/483486972_295x166.jpg"
+    "https://i.vimeocdn.com/video/483486972-61311013ca1fa78d389531e349cd8b4dba725d205cd49c6ffcc926c0b7b969a5-d_295x166"
   ],
   "vimeo": "101658715",
   "moreinfo": "http://www.houstontechfest.org/Lists/ScheduleInfo/DispForm.aspx?ID=81&Source=http%3A%2F%2Fwww%2Ehoustontechfest%2Eorg%2FSitePages%2FTabbedSchedule%2Easpx",
-  "thumbnail": "https://i.vimeocdn.com/video/483486972_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/483486972-61311013ca1fa78d389531e349cd8b4dba725d205cd49c6ffcc926c0b7b969a5-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/101658715.hd.mp4?s=abf5687efd795605c6afb6cc4198a9d04077a0df&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/101658715.sd.mp4?s=f3918ff07cb27d0342d47c16bfc2be7005613fe9&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 963,

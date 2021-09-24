@@ -12,7 +12,7 @@
     {
       "title": "Machine Learning: a business case of text classification",
       "slug": "machine-learning-a-business-case-of-text-classification",
-      "thumbnail": "https://i.vimeocdn.com/video/660004211_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/660004211-89ff2d16f24af52268978a4bf5d14103bdd0ae2135983c93945da13bd95f52ee-d_295x166",
       "date": "2017-10-05T22:01:51",
       "meetups": [
         {

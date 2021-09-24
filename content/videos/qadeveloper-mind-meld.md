@@ -10,11 +10,11 @@
   "abstract": "<p>We will explain what being agile in the QA world means. Discussing how ensuring quality can begin on day one of any sprint and what skills, characteristics, and attitudes one should strive for in an agile QA analyst. We will disect past agile projects and share our experiences on what has been successful.\r\n</p>",
   "description": "<p>We will explain what being agile in the QA world means. Discussing how ensuring quality can begin on day one of any sprint and what skills, characteristics, and attitudes one should strive for in an agile QA analyst. We will disect past agile projects and share our experiences on what has been successful.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/486704489_295x166.jpg"
+    "https://i.vimeocdn.com/video/486704489-fde374308b2c8d8ebcbfbefee14fbd1b478c85f2862afa4a34cc2987ed549c4e-d_295x166"
   ],
   "vimeo": "104228062",
   "moreinfo": "http://www.improvingenterprises.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/486704489_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/486704489-fde374308b2c8d8ebcbfbefee14fbd1b478c85f2862afa4a34cc2987ed549c4e-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/104228062.hd.mp4?s=c433fabf45da39c1dedf61074b5b27a6179dcc72&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/104228062.sd.mp4?s=25f6f37986dbd8b448f51cfaa851da186c69b8fc&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 1010,

@@ -11,11 +11,11 @@
   "abstract": "Learn the fundamentals of cryptography, including public/private and symmetric encryption, hashing, and digital signatures. Discover which techniques are appropriate for various situations. Review practical real life examples for storing passwords, protecting URL parameters, securely exchanging information with partners, and safely encrypting sensitive information on public web sites. Concepts apply to all platforms, examples will be in C# for both .NET and .NET Core.",
   "description": "Learn the fundamentals of cryptography, including public/private and symmetric encryption, hashing, and digital signatures. Discover which techniques are appropriate for various situations. Review practical real life examples for storing passwords, protecting URL parameters, securely exchanging information with partners, and safely encrypting sensitive information on public web sites. Concepts apply to all platforms, examples will be in C# for both .NET and .NET Core.",
   "images": [
-    "https://i.vimeocdn.com/video/999196637_295x166.jpg"
+    "https://i.vimeocdn.com/video/999196637-22d81e4b66a82c3a8fdf77f7bd433bdc12c4f0334949430031029df5fc15206a-d_295x166"
   ],
   "vimeo": "481865230",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/273740075",
-  "thumbnail": "https://i.vimeocdn.com/video/999196637_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/999196637-22d81e4b66a82c3a8fdf77f7bd433bdc12c4f0334949430031029df5fc15206a-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/481865230.hd.mp4?s=2bce86d3f99e1e56f9142f85c7be36459d9cee07&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/481865230.sd.mp4?s=55c0b5a8f28afe429f067a29dd7dafe8f74d8680&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 1046,

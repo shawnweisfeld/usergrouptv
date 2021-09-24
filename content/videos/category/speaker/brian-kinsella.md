@@ -12,7 +12,7 @@
     {
       "title": "SHAREPOINT ONLINE HUB SITES",
       "slug": "sharepoint-online-hub-sites",
-      "thumbnail": "https://i.vimeocdn.com/video/694126310_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/694126310-dc6e0adf4985c3df2fe764028d7fd36e99f4681e946050f34861559ecb24166c-d_295x166",
       "date": "2018-04-11T20:58:52",
       "meetups": [
         {

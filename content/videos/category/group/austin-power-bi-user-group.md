@@ -11,7 +11,7 @@
     {
       "title": "Deneb",
       "slug": "deneb",
-      "thumbnail": "https://i.vimeocdn.com/video/1240211628_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1240211628-1fca59ed399529bb1e6953d73a422719cfd5a4b9813d5dd1d6f16a64c61fb289-d_295x166",
       "date": "2021-09-08T00:00:00",
       "speakers": [
         {
@@ -37,7 +37,7 @@
     {
       "title": "Introduction to Charticulator",
       "slug": "introduction-to-charticulator",
-      "thumbnail": "https://i.vimeocdn.com/video/1216459183_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1216459183-dbe72bd6fea263a34dad08e2ae0dc3a57bd4a3b82fac3eba875a5e43663be541-d_295x166",
       "date": "2021-08-11T00:00:00",
       "speakers": [
         {
@@ -59,7 +59,7 @@
     {
       "title": "Building Successful BI and Data Platforms following a Results First Strategy",
       "slug": "building-successful-bi-and-data-platforms-following-a-results-first-strategy",
-      "thumbnail": "https://i.vimeocdn.com/video/1216459477_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1216459477-5e9e26d653a62cd292d0f63b73ed5b53b3acc21fe78215be4b460bc0dd7921fd-d_295x166",
       "date": "2021-07-14T00:00:00",
       "speakers": [
         {
@@ -77,7 +77,7 @@
     {
       "title": "How we use Power BI at Enterprise DNA",
       "slug": "how-we-use-power-bi-at-enterprise-dna",
-      "thumbnail": "https://i.vimeocdn.com/video/1164372990_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1164372990-4630d4c63f8dc45e63ba30cfc2ffb209edb5da6180ae0aeed59d6fce474f9bfa-d_295x166",
       "date": "2021-06-09T00:00:00",
       "speakers": [
         {
@@ -95,7 +95,7 @@
     {
       "title": "Introduction to Paginated Reports",
       "slug": "introduction-to-paginated-reports",
-      "thumbnail": "https://i.vimeocdn.com/video/1136394295_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1136394295-1ca6cad4f804e2fd74ea245d4d71de7d9320b4e40e675d028444a714b0d21800-d_295x166",
       "date": "2021-05-12T00:00:00",
       "speakers": [
         {
@@ -113,7 +113,7 @@
     {
       "title": "Power BI and Google Datasets to Find a Bike in Austin",
       "slug": "power-bi-and-google-datasets-to-find-a-bike-in-austin",
-      "thumbnail": "https://i.vimeocdn.com/video/1114913453_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/1114913453-fc820eab3dacc351672caf6f4d19a15de97d236704d031972e7b94b23f894350-d_295x166",
       "date": "2021-04-14T00:00:00",
       "speakers": [
         {
@@ -131,7 +131,7 @@
     {
       "title": "Power BI Architecture End-to-End",
       "slug": "power-bi-architecture-endtoend",
-      "thumbnail": "https://i.vimeocdn.com/video/1084424191_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/1084424191-9a9f465e126d49535c974549887272300d4c653be9728063cbe52592cad6805d-d_295x166",
       "date": "2021-03-10T00:00:00",
       "speakers": [
         {
@@ -149,7 +149,7 @@
     {
       "title": "Practical Application of Storytelling Techniques in Power BI",
       "slug": "practical-application-of-storytelling-techniques-in-power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1059080814_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/1059080814-0c9f63216b2a51aade86f43346ca7d1db21bd1296ce58b65792ecd855640542f-d_295x166",
       "date": "2021-02-10T00:00:00",
       "speakers": [
         {
@@ -167,7 +167,7 @@
     {
       "title": "Data modeling essentials and best practices in Power BI and AS tabular",
       "slug": "data-modeling-essentials-and-best-practices-in-power-bi-and-as-tabular",
-      "thumbnail": "https://i.vimeocdn.com/video/1039313181_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/1039313181-e18eda3a331d12a641d123c2dc6fad192012a044580b47911cb888b553258782-d_295x166",
       "date": "2021-01-13T00:00:00",
       "speakers": [
         {
@@ -185,7 +185,7 @@
     {
       "title": "Forecasting in Power BI",
       "slug": "forecasting-in-power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1014455189_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/1014455189-ed6c7c25aaf943bc6f927afdc1cd3c901c1c663f276949ccc58af47d3c1409b5-d_295x166",
       "date": "2020-12-09T00:00:00",
       "speakers": [
         {
@@ -203,7 +203,7 @@
     {
       "title": "How Power Query Thinks: Taking the Mystery Out of Streaming and Query Folding",
       "slug": "how-power-query-thinks-taking-the-mystery-out-of-streaming-and-query-folding",
-      "thumbnail": "https://i.vimeocdn.com/video/994397461_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/994397461-9752af41de0d44cd05d1f77639b56d84038e599aaeb582f53f24a5f59295bdf9-d_295x166",
       "date": "2020-11-11T00:00:00",
       "speakers": [
         {
@@ -221,7 +221,7 @@
     {
       "title": "Machine Learning in Power BI with Python",
       "slug": "machine-learning-in-power-bi-with-python",
-      "thumbnail": "https://i.vimeocdn.com/video/976555636_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/976555636-3c5fb54bd2fa4c4c10bb6808b9012763ae84d4a41a266a0af7433558acc98d75-d_295x166",
       "date": "2020-10-14T00:00:00",
       "speakers": [
         {
@@ -239,7 +239,7 @@
     {
       "title": "An Introduction to Tabular Editor",
       "slug": "an-introduction-to-tabular-editor",
-      "thumbnail": "https://i.vimeocdn.com/video/955146027_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/955146027-31557f168f459449cfd724f65df0b37c78173451482ddd18ae29df0230b5916c-d_295x166",
       "date": "2020-09-09T15:22:13",
       "speakers": [
         {
@@ -257,7 +257,7 @@
     {
       "title": "Unlocking New Visualizations and Features in Power BI",
       "slug": "unlocking-new-visualizations-and-features-in-power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/940309865_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/940309865-685ca9b5c6a2e8799a5bd6e216d5ef33eb7e397c9d9575601aa17675d756d458-d_295x166",
       "date": "2020-08-12T14:05:27",
       "speakers": [
         {
@@ -275,7 +275,7 @@
     {
       "title": "Power BI Self Enclosed Sandbox",
       "slug": "power-bi-self-enclosed-sandbox",
-      "thumbnail": "https://i.vimeocdn.com/video/924740057_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/924740057-e1b79584e671635f2e3b401df2d82de5b2b006b958eb15af94795f8aa27f9b7c-d_295x166",
       "date": "2020-07-08T13:40:12",
       "speakers": [
         {
@@ -293,7 +293,7 @@
     {
       "title": "Creating Power BI Reports that enable updating the underlying data using Power Apps and Power Automate",
       "slug": "creating-power-bi-reports-that-enable-updating-the-underlying-data-using-power-apps-and-power-automate",
-      "thumbnail": "https://i.vimeocdn.com/video/908442500_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/908442500-fbf966b903a8b853f098c99270afe8d0c08b6e431d48b884b93f19b5ff2c93bb-d_295x166",
       "date": "2020-06-10T16:35:48",
       "speakers": [
         {
@@ -319,7 +319,7 @@
     {
       "title": "Power BI Relationship Simplified",
       "slug": "power-bi-relationship-simplified",
-      "thumbnail": "https://i.vimeocdn.com/video/894750510_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/894750510-6bff714ff3966f8e9d3198f241db77b274d9ddbb2b58f08d03a49be983137a84-d_295x166",
       "date": "2020-05-13T12:43:18",
       "speakers": [
         {
@@ -337,7 +337,7 @@
     {
       "title": "PowerBI April 2020 Update and COVID Resources",
       "slug": "powerbi-april-2020-update-and-covid-resources",
-      "thumbnail": "https://i.vimeocdn.com/video/876243985_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/876243985-d53cfce208daedd3f73eaaddf178e0d1820b62485b97295987606c19c3c52cc3-d_295x166",
       "date": "2020-04-08T18:37:43",
       "speakers": [
         {
@@ -355,7 +355,7 @@
     {
       "title": "Feb 2020 PowerBI Tips from the Pros",
       "slug": "feb-2020-powerbi-tips-from-the-pros",
-      "thumbnail": "https://i.vimeocdn.com/video/859011285_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/859011285-e3462cc0de099af165bf741baa16330521d05a26cc0ac306ec3b87575e93fd13-d_295x166",
       "date": "2020-02-12T12:10:54",
       "speakers": [
         {
@@ -373,7 +373,7 @@
     {
       "title": "Data Discovery: Austin Scooter Data",
       "slug": "data-discovery-austin-scooter-data",
-      "thumbnail": "https://i.vimeocdn.com/video/845729272_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/845729272-df472ce975b237f96b5a57775efcd58257af6d2a0eb028879b6d0df5581eb219-d_295x166",
       "date": "2020-01-08T16:17:29",
       "speakers": [
         {
@@ -391,7 +391,7 @@
     {
       "title": "Report Showcase",
       "slug": "report-showcase",
-      "thumbnail": "https://i.vimeocdn.com/video/822339117_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/822339117-212ed56d5f3a95b46abd81d05a9f90b16c4f279c56cfb8bba4f83735ee944ec2-d_295x166",
       "date": "2019-10-09T23:41:28",
       "speakers": [
         {
@@ -409,7 +409,7 @@
     {
       "title": "Power Platform World Tour - Madrid",
       "slug": "power-platform-world-tour-madrid",
-      "thumbnail": "https://i.vimeocdn.com/video/822338922_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/822338922-0a2fd5699e0fe48c55c44d478cc011d3dfcd7d7f8ec8ab3880f6b54fe83d4a09-d_295x166",
       "date": "2019-10-09T23:40:11",
       "speakers": [
         {
@@ -427,7 +427,7 @@
     {
       "title": "Building a Power BI Report: DAX, Slicers & More",
       "slug": "building-a-power-bi-report-dax-slicers-more",
-      "thumbnail": "https://i.vimeocdn.com/video/801600952_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/801600952-1c10170a662c32ef367638b2bb6ecba58e405708fef4c4460fb33bcf7cd89d5b-d_295x166",
       "date": "2019-07-25T13:12:48",
       "speakers": [
         {
@@ -445,7 +445,7 @@
     {
       "title": "Using PowerBI to mine data from the web",
       "slug": "using-powerbi-to-mine-data-from-the-web",
-      "thumbnail": "https://i.vimeocdn.com/video/796753265_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/796753265-def7fbdae17a7be3b82aafd9a58b8fab21a1ce9bf97f49418ede2d55da014641-d_295x166",
       "date": "2019-06-20T15:54:13",
       "speakers": [
         {

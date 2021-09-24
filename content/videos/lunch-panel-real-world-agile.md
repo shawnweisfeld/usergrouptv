@@ -10,11 +10,11 @@
   "abstract": "More and more companies are leveraging the benefits of Agile by adopting it organization-wide. However, successful adoption involves deep changes at the individual, team and organization levels. Learn how two of Improving’s customers actually made the transition - what worked, what didn’t and what to avoid at all costs. Join our lunch panel discussion, Real World Agile, with Kim Fisher, George Simpson and Jay Spears, moderated by Gary McCants.",
   "description": "More and more companies are leveraging the benefits of Agile by adopting it organization-wide. However, successful adoption involves deep changes at the individual, team and organization levels. Learn how two of Improving’s customers actually made the transition - what worked, what didn’t and what to avoid at all costs. Join our lunch panel discussion, Real World Agile, with Kim Fisher, George Simpson and Jay Spears, moderated by Gary McCants.",
   "images": [
-    "https://i.vimeocdn.com/video/960549417_295x166.jpg"
+    "https://i.vimeocdn.com/video/960549417-86fa976b63ec2f8e3545319d011cf03ac322b540b26632f7cc0a00a3ca88bc64-d_295x166"
   ],
   "vimeo": "459779158",
   "moreinfo": "http://www.improvingenterprises.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/960549417_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/960549417-86fa976b63ec2f8e3545319d011cf03ac322b540b26632f7cc0a00a3ca88bc64-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/459779158.hd.mp4?s=01de9952f0efff162ca477a3c3ba86e02b791221&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/459779158.sd.mp4?s=b46d8584238bf3a81e16083f92859bf4113c538a&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 10,

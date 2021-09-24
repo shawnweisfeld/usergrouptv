@@ -10,11 +10,11 @@
   "abstract": "<p>In this lecture, you will learn the principles and practices in using a continuous delivery pipeline with the modern version Microsoft Azure and the DevOps tools built for the platform. You will see how to stitch together Visual Studio Team Services with Azure PaaS components in order to create a software environment that flies! DevOps is a term representing the convergence of development and operations. Both the development and operations communities like to own the term, so it has accumulated multiple meanings. With the Agile Manifesto, developers have jettisoned annual software releases for processes that allow releasing software multiple times per day. To accomplish this, teams use rigorous suites of automated tests to ensure that every change to the software is a solid step forward rather than an accidental step backward.</p>",
   "description": "<p>In this lecture, you will learn the principles and practices in using a continuous delivery pipeline with the modern version Microsoft Azure and the DevOps tools built for the platform. You will see how to stitch together Visual Studio Team Services with Azure PaaS components in order to create a software environment that flies! DevOps is a term representing the convergence of development and operations. Both the development and operations communities like to own the term, so it has accumulated multiple meanings. With the Agile Manifesto, developers have jettisoned annual software releases for processes that allow releasing software multiple times per day. To accomplish this, teams use rigorous suites of automated tests to ensure that every change to the software is a solid step forward rather than an accidental step backward.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/631735244_295x166.jpg"
+    "https://i.vimeocdn.com/video/631735244-a8eeaad404094c8f30d523c4fa810dca71f0683db3fd2945bcf441cc36ebecb5-d_295x166"
   ],
   "vimeo": "215094826",
   "moreinfo": "https://www.eventbrite.com/e/global-azure-bootcamp-2017-austin-tx-tickets-33085810550#",
-  "thumbnail": "https://i.vimeocdn.com/video/631735244_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/631735244-a8eeaad404094c8f30d523c4fa810dca71f0683db3fd2945bcf441cc36ebecb5-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/215094826.hd.mp4?s=bab49066840c0545083fc5c71c566c00c716ef09&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/215094826.sd.mp4?s=3e7575456b06a1ebb0b42bc3478da5c6fba3c805&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 249,

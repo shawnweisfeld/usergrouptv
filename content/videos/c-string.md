@@ -10,11 +10,11 @@
   "abstract": "<p>In this hands on lab we will use a Test Driven Development (TDD) approach to experiment with the features of strings and regular expressions in the .NET framework.</p>",
   "description": "<p>In this hands on lab we will use a Test Driven Development (TDD) approach to experiment with the features of strings and regular expressions in the .NET framework.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/500551233_295x166.jpg"
+    "https://i.vimeocdn.com/video/500551233-ef0f245284cf459aa998126d1f4c854bcb0dc1951f016e5ba2761ae3b97689e0-d_295x166"
   ],
   "vimeo": "114763414",
   "moreinfo": "http://hands-on-coding.net",
-  "thumbnail": "https://i.vimeocdn.com/video/500551233_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/500551233-ef0f245284cf459aa998126d1f4c854bcb0dc1951f016e5ba2761ae3b97689e0-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/114763414.hd.mp4?s=73511a10739362a9abd2bd2b76276c93e43b0cf0&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/114763414.sd.mp4?s=8de404126624c469673f2f732f0f29d9ebb470c1&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 692,

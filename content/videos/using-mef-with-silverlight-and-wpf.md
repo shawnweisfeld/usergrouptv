@@ -10,11 +10,11 @@
   "abstract": "<p>Cory Smith, MVP In this meeting Cory Smith, a Microsoft Application Developer MVP, will give us a hands-on tour of the Managed Extensibility Framework (MEF) from Microsoft. MEF is a powerful extension in .Net 4 and Silverlight 4 to simplify the design of extensible applications and components. What will Cory be Covering? 1. Elevator Level Tour of the Managed Extensibility Framework, 2. Review Some of the Many MEF Resources, 3. Application Walkthrough to Demonstrate the Power of MEF</p>",
   "description": "<p>Cory Smith, MVP In this meeting Cory Smith, a Microsoft Application Developer MVP, will give us a hands-on tour of the Managed Extensibility Framework (MEF) from Microsoft. MEF is a powerful extension in .Net 4 and Silverlight 4 to simplify the design of extensible applications and components. What will Cory be Covering? 1. Elevator Level Tour of the Managed Extensibility Framework, 2. Review Some of the Many MEF Resources, 3. Application Walkthrough to Demonstrate the Power of MEF</p>",
   "images": [
-    "https://i.vimeocdn.com/video/498383893_295x166.jpg"
+    "https://i.vimeocdn.com/video/498383893-38570f248a5ed32feaeded5c7df5ffb31215fc1a2b8e38469bce0f6471d79a81-d_295x166"
   ],
   "vimeo": "113161085",
   "moreinfo": "http://dallasxaml.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/498383893_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/498383893-38570f248a5ed32feaeded5c7df5ffb31215fc1a2b8e38469bce0f6471d79a81-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/113161085.hd.mp4?s=ded8f5a59996db1ea66272665cba4e2b651ffb58&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/113161085.sd.mp4?s=82beef8a7749424cc9b45a9f91a894b97faebebd&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 655,

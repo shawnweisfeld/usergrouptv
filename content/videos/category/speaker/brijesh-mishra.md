@@ -12,7 +12,7 @@
     {
       "title": "Building Windows 8 Metro apps in XAML",
       "slug": "building-windows-8-metro-apps-in-xaml",
-      "thumbnail": "https://i.vimeocdn.com/video/492990206_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/492990206-fb20fdbd545f0bcb2fba6805007198d0a3f123dc79a467033d6d3252cb0b27ee-d_295x166",
       "date": "2012-02-14T15:23:50",
       "meetups": [
         {

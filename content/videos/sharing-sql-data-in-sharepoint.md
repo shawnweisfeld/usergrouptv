@@ -10,11 +10,11 @@
   "abstract": "<p>Microsoft SharePoint is a collaboration software that provides a web based portal for business intelligence, content management and document sharing. In this session get an overview of the basics of sharing a SQL table as a 'List' using Sharepoint and SSIS. Next we move on to fun stuff of integrating SQL Server Reporting Services integration. Finally we look at how to give users dynamic PowerPivot analysis in a dashboard.</p>",
   "description": "<p>Microsoft SharePoint is a collaboration software that provides a web based portal for business intelligence, content management and document sharing. In this session get an overview of the basics of sharing a SQL table as a 'List' using Sharepoint and SSIS. Next we move on to fun stuff of integrating SQL Server Reporting Services integration. Finally we look at how to give users dynamic PowerPivot analysis in a dashboard.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/483490517_295x166.jpg"
+    "https://i.vimeocdn.com/video/483490517-8dffce7436d7291bc0b7f6e9ca2bff8b3b31beecbdcec735ce7a9ca9a2e405ad-d_295x166"
   ],
   "vimeo": "101661196",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=223&sessionid=16312",
-  "thumbnail": "https://i.vimeocdn.com/video/483490517_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/483490517-8dffce7436d7291bc0b7f6e9ca2bff8b3b31beecbdcec735ce7a9ca9a2e405ad-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/101661196.hd.mp4?s=b3e887ea20a0807ccf5356a8a7a3a67ba130bccf&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/101661196.sd.mp4?s=db12086fb17822ee3d7f92a9c2e23c2e87947931&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 709,

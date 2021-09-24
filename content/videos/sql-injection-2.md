@@ -10,11 +10,11 @@
   "abstract": "<p>Well, we have all heard about the horror stories of data loss due to SQL Injection and how costly (in many ways) they can be. This in-depth discussion covers various forms of SQL Injection attacks and offers some guidelines on how to avoid them. Lots of code examples in both .NET and TSQL. Watch me hack a website and retrieve user data in just 3 hits on an unprotected html page!\r\n</p>",
   "description": "<p>Well, we have all heard about the horror stories of data loss due to SQL Injection and how costly (in many ways) they can be. This in-depth discussion covers various forms of SQL Injection attacks and offers some guidelines on how to avoid them. Lots of code examples in both .NET and TSQL. Watch me hack a website and retrieve user data in just 3 hits on an unprotected html page!\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/505667364_295x166.jpg"
+    "https://i.vimeocdn.com/video/505667364-bf14cf33231498a9b1303861b9344402a3b3f1fe2005d9a93cbb23f7b7c41bbd-d_295x166"
   ],
   "vimeo": "118594774",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=26097",
-  "thumbnail": "https://i.vimeocdn.com/video/505667364_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/505667364-bf14cf33231498a9b1303861b9344402a3b3f1fe2005d9a93cbb23f7b7c41bbd-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/118594774.hd.mp4?s=905b61c1a8e071ef14c514928fa9c778f68cda90&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/118594774.sd.mp4?s=ab2226112d72f5940da26254e949756c71e7f457&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 819,

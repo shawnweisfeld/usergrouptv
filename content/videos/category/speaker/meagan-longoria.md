@@ -12,7 +12,7 @@
     {
       "title": "Practical Application of Storytelling Techniques in Power BI",
       "slug": "practical-application-of-storytelling-techniques-in-power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1059080814_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/1059080814-0c9f63216b2a51aade86f43346ca7d1db21bd1296ce58b65792ecd855640542f-d_295x166",
       "date": "2021-02-10T00:00:00",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Creating Accessible Power BI Reports",
       "slug": "creating-accessible-power-bi-reports",
-      "thumbnail": "https://i.vimeocdn.com/video/854621808_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854621808-5c595ecb118d27537207f232eb458991d5d123f961b7068dd4437a9015df5697-d_295x166",
       "date": "2020-02-08T16:26:29",
       "meetups": [
         {

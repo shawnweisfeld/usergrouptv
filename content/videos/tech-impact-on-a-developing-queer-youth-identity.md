@@ -10,11 +10,11 @@
   "abstract": "<p>The most transformative time in one’s life is adolescence, a time of creating, developing, and testing what will ultimately become your authentic self. The “high school bully” through technology has become now an “Army of Bullies”. With social media apps, digital photo enhancement at your fingertips, video capturing on your phone and 24hr virtual connecting, have you ever wonder what impact this technology has on a developing mind. What about a young person questioning their sexual identity and/or gender identity. When youth are becoming digital architects of a virtual self that has all the tech tool power of creating, editing and enhancing, what happens to the “real you”. Does your likes, hearts and thumbs up define what you ultimately will become? Do youth of today have to manage “dual identities” and what if… with all the power of technology… your virtual self is not good enough, what then?</p>",
   "description": "<p>The most transformative time in one’s life is adolescence, a time of creating, developing, and testing what will ultimately become your authentic self. The “high school bully” through technology has become now an “Army of Bullies”. With social media apps, digital photo enhancement at your fingertips, video capturing on your phone and 24hr virtual connecting, have you ever wonder what impact this technology has on a developing mind. What about a young person questioning their sexual identity and/or gender identity. When youth are becoming digital architects of a virtual self that has all the tech tool power of creating, editing and enhancing, what happens to the “real you”. Does your likes, hearts and thumbs up define what you ultimately will become? Do youth of today have to manage “dual identities” and what if… with all the power of technology… your virtual self is not good enough, what then?</p>",
   "images": [
-    "https://i.vimeocdn.com/video/650697790_295x166.jpg"
+    "https://i.vimeocdn.com/video/650697790-f4e1fb79ea7a17b964e68f8e296196b243be86e5c4545208e83745adb3a264ee-d_295x166"
   ],
   "vimeo": "230192192",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
-  "thumbnail": "https://i.vimeocdn.com/video/650697790_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/650697790-f4e1fb79ea7a17b964e68f8e296196b243be86e5c4545208e83745adb3a264ee-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/230192192.hd.mp4?s=06df017aae810c69777e0c6d1f9488b0dcd79f1c&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/230192192.sd.mp4?s=f5db6a516e87a8f2b759c3a7da66e3bae1b02999&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 16,

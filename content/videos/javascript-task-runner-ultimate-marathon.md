@@ -10,11 +10,11 @@
   "abstract": "<p>\r\nLike shoes on an assembly line, we get a lot of javascript runners churned out. Grunt? Gulp? Broccoli? What makes these tools different, and when do I use them? In this talk, we will examine practical use cases, how to develop plugins and what the fundamental design philosophies are in various client-side task runners. You may think it ends at the business-as-usual javascript develop, but it doesn't. Even designers working in a different language or just trying to automate your routines outside the context of a build task, can grab onto these runners and make the world a better place.</p>",
   "description": "<p>\r\nLike shoes on an assembly line, we get a lot of javascript runners churned out. Grunt? Gulp? Broccoli? What makes these tools different, and when do I use them? In this talk, we will examine practical use cases, how to develop plugins and what the fundamental design philosophies are in various client-side task runners. You may think it ends at the business-as-usual javascript develop, but it doesn't. Even designers working in a different language or just trying to automate your routines outside the context of a build task, can grab onto these runners and make the world a better place.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/482026905_295x166.jpg"
+    "https://i.vimeocdn.com/video/482026905-198a31ff8b34b7a4732feb66464cd1f36b5da167282883ea3b43113a9893fcd9-d_295x166"
   ],
   "vimeo": "100516597",
   "moreinfo": "http://tulsaschoolofdev.com",
-  "thumbnail": "https://i.vimeocdn.com/video/482026905_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/482026905-198a31ff8b34b7a4732feb66464cd1f36b5da167282883ea3b43113a9893fcd9-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/100516597.hd.mp4?s=3c9bd671f1711f1fabac18a0c227c348d8a0dd86&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/100516597.sd.mp4?s=de6b3069a1fcea9426814eeb7cdaef0aeb93c340&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 914,

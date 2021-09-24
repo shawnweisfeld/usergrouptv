@@ -12,7 +12,7 @@
     {
       "title": "Turbocharged: Writing High-Performance C# and .NET Code",
       "slug": "turbocharged-writing-high-performance-c-and-net-code",
-      "thumbnail": "https://i.vimeocdn.com/video/890687192_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/890687192-77f2c7787291c045ea8d941f94faea62a49271ee291dc311f056d27d5625025b-d_295x166",
       "date": "2020-04-28T21:17:13",
       "meetups": [
         {

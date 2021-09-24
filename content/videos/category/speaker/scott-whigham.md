@@ -12,7 +12,7 @@
     {
       "title": "How to Master SQL Joins",
       "slug": "how-to-master-sql-joins",
-      "thumbnail": "https://i.vimeocdn.com/video/507045013_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/507045013-e827564633221668b9c49e93b37ffeda9207665e7e82cb7e63a37138dac55d24-d_295x166",
       "date": "2011-04-02T21:36:33",
       "meetups": [
         {

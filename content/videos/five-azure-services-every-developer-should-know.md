@@ -13,11 +13,11 @@
   "abstract": "Getting started with Azure can be daunting for new developers. With dozens of various platforms, it's easy to become overwhelmed with choices! Where should I host my applications? Where should I store my data? How do I manage my applications? Despite the broad number of services, it is possible to narrow down to a handful of platforms that meet many of the most common application requirements and is also a great place to get started learning more about Azure. In this talk, I'll introduce you to five of these platforms, how to work with them, alongside some best practices. Along the way, we'll implement and deploy a solution to Azure that takes advantage of them.",
   "description": "Getting started with Azure can be daunting for new developers. With dozens of various platforms, it's easy to become overwhelmed with choices! Where should I host my applications? Where should I store my data? How do I manage my applications? Despite the broad number of services, it is possible to narrow down to a handful of platforms that meet many of the most common application requirements and is also a great place to get started learning more about Azure. In this talk, I'll introduce you to five of these platforms, how to work with them, alongside some best practices. Along the way, we'll implement and deploy a solution to Azure that takes advantage of them.",
   "images": [
-    "https://i.vimeocdn.com/video/1120787910_295x166.jpg"
+    "https://i.vimeocdn.com/video/1120787910-580db3b86e612c9aa8ed6c5876a51c377a2b257ce15e8963070310663f0e23a7-d_295x166"
   ],
   "vimeo": "541285908",
   "moreinfo": "https://www.meetup.com/azureaustin/events/276272013/",
-  "thumbnail": "https://i.vimeocdn.com/video/1120787910_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/1120787910-580db3b86e612c9aa8ed6c5876a51c377a2b257ce15e8963070310663f0e23a7-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/541285908.hd.mp4?s=aa3b840c1919979398581afb56a8aa259cc118a5&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/541285908.sd.mp4?s=d80a9113e4a0427b02301b4413c5daaf42b0702b&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 1067,
@@ -48,24 +48,24 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 41
+      "count": 42
     }
   ],
   "meetups": [
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 51
+      "count": 52
     },
     {
       "name": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "count": 15
+      "count": 16
     },
     {
       "name": "Azure User Group - Houston",
       "slug": "azure-user-group-houston",
-      "count": 3
+      "count": 4
     }
   ]
 }

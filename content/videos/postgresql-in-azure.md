@@ -1,0 +1,59 @@
+{
+  "title": "PostgreSQL in Azure",
+  "type": "recording",
+  "tags": [
+    "Azure",
+    "PostgreSQL"
+  ],
+  "date": "2021-09-21T00:00:00",
+  "draft": false,
+  "slug": "postgresql-in-azure",
+  "abstract": "Interested in running Postgres, join this session to learn about the different Postgres offerings Microsoft has running in Azure as well as on-premises. In this session we will cover Postgres Single Server, Flex Server, Hyperscale running the Citus extension in Azure as well as running Postgres Hyperscale (Citus) on premises in your data center.",
+  "description": "Interested in running Postgres, join this session to learn about the different Postgres offerings Microsoft has running in Azure as well as on-premises. In this session we will cover Postgres Single Server, Flex Server, Hyperscale running the Citus extension in Azure as well as running Postgres Hyperscale (Citus) on premises in your data center.",
+  "images": [
+    "https://i.vimeocdn.com/video/1252686279-7f16f776e1d507a6eb7039272b5dc407b4b26fc65decd0a21_295x166"
+  ],
+  "vimeo": "613575006",
+  "moreinfo": "https://www.meetup.com/azureaustin/events/280542672/",
+  "thumbnail": "https://i.vimeocdn.com/video/1252686279-7f16f776e1d507a6eb7039272b5dc407b4b26fc65decd0a21_295x166",
+  "mp4Video": "http://player.vimeo.com/external/613575006.hd.mp4?s=7d6f91f099b8140ed1d6acaed1e25ecab4668498&profile_id=174&oauth2_token_id=20985841",
+  "mp4VideoLow": "http://player.vimeo.com/external/613575006.sd.mp4?s=53ca2fe31a01139f1738c544d216d6d9c6f97308&profile_id=165&oauth2_token_id=20985841",
+  "recordingID": 1088,
+  "speakers": [
+    {
+      "name": "Mark Moore",
+      "slug": "mark-moore",
+      "bio": "<p>Mark Moore is a Cloud Solutions Architect at Microsoft in North Texas. Mark has been with Microsoft for 25 years serving in various roles in Services and Sales. Prior to Microsoft Mark worked at Digital Equipment Corporation serving Federal and Government customers in San Antonio, Texas. Mark currently resides in the DFW area.</p>",
+      "count": 4
+    }
+  ],
+  "ugtvtags": [
+    {
+      "name": "Azure",
+      "slug": "azure",
+      "count": 42
+    },
+    {
+      "name": "PostgreSQL",
+      "slug": "postgresql",
+      "count": 1
+    }
+  ],
+  "meetups": [
+    {
+      "name": "Azure Austin Meetup",
+      "slug": "azure-austin-meetup",
+      "count": 52
+    },
+    {
+      "name": "DFW Azure User Group",
+      "slug": "dfw-azure-user-group",
+      "count": 16
+    },
+    {
+      "name": "Azure User Group - Houston",
+      "slug": "azure-user-group-houston",
+      "count": 4
+    }
+  ]
+}

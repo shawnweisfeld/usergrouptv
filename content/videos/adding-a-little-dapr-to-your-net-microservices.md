@@ -10,11 +10,11 @@
   "abstract": "<p>Building distributed applications is not an easy thing to do. Even though there are some inherent benefits, breaking down your application into a collection of microservices comes with a completely different set of challenges. This is where DAPR can help us out. It provides a runtime and a collection of building blocks that can be used with any language, in any cloud or on-prem environment. In this session, we’ll dive into DAPR, discuss the various build blocks it supports, and see some demos of how you can make use of it in your .NET applications.\r\n</p>",
   "description": "<p>Building distributed applications is not an easy thing to do. Even though there are some inherent benefits, breaking down your application into a collection of microservices comes with a completely different set of challenges. This is where DAPR can help us out. It provides a runtime and a collection of building blocks that can be used with any language, in any cloud or on-prem environment. In this session, we’ll dive into DAPR, discuss the various build blocks it supports, and see some demos of how you can make use of it in your .NET applications.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/959175670_295x166.jpg"
+    "https://i.vimeocdn.com/video/959175670-2c225eacde5dccf6f0aa59218dfa985110d38c315e4c9f11cf679a15441e8b30-d_295x166"
   ],
   "vimeo": "458972042",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/271818559/",
-  "thumbnail": "https://i.vimeocdn.com/video/959175670_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/959175670-2c225eacde5dccf6f0aa59218dfa985110d38c315e4c9f11cf679a15441e8b30-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/458972042.hd.mp4?s=f353bb37148f527bcc0573728a9a05d6cc64c704&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/458972042.sd.mp4?s=313b070b05c9544452654b4b0a68776a1b0d2a14&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 1029,

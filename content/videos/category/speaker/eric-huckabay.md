@@ -12,7 +12,7 @@
     {
       "title": "Trusting your data",
       "slug": "trusting-your-data",
-      "thumbnail": "https://i.vimeocdn.com/video/709492813_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/709492813-366a46aec4c8903963556a7114454bcc4427941ab6ac60dc1dca0b9b47379ff3-d_295x166",
       "date": "2018-06-23T19:39:43",
       "meetups": [
         {

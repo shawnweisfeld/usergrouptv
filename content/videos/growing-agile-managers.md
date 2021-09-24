@@ -10,11 +10,11 @@
   "abstract": "<p>With less than one-third of the workplace describing themselves as \"engaged in their work\", the role of the manager for engaged, effective teams is critically important. But, if we're building self-organizing Agile teams, what's a manager even DO in an Agile organization? In this talk, I'll present the evolving role of the Agile manager, a development path to evaluate and design your personal growth, and activities you can take back to work tomorrow to support employees and teams in ways that are closely aligned with Agile values and principles. </p>",
   "description": "<p>With less than one-third of the workplace describing themselves as \"engaged in their work\", the role of the manager for engaged, effective teams is critically important. But, if we're building self-organizing Agile teams, what's a manager even DO in an Agile organization? In this talk, I'll present the evolving role of the Agile manager, a development path to evaluate and design your personal growth, and activities you can take back to work tomorrow to support employees and teams in ways that are closely aligned with Agile values and principles. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/703312800_295x166.jpg"
+    "https://i.vimeocdn.com/video/703312800-72b96591cb57f6ebde8ac21c882fe1cd4715ec6303e8796d4c3f4e3eca28e0d8-d_295x166"
   ],
   "vimeo": "271896877",
   "moreinfo": "http://www.agileaustin.org",
-  "thumbnail": "https://i.vimeocdn.com/video/703312800_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/703312800-72b96591cb57f6ebde8ac21c882fe1cd4715ec6303e8796d4c3f4e3eca28e0d8-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/271896877.hd.mp4?s=15bf135e5c9e24c1ffe8ef86313dbefebad9aad3&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/271896877.sd.mp4?s=4ab4a896518cb337f0fd7f8947bfee273192384c&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 444,

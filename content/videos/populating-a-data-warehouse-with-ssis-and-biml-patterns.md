@@ -10,11 +10,11 @@
   "abstract": "<p>This session will demonstrate how to leverage Biml Patterns, along with SQL Server Metadata, to rapidly build SSIS packages. The focus of this session will be on populating a data warehouse, however the concepts presented could be applied to most any ETL/ETL scenarios. The components used during this session: - Biml - BimlExpress - BimlSnap On-line are all available at no charge. In addition, attendees will receive: - A complete 'SQL Server Metadata Manager' solution (front and back end) - A fully functional SSIS Framework.\r\n</p>",
   "description": "<p>This session will demonstrate how to leverage Biml Patterns, along with SQL Server Metadata, to rapidly build SSIS packages. The focus of this session will be on populating a data warehouse, however the concepts presented could be applied to most any ETL/ETL scenarios. The components used during this session: - Biml - BimlExpress - BimlSnap On-line are all available at no charge. In addition, attendees will receive: - A complete 'SQL Server Metadata Manager' solution (front and back end) - A fully functional SSIS Framework.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/709492207_295x166.jpg"
+    "https://i.vimeocdn.com/video/709492207-17bdb972762dcc6444a496080cd3a0a2ecb8d01050413f95fd906a4dd328352d-d_295x166"
   ],
   "vimeo": "276868637",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=77775",
-  "thumbnail": "https://i.vimeocdn.com/video/709492207_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/709492207-17bdb972762dcc6444a496080cd3a0a2ecb8d01050413f95fd906a4dd328352d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/276868637.hd.mp4?s=d74bfe610a01d4005a94ce5c3bfc226ec906d7ac&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/276868637.sd.mp4?s=95c5932447afca798ec1d2ba0caa7d028f776c1e&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 393,

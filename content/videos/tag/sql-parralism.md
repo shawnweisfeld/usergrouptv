@@ -11,7 +11,7 @@
     {
       "title": "Parallel Query Execution",
       "slug": "parallel-query-execution",
-      "thumbnail": "https://i.vimeocdn.com/video/500556667_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/500556667-90528bc7c7dab5633d7fce60e8ffebceec1342e9bd119f565aad72325497a8c0-d_295x166",
       "date": "2011-04-02T22:01:13",
       "meetups": [
         {

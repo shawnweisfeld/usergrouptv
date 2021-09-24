@@ -10,11 +10,11 @@
   "abstract": "<p>Micro Services, horizontal scalability, and non-relational approaches are all encouraging adoption of NoSQL databases. A basic search will help reveal that NoSQL stands for “Not Only SQL,” but it’s also used as a generic term to encapsulate a wide range of specialized systems. NoSQL can include databases that approach data in a variety of ways. 1.\tKey Value Store – simplest; think caching (Memcache)2.\tOrdered Key Value – a step up for the key value store but allows less scanning of the database (DynamoDB)3.\tBig Table – Think of these as maps-of-maps-of-maps. (Cassandra, HBase)4.\tDocument – Store data in some sort of document (typically JSON); This is probably what most people think about when they hear the term NoSQL. (MongoDB, ElasticSearch)5. Graphing – Tracks the relationships between objects very efficiently, but has to look at all the objects to do so. (Neo4j)</p>",
   "description": "<p>Micro Services, horizontal scalability, and non-relational approaches are all encouraging adoption of NoSQL databases. A basic search will help reveal that NoSQL stands for “Not Only SQL,” but it’s also used as a generic term to encapsulate a wide range of specialized systems. NoSQL can include databases that approach data in a variety of ways. 1.\tKey Value Store – simplest; think caching (Memcache)2.\tOrdered Key Value – a step up for the key value store but allows less scanning of the database (DynamoDB)3.\tBig Table – Think of these as maps-of-maps-of-maps. (Cassandra, HBase)4.\tDocument – Store data in some sort of document (typically JSON); This is probably what most people think about when they hear the term NoSQL. (MongoDB, ElasticSearch)5. Graphing – Tracks the relationships between objects very efficiently, but has to look at all the objects to do so. (Neo4j)</p>",
   "images": [
-    "https://i.vimeocdn.com/video/492564994_295x166.jpg"
+    "https://i.vimeocdn.com/video/492564994-ccc8a4e87fb8c077e32359fecea375f0371e3f3fa3913682a5a773a5818dac94-d_295x166"
   ],
   "vimeo": "108779668",
   "moreinfo": "http://www.dallastechfest.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/492564994_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/492564994-ccc8a4e87fb8c077e32359fecea375f0371e3f3fa3913682a5a773a5818dac94-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/108779668.hd.mp4?s=d7dd9f627c849ee1d867fa696263bca7cdc76dc1&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/108779668.sd.mp4?s=6f0a36cae906322873380c4714309d48574e59e0&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 991,

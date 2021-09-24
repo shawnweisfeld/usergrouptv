@@ -10,11 +10,11 @@
   "abstract": "<p>Xamarin.Forms allow you to build native user interfaces for iOS, Mac, Android, and UWP using shared C#. Xamarin.Forms include more than 40 controls and layouts, which are mapped to native controls at runtime. First, we will go over project new with Xamarin Forms. Then, we'll discuss the latest in Xamarin Forms including bindable pickers and new on idiom for Desktop. Next, we will look at what's ahead with Xamarin Forms Roadmap. </p>",
   "description": "<p>Xamarin.Forms allow you to build native user interfaces for iOS, Mac, Android, and UWP using shared C#. Xamarin.Forms include more than 40 controls and layouts, which are mapped to native controls at runtime. First, we will go over project new with Xamarin Forms. Then, we'll discuss the latest in Xamarin Forms including bindable pickers and new on idiom for Desktop. Next, we will look at what's ahead with Xamarin Forms Roadmap. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/650631630_295x166.jpg"
+    "https://i.vimeocdn.com/video/650631630-35be69e974b4a67f1590e038bb9f005e0fb7135657a8d1f28e17a3541fdbed1d-d_295x166"
   ],
   "vimeo": "230139329",
   "moreinfo": "http://techfests.com/Tulsa/2017/Speakers/SeanSparkman/default.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/650631630_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/650631630-35be69e974b4a67f1590e038bb9f005e0fb7135657a8d1f28e17a3541fdbed1d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/230139329.hd.mp4?s=fa7807974e1f6fad19afb6285e6da65b2b047892&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/230139329.sd.mp4?s=f1ddcf0a0b6f182ef1b865d6519d7e6dd2597f4f&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 104,

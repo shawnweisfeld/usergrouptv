@@ -12,7 +12,7 @@
     {
       "title": "Web Components: A simpler and faster React",
       "slug": "web-components-a-simpler-and-faster-react",
-      "thumbnail": "https://i.vimeocdn.com/video/660020880_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/660020880-8651fb0af8ac6c8db3d6f47ca0a79074daf2eb32ec4d8e541a3800fef8265188-d_295x166",
       "date": "2017-10-05T21:53:05",
       "meetups": [
         {

@@ -12,7 +12,7 @@
     {
       "title": "Optimizing Stored Procedures for Developers",
       "slug": "optimizing-stored-procedures-for-developers",
-      "thumbnail": "https://i.vimeocdn.com/video/487542423_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/487542423-96c9eef3340d0fb0aca4c2a0bce32a7c66b5f0eea98090bf8e01a2938c882b1b-d_295x166",
       "date": "2013-08-17T20:36:23",
       "meetups": [
         {

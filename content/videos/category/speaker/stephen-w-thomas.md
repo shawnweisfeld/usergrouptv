@@ -12,7 +12,7 @@
     {
       "title": "Getting Hands-on with Azure Logic Apps",
       "slug": "getting-hands-on-with-azure-logic-apps",
-      "thumbnail": "https://i.vimeocdn.com/video/696171720_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/696171720-689914677d30c298e0111d1270e92d8cf57126f37fd887e6f74d94c838ba4db9-d_295x166",
       "date": "2018-04-21T13:17:28",
       "meetups": [
         {

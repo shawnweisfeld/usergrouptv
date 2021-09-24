@@ -12,7 +12,7 @@
     {
       "title": "Event Sourcing",
       "slug": "event-sourcing",
-      "thumbnail": "https://i.vimeocdn.com/video/514882019_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/514882019-4e0b9396526f181509531888a73533acf91752326a5f1ade02187ca11fc01eca-d_295x166",
       "date": "2015-04-13T12:09:48",
       "meetups": [
         {

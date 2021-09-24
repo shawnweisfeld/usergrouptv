@@ -10,11 +10,11 @@
   "abstract": "<p>Building on the momentum from the past couple years, ASP.NET Core has officially released and it is breathing new life into the .NET web development ecosystem. The platform has evolved greatly over the past couple of years. Of the many features, and easily the most exciting is that web developers will be able to develop and deploy .NET applications on Windows, Mac, and Linux operating systems. This alone could have a lasting impact on the web development community as a whole. In this session we will get an overview of the big changes to ASP.NET, learn how to setup a development environment on Mac OS(Linux will mirror closely to this), and get a glimpse of developing with a new breed of code editors such as Visual Studio Code, Jetbrains Rider, and Visual Studio for Mac. Attendees will leave this session armed with the knowledge necessary to start developing ASP.NET applications on the operating system of their choice.</p>",
   "description": "<p>Building on the momentum from the past couple years, ASP.NET Core has officially released and it is breathing new life into the .NET web development ecosystem. The platform has evolved greatly over the past couple of years. Of the many features, and easily the most exciting is that web developers will be able to develop and deploy .NET applications on Windows, Mac, and Linux operating systems. This alone could have a lasting impact on the web development community as a whole. In this session we will get an overview of the big changes to ASP.NET, learn how to setup a development environment on Mac OS(Linux will mirror closely to this), and get a glimpse of developing with a new breed of code editors such as Visual Studio Code, Jetbrains Rider, and Visual Studio for Mac. Attendees will leave this session armed with the knowledge necessary to start developing ASP.NET applications on the operating system of their choice.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/650632322_295x166.jpg"
+    "https://i.vimeocdn.com/video/650632322-e74d1974c3640a108bf6176ca557661a2b40299df71486867b79809d2a0043fa-d_295x166"
   ],
   "vimeo": "230139879",
   "moreinfo": "http://techfests.com/Tulsa/2017/Speakers/MykeBates/default.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/650632322_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/650632322-e74d1974c3640a108bf6176ca557661a2b40299df71486867b79809d2a0043fa-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/230139879.hd.mp4?s=c34ff6d7468b8b31d31fcec4a4047e1d0d71ecc5&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/230139879.sd.mp4?s=2946730b023d3fb1970691ee001de9b85d70a02b&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 231,

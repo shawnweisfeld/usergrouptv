@@ -12,11 +12,11 @@
   "abstract": "<p>So you&rsquo;ve decided that building a native UI will deliver the best experience for your users. That&rsquo;s great for customers, but now what? You may be familiar with design on one of the top platforms, but how do the other guys do it? This talk will show you how to build a very simple calculator on Android, iPhone and Windows Phone. We&rsquo;ll see the tools, the markup and the code that actually makes these apps work. We&rsquo;ll even explain the differences along the way! Finally, we&rsquo;ll talk briefly about some sites and local user groups you can get involved in to improve your mobile development skills and expand to new platforms.</p>",
   "description": "<p>So you&rsquo;ve decided that building a native UI will deliver the best experience for your users. That&rsquo;s great for customers, but now what? You may be familiar with design on one of the top platforms, but how do the other guys do it? This talk will show you how to build a very simple calculator on Android, iPhone and Windows Phone. We&rsquo;ll see the tools, the markup and the code that actually makes these apps work. We&rsquo;ll even explain the differences along the way! Finally, we&rsquo;ll talk briefly about some sites and local user groups you can get involved in to improve your mobile development skills and expand to new platforms.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/495143819_295x166.jpg"
+    "https://i.vimeocdn.com/video/495143819-a46d79ab85913b88fd72e6032336d21f2fe61be7da143df41cc28b2f40e5d4a8-d_295x166"
   ],
   "vimeo": "110774897",
   "moreinfo": "http://www.houstontechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/495143819_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/495143819-a46d79ab85913b88fd72e6032336d21f2fe61be7da143df41cc28b2f40e5d4a8-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/110774897.hd.mp4?s=fb130a22f39a8b42e67fb645e03181e6fdc531b0&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/110774897.sd.mp4?s=450b08d8f13f9f4dc98bebc3a5a617613116edb7&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 765,

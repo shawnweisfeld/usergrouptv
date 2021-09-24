@@ -12,7 +12,7 @@
     {
       "title": "What and Why of the Technology Changing the World: Node.js",
       "slug": "what-and-why-of-the-technology-changing-the-world-node-js",
-      "thumbnail": "https://i.vimeocdn.com/video/485963724_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/485963724-132bda2764a61955f954540cab4acceb49c988b2b36a84d1ea6efb7b98611254-d_295x166",
       "date": "2012-10-12T15:44:00",
       "meetups": [
         {

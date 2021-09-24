@@ -10,11 +10,11 @@
   "abstract": "<p>Silverlight is a rapidly evolving platform. Stop paying attention for a minute, and you've likely missed new and important Silverlight changes. With Silverlight 5 around the corner and Windows Phone Silverlight apps growing daily, it's important for developers to stay on the cutting edge of Silverlight news. In this information=packed session, we will look at all of the latest Silverlight news, including news from teh recent MIX11 conference, to form a complete understanding of Silverlight's present and future state. Combined with easy-to-follow demos, you'll leave this session with everything you need to know if you'll be working with Silverlight in 2011.</p>",
   "description": "<p>Silverlight is a rapidly evolving platform. Stop paying attention for a minute, and you've likely missed new and important Silverlight changes. With Silverlight 5 around the corner and Windows Phone Silverlight apps growing daily, it's important for developers to stay on the cutting edge of Silverlight news. In this information=packed session, we will look at all of the latest Silverlight news, including news from teh recent MIX11 conference, to form a complete understanding of Silverlight's present and future state. Combined with easy-to-follow demos, you'll leave this session with everything you need to know if you'll be working with Silverlight in 2011.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/500553999_295x166.jpg"
+    "https://i.vimeocdn.com/video/500553999-0549f06f00dd1a0af1aa6b8d78c22e6fb955c76d6c354f07acf130828748dff8-d_295x166"
   ],
   "vimeo": "114765449",
   "moreinfo": "http://dallasxaml.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/500553999_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/500553999-0549f06f00dd1a0af1aa6b8d78c22e6fb955c76d6c354f07acf130828748dff8-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/114765449.hd.mp4?s=76082205b4c5145b4e37cafe4ae68afeeed2c793&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/114765449.sd.mp4?s=bf03fa45f467871120d8f709594452aff61d3af7&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 698,

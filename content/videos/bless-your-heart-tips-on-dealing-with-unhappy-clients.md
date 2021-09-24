@@ -10,11 +10,11 @@
   "abstract": "<p>Believe it or not, dealing with unhappy clients can be a good thing for your company sales, if you handle the situation correctly.  An unhappy client is telling you that they are missing something. If you acknowledge their needs and address them in a positive way, often those clients will upgrade to a plan or package that will meet their needs. It takes a lot of finesse, some humor, and compassion, but is possible with the right approach to actually use a seemingly bad situation to improve the company bottom line. </p>",
   "description": "<p>Believe it or not, dealing with unhappy clients can be a good thing for your company sales, if you handle the situation correctly.  An unhappy client is telling you that they are missing something. If you acknowledge their needs and address them in a positive way, often those clients will upgrade to a plan or package that will meet their needs. It takes a lot of finesse, some humor, and compassion, but is possible with the right approach to actually use a seemingly bad situation to improve the company bottom line. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/818417695_295x166.jpg"
+    "https://i.vimeocdn.com/video/818417695-5109b25125b037c006d2a8e16fd7913df861167b07864551320f674c53c45d34-d_295x166"
   ],
   "vimeo": "363309641",
   "moreinfo": "https://www.joomladaytexas.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/818417695_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/818417695-5109b25125b037c006d2a8e16fd7913df861167b07864551320f674c53c45d34-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/363309641.hd.mp4?s=a25b76c79d278ebd0e5a79f15c83dcb1be204728&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/363309641.sd.mp4?s=60a0b33deb35432486b591e53033d2527a803f62&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 289,

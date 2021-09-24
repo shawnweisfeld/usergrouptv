@@ -10,11 +10,11 @@
   "abstract": "<p>This is a panel discussion where we break down the pros and cons of microservices and share our experience building big systems with this architecture. We dig into tooling concerns, high level concepts, things to think about, traps, etc. This works great as an interactive session with the audience.</p>",
   "description": "<p>This is a panel discussion where we break down the pros and cons of microservices and share our experience building big systems with this architecture. We dig into tooling concerns, high level concepts, things to think about, traps, etc. This works great as an interactive session with the audience.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/593964660_295x166.jpg"
+    "https://i.vimeocdn.com/video/593964660-b6b295f2070d089978100a307cf2f150267564fc4947ee3889114c2c9510b12c-d_295x166"
   ],
   "vimeo": "184509912",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
-  "thumbnail": "https://i.vimeocdn.com/video/593964660_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/593964660-b6b295f2070d089978100a307cf2f150267564fc4947ee3889114c2c9510b12c-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/184509912.hd.mp4?s=8cf218ea0fe0c4fcdf1f9ffabccff34e9199dcbc&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/184509912.sd.mp4?s=41fad884691f747a81f13a7b02389cb41d8fa962&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 147,

@@ -12,7 +12,7 @@
     {
       "title": "A Remote Possibility",
       "slug": "a-remote-possibility",
-      "thumbnail": "https://i.vimeocdn.com/video/660007787_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/660007787-fd775101e971556313fa16ec5b1de09f58cf66118fd0a477e33bf7f8babd90a4-d_295x166",
       "date": "2017-10-06T22:10:26",
       "meetups": [
         {

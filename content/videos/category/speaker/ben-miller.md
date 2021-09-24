@@ -12,7 +12,7 @@
     {
       "title": "SQL Server PowerShell for the Beginner",
       "slug": "sql-server-powershell-for-the-beginner",
-      "thumbnail": "https://i.vimeocdn.com/video/722418765_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/722418765-6e78adc9cb8f055d7c8513ec88434664b5b8d91327db1cf3f724d674d006a92f-d_295x166",
       "date": "2018-08-25T19:38:27",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "SQL Server Encryption",
       "slug": "sql-server-encryption",
-      "thumbnail": "https://i.vimeocdn.com/video/722235367_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/722235367-a9ec12ebee9398dd97a62e431ea4685b15edf13d3777dea73d5ace9aba4afde7-d_295x166",
       "date": "2018-08-25T19:35:49",
       "meetups": [
         {
@@ -48,7 +48,7 @@
     {
       "title": "PoShDBA: Practical PowerShell for the DBA",
       "slug": "poshdba-practical-powershell-for-the-dba",
-      "thumbnail": "https://i.vimeocdn.com/video/589679680_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/589679680-44b493cf9ff011c0ee4d8f783d0e50ade45652759abff3e0efbfa02c49a29a25-d_295x166",
       "date": "2016-08-27T12:46:44",
       "meetups": [
         {
@@ -66,7 +66,7 @@
     {
       "title": "SQL Server TDE in 30 Minutes",
       "slug": "sql-server-tde-in-30-minutes",
-      "thumbnail": "https://i.vimeocdn.com/video/495918738_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/495918738-de3b69f2f055d349607df675f36cd851c5a89264f0f6ef4a065efa30dab0c1db-d_295x166",
       "date": "2011-08-27T22:52:03",
       "meetups": [
         {

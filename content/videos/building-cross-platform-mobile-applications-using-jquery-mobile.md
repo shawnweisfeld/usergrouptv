@@ -10,11 +10,11 @@
   "abstract": "<p>In this session, we'll discuss how to write a functional, touch-friendly web application using jQuery Mobile. We'll walk through basic pages, layouts, toolbars, navigation, list views, events, form controls, and transition effects.\r\n</p>",
   "description": "<p>In this session, we'll discuss how to write a functional, touch-friendly web application using jQuery Mobile. We'll walk through basic pages, layouts, toolbars, navigation, list views, events, form controls, and transition effects.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/485963143_295x166.jpg"
+    "https://i.vimeocdn.com/video/485963143-b317bd8d958bae33d55de18de853e54a8d2efbda3c33ae89b2caaf8ff9bf115c-d_295x166"
   ],
   "vimeo": "103660967",
   "moreinfo": "http://techfests.com/Tulsa/2012/default.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/485963143_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/485963143-b317bd8d958bae33d55de18de853e54a8d2efbda3c33ae89b2caaf8ff9bf115c-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/103660967.hd.mp4?s=072097ea9afc5af35d0c32d7523deb81bbf5914b&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/103660967.sd.mp4?s=eeb63b09120701cdff046c9f5c3dba3cd89405be&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 630,

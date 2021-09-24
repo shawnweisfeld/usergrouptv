@@ -12,7 +12,7 @@
     {
       "title": "From problem to Power BI: A journey in data visualization",
       "slug": "from-problem-to-power-bi-a-journey-in-data-visualization",
-      "thumbnail": "https://i.vimeocdn.com/video/626869251_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/626869251-85cc5d00f56a51019f98d714221c95ccd7b332a3c0ddf1fedad1179aca157649-d_295x166",
       "date": "2017-03-04T22:07:29",
       "meetups": [
         {

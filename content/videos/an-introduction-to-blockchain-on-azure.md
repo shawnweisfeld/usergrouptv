@@ -10,11 +10,11 @@
   "abstract": "<p>This session will cover introduction to Blockchain Terminology, considering various use cases and applicability, overview of blockchain services/offerings in Azure and sneak peek into a Private Project Microsoft is investing with respect to Blockchain followed by live demo</p>",
   "description": "<p>This session will cover introduction to Blockchain Terminology, considering various use cases and applicability, overview of blockchain services/offerings in Azure and sneak peek into a Private Project Microsoft is investing with respect to Blockchain followed by live demo</p>",
   "images": [
-    "https://i.vimeocdn.com/video/696169887_295x166.jpg"
+    "https://i.vimeocdn.com/video/696169887-502c8cf698adc64ff7329ebaeda12806162d5fa67055d2855d885f1804a5a969-d_295x166"
   ],
   "vimeo": "266017794",
   "moreinfo": "https://global.azurebootcamp.net/locations/gobal-azure-boot-camp-2018-austin-tx/",
-  "thumbnail": "https://i.vimeocdn.com/video/696169887_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/696169887-502c8cf698adc64ff7329ebaeda12806162d5fa67055d2855d885f1804a5a969-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/266017794.hd.mp4?s=dfdc2713143dc4528ed5e6b91625ffe51109773c&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/266017794.sd.mp4?s=93145a77191106e5f4eafe006fb509987b180c84&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 91,

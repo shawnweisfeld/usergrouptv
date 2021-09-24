@@ -12,7 +12,7 @@
     {
       "title": "Being Lazy in the Cloud - Finding Efficiencies in AWS to Make Life Easier",
       "slug": "being-lazy-in-the-cloud-finding-efficiencies-in-aws-to-make-life-easier",
-      "thumbnail": "https://i.vimeocdn.com/video/660639439_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/660639439-4024123141ee363b2e4d1fb52a71e154cab2c955d9684c000b5b1dca793c3644-d_295x166",
       "date": "2017-10-06T16:25:02",
       "meetups": [
         {

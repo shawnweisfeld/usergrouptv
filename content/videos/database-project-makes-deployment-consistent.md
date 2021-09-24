@@ -10,11 +10,11 @@
   "abstract": "<p>The deployment process is frustrating; an object is missing, an object is deployed in the wrong order or an incorrect version. Deploying to multiple environments like Dev, QA, UAT and Prod is a challenge whither on premise or in the cloud. Source controlling database objects is paramount. Team development is required. Database code will only be deployed when changed. Proper security deployment will be repeatable per environment. Together, let us discover how using Database Project will help us with consistent releases. Deployments can cause you trouble but we will share a reliable deployment and version control process. Let’s see how Database Project can help us accomplish this goal.</p>",
   "description": "<p>The deployment process is frustrating; an object is missing, an object is deployed in the wrong order or an incorrect version. Deploying to multiple environments like Dev, QA, UAT and Prod is a challenge whither on premise or in the cloud. Source controlling database objects is paramount. Team development is required. Database code will only be deployed when changed. Proper security deployment will be repeatable per environment. Together, let us discover how using Database Project will help us with consistent releases. Deployments can cause you trouble but we will share a reliable deployment and version control process. Let’s see how Database Project can help us accomplish this goal.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/640581517_295x166.jpg"
+    "https://i.vimeocdn.com/video/640581517-ba02aba79c20c7c842e7c548fd2455fbd1c8beeb8a04496b964e71e50530695a-d_295x166"
   ],
   "vimeo": "222134696",
   "moreinfo": "http://www.sqlsaturday.com/651/Sessions/Details.aspx?sid=63529",
-  "thumbnail": "https://i.vimeocdn.com/video/640581517_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/640581517-ba02aba79c20c7c842e7c548fd2455fbd1c8beeb8a04496b964e71e50530695a-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/222134696.hd.mp4?s=2324d943934abc0b85992aa997ac70e479d77215&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/222134696.sd.mp4?s=1b2611e2adcb5d061ce3f22dcdf5b15fe60443c5&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 203,

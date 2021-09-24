@@ -12,7 +12,7 @@
     {
       "title": "Continuous Delivery: Tools and Tactics",
       "slug": "continuous-delivery-tools-and-tactics",
-      "thumbnail": "https://i.vimeocdn.com/video/489182752_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/489182752-d12b059573f575f7b935c578ba799a0d510368265c137613a63bd9de7d2b6be5-d_295x166",
       "date": "2014-09-13T23:40:04",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Building a DevOps Culture",
       "slug": "building-a-devops-culture",
-      "thumbnail": "https://i.vimeocdn.com/video/489182188_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/489182188-b96ba05ab56ef4b1d95e5b23f3d7e44b7ebf02c5e556f06e9d74b4dee9aa199d-d_295x166",
       "date": "2014-09-13T23:35:58",
       "meetups": [
         {

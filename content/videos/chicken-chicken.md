@@ -10,11 +10,11 @@
   "abstract": "<p>A presentation of a paper by Doug Zongker, previously of U of Washington, currently a software engineer at Google. The paper was originally presented in 2007 at the American Association for the Advancement of Science Conference. The title of the paper is \"Chicken Chicken Chicken: Chicken Chicken\".</p>",
   "description": "<p>A presentation of a paper by Doug Zongker, previously of U of Washington, currently a software engineer at Google. The paper was originally presented in 2007 at the American Association for the Advancement of Science Conference. The title of the paper is \"Chicken Chicken Chicken: Chicken Chicken\".</p>",
   "images": [
-    "https://i.vimeocdn.com/video/593958822_295x166.jpg"
+    "https://i.vimeocdn.com/video/593958822-3831f8094d70c3c1e7a61414cb58fd0cec0f7f273074ab401d25f5cb9bffc167-d_295x166"
   ],
   "vimeo": "184504824",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
-  "thumbnail": "https://i.vimeocdn.com/video/593958822_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/593958822-3831f8094d70c3c1e7a61414cb58fd0cec0f7f273074ab401d25f5cb9bffc167-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/184504824.hd.mp4?s=862352ce972f290dad9d7211013034abb9cc7a19&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/184504824.sd.mp4?s=321f4985d1abab8a5faced0bc68412825d4bacbd&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 167,

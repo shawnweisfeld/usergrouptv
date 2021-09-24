@@ -12,7 +12,7 @@
     {
       "title": "ETL Using Python, Pandas, and Jupyter Notebook",
       "slug": "etl-using-python-pandas-and-jupyter-notebook",
-      "thumbnail": "https://i.vimeocdn.com/video/854626443_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854626443-6dbab1c4880358e08498ef860060c3f59a192b4a5ae14d5523e988458d7f6478-d_295x166",
       "date": "2020-02-08T16:14:32",
       "meetups": [
         {

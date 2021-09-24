@@ -12,11 +12,11 @@
   "abstract": "Building a .NET Application Using Azure Cosmos DB Are you looking to build an application that needs a data store with guaranteed single-digit millisecond response times with multi-master global distribution? Then Azure Cosmos DB is for you. In this presentation, you will learn what exactly Cosmos DB is, what it can be used for, how to access data stored in Cosmos using .NET, and some pitfalls you will want to avoid.",
   "description": "Building a .NET Application Using Azure Cosmos DB Are you looking to build an application that needs a data store with guaranteed single-digit millisecond response times with multi-master global distribution? Then Azure Cosmos DB is for you. In this presentation, you will learn what exactly Cosmos DB is, what it can be used for, how to access data stored in Cosmos using .NET, and some pitfalls you will want to avoid.",
   "images": [
-    "https://i.vimeocdn.com/video/994396316_295x166.jpg"
+    "https://i.vimeocdn.com/video/994396316-ae3c00783688a2d2a3eef9da84fcae5924cecaae495a85cba30fb19260a986ce-d_295x166"
   ],
   "vimeo": "478978592",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/273740013",
-  "thumbnail": "https://i.vimeocdn.com/video/994396316_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/994396316-ae3c00783688a2d2a3eef9da84fcae5924cecaae495a85cba30fb19260a986ce-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/478978592.hd.mp4?s=b7ce542fa366aaad1eb70685afd032f69f11b96f&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/478978592.sd.mp4?s=8397c888843a28eb577d597c0750a9ea38eb2afe&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 1042,
@@ -42,7 +42,7 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 41
+      "count": 42
     }
   ],
   "meetups": [

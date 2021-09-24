@@ -10,11 +10,11 @@
   "abstract": "<p>Over the last few years, Microservices have become a popular architecture pattern for the distributed systems. There are many definitions of Microservices so, their implementations differ as well. By now, you may be tired of listening to microservices talk with Netflix architecture diagrams, the dreaded eCommerce example or another technology pitch. Many of these talks push you off the cliff and leave the flying(the hard part) up to you. As a result, the implementations fall short of success. Incorrect integration strategies are central to these. In this talk, we are going to look at avoiding some of those failures based on real-world experiences. We are going to look at some guiding principles and how to choose the correct integration strategy via examples. </p>",
   "description": "<p>Over the last few years, Microservices have become a popular architecture pattern for the distributed systems. There are many definitions of Microservices so, their implementations differ as well. By now, you may be tired of listening to microservices talk with Netflix architecture diagrams, the dreaded eCommerce example or another technology pitch. Many of these talks push you off the cliff and leave the flying(the hard part) up to you. As a result, the implementations fall short of success. Incorrect integration strategies are central to these. In this talk, we are going to look at avoiding some of those failures based on real-world experiences. We are going to look at some guiding principles and how to choose the correct integration strategy via examples. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/725424168_295x166.jpg"
+    "https://i.vimeocdn.com/video/725424168-b705c34a005fe2e8e383f53ae773d9d56ad86ed318ce93f182bdfd6c23953ace-d_295x166"
   ],
   "vimeo": "289714867",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/254469748/",
-  "thumbnail": "https://i.vimeocdn.com/video/725424168_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/725424168-b705c34a005fe2e8e383f53ae773d9d56ad86ed318ce93f182bdfd6c23953ace-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/289714867.hd.mp4?s=18bac949dac10a6abbff6ec6ffabdce976fc7ae4&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/289714867.sd.mp4?s=ea0c86a832d910253ae8808b3462c8f335a77db8&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 500,

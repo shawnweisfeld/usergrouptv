@@ -10,11 +10,11 @@
   "abstract": "It is closer that you think. / WinRT: Welcome to the v1 world… again.\r\nYes, it is possible to develop, using C# or VB, a core set of libraries that can be leveraged across WinRT (Windows 8 Metro), WinForms, WPF, Silverlight, ASP.NET, Windows Phone, Mono (Linux, Mac, Android, iOS). This can be done using Visual Studio 2010 (an extension) and Visual Studio 2012 (built in). In this talk, one of many methods will demonstrate how the core of an application is built and leveraged across Windows Phone, Silverlight, WinForms and WinRT.\r\nAdditionally, we will spend a significant amount of time covering some of the specifics developing for WinRT from a Windows Phone 7 and Silverlight perspective.",
   "description": "It is closer that you think. / WinRT: Welcome to the v1 world… again.\r\nYes, it is possible to develop, using C# or VB, a core set of libraries that can be leveraged across WinRT (Windows 8 Metro), WinForms, WPF, Silverlight, ASP.NET, Windows Phone, Mono (Linux, Mac, Android, iOS). This can be done using Visual Studio 2010 (an extension) and Visual Studio 2012 (built in). In this talk, one of many methods will demonstrate how the core of an application is built and leveraged across Windows Phone, Silverlight, WinForms and WinRT.\r\nAdditionally, we will spend a significant amount of time covering some of the specifics developing for WinRT from a Windows Phone 7 and Silverlight perspective.",
   "images": [
-    "https://i.vimeocdn.com/video/488135369_295x166.jpg"
+    "https://i.vimeocdn.com/video/488135369-f692939d6b047b2d9aa69a7f4a904004b7535ac252f9c293871cfd51de322454-d_295x166"
   ],
   "vimeo": "105365155",
   "moreinfo": "http://www.ddnug.net/",
-  "thumbnail": "https://i.vimeocdn.com/video/488135369_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/488135369-f692939d6b047b2d9aa69a7f4a904004b7535ac252f9c293871cfd51de322454-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/105365155.hd.mp4?s=25c7a6964350bfbb58ea23167ba3ed13b92b2053&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/105365155.sd.mp4?s=c035a13f61c3cdc8c7cc5df3eb60ec753b2cd5c3&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 529,

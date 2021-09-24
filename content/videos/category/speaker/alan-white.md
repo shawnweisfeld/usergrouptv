@@ -12,7 +12,7 @@
     {
       "title": "Cloudy with a chance of Security",
       "slug": "cloudy-with-a-chance-of-security",
-      "thumbnail": "https://i.vimeocdn.com/video/586637896_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/586637896-29de3c15e336e318e052a01d67a18797e587d5608abeba6dbcf160ba39d1c5a4-d_295x166",
       "date": "2016-08-05T14:36:50",
       "meetups": [
         {

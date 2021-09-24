@@ -10,11 +10,11 @@
   "abstract": "<p>Writing software that can be maintained is and always has been crucial. But so is writing software that can be enhanced and extended. It’s become quite commonplace for many apps today to expose APIs so externally written apps can have access to their data or their services. But imagine how cool it is to expose an API for changing or extending an application’s functionality. I’m talking about the ability to use the architecture of an application in order to enhance that system. This is the power of the patterns and techniques I’m going to show you in this session. They’re very useful and very geeky so bring your propeller hat.\r\n</p>",
   "description": "<p>Writing software that can be maintained is and always has been crucial. But so is writing software that can be enhanced and extended. It’s become quite commonplace for many apps today to expose APIs so externally written apps can have access to their data or their services. But imagine how cool it is to expose an API for changing or extending an application’s functionality. I’m talking about the ability to use the architecture of an application in order to enhance that system. This is the power of the patterns and techniques I’m going to show you in this session. They’re very useful and very geeky so bring your propeller hat.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/571709066_295x166.jpg"
+    "https://i.vimeocdn.com/video/571709066-9e01f7cc52605db9f37586d3002103d57b775ad7822bb22057eb48996a1cf224-d_295x166"
   ],
   "vimeo": "167407126",
   "moreinfo": "http://www.meetup.com/developer-springboard/events/230644633/",
-  "thumbnail": "https://i.vimeocdn.com/video/571709066_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/571709066-9e01f7cc52605db9f37586d3002103d57b775ad7822bb22057eb48996a1cf224-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/167407126.hd.mp4?s=30dd2632faad6dbb6fcd4fa2442d84a00a5fb06d&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/167407126.sd.mp4?s=17e95c3e61123a89324e984019b5dccfc7a27dfb&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 519,

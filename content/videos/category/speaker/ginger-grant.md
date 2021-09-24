@@ -12,7 +12,7 @@
     {
       "title": "Getting Started with Data Science and Databricks",
       "slug": "getting-started-with-data-science-and-databricks",
-      "thumbnail": "https://i.vimeocdn.com/video/854620500_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854620500-8f2d84679d3f888ebecea3bd458af3f33ea1a22f78f2b1f8866ac558335f3967-d_295x166",
       "date": "2020-02-08T16:30:20",
       "meetups": [
         {

@@ -10,11 +10,11 @@
   "abstract": "<p>Do you ever have that nagging fear that your dimension tables don't have the data they need?  Maybe you're working too hard to capture and store detail no one is using or maybe you can't stop thinking that you've missed something?  This session will (hopefully) set your mind at ease.  Let's design a dimension the agile way!</p>",
   "description": "<p>Do you ever have that nagging fear that your dimension tables don't have the data they need?  Maybe you're working too hard to capture and store detail no one is using or maybe you can't stop thinking that you've missed something?  This session will (hopefully) set your mind at ease.  Let's design a dimension the agile way!</p>",
   "images": [
-    "https://i.vimeocdn.com/video/587194196_295x166.jpg"
+    "https://i.vimeocdn.com/video/587194196-d9108453ec0af26b1e9d126a8f0652c98a2e4b939b5c4556a9b834ee219daa5e-d_295x166"
   ],
   "vimeo": "179316824",
   "moreinfo": "http://www.sqlsaturday.com/550/Sessions/Details.aspx?sid=51096",
-  "thumbnail": "https://i.vimeocdn.com/video/587194196_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/587194196-d9108453ec0af26b1e9d126a8f0652c98a2e4b939b5c4556a9b834ee219daa5e-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/179316824.hd.mp4?s=04d0995780e009ef21b6ac2d5628564c56d44320&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/179316824.sd.mp4?s=6b646a1d59d4cd9b638b1094d54f4fc14cef1ae6&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 189,

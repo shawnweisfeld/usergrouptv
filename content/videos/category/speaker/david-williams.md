@@ -12,7 +12,7 @@
     {
       "title": "SQL Server on Linux ",
       "slug": "sql-server-on-linux",
-      "thumbnail": "https://i.vimeocdn.com/video/631738426_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/631738426-0578c7fe6a67f5a6a7eccc806983cbc269be8dd17511ffa0ef12f97536be8e18-d_295x166",
       "date": "2017-04-18T13:03:59",
       "meetups": [
         {

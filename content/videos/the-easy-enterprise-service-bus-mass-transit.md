@@ -10,11 +10,11 @@
   "abstract": "<p>Unless you're living under a rock somewhere, you've likely heard of the Enterprise Service Bus, or ESB.  But you've also likely thought that was for \"those advanced SOA people\".  Not so!  Setting up an ESB for your work can be quick and easy, and provide real benefits for maintenance over the long term.  This session will introduce you to how to get started with a distributed ESB, using the popular open source projects MassTransit and TopShelf.  You'll learn how to use these services with a variety of communication mechanisms, including MSMQ, RabbitMQ, and the Azure Service Bus.</p>",
   "description": "<p>Unless you're living under a rock somewhere, you've likely heard of the Enterprise Service Bus, or ESB.  But you've also likely thought that was for \"those advanced SOA people\".  Not so!  Setting up an ESB for your work can be quick and easy, and provide real benefits for maintenance over the long term.  This session will introduce you to how to get started with a distributed ESB, using the popular open source projects MassTransit and TopShelf.  You'll learn how to use these services with a variety of communication mechanisms, including MSMQ, RabbitMQ, and the Azure Service Bus.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/485086496_295x166.jpg"
+    "https://i.vimeocdn.com/video/485086496-0dbe232a60655ba99bc03a735a595e912ab2d9efea5ad7d64b1122ba809b3f92-d_295x166"
   ],
   "vimeo": "102967428",
   "moreinfo": "http://www.ddnug.net/",
-  "thumbnail": "https://i.vimeocdn.com/video/485086496_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/485086496-0dbe232a60655ba99bc03a735a595e912ab2d9efea5ad7d64b1122ba809b3f92-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/102967428.hd.mp4?s=5c8613f566003649bd03f9cbbed107e096c49519&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/102967428.sd.mp4?s=d6641e88e1079d52e231a4e24b992059191b4346&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 641,

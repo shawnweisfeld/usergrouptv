@@ -12,11 +12,11 @@
   "abstract": "<p>Trying to compromise the complexity of a database schema for read purposes while retaining any of the benefits of its relational nature often results in all of the pain and none of the gain.</p>\r\n<p>One excellent way to speed up reads while allowing for complex writes is to maintain two datastores.  One for reads and one for writes.  This is what CQRS addresses and what I will be exploring in this talk. I will be covering how to keep datastores in sync, how the domain can facilitates that, and new datastores, such as EventStore, that become available when you embrace this way of thinking.</p>\r\n<p>DDD/CQRS/ES in a nutshell.</p>",
   "description": "<p>Trying to compromise the complexity of a database schema for read purposes while retaining any of the benefits of its relational nature often results in all of the pain and none of the gain.</p>\r\n<p>One excellent way to speed up reads while allowing for complex writes is to maintain two datastores.  One for reads and one for writes.  This is what CQRS addresses and what I will be exploring in this talk. I will be covering how to keep datastores in sync, how the domain can facilitates that, and new datastores, such as EventStore, that become available when you embrace this way of thinking.</p>\r\n<p>DDD/CQRS/ES in a nutshell.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/514882019_295x166.jpg"
+    "https://i.vimeocdn.com/video/514882019-4e0b9396526f181509531888a73533acf91752326a5f1ade02187ca11fc01eca-d_295x166"
   ],
   "vimeo": "124960669",
   "moreinfo": "http://adnug.org/Home/april-13-2015-event-sourcing/",
-  "thumbnail": "https://i.vimeocdn.com/video/514882019_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/514882019-4e0b9396526f181509531888a73533acf91752326a5f1ade02187ca11fc01eca-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/124960669.hd.mp4?s=2a6a777defd254f663b60a718f7418d0e0ab10a7&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/124960669.sd.mp4?s=411bff913f81180e77fadd274f715ac2dd8f0abf&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 829,

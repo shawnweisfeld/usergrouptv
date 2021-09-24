@@ -12,7 +12,7 @@
     {
       "title": "Pipeline as Code: A Model for Scaling CI/CD",
       "slug": "pipeline-as-code-a-model-for-scaling-cicd",
-      "thumbnail": "https://i.vimeocdn.com/video/660023557_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/660023557-307ddcb05285dadb6095fb2d7416356b95e8f525b7963d52a6e0fe39af91e490-d_295x166",
       "date": "2017-10-05T21:57:49",
       "meetups": [
         {

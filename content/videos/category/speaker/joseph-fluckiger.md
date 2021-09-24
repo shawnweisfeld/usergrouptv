@@ -12,7 +12,7 @@
     {
       "title": "Using MongoDB with .NET ",
       "slug": "using-mongodb-with-net",
-      "thumbnail": "https://i.vimeocdn.com/video/639611979_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/639611979-9c061cab5d760a597c5ff09175afbfd7e12b938a926e83d0590a44d96e518239-d_295x166",
       "date": "2017-06-12T13:57:52",
       "meetups": [
         {

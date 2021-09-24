@@ -11,11 +11,11 @@
   "abstract": "Like the progression of a band moving 5th grade to university, teams go through a series of growth steps. In this talk, I discuss the different phases of team dynamics, how to facilitate that growth and what to watch out for. Plus, we will discuss some of the animals that can prevent that growth (and corral them).\r\n",
   "description": "Like the progression of a band moving 5th grade to university, teams go through a series of growth steps. In this talk, I discuss the different phases of team dynamics, how to facilitate that growth and what to watch out for. Plus, we will discuss some of the animals that can prevent that growth (and corral them).\r\n",
   "images": [
-    "https://i.vimeocdn.com/video/1216459740_295x166"
+    "https://i.vimeocdn.com/video/1216459740-dd7c081acfd681496457af72337193a418e19f34e4a507f9bac0ecb9f3935aae-d_295x166"
   ],
   "vimeo": "587912381",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/279898148/",
-  "thumbnail": "https://i.vimeocdn.com/video/1216459740_295x166",
+  "thumbnail": "https://i.vimeocdn.com/video/1216459740-dd7c081acfd681496457af72337193a418e19f34e4a507f9bac0ecb9f3935aae-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/587912381.hd.mp4?s=8e48213cf8174b1bf80f844cb425485a1965ea87&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/587912381.sd.mp4?s=e20c0e2ed061863a1b2b7637d754a373d7fd2cb9&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 1080,

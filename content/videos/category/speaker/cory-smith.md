@@ -12,7 +12,7 @@
     {
       "title": "Meeting: Cross-Platform Development: Let's get real",
       "slug": "meeting-cross-platform-development-lets-get-real",
-      "thumbnail": "https://i.vimeocdn.com/video/507048285_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/507048285-d965f2a489317a0edbefbf011d6bc9a10adbbef54056003d2974255da7a7d699-d_295x166",
       "date": "2013-01-15T21:35:39",
       "meetups": [
         {
@@ -34,7 +34,7 @@
     {
       "title": "Portable Libraries: Write Once, Utilize Everywhere",
       "slug": "portable-libraries-write-once-utilize-everywhere",
-      "thumbnail": "https://i.vimeocdn.com/video/488135369_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/488135369-f692939d6b047b2d9aa69a7f4a904004b7535ac252f9c293871cfd51de322454-d_295x166",
       "date": "2012-08-09T17:18:12",
       "meetups": [
         {
@@ -52,7 +52,7 @@
     {
       "title": "Portable Library: Write Once, Utilize Everywhere",
       "slug": "portable-library-write-once-utilize-everywhere",
-      "thumbnail": "https://i.vimeocdn.com/video/489467230_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/489467230-b949882ce06f19e7590d0599378c8a7cef960fd8fd92887657332bb9bfe93c46-d_295x166",
       "date": "2012-07-18T14:11:41",
       "meetups": [
         {
@@ -74,7 +74,7 @@
     {
       "title": "LINQ - An Average Joe’s Guide (or \"It’s not all about SQL\")",
       "slug": "linq-an-average-joes-guide-or-its-not-all-about-sql",
-      "thumbnail": "https://i.vimeocdn.com/video/495919896_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/495919896-800a63d6d17daccc04dc903d5f40c2cbb9359fdeebfdf2cbbc4919f7d4146b97-d_295x166",
       "date": "2011-07-21T22:32:34",
       "meetups": [
         {
@@ -92,7 +92,7 @@
     {
       "title": "Using MEF with Silverlight and WPF",
       "slug": "using-mef-with-silverlight-and-wpf",
-      "thumbnail": "https://i.vimeocdn.com/video/498383893_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/498383893-38570f248a5ed32feaeded5c7df5ffb31215fc1a2b8e38469bce0f6471d79a81-d_295x166",
       "date": "2011-07-05T19:12:08",
       "meetups": [
         {
@@ -110,7 +110,7 @@
     {
       "title": "Confessions of a MEF Addict",
       "slug": "confessions-of-a-mef-addict",
-      "thumbnail": "https://i.vimeocdn.com/video/500555308_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/500555308-d1dce830b880f3cbbc9c068198f2d6c90ed2acd4b3e6ee797ab92edbf27e7c40-d_295x166",
       "date": "2011-03-15T21:18:45",
       "meetups": [
         {

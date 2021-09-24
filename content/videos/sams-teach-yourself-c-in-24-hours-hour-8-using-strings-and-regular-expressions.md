@@ -10,11 +10,11 @@
   "abstract": "<p>In this talk we will be covering Hour 8, Strings and Regular Expressions, of C# in 24 Hours by Scott Dorman</p>",
   "description": "<p>In this talk we will be covering Hour 8, Strings and Regular Expressions, of C# in 24 Hours by Scott Dorman</p>",
   "images": [
-    "https://i.vimeocdn.com/video/500554314_295x166.jpg"
+    "https://i.vimeocdn.com/video/500554314-0d67b80d02397ced8ea30f382f50cdb920742ddb2ffd9b0b9ad60e06ee7988cd-d_295x166"
   ],
   "vimeo": "114765632",
   "moreinfo": "http://ntpcug.org/",
-  "thumbnail": "https://i.vimeocdn.com/video/500554314_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/500554314-0d67b80d02397ced8ea30f382f50cdb920742ddb2ffd9b0b9ad60e06ee7988cd-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/114765632.hd.mp4?s=02f498c6bb5764ba2db5b591266f6d3a9b5495f7&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/114765632.sd.mp4?s=4c2486e72e51be27a857b944d4d98083e71a67b3&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 681,

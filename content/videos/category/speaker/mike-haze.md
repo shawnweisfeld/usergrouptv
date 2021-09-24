@@ -12,7 +12,7 @@
     {
       "title": "Making Agile Work on Large, Complex Projects",
       "slug": "making-agile-work-on-large-complex-projects",
-      "thumbnail": "https://i.vimeocdn.com/video/482639292_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/482639292-221c83fc4bcd477d0aa1988452053660b9896c9c6f5dc96038e339a5d81cfefd-d_295x166",
       "date": "2013-12-06T13:07:49",
       "meetups": [
         {

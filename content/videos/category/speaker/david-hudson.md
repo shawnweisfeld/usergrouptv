@@ -12,7 +12,7 @@
     {
       "title": "A brutal journey: Lessons learned while traveling the world as a CEO/CTO.",
       "slug": "a-brutal-journey-lessons-learned-while-traveling-the-world-as-a-ceocto",
-      "thumbnail": "https://i.vimeocdn.com/video/660634741_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/660634741-bee746fb0cac0790339ef6605356aa937b89115797759c772a751beac47ef227-d_295x166",
       "date": "2017-10-06T16:10:02",
       "meetups": [
         {

@@ -10,11 +10,11 @@
   "abstract": "<p>With the overwhelming number of mobile devices on the market and the high frequency of OS updates, it's hard, if not nearly impossible, for mobile developers to ensure their apps will run across the myriad of devices and platforms. Let Xamarin Test Cloud take care of this so you can focus on what's important... your customers!</p>",
   "description": "<p>With the overwhelming number of mobile devices on the market and the high frequency of OS updates, it's hard, if not nearly impossible, for mobile developers to ensure their apps will run across the myriad of devices and platforms. Let Xamarin Test Cloud take care of this so you can focus on what's important... your customers!</p>",
   "images": [
-    "https://i.vimeocdn.com/video/586640231_295x166.jpg"
+    "https://i.vimeocdn.com/video/586640231-92470224d8bfbaf230f5d9a84274f83f83732c1b8f333681e2fbc1809db64a8e-d_295x166"
   ],
   "vimeo": "178890309",
   "moreinfo": "http://techfests.com/Tulsa/2016/Speakers/RyanOverton/",
-  "thumbnail": "https://i.vimeocdn.com/video/586640231_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/586640231-92470224d8bfbaf230f5d9a84274f83f83732c1b8f333681e2fbc1809db64a8e-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/178890309.hd.mp4?s=404739cdaaa1328e88e97e3da56cc2a75c460bf8&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/178890309.sd.mp4?s=ec4891b7d9f6c9aeab8f7ea32e3840c4541009be&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 179,

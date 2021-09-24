@@ -10,11 +10,11 @@
   "abstract": "<p>This session will cover real world functions that are used for real DBA work. There will be a few slides but mostly demos with actual scripts to help you do your job. I will also introduce some outside modules created to assist as well. Things like Reading/Changing the following: Permissions, DB Owner maintenance and database space management. We all could use a few standard things in our DBA world of ever changing roles and \"I have to have it now\" stuff, that Management Studio can get in the way of getting it done faster. Join me for a fun PowerShell hour and never try to reuse a click again.</p>",
   "description": "<p>This session will cover real world functions that are used for real DBA work. There will be a few slides but mostly demos with actual scripts to help you do your job. I will also introduce some outside modules created to assist as well. Things like Reading/Changing the following: Permissions, DB Owner maintenance and database space management. We all could use a few standard things in our DBA world of ever changing roles and \"I have to have it now\" stuff, that Management Studio can get in the way of getting it done faster. Join me for a fun PowerShell hour and never try to reuse a click again.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/589679680_295x166.jpg"
+    "https://i.vimeocdn.com/video/589679680-44b493cf9ff011c0ee4d8f783d0e50ade45652759abff3e0efbfa02c49a29a25-d_295x166"
   ],
   "vimeo": "181196883",
   "moreinfo": "http://www.sqlsaturday.com/553/Sessions/Details.aspx?sid=50343",
-  "thumbnail": "https://i.vimeocdn.com/video/589679680_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/589679680-44b493cf9ff011c0ee4d8f783d0e50ade45652759abff3e0efbfa02c49a29a25-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/181196883.hd.mp4?s=372422f56c6dbf3a9e30e73c5f7d3a490a6f6412&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/181196883.sd.mp4?s=254d911096123897ae23fed39d40a9daf718023d&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 191,

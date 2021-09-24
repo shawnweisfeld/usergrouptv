@@ -10,11 +10,11 @@
   "abstract": "<p>Have you ever created an index and wondered what to specify for fill factor? Usually I’ve never ever given it a worry and just left it at the default value = 0 (actually this is a synonym for 100). But recently I’ve stumbled on a technique that will determine a “near” optimum fill factor value for every index in a database. I say “near” because it won’t always derive the perfect fill factor, but will get you close. We will look closely at the T-SQL for this technique to see how the proof of concept was developed for a very active OLTP database. I’ve observed a decrease in overall database wait times of 30% after the tuning. The tuning is continuous and allows for changes in data skew as well as evolving application interactions with the database. IMHO this is a real break-through for making your indexes perform even better. All code will be available for download.</p>",
   "description": "<p>Have you ever created an index and wondered what to specify for fill factor? Usually I’ve never ever given it a worry and just left it at the default value = 0 (actually this is a synonym for 100). But recently I’ve stumbled on a technique that will determine a “near” optimum fill factor value for every index in a database. I say “near” because it won’t always derive the perfect fill factor, but will get you close. We will look closely at the T-SQL for this technique to see how the proof of concept was developed for a very active OLTP database. I’ve observed a decrease in overall database wait times of 30% after the tuning. The tuning is continuous and allows for changes in data skew as well as evolving application interactions with the database. IMHO this is a real break-through for making your indexes perform even better. All code will be available for download.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/808118447_295x166.jpg"
+    "https://i.vimeocdn.com/video/808118447-ea0660be6fb8d76cbee632c45f277f9feb90fd03e67c6bf45bc8949d3cdca93c-d_295x166"
   ],
   "vimeo": "355358224",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/pttzvqyzlbbc/",
-  "thumbnail": "https://i.vimeocdn.com/video/808118447_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/808118447-ea0660be6fb8d76cbee632c45f277f9feb90fd03e67c6bf45bc8949d3cdca93c-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/355358224.hd.mp4?s=bf862930741f4c00b320a278c97d40f908e6509e&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/355358224.sd.mp4?s=a79fa2663afb3dc8f9960942af7e27912070a569&profile_id=139&oauth2_token_id=20985841",
   "recordingID": 283,

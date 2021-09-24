@@ -10,11 +10,11 @@
   "abstract": "<p>Many Joomla users think code is just for programmers. Learn some easy and practical PHP and CSS tweaks that you can copy and paste to make your site even better</p>",
   "description": "<p>Many Joomla users think code is just for programmers. Learn some easy and practical PHP and CSS tweaks that you can copy and paste to make your site even better</p>",
   "images": [
-    "https://i.vimeocdn.com/video/818416938_295x166.jpg"
+    "https://i.vimeocdn.com/video/818416938-d6d853cf5343b06942bcdb9e0dc3a90651b5978283bc01da9cd471f07dcfd351-d_295x166"
   ],
   "vimeo": "363309440",
   "moreinfo": "https://www.joomladaytexas.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/818416938_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/818416938-d6d853cf5343b06942bcdb9e0dc3a90651b5978283bc01da9cd471f07dcfd351-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/363309440.hd.mp4?s=8ce5b96b81b694502de66e5700a4aa358dc939fc&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/363309440.sd.mp4?s=20108c36c1a2f14b474465c2488ccb3f3876b57b&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 290,

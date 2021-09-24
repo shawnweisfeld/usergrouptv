@@ -10,11 +10,11 @@
   "abstract": "<p>Cloud computing is great, but what do we put in the cloud? The web is advancing at an incredible pace and it&rsquo;s time to start building true Web Applications, not just web sites! Web Apps shake off the constraints of operating system specific frameworks, and free developers to work in open standards based environment. This session will cover a variety of topics ranging from ASP.NET MVC development, unit testing, REST APIs, JSON, JQuery, ExtJS, tips and tricks, lessons learned, and more. It will conclude with building a sample blog reader Web App, and then deploying that to Windows Azure.</p>",
   "description": "<p>Cloud computing is great, but what do we put in the cloud? The web is advancing at an incredible pace and it&rsquo;s time to start building true Web Applications, not just web sites! Web Apps shake off the constraints of operating system specific frameworks, and free developers to work in open standards based environment. This session will cover a variety of topics ranging from ASP.NET MVC development, unit testing, REST APIs, JSON, JQuery, ExtJS, tips and tricks, lessons learned, and more. It will conclude with building a sample blog reader Web App, and then deploying that to Windows Azure.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/507048285_295x166.jpg"
+    "https://i.vimeocdn.com/video/507048285-d965f2a489317a0edbefbf011d6bc9a10adbbef54056003d2974255da7a7d699-d_295x166"
   ],
   "vimeo": "119598272",
   "moreinfo": "http://dallasasp.net",
-  "thumbnail": "https://i.vimeocdn.com/video/507048285_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/507048285-d965f2a489317a0edbefbf011d6bc9a10adbbef54056003d2974255da7a7d699-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/119598272.hd.mp4?s=cfe6dbc655e0cf1a54f7a6b600d9fb63e2c658c0&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/119598272.sd.mp4?s=07150a35c38b49e827c4f406e8048ec6f24665b4&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 662,

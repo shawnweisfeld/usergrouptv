@@ -10,11 +10,11 @@
   "abstract": "<p>How can you take advantage of Artificial Intelligence without being a data scientist? Cognitive Services allow you use Artificial Intelligence to enrich your data through simple API calls. In this session, we will demonstrate the Cognitive Services and brainstorm how we can apply these to our applications.\r\n</p>",
   "description": "<p>How can you take advantage of Artificial Intelligence without being a data scientist? Cognitive Services allow you use Artificial Intelligence to enrich your data through simple API calls. In this session, we will demonstrate the Cognitive Services and brainstorm how we can apply these to our applications.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/719339426_295x166.jpg"
+    "https://i.vimeocdn.com/video/719339426-cd9ea3eedd4f39a7a79792539027615d29b48e7000815025793405539699c60e-d_295x166"
   ],
   "vimeo": "284806399",
   "moreinfo": "http://www.sqlsaturday.com/749/Sessions/Details.aspx?sid=83187",
-  "thumbnail": "https://i.vimeocdn.com/video/719339426_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/719339426-cd9ea3eedd4f39a7a79792539027615d29b48e7000815025793405539699c60e-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/284806399.hd.mp4?s=fee8a7d692e1b10e44fbafd7444cd59159abd70d&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/284806399.sd.mp4?s=9a70d915b67809494e2a154ad078b4e1762d492e&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 422,

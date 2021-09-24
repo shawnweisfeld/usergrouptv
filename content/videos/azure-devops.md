@@ -10,11 +10,11 @@
   "abstract": "<p>In this ad hoc session, Shawn shares a quick demo of Azure DevOps and answers audience questions about the service. </p>",
   "description": "<p>In this ad hoc session, Shawn shares a quick demo of Azure DevOps and answers audience questions about the service. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/778966527_295x166.jpg"
+    "https://i.vimeocdn.com/video/778966527-e53c972444b67f9e52b0172792677c23bda19ad880a0af0ce50603ab5e27a09e-d_295x166"
   ],
   "vimeo": "333087749",
   "moreinfo": "https://www.meetup.com/azureaustin/events/258070696/",
-  "thumbnail": "https://i.vimeocdn.com/video/778966527_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/778966527-e53c972444b67f9e52b0172792677c23bda19ad880a0af0ce50603ab5e27a09e-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/333087749.hd.mp4?s=6c04c2879cb1c2805811a58f922e49f0b9e182f6&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/333087749.sd.mp4?s=218b0a5b524b4df8d0e1ba09b9c68ac93bda678c&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 303,
@@ -37,7 +37,7 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 51
+      "count": 52
     },
     {
       "name": "Austin Global Azure Bootcamp",

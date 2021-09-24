@@ -10,11 +10,11 @@
   "abstract": "<p>Walk with Jeff Brantley through the trials and tribulations of a real-life melodrama and the continually unfolding (and bound to be the next binge-watching pseudo-reality show on Netflix) saga of life in the trenches of a recently acquired dysfunctional organization into a larger, stodgier corporation. Jeff is the CPO for the telematics offerings and assigned to the biggest account they have had to date (that happens to be one of the top 10 insurance providers in the country) and the multiple products they are building together. If you've seen the awesome \"Product Owner in a Nutshell\" video where Henrik talks about multiple teams and prioritizing, that's him at minute 15:30.  Jeff will discuss, and demonstrate with tools and props, how they transitioned the worst situation imaginable into the best they could hope for, using the Atlassian product suite and lots of common sense that just ain't so common, unfortunately.  \r\n</p>",
   "description": "<p>Walk with Jeff Brantley through the trials and tribulations of a real-life melodrama and the continually unfolding (and bound to be the next binge-watching pseudo-reality show on Netflix) saga of life in the trenches of a recently acquired dysfunctional organization into a larger, stodgier corporation. Jeff is the CPO for the telematics offerings and assigned to the biggest account they have had to date (that happens to be one of the top 10 insurance providers in the country) and the multiple products they are building together. If you've seen the awesome \"Product Owner in a Nutshell\" video where Henrik talks about multiple teams and prioritizing, that's him at minute 15:30.  Jeff will discuss, and demonstrate with tools and props, how they transitioned the worst situation imaginable into the best they could hope for, using the Atlassian product suite and lots of common sense that just ain't so common, unfortunately.  \r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/703315551_295x166.jpg"
+    "https://i.vimeocdn.com/video/703315551-1883408a5589d5a9bf163af980172d7554e528717143f4a5087cf33357dc5700-d_295x166"
   ],
   "vimeo": "271899077",
   "moreinfo": "http://www.agileaustin.org",
-  "thumbnail": "https://i.vimeocdn.com/video/703315551_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/703315551-1883408a5589d5a9bf163af980172d7554e528717143f4a5087cf33357dc5700-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/271899077.hd.mp4?s=50abbd4c484b09760c0a362a38d135c4d5f2d5b7&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/271899077.sd.mp4?s=926d7c73f252f7246d1035b066745ed044cd7e09&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 445,

@@ -12,7 +12,7 @@
     {
       "title": "Real World Lessons In Progressive Web Application Caching",
       "slug": "real-world-lessons-in-progressive-web-application-caching",
-      "thumbnail": "https://i.vimeocdn.com/video/732110035_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/732110035-d7d8dba67f6ca5a12f5c6b0344b78d07ee063010ea08c9473e8df685e06fe1aa-d_295x166",
       "date": "2018-10-13T14:12:24",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "How HTML5 and the Cloud Will Make You a Mobile Champion",
       "slug": "how-html5-and-the-cloud-will-make-you-a-mobile-champion",
-      "thumbnail": "https://i.vimeocdn.com/video/494179115_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/494179115-fca1fcedb82ff42b89b630671119f15b6d0ebff3f312970641329eeba129e6f5-d_295x166",
       "date": "2011-12-07T00:05:51",
       "meetups": [
         {

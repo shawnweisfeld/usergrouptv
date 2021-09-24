@@ -12,7 +12,7 @@
     {
       "title": "Cloud Federated Security In Action",
       "slug": "cloud-federated-security-in-action",
-      "thumbnail": "https://i.vimeocdn.com/video/487540064_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/487540064-5b8e0bf7f0fd6f599e38ca0faa5694aea037f4dc90092e4046ed9cc44ec7307b-d_295x166",
       "date": "2012-09-08T19:06:37",
       "meetups": [
         {

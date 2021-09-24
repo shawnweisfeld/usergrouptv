@@ -12,7 +12,7 @@
     {
       "title": "Don't Assume You're Creating Value - Prove It!",
       "slug": "dont-assume-youre-creating-value-prove-it",
-      "thumbnail": "https://i.vimeocdn.com/video/703334154_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/703334154-60fca15c56bfed78dcd870ee682f3b063570008b35e645e91c6a29b7eed118b6-d_295x166",
       "date": "2018-05-24T16:50:04",
       "meetups": [
         {

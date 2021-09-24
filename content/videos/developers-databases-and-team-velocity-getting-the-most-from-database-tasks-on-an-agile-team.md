@@ -11,11 +11,11 @@
   "abstract": "<p>This session is a discussion on how to integrate database centric tasks into the development team and account for them in the sprint. We will talk about solutions to the areas of friction on most teams when it comes to database tasks. This covers how to define done for ORM usage, how to satisfy quality gates and DBA restrictions, and how to include partially dedicated DBA resources without sacrificing the power and flexibility of Agile. This will be shown using processes as well as Database projects, Entity Framework, and some architectural structures.</p>",
   "description": "<p>This session is a discussion on how to integrate database centric tasks into the development team and account for them in the sprint. We will talk about solutions to the areas of friction on most teams when it comes to database tasks. This covers how to define done for ORM usage, how to satisfy quality gates and DBA restrictions, and how to include partially dedicated DBA resources without sacrificing the power and flexibility of Agile. This will be shown using processes as well as Database projects, Entity Framework, and some architectural structures.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/496721830_295x166.jpg"
+    "https://i.vimeocdn.com/video/496721830-2c2a61d1b479df57682018e72fdc2253f15241ee0285977bd3b5d6e53b33523d-d_295x166"
   ],
   "vimeo": "111927539",
   "moreinfo": "http://www.agiledotnet.com",
-  "thumbnail": "https://i.vimeocdn.com/video/496721830_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/496721830-2c2a61d1b479df57682018e72fdc2253f15241ee0285977bd3b5d6e53b33523d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/111927539.hd.mp4?s=00eefbf5bdde0ff6d2e6e65b87c9ae6d59a1ee86&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/111927539.sd.mp4?s=ec74f9f5813f8ffabe5be21f93fd4cfc1b27a8ec&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 557,

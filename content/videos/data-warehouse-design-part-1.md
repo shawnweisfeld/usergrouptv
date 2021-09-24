@@ -10,11 +10,11 @@
   "abstract": "<p>This is part 1 of a two part view at data warehousing. This session will look at the 2 design methodologies for data warehouse design. We will look at a transactional database and work out a star schema for it. In the second session we will work on the SSIS package to load the data.</p>",
   "description": "<p>This is part 1 of a two part view at data warehousing. This session will look at the 2 design methodologies for data warehouse design. We will look at a transactional database and work out a star schema for it. In the second session we will work on the SSIS package to load the data.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/534900243_295x166.jpg"
+    "https://i.vimeocdn.com/video/534900243-0b2c04207e8570eefefdcee3350bbeba153c1580950884f9d08851c131233325-d_295x166"
   ],
   "vimeo": "139192518",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda",
-  "thumbnail": "https://i.vimeocdn.com/video/534900243_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/534900243-0b2c04207e8570eefefdcee3350bbeba153c1580950884f9d08851c131233325-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/139192518.hd.mp4?s=6a6d69324ca165c6227d55555897b21cc0fe61e8&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/139192518.sd.mp4?s=fa41db9b6773b350a0e0a4a9f30c37dcbc2de273&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 820,

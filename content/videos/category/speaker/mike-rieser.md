@@ -12,7 +12,7 @@
     {
       "title": "Technical Excellence Doesn't Just Happen – Igniting a Craftsmanship Culture",
       "slug": "technical-excellence-doesnt-just-happen-igniting-a-craftsmanship-culture",
-      "thumbnail": "https://i.vimeocdn.com/video/593960183_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/593960183-0d1262a58b5add9a913cd03da816e9edf08e104dc48e2298d0bf57d6c32b242b-d_295x166",
       "date": "2016-09-24T19:46:37",
       "meetups": [
         {

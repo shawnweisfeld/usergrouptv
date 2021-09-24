@@ -12,7 +12,7 @@
     {
       "title": "How can so many have been so wrong about so much for so long?",
       "slug": "how-can-so-many-have-been-so-wrong-about-so-much-for-so-long",
-      "thumbnail": "https://i.vimeocdn.com/video/485962451_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/485962451-94e0a1d0633deac186c3e7900ee84bf4d596c3d7421fe404bdfea5aecd110910-d_295x166",
       "date": "2013-01-08T20:31:01",
       "meetups": [
         {

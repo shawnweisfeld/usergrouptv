@@ -11,7 +11,7 @@
     {
       "title": "Setting up a test lab with Hyper-V",
       "slug": "setting-up-a-test-lab-with-hyper-v",
-      "thumbnail": "https://i.vimeocdn.com/video/842319677_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/842319677-17c7d798238caec91735d1ebc9a787a5ba47dfaa50185c4080f5b2967b0b1be4-d_295x166",
       "date": "2019-12-07T19:21:50",
       "meetups": [
         {

@@ -10,11 +10,11 @@
   "abstract": "<p>REST is defined as an architectural style for building services that embrace the principles of the web. But what's it good for? Tony will provide concrete examples of where it makes sense to implement REST-ful web services. He'll also get down and dirty using the WCF Web Programming Model and show how WCF makes it easy to serve up POX or JSON, increasing the reach of your services to clients that don't understand or care about SOAP. We'll also look at API's for syndicating content using RSS and ATOM.</p>",
   "description": "<p>REST is defined as an architectural style for building services that embrace the principles of the web. But what's it good for? Tony will provide concrete examples of where it makes sense to implement REST-ful web services. He'll also get down and dirty using the WCF Web Programming Model and show how WCF makes it easy to serve up POX or JSON, increasing the reach of your services to clients that don't understand or care about SOAP. We'll also look at API's for syndicating content using RSS and ATOM.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/495137602_295x166.jpg"
+    "https://i.vimeocdn.com/video/495137602-a55951b564b3d715d072298f91ffa59ebd8f357612145674e36f5366ea6667cc-d_295x166"
   ],
   "vimeo": "110770227",
   "moreinfo": null,
-  "thumbnail": "https://i.vimeocdn.com/video/495137602_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/495137602-a55951b564b3d715d072298f91ffa59ebd8f357612145674e36f5366ea6667cc-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/110770227.hd.mp4?s=1b86028d97aea30156a3ee73cf24959d61b17a55&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/110770227.sd.mp4?s=545da050e57c58c0bcd4aaefb35c5fdbf5ee4bac&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 748,

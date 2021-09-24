@@ -10,11 +10,11 @@
   "abstract": "<p>Calculation groups are the most important feature introduced in DAX after variables in 2015. By using calculation groups, you can apply transformations to existing measures without having to create new measures in the model. For example, you can define the year-over-year calculation once and apply it to all the measures you want. Yet, calculation groups can do more than that. This session introduces the syntax of calculation groups, when they should be used and several examples of use cases. You will also learn how calculation groups work internally and what are the limits of this amazing tool.</p>",
   "description": "<p>Calculation groups are the most important feature introduced in DAX after variables in 2015. By using calculation groups, you can apply transformations to existing measures without having to create new measures in the model. For example, you can define the year-over-year calculation once and apply it to all the measures you want. Yet, calculation groups can do more than that. This session introduces the syntax of calculation groups, when they should be used and several examples of use cases. You will also learn how calculation groups work internally and what are the limits of this amazing tool.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/854620219_295x166.jpg"
+    "https://i.vimeocdn.com/video/854620219-6c36281626d0c81dff1aeeedd544c816a56c5d4350a6b96c3cde569468732c07-d_295x166"
   ],
   "vimeo": "390482431",
   "moreinfo": "https://www.sqlsaturday.com/939/Sessions/Details.aspx?sid=101997",
-  "thumbnail": "https://i.vimeocdn.com/video/854620219_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/854620219-6c36281626d0c81dff1aeeedd544c816a56c5d4350a6b96c3cde569468732c07-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/390482431.hd.mp4?s=a55f3a233744efcea3e3543b02cab45badbdaf96&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/390482431.sd.mp4?s=072712716300be1f4996a82f0360e133a2d24583&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 333,

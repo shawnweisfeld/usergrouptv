@@ -10,11 +10,11 @@
   "abstract": "<p>There are multiple options for hosting relational databases in Azure. A common challenge we come across frequently is helping ISVs to understand all of the options and sorting out which is right for their scenario. This first video address that challenge by helping you to navigate the decision tree between PaaS (Platform as a service) and IaaS (Infrastructure as a service). Specifically, When deciding what type of database to use in Azure.</p>",
   "description": "<p>There are multiple options for hosting relational databases in Azure. A common challenge we come across frequently is helping ISVs to understand all of the options and sorting out which is right for their scenario. This first video address that challenge by helping you to navigate the decision tree between PaaS (Platform as a service) and IaaS (Infrastructure as a service). Specifically, When deciding what type of database to use in Azure.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/587194203_295x166.jpg"
+    "https://i.vimeocdn.com/video/587194203-16f3066db8ba388a2a5c4abe02a8690734bb1f891fb751b164dcbbc09dab9b53-d_295x166"
   ],
   "vimeo": "179316832",
   "moreinfo": "http://www.sqlsaturday.com/550/Sessions/Details.aspx?sid=50809",
-  "thumbnail": "https://i.vimeocdn.com/video/587194203_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/587194203-16f3066db8ba388a2a5c4abe02a8690734bb1f891fb751b164dcbbc09dab9b53-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/179316832.hd.mp4?s=acbfc74302fe9541ddde28c0fe26d69be9a141f8&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/179316832.sd.mp4?s=ca1a0bbbf8878c2e4ccdb279859948f175b3903b&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 190,

@@ -10,11 +10,11 @@
   "abstract": "<p>SQL Server is now available on Linux but you only know Windows, now what? During this session we'll introduce the Linux version of Windows commands you use on a daily basis for administering SQL Server. We'll look at updating Linux, updating SQL Server, moving files between Windows and Linux, and backing up and restoring databases from one system to another. We'll also look at default file locations for SQL Server and what can be moved and how to accomplish that.\r\n</p>",
   "description": "<p>SQL Server is now available on Linux but you only know Windows, now what? During this session we'll introduce the Linux version of Windows commands you use on a daily basis for administering SQL Server. We'll look at updating Linux, updating SQL Server, moving files between Windows and Linux, and backing up and restoring databases from one system to another. We'll also look at default file locations for SQL Server and what can be moved and how to accomplish that.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/709499260_295x166.jpg"
+    "https://i.vimeocdn.com/video/709499260-7372af8328e48e790fd0fbc689758a73d2bed476df5c1c2c81c135773d8e9276-d_295x166"
   ],
   "vimeo": "276874232",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=81980",
-  "thumbnail": "https://i.vimeocdn.com/video/709499260_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/709499260-7372af8328e48e790fd0fbc689758a73d2bed476df5c1c2c81c135773d8e9276-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/276874232.hd.mp4?s=1ff704257cb2e07570eb0d221746dfee367235ee&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/276874232.sd.mp4?s=885f0db06bee0c80b8da7583ae41834415c74486&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 421,

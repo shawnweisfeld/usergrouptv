@@ -12,7 +12,7 @@
     {
       "title": "Blockchain and its relevance to You / Your Industry",
       "slug": "blockchain-and-its-relevance-to-you-your-industry",
-      "thumbnail": "https://i.vimeocdn.com/video/779161291_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/779161291-93298d2e290617cc4262a9382437c4f60e1ac68c40dfbf2a59f407a0c70b3410-d_295x166",
       "date": "2019-04-27T13:49:44",
       "meetups": [
         {

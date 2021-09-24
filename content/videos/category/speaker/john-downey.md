@@ -12,7 +12,7 @@
     {
       "title": "Cryptography Pitfalls ",
       "slug": "cryptography-pitfalls",
-      "thumbnail": "https://i.vimeocdn.com/video/540279753_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/540279753-ff3c6ae3c52bd35c57c499a1197a1acf89e39354b6e1b77bfd7542a943df931f-d_295x166",
       "date": "2015-10-16T01:57:08",
       "meetups": [
         {

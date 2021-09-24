@@ -12,11 +12,11 @@
   "abstract": "<p>MonoTouch and Mono for Android make it easy for .NET developers to dive right into developing apps for iPhone and iPad, and Android phones and tablets. With Mono, Developers can take their existing .NET skills, code, and libraries to new mobile platforms, while taking full advantage of the native APIs on iOS and Android. This talk will provide an introduction to iOS and Android development with Mono, including an overview of the tools and technology, and demonstrations of the development process end-to-end.</p>",
   "description": "<p>MonoTouch and Mono for Android make it easy for .NET developers to dive right into developing apps for iPhone and iPad, and Android phones and tablets. With Mono, Developers can take their existing .NET skills, code, and libraries to new mobile platforms, while taking full advantage of the native APIs on iOS and Android. This talk will provide an introduction to iOS and Android development with Mono, including an overview of the tools and technology, and demonstrations of the development process end-to-end.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/492567992_295x166.jpg"
+    "https://i.vimeocdn.com/video/492567992-b5c24b0b6746174983d7f0889088eb479e91c4313c0d923a2470fc1aad3098e7-d_295x166"
   ],
   "vimeo": "108782141",
   "moreinfo": "http://www.fwdnug.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/492567992_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/492567992-b5c24b0b6746174983d7f0889088eb479e91c4313c0d923a2470fc1aad3098e7-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/108782141.hd.mp4?s=09ff81c715c4921a1cfd7a6ca08aaedfe543f6b9&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/108782141.sd.mp4?s=34cdfefd9e72834a5dcf45758bda89d37418db41&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 723,

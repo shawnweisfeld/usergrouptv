@@ -12,7 +12,7 @@
     {
       "title": "Become the MVP: Soft Skills for a Hard Market",
       "slug": "become-the-mvp-soft-skills-for-a-hard-market",
-      "thumbnail": "https://i.vimeocdn.com/video/796753194_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/796753194-996bd538202633d73542e3a68492a3266bf45e4ae81157531cddbf3a81638fe9-d_295x166",
       "date": "2019-06-18T15:39:15",
       "meetups": [
         {

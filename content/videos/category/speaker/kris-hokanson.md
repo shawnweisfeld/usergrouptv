@@ -12,7 +12,7 @@
     {
       "title": "That's bad mkay! (How to quantify when things aren't right)",
       "slug": "thats-bad-mkay-how-to-quantify-when-things-arent-right",
-      "thumbnail": "https://i.vimeocdn.com/video/709497292_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/709497292-2b275b8cacab2ac7c1d438485f3a51c31c87b6c8d6fc26f57c3366eb9985a7e1-d_295x166",
       "date": "2018-06-23T19:52:24",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "That's bad mkay!",
       "slug": "thats-bad-mkay",
-      "thumbnail": "https://i.vimeocdn.com/video/702656043_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/702656043-47b03a59073bacf8dfc7d42a06a0c64f66b6d6330305ec9e22a0c341947c6fd9-d_295x166",
       "date": "2018-05-19T22:43:11",
       "meetups": [
         {
@@ -48,7 +48,7 @@
     {
       "title": "Random Acts of Senseless Databasing",
       "slug": "random-acts-of-senseless-databasing",
-      "thumbnail": "https://i.vimeocdn.com/video/640583204_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/640583204-2951774bccac1bb0bed51be37271492eaeec6a6f2fc65a555c544182a1b68b40-d_295x166",
       "date": "2017-06-17T14:17:44",
       "meetups": [
         {

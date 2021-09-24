@@ -10,11 +10,11 @@
   "abstract": "<p>You've spun up your first Azure Kubernetes Cluster and maybe deployed a test application. But what's actually going on behind the scenes? What does the cluster use for compute, networking, and storage? What resources does AKS leverage and how does it interact with the rest of your Azure environment? In this session, we're going to examine the fundamentals of AKS and explore the resources that make up a functioning AKS cluster.</p>",
   "description": "<p>You've spun up your first Azure Kubernetes Cluster and maybe deployed a test application. But what's actually going on behind the scenes? What does the cluster use for compute, networking, and storage? What resources does AKS leverage and how does it interact with the rest of your Azure environment? In this session, we're going to examine the fundamentals of AKS and explore the resources that make up a functioning AKS cluster.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/807051589_295x166.jpg"
+    "https://i.vimeocdn.com/video/807051589-e4e1495ff8f9882769293752b9fa535282e595f48c21a935c3a7374da0ca2691-d_295x166"
   ],
   "vimeo": "354514975",
   "moreinfo": "https://www.meetup.com/azureaustin/events/263639933/",
-  "thumbnail": "https://i.vimeocdn.com/video/807051589_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/807051589-e4e1495ff8f9882769293752b9fa535282e595f48c21a935c3a7374da0ca2691-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/354514975.hd.mp4?s=e77fc166ac1e788e92bfb27c217b643c8b2ee7d1&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/354514975.sd.mp4?s=e2780520560637cb9870119a70b976ea490decf9&profile_id=139&oauth2_token_id=20985841",
   "recordingID": 282,
@@ -37,7 +37,7 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 51
+      "count": 52
     }
   ]
 }

@@ -12,7 +12,7 @@
     {
       "title": "Are We There Yet? How to Know You Have Achieved Agility",
       "slug": "are-we-there-yet-how-to-know-you-have-achieved-agility",
-      "thumbnail": "https://i.vimeocdn.com/video/820029598_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/820029598-17f6841d2e862fa2d111ed04cb9b7f453e0683594f1908de11ac411afb415164-d_295x166",
       "date": "2019-10-04T16:31:49",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Next Level Agile",
       "slug": "next-level-agile",
-      "thumbnail": "https://i.vimeocdn.com/video/703355047_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/703355047-e1aff8f534b43238444dc722cf926e19eba2455eb9ed8c64455346a9eac81628-d_295x166",
       "date": "2018-05-24T16:53:00",
       "meetups": [
         {

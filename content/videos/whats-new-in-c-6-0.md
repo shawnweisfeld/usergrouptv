@@ -10,11 +10,11 @@
   "abstract": "<p>With C# 6 comes the release of the Roslyn C# compiler, the new open-source compiler written from the ground up in C# by Microsoft. The new compiler allowed the team to work in a much more agile manner, and with that, build out a number of features into C# that would have otherwise never happened. In this talk, we’ll walk through these new features, how they’ll help you, and when to use or not use them in new and existing projects.</p>",
   "description": "<p>With C# 6 comes the release of the Roslyn C# compiler, the new open-source compiler written from the ground up in C# by Microsoft. The new compiler allowed the team to work in a much more agile manner, and with that, build out a number of features into C# that would have otherwise never happened. In this talk, we’ll walk through these new features, how they’ll help you, and when to use or not use them in new and existing projects.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/539466247_295x166.jpg"
+    "https://i.vimeocdn.com/video/539466247-cf4e390a3577ba1baf22631cefcdb91aef2730894afec849cfad95260e807f77-d_295x166"
   ],
   "vimeo": "142235289",
   "moreinfo": "http://adnug.org/Home/october-12-2015-whats-new-in-c-6-0/",
-  "thumbnail": "https://i.vimeocdn.com/video/539466247_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/539466247-cf4e390a3577ba1baf22631cefcdb91aef2730894afec849cfad95260e807f77-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/142235289.hd.mp4?s=ad418c555cde55e13e17b9373ad780e67494f9e8&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/142235289.sd.mp4?s=80527d10358725db825db50e472a86a1d0372852&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 889,

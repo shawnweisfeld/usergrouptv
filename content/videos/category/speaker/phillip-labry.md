@@ -12,7 +12,7 @@
     {
       "title": "Analysis Services is in Azure? Seriously!? Let's build a model!",
       "slug": "analysis-services-is-in-azure-seriously-lets-build-a-model",
-      "thumbnail": "https://i.vimeocdn.com/video/641693852_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/641693852-502da82e84f0b01c894b93cc5c70f330cda784d9b409fcde3313128338f5495e-d_295x166",
       "date": "2017-06-17T14:06:27",
       "meetups": [
         {

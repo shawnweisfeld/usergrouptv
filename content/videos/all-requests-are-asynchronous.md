@@ -10,11 +10,11 @@
   "abstract": "<p>When should you use a service bus vs. a web service call? When should you use REST vs. SOAP? Should you use CQRS? Should you build Microservices? Take a look under the hood of your network stack. What promises does it make? What promises can it actually keep? We have many architectural choices to make within a distributed system. Those decisions depend upon the nature of the messaging infrastructure upon which we build. Different options are good for different parts of the system. But some of the advice that you may have heard is wrong. Learn what's really happening inside of the components you choose. And use that knowledge to build more reliable distributed systems.</p>",
   "description": "<p>When should you use a service bus vs. a web service call? When should you use REST vs. SOAP? Should you use CQRS? Should you build Microservices? Take a look under the hood of your network stack. What promises does it make? What promises can it actually keep? We have many architectural choices to make within a distributed system. Those decisions depend upon the nature of the messaging infrastructure upon which we build. Different options are good for different parts of the system. But some of the advice that you may have heard is wrong. Learn what's really happening inside of the components you choose. And use that knowledge to build more reliable distributed systems.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/587191344_295x166.jpg"
+    "https://i.vimeocdn.com/video/587191344-856e5b57d91b8a520976d0e9219627b52ea19d31f9fff17d5ad64087b1754033-d_295x166"
   ],
   "vimeo": "179314659",
   "moreinfo": "http://techfests.com/Tulsa/2016/Speakers/MichaelPerry/",
-  "thumbnail": "https://i.vimeocdn.com/video/587191344_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/587191344-856e5b57d91b8a520976d0e9219627b52ea19d31f9fff17d5ad64087b1754033-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/179314659.hd.mp4?s=b4a4520c3f044c0dd1cd61719676d009fd3d7a89&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/179314659.sd.mp4?s=8f5d1c891c86a6374233da6d40dcba04d11e6165&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 182,

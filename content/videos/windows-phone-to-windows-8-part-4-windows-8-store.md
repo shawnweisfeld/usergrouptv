@@ -10,11 +10,11 @@
   "abstract": "<p>Cut in Line and be a Part of What's Next</p>\r\n<p>Learn how to migrate your Windows Phone 7 app to the next platform - Windows 8. Be one of the first developers in the Windows Store when it opens. If you have already started on your Windows 8 app, check this out as well.</p>",
   "description": "<p>Cut in Line and be a Part of What's Next</p>\r\n<p>Learn how to migrate your Windows Phone 7 app to the next platform - Windows 8. Be one of the first developers in the Windows Store when it opens. If you have already started on your Windows 8 app, check this out as well.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/491654377_295x166.jpg"
+    "https://i.vimeocdn.com/video/491654377-38b1017b3152b74a77dfcd652cb8da12abf28ab31e1c6613600d6f68fa34fd50-d_295x166"
   ],
   "vimeo": "108062579",
   "moreinfo": null,
-  "thumbnail": "https://i.vimeocdn.com/video/491654377_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/491654377-38b1017b3152b74a77dfcd652cb8da12abf28ab31e1c6613600d6f68fa34fd50-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/108062579.hd.mp4?s=c103b4b43b2ef74d3a8fa84152b2e58d5df22eab&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/108062579.sd.mp4?s=3809e79f1e1883f8cb1306a4c687419ee16d6d06&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 578,

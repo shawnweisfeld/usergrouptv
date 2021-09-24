@@ -10,11 +10,11 @@
   "abstract": "<p>Have you ever wanted to know what superior messaging looks like in the cloud, or what you could get for your buck beyond the sales pitch? This session will show what Azure ServiceBus messaging has to offer and why it could become the next cloud service you'll want to use. </p>",
   "description": "<p>Have you ever wanted to know what superior messaging looks like in the cloud, or what you could get for your buck beyond the sales pitch? This session will show what Azure ServiceBus messaging has to offer and why it could become the next cloud service you'll want to use. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/590927556_295x166.jpg"
+    "https://i.vimeocdn.com/video/590927556-8bcb7f2938f415a0f11df935433bdcb1d7070919b0209238ce4ea806be4affac-d_295x166"
   ],
   "vimeo": "182111302",
   "moreinfo": "https://www.meetup.com/azureaustin/events/233648838/",
-  "thumbnail": "https://i.vimeocdn.com/video/590927556_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/590927556-8bcb7f2938f415a0f11df935433bdcb1d7070919b0209238ce4ea806be4affac-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/182111302.hd.mp4?s=215cd39553c28d3938cf34d9d580dd51f3006299&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/182111302.sd.mp4?s=6e895d9a6c38c1715f057f18ae146da99e5a7f19&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 196,
@@ -37,7 +37,7 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 51
+      "count": 52
     }
   ]
 }

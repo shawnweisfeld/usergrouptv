@@ -12,7 +12,7 @@
     {
       "title": "Building modular enterprise scale AngularJS applications ",
       "slug": "building-modular-enterprise-scale-angularjs-applications",
-      "thumbnail": "https://i.vimeocdn.com/video/540280447_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/540280447-68fd233e7ad4ab7077d41ec9993ec04963bec962eb6ea2b71e3393493dbcf629-d_295x166",
       "date": "2015-10-16T02:01:02",
       "meetups": [
         {

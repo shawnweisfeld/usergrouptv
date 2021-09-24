@@ -12,7 +12,7 @@
     {
       "title": "How to get the best TCO while running SQL Server on Azure VM",
       "slug": "how-to-get-the-best-tco-while-running-sql-server-on-azure-vm",
-      "thumbnail": "https://i.vimeocdn.com/video/980844918_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/980844918-beb054c71fc1d2c2e628d251ae8a0959a6192aecff06475077513364c59786d1-d_295x166",
       "date": "2020-10-20T00:00:00",
       "meetups": [
         {

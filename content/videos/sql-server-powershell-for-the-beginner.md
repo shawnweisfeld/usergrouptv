@@ -10,11 +10,11 @@
   "abstract": "<p>Come on, PowerShell is all the rage and you have not even started looking into it. How productive can you actually be with PowerShell? This session will give you the jumpstart that you need to begin. This session will be focused on the DBA getting ramped up in the PowerShell world of SQL Server. PowerShell is everywhere and should not be ignored. Stop ignoring and join me for the beginning of your journey to really getting into how good you can get, using PowerShell and SQL Server together.\r\n</p>",
   "description": "<p>Come on, PowerShell is all the rage and you have not even started looking into it. How productive can you actually be with PowerShell? This session will give you the jumpstart that you need to begin. This session will be focused on the DBA getting ramped up in the PowerShell world of SQL Server. PowerShell is everywhere and should not be ignored. Stop ignoring and join me for the beginning of your journey to really getting into how good you can get, using PowerShell and SQL Server together.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/722418765_295x166.jpg"
+    "https://i.vimeocdn.com/video/722418765-6e78adc9cb8f055d7c8513ec88434664b5b8d91327db1cf3f724d674d006a92f-d_295x166"
   ],
   "vimeo": "287307376",
   "moreinfo": "http://www.sqlsaturday.com/794/Sessions/Details.aspx?sid=83759",
-  "thumbnail": "https://i.vimeocdn.com/video/722418765_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/722418765-6e78adc9cb8f055d7c8513ec88434664b5b8d91327db1cf3f724d674d006a92f-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/287307376.hd.mp4?s=2a550cb612f3b430211b21804ed2bf900d15cabd&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/287307376.sd.mp4?s=314a773af4acc10e2ac25239e9dd3f3295023d80&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 498,

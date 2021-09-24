@@ -12,7 +12,7 @@
     {
       "title": "Confessions of a Chief Product Owner",
       "slug": "confessions-of-a-chief-product-owner",
-      "thumbnail": "https://i.vimeocdn.com/video/703315551_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/703315551-1883408a5589d5a9bf163af980172d7554e528717143f4a5087cf33357dc5700-d_295x166",
       "date": "2018-05-24T16:48:16",
       "meetups": [
         {

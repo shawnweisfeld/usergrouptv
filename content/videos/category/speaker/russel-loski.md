@@ -12,7 +12,7 @@
     {
       "title": "A metadata approach to fixed width files",
       "slug": "a-metadata-approach-to-fixed-width-files",
-      "thumbnail": "https://i.vimeocdn.com/video/854625067_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854625067-7181f2ed4161ccaba476a757568fb14a2616a0ec3e624536c3ea2b3eb396c1b1-d_295x166",
       "date": "2020-02-08T16:19:15",
       "meetups": [
         {
@@ -34,7 +34,7 @@
     {
       "title": "Querying Semistructured Data in Azure Data Lake with USQL",
       "slug": "querying-semistructured-data-in-azure-data-lake-with-usql-4",
-      "thumbnail": "https://i.vimeocdn.com/video/798800906_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/798800906-75aa3fc37b8a91273f3751c5dfb406dbe6c039b12b13dbcc90502df3fa56620c-d_295x166",
       "date": "2019-07-13T14:04:25",
       "meetups": [
         {
@@ -56,7 +56,7 @@
     {
       "title": "Querying Semistructured Data in Azure Data Lake with USQL",
       "slug": "querying-semistructured-data-in-azure-data-lake-with-usql-3",
-      "thumbnail": "https://i.vimeocdn.com/video/722234307_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/722234307-e504da2caf295a93ababd1d269971511d127e51bb677ee09df898c799ad4ee50-d_295x166",
       "date": "2018-08-25T19:27:28",
       "meetups": [
         {
@@ -74,7 +74,7 @@
     {
       "title": "Querying Semistructured Data in Azure Data Lake with USQL",
       "slug": "querying-semistructured-data-in-azure-data-lake-with-usql-2",
-      "thumbnail": "https://i.vimeocdn.com/video/709497842_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/709497842-60d6baa53a2fd1707599944e7b6afa89263a82a9adc8dfa008021ab3a165da5b-d_295x166",
       "date": "2018-06-23T19:53:35",
       "meetups": [
         {
@@ -92,7 +92,7 @@
     {
       "title": "Querying Semistructured Data in Azure Data Lake with USQL",
       "slug": "querying-semistructured-data-in-azure-data-lake-with-usql",
-      "thumbnail": "https://i.vimeocdn.com/video/622681958_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/622681958-00adf7247293417c655af913737666be052539ff7eb0879b02f299b6fbebcb75-d_295x166",
       "date": "2017-03-04T22:11:09",
       "meetups": [
         {
@@ -110,7 +110,7 @@
     {
       "title": "SSIS project deployments with multiple developers",
       "slug": "ssis-project-deployments-with-multiple-developers",
-      "thumbnail": "https://i.vimeocdn.com/video/482636574_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/482636574-e96171c1127b488f0029512287c20b732e7f7c090b683fc016f1e36e2a6f91c2-d_295x166",
       "date": "2014-05-03T20:02:50",
       "meetups": [
         {
@@ -128,7 +128,7 @@
     {
       "title": "Introduction to BIML and BIMLScript",
       "slug": "introduction-to-biml-and-bimlscript",
-      "thumbnail": "https://i.vimeocdn.com/video/483488824_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/483488824-570d600a8e2d19f2e6858f8ad50e10364e3cc4cc10fd4e967b62ac5828aeec26-d_295x166",
       "date": "2013-08-24T21:36:40",
       "meetups": [
         {
@@ -150,7 +150,7 @@
     {
       "title": "Introduction to the XML Source",
       "slug": "introduction-to-the-xml-source",
-      "thumbnail": "https://i.vimeocdn.com/video/483491352_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/483491352-17d67e84c8ecd7e0af425d7d753313623ee85af33d9be55682deaad9165966ce-d_295x166",
       "date": "2013-08-24T11:39:21",
       "meetups": [
         {
@@ -172,7 +172,7 @@
     {
       "title": "Stored procedure tracing using the xml datatype",
       "slug": "stored-procedure-tracing-using-the-xml-datatype",
-      "thumbnail": "https://i.vimeocdn.com/video/500556524_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/500556524-e7facb7601225aa0ca998d33b1f717da6aaed3803030cc9b3ef2f1634874fac1-d_295x166",
       "date": "2011-04-02T21:57:55",
       "meetups": [
         {

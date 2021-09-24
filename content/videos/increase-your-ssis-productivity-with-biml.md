@@ -10,11 +10,11 @@
   "abstract": "<p>Business Intelligence Markup Language (Biml) is an XML language for Microsoft Business Intelligence that can take your Integration Services package development to the next level. Creating template packages added productivity to your Integration Services development effort. If the template design changes after development begins, a fair amount of rework to packages could be needed. See how Biml can help create template packages that can better adapt to changing business needs and allow for more comprehensive design or redesign. This session will be a demo based session that will inspire you to make Biml your number one integration services development tool. Learn how to use Biml scripts to create staging tables and integration services packages. Add metadata to your Biml scripts and really watch the possibilities expand. </p>",
   "description": "<p>Business Intelligence Markup Language (Biml) is an XML language for Microsoft Business Intelligence that can take your Integration Services package development to the next level. Creating template packages added productivity to your Integration Services development effort. If the template design changes after development begins, a fair amount of rework to packages could be needed. See how Biml can help create template packages that can better adapt to changing business needs and allow for more comprehensive design or redesign. This session will be a demo based session that will inspire you to make Biml your number one integration services development tool. Learn how to use Biml scripts to create staging tables and integration services packages. Add metadata to your Biml scripts and really watch the possibilities expand. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/505669489_295x166.jpg"
+    "https://i.vimeocdn.com/video/505669489-516f51a236647442316bdb1287a76ea6db3565a78115f1417798d1747c195877-d_295x166"
   ],
   "vimeo": "118596365",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=26061",
-  "thumbnail": "https://i.vimeocdn.com/video/505669489_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/505669489-516f51a236647442316bdb1287a76ea6db3565a78115f1417798d1747c195877-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/118596365.hd.mp4?s=161c1e3cd60c32dda2c3a1722698f9e6c7ac3143&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/118596365.sd.mp4?s=db86792569c02856727aef0cae772dfaf09de057&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 811,

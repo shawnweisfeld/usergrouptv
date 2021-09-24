@@ -13,11 +13,11 @@
   "abstract": "Running SQL Server on Azure virtual machine gives you the ability to leverage a managed Infrastructure as a Service offering to run your beloved data platform. This session will be focused on showcasing the benefits of running SQL Server on Azure VM, best practices and leveraging some of the existing Azure services to make operations easier. In this session, you will also learn how you can leverage additional benefits of FREE SQL Server licenses for High Availability and Disaster Recovery.",
   "description": "Running SQL Server on Azure virtual machine gives you the ability to leverage a managed Infrastructure as a Service offering to run your beloved data platform. This session will be focused on showcasing the benefits of running SQL Server on Azure VM, best practices and leveraging some of the existing Azure services to make operations easier. In this session, you will also learn how you can leverage additional benefits of FREE SQL Server licenses for High Availability and Disaster Recovery.",
   "images": [
-    "https://i.vimeocdn.com/video/980844918_295x166.jpg"
+    "https://i.vimeocdn.com/video/980844918-beb054c71fc1d2c2e628d251ae8a0959a6192aecff06475077513364c59786d1-d_295x166"
   ],
   "vimeo": "471447098",
   "moreinfo": "https://www.meetup.com/azureaustin/events/273258173/",
-  "thumbnail": "https://i.vimeocdn.com/video/980844918_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/980844918-beb054c71fc1d2c2e628d251ae8a0959a6192aecff06475077513364c59786d1-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/471447098.hd.mp4?s=e40723c6d2ce2b7631c0e6d5cafa371e28f24edf&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/471447098.sd.mp4?s=b8a44bda0f0c91425b66c63a282283057ce438db&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 1040,
@@ -38,7 +38,7 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 41
+      "count": 42
     },
     {
       "name": "MS SQL",
@@ -55,7 +55,7 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 51
+      "count": 52
     },
     {
       "name": "Capitol Area Central Texas Users of SQL Server",
@@ -65,7 +65,7 @@
     {
       "name": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "count": 15
+      "count": 16
     }
   ]
 }

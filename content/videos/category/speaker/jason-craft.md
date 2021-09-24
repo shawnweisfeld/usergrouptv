@@ -12,7 +12,7 @@
     {
       "title": "Empowering Developers at all Levels",
       "slug": "empowering-developers-at-all-levels",
-      "thumbnail": "https://i.vimeocdn.com/video/732232580_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/732232580-6d507769562db02e04b5f237d8f8878727800dbbcd202d555604240f73699993-d_295x166",
       "date": "2018-10-13T14:20:16",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Technical Debt: The Silent Killer",
       "slug": "technical-debt-the-silent-killer",
-      "thumbnail": "https://i.vimeocdn.com/video/660010364_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/660010364-8c7758918b5d6f000a0e5b4b88dd27f326f8cbf9784f2c8892956a1f27f7ac3d-d_295x166",
       "date": "2017-10-05T21:43:58",
       "meetups": [
         {

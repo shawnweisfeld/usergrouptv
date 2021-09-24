@@ -12,7 +12,7 @@
     {
       "title": "The Technical Founder",
       "slug": "the-technical-founder",
-      "thumbnail": "https://i.vimeocdn.com/video/593959626_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/593959626-735fdc6b5aeef15939cee24b3452c38736f4ff5abe3df2b9e7df09cbfe837140-d_295x166",
       "date": "2016-09-24T19:45:32",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Bits to Atoms - The World of 3D Printers",
       "slug": "bits-to-atoms-the-world-of-3d-printers",
-      "thumbnail": "https://i.vimeocdn.com/video/483486972_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/483486972-61311013ca1fa78d389531e349cd8b4dba725d205cd49c6ffcc926c0b7b969a5-d_295x166",
       "date": "2013-09-28T12:56:59",
       "meetups": [
         {
@@ -48,7 +48,7 @@
     {
       "title": "Robotics and .Net",
       "slug": "robotics-and-net",
-      "thumbnail": "https://i.vimeocdn.com/video/483486151_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/483486151-a1800c4423bcafc96e87926a56836599b283ae1a3bf05112c690b6e3dabf2426-d_295x166",
       "date": "2013-09-28T12:52:20",
       "meetups": [
         {
@@ -66,7 +66,7 @@
     {
       "title": "The Internet of Things",
       "slug": "the-internet-of-things",
-      "thumbnail": "https://i.vimeocdn.com/video/487540332_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/487540332-2c304ece1847d768ae06b9b8411383e48e4d06955e0c2798303b16f5b4e03f08-d_295x166",
       "date": "2012-09-08T14:46:15",
       "meetups": [
         {

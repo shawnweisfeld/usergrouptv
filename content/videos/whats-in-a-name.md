@@ -10,11 +10,11 @@
   "abstract": "<p>It has often been said that there are only two hard problems in computer science: cache invalidation, naming things, and off-by-one errors. This presentation addresses the problem in the middle … For every minute you spend writing code in your career, you will spend at least 10 minutes reading somebody else’s code. Names matter. Spending time on naming things well is time well spent. Any developer, no matter what their skill and experience level, can become a better developer by learning how to be more effective at naming. Naming is more of a craft than a science, and yet there are a solid set of principles you can use to name things better. Come find out why we, as a profession, are generally bad at naming, how naming in software development has evolved over the years, and learn specific techniques to become a better namer.</p>",
   "description": "<p>It has often been said that there are only two hard problems in computer science: cache invalidation, naming things, and off-by-one errors. This presentation addresses the problem in the middle … For every minute you spend writing code in your career, you will spend at least 10 minutes reading somebody else’s code. Names matter. Spending time on naming things well is time well spent. Any developer, no matter what their skill and experience level, can become a better developer by learning how to be more effective at naming. Naming is more of a craft than a science, and yet there are a solid set of principles you can use to name things better. Come find out why we, as a profession, are generally bad at naming, how naming in software development has evolved over the years, and learn specific techniques to become a better namer.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/699668162_295x166.jpg"
+    "https://i.vimeocdn.com/video/699668162-0fa082eef6e7ab5526f31f44df2fce4fe7f2aa92ed6a741e7e186dcc1e9931d0-d_295x166"
   ],
   "vimeo": "268842181",
   "moreinfo": "http://www.houstontechfest.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/699668162_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/699668162-0fa082eef6e7ab5526f31f44df2fce4fe7f2aa92ed6a741e7e186dcc1e9931d0-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/268842181.hd.mp4?s=4ed978a56625fb6a47a629490de2361bbe4d6227&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/268842181.sd.mp4?s=3a9955da531da617b08bb3595b0d205ba0aa6ee2&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 94,

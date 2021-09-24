@@ -10,11 +10,11 @@
   "abstract": "<p>What if the secret to building good distributed applications wasn't in the latest container management technology? What if you had to connect the dots between a 1950's era fighter pilot, the social history of late medieval Europe, double entry bookkeeping, and a vast empire with no written language? No, this isn't the world weirdest conspiracy theory. Rather, humans have been building complex systems since we became human. Distributed applications are just a specialized case of complex human technology. Come find out how to apply the hard-earned knowledge of those who have gone before us and stop reinventing the wheel.</p>",
   "description": "<p>What if the secret to building good distributed applications wasn't in the latest container management technology? What if you had to connect the dots between a 1950's era fighter pilot, the social history of late medieval Europe, double entry bookkeeping, and a vast empire with no written language? No, this isn't the world weirdest conspiracy theory. Rather, humans have been building complex systems since we became human. Distributed applications are just a specialized case of complex human technology. Come find out how to apply the hard-earned knowledge of those who have gone before us and stop reinventing the wheel.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/699662855_295x166.jpg"
+    "https://i.vimeocdn.com/video/699662855-2497e635c5d375e679cae0377b95ebc9ede4112275a346fd1cbe99329d1817a4-d_295x166"
   ],
   "vimeo": "268837895",
   "moreinfo": "http://www.houstontechfest.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/699662855_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/699662855-2497e635c5d375e679cae0377b95ebc9ede4112275a346fd1cbe99329d1817a4-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/268837895.hd.mp4?s=ebe01e3296782fa3fbca80b8d0670ec0e541d32d&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/268837895.sd.mp4?s=e139cc8fba7358e44ba51efb41a5520516eea36d&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 264,

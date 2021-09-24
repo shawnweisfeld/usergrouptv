@@ -12,7 +12,7 @@
     {
       "title": "Data modeling essentials and best practices in Power BI and AS tabular",
       "slug": "data-modeling-essentials-and-best-practices-in-power-bi-and-as-tabular",
-      "thumbnail": "https://i.vimeocdn.com/video/1039313181_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/1039313181-e18eda3a331d12a641d123c2dc6fad192012a044580b47911cb888b553258782-d_295x166",
       "date": "2021-01-13T00:00:00",
       "meetups": [
         {

@@ -11,11 +11,11 @@
   "abstract": "",
   "description": "",
   "images": [
-    "https://i.vimeocdn.com/video/661079790_295x166.jpg"
+    "https://i.vimeocdn.com/video/661079790-946ba0281c2ec337e97427bcb5141be85b591fc428ebd504c5911c269a6d3548-d_295x166"
   ],
   "vimeo": "238397178",
   "moreinfo": "http://www.houstontechfest.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/661079790_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/661079790-946ba0281c2ec337e97427bcb5141be85b591fc428ebd504c5911c269a6d3548-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/238397178.hd.mp4?s=f53de7e3326e378bf660519500fde451438a3ab7&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/238397178.sd.mp4?s=021516eae02e3e380223258682dad1080569b3a9&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 76,
@@ -31,7 +31,7 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 41
+      "count": 42
     },
     {
       "name": "Microservices",

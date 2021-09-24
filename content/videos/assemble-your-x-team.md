@@ -10,11 +10,11 @@
   "abstract": "<p>The Sprinklr Presales Engagement Team (more accurately known as the X Team) promotes global empowerment and scalability. The X Team is laser-focused on engagement, recognition, and inclusion. The X Team has directly impacted the 0% team attrition rate in 2016. The X Team is powered by badass women who have a passion for making others feel like badasses too. The X Team can be summoned by the use of an emoji (that’s right, think Batman). And I can teach you how to assemble your own X Team too.</p>",
   "description": "<p>The Sprinklr Presales Engagement Team (more accurately known as the X Team) promotes global empowerment and scalability. The X Team is laser-focused on engagement, recognition, and inclusion. The X Team has directly impacted the 0% team attrition rate in 2016. The X Team is powered by badass women who have a passion for making others feel like badasses too. The X Team can be summoned by the use of an emoji (that’s right, think Batman). And I can teach you how to assemble your own X Team too.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/650697708_295x166.jpg"
+    "https://i.vimeocdn.com/video/650697708-2e8c420da82ecad8a1d2dc2a5649f3676efa0c626d4d2f89c78848efd95258c0-d_295x166"
   ],
   "vimeo": "230192113",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
-  "thumbnail": "https://i.vimeocdn.com/video/650697708_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/650697708-2e8c420da82ecad8a1d2dc2a5649f3676efa0c626d4d2f89c78848efd95258c0-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/230192113.hd.mp4?s=ebf0c1bf01429017100c4644eeefd5f2032040f3&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/230192113.sd.mp4?s=55c72799574d2d64964f92728a5ad440ab287a95&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 61,

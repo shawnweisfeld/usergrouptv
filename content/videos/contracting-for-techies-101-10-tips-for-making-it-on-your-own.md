@@ -10,11 +10,11 @@
   "abstract": "<p>Many programmers daydream about leaving their day job to strike out on their own. Going independent can be exceptionally rewarding. It does take a bit of planning and research to do effectively. Alese Stroud, of The Stroud Group, will present 10 Tips for surviving as an independent technical consultant. She has led The Stroud Group for 18+ years, weathering the highs and lows of consulting along with rapid change in the tech market place.</p>",
   "description": "<p>Many programmers daydream about leaving their day job to strike out on their own. Going independent can be exceptionally rewarding. It does take a bit of planning and research to do effectively. Alese Stroud, of The Stroud Group, will present 10 Tips for surviving as an independent technical consultant. She has led The Stroud Group for 18+ years, weathering the highs and lows of consulting along with rapid change in the tech market place.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/540284075_295x166.jpg"
+    "https://i.vimeocdn.com/video/540284075-1be733394ee054a5e29e9799892be3b5e67a5569291bb1311e2873b6c45c1605-d_295x166"
   ],
   "vimeo": "142868194",
   "moreinfo": "http://lrtechfest.com/speakerdetails/#Alese-Stroud",
-  "thumbnail": "https://i.vimeocdn.com/video/540284075_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/540284075-1be733394ee054a5e29e9799892be3b5e67a5569291bb1311e2873b6c45c1605-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/142868194.hd.mp4?s=8b1fe2e7dfb669ce8d688901f9c28ae6d3e2c2ed&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/142868194.sd.mp4?s=a61f2c514af435fcf4747f2a9add3324b8487379&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 869,

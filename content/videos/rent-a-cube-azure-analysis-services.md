@@ -10,11 +10,11 @@
   "abstract": "<p>Why buy a car when you can lease one for less? Why pay for that car to sit unused on your driveway when you can uber on demand? The buy vs. lease decision is now part of your BI projects with the new Azure Analysis Services. Do you buy a server, buy a SQL license, install software, apply patches, and monitor the server? Or do you rent Azure Analysis Services where you can provision in seconds, scale up and down, and let Microsoft monitor the service for you? This demo-heavy session will deep dive into the new cloud version of Analysis Services. Walking through development, deployment, data sources, processing, authentication, and client tools like Power BI you will see how Azure Analysis Services is similar and how it is different that your father’s Analysis Services.</p>",
   "description": "<p>Why buy a car when you can lease one for less? Why pay for that car to sit unused on your driveway when you can uber on demand? The buy vs. lease decision is now part of your BI projects with the new Azure Analysis Services. Do you buy a server, buy a SQL license, install software, apply patches, and monitor the server? Or do you rent Azure Analysis Services where you can provision in seconds, scale up and down, and let Microsoft monitor the service for you? This demo-heavy session will deep dive into the new cloud version of Analysis Services. Walking through development, deployment, data sources, processing, authentication, and client tools like Power BI you will see how Azure Analysis Services is similar and how it is different that your father’s Analysis Services.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/622682828_295x166.jpg"
+    "https://i.vimeocdn.com/video/622682828-687f0d862d8efc877b353826646107e83d7a7852fbcd146e1c51b9a4703df3a4-d_295x166"
   ],
   "vimeo": "207569448",
   "moreinfo": "http://www.sqlsaturday.com/603/Sessions/Details.aspx?sid=61088",
-  "thumbnail": "https://i.vimeocdn.com/video/622682828_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/622682828-687f0d862d8efc877b353826646107e83d7a7852fbcd146e1c51b9a4703df3a4-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/207569448.hd.mp4?s=f012f895770f42b8eb266fb233cec47f542df440&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/207569448.sd.mp4?s=e29deae450c17a7c558fd3eed53c0ca1d4089c1f&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 235,

@@ -12,7 +12,7 @@
     {
       "title": "Agile in 160 Billion Gallons: When Agile Principles Occur During A Disaster",
       "slug": "agile-in-160-billion-gallons-when-agile-principles-occur-during-a-disaster",
-      "thumbnail": "https://i.vimeocdn.com/video/728973646_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/728973646-1faf7fb3c4e2d53e3945e75e31f28d343867a8982796792be9c15b71a7bf5caa-d_295x166",
       "date": "2018-09-29T15:03:26",
       "meetups": [
         {

@@ -10,11 +10,11 @@
   "abstract": "<p>Have you ever working with someone that could output a monster amount of code in no time? Ever wanted to get more done with less effort? In this session we will be diving into the secrets of those high performers, and outlining some simple tactics that will allow us all to be code ninjas!</p>",
   "description": "<p>Have you ever working with someone that could output a monster amount of code in no time? Ever wanted to get more done with less effort? In this session we will be diving into the secrets of those high performers, and outlining some simple tactics that will allow us all to be code ninjas!</p>",
   "images": [
-    "https://i.vimeocdn.com/video/489183701_295x166.jpg"
+    "https://i.vimeocdn.com/video/489183701-c91a5493141bad9729aab251386d79893322b20fd9e4c0f4800ed3fece812318-d_295x166"
   ],
   "vimeo": "106168265",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#069",
-  "thumbnail": "https://i.vimeocdn.com/video/489183701_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/489183701-c91a5493141bad9729aab251386d79893322b20fd9e4c0f4800ed3fece812318-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/106168265.hd.mp4?s=e7d4b8ce0e6be6737c4a51c83671a674945c31ca&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/106168265.sd.mp4?s=9f9d77e1d42473c56d0bb4b8cbc9986a943f74a8&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 998,

@@ -10,11 +10,11 @@
   "abstract": "<p>Recently Microsoft rebranded Office 365 to Microsoft 365. We will explore why the change makes sense, what it means for businesses – big and small, and how it positions Microsoft for wider adoption of Azure.</p>",
   "description": "<p>Recently Microsoft rebranded Office 365 to Microsoft 365. We will explore why the change makes sense, what it means for businesses – big and small, and how it positions Microsoft for wider adoption of Azure.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/894750268_295x166.jpg"
+    "https://i.vimeocdn.com/video/894750268-f57bcd38b4b0257b9a1b2370219449b2fa0c230f23bed75138692d2c17265713-d_295x166"
   ],
   "vimeo": "419756960",
   "moreinfo": "https://www.meetup.com/azureaustin/events/269935302/",
-  "thumbnail": "https://i.vimeocdn.com/video/894750268_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/894750268-f57bcd38b4b0257b9a1b2370219449b2fa0c230f23bed75138692d2c17265713-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/419756960.hd.mp4?s=c1a97af5d8f13da6a40a63a3d5fb71ab3d4c62cf&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/419756960.sd.mp4?s=f0b4c6bd281f3e95a24311af7c1366177b2f98fb&profile_id=139&oauth2_token_id=20985841",
   "recordingID": 343,
@@ -37,7 +37,7 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 51
+      "count": 52
     }
   ]
 }

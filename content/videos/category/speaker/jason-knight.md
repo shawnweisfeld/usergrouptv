@@ -12,7 +12,7 @@
     {
       "title": "Scrum Fundamentals",
       "slug": "scrum-fundamentals",
-      "thumbnail": "https://i.vimeocdn.com/video/482056179_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/482056179-80c247a0829def15cad458a2d9b7765c22bf48cb6a68e8c3ada591b1c7943a3d-d_295x166",
       "date": "2014-05-16T09:59:51",
       "meetups": [
         {

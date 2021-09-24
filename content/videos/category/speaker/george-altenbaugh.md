@@ -12,7 +12,7 @@
     {
       "title": "TFS Process Template Customizations",
       "slug": "tfs-process-template-customizations",
-      "thumbnail": "https://i.vimeocdn.com/video/506118777_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/506118777-36e546b0d12be253cbc3b4ded3ab579a2fc31d22e3585c413457f784725fc5a2-d_295x166",
       "date": "2015-02-07T03:43:49",
       "meetups": [
         {

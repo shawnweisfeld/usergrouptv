@@ -12,7 +12,7 @@
     {
       "title": "Cross Platform .NET",
       "slug": "cross-platform-net",
-      "thumbnail": "https://i.vimeocdn.com/video/650632322_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/650632322-e74d1974c3640a108bf6176ca557661a2b40299df71486867b79809d2a0043fa-d_295x166",
       "date": "2017-07-21T14:10:29",
       "meetups": [
         {

@@ -11,11 +11,11 @@
   "abstract": "",
   "description": "",
   "images": [
-    "https://i.vimeocdn.com/video/492990621_295x166.jpg"
+    "https://i.vimeocdn.com/video/492990621-21145270be387370cbb8512a6daf0cb36163eee64d4c82b073db53f5ac5885a9-d_295x166"
   ],
   "vimeo": "109118953",
   "moreinfo": "http://usergroup.tv/videos/windows-phone-30-to-launch-session-4-publishing-your-new-wp-application",
-  "thumbnail": "https://i.vimeocdn.com/video/492990621_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/492990621-21145270be387370cbb8512a6daf0cb36163eee64d4c82b073db53f5ac5885a9-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/109118953.hd.mp4?s=1bf99f8626a2f4827e8d0e30d0c1f3e1d419ca46&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/109118953.sd.mp4?s=1ee2258f2e6b42e0f61ecb6e2a22d7a7cb13e219&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 732,

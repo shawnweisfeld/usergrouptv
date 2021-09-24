@@ -12,7 +12,7 @@
     {
       "title": "Docker",
       "slug": "docker",
-      "thumbnail": "https://i.vimeocdn.com/video/537388230_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/537388230-e29c95136efc179adba819ce34d9519b24935213a20acfe8ea2c227625c4882b-d_295x166",
       "date": "2015-09-26T12:18:28",
       "meetups": [
         {

@@ -11,11 +11,11 @@
   "abstract": "<p>You want to write mobile applications, but you don’t want to write a bunch of server code. No problem! You will be amazed at how little code it takes to access a server-side database from your mobile client. Ryan Lowdermilk will walk us through this hands-on-lab, in which you will build a Windows 8 mobile application using Windows Azure Mobile Services. You will enable: Structured storage, Push notifications, Integrated authentication. And you will have fun doing it.</p>",
   "description": "<p>You want to write mobile applications, but you don’t want to write a bunch of server code. No problem! You will be amazed at how little code it takes to access a server-side database from your mobile client. Ryan Lowdermilk will walk us through this hands-on-lab, in which you will build a Windows 8 mobile application using Windows Azure Mobile Services. You will enable: Structured storage, Push notifications, Integrated authentication. And you will have fun doing it.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/485083169_295x166.jpg"
+    "https://i.vimeocdn.com/video/485083169-49d1310e86472725d5031b7f9f4bf74d5e46f5eb2648592077563a649e97d304-d_295x166"
   ],
   "vimeo": "102964811",
   "moreinfo": "http://lrtechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/485083169_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/485083169-49d1310e86472725d5031b7f9f4bf74d5e46f5eb2648592077563a649e97d304-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/102964811.hd.mp4?s=1d43c0f836ac256dfa0c9145591ca527ec106d5f&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/102964811.sd.mp4?s=86b86189fbbc00e959cfd69d2e976871e2c3bb91&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 588,

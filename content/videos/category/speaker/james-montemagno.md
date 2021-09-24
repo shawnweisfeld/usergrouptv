@@ -12,7 +12,7 @@
     {
       "title": "Developing iOS & Android Apps in C#",
       "slug": "developing-ios-android-apps-in-c",
-      "thumbnail": "https://i.vimeocdn.com/video/520899576_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/520899576-d573aff19e7e214ea0a9fbbed67a13472c7f82e777ac735a28bec183be0d7cef-d_295x166",
       "date": "2015-05-31T13:36:23",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Introduction to Xamarin.Forms, Insights, and Test Cloud",
       "slug": "introduction-to-xamarin-forms-insights-and-test-cloud",
-      "thumbnail": "https://i.vimeocdn.com/video/520899656_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/520899656-1eec21b0652f12fff8861124da8e135bffb739600d3b0265f3e73f4c3d9ce82e-d_295x166",
       "date": "2015-05-31T13:33:35",
       "meetups": [
         {

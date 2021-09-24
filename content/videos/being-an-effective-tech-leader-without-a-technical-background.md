@@ -10,11 +10,11 @@
   "abstract": "<p>As technology grows and evolves, it’s critical to have the best tech staff, yet not every business founder, project manager, or sales director has a tech background. How do you manage a team of developers, products and services when you don’t have tech experience? This discussion comprised of “non-technical” female professionals at tech companies will answer this question as well as: 1) How do you bridge the knowledge gap between your technical team and your non-technical founders, project and product managers, and sales and marketing staff? 2) How can you communicate effectively with your IT team? 3) What are the key processes and base knowledge to learn? 4) What are the benefits of having non-technical leaders in your company?</p>",
   "description": "<p>As technology grows and evolves, it’s critical to have the best tech staff, yet not every business founder, project manager, or sales director has a tech background. How do you manage a team of developers, products and services when you don’t have tech experience? This discussion comprised of “non-technical” female professionals at tech companies will answer this question as well as: 1) How do you bridge the knowledge gap between your technical team and your non-technical founders, project and product managers, and sales and marketing staff? 2) How can you communicate effectively with your IT team? 3) What are the key processes and base knowledge to learn? 4) What are the benefits of having non-technical leaders in your company?</p>",
   "images": [
-    "https://i.vimeocdn.com/video/650784688_295x166.jpg"
+    "https://i.vimeocdn.com/video/650784688-6fb8d35628e85becab4eaa0a8c43848b54ae885fa9b76cbdfb3d5d4c01c639c4-d_295x166"
   ],
   "vimeo": "230260415",
   "moreinfo": "http://austin.act-w.org/2017-presentations/#speakers",
-  "thumbnail": "https://i.vimeocdn.com/video/650784688_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/650784688-6fb8d35628e85becab4eaa0a8c43848b54ae885fa9b76cbdfb3d5d4c01c639c4-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/230260415.hd.mp4?s=44b54217ba00d8457804aea1582322c1a0a0cc67&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/230260415.sd.mp4?s=0cac8b4da309a392a1992dd1eac816a90e38e354&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 39,

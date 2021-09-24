@@ -12,7 +12,7 @@
     {
       "title": "SQL Security Best Practices &amp; Shrinking Your Attack Surface",
       "slug": "sql-security-best-practices-shrinking-your-attack-surface",
-      "thumbnail": "https://i.vimeocdn.com/video/533915285_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/533915285-866558d9e78f8204ef83c3daec7541e6eedbad01d4841ae6b741bc4491ab74d1-d_295x166",
       "date": "2015-08-29T14:25:47",
       "meetups": [
         {

@@ -10,11 +10,11 @@
   "abstract": "<p>MS SQL Modern Migration Tour 2019 - Features and Reasons to modernize</p>",
   "description": "<p>MS SQL Modern Migration Tour 2019 - Features and Reasons to modernize</p>",
   "images": [
-    "https://i.vimeocdn.com/video/796753439_295x166.jpg"
+    "https://i.vimeocdn.com/video/796753439-31e280e6b89c9aad4e2254fa4f9bf170ac03860dd73670efc80e00420e547447-d_295x166"
   ],
   "vimeo": "346640440",
   "moreinfo": "https://www.eventbrite.ca/e/modern-migration-tour-2019-austin-tickets-61819083543#",
-  "thumbnail": "https://i.vimeocdn.com/video/796753439_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/796753439-31e280e6b89c9aad4e2254fa4f9bf170ac03860dd73670efc80e00420e547447-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/346640440.hd.mp4?s=c7e2f69e33ae989561e855ca68b0c265ab383627&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/346640440.sd.mp4?s=757e7e081cab19dbaa5b5aa6a3ec34c032131b9b&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 315,

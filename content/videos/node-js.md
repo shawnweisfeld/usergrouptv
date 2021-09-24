@@ -10,11 +10,11 @@
   "abstract": "<p>JavaScript is not just for browsers any more. In this session we will get an introduction to Node.js a popular platform for building systems where the code is entirely in JavaScript.  We will discuss the ins and outs of Node.js including a demonstration of a system which will be going into production, no demo code here kiddies.  In addition to discussing Node.js we'll touch on several other aspects of the Node.js ecosystem.  This promises to be an enlightening and interactive session you won't want to miss.</p>",
   "description": "<p>JavaScript is not just for browsers any more. In this session we will get an introduction to Node.js a popular platform for building systems where the code is entirely in JavaScript.  We will discuss the ins and outs of Node.js including a demonstration of a system which will be going into production, no demo code here kiddies.  In addition to discussing Node.js we'll touch on several other aspects of the Node.js ecosystem.  This promises to be an enlightening and interactive session you won't want to miss.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/485088485_295x166.jpg"
+    "https://i.vimeocdn.com/video/485088485-78c9433eab84daefde09c5ad6f036401afe42c3fa5f9a6dbda19736486169fdd-d_295x166"
   ],
   "vimeo": "102968892",
   "moreinfo": "http://www.ddnug.net/",
-  "thumbnail": "https://i.vimeocdn.com/video/485088485_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/485088485-78c9433eab84daefde09c5ad6f036401afe42c3fa5f9a6dbda19736486169fdd-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/102968892.hd.mp4?s=c1053fd5109caaa75f7e36fb19948401214e96f0&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/102968892.sd.mp4?s=cd947ee16dd5b874264ff713a9087874291d4794&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 597,

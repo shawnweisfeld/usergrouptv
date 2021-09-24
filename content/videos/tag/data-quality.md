@@ -11,7 +11,7 @@
     {
       "title": "Trusting your data",
       "slug": "trusting-your-data",
-      "thumbnail": "https://i.vimeocdn.com/video/709492813_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/709492813-366a46aec4c8903963556a7114454bcc4427941ab6ac60dc1dca0b9b47379ff3-d_295x166",
       "date": "2018-06-23T19:39:43",
       "meetups": [
         {
@@ -29,7 +29,7 @@
     {
       "title": "Data Integration: Who, What, When and Why",
       "slug": "data-integration-who-what-when-and-why",
-      "thumbnail": "https://i.vimeocdn.com/video/488137582_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/488137582-1a27088ca3b7496a2a084b47e158a5361209ffecb6ee6afbbf1ded4d54c33b5d-d_295x166",
       "date": "2012-08-24T00:11:05",
       "meetups": [
         {

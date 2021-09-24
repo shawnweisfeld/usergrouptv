@@ -10,11 +10,11 @@
   "abstract": "",
   "description": "",
   "images": [
-    "https://i.vimeocdn.com/video/820030814_295x166.jpg"
+    "https://i.vimeocdn.com/video/820030814-d292855dfa32e77a2a13359730e02e17e5e54c122164085a9fdbe01258d024d1-d_295x166"
   ],
   "vimeo": "364567819",
   "moreinfo": "http://conference.agileaustin.org",
-  "thumbnail": "https://i.vimeocdn.com/video/820030814_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/820030814-d292855dfa32e77a2a13359730e02e17e5e54c122164085a9fdbe01258d024d1-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/364567819.hd.mp4?s=94f6a054558cd54cf7a12a5338742742e4dcb8bf&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/364567819.sd.mp4?s=93e253a30bd9ff0e54f6c90dfee68e0f5991a6bb&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 366,

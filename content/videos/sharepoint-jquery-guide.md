@@ -11,11 +11,11 @@
   "abstract": "<p>jQuery is the current \"SharePoint Silver Bullet\" promising to cure all your SharePoint ailments allowing customizations that at one point were unattainable without cracking open Visual Studio. But what is the real story with jQuery and SharePoint? How do you implement it with SharePoint? Should you implement it? Is it all a big hoax or is jQuery the missing piece to your SharePoint development took kit?</p>\r\n<p>In this session attendees will learn:</p>\r\n<ol>\r\n<li>Best practices for deploying jQuery in a maintainable way in their organizations</li>\r\n<li>What can be done with quickly and powerfully in jQuery taking advantage of incredible third party libraries</li>\r\n<li>What are the real consequences of using jQuery and when should you NOT use it.</li>\r\n</ol>",
   "description": "<p>jQuery is the current \"SharePoint Silver Bullet\" promising to cure all your SharePoint ailments allowing customizations that at one point were unattainable without cracking open Visual Studio. But what is the real story with jQuery and SharePoint? How do you implement it with SharePoint? Should you implement it? Is it all a big hoax or is jQuery the missing piece to your SharePoint development took kit?</p>\r\n<p>In this session attendees will learn:</p>\r\n<ol>\r\n<li>Best practices for deploying jQuery in a maintainable way in their organizations</li>\r\n<li>What can be done with quickly and powerfully in jQuery taking advantage of incredible third party libraries</li>\r\n<li>What are the real consequences of using jQuery and when should you NOT use it.</li>\r\n</ol>",
   "images": [
-    "https://i.vimeocdn.com/video/483487899_295x166.jpg"
+    "https://i.vimeocdn.com/video/483487899-d746392de19c65dffd01e92999b5921e7fda86559d6607b99509b765f6e9f313-d_295x166"
   ],
   "vimeo": "101659374",
   "moreinfo": "http://techfests.com/Tulsa/2013/Speakers/MarkRackley/default.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/483487899_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/483487899-d746392de19c65dffd01e92999b5921e7fda86559d6607b99509b765f6e9f313-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/101659374.hd.mp4?s=be2ec2b37ad2a5fcc02e39dfca8210e8b6a00747&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/101659374.sd.mp4?s=f0666facf0c0f99d4b3b0278892fcf5afd69df1f&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 954,

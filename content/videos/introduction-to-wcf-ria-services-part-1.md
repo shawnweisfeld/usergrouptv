@@ -10,11 +10,11 @@
   "abstract": "",
   "description": "",
   "images": [
-    "https://i.vimeocdn.com/video/496722991_295x166.jpg"
+    "https://i.vimeocdn.com/video/496722991-578bb04622cb0b0b345a2d4e20bd982cd61ffe95bdb06af87adbff2289c491f3-d_295x166"
   ],
   "vimeo": "111928458",
   "moreinfo": "http://ntpcug.org/",
-  "thumbnail": "https://i.vimeocdn.com/video/496722991_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/496722991-578bb04622cb0b0b345a2d4e20bd982cd61ffe95bdb06af87adbff2289c491f3-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/111928458.hd.mp4?s=958f9eff82abd7424315dada2774ecb60b0d08f3&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/111928458.sd.mp4?s=fad822536b292bb2b80d15bd899b56aec1ee2e6f&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 1,

@@ -10,11 +10,11 @@
   "abstract": "<p>Caching is a valuable technique for improving the performance of your web application. In this talk we discuss some tools you can use to find performance problems. Once you have identified the problem, we will walk through a common caching design pattern, and multiple different caching techniques. The goal of this talk is to provide you with the toolset to identify and resolve caching issues. While we will demo an ASP.NET web applications hosted in Azure the information in this talk is applicable wherever languages or hosting platform you use.</p>",
   "description": "<p>Caching is a valuable technique for improving the performance of your web application. In this talk we discuss some tools you can use to find performance problems. Once you have identified the problem, we will walk through a common caching design pattern, and multiple different caching techniques. The goal of this talk is to provide you with the toolset to identify and resolve caching issues. While we will demo an ASP.NET web applications hosted in Azure the information in this talk is applicable wherever languages or hosting platform you use.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/628873132_295x166.jpg"
+    "https://i.vimeocdn.com/video/628873132-914cc2e5e98286e2d6efc03ccc5b50e11d6487d32a765fc9d332a53755a732e7-d_295x166"
   ],
   "vimeo": "212794740",
   "moreinfo": "http://adnug.org/Home/april-10-2017-how-to-scale-net-apps-with-distributed-caching-in-microsoft-azure/",
-  "thumbnail": "https://i.vimeocdn.com/video/628873132_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/628873132-914cc2e5e98286e2d6efc03ccc5b50e11d6487d32a765fc9d332a53755a732e7-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/212794740.hd.mp4?s=e208b13f2cf0ed296abdde0ee888e0081a2bb37b&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/212794740.sd.mp4?s=2c2371b24618e759ddb29de48f94cc2369376c7f&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 243,

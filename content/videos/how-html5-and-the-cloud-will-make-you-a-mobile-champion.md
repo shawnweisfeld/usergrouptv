@@ -10,11 +10,11 @@
   "abstract": "<p>As smartphones, tablets and touch first interfaces become an everyday experience modern client application experiences need to adapt. This session explores the what, why and how to address these demands to help the audience establish a winning strategy using HTML5 and the cloud to create immersive and context appropriate solutions for both consumer and enterprise scenarios.</p>",
   "description": "<p>As smartphones, tablets and touch first interfaces become an everyday experience modern client application experiences need to adapt. This session explores the what, why and how to address these demands to help the audience establish a winning strategy using HTML5 and the cloud to create immersive and context appropriate solutions for both consumer and enterprise scenarios.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/494179115_295x166.jpg"
+    "https://i.vimeocdn.com/video/494179115-fca1fcedb82ff42b89b630671119f15b6d0ebff3f312970641329eeba129e6f5-d_295x166"
   ],
   "vimeo": "110064555",
   "moreinfo": "http://nddnug.net/",
-  "thumbnail": "https://i.vimeocdn.com/video/494179115_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/494179115-fca1fcedb82ff42b89b630671119f15b6d0ebff3f312970641329eeba129e6f5-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/110064555.hd.mp4?s=975a2801ce7bee3fdd7148dcb8a45fdc2b8c56a7&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/110064555.sd.mp4?s=241b08294acbb92e2ea54b4b193061de6b625c77&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 719,

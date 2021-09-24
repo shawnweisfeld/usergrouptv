@@ -10,11 +10,11 @@
   "abstract": "<p>The repository pattern is a frequently implemented design pattern for data access. It simplifies data access, reduces redundant data access code and increases testability.</p>",
   "description": "<p>The repository pattern is a frequently implemented design pattern for data access. It simplifies data access, reduces redundant data access code and increases testability.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/498384453_295x166.jpg"
+    "https://i.vimeocdn.com/video/498384453-76b077a1c56efff33394cc948c7e2a15fd4976f62956ea937659b1c148abd2fb-d_295x166"
   ],
   "vimeo": "113161534",
   "moreinfo": "http://hands-on-coding.net",
-  "thumbnail": "https://i.vimeocdn.com/video/498384453_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/498384453-76b077a1c56efff33394cc948c7e2a15fd4976f62956ea937659b1c148abd2fb-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/113161534.hd.mp4?s=5bee2c6c00af01872368db4f019bd2811b408ffd&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/113161534.sd.mp4?s=0c32d9365d83ba0c62b53be585b2a933a39dcd48&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 658,

@@ -12,7 +12,7 @@
     {
       "title": "Visual Studio 2012 - What's In It for Me?",
       "slug": "visual-studio-2012-whats-in-it-for-me",
-      "thumbnail": "https://i.vimeocdn.com/video/485394817_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/485394817-a1c7ad37472357610062ccaa56d2597087fc0c17075fb0eb37d945780f632ab9-d_295x166",
       "date": "2012-10-12T15:51:11",
       "meetups": [
         {

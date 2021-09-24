@@ -10,11 +10,11 @@
   "abstract": "<p>Attend the lunch demo and see how you can use Master Data Services and Maestro to: •     Create a golden record for any subject area in a matter of minutes Leverage your Microsoft licenses, skills and infrastructure to lower license costs and FTE costs, and reduce the complexity of an MDM environment? •     Understand how to implement workflow and business process solutions around the management of MDM, without having to write complex custom coding for everything? •     Tackle data quality, consistency and control by empowering business and subject matter experts, without needing heavy IT resources and writing complex code or scripting •     Improve data quality, data stewardship, workflow, and data sharing with any of your enterprise\r\n</p>",
   "description": "<p>Attend the lunch demo and see how you can use Master Data Services and Maestro to: •     Create a golden record for any subject area in a matter of minutes Leverage your Microsoft licenses, skills and infrastructure to lower license costs and FTE costs, and reduce the complexity of an MDM environment? •     Understand how to implement workflow and business process solutions around the management of MDM, without having to write complex custom coding for everything? •     Tackle data quality, consistency and control by empowering business and subject matter experts, without needing heavy IT resources and writing complex code or scripting •     Improve data quality, data stewardship, workflow, and data sharing with any of your enterprise\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/505503841_295x166.jpg"
+    "https://i.vimeocdn.com/video/505503841-f6dd7e9e99475d58bb472f0ce411fcb909932bcba50d655f0cc8a638180e4307-d_295x166"
   ],
   "vimeo": "118476156",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=25222",
-  "thumbnail": "https://i.vimeocdn.com/video/505503841_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/505503841-f6dd7e9e99475d58bb472f0ce411fcb909932bcba50d655f0cc8a638180e4307-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/118476156.hd.mp4?s=41c636e784bd1820ac850be43d5888bfc64bdc87&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/118476156.sd.mp4?s=9147d787bbfc78e1b48debdd4de2de1bc9e561d7&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 814,

@@ -10,11 +10,11 @@
   "abstract": "<p>Customers and users increasingly demand more personal and prompt communication from companies and brands with which they interact. How can data professionals help fill that need? The incredible power and instant accessibility of the Azure Cognitive Services Language and Speech APIs, combined with other Azure services, put the power in our hands. From translating between languages to make communication more efficient to analyzing support communications to ensure customers are happy, Azure Cognitive Services allows data professionals to enhance a brand's interaction with and impression in the customer community. This demo-heavy sessions walks through practical applications of these APIs that you can apply at home or at work immediately after the session.</p>",
   "description": "<p>Customers and users increasingly demand more personal and prompt communication from companies and brands with which they interact. How can data professionals help fill that need? The incredible power and instant accessibility of the Azure Cognitive Services Language and Speech APIs, combined with other Azure services, put the power in our hands. From translating between languages to make communication more efficient to analyzing support communications to ensure customers are happy, Azure Cognitive Services allows data professionals to enhance a brand's interaction with and impression in the customer community. This demo-heavy sessions walks through practical applications of these APIs that you can apply at home or at work immediately after the session.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/854627684_295x166.jpg"
+    "https://i.vimeocdn.com/video/854627684-3c1e89251aacfcaf47ab61e4c0d6844e49d478d892fb67dc8a9b79d75fb45b19-d_295x166"
   ],
   "vimeo": "390487705",
   "moreinfo": "https://www.sqlsaturday.com/939/Sessions/Details.aspx?sid=101140",
-  "thumbnail": "https://i.vimeocdn.com/video/854627684_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/854627684-3c1e89251aacfcaf47ab61e4c0d6844e49d478d892fb67dc8a9b79d75fb45b19-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/390487705.hd.mp4?s=5f723e1dbe93363cf8dc58fa9adbb05efbc05e57&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/390487705.sd.mp4?s=2641682fc9274466313f2a98800454ffecac4c3f&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 388,

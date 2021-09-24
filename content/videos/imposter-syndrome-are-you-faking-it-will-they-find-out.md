@@ -10,11 +10,11 @@
   "abstract": "<p>Have you ever thought to yourself  “All these people think I’m smarter than I really am\" or \"I really don’t know what I’m doing, they're going to figure out I'm a fraud!”  If yes, then you suffer from the Impostor Syndrome. And despite all the accomplishments, awards and accolades, you still doubt yourself. It’s rampant in the modern day tech workplace, and the fear will make you shrink back from opportunities. You dismiss praise. You overcompensate by working harder, being charming and demanding perfection from yourself. What would happen if you were released from this bondage, and kicked your impostor to the curb? In this session, learn 3 powerful techniques that can help to improve your confidence and silent that annoying voice in your head!</p>",
   "description": "<p>Have you ever thought to yourself  “All these people think I’m smarter than I really am\" or \"I really don’t know what I’m doing, they're going to figure out I'm a fraud!”  If yes, then you suffer from the Impostor Syndrome. And despite all the accomplishments, awards and accolades, you still doubt yourself. It’s rampant in the modern day tech workplace, and the fear will make you shrink back from opportunities. You dismiss praise. You overcompensate by working harder, being charming and demanding perfection from yourself. What would happen if you were released from this bondage, and kicked your impostor to the curb? In this session, learn 3 powerful techniques that can help to improve your confidence and silent that annoying voice in your head!</p>",
   "images": [
-    "https://i.vimeocdn.com/video/587192849_295x166.jpg"
+    "https://i.vimeocdn.com/video/587192849-21eabfd5b8d563d2aab82f96b259570003d1d701bc7407d08d95f09de4e96aee-d_295x166"
   ],
   "vimeo": "179315872",
   "moreinfo": "http://www.sqlsaturday.com/550/Sessions/Details.aspx?sid=49202",
-  "thumbnail": "https://i.vimeocdn.com/video/587192849_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/587192849-21eabfd5b8d563d2aab82f96b259570003d1d701bc7407d08d95f09de4e96aee-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/179315872.hd.mp4?s=cdbe2fbe230e5183e461272de9b171f273983924&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/179315872.sd.mp4?s=936268bfd9ee71ea3e66188e5f24b977dcc9073e&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 188,

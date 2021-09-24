@@ -10,11 +10,11 @@
   "abstract": "<p>Welcome to Keep Austin Agile 2018, an exciting conference packed with 35 sessions crafted by speakers from the Austin agile community and around the country. Whether you are a newbie or a experienced Agilist, we’ve got you covered. Join Agile Austin for our 6th Keep Austin Agile Conference. </p>",
   "description": "<p>Welcome to Keep Austin Agile 2018, an exciting conference packed with 35 sessions crafted by speakers from the Austin agile community and around the country. Whether you are a newbie or a experienced Agilist, we’ve got you covered. Join Agile Austin for our 6th Keep Austin Agile Conference. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/703256954_295x166.jpg"
+    "https://i.vimeocdn.com/video/703256954-545af81954fcecb3c5462d11f56042817aa5bc074a8c851788b98440b6a06476-d_295x166"
   ],
   "vimeo": "271853498",
   "moreinfo": "http://www.agileaustin.org",
-  "thumbnail": "https://i.vimeocdn.com/video/703256954_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/703256954-545af81954fcecb3c5462d11f56042817aa5bc074a8c851788b98440b6a06476-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/271853498.hd.mp4?s=53ffb07324107dc40b914ca2bc5cef388361245f&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/271853498.sd.mp4?s=39f348692eea3168d33e9d79267156ad95c5dfe9&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 442,

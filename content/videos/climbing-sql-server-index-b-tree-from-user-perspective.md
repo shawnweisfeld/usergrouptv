@@ -10,11 +10,11 @@
   "abstract": "<p>This session dives down and looks at the important items on data pages of clustered, non-clustered, and unique non-clustered indexes using the DBCC Page command. It will also look at the effect of row data compression on indexes. In all demos we will try to ascertain how the SQL Server optimizer might use them and also strive to gain some insight from a performance advantage. Its purpose is mainly to try and understand how SQL Server implements indexes, their underlying structure, and where performance benefits might lie from a layman’s viewpoint. Session is 80% demos. This is an intermediate level presentation.</p>",
   "description": "<p>This session dives down and looks at the important items on data pages of clustered, non-clustered, and unique non-clustered indexes using the DBCC Page command. It will also look at the effect of row data compression on indexes. In all demos we will try to ascertain how the SQL Server optimizer might use them and also strive to gain some insight from a performance advantage. Its purpose is mainly to try and understand how SQL Server implements indexes, their underlying structure, and where performance benefits might lie from a layman’s viewpoint. Session is 80% demos. This is an intermediate level presentation.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/701148730_295x166.jpg"
+    "https://i.vimeocdn.com/video/701148730-d856c7ec28055270548a32e01f5c19b45f687b1be6df1fb5cd2498bbb3d1e0c5-d_295x166"
   ],
   "vimeo": "270091674",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/lzcdrmyxhbtb/",
-  "thumbnail": "https://i.vimeocdn.com/video/701148730_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/701148730-d856c7ec28055270548a32e01f5c19b45f687b1be6df1fb5cd2498bbb3d1e0c5-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/270091674.hd.mp4?s=23c9c35bb2c0221c0f52f09c57b723fb420d9630&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/270091674.sd.mp4?s=56357d0bb8d501aad4e1f72a5da54ddaf3eb6cb2&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 426,

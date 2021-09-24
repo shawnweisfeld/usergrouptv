@@ -10,11 +10,11 @@
   "abstract": "<p>Ever worked with someone that goes to their desk for 5 minutes and creates the software equivalent of the Mona Lisa? Want to know the tricks and tools of the trade to make that happen? This is the talk for you. </p>",
   "description": "<p>Ever worked with someone that goes to their desk for 5 minutes and creates the software equivalent of the Mona Lisa? Want to know the tricks and tools of the trade to make that happen? This is the talk for you. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/482056077_295x166.jpg"
+    "https://i.vimeocdn.com/video/482056077-cfe6982ecd057e9275211a515f8c03fab433de61fe8fcfbf762ffd01cb1b59ef-d_295x166"
   ],
   "vimeo": "100537273",
   "moreinfo": "http://tulsaschoolofdev.com",
-  "thumbnail": "https://i.vimeocdn.com/video/482056077_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/482056077-cfe6982ecd057e9275211a515f8c03fab433de61fe8fcfbf762ffd01cb1b59ef-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/100537273.hd.mp4?s=9aa188749a64fc6d0f6e6620d66c9f7997c2acb1&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/100537273.sd.mp4?s=04873c3ab66e5d550773ef5b158317f59b7739a9&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 912,

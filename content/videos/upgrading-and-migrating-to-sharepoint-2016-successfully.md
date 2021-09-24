@@ -10,11 +10,11 @@
   "abstract": "",
   "description": "",
   "images": [
-    "https://i.vimeocdn.com/video/661089208_295x166.jpg"
+    "https://i.vimeocdn.com/video/661089208-4d519a623667625d65d714d67ace8564f0976ef9453974bcb4e393271275b54a-d_295x166"
   ],
   "vimeo": "238404869",
   "moreinfo": "http://www.houstontechfest.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/661089208_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/661089208-4d519a623667625d65d714d67ace8564f0976ef9453974bcb4e393271275b54a-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/238404869.hd.mp4?s=20fa8751b49f231c859c18cec88397c36aba38e2&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/238404869.sd.mp4?s=24ea00cff28b42651030206789fbcbc12b64d50a&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 134,

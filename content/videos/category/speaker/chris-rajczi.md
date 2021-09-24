@@ -12,7 +12,7 @@
     {
       "title": "Azure-Backed Applications on Windows Phone Mango",
       "slug": "azure-backed-applications-on-windows-phone-mango",
-      "thumbnail": "https://i.vimeocdn.com/video/498385424_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/498385424-f33521aa5d310113c504ddd4c166a1f088b971eac2d4607cf8dadac01f813b3b-d_295x166",
       "date": "2011-08-02T19:48:24",
       "meetups": [
         {

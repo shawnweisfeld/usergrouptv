@@ -11,11 +11,11 @@
   "abstract": "<p>In this session we'll learn how to design and build Windows Presentation Foundation (WPF) desktop applications using loosely coupled components that can evolve independently.  These loosely coupled components can easily and seamlessly integrate into the overall application. This is an introductory session that concentrates on the basic concepts required to build a composite application with the Microsoft Patterns and Practices Prism 4.1 framework,  The framework includes the boostrapper, regions, modules, view composition, and different techniques for communicating between loosely couple components.  We'll demonstrate all of these topics and more.  </p>",
   "description": "<p>In this session we'll learn how to design and build Windows Presentation Foundation (WPF) desktop applications using loosely coupled components that can evolve independently.  These loosely coupled components can easily and seamlessly integrate into the overall application. This is an introductory session that concentrates on the basic concepts required to build a composite application with the Microsoft Patterns and Practices Prism 4.1 framework,  The framework includes the boostrapper, regions, modules, view composition, and different techniques for communicating between loosely couple components.  We'll demonstrate all of these topics and more.  </p>",
   "images": [
-    "https://i.vimeocdn.com/video/490126943_295x166.jpg"
+    "https://i.vimeocdn.com/video/490126943-0c3360ec0c15bab9e5025189c41814c1afa708fa3e324cc8565e22733bb75c85-d_295x166"
   ],
   "vimeo": "106883857",
   "moreinfo": "http://dallasxaml.com",
-  "thumbnail": "https://i.vimeocdn.com/video/490126943_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/490126943-0c3360ec0c15bab9e5025189c41814c1afa708fa3e324cc8565e22733bb75c85-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/106883857.hd.mp4?s=9825d1d46b23046196ca961b89cda303748b2582&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/106883857.sd.mp4?s=87a1155552f53b80fea53a15f11b3e8e60bde8de&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 522,

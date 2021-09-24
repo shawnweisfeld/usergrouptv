@@ -10,11 +10,11 @@
   "abstract": "<p>This talk provides an overview of a supervised classification problem applied to talk classification in a business context. It will go over the reasons on why we have chosen a machine learning approach and the different steps we have followed to solve this problem (establishment of a training set, feature engineering, algorithms, etc.). </p>",
   "description": "<p>This talk provides an overview of a supervised classification problem applied to talk classification in a business context. It will go over the reasons on why we have chosen a machine learning approach and the different steps we have followed to solve this problem (establishment of a training set, feature engineering, algorithms, etc.). </p>",
   "images": [
-    "https://i.vimeocdn.com/video/660004211_295x166.jpg"
+    "https://i.vimeocdn.com/video/660004211-89ff2d16f24af52268978a4bf5d14103bdd0ae2135983c93945da13bd95f52ee-d_295x166"
   ],
   "vimeo": "237557054",
   "moreinfo": "http://www.lrtechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/660004211_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/660004211-89ff2d16f24af52268978a4bf5d14103bdd0ae2135983c93945da13bd95f52ee-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/237557054.hd.mp4?s=5a3c9a32477e002c8776eca68d01b91f4cc7d24d&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/237557054.sd.mp4?s=cdb1a22048518e091e3b4fe0aaeef638ffa3ee6b&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 36,

@@ -10,11 +10,11 @@
   "abstract": "<p>Developers can dramatically improve performance by monitoring and analyzing real world queries. This session covers SQL Server monitoring at various levels to the most impactful performance improvements. The presentation will start with an overview of different optimization tools and techniques and will be based on practical examples of real-world performance monitoring and troubleshooting. Details include the use of server monitoring tools, SQL Profiler, the Database Tuning Advisor, and analyzing query plans, Dynamic Management Views, and related methods. The overall emphasis will be on solving practical, real-world database performance problems.</p>",
   "description": "<p>Developers can dramatically improve performance by monitoring and analyzing real world queries. This session covers SQL Server monitoring at various levels to the most impactful performance improvements. The presentation will start with an overview of different optimization tools and techniques and will be based on practical examples of real-world performance monitoring and troubleshooting. Details include the use of server monitoring tools, SQL Profiler, the Database Tuning Advisor, and analyzing query plans, Dynamic Management Views, and related methods. The overall emphasis will be on solving practical, real-world database performance problems.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/495139385_295x166.jpg"
+    "https://i.vimeocdn.com/video/495139385-794ac8ae23a86180592022ae7729ac00132b1eaac874cfff6506e11a973b4657-d_295x166"
   ],
   "vimeo": "110771572",
   "moreinfo": null,
-  "thumbnail": "https://i.vimeocdn.com/video/495139385_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/495139385-794ac8ae23a86180592022ae7729ac00132b1eaac874cfff6506e11a973b4657-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/110771572.hd.mp4?s=62dfb9cd2a34071d269631064eee27fe0da2d841&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/110771572.sd.mp4?s=a03a3ecd416f9fed80b8c78e1321c3e7f0de2e43&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 752,

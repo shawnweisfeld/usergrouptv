@@ -10,11 +10,11 @@
   "abstract": "<p>There's a really cool trend in F# UI design coming up in the world that started in the web space with React and Elm, and has trickled into the F# space via Elmish (for the web) and Fabulous (for Xamarin.Forms). This method is called Model-View-Update, and the mechanism behind it are allowing for some really low-cycle-time and high-interactivity design flows in F#! This month I'd like to show you all how easy it is to get hot-reloadable UI across the web and mobile devices using a few libraries and tools that are, I think, beyond cool.\r\n</p>",
   "description": "<p>There's a really cool trend in F# UI design coming up in the world that started in the web space with React and Elm, and has trickled into the F# space via Elmish (for the web) and Fabulous (for Xamarin.Forms). This method is called Model-View-Update, and the mechanism behind it are allowing for some really low-cycle-time and high-interactivity design flows in F#! This month I'd like to show you all how easy it is to get hot-reloadable UI across the web and mobile devices using a few libraries and tools that are, I think, beyond cool.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/761490718_295x166.jpg"
+    "https://i.vimeocdn.com/video/761490718-8d42ba5423b76cdf79592f3af1c90fa71b13062323f4c1711314169d20864d4b-d_295x166"
   ],
   "vimeo": "319029052",
   "moreinfo": "https://www.meetup.com/Austin-F-Meetup/events/mbscmqyzdbcc/",
-  "thumbnail": "https://i.vimeocdn.com/video/761490718_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/761490718-8d42ba5423b76cdf79592f3af1c90fa71b13062323f4c1711314169d20864d4b-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/319029052.hd.mp4?s=c4ae43af0a7260b1f0d0bc078582266132854fd9&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/319029052.sd.mp4?s=68bf520ac1abe5ce764b6444ee071fa128d06fab&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 484,

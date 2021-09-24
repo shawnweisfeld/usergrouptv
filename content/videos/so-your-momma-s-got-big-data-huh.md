@@ -10,11 +10,11 @@
   "abstract": "<p>After a hearty but tasteful round of \"yo momma\" jokes, this presentation reveals an overview of the NoSQL movement, what problems it is intended to solve, and an introduction of the CAP Theorem. A comparison of some of the more popular options such as CouchDB, MongoDB and Cassandra will be discussed. Attendees are invited to share their experiences with these technologies, and how these experiences differ from the more common relational approach to data.</p>",
   "description": "<p>After a hearty but tasteful round of \"yo momma\" jokes, this presentation reveals an overview of the NoSQL movement, what problems it is intended to solve, and an introduction of the CAP Theorem. A comparison of some of the more popular options such as CouchDB, MongoDB and Cassandra will be discussed. Attendees are invited to share their experiences with these technologies, and how these experiences differ from the more common relational approach to data.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/507866423_295x166.jpg"
+    "https://i.vimeocdn.com/video/507866423-704cc6a145b1ddbfc943cfa0332aab19b0ed8b78925d865cb23e237e85a32959-d_295x166"
   ],
   "vimeo": "120152285",
   "moreinfo": "http://dallastechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/507866423_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/507866423-704cc6a145b1ddbfc943cfa0332aab19b0ed8b78925d865cb23e237e85a32959-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/120152285.hd.mp4?s=d4e1a1d73099c368e070596986f6b224192bdb7d&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/120152285.sd.mp4?s=e337d9111863788cbe2e0ccaf66fb60e49e94bcb&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 666,

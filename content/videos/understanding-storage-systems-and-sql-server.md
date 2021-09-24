@@ -10,11 +10,11 @@
   "abstract": "<p>The most important part of your SQL Server is also the slowest, Storage. This talk will take you through the fundamentals of your server's Disk I/O System. This session should give you a solid foundation over storage systems and help you understand why they are slow and how to overcome some of their limitations. We will cover the basics of computer systems, hard disks and disk controllers. Next, we will move to the fundamentals of RAID and how to configure your arrays for performance and reliability. Later, we will discuss the relationship between SQL Server and the file system, what is required for SQL Server and how to configure the file system for optimal performance. Finally, we will touch on how to monitor the performance and health of</p>",
   "description": "<p>The most important part of your SQL Server is also the slowest, Storage. This talk will take you through the fundamentals of your server's Disk I/O System. This session should give you a solid foundation over storage systems and help you understand why they are slow and how to overcome some of their limitations. We will cover the basics of computer systems, hard disks and disk controllers. Next, we will move to the fundamentals of RAID and how to configure your arrays for performance and reliability. Later, we will discuss the relationship between SQL Server and the file system, what is required for SQL Server and how to configure the file system for optimal performance. Finally, we will touch on how to monitor the performance and health of</p>",
   "images": [
-    "https://i.vimeocdn.com/video/495923011_295x166.jpg"
+    "https://i.vimeocdn.com/video/495923011-4261213f6a6f5650e9aedda8ebb2e0681f273860aa92fae198018a1df5582ffe-d_295x166"
   ],
   "vimeo": "111341610",
   "moreinfo": null,
-  "thumbnail": "https://i.vimeocdn.com/video/495923011_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/495923011-4261213f6a6f5650e9aedda8ebb2e0681f273860aa92fae198018a1df5582ffe-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/111341610.hd.mp4?s=bccb0f6757328c1f1e2d299d5716001acffac48d&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/111341610.sd.mp4?s=ac726c014734300199b79a17f744d4db51845f03&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 711,

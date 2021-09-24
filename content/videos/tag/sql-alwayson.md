@@ -11,7 +11,7 @@
     {
       "title": "HA 101 - Which High Availability Feature(s) Are For You?",
       "slug": "ha-101-which-high-availability-features-are-for-you",
-      "thumbnail": "https://i.vimeocdn.com/video/650131252_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/650131252-c0bb3f63b6a464e2f36d84dcaf93c70cdc33996abaabf16644186ad7c8e56ef2-d_295x166",
       "date": "2017-07-18T13:59:05",
       "meetups": [
         {
@@ -29,7 +29,7 @@
     {
       "title": "AlwaysOn Live Deployment",
       "slug": "alwayson-live-deployment",
-      "thumbnail": "https://i.vimeocdn.com/video/505670140_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/505670140-8bd429ad2d65663141408fcf04b2c75c2b6892dfa5466e7c58261118b0dd491d-d_295x166",
       "date": "2015-01-31T14:03:41",
       "meetups": [
         {

@@ -11,11 +11,11 @@
   "abstract": "<p>&nbsp;</p>",
   "description": "<p>&nbsp;</p>",
   "images": [
-    "https://i.vimeocdn.com/video/501051210_295x166.jpg"
+    "https://i.vimeocdn.com/video/501051210-d766ebd7a3c6d06d7300272c187e95fe7c0fa940710fd01d866d36074e015c28-d_295x166"
   ],
   "vimeo": "115130717",
   "moreinfo": "http://hands-on-coding.net",
-  "thumbnail": "https://i.vimeocdn.com/video/501051210_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/501051210-d766ebd7a3c6d06d7300272c187e95fe7c0fa940710fd01d866d36074e015c28-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/115130717.hd.mp4?s=c090318cf7d1bdeac02fe1a1baf1df86208d72b6&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/115130717.sd.mp4?s=ccb536e1a97a76fd41bbfbe298485f85e218d11a&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 11,

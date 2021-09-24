@@ -10,11 +10,11 @@
   "abstract": "<p>With the publication of The DevOps Handbook (the yellow book), the software industry has an expanded body of knowledge on which practitioners may draw. Many successful software services and software product companies have innovated and shared their breakthroughs. Now, just like at the time of the original Agile Manifesto, it is up to individual teams to adopt and adapt the learnings of others. From details of the compilation to automated tests to database and data store configuration, custom software applications have common building blocks. There is a domain model that has emerged for continuous delivery. The relationships between the abstract types are known. Each team implements this model according to the toolset and language of their software, but the model remains. This session reviews that model in details as well as a reference implementation of it on the Microsoft platform.</p>",
   "description": "<p>With the publication of The DevOps Handbook (the yellow book), the software industry has an expanded body of knowledge on which practitioners may draw. Many successful software services and software product companies have innovated and shared their breakthroughs. Now, just like at the time of the original Agile Manifesto, it is up to individual teams to adopt and adapt the learnings of others. From details of the compilation to automated tests to database and data store configuration, custom software applications have common building blocks. There is a domain model that has emerged for continuous delivery. The relationships between the abstract types are known. Each team implements this model according to the toolset and language of their software, but the model remains. This session reviews that model in details as well as a reference implementation of it on the Microsoft platform.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/703386612_295x166.jpg"
+    "https://i.vimeocdn.com/video/703386612-fbcfd39480a8f37c8f6d14d0d988f3d2873da3f81549ffe9aab085dd5f329b03-d_295x166"
   ],
   "vimeo": "271952598",
   "moreinfo": "http://www.agileaustin.org",
-  "thumbnail": "https://i.vimeocdn.com/video/703386612_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/703386612-fbcfd39480a8f37c8f6d14d0d988f3d2873da3f81549ffe9aab085dd5f329b03-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/271952598.hd.mp4?s=67b71980312cca9a9bf8288d834b5873173842d9&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/271952598.sd.mp4?s=80073261ea3b6a1f6ec00f3d9470545c9e205ae2&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 440,

@@ -10,11 +10,11 @@
   "abstract": "<p>With so many individual services offered on the Azure platform choosing the right ones for your application can be overwhelming. In this talk we will provide an overview of the most popular services, discuss common decision points on when to choose each and discuss common application design patterns to build highly scalable, highly available, cost effective cloud solutions.</p>",
   "description": "<p>With so many individual services offered on the Azure platform choosing the right ones for your application can be overwhelming. In this talk we will provide an overview of the most popular services, discuss common decision points on when to choose each and discuss common application design patterns to build highly scalable, highly available, cost effective cloud solutions.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/540282664_295x166.jpg"
+    "https://i.vimeocdn.com/video/540282664-e36cfe0b3d54e39b34045689dfb5155e93026c89725cebc641f426d82ec3fac8-d_295x166"
   ],
   "vimeo": "142867209",
   "moreinfo": "http://lrtechfest.com/speakerdetails/#Shawn-Weisfeld",
-  "thumbnail": "https://i.vimeocdn.com/video/540282664_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/540282664-e36cfe0b3d54e39b34045689dfb5155e93026c89725cebc641f426d82ec3fac8-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/142867209.hd.mp4?s=2382ffd9eeb2a8333d034b301e7e07a412784897&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/142867209.sd.mp4?s=0aa79230198989c23b9c51745c8de8b6eb6bbaf9&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 892,
@@ -30,7 +30,7 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 41
+      "count": 42
     }
   ],
   "meetups": [

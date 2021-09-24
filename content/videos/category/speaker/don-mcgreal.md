@@ -12,7 +12,7 @@
     {
       "title": "THE FUTURE OF AGILE",
       "slug": "the-future-of-agile",
-      "thumbnail": "https://i.vimeocdn.com/video/486705637_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/486705637-b2ac433353ec4f2436eb776f4f26184c0803aac16d94ad52847b7381888070ac-d_295x166",
       "date": "2014-08-22T17:40:06",
       "meetups": [
         {

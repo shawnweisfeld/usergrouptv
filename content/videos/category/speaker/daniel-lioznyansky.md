@@ -12,7 +12,7 @@
     {
       "title": "Increase value of SharePoint by giving users the right support!",
       "slug": "increase-value-of-sharepoint-by-giving-users-the-right-support",
-      "thumbnail": "https://i.vimeocdn.com/video/593962045_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/593962045-ee3e63e42f23d2cee7141006c6e5416587ed0433b0647c34c471117f3256f94b-d_295x166",
       "date": "2016-09-24T19:50:58",
       "meetups": [
         {

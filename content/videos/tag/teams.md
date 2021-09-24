@@ -11,7 +11,7 @@
     {
       "title": "What a SharePoint expert should know about Microsoft Teams ",
       "slug": "what-a-sharepoint-expert-should-know-about-microsoft-teams",
-      "thumbnail": "https://i.vimeocdn.com/video/640017038_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/640017038-3f0b302ba5cb46f922f09f856fccb3277697fc9e5b2c6cea439c49f35e65aac3-d_295x166",
       "date": "2017-06-14T12:34:57",
       "meetups": [
         {

@@ -12,7 +12,7 @@
     {
       "title": "Agile = No Planning = Bull$h!t",
       "slug": "agile-no-planning-bullht",
-      "thumbnail": "https://i.vimeocdn.com/video/703357756_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/703357756-30f210ede9aa7d1e63c033a6ef08ae9d1ca3bd05bd0e442155838cb91acdad83-d_295x166",
       "date": "2018-05-24T16:54:04",
       "meetups": [
         {

@@ -10,11 +10,11 @@
   "abstract": "<p>A summary of what attendees will learn: An understanding of graph databases, Introduction to data modeling with Graph databases, Setting up a graph database, Connecting to the graph and CRUD operations, Building a graph enabled application</p>",
   "description": "<p>A summary of what attendees will learn: An understanding of graph databases, Introduction to data modeling with Graph databases, Setting up a graph database, Connecting to the graph and CRUD operations, Building a graph enabled application</p>",
   "images": [
-    "https://i.vimeocdn.com/video/660049778_295x166.jpg"
+    "https://i.vimeocdn.com/video/660049778-5b08134a73c71f5903cc43548ba6d23d2d75669ec83161ad51265ad47e033506-d_295x166"
   ],
   "vimeo": "237597710",
   "moreinfo": "http://www.lrtechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/660049778_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/660049778-5b08134a73c71f5903cc43548ba6d23d2d75669ec83161ad51265ad47e033506-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/237597710.hd.mp4?s=b2c0c5ce677338672c5a4f0b6314d3b6e504d988&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/237597710.sd.mp4?s=a915fddb2c043a9940f6ea2fa64d7689a3f704f1&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 118,

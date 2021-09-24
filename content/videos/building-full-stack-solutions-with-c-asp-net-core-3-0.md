@@ -10,11 +10,11 @@
   "abstract": "<p>ASP.NET Core 3.0 contains new features for building modern web applications and services. In this session, we'll show you how to use ASP.NET Core 3.0 to build full-stack solutions using the latest versions of C# and the .net Core 3.0 Framework. We will take a lap around .net Core 3.0, and dive into Blazor, Worker Services and gRPC.</p>",
   "description": "<p>ASP.NET Core 3.0 contains new features for building modern web applications and services. In this session, we'll show you how to use ASP.NET Core 3.0 to build full-stack solutions using the latest versions of C# and the .net Core 3.0 Framework. We will take a lap around .net Core 3.0, and dive into Blazor, Worker Services and gRPC.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/807050783_295x166.jpg"
+    "https://i.vimeocdn.com/video/807050783-7cc608bfa426f973c5edc18a51b9e4af604d629aa84b02efe6687f73c0ee994d-d_295x166"
   ],
   "vimeo": "354514510",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/263857075/",
-  "thumbnail": "https://i.vimeocdn.com/video/807050783_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/807050783-7cc608bfa426f973c5edc18a51b9e4af604d629aa84b02efe6687f73c0ee994d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/354514510.hd.mp4?s=88c1f9213dccf7e5531618f1ab8b377a43867315&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/354514510.sd.mp4?s=bc75145315ab40d94e3256982c57461cb38bbebb&profile_id=139&oauth2_token_id=20985841",
   "recordingID": 280,

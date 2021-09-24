@@ -12,7 +12,7 @@
     {
       "title": "The Benefits of Gaming",
       "slug": "the-benefits-of-gaming",
-      "thumbnail": "https://i.vimeocdn.com/video/709498227_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/709498227-4c414e151a0c188498fef2f03d960c325ddaffd4e511a84a639f332ef9c6ee63-d_295x166",
       "date": "2018-06-23T19:54:44",
       "meetups": [
         {

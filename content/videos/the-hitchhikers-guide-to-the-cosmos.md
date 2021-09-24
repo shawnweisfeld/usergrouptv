@@ -11,11 +11,11 @@
   "abstract": "Today’s applications are required to be highly responsible and always online. Cosmos DB was built from the ground up to provide a globally distributed, multi-model database service that enables you to elastically and independently scale throughput and storage across any number of Azure regions worldwide. Because of its ARS (atoms, records, and sequences) design, Azure Cosmos DB accessing data via SQL, MongoDB, Table, Gremlin, and Cassandra APIs. All of this with transparent multi-master replication, high availability at 99.999%, and guarantees of less than 10-ms latencies both reads and (indexed) writes.\r\n\r\nIn this session, you will learn what you can do with Cosmos DB, the benefits of each of these data models, and how to use everything Cosmos DB has to offer to make your applications rock solid. Come find out when and how to implement Cosmos DB and which options you should use based upon your needs.",
   "description": "Today’s applications are required to be highly responsible and always online. Cosmos DB was built from the ground up to provide a globally distributed, multi-model database service that enables you to elastically and independently scale throughput and storage across any number of Azure regions worldwide. Because of its ARS (atoms, records, and sequences) design, Azure Cosmos DB accessing data via SQL, MongoDB, Table, Gremlin, and Cassandra APIs. All of this with transparent multi-master replication, high availability at 99.999%, and guarantees of less than 10-ms latencies both reads and (indexed) writes.\r\n\r\nIn this session, you will learn what you can do with Cosmos DB, the benefits of each of these data models, and how to use everything Cosmos DB has to offer to make your applications rock solid. Come find out when and how to implement Cosmos DB and which options you should use based upon your needs.",
   "images": [
-    "https://i.vimeocdn.com/video/1091600574_295x166.jpg"
+    "https://i.vimeocdn.com/video/1091600574-d998b603994e12a4065835b017db3cdb9106da8028a0f5d668c5d868865028fe-d_295x166"
   ],
   "vimeo": "527309645",
   "moreinfo": "https://www.meetup.com/azureaustin/events/273478878/",
-  "thumbnail": "https://i.vimeocdn.com/video/1091600574_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/1091600574-d998b603994e12a4065835b017db3cdb9106da8028a0f5d668c5d868865028fe-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/527309645.hd.mp4?s=73d5acb75dfbd169eaa2c63581e096ddef8a169c&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/527309645.sd.mp4?s=8b2fd64371072a25dad913a966f5b15cd9c34e2e&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 1062,
@@ -36,19 +36,19 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 41
+      "count": 42
     }
   ],
   "meetups": [
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 51
+      "count": 52
     },
     {
       "name": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "count": 15
+      "count": 16
     }
   ]
 }

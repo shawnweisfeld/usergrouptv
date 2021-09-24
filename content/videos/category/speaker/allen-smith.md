@@ -12,7 +12,7 @@
     {
       "title": "Sharing SQL Data in SharePoint",
       "slug": "sharing-sql-data-in-sharepoint",
-      "thumbnail": "https://i.vimeocdn.com/video/483490517_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/483490517-8dffce7436d7291bc0b7f6e9ca2bff8b3b31beecbdcec735ce7a9ca9a2e405ad-d_295x166",
       "date": "2013-08-24T11:35:03",
       "meetups": [
         {

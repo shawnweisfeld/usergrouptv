@@ -12,7 +12,7 @@
     {
       "title": "Dynamic SQL: Tables and Pivots",
       "slug": "dynamic-sql-tables-and-pivots",
-      "thumbnail": "https://i.vimeocdn.com/video/661112604_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/661112604-fdf95445b7d56cef35548d0c46783150c75bca541903832d6babc5370dd785b0-d_295x166",
       "date": "2017-10-14T11:50:58",
       "meetups": [
         {

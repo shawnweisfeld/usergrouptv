@@ -10,11 +10,11 @@
   "abstract": "<p>This session is 90% live demonstrations. I'll walk you through a complete AlwaysOn deployment. You will see firsthand how to install and configure an AlwaysOn Failover Cluster. I'll also show you how to setup an AlwaysOn Availability Group across 5 nodes using both the GUI and T-SQL so you know why and when to use each method. I'll finish up by showing how you can connect to a readable secondary.</p>",
   "description": "<p>This session is 90% live demonstrations. I'll walk you through a complete AlwaysOn deployment. You will see firsthand how to install and configure an AlwaysOn Failover Cluster. I'll also show you how to setup an AlwaysOn Availability Group across 5 nodes using both the GUI and T-SQL so you know why and when to use each method. I'll finish up by showing how you can connect to a readable secondary.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/505670140_295x166.jpg"
+    "https://i.vimeocdn.com/video/505670140-8bd429ad2d65663141408fcf04b2c75c2b6892dfa5466e7c58261118b0dd491d-d_295x166"
   ],
   "vimeo": "118596820",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=25948",
-  "thumbnail": "https://i.vimeocdn.com/video/505670140_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/505670140-8bd429ad2d65663141408fcf04b2c75c2b6892dfa5466e7c58261118b0dd491d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/118596820.hd.mp4?s=738308e708bab0f6f833574231f9b2fa2ee517b4&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/118596820.sd.mp4?s=ca713b3316e50d4bcdc7031247dd0b00858ab1fa&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 810,

@@ -12,7 +12,7 @@
     {
       "title": "When Strategy Needs Agile: Understanding Agile Operating Models",
       "slug": "when-strategy-needs-agile-understanding-agile-operating-models",
-      "thumbnail": "https://i.vimeocdn.com/video/703370773_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/703370773-6d600bbfb1e987fd98f1bdfdb9d6ce6849c57cd54ac32bae719a978e24488ce3-d_295x166",
       "date": "2018-05-24T16:55:58",
       "meetups": [
         {

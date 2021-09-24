@@ -12,7 +12,7 @@
     {
       "title": "DEPLOY ALL THE GAMES!!!",
       "slug": "deploy-all-the-games-2",
-      "thumbnail": "https://i.vimeocdn.com/video/490860700_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/490860700-6a5fd2de92f0d989d314ad69f799172945e6b3d98cb31f4d82de940641e81440-d_295x166",
       "date": "2014-09-26T18:56:52",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Deploy All The Games!",
       "slug": "deploy-all-the-games",
-      "thumbnail": "https://i.vimeocdn.com/video/481964631_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/481964631-6a832906fae6d5868fe2f14d80a9bc189ba333198cfb6e94f76459e368d86f46-d_295x166",
       "date": "2014-06-14T11:06:19",
       "meetups": [
         {

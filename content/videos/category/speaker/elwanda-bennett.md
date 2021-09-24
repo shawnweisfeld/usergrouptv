@@ -12,7 +12,7 @@
     {
       "title": "SharePoint Success Strategy",
       "slug": "sharepoint-success-strategy",
-      "thumbnail": "https://i.vimeocdn.com/video/593962011_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/593962011-8b2b42c23bac7fb7dfd188d025c5736d4938013fe756ed4b7c3235a23cbff922-d_295x166",
       "date": "2016-09-24T19:52:16",
       "meetups": [
         {

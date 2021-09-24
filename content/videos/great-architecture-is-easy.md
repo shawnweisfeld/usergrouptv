@@ -10,11 +10,11 @@
   "abstract": "<p>In this session we will dive into how to break up big problems into easy applications of design patterns. We will tear apart some of the most innovative changes in the industry to see how they are all a combination of core patterns that work very well together.</p>",
   "description": "<p>In this session we will dive into how to break up big problems into easy applications of design patterns. We will tear apart some of the most innovative changes in the industry to see how they are all a combination of core patterns that work very well together.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/489182690_295x166.jpg"
+    "https://i.vimeocdn.com/video/489182690-f36156e6021162d2f95584e808bee21792260da023da619bd428b82a6253df84-d_295x166"
   ],
   "vimeo": "106167450",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#029",
-  "thumbnail": "https://i.vimeocdn.com/video/489182690_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/489182690-f36156e6021162d2f95584e808bee21792260da023da619bd428b82a6253df84-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/106167450.hd.mp4?s=607c3ea338f15f1407ba67bc3ab006c001d18107&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/106167450.sd.mp4?s=6ae4b55d1bfb8f9c4e8aa0763edc15ab76e5d4bd&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 1024,

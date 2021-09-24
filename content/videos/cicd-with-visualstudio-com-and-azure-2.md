@@ -13,11 +13,11 @@
   "abstract": "<p>In this talk we will take a simple ASP.NET MVC application and check it in to VisualStudio.com Source Control. We will then use the online Build tools to automate builds on check-in. Then using the online release management we will automate deploying it to our Dev, QA and Production environments. All the while ensuring that we keep all of the configuration for each of these environments safe. </p>",
   "description": "<p>In this talk we will take a simple ASP.NET MVC application and check it in to VisualStudio.com Source Control. We will then use the online Build tools to automate builds on check-in. Then using the online release management we will automate deploying it to our Dev, QA and Production environments. All the while ensuring that we keep all of the configuration for each of these environments safe. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/660637229_295x166.jpg"
+    "https://i.vimeocdn.com/video/660637229-c2cbf791f482b71fa658d109a762fd0c1a8a7e7516f15ced4d3d7018337946ef-d_295x166"
   ],
   "vimeo": "238049715",
   "moreinfo": "http://www.lrtechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/660637229_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/660637229-c2cbf791f482b71fa658d109a762fd0c1a8a7e7516f15ced4d3d7018337946ef-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/238049715.hd.mp4?s=e5aa155277cc979f0e9cdb970a919df47fd30f0f&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/238049715.sd.mp4?s=bd5d349b4aa6b2f1b6e7b33662cf14d84b8645a0&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 74,
@@ -48,7 +48,7 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 41
+      "count": 42
     }
   ],
   "meetups": [

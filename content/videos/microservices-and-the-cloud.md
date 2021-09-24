@@ -10,11 +10,11 @@
   "abstract": "<p>What is a Microservice? Functions? Service Fabric? Containers? Oh my! What are my options on hosting them in Azure? In this session we will boil it all down to an actionable roadmap that you can use to guide you on journey. We will then demonstrate their use in Azure.</p>",
   "description": "<p>What is a Microservice? Functions? Service Fabric? Containers? Oh my! What are my options on hosting them in Azure? In this session we will boil it all down to an actionable roadmap that you can use to guide you on journey. We will then demonstrate their use in Azure.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/636656730_295x166.jpg"
+    "https://i.vimeocdn.com/video/636656730-d864ba4cdc9a4cdb1828251f7aca71d84c20569b24741bed6905e23916838aa8-d_295x166"
   ],
   "vimeo": "219011615",
   "moreinfo": "http://dallasasp.net/Meetings/19864.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/636656730_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/636656730-d864ba4cdc9a4cdb1828251f7aca71d84c20569b24741bed6905e23916838aa8-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/219011615.hd.mp4?s=833e5d5155fccfa7031a4837fc7b138bb2e0afb7&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/219011615.sd.mp4?s=93f2a2017acebf9690332df4fc9963834c4ea76b&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 259,

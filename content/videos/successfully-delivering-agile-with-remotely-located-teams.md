@@ -10,11 +10,11 @@
   "abstract": "<p>Rural Sourcing is a US Domestic Onshore provider of Agile-delivered AppDev, Support, QA, and QA Automation. Our Dev Centers are located is Rural US Cities. Over the past 10 years we have perfected the delivery of Agile from remote locations to our customers in large US cities.</p>",
   "description": "<p>Rural Sourcing is a US Domestic Onshore provider of Agile-delivered AppDev, Support, QA, and QA Automation. Our Dev Centers are located is Rural US Cities. Over the past 10 years we have perfected the delivery of Agile from remote locations to our customers in large US cities.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/650202913_295x166.jpg"
+    "https://i.vimeocdn.com/video/650202913-1588ddb920a1d5b85942da3e50d5da73bba263682b5f713ecb89d93b8f67f7ce-d_295x166"
   ],
   "vimeo": "229798045",
   "moreinfo": "http://schoolofdev.com/Tulsa/2017/Speakers/DerekPerry/default.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/650202913_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/650202913-1588ddb920a1d5b85942da3e50d5da73bba263682b5f713ecb89d93b8f67f7ce-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/229798045.hd.mp4?s=2424367bb3645119edd71853baf23e9d97b3c0ae&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/229798045.sd.mp4?s=5b21c106f517cea59e65a7e00845cf641eb077e0&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 219,

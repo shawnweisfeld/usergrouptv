@@ -10,11 +10,11 @@
   "abstract": "<p>Hi everyone, thanks to our good friends over at Microsoft we're excited to restart this Austin F# meetup with a bang! In this spirit of all things new, we're taking a deep look into the SAFE Stack, a productive, well-typed, and exciting approach to web application and backend development that really shows off how F# can be used to make common tasks simple, and hard tasks easy.</p>",
   "description": "<p>Hi everyone, thanks to our good friends over at Microsoft we're excited to restart this Austin F# meetup with a bang! In this spirit of all things new, we're taking a deep look into the SAFE Stack, a productive, well-typed, and exciting approach to web application and backend development that really shows off how F# can be used to make common tasks simple, and hard tasks easy.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/727663137_295x166.jpg"
+    "https://i.vimeocdn.com/video/727663137-dd327bf786baf6770e05fe2270e132948aebd2fd0f12ba3c8195a0941616125f-d_295x166"
   ],
   "vimeo": "291505443",
   "moreinfo": "https://www.meetup.com/Austin-F-Meetup/events/254096582/",
-  "thumbnail": "https://i.vimeocdn.com/video/727663137_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/727663137-dd327bf786baf6770e05fe2270e132948aebd2fd0f12ba3c8195a0941616125f-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/291505443.hd.mp4?s=7e04a5e42964adc92487acbb802ab1b98df0b439&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/291505443.sd.mp4?s=a782f2bf0d035d7220f90bcb34d7be9c631b9eb4&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 504,

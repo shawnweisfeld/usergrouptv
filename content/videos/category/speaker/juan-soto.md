@@ -12,7 +12,7 @@
     {
       "title": "Wish you could live the glamorous consulting life?",
       "slug": "wish-you-could-live-the-glamorous-consulting-life",
-      "thumbnail": "https://i.vimeocdn.com/video/702664420_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/702664420-5a8d811829f791b576a09510fefc645c2c014840f12e661b588300cb6fb67f55-d_295x166",
       "date": "2018-05-19T23:05:15",
       "meetups": [
         {

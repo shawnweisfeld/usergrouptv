@@ -10,11 +10,11 @@
   "abstract": "<p>Have you ever needed to generate dozens (or even hundreds) of similar SSIS packages? Do you ever find yourself needing to regenerate a lot of packages when some piece of the upstream data format changes? Using native SSIS, this can be a tedious and error prone exercise. However, using Biml (Business Intelligence Markup Language) can greatly increase your productivity as an ETL developer. In this session, we'll cover the essentials of Biml. I'll discuss what it is and what it can do for SSIS, demonstrating how it can easily generate dozens or even hundreds of packages in just a few minutes. I'll also demonstrate some realistic examples and discuss how Biml fits into the enterprise ETL picture.</p>",
   "description": "<p>Have you ever needed to generate dozens (or even hundreds) of similar SSIS packages? Do you ever find yourself needing to regenerate a lot of packages when some piece of the upstream data format changes? Using native SSIS, this can be a tedious and error prone exercise. However, using Biml (Business Intelligence Markup Language) can greatly increase your productivity as an ETL developer. In this session, we'll cover the essentials of Biml. I'll discuss what it is and what it can do for SSIS, demonstrating how it can easily generate dozens or even hundreds of packages in just a few minutes. I'll also demonstrate some realistic examples and discuss how Biml fits into the enterprise ETL picture.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/570948391_295x166.jpg"
+    "https://i.vimeocdn.com/video/570948391-e4b4ccb6a5ea9e23e0733c54e7170586c98fe64645f070b6c12ab9c8a0f58c1c-d_295x166"
   ],
   "vimeo": "166789597",
   "moreinfo": "http://www.sqlsaturday.com/514/Sessions/Details.aspx?sid=44768",
-  "thumbnail": "https://i.vimeocdn.com/video/570948391_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/570948391-e4b4ccb6a5ea9e23e0733c54e7170586c98fe64645f070b6c12ab9c8a0f58c1c-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/166789597.hd.mp4?s=9d3d2f856a4c16d20776e9994d1917cb3cf0e7f7&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/166789597.sd.mp4?s=f8a1ce08efcd196d26ac32f96309c4236c6a19fd&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 857,

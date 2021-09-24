@@ -12,7 +12,7 @@
     {
       "title": "What’s New in Microsoft Modern Search",
       "slug": "whats-new-in-microsoft-modern-search",
-      "thumbnail": "https://i.vimeocdn.com/video/822338757_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/822338757-71ea55fd4f3dd01fe613a4d015397b0e30f34bacbe51a0ce51c03f9bc0f5f39f-d_295x166",
       "date": "2019-10-09T23:38:43",
       "meetups": [
         {

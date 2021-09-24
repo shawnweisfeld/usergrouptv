@@ -10,11 +10,11 @@
   "abstract": "<p>In this talk Shawn will provide an overview of what Orchard is. We will demonstrate installing configuring and getting started with the platform. We will then look at the module eco system and how to add functionality and themes to your orchard site. We will look at the features of the package and see how the http://www.UserGroup.tv website was build atop this package.</p>",
   "description": "<p>In this talk Shawn will provide an overview of what Orchard is. We will demonstrate installing configuring and getting started with the platform. We will then look at the module eco system and how to add functionality and themes to your orchard site. We will look at the features of the package and see how the http://www.UserGroup.tv website was build atop this package.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/495139148_295x166.jpg"
+    "https://i.vimeocdn.com/video/495139148-acc2be83d89825d5876013120ff34de12412c6eb67117d298b9b5cb0714a315f-d_295x166"
   ],
   "vimeo": "110771397",
   "moreinfo": null,
-  "thumbnail": "https://i.vimeocdn.com/video/495139148_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/495139148-acc2be83d89825d5876013120ff34de12412c6eb67117d298b9b5cb0714a315f-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/110771397.hd.mp4?s=fada1601661b1f1603aaff8e413d591fd31cd0cb&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/110771397.sd.mp4?s=467af28188701d379e12a2eac90ba50622ede641&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 754,

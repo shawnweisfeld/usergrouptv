@@ -12,11 +12,11 @@
   "abstract": "Microsoft Docs are open source on Github! Join the SQL-Docs content team for a discussion on modern Microsoft documentation (regardless of technology). Learn about the content publishing engines behind Docs, and the best ways to add your content and fixes to Docs that are read by the entire customer community. There are hundreds of thousands of GitHub issues and PR’s submitted to Docs every month, how can you be an effective part of that process and get your face on the top of an article?",
   "description": "Microsoft Docs are open source on Github! Join the SQL-Docs content team for a discussion on modern Microsoft documentation (regardless of technology). Learn about the content publishing engines behind Docs, and the best ways to add your content and fixes to Docs that are read by the entire customer community. There are hundreds of thousands of GitHub issues and PR’s submitted to Docs every month, how can you be an effective part of that process and get your face on the top of an article?",
   "images": [
-    "https://i.vimeocdn.com/video/1120620236_295x166.jpg"
+    "https://i.vimeocdn.com/video/1120620236-eea7c4077eac4c114303958687e26a17cc1869792241d03b9d24258d0c61e8dd-d_295x166"
   ],
   "vimeo": "541283769",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/llgfgsyccgbbc/",
-  "thumbnail": "https://i.vimeocdn.com/video/1120620236_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/1120620236-eea7c4077eac4c114303958687e26a17cc1869792241d03b9d24258d0c61e8dd-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/541283769.hd.mp4?s=1eb0c038cb5262897de2b6b569d580c3ba9bf92e&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/541283769.sd.mp4?s=e0e826971cc6015ac5e8216fc68f50e43019a6ae&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 1066,

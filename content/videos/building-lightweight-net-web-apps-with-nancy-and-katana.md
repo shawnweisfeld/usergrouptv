@@ -11,11 +11,11 @@
   "abstract": "<p>While ASP.NET is a powerful and versatile web framework, sometimes it's just way more than you need to get the job done. Enter Nancy. Nancy is a lightweight, low-ceremony framework for building HTTP based services on .NET and Mono. And since it implements the OWIN standard, it can be hosted using Microsoft's new Katana host, inside or outside of IIS. In this session, we'll discuss how to get started with Nancy, from creating and bootstrapping a new application, to choosing from among the supported view engines, setting up authentication, to testing your modules end-to-end with Nancy's Browser testing client.</p>",
   "description": "<p>While ASP.NET is a powerful and versatile web framework, sometimes it's just way more than you need to get the job done. Enter Nancy. Nancy is a lightweight, low-ceremony framework for building HTTP based services on .NET and Mono. And since it implements the OWIN standard, it can be hosted using Microsoft's new Katana host, inside or outside of IIS. In this session, we'll discuss how to get started with Nancy, from creating and bootstrapping a new application, to choosing from among the supported view engines, setting up authentication, to testing your modules end-to-end with Nancy's Browser testing client.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/489180541_295x166.jpg"
+    "https://i.vimeocdn.com/video/489180541-e0662bd4d6f6e65281e54f908c0800aa59c647ed84ef05f013002660d1d5fce7-d_295x166"
   ],
   "vimeo": "106165859",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#0515",
-  "thumbnail": "https://i.vimeocdn.com/video/489180541_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/489180541-e0662bd4d6f6e65281e54f908c0800aa59c647ed84ef05f013002660d1d5fce7-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/106165859.hd.mp4?s=8d3115ada8f8c431dcde9d187c4fb63de3a7c806&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/106165859.sd.mp4?s=e82b2853aec869b4c925d57684d767bb16e90923&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 970,

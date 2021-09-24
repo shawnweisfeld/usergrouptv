@@ -12,7 +12,7 @@
     {
       "title": "SQL Scripting",
       "slug": "sql-scripting",
-      "thumbnail": "https://i.vimeocdn.com/video/490859944_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/490859944-64b63686f2aaa6830f5ac861ed3afefe481f03d0b76ff063718bc890bc7c472d-d_295x166",
       "date": "2014-09-26T19:03:43",
       "meetups": [
         {

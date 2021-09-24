@@ -10,11 +10,11 @@
   "abstract": "<p>When considering how to build iOS and Android applications, many people think that the native languages, Objective-C, Swift, and Java, are the only choice. However, over the past few years, an entirely new ecosystem of platforms for building mobile applications has emerged. Xamarin is unique in this space by offering .NET languages ? C# and F#, class library, and runtime that works across all three mobile platforms of iOS, Android, and Windows Phone (Windows Phone?s native language is already C#), while still compiling native (non-interpreted) applications that are performant enough even for demanding games. </p>",
   "description": "<p>When considering how to build iOS and Android applications, many people think that the native languages, Objective-C, Swift, and Java, are the only choice. However, over the past few years, an entirely new ecosystem of platforms for building mobile applications has emerged. Xamarin is unique in this space by offering .NET languages ? C# and F#, class library, and runtime that works across all three mobile platforms of iOS, Android, and Windows Phone (Windows Phone?s native language is already C#), while still compiling native (non-interpreted) applications that are performant enough even for demanding games. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/650402311_295x166.jpg"
+    "https://i.vimeocdn.com/video/650402311-881bf461d93899390c41f2e5839cae5482747d2f2939d7ef8a1cfb520aa0c061-d_295x166"
   ],
   "vimeo": "229955760",
   "moreinfo": "http://techfests.com/Tulsa/2017/Speakers/SeanSparkman/default.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/650402311_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/650402311-881bf461d93899390c41f2e5839cae5482747d2f2939d7ef8a1cfb520aa0c061-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/229955760.hd.mp4?s=1487d8c93e88ce45cdde02dcb7dedcb608024c6b&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/229955760.sd.mp4?s=59ba96742f40b3d6af4e0ba9c3d0e235ce1e8351&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 44,

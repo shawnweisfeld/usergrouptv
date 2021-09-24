@@ -10,11 +10,11 @@
   "abstract": "<p>I know that your app needs to move data between the client and server. It doesn?t matter if it is a jQuery call in a web app, or a WebRequest call from .NET we need an easy way to build services that expose our data. The ASP.NET Web API (http://www.asp.net/web-api) framework makes it super easy to expose xml and json services. In this session we will introduce this framework and give you all the information you need to get started using it.</p>",
   "description": "<p>I know that your app needs to move data between the client and server. It doesn?t matter if it is a jQuery call in a web app, or a WebRequest call from .NET we need an easy way to build services that expose our data. The ASP.NET Web API (http://www.asp.net/web-api) framework makes it super easy to expose xml and json services. In this session we will introduce this framework and give you all the information you need to get started using it.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/485963785_295x166.jpg"
+    "https://i.vimeocdn.com/video/485963785-74683c3ee654a05959e92193d23fc5b819df4cdadb95f39c16a40be839fd70d5-d_295x166"
   ],
   "vimeo": "103661446",
   "moreinfo": "http://techfests.com/Tulsa/2012/default.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/485963785_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/485963785-74683c3ee654a05959e92193d23fc5b819df4cdadb95f39c16a40be839fd70d5-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/103661446.hd.mp4?s=02389972becf4f5e380577f90fbaeb5f362c39d5&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/103661446.sd.mp4?s=3f8bfce3bea5e36fcd7d6b8d5e7ad38476358503&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 632,

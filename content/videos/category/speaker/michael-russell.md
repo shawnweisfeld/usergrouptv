@@ -12,7 +12,7 @@
     {
       "title": "Sitefinity for Non-Profits",
       "slug": "sitefinity-for-non-profits",
-      "thumbnail": "https://i.vimeocdn.com/video/494263517_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/494263517-9cfb435805dc4532454f538344631589900cac17137304af0a9e1d8204b64758-d_295x166",
       "date": "2011-10-22T23:20:14",
       "meetups": [
         {

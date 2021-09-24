@@ -10,11 +10,11 @@
   "abstract": "<p>Proprietary protocols are out, openness is in. If your building applications today you want to talk to a large range of devices and you want to do it in HTTP, the language of the web. Microsoft has been getting serious about enabling you to do that with a new offering called WCF Web API. In this talk we'll look at how you can build nice friendly, light services over HTTP. We'll show you how you can take JSON further than you thought possible in the framework. And we'll talk about how you can build secure services.</p>",
   "description": "<p>Proprietary protocols are out, openness is in. If your building applications today you want to talk to a large range of devices and you want to do it in HTTP, the language of the web. Microsoft has been getting serious about enabling you to do that with a new offering called WCF Web API. In this talk we'll look at how you can build nice friendly, light services over HTTP. We'll show you how you can take JSON further than you thought possible in the framework. And we'll talk about how you can build secure services.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/495141869_295x166.jpg"
+    "https://i.vimeocdn.com/video/495141869-3eced6e80dc5e47c9d67cd5e3b436f2d74cb687eafcd604cc8eba3b00bec0356-d_295x166"
   ],
   "vimeo": "110773422",
   "moreinfo": "http://techfests.com/Tulsa/2011/default.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/495141869_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/495141869-3eced6e80dc5e47c9d67cd5e3b436f2d74cb687eafcd604cc8eba3b00bec0356-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/110773422.hd.mp4?s=77e6886364e2e209e6920f306a1895ec5950068a&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/110773422.sd.mp4?s=50a028c30a70d36ca9bc233f606f7997e8ab821f&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 759,

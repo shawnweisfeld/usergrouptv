@@ -10,11 +10,11 @@
   "abstract": "<p>The purpose of this presentation is to introduce an overview about code generation practices in project development. Code generation is an underused and misunderstood practice, which can be used with any technology and virtually any ideology, especially if your architecture follows a pattern. During this presentation, demonstrations of how to retrieve metadata and how to create your own object model will be shown. The demonstrations will showcase a variety of code generation tools and different technologies. His presentation emphasizes best practices and tips.</p>",
   "description": "<p>The purpose of this presentation is to introduce an overview about code generation practices in project development. Code generation is an underused and misunderstood practice, which can be used with any technology and virtually any ideology, especially if your architecture follows a pattern. During this presentation, demonstrations of how to retrieve metadata and how to create your own object model will be shown. The demonstrations will showcase a variety of code generation tools and different technologies. His presentation emphasizes best practices and tips.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/494184607_295x166.jpg"
+    "https://i.vimeocdn.com/video/494184607-9dd8b5f77a83f7c1bd63c2bbe1825315e7242837d571ec07443c47920dafe10e-d_295x166"
   ],
   "vimeo": "110068943",
   "moreinfo": "http://dallasasp.net/",
-  "thumbnail": "https://i.vimeocdn.com/video/494184607_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/494184607-9dd8b5f77a83f7c1bd63c2bbe1825315e7242837d571ec07443c47920dafe10e-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/110068943.hd.mp4?s=7de85b53ef5dde2634beb596d51f5442c84bbbb6&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/110068943.sd.mp4?s=0b85e890b56973bbf6ad50df2e915df03a5b8fb0&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 714,

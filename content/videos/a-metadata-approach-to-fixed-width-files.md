@@ -10,11 +10,11 @@
   "abstract": "<p>Face it, using SSIS to work with fixed width flat files is a pain.  The SSIS interface has you clicking around to mark each column. Then you use another interface to set each columns data types, etc.  And when you are done, you still need to document the file structure for your users.  What if you could simply document the file structure and then generate the ETL from the document? To demonstrate such an approach, I build an Excel file describing US census data that has more than 300 columns of fixed width data.  After demonstrating how this file communicates to business users, I will generate an SSIS package from that metadata using BIML Script.  Then I will also look at how you can generate a SQL Server bulk insert format file from the same metadata.  A small amount of C# code can generate quite a large extract.</p>",
   "description": "<p>Face it, using SSIS to work with fixed width flat files is a pain.  The SSIS interface has you clicking around to mark each column. Then you use another interface to set each columns data types, etc.  And when you are done, you still need to document the file structure for your users.  What if you could simply document the file structure and then generate the ETL from the document? To demonstrate such an approach, I build an Excel file describing US census data that has more than 300 columns of fixed width data.  After demonstrating how this file communicates to business users, I will generate an SSIS package from that metadata using BIML Script.  Then I will also look at how you can generate a SQL Server bulk insert format file from the same metadata.  A small amount of C# code can generate quite a large extract.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/854625067_295x166.jpg"
+    "https://i.vimeocdn.com/video/854625067-7181f2ed4161ccaba476a757568fb14a2616a0ec3e624536c3ea2b3eb396c1b1-d_295x166"
   ],
   "vimeo": "390485704",
   "moreinfo": "https://www.sqlsaturday.com/939/Sessions/Details.aspx?sid=101344",
-  "thumbnail": "https://i.vimeocdn.com/video/854625067_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/854625067-7181f2ed4161ccaba476a757568fb14a2616a0ec3e624536c3ea2b3eb396c1b1-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/390485704.hd.mp4?s=a79de678d59cb0a51f6c3fb81c5d6b625da4645c&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/390485704.sd.mp4?s=46425403c305feefa91942bc702d36dbc0c8ba4d&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 329,

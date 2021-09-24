@@ -12,7 +12,7 @@
     {
       "title": "Backlog Confessions - Technical User Stories",
       "slug": "backlog-confessions-technical-user-stories",
-      "thumbnail": "https://i.vimeocdn.com/video/703363477_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/703363477-9ba58f3575f63f554776da3875fdacb67b29c3fff55eef31e14fe42b367889ac-d_295x166",
       "date": "2018-05-24T16:55:02",
       "meetups": [
         {

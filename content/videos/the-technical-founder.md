@@ -10,11 +10,11 @@
   "abstract": "<p>During your tech career, at some point you're likely to want to try a startup. As a Technologist, you'll have lots of opportunities and the thrill and potential rewards are great. But while there's a lot of information around \"Startups\" in general, there can be an amazing lack of discussion around what it means to be a technical founder or co-founder. In this session, I'll go over some of the things I've witnessed myself as one of Microsoft's Startup Evangelists and a Startup Technical Founder and Co-Founder myself. Bring questions and your own observations, I'll make sure there will be plenty of time for Q&A as well.</p>",
   "description": "<p>During your tech career, at some point you're likely to want to try a startup. As a Technologist, you'll have lots of opportunities and the thrill and potential rewards are great. But while there's a lot of information around \"Startups\" in general, there can be an amazing lack of discussion around what it means to be a technical founder or co-founder. In this session, I'll go over some of the things I've witnessed myself as one of Microsoft's Startup Evangelists and a Startup Technical Founder and Co-Founder myself. Bring questions and your own observations, I'll make sure there will be plenty of time for Q&A as well.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/593959626_295x166.jpg"
+    "https://i.vimeocdn.com/video/593959626-735fdc6b5aeef15939cee24b3452c38736f4ff5abe3df2b9e7df09cbfe837140-d_295x166"
   ],
   "vimeo": "184505491",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
-  "thumbnail": "https://i.vimeocdn.com/video/593959626_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/593959626-735fdc6b5aeef15939cee24b3452c38736f4ff5abe3df2b9e7df09cbfe837140-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/184505491.hd.mp4?s=a814d9da1d6e94af3bd0457467ce38131a8e1386&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/184505491.sd.mp4?s=2517ee94eb427cd150f16dd778a841917b147d6a&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 166,

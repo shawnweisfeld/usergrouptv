@@ -10,11 +10,11 @@
   "abstract": "<p>Microsoft has provided some great tools for creating and editing SSIS packages. First Business Intelligence Development Studio (BIDS) then SQL Server Data Tools (SSDT). However, when creating an SSIS package you frequently repeat the same steps over and over. BIML is an XML markup language designed for representing the structure of an SSIS package. BIML Script takes that structure and generates an SSIS package.In this session we will use BIDS Helper to create a simple SSIS package using BIML. We will handle a couple SSIS scenarios with BIML and BIML Script. </p>",
   "description": "<p>Microsoft has provided some great tools for creating and editing SSIS packages. First Business Intelligence Development Studio (BIDS) then SQL Server Data Tools (SSDT). However, when creating an SSIS package you frequently repeat the same steps over and over. BIML is an XML markup language designed for representing the structure of an SSIS package. BIML Script takes that structure and generates an SSIS package.In this session we will use BIDS Helper to create a simple SSIS package using BIML. We will handle a couple SSIS scenarios with BIML and BIML Script. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/483488824_295x166.jpg"
+    "https://i.vimeocdn.com/video/483488824-570d600a8e2d19f2e6858f8ad50e10364e3cc4cc10fd4e967b62ac5828aeec26-d_295x166"
   ],
   "vimeo": "101659884",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=223&sessionid=14724",
-  "thumbnail": "https://i.vimeocdn.com/video/483488824_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/483488824-570d600a8e2d19f2e6858f8ad50e10364e3cc4cc10fd4e967b62ac5828aeec26-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/101659884.hd.mp4?s=244a28141017da90e62e985e15f67d634df0a44f&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/101659884.sd.mp4?s=4345773c0e30047c6b7fe515c740bf895df14dea&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 775,

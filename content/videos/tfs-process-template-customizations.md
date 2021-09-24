@@ -10,11 +10,11 @@
   "abstract": "<p>During this presentation you will learn about customizing the process configuration and work item templates for TFS 2013.</p><p>\r\nProcess Configuration </p><p>\r\nAreas covered will be configuring a backlog page, map metastates, assign fields used in agile planning, specify weekend days, and changing the color of a work item type.</p><p>\r\n</p><p>\r\nWork Item Template: Programmability</p><p>\r\nTFS work items do not allow scripting or code to run however there are dynamical capabilities such as rules, actions, and certain form controls that can be used to simplify or even automate activities in a work item. We will look closely at these capabilities and explore how they can be used</p>",
   "description": "<p>During this presentation you will learn about customizing the process configuration and work item templates for TFS 2013.</p><p>\r\nProcess Configuration </p><p>\r\nAreas covered will be configuring a backlog page, map metastates, assign fields used in agile planning, specify weekend days, and changing the color of a work item type.</p><p>\r\n</p><p>\r\nWork Item Template: Programmability</p><p>\r\nTFS work items do not allow scripting or code to run however there are dynamical capabilities such as rules, actions, and certain form controls that can be used to simplify or even automate activities in a work item. We will look closely at these capabilities and explore how they can be used</p>",
   "images": [
-    "https://i.vimeocdn.com/video/506118777_295x166.jpg"
+    "https://i.vimeocdn.com/video/506118777-36e546b0d12be253cbc3b4ded3ab579a2fc31d22e3585c413457f784725fc5a2-d_295x166"
   ],
   "vimeo": "118970992",
   "moreinfo": "https://sites.google.com/site/tfsaustinusergroup/project-updates/tfsprocesstemplatecustomizations",
-  "thumbnail": "https://i.vimeocdn.com/video/506118777_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/506118777-36e546b0d12be253cbc3b4ded3ab579a2fc31d22e3585c413457f784725fc5a2-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/118970992.hd.mp4?s=c16c88c2548f2103b4f43e91e04842d71adc1b8e&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/118970992.sd.mp4?s=5f0abeb027b53b74c3d69f75fba6afb216ee5611&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 823,

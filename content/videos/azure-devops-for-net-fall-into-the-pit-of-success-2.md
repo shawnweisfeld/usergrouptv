@@ -10,11 +10,11 @@
   "abstract": "<p>Azure DevOps Services and all of the automation involved for a complete DevOps environment can be daunting. In this talk, Jeffrey Palermo provides prescriptive guidance for developers to fall into the \"pit of success\" when creating automated DevOps pipelines for complex .NET apps targeting Azure.</p>",
   "description": "<p>Azure DevOps Services and all of the automation involved for a complete DevOps environment can be daunting. In this talk, Jeffrey Palermo provides prescriptive guidance for developers to fall into the \"pit of success\" when creating automated DevOps pipelines for complex .NET apps targeting Azure.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/910379644_295x166.jpg"
+    "https://i.vimeocdn.com/video/910379644-2893726670287147fa8eae21796013353d41268adb6d642a9846806db15ff1f0-d_295x166"
   ],
   "vimeo": "430009698",
   "moreinfo": "https://www.meetup.com/azureaustin/events/269301061/",
-  "thumbnail": "https://i.vimeocdn.com/video/910379644_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/910379644-2893726670287147fa8eae21796013353d41268adb6d642a9846806db15ff1f0-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/430009698.hd.mp4?s=1227c92894e307f460890356cdc78a79ca361278&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/430009698.sd.mp4?s=578341643758afa9705c3b3c367c3defa0c1349a&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 347,
@@ -37,7 +37,7 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 51
+      "count": 52
     }
   ]
 }

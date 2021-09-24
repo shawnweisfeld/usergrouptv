@@ -10,11 +10,11 @@
   "abstract": "<p>\r\nNode.js enables you to build fast, scalable applications in JavaScript. But out of the box, it doesn't include many of the convenient features modern web developers may be accustomed to. Sails.js aims to provide Ruby on Rails-level productivity for Node applications with features like scaffolding, a built-in ORM called Waterline, and easy support for real-time interaction. Come see how you can build apps for Node's cutting edge platform without giving up the features of your favorite web framework.</p>",
   "description": "<p>\r\nNode.js enables you to build fast, scalable applications in JavaScript. But out of the box, it doesn't include many of the convenient features modern web developers may be accustomed to. Sails.js aims to provide Ruby on Rails-level productivity for Node applications with features like scaffolding, a built-in ORM called Waterline, and easy support for real-time interaction. Come see how you can build apps for Node's cutting edge platform without giving up the features of your favorite web framework.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/482027486_295x166.jpg"
+    "https://i.vimeocdn.com/video/482027486-42f7e779f60559e87e5273e47edccb1de5eafa594361274c7eaf10d263e23311-d_295x166"
   ],
   "vimeo": "100516598",
   "moreinfo": "http://tulsaschoolofdev.com",
-  "thumbnail": "https://i.vimeocdn.com/video/482027486_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/482027486-42f7e779f60559e87e5273e47edccb1de5eafa594361274c7eaf10d263e23311-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/100516598.hd.mp4?s=b50e63526c1e56679111f17459d6cc10cfb2e6e4&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/100516598.sd.mp4?s=1c5711a37f8941211c797f43c8192c297c671061&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 915,

@@ -12,7 +12,7 @@
     {
       "title": "Windows 8 powered by Azure Mobile Services",
       "slug": "windows-8-powered-by-azure-mobile-services",
-      "thumbnail": "https://i.vimeocdn.com/video/485083169_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/485083169-49d1310e86472725d5031b7f9f4bf74d5e46f5eb2648592077563a649e97d304-d_295x166",
       "date": "2013-03-01T20:42:47",
       "meetups": [
         {
@@ -34,7 +34,7 @@
     {
       "title": "New in Windows 8 - Search and Share",
       "slug": "new-in-windows-8-search-and-share",
-      "thumbnail": "https://i.vimeocdn.com/video/488136265_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/488136265-59b5347fad230f7c70efaf0b12fbac57a5e194e571ce4407a5ad174310761ba9-d_295x166",
       "date": "2012-08-21T21:09:18",
       "meetups": [
         {

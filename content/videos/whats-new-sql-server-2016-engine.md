@@ -10,11 +10,11 @@
   "abstract": "<p>@SQLChicken aka Jorge Segarra will be in town and will speak about What is New in SQL Server 2016 (Database Engine)</p>",
   "description": "<p>@SQLChicken aka Jorge Segarra will be in town and will speak about What is New in SQL Server 2016 (Database Engine)</p>",
   "images": [
-    "https://i.vimeocdn.com/video/572507846_295x166.jpg"
+    "https://i.vimeocdn.com/video/572507846-4a65031e069625c1fe2d4ae0f16e3b3f5603eb18143a9ebf0b9f8852ed9b6988-d_295x166"
   ],
   "vimeo": "168072845",
   "moreinfo": "http://www.meetup.com/Austin-SQL-Server-User-Group/events/231314355/",
-  "thumbnail": "https://i.vimeocdn.com/video/572507846_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/572507846-4a65031e069625c1fe2d4ae0f16e3b3f5603eb18143a9ebf0b9f8852ed9b6988-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/168072845.hd.mp4?s=991df8d328f28076c35b9387232f2feaab6508cf&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/168072845.sd.mp4?s=2696b9b9f6f4550b6bbb1061b444795eecddd5fd&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 518,

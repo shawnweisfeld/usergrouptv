@@ -12,7 +12,7 @@
     {
       "title": "Sugar & Spice and everything nice about ES6 ",
       "slug": "sugar-spice-and-everything-nice-about-es6",
-      "thumbnail": "https://i.vimeocdn.com/video/540280587_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/540280587-252eafe6847eb3e4adbc5fc3a1e99d063923d639994c352958c66675e0b64a0d-d_295x166",
       "date": "2015-10-16T02:02:53",
       "meetups": [
         {

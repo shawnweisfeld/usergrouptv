@@ -12,7 +12,7 @@
     {
       "title": "The new Xamarin",
       "slug": "the-new-xamarin",
-      "thumbnail": "https://i.vimeocdn.com/video/568521561_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/568521561-d4474260181f084a8b3b59a2f98dcb0457954a6c430bb04253d8b106b451f47d-d_295x166",
       "date": "2016-04-20T10:52:36",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": ".NET Cross Platform Development Strategy for Mobile, Cloud and Desktop Apps ",
       "slug": "net-cross-platform-development-strategy-for-mobile-cloud-and-desktop-apps",
-      "thumbnail": "https://i.vimeocdn.com/video/482000272_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/482000272-368dd4e73ca87369eb70ee074f10b1d5c2c82c1c25bbb3a806a5f29924013a61-d_295x166",
       "date": "2014-06-09T10:49:16",
       "meetups": [
         {

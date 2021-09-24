@@ -10,11 +10,11 @@
   "abstract": "<p>You are responsible for the health and welfare of the servers, and the databases under your command. What should you check daily? How about weekly? Should you automate? We will discuss all these things, and how having a Daily Checklist, and monitoring your server will help you maintain balance in the galaxy.</p>",
   "description": "<p>You are responsible for the health and welfare of the servers, and the databases under your command. What should you check daily? How about weekly? Should you automate? We will discuss all these things, and how having a Daily Checklist, and monitoring your server will help you maintain balance in the galaxy.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/561392072_295x166.jpg"
+    "https://i.vimeocdn.com/video/561392072-a8a4d429119f00839cb29b3037b29c0bf13ec2a87766a6e5ff80e9c1f4b18664-d_295x166"
   ],
   "vimeo": "159605493",
   "moreinfo": "http://cactuss.sqlpass.org/Home.aspx?EventID=4561",
-  "thumbnail": "https://i.vimeocdn.com/video/561392072_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/561392072-a8a4d429119f00839cb29b3037b29c0bf13ec2a87766a6e5ff80e9c1f4b18664-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/159605493.hd.mp4?s=dd4be2f4c9866f51ab0634cec2c046cf227b6f9d&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/159605493.sd.mp4?s=4773cdae48a11763c804e44154a4eb2b1d17b465&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 845,

@@ -10,11 +10,11 @@
   "abstract": "<p>Node.js seems to have taken hold in the last couple of years and provided a new class of web applications to take root. In this talk we will go over what and why people are using Node.js as well as an introduction to get you started using Node.js today.</p>",
   "description": "<p>Node.js seems to have taken hold in the last couple of years and provided a new class of web applications to take root. In this talk we will go over what and why people are using Node.js as well as an introduction to get you started using Node.js today.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/485963724_295x166.jpg"
+    "https://i.vimeocdn.com/video/485963724-132bda2764a61955f954540cab4acceb49c988b2b36a84d1ea6efb7b98611254-d_295x166"
   ],
   "vimeo": "103661386",
   "moreinfo": "http://techfests.com/Tulsa/2012/default.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/485963724_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/485963724-132bda2764a61955f954540cab4acceb49c988b2b36a84d1ea6efb7b98611254-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/103661386.hd.mp4?s=f7306b963aae0eae8a28f8c73a8d66400729f0d8&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/103661386.sd.mp4?s=131db3997212c4b819e1e31388f606933c59bc2f&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 631,

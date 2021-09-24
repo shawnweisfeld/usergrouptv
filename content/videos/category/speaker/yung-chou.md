@@ -12,7 +12,7 @@
     {
       "title": "Microsoft Azure Fundamentals: Compute, Network, Storage, Identity and Automation",
       "slug": "microsoft-azure-fundamentals-compute-network-storage-identity-and-automation",
-      "thumbnail": "https://i.vimeocdn.com/video/594173211_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/594173211-38eb03bb512381c9642b7ed67baf9cf775cc104c6dffe1bda9f615f6a4d414f5-d_295x166",
       "date": "2016-09-24T20:00:29",
       "meetups": [
         {

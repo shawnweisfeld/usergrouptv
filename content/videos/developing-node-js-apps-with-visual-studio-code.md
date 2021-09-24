@@ -10,11 +10,11 @@
   "abstract": "<p>Learn why Visual Studio Code is one of the best code editors around, especially for node.js development! We'll build a simple REST API with node.js and hapi, This is a great introduction for developers who want to learn more about server-side Javascript and APIs.</p>",
   "description": "<p>Learn why Visual Studio Code is one of the best code editors around, especially for node.js development! We'll build a simple REST API with node.js and hapi, This is a great introduction for developers who want to learn more about server-side Javascript and APIs.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/567149928_295x166.jpg"
+    "https://i.vimeocdn.com/video/567149928-e96e611322bcf3ff731e261b650738d53ec1cb5f6956f7805f127a27f05ac7b7-d_295x166"
   ],
   "vimeo": "163708603",
   "moreinfo": "http://www.meetup.com/ATX-MSFT-Devs/events/229034129/",
-  "thumbnail": "https://i.vimeocdn.com/video/567149928_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/567149928-e96e611322bcf3ff731e261b650738d53ec1cb5f6956f7805f127a27f05ac7b7-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/163708603.hd.mp4?s=c8051c3badb20784de3393631668e82dd41d9674&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/163708603.sd.mp4?s=b0dcf59098baa75f8b643c0c51c5143e63da9532&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 854,

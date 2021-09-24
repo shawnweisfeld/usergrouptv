@@ -12,7 +12,7 @@
     {
       "title": "Top 10 things that every web developer needs to know about Visual Studio 2012",
       "slug": "top-10-things-that-every-web-developer-needs-to-know-about-visual-studio-2012",
-      "thumbnail": "https://i.vimeocdn.com/video/487541828_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/487541828-86f961c588db1c0ae4cb71ac11ce6739c311bf232ea9ef9cc5d680af7df21361-d_295x166",
       "date": "2012-09-25T15:17:04",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "What's New With Windows Azure?",
       "slug": "whats-new-with-windows-azure",
-      "thumbnail": "https://i.vimeocdn.com/video/488223137_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/488223137-fe709c06c15ca9b6e426b205ee3f516904611094cd95cf7d42c035250a00594a-d_295x166",
       "date": "2012-07-24T15:40:10",
       "meetups": [
         {

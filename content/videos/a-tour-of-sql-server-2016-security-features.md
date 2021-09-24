@@ -10,11 +10,11 @@
   "abstract": "<p>Protecting our data from unauthorized access becomes more and more important all the time. SQL Server includes a number of features that make data protection and security easier for developers and DBAs with a framework for protecting data. Come learn how Always Encrypted, TDE, Row Level Security, Dynamic Data Masking, and column level encryption can protect your systems.\r\n</p>",
   "description": "<p>Protecting our data from unauthorized access becomes more and more important all the time. SQL Server includes a number of features that make data protection and security easier for developers and DBAs with a framework for protecting data. Come learn how Always Encrypted, TDE, Row Level Security, Dynamic Data Masking, and column level encryption can protect your systems.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/719305446_295x166.jpg"
+    "https://i.vimeocdn.com/video/719305446-b6f22a9c93a8b8fb68fe4a4c7b915a50d332fcaae7ab13d869d250a40730cee7-d_295x166"
   ],
   "vimeo": "284778804",
   "moreinfo": "http://www.sqlsaturday.com/749/Sessions/Details.aspx?sid=83163",
-  "thumbnail": "https://i.vimeocdn.com/video/719305446_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/719305446-b6f22a9c93a8b8fb68fe4a4c7b915a50d332fcaae7ab13d869d250a40730cee7-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/284778804.hd.mp4?s=0355aa147550f9282a58c97b7b6876627a796e71&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/284778804.sd.mp4?s=95cf8f893d488446a7d29118415012b19c7c4345&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 413,

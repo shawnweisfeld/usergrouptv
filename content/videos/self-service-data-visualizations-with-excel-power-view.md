@@ -10,11 +10,11 @@
   "abstract": "<p>In this session, we will continue your Power BI journey and discuss the compelling visualization capabilities of Excel Power View. You will learn just how easy it is to create presentation-ready visualizations and tell an interactive story with your data. If you are intrigued by what capabilities you can unlock with Power BI, then come learn how you can leverage Power View to enhance your analytics experience and maximize value for your organization.</p>",
   "description": "<p>In this session, we will continue your Power BI journey and discuss the compelling visualization capabilities of Excel Power View. You will learn just how easy it is to create presentation-ready visualizations and tell an interactive story with your data. If you are intrigued by what capabilities you can unlock with Power BI, then come learn how you can leverage Power View to enhance your analytics experience and maximize value for your organization.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/482637779_295x166.jpg"
+    "https://i.vimeocdn.com/video/482637779-1794fc4a8f6fadee40caf217ac57314cf3f27a0a728cac9be41e1ab57ce4a8eb-d_295x166"
   ],
   "vimeo": "100978913",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=305&sessionid=21962",
-  "thumbnail": "https://i.vimeocdn.com/video/482637779_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/482637779-1794fc4a8f6fadee40caf217ac57314cf3f27a0a728cac9be41e1ab57ce4a8eb-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/100978913.hd.mp4?s=52ca671545ad5ae548081a78568b924135e920bc&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/100978913.sd.mp4?s=90a3a6b08f9c245ec25c883290971c3a9e9afb3f&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 903,

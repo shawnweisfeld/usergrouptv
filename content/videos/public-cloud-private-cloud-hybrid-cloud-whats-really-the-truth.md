@@ -10,11 +10,11 @@
   "abstract": "<p>In this session we will demo the new Office 365. We will show you what the new Microsoft Data Centers are like Inside, why they are 71% more efficient with Power, due to heat and cooling handling. We will also look at Windows Azure, Microsoft&rsquo;s Platform as a service. How can you leverage Windows Azure to have your application hosted in the Public cloud. We will then look at the Private Cloud offerings that Microsoft has with System Center 2012. How can you take advantage of the Cloud technologies in your own data center. If you aren&rsquo;t ready for Cloud yet, what can you be doing today to prepare for the Cloud in the future?</p>",
   "description": "<p>In this session we will demo the new Office 365. We will show you what the new Microsoft Data Centers are like Inside, why they are 71% more efficient with Power, due to heat and cooling handling. We will also look at Windows Azure, Microsoft&rsquo;s Platform as a service. How can you leverage Windows Azure to have your application hosted in the Public cloud. We will then look at the Private Cloud offerings that Microsoft has with System Center 2012. How can you take advantage of the Cloud technologies in your own data center. If you aren&rsquo;t ready for Cloud yet, what can you be doing today to prepare for the Cloud in the future?</p>",
   "images": [
-    "https://i.vimeocdn.com/video/495920372_295x166.jpg"
+    "https://i.vimeocdn.com/video/495920372-24e6e56cd318a0ab82e7a53a9016f4d2219ca07b04363ff47441502f3870cf94-d_295x166"
   ],
   "vimeo": "111339410",
   "moreinfo": "http://dallastechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/495920372_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/495920372-24e6e56cd318a0ab82e7a53a9016f4d2219ca07b04363ff47441502f3870cf94-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/111339410.hd.mp4?s=db6a0ab6210733e18d8f58a02105952f37462837&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/111339410.sd.mp4?s=21200f139d46f0cc0a4e224f40c8d72033b6d54f&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 671,

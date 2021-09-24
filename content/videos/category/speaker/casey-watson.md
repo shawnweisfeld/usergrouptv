@@ -12,7 +12,7 @@
     {
       "title": "A Tale of Two Clouds: Building An App Across AWS and Azure",
       "slug": "a-tale-of-two-clouds-building-an-app-across-aws-and-azure",
-      "thumbnail": "https://i.vimeocdn.com/video/650163309_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/650163309-d96eeb48704a697a08b34505afc09906dd92c41fb732806228d86349c27cd926-d_295x166",
       "date": "2017-07-20T14:05:46",
       "meetups": [
         {
@@ -34,7 +34,7 @@
     {
       "title": "Building Highly Scalable Applications with Windows Azure",
       "slug": "building-highly-scalable-applications-with-windows-azure-2",
-      "thumbnail": "https://i.vimeocdn.com/video/481936088_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/481936088-2dfca9fa95060f982b0464b12cd756119b79d9a7244987b766250ad6b507601f-d_295x166",
       "date": "2014-06-14T11:08:07",
       "meetups": [
         {
@@ -52,7 +52,7 @@
     {
       "title": "Building Highly Scalable Applications with Windows Azure",
       "slug": "building-highly-scalable-applications-with-windows-azure",
-      "thumbnail": "https://i.vimeocdn.com/video/482640602_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/482640602-c1a645dc9f8bf5ea6a2f55e76cba700e179a7f2858e93f3a4fca760d8963562d-d_295x166",
       "date": "2014-03-13T18:59:50",
       "meetups": [
         {
@@ -70,7 +70,7 @@
     {
       "title": "An Introduction to Azure Cloud Storage",
       "slug": "an-introduction-to-azure-cloud-storage",
-      "thumbnail": "https://i.vimeocdn.com/video/486706550_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/486706550-62d53e688547ce945922961cfdd323145a19a0650f38244a1e8a9d1e3083ac9e-d_295x166",
       "date": "2012-10-03T15:21:14",
       "meetups": [
         {
@@ -92,7 +92,7 @@
     {
       "title": "Simplifying Package Management with NuGet",
       "slug": "simplifying-package-management-with-nuget",
-      "thumbnail": "https://i.vimeocdn.com/video/491651148_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/491651148-104624c0d3e5e85350374df5ffd15f69b1585d0fd0dffcccbdce401ca90ecccc-d_295x166",
       "date": "2012-05-15T11:09:37",
       "meetups": [
         {
@@ -110,7 +110,7 @@
     {
       "title": "Nuget",
       "slug": "nuget",
-      "thumbnail": "https://i.vimeocdn.com/video/498384880_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/498384880-4da63ec8d31fb102a827318afcea2110ea0307e2460c6dfc5d86721844d82018-d_295x166",
       "date": "2011-07-13T19:34:43",
       "meetups": [
         {

@@ -10,11 +10,11 @@
   "abstract": "Object Relational Mapping technologies, including the Entity Framework can drastically simplify the programming model against databases, but when done carelessly, performance can suffer. In this session, we'll explore some real-life strategies that have solved performance issues in production applications that I have encountered at a variety of customers.",
   "description": "Object Relational Mapping technologies, including the Entity Framework can drastically simplify the programming model against databases, but when done carelessly, performance can suffer. In this session, we'll explore some real-life strategies that have solved performance issues in production applications that I have encountered at a variety of customers.",
   "images": [
-    "https://i.vimeocdn.com/video/1175041310_295x166"
+    "https://i.vimeocdn.com/video/1175041310-73a82bc8959cfbb17fed600f052802532fe51afae84eec46729874ae673eb4c1-d_295x166"
   ],
   "vimeo": "568174958",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/278287622/",
-  "thumbnail": "https://i.vimeocdn.com/video/1175041310_295x166",
+  "thumbnail": "https://i.vimeocdn.com/video/1175041310-73a82bc8959cfbb17fed600f052802532fe51afae84eec46729874ae673eb4c1-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/568174958.hd.mp4?s=469fb60cf91527591ff366ee93f1f00976483fbf&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/568174958.sd.mp4?s=4bb572c26d4398203fe43e62bdee689fce7023e5&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 1074,

@@ -12,7 +12,7 @@
     {
       "title": "Continuous Testing With React, Storybook, and WebdriverIO",
       "slug": "continuous-testing-with-react-storybook-and-webdriverio",
-      "thumbnail": "https://i.vimeocdn.com/video/660062710_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/660062710-7a2e27ce8fe7ae2b50e89085723fa8f712de4bcd94e7bfe3ae1efed7531cf889-d_295x166",
       "date": "2017-10-06T22:29:44",
       "meetups": [
         {

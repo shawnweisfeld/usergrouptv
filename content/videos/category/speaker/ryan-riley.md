@@ -12,7 +12,7 @@
     {
       "title": "Building composable web applications",
       "slug": "building-composable-web-applications",
-      "thumbnail": "https://i.vimeocdn.com/video/487544326_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/487544326-15be2f29fb033af25d458c52c7fedffe53a7ae2372ac34a900d855ad0d02abd1-d_295x166",
       "date": "2012-09-08T00:51:39",
       "meetups": [
         {

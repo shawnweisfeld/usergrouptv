@@ -10,11 +10,11 @@
   "abstract": "<p>So, you want to play with SQL server and/or Windows Server but you don't have extra hardware lying around. In this session I'll go over creating the necessary virtual networking and virtual machines to allow you to do this and protect your local network from possible harm.</p>",
   "description": "<p>So, you want to play with SQL server and/or Windows Server but you don't have extra hardware lying around. In this session I'll go over creating the necessary virtual networking and virtual machines to allow you to do this and protect your local network from possible harm.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/842319677_295x166.jpg"
+    "https://i.vimeocdn.com/video/842319677-17c7d798238caec91735d1ebc9a787a5ba47dfaa50185c4080f5b2967b0b1be4-d_295x166"
   ],
   "vimeo": "381545005",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/pttzvqyzqbwb/",
-  "thumbnail": "https://i.vimeocdn.com/video/842319677_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/842319677-17c7d798238caec91735d1ebc9a787a5ba47dfaa50185c4080f5b2967b0b1be4-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/381545005.hd.mp4?s=5719960ce693b19d0390858b6b65a7c9cc72ac9c&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/381545005.sd.mp4?s=d8bd4443cd211f34de8bd5a4386785fff2fc585b&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 382,

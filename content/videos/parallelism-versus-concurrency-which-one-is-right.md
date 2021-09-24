@@ -11,11 +11,11 @@
   "abstract": "<p>\r\nHaving trouble understanding what the differences are between concurrency and parallelism?  You are not the only one. \r\n</p><p>\r\nI will walk through multiple use cases showing you when use to each one, and also the tooling that supports each.\r\n</p>",
   "description": "<p>\r\nHaving trouble understanding what the differences are between concurrency and parallelism?  You are not the only one. \r\n</p><p>\r\nI will walk through multiple use cases showing you when use to each one, and also the tooling that supports each.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/483485096_295x166.jpg"
+    "https://i.vimeocdn.com/video/483485096-ed060be26892e1339eb2a9151e9b32035664bc781b22b362c52e9c6133e03d0f-d_295x166"
   ],
   "vimeo": "101657382",
   "moreinfo": "http://www.houstontechfest.org/Lists/ScheduleInfo/DispForm.aspx?ID=68&Source=http%3A%2F%2Fwww%2Ehoustontechfest%2Eorg%2FSitePages%2FTabbedSchedule%2Easpx",
-  "thumbnail": "https://i.vimeocdn.com/video/483485096_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/483485096-ed060be26892e1339eb2a9151e9b32035664bc781b22b362c52e9c6133e03d0f-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/101657382.hd.mp4?s=84054b5c9ce59842a722c1a3d1b9211fa7b06153&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/101657382.sd.mp4?s=3967d6fd2ddca3389e131373a9d64172b1b75f42&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 950,

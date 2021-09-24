@@ -10,11 +10,11 @@
   "abstract": "<p>Whether developing a small customization or a large enterprise solution, one goal is to minimize redundancy in Code. Using LINQ to SharePoint we can create Business models that can be easily shared between SharePoint projects and other internal projects. By combining the business model with the MVP pattern we can pass and bind our data easily between views and testing.</p>\r\n<p>* In this discussion I will be talking about the MVP design pattern and how it is used in SharePoint. After the overview of the design pattern I will demonstrate LINQ to SharePoint and how to create business models that can be reused easily between other ASP or C# application. This will include generic models and custom models which gives versatility. By combining the model and patterns, the end result is an efficient queries, and quick response times.</p>",
   "description": "<p>Whether developing a small customization or a large enterprise solution, one goal is to minimize redundancy in Code. Using LINQ to SharePoint we can create Business models that can be easily shared between SharePoint projects and other internal projects. By combining the business model with the MVP pattern we can pass and bind our data easily between views and testing.</p>\r\n<p>* In this discussion I will be talking about the MVP design pattern and how it is used in SharePoint. After the overview of the design pattern I will demonstrate LINQ to SharePoint and how to create business models that can be reused easily between other ASP or C# application. This will include generic models and custom models which gives versatility. By combining the model and patterns, the end result is an efficient queries, and quick response times.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/489179832_295x166.jpg"
+    "https://i.vimeocdn.com/video/489179832-4265ab92e68ff1542f5ddd3cdb3996e2a3a8fe733eaa0742a98a6dbb2e28d3e9-d_295x166"
   ],
   "vimeo": "106165280",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#0415",
-  "thumbnail": "https://i.vimeocdn.com/video/489179832_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/489179832-4265ab92e68ff1542f5ddd3cdb3996e2a3a8fe733eaa0742a98a6dbb2e28d3e9-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/106165280.hd.mp4?s=b841c5fa71d22f5e3672d4f7c9b909f705deabcd&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/106165280.sd.mp4?s=fe6ed4885e27f7af456a4d67e340bf369cab84e6&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 969,

@@ -12,7 +12,7 @@
     {
       "title": "An Entry Guide into Data Science",
       "slug": "an-entry-guide-into-data-science",
-      "thumbnail": "https://i.vimeocdn.com/video/767166080_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/767166080-188d9a8bbe280f4fd2885d20f6cb1006df0898270e28c091d975756a5e679c40-d_295x166",
       "date": "2019-03-13T15:44:36",
       "meetups": [
         {

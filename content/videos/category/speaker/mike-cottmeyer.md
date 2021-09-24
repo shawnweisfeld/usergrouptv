@@ -12,7 +12,7 @@
     {
       "title": "Faster Food and a Better Place to Sleep: Applying Agile Outside Software",
       "slug": "faster-food-and-a-better-place-to-sleep-applying-agile-outside-software",
-      "thumbnail": "https://i.vimeocdn.com/video/703347369_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/703347369-1ab837ff0caf47c6cb7148f6265e24a7bc31b1fe0fab3b06c8ad1ed0d8565147-d_295x166",
       "date": "2018-05-24T16:52:00",
       "meetups": [
         {

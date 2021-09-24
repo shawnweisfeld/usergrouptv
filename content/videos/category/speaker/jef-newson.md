@@ -12,7 +12,7 @@
     {
       "title": "Keynote: The Future of Agile",
       "slug": "keynote-the-future-of-agile",
-      "thumbnail": "https://i.vimeocdn.com/video/501051483_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/501051483-1ef29e13943838b598aac0df69866a430c89742f0f09d3680056e70eec4e9b00-d_295x166",
       "date": "2011-02-25T00:44:44",
       "meetups": [
         {

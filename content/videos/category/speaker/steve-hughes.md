@@ -12,7 +12,7 @@
     {
       "title": "Cosmos DB for the Data Professional",
       "slug": "cosmos-db-for-the-data-professional",
-      "thumbnail": "https://i.vimeocdn.com/video/709501208_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/709501208-203ca5959fddd01e0d35896867bb6951a6137515288209a99dce54d04d4ebcb7-d_295x166",
       "date": "2018-06-23T20:01:12",
       "meetups": [
         {

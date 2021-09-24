@@ -11,7 +11,7 @@
     {
       "title": "Build a Big Data .Net MVC App in 30 mins - SODA.net",
       "slug": "build-a-big-data-net-mvc-app-in-30-mins-soda-net",
-      "thumbnail": "https://i.vimeocdn.com/video/660634153_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/660634153-00c5afe33efc171a51580b78c3250b56adfd99b4a4807053db4d2402fc539cd6-d_295x166",
       "date": "2017-10-06T16:13:09",
       "meetups": [
         {

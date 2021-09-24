@@ -10,11 +10,11 @@
   "abstract": "<p>Interactive session with cover key aspects of defining, explaining its Best Practices, Problems and Conclusion regarding this innovative approach.</p>",
   "description": "<p>Interactive session with cover key aspects of defining, explaining its Best Practices, Problems and Conclusion regarding this innovative approach.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/719306991_295x166.jpg"
+    "https://i.vimeocdn.com/video/719306991-0ac26f5a8e0b5b3eba3f2cf3a6cfa83291d10b6dc9246b15fbbaaceced82e14a-d_295x166"
   ],
   "vimeo": "284780126",
   "moreinfo": "http://www.sqlsaturday.com/749/Sessions/Details.aspx?sid=83065",
-  "thumbnail": "https://i.vimeocdn.com/video/719306991_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/719306991-0ac26f5a8e0b5b3eba3f2cf3a6cfa83291d10b6dc9246b15fbbaaceced82e14a-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/284780126.hd.mp4?s=6a50e362fbd5ca1c04f17d4ebb37b572eb16be2c&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/284780126.sd.mp4?s=ebf906206341400e74d1cfed1a575009e9ba6dcc&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 417,

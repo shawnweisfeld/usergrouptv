@@ -10,11 +10,11 @@
   "abstract": "<p>Learning how to be a good craftsmen of software takes time, its about using the tools, and the experience you’ve developed to ensure you are creating quality code. Come and learn from Devlin Liles and Tim Rayburn some of the skills that they’ve learned through the school of hard knocks, and hopefully you can learn from them without as much pain.</p>",
   "description": "<p>Learning how to be a good craftsmen of software takes time, its about using the tools, and the experience you’ve developed to ensure you are creating quality code. Come and learn from Devlin Liles and Tim Rayburn some of the skills that they’ve learned through the school of hard knocks, and hopefully you can learn from them without as much pain.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/483486884_295x166.jpg"
+    "https://i.vimeocdn.com/video/483486884-a1bfe5dc89c4a97e67678b4fb8ae9809d9bd04dcdc831b663b9bb28e457a1e78-d_295x166"
   ],
   "vimeo": "101658627",
   "moreinfo": "http://www.houstontechfest.org/Lists/ScheduleInfo/DispForm.aspx?ID=60&Source=http%3A%2F%2Fwww%2Ehoustontechfest%2Eorg%2FSitePages%2FTabbedSchedule%2Easpx",
-  "thumbnail": "https://i.vimeocdn.com/video/483486884_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/483486884-a1bfe5dc89c4a97e67678b4fb8ae9809d9bd04dcdc831b663b9bb28e457a1e78-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/101658627.hd.mp4?s=4fc20524191b5bc11724c0a8c3434d9660e023e9&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/101658627.sd.mp4?s=8336d161796a7d9fec76fa06970619268e6c5021&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 949,

@@ -11,11 +11,11 @@
   "abstract": "<p>This meeting will focus on the Silverlight-HTML Bridge (JavaScript). We'll look at leveraging Silverlight user controls in an MVC 3 web application with jQuery. We'll see how to communicate between Silverlight and the browser in several different ways. The following list contains just a few reasons why we would want to use this often overlooked technology.</p>\r\n<ul>\r\n<li>Use Existing Rich Silverlight Controls</li>\r\n<li>Share HTML and Silverlight Data using jQuery Web Service Calls</li>\r\n<li>Continue to Develop Rich Web Applications in Compiled C#</li>\r\n<li>Extend Silverlight using HTML Popup Windows</li>\r\n<li>Incrementally Move to HTML 5 and CSS3</li>\r\n</ul>",
   "description": "<p>This meeting will focus on the Silverlight-HTML Bridge (JavaScript). We'll look at leveraging Silverlight user controls in an MVC 3 web application with jQuery. We'll see how to communicate between Silverlight and the browser in several different ways. The following list contains just a few reasons why we would want to use this often overlooked technology.</p>\r\n<ul>\r\n<li>Use Existing Rich Silverlight Controls</li>\r\n<li>Share HTML and Silverlight Data using jQuery Web Service Calls</li>\r\n<li>Continue to Develop Rich Web Applications in Compiled C#</li>\r\n<li>Extend Silverlight using HTML Popup Windows</li>\r\n<li>Incrementally Move to HTML 5 and CSS3</li>\r\n</ul>",
   "images": [
-    "https://i.vimeocdn.com/video/507718286_295x166.jpg"
+    "https://i.vimeocdn.com/video/507718286-b755e4805f6c4113f96f2e882bc566ad02216f6f4aa441dcf96321e4fd1757be-d_295x166"
   ],
   "vimeo": "120047750",
   "moreinfo": "http://dallasxaml.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/507718286_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/507718286-b755e4805f6c4113f96f2e882bc566ad02216f6f4aa441dcf96321e4fd1757be-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/120047750.hd.mp4?s=b7078f5fa48ec7dcea229e4ad9f8d3d7b9fdbf8f&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/120047750.sd.mp4?s=7b2fbf9523ceec29cf1ca9fb3f24784a4a77dd82&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 758,

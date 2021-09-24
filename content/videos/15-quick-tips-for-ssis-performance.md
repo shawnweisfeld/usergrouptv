@@ -10,11 +10,11 @@
   "abstract": "<p>When reviewing your ETL processes, the No. 1 question is always, \"Does it work as expected?\" Closely following that question is the ubiquitous, \"How fast does it run?\" This session’s tips are targeted at improve the latter. In this session, we’ll focus on SSIS package performance, quickly reviewing 15 common hotspots for performance issues as well as recommended methods for maximizing throughput. You’ll walk away with some key design patterns and recommendations that you can use today to improve SSIS package performance.\r\n</p>",
   "description": "<p>When reviewing your ETL processes, the No. 1 question is always, \"Does it work as expected?\" Closely following that question is the ubiquitous, \"How fast does it run?\" This session’s tips are targeted at improve the latter. In this session, we’ll focus on SSIS package performance, quickly reviewing 15 common hotspots for performance issues as well as recommended methods for maximizing throughput. You’ll walk away with some key design patterns and recommendations that you can use today to improve SSIS package performance.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/505504105_295x166.jpg"
+    "https://i.vimeocdn.com/video/505504105-d33c5e4d2a05dd967b7c789d2231abdf0001dea55b4a8b8a2448ce4d47e19ec5-d_295x166"
   ],
   "vimeo": "118476154",
   "moreinfo": "https://www.sqlsaturday.com/viewsession.aspx?sat=362&sessionid=26053",
-  "thumbnail": "https://i.vimeocdn.com/video/505504105_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/505504105-d33c5e4d2a05dd967b7c789d2231abdf0001dea55b4a8b8a2448ce4d47e19ec5-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/118476154.hd.mp4?s=f3e535eb3fdcab10d2786669eea1a2ec4c5ecc85&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/118476154.sd.mp4?s=a40617b76bc57b5258f47710b05dc3eca95afed8&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 822,

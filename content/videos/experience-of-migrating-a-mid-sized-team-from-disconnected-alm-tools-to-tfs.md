@@ -10,11 +10,11 @@
   "abstract": "<p>While working at major game/hardware/casino management system provider, the ALM team migrated a team of about 60 people from a set of disparate ALM tools comprised of SVN/CCNET/Scrumworks/Serena Teamtrack/Word documents/Excel spreadsheets to using TFS for its source control, build, work item tracking, and requirements management. In this presentation we will go over the existing problems, and issues that were resolved with the change, gotchas we found along the way, and added benefits we got from this migration.</p>",
   "description": "<p>While working at major game/hardware/casino management system provider, the ALM team migrated a team of about 60 people from a set of disparate ALM tools comprised of SVN/CCNET/Scrumworks/Serena Teamtrack/Word documents/Excel spreadsheets to using TFS for its source control, build, work item tracking, and requirements management. In this presentation we will go over the existing problems, and issues that were resolved with the change, gotchas we found along the way, and added benefits we got from this migration.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/483492112_295x166.jpg"
+    "https://i.vimeocdn.com/video/483492112-86fc89127000f05458c48e06244abd6fed2ac48acb9c71ee3e2abe3abfcf945d-d_295x166"
   ],
   "vimeo": "101662310",
   "moreinfo": "https://sites.google.com/site/tfsaustinusergroup/project-updates/experienceofmigratingamid-sizedteamfromdisconnectedalmtoolstotfs",
-  "thumbnail": "https://i.vimeocdn.com/video/483492112_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/483492112-86fc89127000f05458c48e06244abd6fed2ac48acb9c71ee3e2abe3abfcf945d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/101662310.hd.mp4?s=c69694e438590c35149ec2aed7198fd455ed8029&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/101662310.sd.mp4?s=eabce6e4a026b9cd7214438f7357522f386953ef&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 941,

@@ -12,7 +12,7 @@
     {
       "title": "SharePoint & jQuery Guide",
       "slug": "sharepoint-jquery-guide",
-      "thumbnail": "https://i.vimeocdn.com/video/483487899_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/483487899-d746392de19c65dffd01e92999b5921e7fda86559d6607b99509b765f6e9f313-d_295x166",
       "date": "2013-10-11T21:19:13",
       "meetups": [
         {

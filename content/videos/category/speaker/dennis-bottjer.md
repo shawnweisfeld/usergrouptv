@@ -12,7 +12,7 @@
     {
       "title": "SharedPoint 2013 Lessons Learned",
       "slug": "sharedpoint-2013-lessons-learned",
-      "thumbnail": "https://i.vimeocdn.com/video/483487770_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/483487770-79eed059750e73c738f28c16f9cbdf8e5703d4233933d62f6aad651e10363af0-d_295x166",
       "date": "2013-10-11T21:16:57",
       "meetups": [
         {

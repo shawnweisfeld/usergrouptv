@@ -10,11 +10,11 @@
   "abstract": "<p>When running a stored procedure it is difficult to record what is happening. In this session we will develop logger code in T-SQL to add to your stored procedures. We will use the xml datatype to record parameter values, variable values and debug statements. We will look at the \"For xml\" statement as well as the xml datatype methods, especially the modify method. Finally we will look at how to read the logs when finished.</p>",
   "description": "<p>When running a stored procedure it is difficult to record what is happening. In this session we will develop logger code in T-SQL to add to your stored procedures. We will use the xml datatype to record parameter values, variable values and debug statements. We will look at the \"For xml\" statement as well as the xml datatype methods, especially the modify method. Finally we will look at how to read the logs when finished.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/500556524_295x166.jpg"
+    "https://i.vimeocdn.com/video/500556524-e7facb7601225aa0ca998d33b1f717da6aaed3803030cc9b3ef2f1634874fac1-d_295x166"
   ],
   "vimeo": "114767273",
   "moreinfo": "http://www.sqlsaturday.com/63/eventhome.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/500556524_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/500556524-e7facb7601225aa0ca998d33b1f717da6aaed3803030cc9b3ef2f1634874fac1-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/114767273.hd.mp4?s=b5a3aa3f2ebf72d7295c5f59996048ec4a3291d2&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/114767273.sd.mp4?s=6295e4bfd7b3564270e0f02dd7eb60d58b8a20d1&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 687,

@@ -12,7 +12,7 @@
     {
       "title": "\"Invisible\" CMS Selling Solutions",
       "slug": "invisible-cms-selling-solutions",
-      "thumbnail": "https://i.vimeocdn.com/video/818415610_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/818415610-3d7a06e32d3654ac8e91f610f2ead2dab8867703b2378a6905305c881ae8fc5d-d_295x166",
       "date": "2019-09-28T16:55:13",
       "meetups": [
         {

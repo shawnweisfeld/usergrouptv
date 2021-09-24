@@ -12,7 +12,7 @@
     {
       "title": "THE AGILE BA",
       "slug": "the-agile-ba",
-      "thumbnail": "https://i.vimeocdn.com/video/486704902_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/486704902-8053c4f679cd761e5542036dc12d9727c665e26b22b1b1331c83833ebc79c67d-d_295x166",
       "date": "2014-08-22T17:36:13",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "THE INTROVERT'S AGILE SURVIVAL GUIDE",
       "slug": "the-introverts-agile-survival-guide",
-      "thumbnail": "https://i.vimeocdn.com/video/486707473_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/486707473-b00070467a038228c8d6d7e531c0315970526469390b95fdfddeeb802770cc32-d_295x166",
       "date": "2014-08-22T16:35:40",
       "meetups": [
         {
@@ -48,7 +48,7 @@
     {
       "title": "The People Side of Agile",
       "slug": "the-people-side-of-agile",
-      "thumbnail": "https://i.vimeocdn.com/video/492570009_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/492570009-0bbf232d2bb46f27b678686b1f22f900977ae023275649642f3b3e1e6645f6e6-d_295x166",
       "date": "2012-02-17T15:15:29",
       "meetups": [
         {

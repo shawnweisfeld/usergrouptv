@@ -12,7 +12,7 @@
     {
       "title": "Discover the Magic of Managed Disks in Azure ",
       "slug": "discover-the-magic-of-managed-disks-in-azure",
-      "thumbnail": "https://i.vimeocdn.com/video/632015565_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/632015565-3e43d68b435174bead38930543324bac56ed27f95dd25daa326d7f9362b2825c-d_295x166",
       "date": "2017-04-19T14:14:35",
       "meetups": [
         {

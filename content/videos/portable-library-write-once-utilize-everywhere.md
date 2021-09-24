@@ -11,11 +11,11 @@
   "abstract": "<p>Yes, it is possible to develop, using C# or VB, a core set of libraries that can be leveraged across WinRT, WinForms, WPF, Silverlight, ASP.NET, Windows Phone, Mono (Linux, Mac, Android, iOS). This can be done using Visual Studio 2010 (an extension) and Visual Studio 2012 (built in). In this talk, one of many methods will demonstrate how the core of an application is built and leveraged across Windows Phone, Silverlight, WinForms and WinRT (Windows 8 Metro).\r\n</p>",
   "description": "<p>Yes, it is possible to develop, using C# or VB, a core set of libraries that can be leveraged across WinRT, WinForms, WPF, Silverlight, ASP.NET, Windows Phone, Mono (Linux, Mac, Android, iOS). This can be done using Visual Studio 2010 (an extension) and Visual Studio 2012 (built in). In this talk, one of many methods will demonstrate how the core of an application is built and leveraged across Windows Phone, Silverlight, WinForms and WinRT (Windows 8 Metro).\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/489467230_295x166.jpg"
+    "https://i.vimeocdn.com/video/489467230-b949882ce06f19e7590d0599378c8a7cef960fd8fd92887657332bb9bfe93c46-d_295x166"
   ],
   "vimeo": "106374583",
   "moreinfo": "http://northdallas.net/",
-  "thumbnail": "https://i.vimeocdn.com/video/489467230_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/489467230-b949882ce06f19e7590d0599378c8a7cef960fd8fd92887657332bb9bfe93c46-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/106374583.hd.mp4?s=25f389f99a941843712357588a9e68ee32753314&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/106374583.sd.mp4?s=3984f9aea69e7a5a60abcfc39cb0ed8ab9f7b725&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 525,

@@ -10,11 +10,11 @@
   "abstract": "<p>Quick - what&rsquo;s the difference between LEFT and RIGHT OUTER JOINs? How do you know that a NULL in your result set is from the table data or is the result of the join? If you&rsquo;ve ever struggled with the ins and outs of joins and join syntax then this presentation is perfect for you. This presentation presents a straight-forward and logical approach to understanding and visualizing joins and focuses heavily on the &ldquo;how&rdquo; and &ldquo;why&rdquo; of the various join types.</p>",
   "description": "<p>Quick - what&rsquo;s the difference between LEFT and RIGHT OUTER JOINs? How do you know that a NULL in your result set is from the table data or is the result of the join? If you&rsquo;ve ever struggled with the ins and outs of joins and join syntax then this presentation is perfect for you. This presentation presents a straight-forward and logical approach to understanding and visualizing joins and focuses heavily on the &ldquo;how&rdquo; and &ldquo;why&rdquo; of the various join types.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/507045013_295x166.jpg"
+    "https://i.vimeocdn.com/video/507045013-e827564633221668b9c49e93b37ffeda9207665e7e82cb7e63a37138dac55d24-d_295x166"
   ],
   "vimeo": "119596448",
   "moreinfo": "http://www.sqlsaturday.com/63/eventhome.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/507045013_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/507045013-e827564633221668b9c49e93b37ffeda9207665e7e82cb7e63a37138dac55d24-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/119596448.hd.mp4?s=e94eae3003868d740e5bd0d1db39893c3159c1c4&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/119596448.sd.mp4?s=23594311cdcdab4b805bbd296b7de9e2f764b384&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 686,

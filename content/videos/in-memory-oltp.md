@@ -10,11 +10,11 @@
   "abstract": "<p> One of the most exciting new features in SQL Server 2014 is the ability to move your tables into memory. This sessions focuses on this in-memory OLTP capability. The session takes a practical look at in-memory OLTP, including its strengths and weaknesses, and gives practical guidance for using in-memory tables in SQL Server 2014. The session will use the latest CTP, so there are limitations in some of the features. Futures will be discussed where confirmed by Microsoft.</p>",
   "description": "<p> One of the most exciting new features in SQL Server 2014 is the ability to move your tables into memory. This sessions focuses on this in-memory OLTP capability. The session takes a practical look at in-memory OLTP, including its strengths and weaknesses, and gives practical guidance for using in-memory tables in SQL Server 2014. The session will use the latest CTP, so there are limitations in some of the features. Futures will be discussed where confirmed by Microsoft.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/483492285_295x166.jpg"
+    "https://i.vimeocdn.com/video/483492285-e8d48e3480d19dc029e51e793b782dee99b15884a4dd87611e056fb0b243d6e9-d_295x166"
   ],
   "vimeo": "101662369",
   "moreinfo": "http://adnug.org/Home/september-9-2013-in-memory-oltp/",
-  "thumbnail": "https://i.vimeocdn.com/video/483492285_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/483492285-e8d48e3480d19dc029e51e793b782dee99b15884a4dd87611e056fb0b243d6e9-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/101662369.hd.mp4?s=4c5f438effaaf101a630706d8e56682a28707a6d&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/101662369.sd.mp4?s=983dfa85d9cab685074d43b327474b5270819220&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 940,

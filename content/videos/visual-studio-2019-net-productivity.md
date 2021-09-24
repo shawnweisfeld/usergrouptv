@@ -11,12 +11,12 @@
   "abstract": "Pump up your .NET productivity with the latest additions to Visual Studio and Visual Studio for Mac. This session includes tips for navigating, refactoring, testing, and cleaning up your code.",
   "description": "Pump up your .NET productivity with the latest additions to Visual Studio and Visual Studio for Mac. This session includes tips for navigating, refactoring, testing, and cleaning up your code.",
   "images": [
-    "https://i.vimeocdn.com/video/985853435_295x166.jpg"
+    "https://i.vimeocdn.com/video/985853435-a932bb674e979f27591eff5dd9b17fac7b52a6ef6cb2e83b507906a047dbc218-d_295x166"
   ],
   "vimeo": "474179540",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/273739292/",
-  "thumbnail": "https://i.vimeocdn.com/video/985853435_295x166.jpg",
-  "mp4Video": "http://player.vimeo.com/external/474179540.hd.mp4?s=4afeb76f3ca45401d4acf3e7154cb45b0f6dbebf&profile_id=174&oauth2_token_id=20985841",
+  "thumbnail": "https://i.vimeocdn.com/video/985853435-a932bb674e979f27591eff5dd9b17fac7b52a6ef6cb2e83b507906a047dbc218-d_295x166",
+  "mp4Video": "http://player.vimeo.com/external/474179540.hd.mp4?s=4afeb76f3ca45401d4acf3e7154cb45b0f6dbebf&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/474179540.sd.mp4?s=e8a443e1262ddd218a9530fec350cab0b1837000&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 1041,
   "speakers": [

@@ -12,7 +12,7 @@
     {
       "title": "Lean-Agile Learning Through Games",
       "slug": "lean-agile-learning-through-games",
-      "thumbnail": "https://i.vimeocdn.com/video/660631834_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/660631834-7b2291479a5477bb510c51c051c04550613ef863d41c761c64126a46dca244c3-d_295x166",
       "date": "2017-10-06T16:04:21",
       "meetups": [
         {

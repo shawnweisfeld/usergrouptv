@@ -10,11 +10,11 @@
   "abstract": "<p>Keynote from the 2011 Oklahoma City SQL Saturday</p>",
   "description": "<p>Keynote from the 2011 Oklahoma City SQL Saturday</p>",
   "images": [
-    "https://i.vimeocdn.com/video/495922142_295x166.jpg"
+    "https://i.vimeocdn.com/video/495922142-b72d49aa3549375d62d87ff41f85c19d026de4321643200386deb7da9f44e5de-d_295x166"
   ],
   "vimeo": "111340961",
   "moreinfo": null,
-  "thumbnail": "https://i.vimeocdn.com/video/495922142_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/495922142-b72d49aa3549375d62d87ff41f85c19d026de4321643200386deb7da9f44e5de-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/111340961.hd.mp4?s=512ca713f8d327ee1efdf9a0cdd5589b23206566&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/111340961.sd.mp4?s=6f1cbe836166fe3290232fb0973c47624c1c614e&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 741,

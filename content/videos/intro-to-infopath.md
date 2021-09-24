@@ -10,11 +10,11 @@
   "abstract": "<p>InfoPath is a powerful tool especially in concert with SharePoint. InfoPath is also not as understood as it could be. In this session, attendees will learn not only what InfoPath is but will also get some examples on how InfoPath can work for them and why it is so powerful. The version used for the session will be InfoPath 2013 on Office 365’s SharePoint Online platform.</p>",
   "description": "<p>InfoPath is a powerful tool especially in concert with SharePoint. InfoPath is also not as understood as it could be. In this session, attendees will learn not only what InfoPath is but will also get some examples on how InfoPath can work for them and why it is so powerful. The version used for the session will be InfoPath 2013 on Office 365’s SharePoint Online platform.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/593963324_295x166.jpg"
+    "https://i.vimeocdn.com/video/593963324-e04c1b8f8619fb632ce5d11dacae0fea16f6cd4ed5c64e3b2223f909ad129fb3-d_295x166"
   ],
   "vimeo": "184508649",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda-2016",
-  "thumbnail": "https://i.vimeocdn.com/video/593963324_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/593963324-e04c1b8f8619fb632ce5d11dacae0fea16f6cd4ed5c64e3b2223f909ad129fb3-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/184508649.hd.mp4?s=e9ee7240ae84c0d534761e1f1672816ca33d48f5&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/184508649.sd.mp4?s=8a00b05aeb59d7f3f5563508c80d70cd4ad5d25b&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 144,

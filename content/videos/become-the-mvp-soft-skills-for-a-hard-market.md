@@ -10,11 +10,11 @@
   "abstract": "<p>Whether you are just starting a career, advancing into senior leadership, or trying to woo a potential client, soft skills can be your ticket to success. Often times we focus on showing how smart we are instead of showing what a good team member we can be. We will discuss the role and types of soft skills needed to showcase your X-factor. Need to hone your skills? We will explore innovative and fun ways in which to do just that!\r\n</p>",
   "description": "<p>Whether you are just starting a career, advancing into senior leadership, or trying to woo a potential client, soft skills can be your ticket to success. Often times we focus on showing how smart we are instead of showing what a good team member we can be. We will discuss the role and types of soft skills needed to showcase your X-factor. Need to hone your skills? We will explore innovative and fun ways in which to do just that!\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/796753194_295x166.jpg"
+    "https://i.vimeocdn.com/video/796753194-996bd538202633d73542e3a68492a3266bf45e4ae81157531cddbf3a81638fe9-d_295x166"
   ],
   "vimeo": "346640239",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/pttzvqyzjbxb/",
-  "thumbnail": "https://i.vimeocdn.com/video/796753194_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/796753194-996bd538202633d73542e3a68492a3266bf45e4ae81157531cddbf3a81638fe9-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/346640239.hd.mp4?s=50941d924226d94d736c56fa27c302b54a963413&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/346640239.sd.mp4?s=a92ba4550276396fa35c528d7b969007fc4fb276&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 312,

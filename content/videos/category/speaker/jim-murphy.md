@@ -12,7 +12,7 @@
     {
       "title": "SQL Server Tips from the Field",
       "slug": "sql-server-tips-from-the-field",
-      "thumbnail": "https://i.vimeocdn.com/video/661277871_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/661277871-76fdbc4b583fd87c3adbb6a6e57fddaa63c15c2d4660db676f8038c4fdccca6d-d_295x166",
       "date": "2017-10-14T11:50:04",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Mission Possible: Interactive Performance Troubleshooting - Index",
       "slug": "mission-possible-interactive-performance-troubleshooting-index",
-      "thumbnail": "https://i.vimeocdn.com/video/587192030_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/587192030-be493758cd7a036f0bbae1368e4eff6397e6a068d4048942afa328a05cf6fb1e-d_295x166",
       "date": "2016-08-13T14:58:12",
       "meetups": [
         {

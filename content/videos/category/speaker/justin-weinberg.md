@@ -12,7 +12,7 @@
     {
       "title": "Connect with your Kinect",
       "slug": "connect-with-your-kinect",
-      "thumbnail": "https://i.vimeocdn.com/video/490127733_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/490127733-ba4015e34ee85c08d414958487b723bd30ff1899482d57e32588f141e7f8fe62-d_295x166",
       "date": "2012-06-06T11:27:56",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Silverlight Testing Extravaganza! ",
       "slug": "silverlight-testing-extravaganza",
-      "thumbnail": "https://i.vimeocdn.com/video/500558222_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/500558222-ed5f5980abe85f8a528d0d1a1cf3b48175ab0b23ef999106e72c72260febfbcf-d_295x166",
       "date": "2011-04-11T22:14:37",
       "meetups": [
         {

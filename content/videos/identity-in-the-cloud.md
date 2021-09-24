@@ -10,11 +10,11 @@
   "abstract": "<p>Identity and Access management can be a challenge, especially when we begin to decompose our architectures into cloud-hosted Microservices. We'll delve into a variety of topics, including Authentication and Authorization, Federation, Delegation, and protocols. But it won't all be 1's and 0's. We'll also discuss more practical matters to help you make the best IAM decisions for common architectures in Azure.\r\n</p>",
   "description": "<p>Identity and Access management can be a challenge, especially when we begin to decompose our architectures into cloud-hosted Microservices. We'll delve into a variety of topics, including Authentication and Authorization, Federation, Delegation, and protocols. But it won't all be 1's and 0's. We'll also discuss more practical matters to help you make the best IAM decisions for common architectures in Azure.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/781693879_295x166.jpg"
+    "https://i.vimeocdn.com/video/781693879-9ffa5584f6dca4e4956ad4a4baaf724d23d5408760d8388a06d32daef390a8ec-d_295x166"
   ],
   "vimeo": "335181925",
   "moreinfo": "https://www.meetup.com/azureaustin/events/260745880/",
-  "thumbnail": "https://i.vimeocdn.com/video/781693879_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/781693879-9ffa5584f6dca4e4956ad4a4baaf724d23d5408760d8388a06d32daef390a8ec-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/335181925.hd.mp4?s=b23313ca5d54088ee703f7fa5273a045ed5dbeb0&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/335181925.sd.mp4?s=fbc1be8dbdb815840db752b9a365e3e63bc5b0c1&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 309,
@@ -37,7 +37,7 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 51
+      "count": 52
     }
   ]
 }

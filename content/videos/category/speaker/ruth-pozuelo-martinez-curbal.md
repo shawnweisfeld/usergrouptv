@@ -12,7 +12,7 @@
     {
       "title": "Power BI and Google Datasets to Find a Bike in Austin",
       "slug": "power-bi-and-google-datasets-to-find-a-bike-in-austin",
-      "thumbnail": "https://i.vimeocdn.com/video/1114913453_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/1114913453-fc820eab3dacc351672caf6f4d19a15de97d236704d031972e7b94b23f894350-d_295x166",
       "date": "2021-04-14T00:00:00",
       "meetups": [
         {

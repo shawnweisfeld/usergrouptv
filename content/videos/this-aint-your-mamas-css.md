@@ -10,11 +10,11 @@
   "abstract": "<p>Have you checked out the cool stuff you can do with CSS3? With things like transitions, translations, and key-frame animations you can add some awesome effects for little effort and wow your users.</p>",
   "description": "<p>Have you checked out the cool stuff you can do with CSS3? With things like transitions, translations, and key-frame animations you can add some awesome effects for little effort and wow your users.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/489184051_295x166.jpg"
+    "https://i.vimeocdn.com/video/489184051-50f253d420d16a0794095aa28f91d4d50985a019a04794098c31a89386b0dcc2-d_295x166"
   ],
   "vimeo": "106168509",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#0114",
-  "thumbnail": "https://i.vimeocdn.com/video/489184051_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/489184051-50f253d420d16a0794095aa28f91d4d50985a019a04794098c31a89386b0dcc2-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/106168509.hd.mp4?s=b352f0d31252625444653eb85621badeda25492b&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/106168509.sd.mp4?s=8eb4e657b65bc18d58ed72cfa20048e7103f1fd1&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 1012,

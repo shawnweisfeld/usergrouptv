@@ -10,11 +10,11 @@
   "abstract": "",
   "description": "",
   "images": [
-    "https://i.vimeocdn.com/video/500557846_295x166.jpg"
+    "https://i.vimeocdn.com/video/500557846-fa4be21069e842aa1b7983a0b854a426e30046a7176fd0ac7effdc31c4a07c06-d_295x166"
   ],
   "vimeo": "114768194",
   "moreinfo": "http://dallasxaml.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/500557846_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/500557846-fa4be21069e842aa1b7983a0b854a426e30046a7176fd0ac7effdc31c4a07c06-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/114768194.hd.mp4?s=9e7462574f0d7c6c979db61d19bade6515575411&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/114768194.sd.mp4?s=a96b4dca797b0d488d740aa3b3a8210b78cee2e9&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 690,

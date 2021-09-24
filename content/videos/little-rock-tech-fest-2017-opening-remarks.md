@@ -10,11 +10,11 @@
   "abstract": "<p>Little Rock Tech Fest 2017 Opening Remarks</p>",
   "description": "<p>Little Rock Tech Fest 2017 Opening Remarks</p>",
   "images": [
-    "https://i.vimeocdn.com/video/660009607_295x166.jpg"
+    "https://i.vimeocdn.com/video/660009607-a395f37a310b79a92ffe115efbb07e1a59c22b5975d692130519bb425cf05fad-d_295x166"
   ],
   "vimeo": "237561290",
   "moreinfo": "http://www.lrtechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/660009607_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/660009607-a395f37a310b79a92ffe115efbb07e1a59c22b5975d692130519bb425cf05fad-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/237561290.hd.mp4?s=9900905ad33e23b05b05139dfbb8bd0629e44bf4&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/237561290.sd.mp4?s=f458db7bef949a7c0647e86f38a9ebd995e0c4f2&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 22,

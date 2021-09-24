@@ -12,7 +12,7 @@
     {
       "title": "Modern UIs with Knockoutjs and Stateful CSS ",
       "slug": "modern-uis-with-knockoutjs-and-stateful-css",
-      "thumbnail": "https://i.vimeocdn.com/video/540281922_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/540281922-ce1a41e900e57fd1c37cd92c95e55397e1cf338f8cf0066f36c5058d5741ba24-d_295x166",
       "date": "2015-10-16T02:08:48",
       "meetups": [
         {

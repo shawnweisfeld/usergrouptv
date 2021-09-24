@@ -12,7 +12,7 @@
     {
       "title": "Azure SQL Database - Lessons learned from the trenches",
       "slug": "azure-sql-database-lessons-learned-from-the-trenches",
-      "thumbnail": "https://i.vimeocdn.com/video/626869262_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/626869262-f0c103cb0b8c2005d21c1d58f34b777604ab832f49871eee8487bc2df365873f-d_295x166",
       "date": "2017-03-04T22:12:22",
       "meetups": [
         {

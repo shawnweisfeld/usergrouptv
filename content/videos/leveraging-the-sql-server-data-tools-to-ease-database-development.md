@@ -10,11 +10,11 @@
   "abstract": "<p>Working with SQL schema is a chore for most developers. In this session we will take a look at the SQL Server Data Tools in Visual Studio and how we can leverage them to make your development life a bit easier.</p>",
   "description": "<p>Working with SQL schema is a chore for most developers. In this session we will take a look at the SQL Server Data Tools in Visual Studio and how we can leverage them to make your development life a bit easier.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/486707377_295x166.jpg"
+    "https://i.vimeocdn.com/video/486707377-6e801b7af27e8d76f92e621c41953c3dc03d7ba2fede66707d8ff0d17281eb73-d_295x166"
   ],
   "vimeo": "104230519",
   "moreinfo": "http://cactuss.org/",
-  "thumbnail": "https://i.vimeocdn.com/video/486707377_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/486707377-6e801b7af27e8d76f92e621c41953c3dc03d7ba2fede66707d8ff0d17281eb73-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/104230519.hd.mp4?s=92ee76f2375310f617ec91e6e8cfccb0679626f4&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/104230519.sd.mp4?s=591e784a8faf86cb255024bef545561bd09dbb3f&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 1001,

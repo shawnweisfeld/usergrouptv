@@ -12,7 +12,7 @@
     {
       "title": "The Mind of the Developer",
       "slug": "the-mind-of-the-developer",
-      "thumbnail": "https://i.vimeocdn.com/video/537442355_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/537442355-2d57634c6e47b431547c6afcc7cdec9f3e1a64723572a061f989d5318e0d3a23-d_295x166",
       "date": "2015-09-26T12:23:43",
       "meetups": [
         {

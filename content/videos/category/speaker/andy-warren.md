@@ -12,7 +12,7 @@
     {
       "title": "Patterns for Managing Your Career Learning Needs",
       "slug": "patterns-for-managing-your-career-learning-needs",
-      "thumbnail": "https://i.vimeocdn.com/video/709496282_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/709496282-7aa19e081785e75847f1fb9c56f6e97d1e5ac27fd69bb46e607dbc0f7af910a3-d_295x166",
       "date": "2018-06-23T19:49:32",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Turbocharge Your Career With a Learning Plan",
       "slug": "turbocharge-your-career-with-a-learning-plan",
-      "thumbnail": "https://i.vimeocdn.com/video/505665178_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/505665178-3340b5e1585fbe67bc6a620cc23e05da72fa5ca36c02e7c0dd9908d993597e7f-d_295x166",
       "date": "2015-01-31T18:52:58",
       "meetups": [
         {

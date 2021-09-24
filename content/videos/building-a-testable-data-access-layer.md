@@ -10,11 +10,11 @@
   "abstract": "<p>All developers understand the theoretical value of unit testing, but with data driven applications, figuring out how to create tests can be hard. In this session, you will learn how to design and build a data layer that can be tested. We will introduce data layer architecture practices and methodologies that make testing possible, and cover the basics of unit test mocking. You will also be guided through various types of testing, including unit, integration, and functional testing. Leave this session with the basics needed to start creating tests for application data layers, including those powered by LinqToSQL and Entity Framework.</p>",
   "description": "<p>All developers understand the theoretical value of unit testing, but with data driven applications, figuring out how to create tests can be hard. In this session, you will learn how to design and build a data layer that can be tested. We will introduce data layer architecture practices and methodologies that make testing possible, and cover the basics of unit test mocking. You will also be guided through various types of testing, including unit, integration, and functional testing. Leave this session with the basics needed to start creating tests for application data layers, including those powered by LinqToSQL and Entity Framework.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/499122139_295x166.jpg"
+    "https://i.vimeocdn.com/video/499122139-3d24bd981fda54ddc62524f13e6e3b4389cdfc7ead28698246580b357a4f20d8-d_295x166"
   ],
   "vimeo": "113707065",
   "moreinfo": "http://dallas-csharp-sig.com",
-  "thumbnail": "https://i.vimeocdn.com/video/499122139_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/499122139-3d24bd981fda54ddc62524f13e6e3b4389cdfc7ead28698246580b357a4f20d8-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/113707065.hd.mp4?s=58328d0e9961f136a0f59fe2b51f4582b884c89c&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/113707065.sd.mp4?s=a31f4375c7a7295a6558a432571c7556ee26a291&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 699,

@@ -12,7 +12,7 @@
     {
       "title": "Power BI Dashboard - Creating End to End Solutions",
       "slug": "power-bi-dashboard-creating-end-to-end-solutions",
-      "thumbnail": "https://i.vimeocdn.com/video/798692079_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/798692079-d7861a7474203849e127cac284b67d01b774d375bfe9eaa83c695ad9828748a2-d_295x166",
       "date": "2019-07-13T13:46:05",
       "meetups": [
         {

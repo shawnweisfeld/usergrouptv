@@ -12,7 +12,7 @@
     {
       "title": "Beyond Visual Studio 2012: What’s new for Web Developers",
       "slug": "beyond-visual-studio-2012-whats-new-for-web-developers",
-      "thumbnail": "https://i.vimeocdn.com/video/485084627_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/485084627-a81b0e3bc8942097e68010a5172073a00e5eeab4dd4367ce52446d543e963322-d_295x166",
       "date": "2013-03-14T20:53:02",
       "meetups": [
         {

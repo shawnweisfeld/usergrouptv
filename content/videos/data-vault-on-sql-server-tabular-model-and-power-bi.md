@@ -11,11 +11,11 @@
   "abstract": "<p>In this session, you will learn the basics of building a data vault to organize and store your companies disparate data on SQL Server.  Learn how Hubs, Links, and Satellite tables create options for storing a variety of data from multiple systems.  The data vault structures will then be used as the data source to create views designed for SQL Server Analysis Services Tabular models.  Finally, Power BI will be used to visual the data for your end users.</p>",
   "description": "<p>In this session, you will learn the basics of building a data vault to organize and store your companies disparate data on SQL Server.  Learn how Hubs, Links, and Satellite tables create options for storing a variety of data from multiple systems.  The data vault structures will then be used as the data source to create views designed for SQL Server Analysis Services Tabular models.  Finally, Power BI will be used to visual the data for your end users.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/854627598_295x166.jpg"
+    "https://i.vimeocdn.com/video/854627598-dab295cbfda44fec0d94010228f7a67d1b0d2c61c306b8f059d2515d122e9982-d_295x166"
   ],
   "vimeo": "390487617",
   "moreinfo": "https://www.sqlsaturday.com/939/Sessions/Details.aspx?sid=99533",
-  "thumbnail": "https://i.vimeocdn.com/video/854627598_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/854627598-dab295cbfda44fec0d94010228f7a67d1b0d2c61c306b8f059d2515d122e9982-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/390487617.hd.mp4?s=0a84ea09280291a9fba751dc7788196831af4bb7&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/390487617.sd.mp4?s=893bafd2d1472fded53bcfd53a278ca23ed8df12&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 360,

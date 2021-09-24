@@ -10,11 +10,11 @@
   "abstract": "<p>The Cloud Adoption Framework is the One Microsoft approach to cloud adoption in Azure, consolidating and sharing best practices from Microsoft employees, partners, and customers. The framework gives customers a set of tools, guidance, and narratives that help shape technology, business, and people strategies for driving desired business outcomes during their adoption effort. In this session we will talk about: What is CAF – Cloud Adoption Framework, Why CAF? Benefits of leveraging CAF in Cloud Journey. Additional Tools and Guidance can be found at https://Aka.ms/caf/govern and https://Aka.ms/caf/migrate</p>",
   "description": "<p>The Cloud Adoption Framework is the One Microsoft approach to cloud adoption in Azure, consolidating and sharing best practices from Microsoft employees, partners, and customers. The framework gives customers a set of tools, guidance, and narratives that help shape technology, business, and people strategies for driving desired business outcomes during their adoption effort. In this session we will talk about: What is CAF – Cloud Adoption Framework, Why CAF? Benefits of leveraging CAF in Cloud Journey. Additional Tools and Guidance can be found at https://Aka.ms/caf/govern and https://Aka.ms/caf/migrate</p>",
   "images": [
-    "https://i.vimeocdn.com/video/831974744_295x166.jpg"
+    "https://i.vimeocdn.com/video/831974744-d6f89a4b524d0f093adc518979f5cad30d0a0fcc8cd749bf25f9ca9c69844a45-d_295x166"
   ],
   "vimeo": "373751531",
   "moreinfo": "https://www.meetup.com/azureaustin/events/266058074/",
-  "thumbnail": "https://i.vimeocdn.com/video/831974744_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/831974744-d6f89a4b524d0f093adc518979f5cad30d0a0fcc8cd749bf25f9ca9c69844a45-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/373751531.hd.mp4?s=772a6853e2d5769be509c84385a528cffa20a938&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/373751531.sd.mp4?s=42ed9bd4d83df8103d75aabb05aad22f2ad16ab0&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 379,
@@ -30,14 +30,14 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 41
+      "count": 42
     }
   ],
   "meetups": [
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 51
+      "count": 52
     }
   ]
 }

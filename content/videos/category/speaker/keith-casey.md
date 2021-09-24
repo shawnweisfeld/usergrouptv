@@ -12,7 +12,7 @@
     {
       "title": "How to Build an Effective API Security Strategy",
       "slug": "how-to-build-an-effective-api-security-strategy",
-      "thumbnail": "https://i.vimeocdn.com/video/849445950_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/849445950-2e2f8f8dac7150a8f4113cfa681c66626ba0355bd4231ee0c3207f99f5f41b59-d_295x166",
       "date": "2020-01-13T16:20:57",
       "meetups": [
         {

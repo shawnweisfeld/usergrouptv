@@ -12,7 +12,7 @@
     {
       "title": "Building a Strong Foundation for Data Analysis",
       "slug": "building-a-strong-foundation-for-data-analysis",
-      "thumbnail": "https://i.vimeocdn.com/video/854628797_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854628797-e57ab00f693b51693381ebc8e88bbb5de5b1410529ba753dcd56daa6c381c143-d_295x166",
       "date": "2020-02-08T16:07:08",
       "meetups": [
         {

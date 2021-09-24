@@ -10,11 +10,11 @@
   "abstract": "<p>In this session, we will take a look at the basics of Azure Logic Apps and how to build powerful integration scenarios quickly.  This session will include a hands-on lab that walks through creating your first Azure Logic App step-by-step.</p>",
   "description": "<p>In this session, we will take a look at the basics of Azure Logic Apps and how to build powerful integration scenarios quickly.  This session will include a hands-on lab that walks through creating your first Azure Logic App step-by-step.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/696171720_295x166.jpg"
+    "https://i.vimeocdn.com/video/696171720-689914677d30c298e0111d1270e92d8cf57126f37fd887e6f74d94c838ba4db9-d_295x166"
   ],
   "vimeo": "266019212",
   "moreinfo": "https://global.azurebootcamp.net/locations/gobal-azure-boot-camp-2018-austin-tx/",
-  "thumbnail": "https://i.vimeocdn.com/video/696171720_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/696171720-689914677d30c298e0111d1270e92d8cf57126f37fd887e6f74d94c838ba4db9-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/266019212.hd.mp4?s=bebfb8923cbe9ccf0a964d4e9e11e56bac161391&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/266019212.sd.mp4?s=fc7bd3252f51bf0f0432393886a28b077d21e790&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 92,

@@ -12,7 +12,7 @@
     {
       "title": "CosmosDB is the missing piece to your Data puzzle!",
       "slug": "cosmosdb-is-the-missing-piece-to-your-data-puzzle",
-      "thumbnail": "https://i.vimeocdn.com/video/798801249_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/798801249-363d8b75d87125dd6d40193a2ee0e6ff77ecf79e315b84a37013f40bce28572a-d_295x166",
       "date": "2019-07-13T14:05:39",
       "meetups": [
         {

@@ -10,11 +10,11 @@
   "abstract": "<p>Information sharing may be great for your team, but not so great when it comes to your valuable, sensitive data. This talk is an introduction to cryptography - the art and science of keeping information secret. We'll gently introduce core concepts like steganography, codes, ciphers, and lexical analysis by reviewing the history of making (and breaking) secret writing systems from ancient times to World War 2, and finish with a discussion about modern symmetric and asymmetric (aka public key) encryption.</p>",
   "description": "<p>Information sharing may be great for your team, but not so great when it comes to your valuable, sensitive data. This talk is an introduction to cryptography - the art and science of keeping information secret. We'll gently introduce core concepts like steganography, codes, ciphers, and lexical analysis by reviewing the history of making (and breaking) secret writing systems from ancient times to World War 2, and finish with a discussion about modern symmetric and asymmetric (aka public key) encryption.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/484299595_295x166.jpg"
+    "https://i.vimeocdn.com/video/484299595-4f4b3d07392b1b0b79459a9c86f34d83ee4bb37088818d02fd41be97036bdc3c-d_295x166"
   ],
   "vimeo": "102317569",
   "moreinfo": "http://codecamp13.adnug.org/",
-  "thumbnail": "https://i.vimeocdn.com/video/484299595_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/484299595-4f4b3d07392b1b0b79459a9c86f34d83ee4bb37088818d02fd41be97036bdc3c-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/102317569.hd.mp4?s=994f04c68f2ddddcbd1159c57e00a63c02a89add&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/102317569.sd.mp4?s=bd64b7ae335d6f06705157a576ee8700030d3ecf&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 608,

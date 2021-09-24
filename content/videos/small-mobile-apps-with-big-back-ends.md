@@ -11,11 +11,11 @@
   "abstract": "<p>You want to write mobile applications, but you don't want to write a bunch of server code. No problem! You will be amazed at how little code it takes to access a server-side database from your mobile client. Chris Koenig will walk us through this hands-on-lab, in which you will build a Windows 8 mobile application using Windows Azure Mobile Services. You will enable: Structured storage, Push notifications, Integrated authentication. And you will have fun doing it. </p>",
   "description": "<p>You want to write mobile applications, but you don't want to write a bunch of server code. No problem! You will be amazed at how little code it takes to access a server-side database from your mobile client. Chris Koenig will walk us through this hands-on-lab, in which you will build a Windows 8 mobile application using Windows Azure Mobile Services. You will enable: Structured storage, Push notifications, Integrated authentication. And you will have fun doing it. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/485961024_295x166.jpg"
+    "https://i.vimeocdn.com/video/485961024-a61d75c2c5237f36d2673650295b899ea6b4d2606b8d0bbf3ec42a43cec8f8b8-d_295x166"
   ],
   "vimeo": "103659129",
   "moreinfo": "http://dallasxaml.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/485961024_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/485961024-a61d75c2c5237f36d2673650295b899ea6b4d2606b8d0bbf3ec42a43cec8f8b8-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/103659129.hd.mp4?s=43bb519d51d162e8df06d3f596509cd1d13c6030&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/103659129.sd.mp4?s=f1f3bee9a67089c046b31bc85fbd2f56e4b4302e&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 636,
@@ -31,7 +31,7 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 41
+      "count": 42
     },
     {
       "name": "win8",

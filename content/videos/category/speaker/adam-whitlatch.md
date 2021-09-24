@@ -12,7 +12,7 @@
     {
       "title": "Azure Virtual Desktop",
       "slug": "azure-virtual-desktop-by-adam-whitlatch",
-      "thumbnail": "https://i.vimeocdn.com/video/1168688870_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1168688870-2256f3b1689a365f7bc8971f760c0c88e5eb7b4b50af1f9e6b251e4eedaf5bae-d_295x166",
       "date": "2021-06-16T00:00:00",
       "meetups": [
         {

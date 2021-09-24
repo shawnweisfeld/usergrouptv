@@ -10,11 +10,11 @@
   "abstract": "",
   "description": "",
   "images": [
-    "https://i.vimeocdn.com/video/499124736_295x166.jpg"
+    "https://i.vimeocdn.com/video/499124736-57ae3c26884eaf16ab320454089c4d38ec813b02de84fad33893d7b33669a33b-d_295x166"
   ],
   "vimeo": "113708942",
   "moreinfo": "http://www.webcamps.ms",
-  "thumbnail": "https://i.vimeocdn.com/video/499124736_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/499124736-57ae3c26884eaf16ab320454089c4d38ec813b02de84fad33893d7b33669a33b-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/113708942.hd.mp4?s=b1c2beaa3850fa0c30ef350225c4f19bd94f225c&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/113708942.sd.mp4?s=d98e49a44ce360cc5afad0ba8df933a33a3b36f0&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 704,

@@ -10,11 +10,11 @@
   "abstract": "<p>The discussion describes various aspects concerning technical debt. High-level topics include what technical debt is, how it can be classified, appropriate use, and tracking. Speakers will conduct a discussion between themselves to highlight aspects of managing technical debt for both developers and Scrum Masters. In particular, the discussion explains particular situations that are appropriate for technical debt to be used and describes the techniques required for managing it. This talk takes a fresh look at technical debt and forwards some concepts that most developers or managers may have not previously considered. The talk will also compare the concept of technical debt to that of financial debt to provide the listener with better understanding of appropriate use of this development technique. The importance of tracking technical debt , along with methods to accomplish tracking are reviewed as well.\r\n</p>",
   "description": "<p>The discussion describes various aspects concerning technical debt. High-level topics include what technical debt is, how it can be classified, appropriate use, and tracking. Speakers will conduct a discussion between themselves to highlight aspects of managing technical debt for both developers and Scrum Masters. In particular, the discussion explains particular situations that are appropriate for technical debt to be used and describes the techniques required for managing it. This talk takes a fresh look at technical debt and forwards some concepts that most developers or managers may have not previously considered. The talk will also compare the concept of technical debt to that of financial debt to provide the listener with better understanding of appropriate use of this development technique. The importance of tracking technical debt , along with methods to accomplish tracking are reviewed as well.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/486705234_295x166.jpg"
+    "https://i.vimeocdn.com/video/486705234-65b5ea2447acb755f96690e67ea5084dc180b08d4ebbae09ec6f5c0ccb41a916-d_295x166"
   ],
   "vimeo": "104228716",
   "moreinfo": "http://www.improvingenterprises.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/486705234_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/486705234-65b5ea2447acb755f96690e67ea5084dc180b08d4ebbae09ec6f5c0ccb41a916-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/104228716.hd.mp4?s=27632955d0962f1045a91b9e22ea485f2466b149&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/104228716.sd.mp4?s=cb112ee569914e4aea856ccb1f9b3a2d32abcbb9&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 1014,

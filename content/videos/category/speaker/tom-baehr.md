@@ -12,7 +12,7 @@
     {
       "title": "Getting Started with Test Driven Development",
       "slug": "getting-started-with-test-driven-development",
-      "thumbnail": "https://i.vimeocdn.com/video/483485308_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/483485308-82247c52ac44b473e1306fdfb299a79de88da675d8a11f087cc2c8477b5e1b3b-d_295x166",
       "date": "2013-09-28T12:44:30",
       "meetups": [
         {

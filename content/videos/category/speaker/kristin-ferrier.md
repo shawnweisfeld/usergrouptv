@@ -12,7 +12,7 @@
     {
       "title": "Demystifying JSON in SQL Server",
       "slug": "demystifying-json-in-sql-server",
-      "thumbnail": "https://i.vimeocdn.com/video/722234970_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/722234970-8cc6c92c5fb20ad052abc4e758947789122bf146aae3a5c4903045462d52cbab-d_295x166",
       "date": "2018-08-25T19:32:15",
       "meetups": [
         {

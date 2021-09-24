@@ -10,11 +10,11 @@
   "abstract": "<p>Building and managing services at scale is hard. Increasingly these services also require to be low latency for responsiveness, yet need to also achieve the availability, scalability and manageability demands of a successful service. Service Fabric is a service platform that achieves these goals and is the basis of several of Microsoft's high scale services including Azure Databases, Document DB, Bing Cortana, Lync, Azure Power BI, Intune and core Azure services. In this session Shawn Weisfeld and Azure Technical Evangelist will cover the service development and management capabilities that you can use today, and the roadmap for the external release of this as a service providing the next generation PaaS for Azure.</p>",
   "description": "<p>Building and managing services at scale is hard. Increasingly these services also require to be low latency for responsiveness, yet need to also achieve the availability, scalability and manageability demands of a successful service. Service Fabric is a service platform that achieves these goals and is the basis of several of Microsoft's high scale services including Azure Databases, Document DB, Bing Cortana, Lync, Azure Power BI, Intune and core Azure services. In this session Shawn Weisfeld and Azure Technical Evangelist will cover the service development and management capabilities that you can use today, and the roadmap for the external release of this as a service providing the next generation PaaS for Azure.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/519305193_295x166.jpg"
+    "https://i.vimeocdn.com/video/519305193-b526b5a3f72d613a76a32ff6acbf1cde09b441f7911d40f8d7fbf8416ee41d69-d_295x166"
   ],
   "vimeo": "128245132",
   "moreinfo": "http://www.meetup.com/DallasNETUG/events/221441356/",
-  "thumbnail": "https://i.vimeocdn.com/video/519305193_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/519305193-b526b5a3f72d613a76a32ff6acbf1cde09b441f7911d40f8d7fbf8416ee41d69-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/128245132.hd.mp4?s=864963538625786d3a7e148aefb5e90c9c2f1ec1&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/128245132.sd.mp4?s=29f341f456b7086ac4454da6dd355662499711b8&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 832,

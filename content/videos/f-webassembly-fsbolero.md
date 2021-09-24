@@ -10,11 +10,11 @@
   "abstract": "<p>WebAssembly is the hot new tech that's capturing everyone's minds with thoughts of a Javascript free future where we truly can code everywhere in one runtime. We'll take a look at just how true this is when we look at FsBolero, a WASM library for F# that makes use of the Blazor runtime for .Net to provide Elm-style UI experiences.</p>",
   "description": "<p>WebAssembly is the hot new tech that's capturing everyone's minds with thoughts of a Javascript free future where we truly can code everywhere in one runtime. We'll take a look at just how true this is when we look at FsBolero, a WASM library for F# that makes use of the Blazor runtime for .Net to provide Elm-style UI experiences.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/786031089_295x166.jpg"
+    "https://i.vimeocdn.com/video/786031089-a5ce252923a934dcb732967f2d3f7e62919cec4550369aa1e9242064fbab3035-d_295x166"
   ],
   "vimeo": "338438993",
   "moreinfo": "https://www.meetup.com/Austin-F-Meetup/events/wzjgvqyzhbcc/",
-  "thumbnail": "https://i.vimeocdn.com/video/786031089_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/786031089-a5ce252923a934dcb732967f2d3f7e62919cec4550369aa1e9242064fbab3035-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/338438993.hd.mp4?s=409703333eeb0e2ec04094a38188733bf75e9c3e&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/338438993.sd.mp4?s=fca119434b52c730ae6d9152e260004a9c660502&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 311,

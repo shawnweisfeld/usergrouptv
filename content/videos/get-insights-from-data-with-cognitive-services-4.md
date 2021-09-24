@@ -10,11 +10,11 @@
   "abstract": "<p>How can you take advantage of Artificial Intelligence without being a data scientist? Cognitive Services allow you use Artificial Intelligence to enrich your data through simple API calls. In this session, we will demonstrate the Cognitive Services and brainstorm how we can apply these to our applications.\r\n</p>",
   "description": "<p>How can you take advantage of Artificial Intelligence without being a data scientist? Cognitive Services allow you use Artificial Intelligence to enrich your data through simple API calls. In this session, we will demonstrate the Cognitive Services and brainstorm how we can apply these to our applications.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/719513144_295x166.jpg"
+    "https://i.vimeocdn.com/video/719513144-a7ca6cf666999c778c26ebba7ce979a8ab41fe3cdf4da8e6a0cf2e21ae1303c2-d_295x166"
   ],
   "vimeo": "284952394",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/253580813/",
-  "thumbnail": "https://i.vimeocdn.com/video/719513144_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/719513144-a7ca6cf666999c778c26ebba7ce979a8ab41fe3cdf4da8e6a0cf2e21ae1303c2-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/284952394.hd.mp4?s=dc0a8609228194a4b7a589c2e69e43796ffbe09e&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/284952394.sd.mp4?s=50001cba99ffb281d2f103884ccd587306c2bcbc&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 455,

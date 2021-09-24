@@ -10,11 +10,11 @@
   "abstract": "<p>In this session, you will learn why Relationship is needed, what are types of relationships. What is the meaning of the direction of relationship, and how to work with inactive or active relationships. You will learn all Power BI relationship concepts from the beginner level. Understand the relationship in a Power BI model is the fundamental step in building the right data model.</p>",
   "description": "<p>In this session, you will learn why Relationship is needed, what are types of relationships. What is the meaning of the direction of relationship, and how to work with inactive or active relationships. You will learn all Power BI relationship concepts from the beginner level. Understand the relationship in a Power BI model is the fundamental step in building the right data model.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/894750510_295x166.jpg"
+    "https://i.vimeocdn.com/video/894750510-6bff714ff3966f8e9d3198f241db77b274d9ddbb2b58f08d03a49be983137a84-d_295x166"
   ],
   "vimeo": "419757110",
   "moreinfo": "https://www.meetup.com/Austin-Power-BI-User-Group/events/269959063/",
-  "thumbnail": "https://i.vimeocdn.com/video/894750510_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/894750510-6bff714ff3966f8e9d3198f241db77b274d9ddbb2b58f08d03a49be983137a84-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/419757110.hd.mp4?s=e02499a037bfe455b5dfc5eca19a268dddf8370b&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/419757110.sd.mp4?s=b8f58a46df805e1806842d3df6a5250af31a4c29&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 357,

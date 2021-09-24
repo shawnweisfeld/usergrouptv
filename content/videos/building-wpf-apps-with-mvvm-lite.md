@@ -10,11 +10,11 @@
   "abstract": "<p>Windows Presentation Foundation is the way to build rich Windows applications today ... and the Model-View-ViewModel (MVVM) pattern is the most common architecture for building these apps. This presentation will provide an overview of MVVM and its core principles and then dig into using the open-source framework MVVM Lite to build a WPF application. We'll get into the details needed for data binding and command binding and what MVVM Lite provides to simplify this as well as tips and tricks for building solid WPF apps that are maintainable and testable.</p>",
   "description": "<p>Windows Presentation Foundation is the way to build rich Windows applications today ... and the Model-View-ViewModel (MVVM) pattern is the most common architecture for building these apps. This presentation will provide an overview of MVVM and its core principles and then dig into using the open-source framework MVVM Lite to build a WPF application. We'll get into the details needed for data binding and command binding and what MVVM Lite provides to simplify this as well as tips and tricks for building solid WPF apps that are maintainable and testable.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/534896554_295x166.jpg"
+    "https://i.vimeocdn.com/video/534896554-35271855afcc92205b664cf1241d2a8e75e5921bb04d472f293f3882c3e684ad-d_295x166"
   ],
   "vimeo": "139189953",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda",
-  "thumbnail": "https://i.vimeocdn.com/video/534896554_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/534896554-35271855afcc92205b664cf1241d2a8e75e5921bb04d472f293f3882c3e684ad-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/139189953.hd.mp4?s=e839f765b263eadc19ee1c74a0b03665c237e690&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/139189953.sd.mp4?s=74864e3efb96765c2ef4e0642f0309196aa8dd8a&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 793,

@@ -12,7 +12,7 @@
     {
       "title": "Unit Testing in .NET",
       "slug": "unit-testing-in-net",
-      "thumbnail": "https://i.vimeocdn.com/video/586640250_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/586640250-f4cfce0bc664c436c7bcab533c7d9e2f086db3e9d3bb9d9769303463e7e54685-d_295x166",
       "date": "2016-08-05T14:47:30",
       "meetups": [
         {

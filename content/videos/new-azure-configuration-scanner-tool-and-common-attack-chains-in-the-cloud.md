@@ -10,11 +10,11 @@
   "abstract": "<p>In Feb 2018 the Center for Internet Security (CIS) released their Azure Foundation Benchmark 1.0. Praetorian has been using this in pentration tests and built an automated scanner which will be open-sourced in the coming weeks. We will cover the capabilities of the scanner as well as common mis-configurations, weaknesses and attack chains in the cloud.</p>",
   "description": "<p>In Feb 2018 the Center for Internet Security (CIS) released their Azure Foundation Benchmark 1.0. Praetorian has been using this in pentration tests and built an automated scanner which will be open-sourced in the coming weeks. We will cover the capabilities of the scanner as well as common mis-configurations, weaknesses and attack chains in the cloud.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/725423772_295x166.jpg"
+    "https://i.vimeocdn.com/video/725423772-b8efb6aec2358415dbc2a7ca77d97404bddd605a168d7d03d5f75086e758adfc-d_295x166"
   ],
   "vimeo": "289714679",
   "moreinfo": "https://www.meetup.com/azureaustin/events/254215755/",
-  "thumbnail": "https://i.vimeocdn.com/video/725423772_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/725423772-b8efb6aec2358415dbc2a7ca77d97404bddd605a168d7d03d5f75086e758adfc-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/289714679.hd.mp4?s=fd0a19cf68d50a7eecdd151b9216b6195f42ca6d&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/289714679.sd.mp4?s=ad48f6a06201c910176af81000a162969ac2db34&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 501,
@@ -37,7 +37,7 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 51
+      "count": 52
     }
   ]
 }

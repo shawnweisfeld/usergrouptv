@@ -12,7 +12,7 @@
     {
       "title": "Correcting Common Async/Await Mistakes",
       "slug": "correcting-common-asyncawait-mistakes",
-      "thumbnail": "https://i.vimeocdn.com/video/732131006_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/732131006-b5cc19de4da335ad709e918b09b8b569a51c4ca12f0f6cbaa011017ce5b60f52-d_295x166",
       "date": "2018-10-13T14:17:50",
       "meetups": [
         {

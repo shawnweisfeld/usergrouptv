@@ -8,11 +8,11 @@
   "abstract": "<p>One of the great promises of HTML5 is that you can create software that runs everywhere. In many ways, HTML5 lives-up to this promise, but as with any evolving standard, support across different browsers and devices is inconsistent. To effectively adopt HTML5 today, developers must master the skills that fill-in the gaps and minimize the differences between HTML5 runtimes. In this session, you will learn the essential techniques needed to create HTML5 sites and apps that truly work everywhere.</p>",
   "description": "<p>One of the great promises of HTML5 is that you can create software that runs everywhere. In many ways, HTML5 lives-up to this promise, but as with any evolving standard, support across different browsers and devices is inconsistent. To effectively adopt HTML5 today, developers must master the skills that fill-in the gaps and minimize the differences between HTML5 runtimes. In this session, you will learn the essential techniques needed to create HTML5 sites and apps that truly work everywhere.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/487544568_295x166.jpg"
+    "https://i.vimeocdn.com/video/487544568-bdf39b82863b6f3a8b6e669c830abe991911d84c7fe77c267064ee19c5b723d3-d_295x166"
   ],
   "vimeo": "104887686",
   "moreinfo": "http://www.houstontechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/487544568_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/487544568-bdf39b82863b6f3a8b6e669c830abe991911d84c7fe77c267064ee19c5b723d3-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/104887686.hd.mp4?s=d3aacf7f52be955f3b0e2fa6386ee50c2193e72f&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/104887686.sd.mp4?s=e8ee3e14a030bcefbf287ee502a8e6b38d4d9fb6&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 582,

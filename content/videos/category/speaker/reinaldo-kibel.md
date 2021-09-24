@@ -12,7 +12,7 @@
     {
       "title": "SQL Server 2014 In Memory technologies - In Memory OLTP (aka Hekaton) & ColumnStore",
       "slug": "sql-server-2014-in-memory-technologies-in-memory-oltp-aka-hekaton-columnstore",
-      "thumbnail": "https://i.vimeocdn.com/video/505669133_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/505669133-4fab5af25ea78e29f94a7d7ad632dfb5952bd5f164f00cf61811f18c84ff7125-d_295x166",
       "date": "2015-01-31T14:01:39",
       "meetups": [
         {

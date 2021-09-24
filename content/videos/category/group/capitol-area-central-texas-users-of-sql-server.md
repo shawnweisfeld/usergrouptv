@@ -11,7 +11,7 @@
     {
       "title": "How and Where to Practice Writing Queries",
       "slug": "how-and-where-to-practice-writing-queries",
-      "thumbnail": "https://i.vimeocdn.com/video/1221979479_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1221979479-19a2b6ea9dab28d17b337d4abafac963787dbed61c0f857996f9c405135f2d56-d_295x166",
       "date": "2021-08-17T00:00:00",
       "speakers": [
         {
@@ -33,7 +33,7 @@
     {
       "title": "DBA Fired by the PowerShell Wiz",
       "slug": "dba-fired-by-the-powershell-wiz",
-      "thumbnail": "https://i.vimeocdn.com/video/1195699085_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1195699085-faab9d9f165de121fc99ce499b423f95f96dc93a0fc2c1bf395e5c8d8742287f-d_295x166",
       "date": "2021-07-20T00:00:00",
       "speakers": [
         {
@@ -59,7 +59,7 @@
     {
       "title": "The CASE statement",
       "slug": "the-case-statement",
-      "thumbnail": "https://i.vimeocdn.com/video/1168688602_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1168688602-f0ca057b08c550227c40304be0d538166d0555dc1b7fb17dc55b4d6d8f627e70-d_295x166",
       "date": "2021-06-16T00:00:00",
       "speakers": [
         {
@@ -77,7 +77,7 @@
     {
       "title": "Azure Arc Data Services",
       "slug": "azure-arc-data-services",
-      "thumbnail": "https://i.vimeocdn.com/video/1144084262_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1144084262-e03fe76a1b1a1f39f9566e7c66c269186d9d634e61f8171d0f0daee1d5cf5c0b-d_295x166",
       "date": "2021-05-18T00:00:00",
       "speakers": [
         {
@@ -99,7 +99,7 @@
     {
       "title": "Become a Contributor to Microsoft Docs",
       "slug": "become-a-contributor-to-microsoft-docs",
-      "thumbnail": "https://i.vimeocdn.com/video/1120620236_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/1120620236-eea7c4077eac4c114303958687e26a17cc1869792241d03b9d24258d0c61e8dd-d_295x166",
       "date": "2021-04-20T00:00:00",
       "speakers": [
         {
@@ -129,7 +129,7 @@
     {
       "title": "SQL Server to Azure SQL: Performance and Availability",
       "slug": "sql-server-to-azure-sql-performance-and-availability",
-      "thumbnail": "https://i.vimeocdn.com/video/999191466_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/999191466-040cc9671bff28de497c719be283f9c19abba4474103a016ebf7c1c9d8983ef5-d_295x166",
       "date": "2020-11-17T00:00:00",
       "speakers": [
         {
@@ -147,7 +147,7 @@
     {
       "title": "How to get the best TCO while running SQL Server on Azure VM",
       "slug": "how-to-get-the-best-tco-while-running-sql-server-on-azure-vm",
-      "thumbnail": "https://i.vimeocdn.com/video/980844918_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/980844918-beb054c71fc1d2c2e628d251ae8a0959a6192aecff06475077513364c59786d1-d_295x166",
       "date": "2020-10-20T00:00:00",
       "speakers": [
         {
@@ -177,7 +177,7 @@
     {
       "title": "How Bad Are Page Splits",
       "slug": "how-bad-are-page-splits",
-      "thumbnail": "https://i.vimeocdn.com/video/859011737_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/859011737-30b00153e8f4cc943c3fbde7d1d90eb0bc1339668240bf4b2b3b936a88d0bf7d-d_295x166",
       "date": "2020-02-18T12:08:41",
       "speakers": [
         {
@@ -195,7 +195,7 @@
     {
       "title": "Getting Started with Data Science and Databricks",
       "slug": "getting-started-with-data-science-and-databricks",
-      "thumbnail": "https://i.vimeocdn.com/video/854620500_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854620500-8f2d84679d3f888ebecea3bd458af3f33ea1a22f78f2b1f8866ac558335f3967-d_295x166",
       "date": "2020-02-08T16:30:20",
       "speakers": [
         {
@@ -213,7 +213,7 @@
     {
       "title": "Using calculation groups in DAX",
       "slug": "using-calculation-groups-in-dax",
-      "thumbnail": "https://i.vimeocdn.com/video/854620219_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854620219-6c36281626d0c81dff1aeeedd544c816a56c5d4350a6b96c3cde569468732c07-d_295x166",
       "date": "2020-02-08T16:29:06",
       "speakers": [
         {
@@ -231,7 +231,7 @@
     {
       "title": "Getting Started with Apache Spark",
       "slug": "getting-started-with-apache-spark",
-      "thumbnail": "https://i.vimeocdn.com/video/854621628_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854621628-90a96b7507d6125ab05d0d5a5c43440a41d6a215e8d33b1670bd3a7f6862ef0b-d_295x166",
       "date": "2020-02-08T16:27:50",
       "speakers": [
         {
@@ -249,7 +249,7 @@
     {
       "title": "Creating Accessible Power BI Reports",
       "slug": "creating-accessible-power-bi-reports",
-      "thumbnail": "https://i.vimeocdn.com/video/854621808_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854621808-5c595ecb118d27537207f232eb458991d5d123f961b7068dd4437a9015df5697-d_295x166",
       "date": "2020-02-08T16:26:29",
       "speakers": [
         {
@@ -267,7 +267,7 @@
     {
       "title": "Basics of Data Modeling for BI Reporting",
       "slug": "basics-of-data-modeling-for-bi-reporting",
-      "thumbnail": "https://i.vimeocdn.com/video/854623065_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854623065-a0db84037aaa32d04c934ad34d95a113f68fed48499d813ce98880043b5cb775-d_295x166",
       "date": "2020-02-08T16:20:52",
       "speakers": [
         {
@@ -285,7 +285,7 @@
     {
       "title": "A metadata approach to fixed width files",
       "slug": "a-metadata-approach-to-fixed-width-files",
-      "thumbnail": "https://i.vimeocdn.com/video/854625067_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854625067-7181f2ed4161ccaba476a757568fb14a2616a0ec3e624536c3ea2b3eb396c1b1-d_295x166",
       "date": "2020-02-08T16:19:15",
       "speakers": [
         {
@@ -303,7 +303,7 @@
     {
       "title": "Ethics in Data",
       "slug": "ethics-in-data",
-      "thumbnail": "https://i.vimeocdn.com/video/854624827_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854624827-363163b41d52d27a11212778ab23b84e4aead7bec861895f8df60c65206dcb1b-d_295x166",
       "date": "2020-02-08T16:17:42",
       "speakers": [
         {
@@ -325,7 +325,7 @@
     {
       "title": "ETL Using Python, Pandas, and Jupyter Notebook",
       "slug": "etl-using-python-pandas-and-jupyter-notebook",
-      "thumbnail": "https://i.vimeocdn.com/video/854626443_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854626443-6dbab1c4880358e08498ef860060c3f59a192b4a5ae14d5523e988458d7f6478-d_295x166",
       "date": "2020-02-08T16:14:32",
       "speakers": [
         {
@@ -351,7 +351,7 @@
     {
       "title": "More Common Than You Think: Mental Illness in Tech",
       "slug": "more-common-than-you-think-mental-illness-in-tech",
-      "thumbnail": "https://i.vimeocdn.com/video/854625923_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854625923-93d325df8b9a112cfea728d6839f0d30e2e4f11beaf569a482a5a510f627a2e8-d_295x166",
       "date": "2020-02-08T16:12:39",
       "speakers": [
         {
@@ -369,7 +369,7 @@
     {
       "title": "Data Vault on SQL Server Tabular Model and Power BI",
       "slug": "data-vault-on-sql-server-tabular-model-and-power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/854627598_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854627598-dab295cbfda44fec0d94010228f7a67d1b0d2c61c306b8f059d2515d122e9982-d_295x166",
       "date": "2020-02-08T16:11:11",
       "speakers": [
         {
@@ -391,7 +391,7 @@
     {
       "title": "Make Your Company Conversational using Azure Cognitive Services",
       "slug": "make-your-company-conversational-using-azure-cognitive-services",
-      "thumbnail": "https://i.vimeocdn.com/video/854627684_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854627684-3c1e89251aacfcaf47ab61e4c0d6844e49d478d892fb67dc8a9b79d75fb45b19-d_295x166",
       "date": "2020-02-08T16:08:46",
       "speakers": [
         {
@@ -409,7 +409,7 @@
     {
       "title": "Building a Strong Foundation for Data Analysis",
       "slug": "building-a-strong-foundation-for-data-analysis",
-      "thumbnail": "https://i.vimeocdn.com/video/854628797_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854628797-e57ab00f693b51693381ebc8e88bbb5de5b1410529ba753dcd56daa6c381c143-d_295x166",
       "date": "2020-02-08T16:07:08",
       "speakers": [
         {
@@ -427,7 +427,7 @@
     {
       "title": "Setting up a test lab with Hyper-V",
       "slug": "setting-up-a-test-lab-with-hyper-v",
-      "thumbnail": "https://i.vimeocdn.com/video/842319677_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/842319677-17c7d798238caec91735d1ebc9a787a5ba47dfaa50185c4080f5b2967b0b1be4-d_295x166",
       "date": "2019-12-07T19:21:50",
       "speakers": [
         {
@@ -445,7 +445,7 @@
     {
       "title": "Common TSQL Mistakes",
       "slug": "common-tsql-mistakes",
-      "thumbnail": "https://i.vimeocdn.com/video/833796580_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/833796580-626fbdb38336c10e8424d6fbff9a24f42966504bcd0e4bd5caea2fbc051b7eb4-d_295x166",
       "date": "2019-11-19T16:20:04",
       "speakers": [
         {
@@ -463,7 +463,7 @@
     {
       "title": "Quick GitHub overview for DBAs",
       "slug": "quick-github-overview-for-dbas",
-      "thumbnail": "https://i.vimeocdn.com/video/833796599_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/833796599-eaadeac3b55b0d1f5733194c127aaee731b06f2fac6c88de284fa39a2f8c58f3-d_295x166",
       "date": "2019-11-19T16:17:46",
       "speakers": [
         {
@@ -481,7 +481,7 @@
     {
       "title": "Insights from Tech Hiring Managers",
       "slug": "insights-from-tech-hiring-managers",
-      "thumbnail": "https://i.vimeocdn.com/video/824337184_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/824337184-630f1d286b62ea3a9ccd62a0f29d17ef5c70d38349683e1718f6054aa7cbda7c-d_295x166",
       "date": "2019-10-15T15:09:32",
       "speakers": [
         {
@@ -499,7 +499,7 @@
     {
       "title": "A Self-Tuning Fill Factor Technique for SQL Server",
       "slug": "a-self-tuning-fill-factor-technique-for-sql-server",
-      "thumbnail": "https://i.vimeocdn.com/video/808118447_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/808118447-ea0660be6fb8d76cbee632c45f277f9feb90fd03e67c6bf45bc8949d3cdca93c-d_295x166",
       "date": "2019-08-20T13:38:30",
       "speakers": [
         {
@@ -517,7 +517,7 @@
     {
       "title": "Multidimensional Data Cubes and Data Mining in the Real World",
       "slug": "multidimensional-data-cubes-and-data-mining-in-the-real-world",
-      "thumbnail": "https://i.vimeocdn.com/video/798964104_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/798964104-0d611439155564d1895dc7a29965af034f3e969889e3a4e881b027e1eb9ae24e-d_295x166",
       "date": "2019-07-13T14:09:40",
       "speakers": [
         {
@@ -535,7 +535,7 @@
     {
       "title": "Not All Data is Relational: An introduction to Cosmos DB",
       "slug": "not-all-data-is-relational-an-introduction-to-cosmos-db",
-      "thumbnail": "https://i.vimeocdn.com/video/798963911_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/798963911-12e10d92ef3816f78cc32f53ac6cf363bc69a35b6f06374872047377337c2a19-d_295x166",
       "date": "2019-07-13T14:08:25",
       "speakers": [
         {
@@ -553,7 +553,7 @@
     {
       "title": "Azure Databricks (ADB) and the Traditional DBA",
       "slug": "azure-databricks-adb-and-the-traditional-dba",
-      "thumbnail": "https://i.vimeocdn.com/video/798963741_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/798963741-2e8f9f26ca0969bb7269a1c4b9b3ce361b5eb2b13cfa62d49acca12592714eca-d_295x166",
       "date": "2019-07-13T14:07:03",
       "speakers": [
         {
@@ -571,7 +571,7 @@
     {
       "title": "CosmosDB is the missing piece to your Data puzzle!",
       "slug": "cosmosdb-is-the-missing-piece-to-your-data-puzzle",
-      "thumbnail": "https://i.vimeocdn.com/video/798801249_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/798801249-363d8b75d87125dd6d40193a2ee0e6ff77ecf79e315b84a37013f40bce28572a-d_295x166",
       "date": "2019-07-13T14:05:39",
       "speakers": [
         {
@@ -589,7 +589,7 @@
     {
       "title": "Querying Semistructured Data in Azure Data Lake with USQL",
       "slug": "querying-semistructured-data-in-azure-data-lake-with-usql-4",
-      "thumbnail": "https://i.vimeocdn.com/video/798800906_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/798800906-75aa3fc37b8a91273f3751c5dfb406dbe6c039b12b13dbcc90502df3fa56620c-d_295x166",
       "date": "2019-07-13T14:04:25",
       "speakers": [
         {
@@ -607,7 +607,7 @@
     {
       "title": "A Rocket Scientist Perspective on Index Column Selection ",
       "slug": "a-rocket-scientist-perspective-on-index-column-selection",
-      "thumbnail": "https://i.vimeocdn.com/video/798800671_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/798800671-732e7903129f6fdbfcbb16e5c293e289ea1a4bc92b1c84a011564bd95bd28c6e-d_295x166",
       "date": "2019-07-13T14:03:08",
       "speakers": [
         {
@@ -625,7 +625,7 @@
     {
       "title": "Successfully Migrating Existing Databases to Azure SQL Database ",
       "slug": "successfully-migrating-existing-databases-to-azure-sql-database-2",
-      "thumbnail": "https://i.vimeocdn.com/video/798800339_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/798800339-cca54a6dc26eb10f32f04ec56bf27d9574398baf2228a46752eb1f4f8c9e4238-d_295x166",
       "date": "2019-07-13T14:01:49",
       "speakers": [
         {
@@ -643,7 +643,7 @@
     {
       "title": "Scales, Measurements and Encoding Schemes",
       "slug": "scales-measurements-and-encoding-schemes",
-      "thumbnail": "https://i.vimeocdn.com/video/798800080_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/798800080-8dcfc95367686d0ed661c9c97d4be49fb3c228f47958a67d298bd074dbcc442f-d_295x166",
       "date": "2019-07-13T13:58:57",
       "speakers": [
         {
@@ -661,7 +661,7 @@
     {
       "title": "Make Database Documentation your Minion",
       "slug": "make-database-documentation-your-minion",
-      "thumbnail": "https://i.vimeocdn.com/video/798799737_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/798799737-7a31fd82a6a8c66547f288f8d06b26d1f40ae3f99f58d3c461ab5a8a6572eac5-d_295x166",
       "date": "2019-07-13T13:57:43",
       "speakers": [
         {
@@ -679,7 +679,7 @@
     {
       "title": "The Future of Database Development with Containers",
       "slug": "the-future-of-database-development-with-containers",
-      "thumbnail": "https://i.vimeocdn.com/video/798799501_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/798799501-7218f23199e135ca6cd87c1affd6abb84874d3d57e069282940fb09cfaa26df2-d_295x166",
       "date": "2019-07-13T13:55:01",
       "speakers": [
         {
@@ -697,7 +697,7 @@
     {
       "title": "SQL in Azure 101 ",
       "slug": "sql-in-azure-101",
-      "thumbnail": "https://i.vimeocdn.com/video/798692584_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/798692584-a9d2b1bf534be0f60e3800ee1f5556a2bb62de076faab32535c6003cc8e7b7b4-d_295x166",
       "date": "2019-07-13T13:53:29",
       "speakers": [
         {
@@ -715,7 +715,7 @@
     {
       "title": "The SQL Career Roadmap for Women (and Men)",
       "slug": "the-sql-career-roadmap-for-women-and-men",
-      "thumbnail": "https://i.vimeocdn.com/video/798799190_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/798799190-c51aff27b7f15d469523f3c12c9692eb79020c56339a7f37f70a424eb579e71e-d_295x166",
       "date": "2019-07-13T13:52:09",
       "speakers": [
         {
@@ -733,7 +733,7 @@
     {
       "title": "The Master Stored Procedure Workshop: Part 2",
       "slug": "the-master-stored-procedure-workshop-part-2",
-      "thumbnail": "https://i.vimeocdn.com/video/798692413_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/798692413-8bc525f223ae01365866fb0b043f273b74d134c710c3aa900d634d1375650061-d_295x166",
       "date": "2019-07-13T13:49:16",
       "speakers": [
         {
@@ -751,7 +751,7 @@
     {
       "title": "The Master Stored Procedure Workshop: Part 1",
       "slug": "the-master-stored-procedure-workshop-part-1",
-      "thumbnail": "https://i.vimeocdn.com/video/798692239_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/798692239-4d176c523ff52cb9550acb22f1a7ee2bbe25fe95480b551424cce7ecbf5e83bf-d_295x166",
       "date": "2019-07-13T13:47:46",
       "speakers": [
         {
@@ -769,7 +769,7 @@
     {
       "title": "Power BI Dashboard - Creating End to End Solutions",
       "slug": "power-bi-dashboard-creating-end-to-end-solutions",
-      "thumbnail": "https://i.vimeocdn.com/video/798692079_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/798692079-d7861a7474203849e127cac284b67d01b774d375bfe9eaa83c695ad9828748a2-d_295x166",
       "date": "2019-07-13T13:46:05",
       "speakers": [
         {
@@ -787,7 +787,7 @@
     {
       "title": "Azure SQL Managed Instance the New Hotness",
       "slug": "azure-sql-managed-instance-the-new-hotness-3",
-      "thumbnail": "https://i.vimeocdn.com/video/798691939_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/798691939-2afa55ae3cc6d1e00ad865f531bf2440046b796029efc4c8e9b8ce8d686c32e9-d_295x166",
       "date": "2019-07-13T13:44:10",
       "speakers": [
         {
@@ -805,7 +805,7 @@
     {
       "title": "MS SQL In Containers",
       "slug": "ms-sql-in-containers",
-      "thumbnail": "https://i.vimeocdn.com/video/796753473_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/796753473-0b5734dd4a892d8cc9cafbffb70b92e5011abaa4ce715c10eb4aae86eb63d4a6-d_295x166",
       "date": "2019-06-23T16:21:23",
       "speakers": [
         {
@@ -823,7 +823,7 @@
     {
       "title": "MS SQL Modern Migration Tour 2019 - Features and Reasons to modernize",
       "slug": "ms-sql-modern-migration-tour-2019-features-and-reasons-to-modernize",
-      "thumbnail": "https://i.vimeocdn.com/video/796753439_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/796753439-31e280e6b89c9aad4e2254fa4f9bf170ac03860dd73670efc80e00420e547447-d_295x166",
       "date": "2019-06-23T16:06:04",
       "speakers": [
         {
@@ -841,7 +841,7 @@
     {
       "title": "MS SQL Modern Migration Tour 2019 - Migration and Modernization",
       "slug": "ms-sql-modern-migration-tour-2019-migration-and-modernization",
-      "thumbnail": "https://i.vimeocdn.com/video/796753340_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/796753340-87b92f11e0441c6b77d4be2ad6c2253545cc7050569afe1944c56a1501b120f6-d_295x166",
       "date": "2019-06-23T16:04:46",
       "speakers": [
         {
@@ -859,7 +859,7 @@
     {
       "title": "Become the MVP: Soft Skills for a Hard Market",
       "slug": "become-the-mvp-soft-skills-for-a-hard-market",
-      "thumbnail": "https://i.vimeocdn.com/video/796753194_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/796753194-996bd538202633d73542e3a68492a3266bf45e4ae81157531cddbf3a81638fe9-d_295x166",
       "date": "2019-06-18T15:39:15",
       "speakers": [
         {
@@ -877,7 +877,7 @@
     {
       "title": "Introduction to SQL Notebooks ",
       "slug": "introduction-to-sql-notebooks",
-      "thumbnail": "https://i.vimeocdn.com/video/786032093_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/786032093-62cdf5542c27d76c274dd26a1e8e28d481637808a52f7815430100507309ccbc-d_295x166",
       "date": "2019-05-21T14:33:30",
       "speakers": [
         {
@@ -895,7 +895,7 @@
     {
       "title": "Intro to Power BI, Pros and Cons",
       "slug": "intro-to-power-bi-pros-and-cons",
-      "thumbnail": "https://i.vimeocdn.com/video/778862340_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/778862340-9114141d41d530f35d33fc74e35bb7f23bfa5618b9f87a80394e342cfd90101b-d_295x166",
       "date": "2019-04-16T13:35:56",
       "speakers": [
         {
@@ -913,7 +913,7 @@
     {
       "title": "SQL Server 2019 New Features",
       "slug": "sql-server-2019-new-features",
-      "thumbnail": "https://i.vimeocdn.com/video/769268281_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/769268281-738e457c9f29dd96b92cb4bac7875d24fbdf8e8951ed61aa393a8339e89057e1-d_295x166",
       "date": "2019-03-19T16:24:05",
       "speakers": [
         {
@@ -931,7 +931,7 @@
     {
       "title": "MVP Locking and Blocking",
       "slug": "mvp-locking-and-blocking",
-      "thumbnail": "https://i.vimeocdn.com/video/760925178_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/760925178-736f42f98cce95c8531dbfe22dc7828e755df152d23f9a1bcef37e4856fde78b-d_295x166",
       "date": "2019-02-19T15:30:18",
       "speakers": [
         {
@@ -949,7 +949,7 @@
     {
       "title": "A Primer on SQL Server Clustered Index Architecture",
       "slug": "a-primer-on-sql-server-clustered-index-architecture",
-      "thumbnail": "https://i.vimeocdn.com/video/752812378_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/752812378-cd6bdad8e37a309027e99fe02824b82f6aff40671be82aa7c831106a4bf999f1-d_295x166",
       "date": "2019-01-15T15:51:29",
       "speakers": [
         {
@@ -967,7 +967,7 @@
     {
       "title": "Table Partitioning: Secret Weapon for Big Data Problems",
       "slug": "table-partitioning-secret-weapon-for-big-data-problems",
-      "thumbnail": "https://i.vimeocdn.com/video/739777659_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/739777659-704fb5a78fcd61f352da84d262ac041b053aa0e33e6dbcb22266f76302cf3eb5-d_295x166",
       "date": "2018-11-13T16:52:15",
       "speakers": [
         {
@@ -985,7 +985,7 @@
     {
       "title": "Azure SQL Managed Instance the New Hotness",
       "slug": "azure-sql-managed-instance-the-new-hotness-2",
-      "thumbnail": "https://i.vimeocdn.com/video/732783608_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/732783608-bfe051d1dedc3ef9f4f506dcce754d9f5cdd8189a453f68deb9ace078fb0ba72-d_295x166",
       "date": "2018-10-16T14:25:30",
       "speakers": [
         {
@@ -1003,7 +1003,7 @@
     {
       "title": "What can Python in SQL Server do for you?",
       "slug": "what-can-python-in-sql-server-do-for-you",
-      "thumbnail": "https://i.vimeocdn.com/video/726721101_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/726721101-858e6a633cecdcd6e59f1e70013b8609f4837fe1aaa8acddd2e25b0cf601149c-d_295x166",
       "date": "2018-09-18T23:10:26",
       "speakers": [
         {
@@ -1021,7 +1021,7 @@
     {
       "title": "DBA's guide to full stack performance troubleshooting",
       "slug": "dbas-guide-to-full-stack-performance-troubleshooting",
-      "thumbnail": "https://i.vimeocdn.com/video/721045083_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/721045083-fd2b1090e2a3ea84c9b846dac4206cf4398b3ce0b20026a20471ba829460c131-d_295x166",
       "date": "2018-08-21T17:36:47",
       "speakers": [
         {
@@ -1039,7 +1039,7 @@
     {
       "title": "Climbing SQL Server Index B-Tree (from user perspective)",
       "slug": "climbing-sql-server-index-b-tree-from-user-perspective",
-      "thumbnail": "https://i.vimeocdn.com/video/701148730_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/701148730-d856c7ec28055270548a32e01f5c19b45f687b1be6df1fb5cd2498bbb3d1e0c5-d_295x166",
       "date": "2018-05-15T22:01:28",
       "speakers": [
         {
@@ -1057,7 +1057,7 @@
     {
       "title": "Make Your Queries Go Faster",
       "slug": "make-your-queries-go-faster",
-      "thumbnail": "https://i.vimeocdn.com/video/695291115_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/695291115-27ec15d436039842cdd80db8546df8a21539f872d83ebb279b74fa4326c4be2d-d_295x166",
       "date": "2018-04-17T18:19:17",
       "speakers": [
         {
@@ -1075,7 +1075,7 @@
     {
       "title": "Graphical data modeling using enterprise modeling tools",
       "slug": "graphical-data-modeling-using-enterprise-modeling-tools",
-      "thumbnail": "https://i.vimeocdn.com/video/684451858_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/684451858-0d11013300a7cf5100791393c60a6c29bceb9e707897fe6e496f59a0be3075bb-d_295x166",
       "date": "2018-02-20T19:18:13",
       "speakers": [
         {
@@ -1088,7 +1088,7 @@
     {
       "title": "T-SQL Windowing Functions",
       "slug": "t-sql-windowing-functions",
-      "thumbnail": "https://i.vimeocdn.com/video/673576571_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/673576571-9c8fefddbe895ae75af165070445d78d3a7d4ddca4637aa949aa4f76d2947afd-d_295x166",
       "date": "2017-12-19T13:08:16",
       "speakers": [
         {
@@ -1106,7 +1106,7 @@
     {
       "title": "Using T-SQL to find differences between tables",
       "slug": "using-t-sql-to-find-differences-between-tables",
-      "thumbnail": "https://i.vimeocdn.com/video/651776320_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/651776320-0f94e93c95e354fab27e7754b26990db797c6d3db2134777fe22b8af0d750a55-d_295x166",
       "date": "2017-08-15T14:34:00",
       "speakers": [
         {
@@ -1124,7 +1124,7 @@
     {
       "title": "HA 101 - Which High Availability Feature(s) Are For You?",
       "slug": "ha-101-which-high-availability-features-are-for-you",
-      "thumbnail": "https://i.vimeocdn.com/video/650131252_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/650131252-c0bb3f63b6a464e2f36d84dcaf93c70cdc33996abaabf16644186ad7c8e56ef2-d_295x166",
       "date": "2017-07-18T13:59:05",
       "speakers": [
         {
@@ -1142,7 +1142,7 @@
     {
       "title": "ETL The Old Fashioned Way ",
       "slug": "etl-the-old-fashioned-way",
-      "thumbnail": "https://i.vimeocdn.com/video/641739577_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/641739577-70f27ebdd91da644985709480da8b929b0e10a5d97b6a2249d5bccd88bbfc785-d_295x166",
       "date": "2017-06-20T22:06:47",
       "speakers": [
         {
@@ -1160,7 +1160,7 @@
     {
       "title": "SQL Server on Linux ",
       "slug": "sql-server-on-linux",
-      "thumbnail": "https://i.vimeocdn.com/video/631738426_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/631738426-0578c7fe6a67f5a6a7eccc806983cbc269be8dd17511ffa0ef12f97536be8e18-d_295x166",
       "date": "2017-04-18T13:03:59",
       "speakers": [
         {
@@ -1178,7 +1178,7 @@
     {
       "title": "Our experience with nonclustered columnstore indexes",
       "slug": "our-experience-with-nonclustered-columnstore-indexes",
-      "thumbnail": "https://i.vimeocdn.com/video/628438702_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/628438702-5ad5893811dd135cd64c3dfe637658c2050cf3e94c869bae1b987866d5288f3e-d_295x166",
       "date": "2017-03-21T14:15:14",
       "speakers": [
         {
@@ -1196,7 +1196,7 @@
     {
       "title": "The Backup Tune-up for Speed",
       "slug": "the-backup-tune-up-for-speed",
-      "thumbnail": "https://i.vimeocdn.com/video/619877850_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/619877850-4e891b445f40d4538e79cfc6158de1549c6ccbc101b429db83879d71e656d005-d_295x166",
       "date": "2017-02-21T11:40:27",
       "speakers": [
         {
@@ -1214,7 +1214,7 @@
     {
       "title": "Understanding Locking with Distributed Systems",
       "slug": "understanding-locking-with-distributed-systems",
-      "thumbnail": "https://i.vimeocdn.com/video/613364449_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/613364449-147fc28eb89f3359689056a149c3ee98485b76ae89864e7642a76d7df603e455-d_295x166",
       "date": "2017-01-17T11:27:30",
       "speakers": [
         {
@@ -1232,7 +1232,7 @@
     {
       "title": "Parameter Sniffing the Good, the Bad, and the Ugly",
       "slug": "parameter-sniffing-the-good-the-bad-and-the-ugly",
-      "thumbnail": "https://i.vimeocdn.com/video/598533698_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/598533698-62052e81098581e6ddb3c3cf23227bcf627408e253e44a49b4ced0d92a8a52ef-d_295x166",
       "date": "2016-10-18T10:43:46",
       "speakers": [
         {
@@ -1250,7 +1250,7 @@
     {
       "title": "Introduction to Agile Data Warehouse Design",
       "slug": "introduction-to-agile-data-warehouse-design",
-      "thumbnail": "https://i.vimeocdn.com/video/592958259_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/592958259-146f48f6ccf31209e2219253bd134f889b15ffe45c5fb31716cfaf1cee9df892-d_295x166",
       "date": "2016-09-22T13:26:25",
       "speakers": [
         {
@@ -1268,7 +1268,7 @@
     {
       "title": "What's New SQL Server 2016 (BI) ",
       "slug": "whats-new-sql-server-2016-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/572713688_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/572713688-0cbe4a47c0ff35562d4571cb8596e5cfd2d05febf6813de9c9384c70b563fea6-d_295x166",
       "date": "2016-05-25T22:41:44",
       "speakers": [
         {
@@ -1286,7 +1286,7 @@
     {
       "title": "What's New SQL Server 2016 (engine)",
       "slug": "whats-new-sql-server-2016-engine",
-      "thumbnail": "https://i.vimeocdn.com/video/572507846_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/572507846-4a65031e069625c1fe2d4ae0f16e3b3f5603eb18143a9ebf0b9f8852ed9b6988-d_295x166",
       "date": "2016-05-24T23:11:13",
       "speakers": [
         {
@@ -1304,7 +1304,7 @@
     {
       "title": "DBA Survival Guide: Daily Checklist and Server Monitoring",
       "slug": "dba-survival-guide-daily-checklist-and-server-monitoring",
-      "thumbnail": "https://i.vimeocdn.com/video/561392072_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/561392072-a8a4d429119f00839cb29b3037b29c0bf13ec2a87766a6e5ff80e9c1f4b18664-d_295x166",
       "date": "2016-02-16T13:33:02",
       "speakers": [
         {
@@ -1322,7 +1322,7 @@
     {
       "title": "What is the SSIS Catalog? and Why do I care?",
       "slug": "what-is-the-ssis-catalog-and-why-do-i-care",
-      "thumbnail": "https://i.vimeocdn.com/video/548363727_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/548363727-55f148266691351130926fb232114cfee4c26884e25b6fb67cc098f31c4dc4ba-d_295x166",
       "date": "2015-12-16T18:28:33",
       "speakers": [
         {
@@ -1340,7 +1340,7 @@
     {
       "title": "Troubleshooting Plan Changes with Query Store in SQL 2016",
       "slug": "troubleshooting-plan-changes-with-query-store-in-sql-2016",
-      "thumbnail": "https://i.vimeocdn.com/video/540605076_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/540605076-39e7434e84bbf078235fa89c14e0952aeef0482b8435a49920ed34af26c8ec7a-d_295x166",
       "date": "2015-10-20T12:37:45",
       "speakers": [
         {
@@ -1358,7 +1358,7 @@
     {
       "title": "IS INDEPENDENT CONSULTING FOR ME?",
       "slug": "is-independent-consulting-for-me",
-      "thumbnail": "https://i.vimeocdn.com/video/489458367_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/489458367-0270e88bb1cd052c0ed430057ea64c34e0dab4f7b7359876a0b489c460b6db5f-d_295x166",
       "date": "2014-09-16T16:24:48",
       "speakers": [
         {
@@ -1380,7 +1380,7 @@
     {
       "title": "Leveraging the SQL Server Data Tools to ease Database development",
       "slug": "leveraging-the-sql-server-data-tools-to-ease-database-development",
-      "thumbnail": "https://i.vimeocdn.com/video/486707377_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/486707377-6e801b7af27e8d76f92e621c41953c3dc03d7ba2fede66707d8ff0d17281eb73-d_295x166",
       "date": "2014-08-20T18:17:24",
       "speakers": [
         {
@@ -1398,7 +1398,7 @@
     {
       "title": "New features of SQL 2014",
       "slug": "new-features-of-sql-2014",
-      "thumbnail": "https://i.vimeocdn.com/video/486706769_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/486706769-157f21c8a9c43c936b060d8aacb058469469a2a6878cdef02b0e595a42fd618f-d_295x166",
       "date": "2014-08-19T18:15:14",
       "speakers": [
         {

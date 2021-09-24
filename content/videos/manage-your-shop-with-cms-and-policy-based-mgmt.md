@@ -10,11 +10,11 @@
   "abstract": "<p>In this presentation we talk about Central Management Server and how it can help you manage a disperse environment. We will also cover what Policy Based Management is and how you can leverage its power to better manage your environment. With PBM we'll see what it can and cannot do to help you enforce standards in your enterprise. We will cover and demonstrate PBM for the beginner from creating and evaluating policies to receiving alerts on policy violations.</p>",
   "description": "<p>In this presentation we talk about Central Management Server and how it can help you manage a disperse environment. We will also cover what Policy Based Management is and how you can leverage its power to better manage your environment. With PBM we'll see what it can and cannot do to help you enforce standards in your enterprise. We will cover and demonstrate PBM for the beginner from creating and evaluating policies to receiving alerts on policy violations.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/495923544_295x166.jpg"
+    "https://i.vimeocdn.com/video/495923544-5bb58b9aecdba79d310caee1e53fcf3b20ea23d3c5cf8125fd891cd40b1ec244-d_295x166"
   ],
   "vimeo": "111342054",
   "moreinfo": null,
-  "thumbnail": "https://i.vimeocdn.com/video/495923544_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/495923544-5bb58b9aecdba79d310caee1e53fcf3b20ea23d3c5cf8125fd891cd40b1ec244-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/111342054.hd.mp4?s=0ea1cdada94f57f966a99de31ed206c93e1e9a40&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/111342054.sd.mp4?s=3d6c63139279f9c1874413ebcb9273b96f652709&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 675,

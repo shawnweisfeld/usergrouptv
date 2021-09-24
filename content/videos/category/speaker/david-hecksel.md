@@ -12,7 +12,7 @@
     {
       "title": "Data Integration: Who, What, When and Why",
       "slug": "data-integration-who-what-when-and-why",
-      "thumbnail": "https://i.vimeocdn.com/video/488137582_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/488137582-1a27088ca3b7496a2a084b47e158a5361209ffecb6ee6afbbf1ded4d54c33b5d-d_295x166",
       "date": "2012-08-24T00:11:05",
       "meetups": [
         {
@@ -42,7 +42,7 @@
     {
       "title": "Introduction to Big Data - Finding Waldo",
       "slug": "introduction-to-big-data-finding-waldo",
-      "thumbnail": "https://i.vimeocdn.com/video/488136582_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/488136582-cdd5cd4acfd82bc95367c655073d9b1032a235c4c6ddebf5d0bc497fd4552f73-d_295x166",
       "date": "2012-08-24T00:03:38",
       "meetups": [
         {

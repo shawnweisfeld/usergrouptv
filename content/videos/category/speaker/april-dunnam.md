@@ -12,7 +12,7 @@
     {
       "title": "Quick Tips for Elegant Business Apps",
       "slug": "quick-tips-for-elegant-business-apps",
-      "thumbnail": "https://i.vimeocdn.com/video/831974276_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/831974276-95095755802ce2f88b26bc8b647c89be00c41bfab2cd51b07226467f7854c95c-d_295x166",
       "date": "2019-11-13T17:25:35",
       "meetups": [
         {

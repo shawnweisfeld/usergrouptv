@@ -12,7 +12,7 @@
     {
       "title": "Back from the Brink: Clean, Secure, and Resubmit after a hack",
       "slug": "back-from-the-brink-clean-secure-and-resubmit-after-a-hack",
-      "thumbnail": "https://i.vimeocdn.com/video/818416938_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/818416938-d6d853cf5343b06942bcdb9e0dc3a90651b5978283bc01da9cd471f07dcfd351-d_295x166",
       "date": "2019-09-28T17:00:09",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Copy and Paste Coding - Powerful snippets for non-coders",
       "slug": "copy-and-paste-coding-powerful-snippets-for-non-coders",
-      "thumbnail": "https://i.vimeocdn.com/video/818411146_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/818411146-3a4fdcdeaa4137993b961ab4d005b570e26ab8155881e910d2e85ba12a175a02-d_295x166",
       "date": "2019-09-28T16:15:32",
       "meetups": [
         {

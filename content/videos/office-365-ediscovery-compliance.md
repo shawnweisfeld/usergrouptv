@@ -10,11 +10,11 @@
   "abstract": "<p>Compliance for any organization can be a huge expense, and the cost of not being compliant can bring with it steep penalties.  In this session, we will explore eDiscovery aspects of compliance and walk through the eDiscovery processes and tools in Office 365. </p>",
   "description": "<p>Compliance for any organization can be a huge expense, and the cost of not being compliant can bring with it steep penalties.  In this session, we will explore eDiscovery aspects of compliance and walk through the eDiscovery processes and tools in Office 365. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/651775311_295x166.jpg"
+    "https://i.vimeocdn.com/video/651775311-d24113cef14138f431950c56e01276a4293cb91a3b9b28132871b74cbe9332b5-d_295x166"
   ],
   "vimeo": "231057670",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/239877508/",
-  "thumbnail": "https://i.vimeocdn.com/video/651775311_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/651775311-d24113cef14138f431950c56e01276a4293cb91a3b9b28132871b74cbe9332b5-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/231057670.hd.mp4?s=f71e6f4755d93d13d0a85385d738492330a6dac6&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/231057670.sd.mp4?s=3c785c8e0848b0424ac1356bae5f7d900c65ee4e&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 17,

@@ -12,7 +12,7 @@
     {
       "title": "Database Design from User Requirements",
       "slug": "database-design-from-user-requirements",
-      "thumbnail": "https://i.vimeocdn.com/video/484299508_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/484299508-8c73e22d2480912be76095f7e64552a5b52ecb87aefb734ac7e9633c5e2b33e6-d_295x166",
       "date": "2013-08-24T11:28:30",
       "meetups": [
         {

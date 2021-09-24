@@ -12,7 +12,7 @@
     {
       "title": "Ye Olde TDD",
       "slug": "ye-olde-tdd",
-      "thumbnail": "https://i.vimeocdn.com/video/501052476_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/501052476-5df202da63a51e55c79487632f0aa319f18aab854a4283b5a4fbe210c2c1fce0-d_295x166",
       "date": "2011-02-25T13:30:42",
       "meetups": [
         {

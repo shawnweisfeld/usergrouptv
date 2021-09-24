@@ -11,11 +11,11 @@
   "abstract": "<p>One of the key platforms for building crazy performant web application is to use statically generated pages. A ton of systems exist for building these types of apps: like Jekyll, Gatsy, Gridsome, and more. If you're supporting the Microsoft ecosystem though, deploying these types of applications typically happen in two ways: Azure App Services or Azure Blob Storage. Both ways work, but have drawbacks for static sites. In this session, you'll learn about the new Azure Static Web Apps platform and how you can get the best of all worlds in terms of performance and functionality.</p>",
   "description": "<p>One of the key platforms for building crazy performant web application is to use statically generated pages. A ton of systems exist for building these types of apps: like Jekyll, Gatsy, Gridsome, and more. If you're supporting the Microsoft ecosystem though, deploying these types of applications typically happen in two ways: Azure App Services or Azure Blob Storage. Both ways work, but have drawbacks for static sites. In this session, you'll learn about the new Azure Static Web Apps platform and how you can get the best of all worlds in terms of performance and functionality.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/949513028_295x166.jpg"
+    "https://i.vimeocdn.com/video/949513028-42aff8db7f331bb6606edd10f26841400ab9b8188d6eaf12a21bb4eff0bec9f6-d_295x166"
   ],
   "vimeo": "453292618",
   "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/270945478/",
-  "thumbnail": "https://i.vimeocdn.com/video/949513028_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/949513028-42aff8db7f331bb6606edd10f26841400ab9b8188d6eaf12a21bb4eff0bec9f6-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/453292618.hd.mp4?s=9dbdcd955af25deb621c1039574446bbcf9d4c11&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/453292618.sd.mp4?s=26da8d8d59a340f1712313e0cc5301b76c18279d&profile_id=139&oauth2_token_id=20985841",
   "recordingID": 773,
@@ -36,7 +36,7 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 41
+      "count": 42
     }
   ],
   "meetups": [

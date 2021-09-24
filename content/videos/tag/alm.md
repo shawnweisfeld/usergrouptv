@@ -11,7 +11,7 @@
     {
       "title": "What's new in Application Lifecycle Management 2013",
       "slug": "whats-new-in-application-lifecycle-management-2013",
-      "thumbnail": "https://i.vimeocdn.com/video/487541588_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/487541588-64c5fbc5d8991880fa31cbdfeb71b11461fd706accbba6f468cd9e52066a2f63-d_295x166",
       "date": "2013-03-01T20:39:55",
       "meetups": [
         {
@@ -29,7 +29,7 @@
     {
       "title": "Agile Projects with Microsoft ALM",
       "slug": "agile-projects-with-microsoft-alm",
-      "thumbnail": "https://i.vimeocdn.com/video/495918685_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/495918685-db86eb268ba8e87d586e1a28de951f7f31150a64f1afcf44d1f680b82ba514af-d_295x166",
       "date": "2012-04-20T17:07:43",
       "meetups": [
         {

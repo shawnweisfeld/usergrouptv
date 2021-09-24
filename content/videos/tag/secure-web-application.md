@@ -11,7 +11,7 @@
     {
       "title": "The Anatomy of a Secure Web Application Using Java EE, Spring Security and Apache Fortress",
       "slug": "the-anatomy-of-a-secure-web-application-using-java-ee-spring-security-and-apache-fortress",
-      "thumbnail": "https://i.vimeocdn.com/video/660003610_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/660003610-44b7a98f7fe333acee83d7336de845846620f94934672fda799303efcbb50a18-d_295x166",
       "date": "2017-10-05T22:00:33",
       "meetups": [
         {

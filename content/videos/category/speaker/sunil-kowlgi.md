@@ -12,7 +12,7 @@
     {
       "title": "Let the right one in: Securing files on AWS S3",
       "slug": "let-the-right-one-in-securing-files-on-aws-s3",
-      "thumbnail": "https://i.vimeocdn.com/video/699652292_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/699652292-ade69f36cd49b3594aa5fecf6aa5360c19d84b4d0636b111b076637b8813976b-d_295x166",
       "date": "2018-05-05T15:57:19",
       "meetups": [
         {

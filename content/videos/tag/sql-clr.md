@@ -11,7 +11,7 @@
     {
       "title": "Introduction to SQL CLR",
       "slug": "introduction-to-sql-clr",
-      "thumbnail": "https://i.vimeocdn.com/video/500557129_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/500557129-eba7d92414a919d537e62ea830aa2ab1383c7228f1b716fb4f66230d54e156b4-d_295x166",
       "date": "2011-04-02T22:05:23",
       "meetups": [
         {

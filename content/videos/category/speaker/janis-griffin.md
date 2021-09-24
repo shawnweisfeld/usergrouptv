@@ -12,7 +12,7 @@
     {
       "title": "HiHo! HiHo! SQL Server on Linux, We Go!",
       "slug": "hiho-hiho-sql-server-on-linux-we-go",
-      "thumbnail": "https://i.vimeocdn.com/video/719306607_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/719306607-5f031a4112b5f970caaa1b5019f26e15ca5cdf0435291be287e198fa9025454c-d_295x166",
       "date": "2018-08-11T15:52:11",
       "meetups": [
         {

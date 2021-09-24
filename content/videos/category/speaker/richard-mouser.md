@@ -12,7 +12,7 @@
     {
       "title": "STAGES AND SET DESIGN",
       "slug": "stages-and-set-design",
-      "thumbnail": "https://i.vimeocdn.com/video/486705644_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/486705644-1342b04077d8d680db5bef0ec25bd887643073f4e0185caaa6ff40b5f02caeae-d_295x166",
       "date": "2014-08-22T17:41:02",
       "meetups": [
         {

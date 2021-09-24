@@ -10,11 +10,11 @@
   "abstract": "<p>Have you ever wanted to know how Transparent Database Encryption (TDE) works or how you set it up? This session will go over all the steps and caveats that go with this technology. This is a topic that is an Enterprise Feature, but allows you to have your database encrypted on disk. We will discuss the Encryption Hierarchy as well as how it relates to SQL Server TDE.</p>",
   "description": "<p>Have you ever wanted to know how Transparent Database Encryption (TDE) works or how you set it up? This session will go over all the steps and caveats that go with this technology. This is a topic that is an Enterprise Feature, but allows you to have your database encrypted on disk. We will discuss the Encryption Hierarchy as well as how it relates to SQL Server TDE.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/495918738_295x166.jpg"
+    "https://i.vimeocdn.com/video/495918738-de3b69f2f055d349607df675f36cd851c5a89264f0f6ef4a065efa30dab0c1db-d_295x166"
   ],
   "vimeo": "111338154",
   "moreinfo": null,
-  "thumbnail": "https://i.vimeocdn.com/video/495918738_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/495918738-de3b69f2f055d349607df675f36cd851c5a89264f0f6ef4a065efa30dab0c1db-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/111338154.hd.mp4?s=01d3b0069c1da46277ae69c8b1a30d3e1c52ecd7&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/111338154.sd.mp4?s=f369ff94ce804f11a02fcc3c0f2c6b089bbcaf74&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 745,

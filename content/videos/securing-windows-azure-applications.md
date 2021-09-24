@@ -10,11 +10,11 @@
   "abstract": "<p>In this session we will explore various options to secure applications hosted on Windows Azure platform which range from simple through complex multi-enterprise scenarios. We will explore SAML based approach as well as simple forms authentication schemes. The session includes a mix of slides and demos</p>",
   "description": "<p>In this session we will explore various options to secure applications hosted on Windows Azure platform which range from simple through complex multi-enterprise scenarios. We will explore SAML based approach as well as simple forms authentication schemes. The session includes a mix of slides and demos</p>",
   "images": [
-    "https://i.vimeocdn.com/video/487539912_295x166.jpg"
+    "https://i.vimeocdn.com/video/487539912-5ac6bf993ac2856f133c0ff4e0559309e0dae1c486b3267d70373bdf7a5aa655-d_295x166"
   ],
   "vimeo": "104883951",
   "moreinfo": "http://www.houstontechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/487539912_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/487539912-5ac6bf993ac2856f133c0ff4e0559309e0dae1c486b3267d70373bdf7a5aa655-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/104883951.hd.mp4?s=118c58d076ef36bb71d9ca5a145da98635af944e&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/104883951.sd.mp4?s=f0042d274922aeecbcba2158a363732b64d4609a&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 581,

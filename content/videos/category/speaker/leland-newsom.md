@@ -12,7 +12,7 @@
     {
       "title": "Enabling Agility through DevOps",
       "slug": "enabling-agility-through-devops",
-      "thumbnail": "https://i.vimeocdn.com/video/703389833_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/703389833-09620d4206ff9ea4d1f558fa06caac0a4781529135a3f8b68689ea4a6a0ea648-d_295x166",
       "date": "2018-05-24T16:40:48",
       "meetups": [
         {

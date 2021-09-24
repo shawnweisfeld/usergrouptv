@@ -10,11 +10,11 @@
   "abstract": "",
   "description": "",
   "images": [
-    "https://i.vimeocdn.com/video/491651964_295x166.jpg"
+    "https://i.vimeocdn.com/video/491651964-720d4d7315050f023c5ef91e2a8469a6834ddd2be4d21560bd3bde1bdfe4ecea-d_295x166"
   ],
   "vimeo": "108060619",
   "moreinfo": "http://austincodecamp2012.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/491651964_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/491651964-720d4d7315050f023c5ef91e2a8469a6834ddd2be4d21560bd3bde1bdfe4ecea-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/108060619.hd.mp4?s=3eee50b1ed213cf807ef0e468b6a5892dac0c8c8&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/108060619.sd.mp4?s=73fa8ed03a6803dce1e4d3ff1771c5da17fb9f78&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 570,

@@ -10,11 +10,11 @@
   "abstract": "<p>You know the rules of TDD, rules are made to be broken. Do you have questions like: How do I use TDD to design my code? How much coverage is enough? How do I know when to cut bait and move on? Does TDD have to be slower than just writing code? How do I convince my manager that we need to use TDD? Come get sane answers to these questions!\r\n</p>",
   "description": "<p>You know the rules of TDD, rules are made to be broken. Do you have questions like: How do I use TDD to design my code? How much coverage is enough? How do I know when to cut bait and move on? Does TDD have to be slower than just writing code? How do I convince my manager that we need to use TDD? Come get sane answers to these questions!\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/486708987_295x166.jpg"
+    "https://i.vimeocdn.com/video/486708987-9c3610291f7b9ccfa4a5d9fe39e9c86b2d8984283772f7e345c3c7a286b8b75a-d_295x166"
   ],
   "vimeo": "104231838",
   "moreinfo": "http://www.improvingenterprises.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/486708987_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/486708987-9c3610291f7b9ccfa4a5d9fe39e9c86b2d8984283772f7e345c3c7a286b8b75a-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/104231838.hd.mp4?s=dd0e93c22451926f637d27c83463d58a109d6b6a&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/104231838.sd.mp4?s=1413b60579bf553a073180af55c9a92f6d8e876f&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 1008,

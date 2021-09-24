@@ -10,11 +10,11 @@
   "abstract": "<p>You can't wait to move your databases to an Azure PaaS offering so you don't have to patch and maintain an operating system and SQL Server.  You looked at Azure SQL DB, but there are some limitations that prevent you from migrating to this service. Don't worry, you're not stranded.  There is a new option designed to \"Lift and Shift\" your workload to Azure PaaS.  It's a brand new offering that just came out of private preview and into public preview.  We'll discuss this new offering, its advantages, and how you can migrate with ease. </p>",
   "description": "<p>You can't wait to move your databases to an Azure PaaS offering so you don't have to patch and maintain an operating system and SQL Server.  You looked at Azure SQL DB, but there are some limitations that prevent you from migrating to this service. Don't worry, you're not stranded.  There is a new option designed to \"Lift and Shift\" your workload to Azure PaaS.  It's a brand new offering that just came out of private preview and into public preview.  We'll discuss this new offering, its advantages, and how you can migrate with ease. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/798691939_295x166.jpg"
+    "https://i.vimeocdn.com/video/798691939-2afa55ae3cc6d1e00ad865f531bf2440046b796029efc4c8e9b8ce8d686c32e9-d_295x166"
   ],
   "vimeo": "348150499",
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=93230",
-  "thumbnail": "https://i.vimeocdn.com/video/798691939_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/798691939-2afa55ae3cc6d1e00ad865f531bf2440046b796029efc4c8e9b8ce8d686c32e9-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/348150499.hd.mp4?s=384e9814026220373e9f4de608ea11f3c3332dbf&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/348150499.sd.mp4?s=0a285f6897947288ff9f6c07f5967e717d3dd6c7&profile_id=139&oauth2_token_id=20985841",
   "recordingID": 296,

@@ -10,11 +10,11 @@
   "abstract": "<p>Coding Naked: UI Edition<br />\r\nPractical steps to moving towards & embracing TDD in your UI<br />\r\nAutomated Unit Tests are your first line of defense to reducing technical debt, increasing code quality and efficiency. Come learn why TDD is not a fancy practice for the coding elite, but an understandable, obtainable and practical approach to delivering value for every developer, and how, when done properly, will increase communication and design between the business stake holders and developers.<br />\r\nWe'll be taking a look at 3 patterns for creating testable UI's and discuss when and how to apply them to your applications. \r\n</p>",
   "description": "<p>Coding Naked: UI Edition<br />\r\nPractical steps to moving towards & embracing TDD in your UI<br />\r\nAutomated Unit Tests are your first line of defense to reducing technical debt, increasing code quality and efficiency. Come learn why TDD is not a fancy practice for the coding elite, but an understandable, obtainable and practical approach to delivering value for every developer, and how, when done properly, will increase communication and design between the business stake holders and developers.<br />\r\nWe'll be taking a look at 3 patterns for creating testable UI's and discuss when and how to apply them to your applications. \r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/496721357_295x166.jpg"
+    "https://i.vimeocdn.com/video/496721357-664b042608b0e3d64bc82181a5cb32732fe640853950f6cab038b7966cce452b-d_295x166"
   ],
   "vimeo": "111927164",
   "moreinfo": "http://dallasxaml.com",
-  "thumbnail": "https://i.vimeocdn.com/video/496721357_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/496721357-664b042608b0e3d64bc82181a5cb32732fe640853950f6cab038b7966cce452b-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/111927164.hd.mp4?s=8e7d31e6d1c2a865d08e33eeaeeb5393da873569&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/111927164.sd.mp4?s=13da224c91154ced835cc1474f9bd9c2b3ed19c7&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 553,

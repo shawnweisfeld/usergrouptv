@@ -10,11 +10,11 @@
   "abstract": "<p>The cloud is here! Are you ready?  Microsoft, Amazon and others are all vying for your cloud attention.  In this session, we will review the different types of cloud platforms available and what they mean to you.  We will pay close attention to Microsoft’s Azure platform that offers two hosting solutions.  What are these hosting options and what are the differences between them?  Most importantly, how do I get started with all of this cloud business?  Let's put SQL Server into the cloud!</p>",
   "description": "<p>The cloud is here! Are you ready?  Microsoft, Amazon and others are all vying for your cloud attention.  In this session, we will review the different types of cloud platforms available and what they mean to you.  We will pay close attention to Microsoft’s Azure platform that offers two hosting solutions.  What are these hosting options and what are the differences between them?  Most importantly, how do I get started with all of this cloud business?  Let's put SQL Server into the cloud!</p>",
   "images": [
-    "https://i.vimeocdn.com/video/570946679_295x166.jpg"
+    "https://i.vimeocdn.com/video/570946679-41ea1f25f84d0c62a234fd1886b7a815745a7e904ba3e7df1ef46fbd2276fc57-d_295x166"
   ],
   "vimeo": "166788757",
   "moreinfo": "http://www.sqlsaturday.com/514/Sessions/Details.aspx?sid=44903",
-  "thumbnail": "https://i.vimeocdn.com/video/570946679_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/570946679-41ea1f25f84d0c62a234fd1886b7a815745a7e904ba3e7df1ef46fbd2276fc57-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/166788757.hd.mp4?s=085f28cf8ad5c393582806cd812c32086c2923e3&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/166788757.sd.mp4?s=5171bb35dc58aec556c63b7afe580e6ac77ae1bb&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 862,

@@ -10,11 +10,11 @@
   "abstract": "<p>Developing iOS & Android Apps in C# using Xamarin.</p>",
   "description": "<p>Developing iOS & Android Apps in C# using Xamarin.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/520899576_295x166.jpg"
+    "https://i.vimeocdn.com/video/520899576-d573aff19e7e214ea0a9fbbed67a13472c7f82e777ac735a28bec183be0d7cef-d_295x166"
   ],
   "vimeo": "129422767",
   "moreinfo": "http://xamarin.com/dev-days",
-  "thumbnail": "https://i.vimeocdn.com/video/520899576_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/520899576-d573aff19e7e214ea0a9fbbed67a13472c7f82e777ac735a28bec183be0d7cef-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/129422767.hd.mp4?s=e12accf551602491e9a81327902af49d22de48b0&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/129422767.sd.mp4?s=fb9d9b1ade920dc2bedabfdb35a52c9bc592306d&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 805,

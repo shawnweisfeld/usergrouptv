@@ -12,7 +12,7 @@
     {
       "title": "Securing Windows Azure Applications",
       "slug": "securing-windows-azure-applications",
-      "thumbnail": "https://i.vimeocdn.com/video/487539912_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/487539912-5ac6bf993ac2856f133c0ff4e0559309e0dae1c486b3267d70373bdf7a5aa655-d_295x166",
       "date": "2012-09-08T01:42:56",
       "meetups": [
         {

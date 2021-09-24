@@ -12,7 +12,7 @@
     {
       "title": "Consistent Deployments / Team Development",
       "slug": "consistent-deployments-team-development",
-      "thumbnail": "https://i.vimeocdn.com/video/709499118_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/709499118-24c8227ef3e8377902424a8113a4eefe2295d889d3ea43c86d3aaff011e4a5bc-d_295x166",
       "date": "2018-06-23T19:55:55",
       "meetups": [
         {

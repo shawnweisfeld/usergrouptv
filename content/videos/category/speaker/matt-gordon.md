@@ -12,7 +12,7 @@
     {
       "title": "Make Your Company Conversational using Azure Cognitive Services",
       "slug": "make-your-company-conversational-using-azure-cognitive-services",
-      "thumbnail": "https://i.vimeocdn.com/video/854627684_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854627684-3c1e89251aacfcaf47ab61e4c0d6844e49d478d892fb67dc8a9b79d75fb45b19-d_295x166",
       "date": "2020-02-08T16:08:46",
       "meetups": [
         {

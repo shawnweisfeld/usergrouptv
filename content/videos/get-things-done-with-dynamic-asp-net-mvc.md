@@ -10,11 +10,11 @@
   "abstract": "<p>As developers, we want to quickly create sustainable solutions that are easy to maintain. Amir Rajan will show you an approach to ASP.NET MVC development that really (REALLY!!) trims the fat of ASP.NET MVC web applications...without sacrificing maintainability. We are going to take an in-depth look at C# 4.0's dynamic capabilities and how they can be leveraged to make lean data access layers, malleable domain entities and noiseless controllers. Amir will then show how to ensure these solutions stay maintainable using friction-less testing strategies.</p>",
   "description": "<p>As developers, we want to quickly create sustainable solutions that are easy to maintain. Amir Rajan will show you an approach to ASP.NET MVC development that really (REALLY!!) trims the fat of ASP.NET MVC web applications...without sacrificing maintainability. We are going to take an in-depth look at C# 4.0's dynamic capabilities and how they can be leveraged to make lean data access layers, malleable domain entities and noiseless controllers. Amir will then show how to ensure these solutions stay maintainable using friction-less testing strategies.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/507719125_295x166.jpg"
+    "https://i.vimeocdn.com/video/507719125-df1bbcb686a0e6e02ea86e631d696a644ed34a125759dd118653a235df67a71b-d_295x166"
   ],
   "vimeo": "120048283",
   "moreinfo": "http://nddnug.net/",
-  "thumbnail": "https://i.vimeocdn.com/video/507719125_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/507719125-df1bbcb686a0e6e02ea86e631d696a644ed34a125759dd118653a235df67a71b-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/120048283.hd.mp4?s=f6b11b0ba9198385ee2d78dbf1a511805ac8dd10&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/120048283.sd.mp4?s=17275b99747bf7904c14a52b84c20faa69745330&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 772,

@@ -10,11 +10,11 @@
   "abstract": "<p>Connect to your user’s data and a variety of services with the Microsoft Graph in your .NET, Win32, or UWP app.  As work and life come together, use the same code to leverage the Graph’s power for both consumer and enterprise accounts. We will spend this demo-focused session covering how to utilize the .NET Standard Graph libraries in your apps to connect them to the world.</p>",
   "description": "<p>Connect to your user’s data and a variety of services with the Microsoft Graph in your .NET, Win32, or UWP app.  As work and life come together, use the same code to leverage the Graph’s power for both consumer and enterprise accounts. We will spend this demo-focused session covering how to utilize the .NET Standard Graph libraries in your apps to connect them to the world.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/796753583_295x166.jpg"
+    "https://i.vimeocdn.com/video/796753583-5974baa2acd0f2558e8a4ad194c875dfc8b5561cfaa662ffc2a90ded1dc26508-d_295x166"
   ],
   "vimeo": "346640612",
   "moreinfo": "https://developer.microsoft.com/en-us/windows/campaigns/us-tx-dallas",
-  "thumbnail": "https://i.vimeocdn.com/video/796753583_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/796753583-5974baa2acd0f2558e8a4ad194c875dfc8b5561cfaa662ffc2a90ded1dc26508-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/346640612.hd.mp4?s=926e5d0877f27a4ecf1b6974a251401d8200b602&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/346640612.sd.mp4?s=e18acc82acab6e0871342e14e46f8f9d814201da&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 319,

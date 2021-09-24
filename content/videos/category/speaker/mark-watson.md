@@ -12,7 +12,7 @@
     {
       "title": "Amazon Web Services in 60 minutes: The .NET edition",
       "slug": "amazon-web-services-in-60-minutes-the-net-edition",
-      "thumbnail": "https://i.vimeocdn.com/video/486706257_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/486706257-982678b5145146a38708635c585720ec6255db1e663a036e9dd5ffa3ae6d0085-d_295x166",
       "date": "2012-09-18T15:11:40",
       "meetups": [
         {

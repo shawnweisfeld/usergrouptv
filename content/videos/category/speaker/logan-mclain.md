@@ -12,7 +12,7 @@
     {
       "title": "User Experience Design Principles",
       "slug": "user-experience-design-principles",
-      "thumbnail": "https://i.vimeocdn.com/video/485935517_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/485935517-a2e676b5b0da103e3844bccfd6eabd29d562aa8df311680eb61f4c8669a281cf-d_295x166",
       "date": "2014-08-15T20:06:41",
       "meetups": [
         {
@@ -34,7 +34,7 @@
     {
       "title": "How SignalR is Turning the Internet Upside Down",
       "slug": "how-signalr-is-turning-the-internet-upside-down",
-      "thumbnail": "https://i.vimeocdn.com/video/485934934_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/485934934-d914cdbf44aaaa06541fff1ed840bb22bf3a94a96658ecfb89434e142950084f-d_295x166",
       "date": "2014-08-15T20:04:41",
       "meetups": [
         {

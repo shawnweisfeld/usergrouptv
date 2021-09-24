@@ -12,7 +12,7 @@
     {
       "title": "Simplifying SQL Data Protection (with Rubrik)",
       "slug": "simplifying-sql-data-protection-with-rubrik",
-      "thumbnail": "https://i.vimeocdn.com/video/709496653_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/709496653-1d3ef1c2f08325d04b57a2791087e47554a711c01ab336a29147be9ba96f906a-d_295x166",
       "date": "2018-06-23T19:50:46",
       "meetups": [
         {

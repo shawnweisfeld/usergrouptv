@@ -10,11 +10,11 @@
   "abstract": "<p>This session will demonstrate concepts in the first four parts of my series titled “Improving Code Quality… One Developer At A Time” with an real world app that attendees will use during this session. This app that runs from the cloud (Azure) will show how I use proper architecture design along with coding standards, defensive programming by properly implementing OOP, logging of events and exceptions, code obfuscation, unit testing, strong naming and much more. Even though code examples in this session are in .NET, the concepts can be applied to any language. This is part 5 in my 6 part series titled \"Improving Code Quality… One Developer At A Time\". Note: Even though code examples in this session are in .NET, the concepts can be applied to any language. For more information, go to https://dotnettips.wordpress.com/rock-the-world-tour/</p>",
   "description": "<p>This session will demonstrate concepts in the first four parts of my series titled “Improving Code Quality… One Developer At A Time” with an real world app that attendees will use during this session. This app that runs from the cloud (Azure) will show how I use proper architecture design along with coding standards, defensive programming by properly implementing OOP, logging of events and exceptions, code obfuscation, unit testing, strong naming and much more. Even though code examples in this session are in .NET, the concepts can be applied to any language. This is part 5 in my 6 part series titled \"Improving Code Quality… One Developer At A Time\". Note: Even though code examples in this session are in .NET, the concepts can be applied to any language. For more information, go to https://dotnettips.wordpress.com/rock-the-world-tour/</p>",
   "images": [
-    "https://i.vimeocdn.com/video/736365140_295x166.jpg"
+    "https://i.vimeocdn.com/video/736365140-9d4d0fe901545aa45e4b4263993db9355efdb24d8af1301b3338b25dc1990dce-d_295x166"
   ],
   "vimeo": "298257701",
   "moreinfo": "https://www.meetup.com/Austin-NET-User-Group/events/255734246/",
-  "thumbnail": "https://i.vimeocdn.com/video/736365140_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/736365140-9d4d0fe901545aa45e4b4263993db9355efdb24d8af1301b3338b25dc1990dce-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/298257701.hd.mp4?s=bafd6e332a17590cf694398cad02d7f5095db426&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/298257701.sd.mp4?s=dcb7b789b890536cd285642fe7bed4e1f07f99e8&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 472,

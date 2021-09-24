@@ -11,11 +11,11 @@
   "abstract": "<p>The Cloud seems to be everywhere these days and everyone and their moms want to get their applications to the Cloud. There are a couple of implementation versions of the Cloud and I&rsquo;ll be showing you how to get your Spring Applications to PAAS implementations like Google App Engine and SpringSource&rsquo;s Cloudfoundry. Please feel free to come to the session with the latest STS and Spring Roo installed and follow along.</p>",
   "description": "<p>The Cloud seems to be everywhere these days and everyone and their moms want to get their applications to the Cloud. There are a couple of implementation versions of the Cloud and I&rsquo;ll be showing you how to get your Spring Applications to PAAS implementations like Google App Engine and SpringSource&rsquo;s Cloudfoundry. Please feel free to come to the session with the latest STS and Spring Roo installed and follow along.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/498381085_295x166.jpg"
+    "https://i.vimeocdn.com/video/498381085-3cbc3bc4dd3d4e24831860d49db67f4a127324e762220760bbf2bc791ec271d1-d_295x166"
   ],
   "vimeo": "113159018",
   "moreinfo": "http://dallastechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/498381085_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/498381085-3cbc3bc4dd3d4e24831860d49db67f4a127324e762220760bbf2bc791ec271d1-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/113159018.hd.mp4?s=450613c4c974a8128fd58a5e11a337e1b3ad6ec9&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/113159018.sd.mp4?s=57e7cec3ba380b37e9f79ec467c8466a32c96e11&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 667,

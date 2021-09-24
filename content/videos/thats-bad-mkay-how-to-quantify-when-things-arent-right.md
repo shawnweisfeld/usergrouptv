@@ -10,11 +10,11 @@
   "abstract": "<p>We've all heard that things like nested views, cursors, and under/over-indexed tables are bad...but why?  What is the real cost of the badness that abounds in the database world?  What's really going on when you run that query against a view of a view of a view.  How can you quantify what happens when that cursor ends up running the same simple query thousands of times.  And how can indexes really impact the way SQL Server decides to solve your queries.  In this session we'll talk about the basics of how to read query plans and use extended events to understand why all these things can be big resource drains on a SQL Server.  Good times should be had by all.\r\n</p>",
   "description": "<p>We've all heard that things like nested views, cursors, and under/over-indexed tables are bad...but why?  What is the real cost of the badness that abounds in the database world?  What's really going on when you run that query against a view of a view of a view.  How can you quantify what happens when that cursor ends up running the same simple query thousands of times.  And how can indexes really impact the way SQL Server decides to solve your queries.  In this session we'll talk about the basics of how to read query plans and use extended events to understand why all these things can be big resource drains on a SQL Server.  Good times should be had by all.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/709497292_295x166.jpg"
+    "https://i.vimeocdn.com/video/709497292-2b275b8cacab2ac7c1d438485f3a51c31c87b6c8d6fc26f57c3366eb9985a7e1-d_295x166"
   ],
   "vimeo": "276872768",
   "moreinfo": "http://www.sqlsaturday.com/766/Sessions/Details.aspx?sid=82041",
-  "thumbnail": "https://i.vimeocdn.com/video/709497292_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/709497292-2b275b8cacab2ac7c1d438485f3a51c31c87b6c8d6fc26f57c3366eb9985a7e1-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/276872768.hd.mp4?s=d54b1b4da168992bcd6dcb245bc61284e7f8ffaf&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/276872768.sd.mp4?s=bce86cabf8ce97dcaf135c9d640e889182934b2e&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 403,

@@ -10,11 +10,11 @@
   "abstract": "<p>In Windows 10, Universal Windows Apps are taking a big leap forward. While in the past, \"Modern Apps\" or \"Metro Apps\" were somewhat lacking, they are now growing up into useful applications for both consumers and businesses alike. Universal Windows Apps can run on any Windows 10 platform (Desktop, Tablet, Phone, Xbox, HoloLens,...). This session introduces the Universal Windows App platform and its capabilities both as an initial overview and then proceeds into the actual task of coding a Universal Windows App. No prior knowledge of the Universal Windows App Platform is required to attend this session. Attendees will walk away with fundamental knowledge of building Universal Windows Apps soup-to-nuts.</p>",
   "description": "<p>In Windows 10, Universal Windows Apps are taking a big leap forward. While in the past, \"Modern Apps\" or \"Metro Apps\" were somewhat lacking, they are now growing up into useful applications for both consumers and businesses alike. Universal Windows Apps can run on any Windows 10 platform (Desktop, Tablet, Phone, Xbox, HoloLens,...). This session introduces the Universal Windows App platform and its capabilities both as an initial overview and then proceeds into the actual task of coding a Universal Windows App. No prior knowledge of the Universal Windows App Platform is required to attend this session. Attendees will walk away with fundamental knowledge of building Universal Windows Apps soup-to-nuts.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/534898848_295x166.jpg"
+    "https://i.vimeocdn.com/video/534898848-fa0ea6bdca62fde640f6d1e34981127a1e29d631ef9a3cd2e0bd3f170efeca8f-d_295x166"
   ],
   "vimeo": "139191545",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/agenda",
-  "thumbnail": "https://i.vimeocdn.com/video/534898848_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/534898848-fa0ea6bdca62fde640f6d1e34981127a1e29d631ef9a3cd2e0bd3f170efeca8f-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/139191545.hd.mp4?s=39a06cc563f34b5d3fbf2933e4167486d4d2c986&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/139191545.sd.mp4?s=8d9761dcc173fde58ed9218346eb9a359fa8ea38&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 798,

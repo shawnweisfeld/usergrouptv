@@ -10,11 +10,11 @@
   "abstract": "<p>CSS3 has become popular topic with the growing prevalence of modern browsers and the introduction HTML5 into upcoming Windows 8 Metro Apps. This Session will go over new and useful CSS3 features you may not know about, with a focus on IE9 and IE10 support.</p>",
   "description": "<p>CSS3 has become popular topic with the growing prevalence of modern browsers and the introduction HTML5 into upcoming Windows 8 Metro Apps. This Session will go over new and useful CSS3 features you may not know about, with a focus on IE9 and IE10 support.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/507719534_295x166.jpg"
+    "https://i.vimeocdn.com/video/507719534-fb1f22f6af1a91642cc299d745a232d2a7ed78bea597cfe598190d1e8d4fa1ec-d_295x166"
   ],
   "vimeo": "120048536",
   "moreinfo": "http://techfests.com/Tulsa/2011/default.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/507719534_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/507719534-fb1f22f6af1a91642cc299d745a232d2a7ed78bea597cfe598190d1e8d4fa1ec-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/120048536.hd.mp4?s=d0e929bf6748190afc6b1a2c02ec48f06d87dd3e&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/120048536.sd.mp4?s=c875d0a27367de95e114b335ae62a3021a22a55a&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 761,

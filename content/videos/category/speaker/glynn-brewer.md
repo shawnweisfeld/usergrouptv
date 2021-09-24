@@ -12,7 +12,7 @@
     {
       "title": "TECHNICAL DEBT",
       "slug": "technical-debt",
-      "thumbnail": "https://i.vimeocdn.com/video/486705234_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/486705234-65b5ea2447acb755f96690e67ea5084dc180b08d4ebbae09ec6f5c0ccb41a916-d_295x166",
       "date": "2014-08-22T17:37:57",
       "meetups": [
         {

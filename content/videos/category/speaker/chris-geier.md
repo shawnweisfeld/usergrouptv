@@ -12,7 +12,7 @@
     {
       "title": "The Best of SharePoint Conference 2011 - Chris Geier",
       "slug": "the-best-of-sharepoint-conference-2011-chris-geier",
-      "thumbnail": "https://i.vimeocdn.com/video/494179426_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/494179426-9035372ddb105ac1d79003088cc465a46202c5c440e134a1e6b45a6826401969-d_295x166",
       "date": "2011-11-03T23:00:05",
       "meetups": [
         {

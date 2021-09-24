@@ -10,11 +10,11 @@
   "abstract": "<p>SQL Server is a huge product, with many different places a DBA can go to look for information on how the server is performing. So many in fact that they can often overlap, which sometimes makes it hard to understand why tackling a new tool is worth the effort. In this installment of Rick's \"Why should I care\" series, he lays out a case for why working knowledge of the plan cache is critical for performance tuning efforts in real world environments. A review of relevant views and functions is included for the (newly?) motivated audience. Perfect for those who are relatively new to performance tuning concerns, or advanced DBAs trying to figure out how to have a similar conversation with their less experienced peers, or developers who are curious as to why their DBAs drink in the morning (allegedly). This is not a deep dive into the cache, it really is primarily a session exploring _why_ these DMOs are worth slogging through.</p>",
   "description": "<p>SQL Server is a huge product, with many different places a DBA can go to look for information on how the server is performing. So many in fact that they can often overlap, which sometimes makes it hard to understand why tackling a new tool is worth the effort. In this installment of Rick's \"Why should I care\" series, he lays out a case for why working knowledge of the plan cache is critical for performance tuning efforts in real world environments. A review of relevant views and functions is included for the (newly?) motivated audience. Perfect for those who are relatively new to performance tuning concerns, or advanced DBAs trying to figure out how to have a similar conversation with their less experienced peers, or developers who are curious as to why their DBAs drink in the morning (allegedly). This is not a deep dive into the cache, it really is primarily a session exploring _why_ these DMOs are worth slogging through.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/640582102_295x166.jpg"
+    "https://i.vimeocdn.com/video/640582102-b95f17478f5c45d1dacb064b30cfc16176cb0f93ea1b50c853dc84c7c8327d7d-d_295x166"
   ],
   "vimeo": "222135454",
   "moreinfo": "http://www.sqlsaturday.com/651/Sessions/Details.aspx?sid=64410",
-  "thumbnail": "https://i.vimeocdn.com/video/640582102_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/640582102-b95f17478f5c45d1dacb064b30cfc16176cb0f93ea1b50c853dc84c7c8327d7d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/222135454.hd.mp4?s=dc19b637a4cfa61061b7e641ab67ec646d72bf02&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/222135454.sd.mp4?s=30d5faca9dca71056b3cf021cc2a5b52c7efe190&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 204,

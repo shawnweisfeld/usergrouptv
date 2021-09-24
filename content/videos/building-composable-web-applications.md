@@ -11,11 +11,11 @@
   "abstract": "<p>ASP.NET offers a number of composition patterns in its varied platforms. We'll discuss the various patterns available within the different frameworks, especially the extended options available in the new Web API, and how these can all be used together effectively.</p>",
   "description": "<p>ASP.NET offers a number of composition patterns in its varied platforms. We'll discuss the various patterns available within the different frameworks, especially the extended options available in the new Web API, and how these can all be used together effectively.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/487544326_295x166.jpg"
+    "https://i.vimeocdn.com/video/487544326-15be2f29fb033af25d458c52c7fedffe53a7ae2372ac34a900d855ad0d02abd1-d_295x166"
   ],
   "vimeo": "104887479",
   "moreinfo": "http://www.houstontechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/487544326_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/487544326-15be2f29fb033af25d458c52c7fedffe53a7ae2372ac34a900d855ad0d02abd1-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/104887479.hd.mp4?s=eda32752302403c452c5f9b5a60ee8462da5f8a3&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/104887479.sd.mp4?s=ba7034add92a03172fc406324e5916a308f6cb15&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 565,

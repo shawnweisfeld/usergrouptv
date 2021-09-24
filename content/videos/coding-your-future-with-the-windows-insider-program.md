@@ -10,11 +10,11 @@
   "abstract": "<p>Have you always dreamed of a career in tech but worried you wouldn't be able to pick up coding? Are you afraid to take your code to the next level? No matter where you're starting, the Windows Insider Program can help. Whether you're an expert, student, IT pro, or beginner, we have a developer learning path for you. Start learning the tools, building your first app, or turning your code into a business with our community of Insiders.</p>",
   "description": "<p>Have you always dreamed of a career in tech but worried you wouldn't be able to pick up coding? Are you afraid to take your code to the next level? No matter where you're starting, the Windows Insider Program can help. Whether you're an expert, student, IT pro, or beginner, we have a developer learning path for you. Start learning the tools, building your first app, or turning your code into a business with our community of Insiders.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/796753634_295x166.jpg"
+    "https://i.vimeocdn.com/video/796753634-7ebd116cbccad1bfedf31d02fde6a01e376d79939649a6efeaa5fc2351c68c3b-d_295x166"
   ],
   "vimeo": "346640666",
   "moreinfo": "https://developer.microsoft.com/en-us/windows/campaigns/us-tx-dallas",
-  "thumbnail": "https://i.vimeocdn.com/video/796753634_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/796753634-7ebd116cbccad1bfedf31d02fde6a01e376d79939649a6efeaa5fc2351c68c3b-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/346640666.hd.mp4?s=57a7f20978e641abca01429fde6128380f958c2e&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/346640666.sd.mp4?s=70c2d44225babe9269939fa185878a6203886282&profile_id=139&oauth2_token_id=20985841",
   "recordingID": 321,

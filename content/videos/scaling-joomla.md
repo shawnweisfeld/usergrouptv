@@ -10,11 +10,11 @@
   "abstract": "<p>Strategies and considerations for building a Kubernetes cluster that allows Joomla to scale horizontally.</p>",
   "description": "<p>Strategies and considerations for building a Kubernetes cluster that allows Joomla to scale horizontally.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/818419103_295x166.jpg"
+    "https://i.vimeocdn.com/video/818419103-a0826d9533efe65385cef7542cdc01057ccb42b65bdd71beca22d0d72832c94f-d_295x166"
   ],
   "vimeo": "363311099",
   "moreinfo": "https://www.joomladaytexas.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/818419103_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/818419103-a0826d9533efe65385cef7542cdc01057ccb42b65bdd71beca22d0d72832c94f-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/363311099.hd.mp4?s=524a9fcfdb0f2c405cb4ed007676a6bdb2419433&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/363311099.sd.mp4?s=4001fa2b863683985888742ddd049235263d924a&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 292,

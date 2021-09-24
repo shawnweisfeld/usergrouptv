@@ -11,7 +11,7 @@
     {
       "title": ".NET Reflection",
       "slug": "net-reflection",
-      "thumbnail": "https://i.vimeocdn.com/video/495140850_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/495140850-39070992b9d1423e7cc74328e51a60a7fd32c89e37336107d6697ea604964dc6-d_295x166",
       "date": "2011-09-13T04:48:29",
       "meetups": [
         {

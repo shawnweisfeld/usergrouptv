@@ -12,7 +12,7 @@
     {
       "title": "Intro to Office 365 Admin Center",
       "slug": "intro-to-office-365-admin-center",
-      "thumbnail": "https://i.vimeocdn.com/video/593964486_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/593964486-bdc185ddee4dafb4fbc9db304d5c63ed67b2def81206458e007d47aea1ed3ee0-d_295x166",
       "date": "2016-09-24T19:55:36",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Intro to InfoPath",
       "slug": "intro-to-infopath",
-      "thumbnail": "https://i.vimeocdn.com/video/593963324_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/593963324-e04c1b8f8619fb632ce5d11dacae0fea16f6cd4ed5c64e3b2223f909ad129fb3-d_295x166",
       "date": "2016-09-24T19:53:26",
       "meetups": [
         {

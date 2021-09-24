@@ -10,11 +10,11 @@
   "abstract": "<p>Last year, our team landed on a project that was just in a vision document form at a process management company with a huge portfolio. Over the course of time, I lead our team to convert that vision into an iOS app using Xamarin, ASPNET Core api, Angular Web App and NServicebus endpoint. It was quite a fun filled ride because all the technologies we were dealing with were new and were in flux. They presented a unique set of challenges. We, as a team, learned a lot of valuable lessons during this process. Some of them were new while others were relearned. This presentation is going to cover all of them.</p>",
   "description": "<p>Last year, our team landed on a project that was just in a vision document form at a process management company with a huge portfolio. Over the course of time, I lead our team to convert that vision into an iOS app using Xamarin, ASPNET Core api, Angular Web App and NServicebus endpoint. It was quite a fun filled ride because all the technologies we were dealing with were new and were in flux. They presented a unique set of challenges. We, as a team, learned a lot of valuable lessons during this process. Some of them were new while others were relearned. This presentation is going to cover all of them.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/651775892_295x166.jpg"
+    "https://i.vimeocdn.com/video/651775892-da18b947ce4b87241f686eacdc62cb69cbe1e335fa7f631e6dceb04ec808719c-d_295x166"
   ],
   "vimeo": "231057931",
   "moreinfo": "http://adnug.org/Home/august-14-2017-building-pragmatic-mobile-apps/",
-  "thumbnail": "https://i.vimeocdn.com/video/651775892_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/651775892-da18b947ce4b87241f686eacdc62cb69cbe1e335fa7f631e6dceb04ec808719c-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/231057931.hd.mp4?s=ca77f4fc82b4339e6b9a29647e6aa7bd7050433d&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/231057931.sd.mp4?s=46754692df02ca01578fd6bdaa2b969ed8292b61&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 18,

@@ -10,11 +10,11 @@
   "abstract": "<p>Join Microsoft Senior Evangelist Chris Koenig for an up-close look at the Windows Phone 7 experience, including phone functionality and user experiences based on smart design. Learn about key phone features, customization, applications and connected experiences. See how the Windows Phone has evolved into a unique, new user experience designed for Life in Motion.</p>\r\n<p>In his presentation, Chris will demonstrate how to build Phone applications with Silverlight and Blend. He is planning on making it an interactive experience.</p>",
   "description": "<p>Join Microsoft Senior Evangelist Chris Koenig for an up-close look at the Windows Phone 7 experience, including phone functionality and user experiences based on smart design. Learn about key phone features, customization, applications and connected experiences. See how the Windows Phone has evolved into a unique, new user experience designed for Life in Motion.</p>\r\n<p>In his presentation, Chris will demonstrate how to build Phone applications with Silverlight and Blend. He is planning on making it an interactive experience.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/501051612_295x166.jpg"
+    "https://i.vimeocdn.com/video/501051612-c11e79acd549ecd397b7c5b9bdc318c7f1ab7c5752c3b1c6f742101e9ccc6500-d_295x166"
   ],
   "vimeo": "115130985",
   "moreinfo": "http://dallasasp.net",
-  "thumbnail": "https://i.vimeocdn.com/video/501051612_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/501051612-c11e79acd549ecd397b7c5b9bdc318c7f1ab7c5752c3b1c6f742101e9ccc6500-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/115130985.hd.mp4?s=b41da7dfa10ec30ac2caa555c381abf521237acf&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/115130985.sd.mp4?s=7daa4169c37ebb36fa81b43d4b4c7ffcde0ddd9d&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 3,

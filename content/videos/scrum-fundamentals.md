@@ -10,11 +10,11 @@
   "abstract": "<p>Writing good software is hard. Writing good software at a pace you can sustain indefinitely in an environment of changing requirements where technology choices are uncertain and quality is not compromised is...totally doable. Come learn the fundamentals of a framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value.</p>",
   "description": "<p>Writing good software is hard. Writing good software at a pace you can sustain indefinitely in an environment of changing requirements where technology choices are uncertain and quality is not compromised is...totally doable. Come learn the fundamentals of a framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/482056179_295x166.jpg"
+    "https://i.vimeocdn.com/video/482056179-80c247a0829def15cad458a2d9b7765c22bf48cb6a68e8c3ada591b1c7943a3d-d_295x166"
   ],
   "vimeo": "100537274",
   "moreinfo": "http://tulsaschoolofdev.com",
-  "thumbnail": "https://i.vimeocdn.com/video/482056179_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/482056179-80c247a0829def15cad458a2d9b7765c22bf48cb6a68e8c3ada591b1c7943a3d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/100537274.hd.mp4?s=9782008af7829557c8fc26a1f547a6333b225ac2&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/100537274.sd.mp4?s=580002636cc2c922a700c418eed03da404a9998b&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 911,

@@ -11,11 +11,11 @@
   "abstract": "<p>Say “UI Test Automation” while playing a word association game and  the other party will inevitably say “Hard!”. And yet without the UI tests your safety net is never complete, and manual testing of UIs on Firefox, Chrome and various flavors of IE will slow down your development. As we discovered UI tests are not hard, they just require a shift in mindset.<br />\r\nIn this session, you will learn Selenium WebDriver C# API and design patterns to write reliable tests. We will show how to distribute tests across multiple VMs. And to wrap up you will learn to design your test classes in a Fluent fashion that will make your developers and QA department excited about UI test automation. At the end the group will be rewarded by a sight of a mouse and keyboard working by themselves, testing the UI automatically while we are relaxing with a pizza.</p>",
   "description": "<p>Say “UI Test Automation” while playing a word association game and  the other party will inevitably say “Hard!”. And yet without the UI tests your safety net is never complete, and manual testing of UIs on Firefox, Chrome and various flavors of IE will slow down your development. As we discovered UI tests are not hard, they just require a shift in mindset.<br />\r\nIn this session, you will learn Selenium WebDriver C# API and design patterns to write reliable tests. We will show how to distribute tests across multiple VMs. And to wrap up you will learn to design your test classes in a Fluent fashion that will make your developers and QA department excited about UI test automation. At the end the group will be rewarded by a sight of a mouse and keyboard working by themselves, testing the UI automatically while we are relaxing with a pizza.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/495398321_295x166.jpg"
+    "https://i.vimeocdn.com/video/495398321-338234c0a372b3ad25b14e3e8d789ec26428fc6b499f2b2748f5c22af44ee192-d_295x166"
   ],
   "vimeo": "110958795",
   "moreinfo": "http://dallas-csharp-sig.com",
-  "thumbnail": "https://i.vimeocdn.com/video/495398321_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/495398321-338234c0a372b3ad25b14e3e8d789ec26428fc6b499f2b2748f5c22af44ee192-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/110958795.hd.mp4?s=8508587ce4187c26631ce74830198bb5a41b6bdc&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/110958795.sd.mp4?s=af7a648180700acb00c4aac8945fe21cf26919f5&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 646,

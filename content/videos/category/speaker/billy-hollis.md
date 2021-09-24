@@ -12,7 +12,7 @@
     {
       "title": "Get Your Head In The Cloud",
       "slug": "get-your-head-in-the-cloud",
-      "thumbnail": "https://i.vimeocdn.com/video/732109019_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/732109019-bd452235c82eb74e38eafd42208ecd6537547959249b8009106365db7c44c2ab-d_295x166",
       "date": "2018-10-13T14:06:53",
       "meetups": [
         {

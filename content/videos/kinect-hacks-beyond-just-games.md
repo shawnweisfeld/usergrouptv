@@ -10,11 +10,11 @@
   "abstract": "",
   "description": "",
   "images": [
-    "https://i.vimeocdn.com/video/492995062_295x166.jpg"
+    "https://i.vimeocdn.com/video/492995062-ccc199b360c1f2b8e2dfed6d233f41e2c57324fbf1dfd33dcaba257a35f7bda8-d_295x166"
   ],
   "vimeo": "109122249",
   "moreinfo": null,
-  "thumbnail": "https://i.vimeocdn.com/video/492995062_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/492995062-ccc199b360c1f2b8e2dfed6d233f41e2c57324fbf1dfd33dcaba257a35f7bda8-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/109122249.hd.mp4?s=6910e933c397fffc82188855be5cb917e6fa368a&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/109122249.sd.mp4?s=9ffe90159d75d8cc0957f0259d682cde752e8800&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 726,

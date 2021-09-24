@@ -10,11 +10,11 @@
   "abstract": "<p>SQL Server 2012 redefined how SSIS packages are stored and executed. The advent of the SSISDB catalog gives a central point for working with SSIS projects deployed to the server. From this catalog we can set project and package parameter, configure environments, and monitor execution. There is no need to build in package logging because Microsoft had done it for us. This presentation covers what is in the catalog, how to deploy packages, environment, tips and tricks as well as monitoring package execution.</p>",
   "description": "<p>SQL Server 2012 redefined how SSIS packages are stored and executed. The advent of the SSISDB catalog gives a central point for working with SSIS projects deployed to the server. From this catalog we can set project and package parameter, configure environments, and monitor execution. There is no need to build in package logging because Microsoft had done it for us. This presentation covers what is in the catalog, how to deploy packages, environment, tips and tricks as well as monitoring package execution.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/548363727_295x166.jpg"
+    "https://i.vimeocdn.com/video/548363727-55f148266691351130926fb232114cfee4c26884e25b6fb67cc098f31c4dc4ba-d_295x166"
   ],
   "vimeo": "149213223",
   "moreinfo": "http://cactuss.sqlpass.org/Home.aspx?EventID=4229",
-  "thumbnail": "https://i.vimeocdn.com/video/548363727_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/548363727-55f148266691351130926fb232114cfee4c26884e25b6fb67cc098f31c4dc4ba-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/149213223.hd.mp4?s=0f7efb7f985641e2e4c420d365b7b67d1ea958f5&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/149213223.sd.mp4?s=a8acc1be985402023f2029526869dd2c409039f1&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 843,

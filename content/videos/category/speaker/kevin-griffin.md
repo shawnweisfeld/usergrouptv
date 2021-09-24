@@ -12,7 +12,7 @@
     {
       "title": "Real-Time Revolution: SignalR In Action",
       "slug": "realtime-revolution-signalr-in-action",
-      "thumbnail": "https://i.vimeocdn.com/video/1195698289_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1195698289-0e890e779d4bc163b34b8efe6be9b7a30e421e2bce1a777f2f4b394a346a78e7-d_295x166",
       "date": "2021-07-08T00:00:00",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Crazy Web Performance with Azure Static Web Apps",
       "slug": "crazy-web-performance-with-azure-static-web-apps",
-      "thumbnail": "https://i.vimeocdn.com/video/949513028_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/949513028-42aff8db7f331bb6606edd10f26841400ab9b8188d6eaf12a21bb4eff0bec9f6-d_295x166",
       "date": "2020-08-25T13:52:05",
       "meetups": [
         {

@@ -12,7 +12,7 @@
     {
       "title": "Certainty in a Risky World",
       "slug": "certainty-in-a-risky-world",
-      "thumbnail": "https://i.vimeocdn.com/video/703383565_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/703383565-98049cd082fe1dc4967bc99a7c43f16ff49c14db999eaa4a78bb8da813b61098-d_295x166",
       "date": "2018-05-24T16:38:27",
       "meetups": [
         {

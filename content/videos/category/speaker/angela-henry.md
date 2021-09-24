@@ -12,7 +12,7 @@
     {
       "title": "What is Power BI?",
       "slug": "what-is-power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/719492065_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/719492065-d56c83957471771e3c8525374152aed1f523f1f022b160d49b87c50a3793c6a5-d_295x166",
       "date": "2018-08-11T15:57:59",
       "meetups": [
         {

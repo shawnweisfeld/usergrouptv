@@ -12,7 +12,7 @@
     {
       "title": "Introduction to Agile Data Warehouse Design",
       "slug": "introduction-to-agile-data-warehouse-design",
-      "thumbnail": "https://i.vimeocdn.com/video/592958259_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/592958259-146f48f6ccf31209e2219253bd134f889b15ffe45c5fb31716cfaf1cee9df892-d_295x166",
       "date": "2016-09-22T13:26:25",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "TARDIS: Time And Relative Dimensions in SQL!",
       "slug": "tardis-time-and-relative-dimensions-in-sql",
-      "thumbnail": "https://i.vimeocdn.com/video/589679291_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/589679291-fa8c205a0177270e60d264757ee2735e8da5423d34eb682d816bcefccf6d0aac-d_295x166",
       "date": "2016-08-27T15:50:07",
       "meetups": [
         {
@@ -52,7 +52,7 @@
     {
       "title": "Design a data warehouse dimension the Agile way!",
       "slug": "design-a-data-warehouse-dimension-the-agile-way",
-      "thumbnail": "https://i.vimeocdn.com/video/587194196_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/587194196-d9108453ec0af26b1e9d126a8f0652c98a2e4b939b5c4556a9b834ee219daa5e-d_295x166",
       "date": "2016-08-13T15:08:52",
       "meetups": [
         {
@@ -70,7 +70,7 @@
     {
       "title": "Things i wish I knew sooner about data loading.",
       "slug": "things-i-wish-i-knew-sooner-about-data-loading",
-      "thumbnail": "https://i.vimeocdn.com/video/533908486_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/533908486-810f5c3e67fd21cab48417fc54ea1b98d0303b86e158975708ae185d056518f0-d_295x166",
       "date": "2015-08-29T14:20:38",
       "meetups": [
         {
@@ -92,7 +92,7 @@
     {
       "title": "Agile Data Warehouse Design",
       "slug": "agile-data-warehouse-design",
-      "thumbnail": "https://i.vimeocdn.com/video/483489817_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/483489817-52f0918621dd191edca31c19087b01f4e4229e5c253210d7de321557481b5fcd-d_295x166",
       "date": "2013-08-24T22:16:50",
       "meetups": [
         {
@@ -114,7 +114,7 @@
     {
       "title": "Tim Costello with Interworks: Tableau, Delivering Self-Serve BI",
       "slug": "tim-costello-with-interworks-tableau-delivering-self-serve-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/483489271_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/483489271-f17de1e20ad3c646d5c580d807c398a4ee3b37fc4e1de8b90e15eec0922bb17c-d_295x166",
       "date": "2013-08-24T22:08:09",
       "meetups": [
         {

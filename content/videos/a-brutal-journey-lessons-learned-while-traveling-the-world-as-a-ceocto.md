@@ -10,11 +10,11 @@
   "abstract": "<p>A brutal journey: Lessons learned while traveling the world as a CEO/CTO.</p>",
   "description": "<p>A brutal journey: Lessons learned while traveling the world as a CEO/CTO.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/660634741_295x166.jpg"
+    "https://i.vimeocdn.com/video/660634741-bee746fb0cac0790339ef6605356aa937b89115797759c772a751beac47ef227-d_295x166"
   ],
   "vimeo": "238047871",
   "moreinfo": "http://www.lrtechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/660634741_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/660634741-bee746fb0cac0790339ef6605356aa937b89115797759c772a751beac47ef227-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/238047871.hd.mp4?s=b5be0d7c2b7079defaf8a039416e3bfe3f4c7400&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/238047871.sd.mp4?s=ae2b79329af6919890f88493d9f4ac639e1b2a47&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 72,

@@ -10,11 +10,11 @@
   "abstract": "<p>David Penton will go over features and function of ASP.NET web security but explains how that only gets you so far, realizing that traditional security measures only provide a foundation. Learn the top flaws which include cross site scripting and popular forms of injection to watch out for and ways to mitigate those flaws in your day to day development.</p>",
   "description": "<p>David Penton will go over features and function of ASP.NET web security but explains how that only gets you so far, realizing that traditional security measures only provide a foundation. Learn the top flaws which include cross site scripting and popular forms of injection to watch out for and ways to mitigate those flaws in your day to day development.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/507046778_295x166.jpg"
+    "https://i.vimeocdn.com/video/507046778-09caee7d6c2425d612077f44681d3c0bb7ae0c3fbec40f9af1c1a26341f55d65-d_295x166"
   ],
   "vimeo": "119597354",
   "moreinfo": "http://northdallas.net",
-  "thumbnail": "https://i.vimeocdn.com/video/507046778_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/507046778-09caee7d6c2425d612077f44681d3c0bb7ae0c3fbec40f9af1c1a26341f55d65-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/119597354.hd.mp4?s=fbe8ffdd6eb18fa7361a8014d949214c8c2849ea&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/119597354.sd.mp4?s=43f8e7dfc3ba756aa8341dba94ade759848d83b2&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 657,

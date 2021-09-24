@@ -12,7 +12,7 @@
     {
       "title": "Mobile & UX: Inside the Eye of the Perfect Storm",
       "slug": "mobile-ux-inside-the-eye-of-the-perfect-storm",
-      "thumbnail": "https://i.vimeocdn.com/video/492571874_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/492571874-a87f7307189a48d7a4a5d02660416a403afd7b9d9de509fe6961cfc95dd3a6d1-d_295x166",
       "date": "2014-10-10T11:07:08",
       "meetups": [
         {

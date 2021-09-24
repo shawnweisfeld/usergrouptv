@@ -10,11 +10,11 @@
   "abstract": "<p>Visual Studio 2010 was released two years ago. Since then Microsoft was working hard to deliver Visual Studio \"11\" and Team Foundation Server \"11\". This session will take a look at the myriad features that have been incorporated into the latest version of Visual Studio and Team Foundation Server including some great planning features, Team Foundation Service (on Windows Azure), a revamped look and feel for Visual Studio, and more. Some of these features are also available for use within Visual Studio 2010 if you know where to look. If you want to get an overview of what's new in Visual Studio \"11\", then check out this session. ***NOTE: \"Visual Studio 11\" and \"Team Foundation Server 11\" are code names. The official name will be announced in the near future. At that time, I will need to modify the names within the description. </p>",
   "description": "<p>Visual Studio 2010 was released two years ago. Since then Microsoft was working hard to deliver Visual Studio \"11\" and Team Foundation Server \"11\". This session will take a look at the myriad features that have been incorporated into the latest version of Visual Studio and Team Foundation Server including some great planning features, Team Foundation Service (on Windows Azure), a revamped look and feel for Visual Studio, and more. Some of these features are also available for use within Visual Studio 2010 if you know where to look. If you want to get an overview of what's new in Visual Studio \"11\", then check out this session. ***NOTE: \"Visual Studio 11\" and \"Team Foundation Server 11\" are code names. The official name will be announced in the near future. At that time, I will need to modify the names within the description. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/485394817_295x166.jpg"
+    "https://i.vimeocdn.com/video/485394817-a1c7ad37472357610062ccaa56d2597087fc0c17075fb0eb37d945780f632ab9-d_295x166"
   ],
   "vimeo": "103222057",
   "moreinfo": "http://techfests.com/Tulsa/2012/default.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/485394817_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/485394817-a1c7ad37472357610062ccaa56d2597087fc0c17075fb0eb37d945780f632ab9-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/103222057.hd.mp4?s=e780fb4816222543953919a114cb364264a5d6b7&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/103222057.sd.mp4?s=3e532e8f0524f53f928a7dfa74043d18eb6b176c&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 633,

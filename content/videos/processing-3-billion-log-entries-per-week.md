@@ -10,11 +10,11 @@
   "abstract": "<p>Take a guided tour of how The University of Tulsa InfoSec team uses the ELK stack to monitor network traffic and get an introduction to the Bro network security monitor and the Elastic stack.</p>",
   "description": "<p>Take a guided tour of how The University of Tulsa InfoSec team uses the ELK stack to monitor network traffic and get an introduction to the Bro network security monitor and the Elastic stack.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/650633820_295x166.jpg"
+    "https://i.vimeocdn.com/video/650633820-aa45b0b5168ff1b21f5c1b774af33c823d766afbb8bf6456e8041d52983f5c70-d_295x166"
   ],
   "vimeo": "230141288",
   "moreinfo": "http://techfests.com/Tulsa/2017/Speakers/LandyBible/default.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/650633820_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/650633820-aa45b0b5168ff1b21f5c1b774af33c823d766afbb8bf6456e8041d52983f5c70-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/230141288.hd.mp4?s=c5e1de2b70224b86f92e4dec62e153e033fb7d8c&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/230141288.sd.mp4?s=d1813015d01536b318c7a796c2d4b747dea3f5a8&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 227,

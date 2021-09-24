@@ -12,7 +12,7 @@
     {
       "title": "Expanding your application with fun-sized functions ",
       "slug": "expanding-your-application-with-fun-sized-functions",
-      "thumbnail": "https://i.vimeocdn.com/video/662472028_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/662472028-4d20122bae41ffcae287af515e91fc01e2936ceaffa4f448f225b542a0fd9e02-d_295x166",
       "date": "2017-10-18T11:35:56",
       "meetups": [
         {

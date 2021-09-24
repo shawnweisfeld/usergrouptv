@@ -10,11 +10,11 @@
   "abstract": "<p>You have been hearing all the buzz around micro services come and find out what all the hype is about. This session will provide an introduction to micro services with a focus on the Service Fabric platform from Microsoft. Shawn will provide an overview of WHY you should be looking at Service Fabric to build the on premises or cloud applications of tomorrow with micro services. We will then look at some code do drill into the HOW of building these micro service based applications.\r\n</p>",
   "description": "<p>You have been hearing all the buzz around micro services come and find out what all the hype is about. This session will provide an introduction to micro services with a focus on the Service Fabric platform from Microsoft. Shawn will provide an overview of WHY you should be looking at Service Fabric to build the on premises or cloud applications of tomorrow with micro services. We will then look at some code do drill into the HOW of building these micro service based applications.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/568521603_295x166.jpg"
+    "https://i.vimeocdn.com/video/568521603-8f566c99b82edd4b9614c270062e1d1981cd4bc04bdf5dcbb7bb5b955d6736b7-d_295x166"
   ],
   "vimeo": "163539271",
   "moreinfo": "http://fwdnug.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/568521603_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/568521603-8f566c99b82edd4b9614c270062e1d1981cd4bc04bdf5dcbb7bb5b955d6736b7-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/163539271.hd.mp4?s=ff4ee63c9e8f899fe76243686021fe75bc1d30e1&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/163539271.sd.mp4?s=682da9d08f9093a11f9a37ab95c8f07bebedc6af&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 853,

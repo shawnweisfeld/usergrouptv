@@ -10,11 +10,11 @@
   "abstract": "<p>This talk is for developers familiar with ASP.NET MVC that are taking their use of the framework to the next level. In this session Matt Hinze, author of ASP.NET MVC 3 In Action, will present advanced ASP.NET MVC topics taken from real world projects, including: 1. Understanding client side validation, 2. Automation tools and developer productivity, 2. Slick options for functional testing</p>",
   "description": "<p>This talk is for developers familiar with ASP.NET MVC that are taking their use of the framework to the next level. In this session Matt Hinze, author of ASP.NET MVC 3 In Action, will present advanced ASP.NET MVC topics taken from real world projects, including: 1. Understanding client side validation, 2. Automation tools and developer productivity, 2. Slick options for functional testing</p>",
   "images": [
-    "https://i.vimeocdn.com/video/495921049_295x166.jpg"
+    "https://i.vimeocdn.com/video/495921049-b02fc925357a33643679e7aae57ed2e5c51c715a8385950177508ec8f5a3d15f-d_295x166"
   ],
   "vimeo": "111339988",
   "moreinfo": "http://dallastechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/495921049_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/495921049-b02fc925357a33643679e7aae57ed2e5c51c715a8385950177508ec8f5a3d15f-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/111339988.hd.mp4?s=ae3bf400fab537d2a952cbef96a1bc84d5ebd8de&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/111339988.sd.mp4?s=a3683270268efef23888a6437271536a2c581865&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 669,

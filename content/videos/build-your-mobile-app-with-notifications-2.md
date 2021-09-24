@@ -10,11 +10,11 @@
   "abstract": "<p>Learn how to add notifications, remote and local, to your application. Whether it’s an iOS, Android, or Windows, it’s easy to add notifications. We will take a look at using AWS Notification Service, Azure Notification Hub, and even doing your own Push Notifications with PushSharp. Push notifications are a mainstay for making a polished and well-rounded application. It's important on how you handle your notifications and display them. The wrong sound or not navigating to the item can make for a poor user experience.</p>",
   "description": "<p>Learn how to add notifications, remote and local, to your application. Whether it’s an iOS, Android, or Windows, it’s easy to add notifications. We will take a look at using AWS Notification Service, Azure Notification Hub, and even doing your own Push Notifications with PushSharp. Push notifications are a mainstay for making a polished and well-rounded application. It's important on how you handle your notifications and display them. The wrong sound or not navigating to the item can make for a poor user experience.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/660048171_295x166.jpg"
+    "https://i.vimeocdn.com/video/660048171-016b457b58877c7f329643582e9fc2a6b4af64af2c94bbfb79779cf455f0b97a-d_295x166"
   ],
   "vimeo": "237598362",
   "moreinfo": "http://www.lrtechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/660048171_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/660048171-016b457b58877c7f329643582e9fc2a6b4af64af2c94bbfb79779cf455f0b97a-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/237598362.hd.mp4?s=d9963e8f64e06de25920a582309c8d2fc5e778a5&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/237598362.sd.mp4?s=4d4df80b7161143abd0cc6b62f3ff55517f951bb&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 119,

@@ -10,11 +10,11 @@
   "abstract": "<p>A lot of IT people are talking about “Agile” these days. But do they really know what it means to be agile? And more importantly, do you know what it could mean for your job, your career, your company? As software developers, agile practices are having a great impact on how we build software and promise to greatly improve the quality of our work.</p>\r\n<p>This talk begins with the agile mindset, demonstrates pragmatic agile software development practices, and explores the impact that agile methods can have on any software project. If you’ve never heard of “agile” before, you’ll learn from the ground up. If you’ve always wondered what it really means, you’ll come away with a crystalized understanding. And if you’re familiar with the concepts, you’ll see techniques in action, from customer conversation to product delivery, and understand with renewed clarity where our industry is headed with process improvement. </p>",
   "description": "<p>A lot of IT people are talking about “Agile” these days. But do they really know what it means to be agile? And more importantly, do you know what it could mean for your job, your career, your company? As software developers, agile practices are having a great impact on how we build software and promise to greatly improve the quality of our work.</p>\r\n<p>This talk begins with the agile mindset, demonstrates pragmatic agile software development practices, and explores the impact that agile methods can have on any software project. If you’ve never heard of “agile” before, you’ll learn from the ground up. If you’ve always wondered what it really means, you’ll come away with a crystalized understanding. And if you’re familiar with the concepts, you’ll see techniques in action, from customer conversation to product delivery, and understand with renewed clarity where our industry is headed with process improvement. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/490129394_295x166.jpg"
+    "https://i.vimeocdn.com/video/490129394-fc1f68d76ade5786b361f66a9c12ba516b290e4f62ae70503ec463de0e2a8f2b-d_295x166"
   ],
   "vimeo": "106885724",
   "moreinfo": "http://www.dallas-csharp-sig.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/490129394_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/490129394-fc1f68d76ade5786b361f66a9c12ba516b290e4f62ae70503ec463de0e2a8f2b-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/106885724.hd.mp4?s=a30bf3bd6711e8d8e016bb429dbad69c1017a8ed&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/106885724.sd.mp4?s=732ef4f61cb9c53282d006c242758b92aed15f44&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 568,

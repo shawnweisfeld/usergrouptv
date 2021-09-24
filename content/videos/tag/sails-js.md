@@ -11,7 +11,7 @@
     {
       "title": "Sails.js: A High-Productivity Node.js Web App Framework",
       "slug": "sails-js-a-high-productivity-node-js-web-app-framework",
-      "thumbnail": "https://i.vimeocdn.com/video/482027486_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/482027486-42f7e779f60559e87e5273e47edccb1de5eafa594361274c7eaf10d263e23311-d_295x166",
       "date": "2014-05-16T10:09:17",
       "meetups": [
         {

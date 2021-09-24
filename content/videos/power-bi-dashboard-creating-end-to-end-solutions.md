@@ -10,11 +10,11 @@
   "abstract": "<p>Accessing data, Data preparation, and cleansing, consuming the data for reports and deploying the reports to Power BI services, configuring security and making the Dashboards available to end users.</p>",
   "description": "<p>Accessing data, Data preparation, and cleansing, consuming the data for reports and deploying the reports to Power BI services, configuring security and making the Dashboards available to end users.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/798692079_295x166.jpg"
+    "https://i.vimeocdn.com/video/798692079-d7861a7474203849e127cac284b67d01b774d375bfe9eaa83c695ad9828748a2-d_295x166"
   ],
   "vimeo": "348150611",
   "moreinfo": "https://www.sqlsaturday.com/890/Sessions/Details.aspx?sid=92072",
-  "thumbnail": "https://i.vimeocdn.com/video/798692079_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/798692079-d7861a7474203849e127cac284b67d01b774d375bfe9eaa83c695ad9828748a2-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/348150611.hd.mp4?s=886537260c3de2ecfde30fc53a08c07d185ae57d&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/348150611.sd.mp4?s=911f080a1cb9135cb7270ebf7ea71982838d8ba2&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 295,

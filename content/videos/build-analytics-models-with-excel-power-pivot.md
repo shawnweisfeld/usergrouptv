@@ -10,11 +10,11 @@
   "abstract": "<p>This session will cover building models in PowerPivot, the semantic layer of Power BI. It will include examples from both dimensional and non-dimensional models, along with limitations, workarounds and best practices. You will also learn how to incorporate images and other types of content. The session will include a basic introduction of the Data Analysis Expressions Language (DAX) and cover some of the most common expressions that are used in data models. </p>",
   "description": "<p>This session will cover building models in PowerPivot, the semantic layer of Power BI. It will include examples from both dimensional and non-dimensional models, along with limitations, workarounds and best practices. You will also learn how to incorporate images and other types of content. The session will include a basic introduction of the Data Analysis Expressions Language (DAX) and cover some of the most common expressions that are used in data models. </p>",
   "images": [
-    "https://i.vimeocdn.com/video/482636875_295x166.jpg"
+    "https://i.vimeocdn.com/video/482636875-7dcaacfc4cf84c9842f9f91a96a0d104bfb9c7f00fd8c55efc26af1a795d429c-d_295x166"
   ],
   "vimeo": "100978847",
   "moreinfo": "http://www.sqlsaturday.com/viewsession.aspx?sat=305&sessionid=21924",
-  "thumbnail": "https://i.vimeocdn.com/video/482636875_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/482636875-7dcaacfc4cf84c9842f9f91a96a0d104bfb9c7f00fd8c55efc26af1a795d429c-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/100978847.hd.mp4?s=358ab304f451f53821beb73ad8dc1e9967496b50&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/100978847.sd.mp4?s=47631dc2cceaee2fead5c7e43bfdafba63ba8d57&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 916,

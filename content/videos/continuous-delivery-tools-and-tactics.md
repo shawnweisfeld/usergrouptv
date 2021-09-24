@@ -10,11 +10,11 @@
   "abstract": "<p>Walkthrough of a typical continuous delivery value chain, including strategies and tactics on successful introduction of new tools into your IT organization. Tool catagories include: automated testing tools, build and deployment tools, and configuration management tools.</p>",
   "description": "<p>Walkthrough of a typical continuous delivery value chain, including strategies and tactics on successful introduction of new tools into your IT organization. Tool catagories include: automated testing tools, build and deployment tools, and configuration management tools.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/489182752_295x166.jpg"
+    "https://i.vimeocdn.com/video/489182752-d12b059573f575f7b935c578ba799a0d510368265c137613a63bd9de7d2b6be5-d_295x166"
   ],
   "vimeo": "106167498",
   "moreinfo": "http://houstontechfest-public.sharepoint.com/Documents/HTF2014%20Schedule.aspx#049",
-  "thumbnail": "https://i.vimeocdn.com/video/489182752_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/489182752-d12b059573f575f7b935c578ba799a0d510368265c137613a63bd9de7d2b6be5-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/106167498.hd.mp4?s=74afd39c5c21e4adef0bc729e0cfcdb78f2993ab&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/106167498.sd.mp4?s=f837900935c2283209438e7ad3ed96978575f358&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 1025,

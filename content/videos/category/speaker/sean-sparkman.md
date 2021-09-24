@@ -12,7 +12,7 @@
     {
       "title": "Build Your Mobile App with Notifications",
       "slug": "build-your-mobile-app-with-notifications-2",
-      "thumbnail": "https://i.vimeocdn.com/video/660048171_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/660048171-016b457b58877c7f329643582e9fc2a6b4af64af2c94bbfb79779cf455f0b97a-d_295x166",
       "date": "2017-10-06T22:28:33",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "Introduction to Xamarin",
       "slug": "introduction-to-xamarin",
-      "thumbnail": "https://i.vimeocdn.com/video/650402311_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/650402311-881bf461d93899390c41f2e5839cae5482747d2f2939d7ef8a1cfb520aa0c061-d_295x166",
       "date": "2017-07-21T14:17:40",
       "meetups": [
         {
@@ -48,7 +48,7 @@
     {
       "title": "Introduction to Xamarin.Forms",
       "slug": "introduction-to-xamarin-forms",
-      "thumbnail": "https://i.vimeocdn.com/video/650631630_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/650631630-35be69e974b4a67f1590e038bb9f005e0fb7135657a8d1f28e17a3541fdbed1d-d_295x166",
       "date": "2017-07-21T14:14:35",
       "meetups": [
         {
@@ -66,7 +66,7 @@
     {
       "title": "Build Your Mobile App with Notifications",
       "slug": "build-your-mobile-app-with-notifications",
-      "thumbnail": "https://i.vimeocdn.com/video/650631938_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/650631938-1e97d30c54f4ed0a10200a089936d86c4ca4eecf7127973e431776040d1aff4e-d_295x166",
       "date": "2017-07-21T14:12:11",
       "meetups": [
         {
@@ -84,7 +84,7 @@
     {
       "title": "Building apps with Wearable Technology using Xamarin",
       "slug": "building-apps-with-wearable-technology-using-xamarin",
-      "thumbnail": "https://i.vimeocdn.com/video/521723567_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/521723567-82411f88116f37f9fd899e8d358419b1153ca1537baf50011a7e6af71dfe369b-d_295x166",
       "date": "2015-06-06T16:45:54",
       "meetups": [
         {

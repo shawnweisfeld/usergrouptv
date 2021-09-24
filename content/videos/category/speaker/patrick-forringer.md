@@ -12,7 +12,7 @@
     {
       "title": "CSS3 and You",
       "slug": "css3-and-you",
-      "thumbnail": "https://i.vimeocdn.com/video/507719534_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/507719534-fb1f22f6af1a91642cc299d745a232d2a7ed78bea597cfe598190d1e8d4fa1ec-d_295x166",
       "date": "2011-10-07T05:00:37",
       "meetups": [
         {

@@ -12,7 +12,7 @@
     {
       "title": "Backups for non-DBAs...the Why, not the How",
       "slug": "backups-for-non-dbas-the-why-not-the-how",
-      "thumbnail": "https://i.vimeocdn.com/video/640579433_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/640579433-b1645982ce2f2cd374741517a654aeda03020063b921bcc7cffea5334caccb3f-d_295x166",
       "date": "2017-06-17T14:22:38",
       "meetups": [
         {

@@ -12,11 +12,11 @@
   "abstract": "You might be tempted to think that Cloud infrastructure is a commodity once your VM image is launched. Not true. The big 3 -- actually, it's the big 1, plus 2 others -- have crucial differences that can make or break your project. This session will help you identify them.",
   "description": "You might be tempted to think that Cloud infrastructure is a commodity once your VM image is launched. Not true. The big 3 -- actually, it's the big 1, plus 2 others -- have crucial differences that can make or break your project. This session will help you identify them.",
   "images": [
-    "https://i.vimeocdn.com/video/488128550_295x166.jpg"
+    "https://i.vimeocdn.com/video/488128550-9e70c31a232ac2381029daa3e4d5b585f7aa70bb7b95bd04ae0e9f267122d36d-d_295x166"
   ],
   "vimeo": "105359949",
   "moreinfo": "http://techfests.com/NWA/2012",
-  "thumbnail": "https://i.vimeocdn.com/video/488128550_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/488128550-9e70c31a232ac2381029daa3e4d5b585f7aa70bb7b95bd04ae0e9f267122d36d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/105359949.hd.mp4?s=6dceb8f100882b555df988a0475986818b855b40&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/105359949.sd.mp4?s=fcb64d977038c683dab7815919a897c94f7e2ba0&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 536,
@@ -32,7 +32,7 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 41
+      "count": 42
     },
     {
       "name": "AWS",

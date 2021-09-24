@@ -12,7 +12,7 @@
     {
       "title": "The Leading Measures of Velocity",
       "slug": "the-leading-measures-of-velocity",
-      "thumbnail": "https://i.vimeocdn.com/video/537239050_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/537239050-836549d5a616051229370326401164763cad56a3df32d34c32ae79afb35b791b-d_295x166",
       "date": "2015-09-26T12:16:59",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "WHY NOT SCRUM, WHY NOT KANBAN",
       "slug": "why-not-scrum-why-not-kanban",
-      "thumbnail": "https://i.vimeocdn.com/video/486707988_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/486707988-9400d252f6d3eb02aaa613e1a4270594355efa8dc340ac7fd2bf0b304743e362-d_295x166",
       "date": "2014-08-24T18:03:23",
       "meetups": [
         {
@@ -52,7 +52,7 @@
     {
       "title": "Performance & Load Testing",
       "slug": "performance-load-testing",
-      "thumbnail": "https://i.vimeocdn.com/video/492570028_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/492570028-e620c495a85cd97eb5a428d0850cab4498e0fd061893ed17bdba2dd2875c23c8-d_295x166",
       "date": "2012-02-17T15:12:29",
       "meetups": [
         {
@@ -70,7 +70,7 @@
     {
       "title": "Ye Olde TDD",
       "slug": "ye-olde-tdd",
-      "thumbnail": "https://i.vimeocdn.com/video/501052476_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/501052476-5df202da63a51e55c79487632f0aa319f18aab854a4283b5a4fbe210c2c1fce0-d_295x166",
       "date": "2011-02-25T13:30:42",
       "meetups": [
         {

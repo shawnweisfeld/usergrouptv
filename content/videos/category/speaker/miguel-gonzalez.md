@@ -12,7 +12,7 @@
     {
       "title": "Microservices - The new golden hammer!",
       "slug": "microservices-the-new-golden-hammer",
-      "thumbnail": "https://i.vimeocdn.com/video/593964660_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/593964660-b6b295f2070d089978100a307cf2f150267564fc4947ee3889114c2c9510b12c-d_295x166",
       "date": "2016-09-24T19:56:29",
       "meetups": [
         {

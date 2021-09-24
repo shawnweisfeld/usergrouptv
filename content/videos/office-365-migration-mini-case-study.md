@@ -10,11 +10,11 @@
   "abstract": "<p>1TB+ from on-prem to cloud, Content discovery -- including PowerShell scripts identifying site customizations, Customization and remediation plans, Punching up processing power and minimizing network latencies by using Azure VMs and Azure Storage</p>",
   "description": "<p>1TB+ from on-prem to cloud, Content discovery -- including PowerShell scripts identifying site customizations, Customization and remediation plans, Punching up processing power and minimizing network latencies by using Azure VMs and Azure Storage</p>",
   "images": [
-    "https://i.vimeocdn.com/video/694124069_295x166.jpg"
+    "https://i.vimeocdn.com/video/694124069-85d78fad6c41ce4a4c7c429f892608f1f4144ee6d614335b7876bc56c1acd6b9-d_295x166"
   ],
   "vimeo": "264362640",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/lsljlmyxgbpb/",
-  "thumbnail": "https://i.vimeocdn.com/video/694124069_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/694124069-85d78fad6c41ce4a4c7c429f892608f1f4144ee6d614335b7876bc56c1acd6b9-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/264362640.hd.mp4?s=ae46a62636a5df620355feeac262ec9ab9dad054&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/264362640.sd.mp4?s=5674b7b609b84730cfb9be94e88ae7025c7d4988&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 85,

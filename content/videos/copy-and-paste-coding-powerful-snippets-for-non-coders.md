@@ -10,11 +10,11 @@
   "abstract": "<p>Seems like a lot of people are afraid of code and was going to show some very simple things that most people can do in template overrides and CSS to make Joomla way more powerful.</p>",
   "description": "<p>Seems like a lot of people are afraid of code and was going to show some very simple things that most people can do in template overrides and CSS to make Joomla way more powerful.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/818411146_295x166.jpg"
+    "https://i.vimeocdn.com/video/818411146-3a4fdcdeaa4137993b961ab4d005b570e26ab8155881e910d2e85ba12a175a02-d_295x166"
   ],
   "vimeo": "363304977",
   "moreinfo": "https://www.joomladaytexas.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/818411146_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/818411146-3a4fdcdeaa4137993b961ab4d005b570e26ab8155881e910d2e85ba12a175a02-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/363304977.hd.mp4?s=771cfb42b5dad9b447f79ec2cc335479f44c8585&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/363304977.sd.mp4?s=bb10c0e61c376c78b4d361e157640b72c5bdd150&profile_id=139&oauth2_token_id=20985841",
   "recordingID": 284,

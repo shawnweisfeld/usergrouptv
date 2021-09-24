@@ -10,11 +10,11 @@
   "abstract": "<p>What is ETL? SQL tools for ETL. Options for using the tools including format files. Pros and cons for each.</p>",
   "description": "<p>What is ETL? SQL tools for ETL. Options for using the tools including format files. Pros and cons for each.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/641739577_295x166.jpg"
+    "https://i.vimeocdn.com/video/641739577-70f27ebdd91da644985709480da8b929b0e10a5d97b6a2249d5bccd88bbfc785-d_295x166"
   ],
   "vimeo": "223039138",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/238573416/",
-  "thumbnail": "https://i.vimeocdn.com/video/641739577_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/641739577-70f27ebdd91da644985709480da8b929b0e10a5d97b6a2249d5bccd88bbfc785-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/223039138.hd.mp4?s=d9c18d0d2f86c8120dd9ce3a3c760ae41a6547f4&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/223039138.sd.mp4?s=9cbcef47177bd1f8ef0214a974f3d917340860f9&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 213,

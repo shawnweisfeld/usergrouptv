@@ -10,11 +10,11 @@
   "abstract": "<p>Now that Microsoft Ignite 2018 has come and gone, Microsoft's putting together a whirlwind tour of the innovations and announcements from the event, with a focus on collaboration. Join James Hammonds, Microsoft Technical Solutions Professional, who will be our tour guide. From Azure Active Directory to Yammer, we will review session highlights and what they mean for you as IT Pros and Information Workers.</p>",
   "description": "<p>Now that Microsoft Ignite 2018 has come and gone, Microsoft's putting together a whirlwind tour of the innovations and announcements from the event, with a focus on collaboration. Join James Hammonds, Microsoft Technical Solutions Professional, who will be our tour guide. From Azure Active Directory to Yammer, we will review session highlights and what they mean for you as IT Pros and Information Workers.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/739798321_295x166.jpg"
+    "https://i.vimeocdn.com/video/739798321-b1f7df13bb564990179a3a491dd9189a0c254e203ad53b6071974d1fddb24839-d_295x166"
   ],
   "vimeo": "301276034",
   "moreinfo": "https://www.meetup.com/Austin-Office365-SharePoint-UserGroup/events/lsljlmyxpbsb/",
-  "thumbnail": "https://i.vimeocdn.com/video/739798321_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/739798321-b1f7df13bb564990179a3a491dd9189a0c254e203ad53b6071974d1fddb24839-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/301276034.hd.mp4?s=8c24c78aa5058e185ef86457bb4462108e34c351&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/301276034.sd.mp4?s=ee0f037e6d8b8f34c6e86b0be76e5756c3efbed5&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 474,

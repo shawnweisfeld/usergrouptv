@@ -10,11 +10,11 @@
   "abstract": "If you have ever worked with Entity Framework, even if you’re doing Entity Framework Code First, you are almost certainly doing it wrong. While Entity Framework is a wonderful framework, it doesn’t automatically force you into the correct patterns of use – especially if you’re interested in isolation and testability.\r\nThis talk will review the concepts of both the Repository Pattern and the Specification Pattern and demonstrate how to implement them in Entity Framework.",
   "description": "If you have ever worked with Entity Framework, even if you’re doing Entity Framework Code First, you are almost certainly doing it wrong. While Entity Framework is a wonderful framework, it doesn’t automatically force you into the correct patterns of use – especially if you’re interested in isolation and testability.\r\nThis talk will review the concepts of both the Repository Pattern and the Specification Pattern and demonstrate how to implement them in Entity Framework.",
   "images": [
-    "https://i.vimeocdn.com/video/488133647_295x166.jpg"
+    "https://i.vimeocdn.com/video/488133647-59c6959c07c728a4dfb02967a163cee092bcf8c0a7804e3ea70b8640186c3904-d_295x166"
   ],
   "vimeo": "105363894",
   "moreinfo": "http://dallas-csharp-sig.com",
-  "thumbnail": "https://i.vimeocdn.com/video/488133647_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/488133647-59c6959c07c728a4dfb02967a163cee092bcf8c0a7804e3ea70b8640186c3904-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/105363894.hd.mp4?s=a6e5a11124f813144636b32a111b8ff9f751a9ed&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/105363894.sd.mp4?s=71a11287f0d17d2cddc2bbbb8be8a04887d4f439&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 528,

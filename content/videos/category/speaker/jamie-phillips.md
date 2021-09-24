@@ -12,7 +12,7 @@
     {
       "title": "Solutions to Local Kubernetes Development",
       "slug": "solutions-to-local-kubernetes-development",
-      "thumbnail": "https://i.vimeocdn.com/video/1096213728_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/1096213728-508b724b1d90ded5cebe26340b1016d50ff605de83df2a8e0a5a9394515021bc-d_295x166",
       "date": "2021-03-23T00:00:00",
       "meetups": [
         {

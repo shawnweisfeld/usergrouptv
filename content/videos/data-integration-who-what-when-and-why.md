@@ -13,11 +13,11 @@
   "abstract": "The session provides an architectural (yet practical) overview of the Data Integration market today. Who - the main players in the Data Integration marketplace; What - an examination of key solutions including real time data replication, ETL, Data Profiling and Data Quality; When - a look at typical adoption patterns and architectures for Data Integration; Why - an overview of todays best fit usecases; Where - an examination of typical deployment architectures.",
   "description": "The session provides an architectural (yet practical) overview of the Data Integration market today. Who - the main players in the Data Integration marketplace; What - an examination of key solutions including real time data replication, ETL, Data Profiling and Data Quality; When - a look at typical adoption patterns and architectures for Data Integration; Why - an overview of todays best fit usecases; Where - an examination of typical deployment architectures.",
   "images": [
-    "https://i.vimeocdn.com/video/488137582_295x166.jpg"
+    "https://i.vimeocdn.com/video/488137582-1a27088ca3b7496a2a084b47e158a5361209ffecb6ee6afbbf1ded4d54c33b5d-d_295x166"
   ],
   "vimeo": "105366916",
   "moreinfo": "http://techfests.com/NWA/2012",
-  "thumbnail": "https://i.vimeocdn.com/video/488137582_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/488137582-1a27088ca3b7496a2a084b47e158a5361209ffecb6ee6afbbf1ded4d54c33b5d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/105366916.hd.mp4?s=bda288eaab2ffa5ce81db26166d6cc113d3ffb54&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/105366916.sd.mp4?s=0899faf59eb579c1029f954c7f4d301401af7079&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 534,

@@ -12,7 +12,7 @@
     {
       "title": "ASP.NET MVC 3 In Action",
       "slug": "asp-net-mvc-3-in-action",
-      "thumbnail": "https://i.vimeocdn.com/video/495921049_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/495921049-b02fc925357a33643679e7aae57ed2e5c51c715a8385950177508ec8f5a3d15f-d_295x166",
       "date": "2011-08-13T02:27:39",
       "meetups": [
         {

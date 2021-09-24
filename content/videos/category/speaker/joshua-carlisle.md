@@ -12,7 +12,7 @@
     {
       "title": "Five Azure Services Every Developer Should Know",
       "slug": "five-azure-services-every-developer-should-know",
-      "thumbnail": "https://i.vimeocdn.com/video/1120787910_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/1120787910-580db3b86e612c9aa8ed6c5876a51c377a2b257ce15e8963070310663f0e23a7-d_295x166",
       "date": "2021-04-20T00:00:00",
       "meetups": [
         {

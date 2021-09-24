@@ -10,11 +10,11 @@
   "abstract": "<p>You've heard of the cloud. You've heard of Windows Azure. You have a general understanding of what it is but you still don't fully understand how or why you would want to use it. If this sounds like you, you owe it to yourself to attend this session and get a foundational understanding of what exactly Windows Azure is and how you can leverage it in powerful ways in your new and existing .NET applications. In this session, Casey starts by covering some basic, high-level cloud-related topics to give you a solid foundation in cloud development, then moves on to how Windows Azure implements these ideas and makes them easily consumable to .NET developers. Finally, you will have the opportunity to dive in with Casey and build applications from scratch that leverage several important Azure features such as Azure storage and service bus.\r\n</p>",
   "description": "<p>You've heard of the cloud. You've heard of Windows Azure. You have a general understanding of what it is but you still don't fully understand how or why you would want to use it. If this sounds like you, you owe it to yourself to attend this session and get a foundational understanding of what exactly Windows Azure is and how you can leverage it in powerful ways in your new and existing .NET applications. In this session, Casey starts by covering some basic, high-level cloud-related topics to give you a solid foundation in cloud development, then moves on to how Windows Azure implements these ideas and makes them easily consumable to .NET developers. Finally, you will have the opportunity to dive in with Casey and build applications from scratch that leverage several important Azure features such as Azure storage and service bus.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/482640602_295x166.jpg"
+    "https://i.vimeocdn.com/video/482640602-c1a645dc9f8bf5ea6a2f55e76cba700e179a7f2858e93f3a4fca760d8963562d-d_295x166"
   ],
   "vimeo": "100981756",
   "moreinfo": "http://www.ddnug.net/",
-  "thumbnail": "https://i.vimeocdn.com/video/482640602_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/482640602-c1a645dc9f8bf5ea6a2f55e76cba700e179a7f2858e93f3a4fca760d8963562d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/100981756.hd.mp4?s=d9e4d6dd451a6f85ae2b5b5d3c3188d99914ade7&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/100981756.sd.mp4?s=80693af15a755983aa47960dcfd0cd725fd68fe3&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 962,
@@ -30,7 +30,7 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 41
+      "count": 42
     }
   ],
   "meetups": [

@@ -10,11 +10,11 @@
   "abstract": "<p>In this talk David will talk about Azure Machine Learning a Powerful cloud-based predictive analytics.</p>",
   "description": "<p>In this talk David will talk about Azure Machine Learning a Powerful cloud-based predictive analytics.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/511724609_295x166.jpg"
+    "https://i.vimeocdn.com/video/511724609-99ddf8edfcca022c941d9550fca3b3dd67c37cb4b6186779e8a8f109eff358e9-d_295x166"
   ],
   "vimeo": "122661656",
   "moreinfo": "http://www.meetup.com/azureaustin/events/220807679/",
-  "thumbnail": "https://i.vimeocdn.com/video/511724609_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/511724609-99ddf8edfcca022c941d9550fca3b3dd67c37cb4b6186779e8a8f109eff358e9-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/122661656.hd.mp4?s=48212fc4bbf82688bade5a2a355ce8c7c46e37e0&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/122661656.sd.mp4?s=a132530a6a151b72076f76b868f12182ae53781b&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 828,
@@ -37,7 +37,7 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 51
+      "count": 52
     }
   ]
 }

@@ -11,7 +11,7 @@
     {
       "title": "Getting Started with Data Science and Databricks",
       "slug": "getting-started-with-data-science-and-databricks",
-      "thumbnail": "https://i.vimeocdn.com/video/854620500_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854620500-8f2d84679d3f888ebecea3bd458af3f33ea1a22f78f2b1f8866ac558335f3967-d_295x166",
       "date": "2020-02-08T16:30:20",
       "speakers": [
         {
@@ -29,7 +29,7 @@
     {
       "title": "Using calculation groups in DAX",
       "slug": "using-calculation-groups-in-dax",
-      "thumbnail": "https://i.vimeocdn.com/video/854620219_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854620219-6c36281626d0c81dff1aeeedd544c816a56c5d4350a6b96c3cde569468732c07-d_295x166",
       "date": "2020-02-08T16:29:06",
       "speakers": [
         {
@@ -47,7 +47,7 @@
     {
       "title": "Getting Started with Apache Spark",
       "slug": "getting-started-with-apache-spark",
-      "thumbnail": "https://i.vimeocdn.com/video/854621628_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854621628-90a96b7507d6125ab05d0d5a5c43440a41d6a215e8d33b1670bd3a7f6862ef0b-d_295x166",
       "date": "2020-02-08T16:27:50",
       "speakers": [
         {
@@ -65,7 +65,7 @@
     {
       "title": "Creating Accessible Power BI Reports",
       "slug": "creating-accessible-power-bi-reports",
-      "thumbnail": "https://i.vimeocdn.com/video/854621808_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854621808-5c595ecb118d27537207f232eb458991d5d123f961b7068dd4437a9015df5697-d_295x166",
       "date": "2020-02-08T16:26:29",
       "speakers": [
         {
@@ -83,7 +83,7 @@
     {
       "title": "Basics of Data Modeling for BI Reporting",
       "slug": "basics-of-data-modeling-for-bi-reporting",
-      "thumbnail": "https://i.vimeocdn.com/video/854623065_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854623065-a0db84037aaa32d04c934ad34d95a113f68fed48499d813ce98880043b5cb775-d_295x166",
       "date": "2020-02-08T16:20:52",
       "speakers": [
         {
@@ -101,7 +101,7 @@
     {
       "title": "A metadata approach to fixed width files",
       "slug": "a-metadata-approach-to-fixed-width-files",
-      "thumbnail": "https://i.vimeocdn.com/video/854625067_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854625067-7181f2ed4161ccaba476a757568fb14a2616a0ec3e624536c3ea2b3eb396c1b1-d_295x166",
       "date": "2020-02-08T16:19:15",
       "speakers": [
         {
@@ -119,7 +119,7 @@
     {
       "title": "Ethics in Data",
       "slug": "ethics-in-data",
-      "thumbnail": "https://i.vimeocdn.com/video/854624827_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854624827-363163b41d52d27a11212778ab23b84e4aead7bec861895f8df60c65206dcb1b-d_295x166",
       "date": "2020-02-08T16:17:42",
       "speakers": [
         {
@@ -141,7 +141,7 @@
     {
       "title": "ETL Using Python, Pandas, and Jupyter Notebook",
       "slug": "etl-using-python-pandas-and-jupyter-notebook",
-      "thumbnail": "https://i.vimeocdn.com/video/854626443_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854626443-6dbab1c4880358e08498ef860060c3f59a192b4a5ae14d5523e988458d7f6478-d_295x166",
       "date": "2020-02-08T16:14:32",
       "speakers": [
         {
@@ -167,7 +167,7 @@
     {
       "title": "More Common Than You Think: Mental Illness in Tech",
       "slug": "more-common-than-you-think-mental-illness-in-tech",
-      "thumbnail": "https://i.vimeocdn.com/video/854625923_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854625923-93d325df8b9a112cfea728d6839f0d30e2e4f11beaf569a482a5a510f627a2e8-d_295x166",
       "date": "2020-02-08T16:12:39",
       "speakers": [
         {
@@ -185,7 +185,7 @@
     {
       "title": "Data Vault on SQL Server Tabular Model and Power BI",
       "slug": "data-vault-on-sql-server-tabular-model-and-power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/854627598_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854627598-dab295cbfda44fec0d94010228f7a67d1b0d2c61c306b8f059d2515d122e9982-d_295x166",
       "date": "2020-02-08T16:11:11",
       "speakers": [
         {
@@ -207,7 +207,7 @@
     {
       "title": "Make Your Company Conversational using Azure Cognitive Services",
       "slug": "make-your-company-conversational-using-azure-cognitive-services",
-      "thumbnail": "https://i.vimeocdn.com/video/854627684_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854627684-3c1e89251aacfcaf47ab61e4c0d6844e49d478d892fb67dc8a9b79d75fb45b19-d_295x166",
       "date": "2020-02-08T16:08:46",
       "speakers": [
         {
@@ -225,7 +225,7 @@
     {
       "title": "Building a Strong Foundation for Data Analysis",
       "slug": "building-a-strong-foundation-for-data-analysis",
-      "thumbnail": "https://i.vimeocdn.com/video/854628797_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/854628797-e57ab00f693b51693381ebc8e88bbb5de5b1410529ba753dcd56daa6c381c143-d_295x166",
       "date": "2020-02-08T16:07:08",
       "speakers": [
         {
@@ -243,7 +243,7 @@
     {
       "title": "15 Quick Tips for SSIS Performance",
       "slug": "15-quick-tips-for-ssis-performance",
-      "thumbnail": "https://i.vimeocdn.com/video/505504105_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/505504105-d33c5e4d2a05dd967b7c789d2231abdf0001dea55b4a8b8a2448ce4d47e19ec5-d_295x166",
       "date": "2015-02-06T18:50:52",
       "speakers": [
         {
@@ -261,7 +261,7 @@
     {
       "title": "How Active Directory affects SQL Server",
       "slug": "how-active-directory-affects-sql-server-2",
-      "thumbnail": "https://i.vimeocdn.com/video/505666855_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/505666855-820fce567d77638820fab34d6f1ab49af8d1f24ea1a58271c9508f9372c8f663-d_295x166",
       "date": "2015-01-31T23:37:33",
       "speakers": [
         {
@@ -283,7 +283,7 @@
     {
       "title": "Query Store - A New SQL Query Tuning Feature",
       "slug": "query-store-a-new-sql-query-tuning-feature",
-      "thumbnail": "https://i.vimeocdn.com/video/505668502_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/505668502-7a3a45235345ad36062f8e87ec12f2213d8ff4eed47ed2aada581aecde112815-d_295x166",
       "date": "2015-01-31T23:18:51",
       "speakers": [
         {
@@ -301,7 +301,7 @@
     {
       "title": "SQL Injection",
       "slug": "sql-injection-2",
-      "thumbnail": "https://i.vimeocdn.com/video/505667364_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/505667364-bf14cf33231498a9b1303861b9344402a3b3f1fe2005d9a93cbb23f7b7c41bbd-d_295x166",
       "date": "2015-01-31T23:17:05",
       "speakers": [
         {
@@ -319,7 +319,7 @@
     {
       "title": "What Happens When SQL Server 2014 Meets Cisco UCS? Better Business Intelligence",
       "slug": "what-happens-when-sql-server-2014-meets-cisco-ucs-better-business-intelligence",
-      "thumbnail": "https://i.vimeocdn.com/video/505665745_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/505665745-02dfb5050a028d33419dbdc472afdcc6de1252237eae5addd870c858facc54de-d_295x166",
       "date": "2015-01-31T23:13:05",
       "speakers": [
         {
@@ -337,7 +337,7 @@
     {
       "title": "SQL Watchdog - find out instantly when SQL change",
       "slug": "sql-watchdog-find-out-instantly-when-sql-change",
-      "thumbnail": "https://i.vimeocdn.com/video/505666533_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/505666533-3f886416774d8ba7635ab3f012051e9b39564c6ab98192b0df351fe4e0d9ae8f-d_295x166",
       "date": "2015-01-31T23:11:26",
       "speakers": [
         {
@@ -355,7 +355,7 @@
     {
       "title": "CIS Benchmarks – A Guide to SQL Server Security",
       "slug": "cis-benchmarks-a-guide-to-sql-server-security",
-      "thumbnail": "https://i.vimeocdn.com/video/505665397_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/505665397-482a9ae165cba4264a6215ff084395af1b064b8d4ad191f65a65e8c38c42af64-d_295x166",
       "date": "2015-01-31T23:00:11",
       "speakers": [
         {
@@ -373,7 +373,7 @@
     {
       "title": "Turbocharge Your Career With a Learning Plan",
       "slug": "turbocharge-your-career-with-a-learning-plan",
-      "thumbnail": "https://i.vimeocdn.com/video/505665178_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/505665178-3340b5e1585fbe67bc6a620cc23e05da72fa5ca36c02e7c0dd9908d993597e7f-d_295x166",
       "date": "2015-01-31T18:52:58",
       "speakers": [
         {
@@ -391,7 +391,7 @@
     {
       "title": "Learn How To Build A Golden Record for Any Subject Over Lunch!",
       "slug": "learn-how-to-build-a-golden-record-for-any-subject-over-lunch",
-      "thumbnail": "https://i.vimeocdn.com/video/505503841_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/505503841-f6dd7e9e99475d58bb472f0ce411fcb909932bcba50d655f0cc8a638180e4307-d_295x166",
       "date": "2015-01-31T18:51:15",
       "speakers": [
         {
@@ -409,7 +409,7 @@
     {
       "title": "Getting started with Tabular Analysis Services",
       "slug": "getting-started-with-tabular-analysis-services",
-      "thumbnail": "https://i.vimeocdn.com/video/505504095_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/505504095-408ae240131f8afd01469c168f754338cc474a055f563524282c94fd6a2ac330-d_295x166",
       "date": "2015-01-31T18:47:03",
       "speakers": [
         {
@@ -427,7 +427,7 @@
     {
       "title": "Capture Change and Apply it with CDC & SSIS",
       "slug": "capture-change-and-apply-it-with-cdc-ssis",
-      "thumbnail": "https://i.vimeocdn.com/video/505504007_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/505504007-4dcc4bea3c02440684f8aed05aa6b70ddfb5f0f065b78099d263b101aa31685e-d_295x166",
       "date": "2015-01-31T18:44:00",
       "speakers": [
         {
@@ -449,7 +449,7 @@
     {
       "title": "Increase your SSIS productivity with Biml",
       "slug": "increase-your-ssis-productivity-with-biml",
-      "thumbnail": "https://i.vimeocdn.com/video/505669489_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/505669489-516f51a236647442316bdb1287a76ea6db3565a78115f1417798d1747c195877-d_295x166",
       "date": "2015-01-31T14:06:07",
       "speakers": [
         {
@@ -467,7 +467,7 @@
     {
       "title": "AlwaysOn Live Deployment",
       "slug": "alwayson-live-deployment",
-      "thumbnail": "https://i.vimeocdn.com/video/505670140_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/505670140-8bd429ad2d65663141408fcf04b2c75c2b6892dfa5466e7c58261118b0dd491d-d_295x166",
       "date": "2015-01-31T14:03:41",
       "speakers": [
         {
@@ -485,7 +485,7 @@
     {
       "title": "SQL Server 2014 In Memory technologies - In Memory OLTP (aka Hekaton) & ColumnStore",
       "slug": "sql-server-2014-in-memory-technologies-in-memory-oltp-aka-hekaton-columnstore",
-      "thumbnail": "https://i.vimeocdn.com/video/505669133_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/505669133-4fab5af25ea78e29f94a7d7ad632dfb5952bd5f164f00cf61811f18c84ff7125-d_295x166",
       "date": "2015-01-31T14:01:39",
       "speakers": [
         {
@@ -503,7 +503,7 @@
     {
       "title": "SQL Server Data Tools",
       "slug": "sql-server-data-tools",
-      "thumbnail": "https://i.vimeocdn.com/video/505667943_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/505667943-c239146a141a0ef3b044cedcc0c7ef1eb226d969df3250037af187bc16647000-d_295x166",
       "date": "2015-01-31T13:59:33",
       "speakers": [
         {

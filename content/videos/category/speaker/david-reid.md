@@ -12,7 +12,7 @@
     {
       "title": "Open Management Style",
       "slug": "open-management-style",
-      "thumbnail": "https://i.vimeocdn.com/video/719306991_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/719306991-0ac26f5a8e0b5b3eba3f2cf3a6cfa83291d10b6dc9246b15fbbaaceced82e14a-d_295x166",
       "date": "2018-08-11T15:53:56",
       "meetups": [
         {

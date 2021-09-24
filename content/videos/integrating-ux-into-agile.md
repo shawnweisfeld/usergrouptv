@@ -11,11 +11,11 @@
   "abstract": "<p>Successfully incorporating UX into an Agile team is not a new a thing and has presented teams with challenges for a long time. With many factors that can exist on a project there often is no easy answer to accomplish this. This session will look at some personal past attempts and talk thru the Good, the Bad, and the Ugly of uniting the UX processes with Agile. We will explore ideas that could be the recipe for a successful UX and Agile merge for a project team. If you believe life is a continuous work in progress then you should belief that this merge is possible.\r\n</p>",
   "description": "<p>Successfully incorporating UX into an Agile team is not a new a thing and has presented teams with challenges for a long time. With many factors that can exist on a project there often is no easy answer to accomplish this. This session will look at some personal past attempts and talk thru the Good, the Bad, and the Ugly of uniting the UX processes with Agile. We will explore ideas that could be the recipe for a successful UX and Agile merge for a project team. If you believe life is a continuous work in progress then you should belief that this merge is possible.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/486704873_295x166.jpg"
+    "https://i.vimeocdn.com/video/486704873-23c4bf53f2928eb4a2d4db964801da213b87d8c458fd19fa2592caba8ac38dd8-d_295x166"
   ],
   "vimeo": "104228466",
   "moreinfo": "http://www.improvingenterprises.com/",
-  "thumbnail": "https://i.vimeocdn.com/video/486704873_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/486704873-23c4bf53f2928eb4a2d4db964801da213b87d8c458fd19fa2592caba8ac38dd8-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/104228466.hd.mp4?s=e3d61d8e8b3b9807d817dbd59d93e54a829ff90b&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/104228466.sd.mp4?s=9ad699573d0ed4b8d9cc39d49edff1f6cb8250ea&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 1027,

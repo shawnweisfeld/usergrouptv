@@ -10,11 +10,11 @@
   "abstract": "<p>Are you new to the cloud? Confused if you should use virtual machines, containers or PaaS? Worried about the security of the cloud? What about Open Source in Azure? In this session we will provide an overview of everything you need to get starting using Azure in 60 minutes.</p>",
   "description": "<p>Are you new to the cloud? Confused if you should use virtual machines, containers or PaaS? Worried about the security of the cloud? What about Open Source in Azure? In this session we will provide an overview of everything you need to get starting using Azure in 60 minutes.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/696153343_295x166.jpg"
+    "https://i.vimeocdn.com/video/696153343-67bd1d332fa632e968f75a6f728989c3c49a5f01e871c9c691d19ae997bedc2b-d_295x166"
   ],
   "vimeo": "266004703",
   "moreinfo": "https://global.azurebootcamp.net/locations/gobal-azure-boot-camp-2018-austin-tx/",
-  "thumbnail": "https://i.vimeocdn.com/video/696153343_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/696153343-67bd1d332fa632e968f75a6f728989c3c49a5f01e871c9c691d19ae997bedc2b-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/266004703.hd.mp4?s=5c0db1cebba49a6eab33aaae325be48cfa84dd6f&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/266004703.sd.mp4?s=dc63cae007006df0535cee8f066952862be4fedc&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 89,
@@ -30,7 +30,7 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 41
+      "count": 42
     }
   ],
   "meetups": [

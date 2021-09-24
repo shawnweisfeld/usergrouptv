@@ -12,7 +12,7 @@
     {
       "title": "Developing Diversity",
       "slug": "developing-diversity",
-      "thumbnail": "https://i.vimeocdn.com/video/661085024_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/661085024-478fecd1294db702c5cc57ef0c16ce75fdae23eee517e40d63a383d9f1e9bc5d-d_295x166",
       "date": "2017-10-14T11:56:08",
       "meetups": [
         {

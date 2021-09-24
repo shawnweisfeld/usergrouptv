@@ -8,11 +8,11 @@
   "abstract": null,
   "description": null,
   "images": [
-    "https://i.vimeocdn.com/video/631736156_295x166.jpg"
+    "https://i.vimeocdn.com/video/631736156-f38cedab5d125b5b0dbc72c4b07c1c0a7e3c2b70c0c30378d2060b5b167b0255-d_295x166"
   ],
   "vimeo": "215095604",
   "moreinfo": "https://www.eventbrite.com/e/global-azure-bootcamp-2017-austin-tx-tickets-33085810550#",
-  "thumbnail": "https://i.vimeocdn.com/video/631736156_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/631736156-f38cedab5d125b5b0dbc72c4b07c1c0a7e3c2b70c0c30378d2060b5b167b0255-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/215095604.hd.mp4?s=e4eaac4c43bd83988f5404229ec268af3caa7fc3&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/215095604.sd.mp4?s=501fd46e03c2553687d63246209c5fc1707d228a&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 246,

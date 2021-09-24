@@ -10,11 +10,11 @@
   "abstract": "<p>Every time you turn around today someone is talking about services and one of the most common formats for data transfer on the web today is Json or JavaScript Object Notation, for is ability to be small and light on the wire and easily consumed by javascript clients. In this talk we will cover some ways to create Json services in ASP.NET. Additionally we will discuss some ways to consume these services from different types of clients: javascript in the browser with jQuery, .NET applications with JSON.NET and RestSharp. We will also look json2csharp a website that will generate POCO's from a json service.</p>",
   "description": "<p>Every time you turn around today someone is talking about services and one of the most common formats for data transfer on the web today is Json or JavaScript Object Notation, for is ability to be small and light on the wire and easily consumed by javascript clients. In this talk we will cover some ways to create Json services in ASP.NET. Additionally we will discuss some ways to consume these services from different types of clients: javascript in the browser with jQuery, .NET applications with JSON.NET and RestSharp. We will also look json2csharp a website that will generate POCO's from a json service.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/485082472_295x166.jpg"
+    "https://i.vimeocdn.com/video/485082472-430d087b091d052e44f4f8581aa7728ab322acba414b9fa61be88c937c48c06c-d_295x166"
   ],
   "vimeo": "102964308",
   "moreinfo": "http://lrtechfest.com",
-  "thumbnail": "https://i.vimeocdn.com/video/485082472_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/485082472-430d087b091d052e44f4f8581aa7728ab322acba414b9fa61be88c937c48c06c-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/102964308.hd.mp4?s=bc84b650042b149387ef4f8f0e189b137fb893bc&profile_id=113&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/102964308.sd.mp4?s=b095aff4aaf29050ea172a86d0c567de92240a48&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 585,

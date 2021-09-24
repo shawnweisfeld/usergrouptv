@@ -10,11 +10,11 @@
   "abstract": "<p>\"Nudging is a tool every Agile leader should have in their toolbox. Nudging is making a subtle suggestion in a powerful way, while letting the team make the final decisions. This presentation will be most helpful to those with strong opinions, passion to improve, and ambition to be a servant leader. A nudge is a way to lead without authority or positional power. People’s choices are strongly influenced by the environment, and nudging is about creating an environment that helps people make better choices. In this interactive session we will learn how to nudge others to become more Agile. Create a toolset of strong nudges to take your team to the next level. Build subtle yet powerful nudges to improve team spirit and productivity. Explore nudge patterns and techniques, and practice different ways to lead by nudging. Nudge shorter and more productive meetings Nudge code base improvement by moving furniture Nudge better communication and more trust\"</p>",
   "description": "<p>\"Nudging is a tool every Agile leader should have in their toolbox. Nudging is making a subtle suggestion in a powerful way, while letting the team make the final decisions. This presentation will be most helpful to those with strong opinions, passion to improve, and ambition to be a servant leader. A nudge is a way to lead without authority or positional power. People’s choices are strongly influenced by the environment, and nudging is about creating an environment that helps people make better choices. In this interactive session we will learn how to nudge others to become more Agile. Create a toolset of strong nudges to take your team to the next level. Build subtle yet powerful nudges to improve team spirit and productivity. Explore nudge patterns and techniques, and practice different ways to lead by nudging. Nudge shorter and more productive meetings Nudge code base improvement by moving furniture Nudge better communication and more trust\"</p>",
   "images": [
-    "https://i.vimeocdn.com/video/654791666_295x166.jpg"
+    "https://i.vimeocdn.com/video/654791666-dba255bcacc2b2d1426e6013a474e72a4acbdfd78c2eb0ef11771cb050919e82-d_295x166"
   ],
   "vimeo": "233458517",
   "moreinfo": "http://adnug.org/Home/762/",
-  "thumbnail": "https://i.vimeocdn.com/video/654791666_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/654791666-dba255bcacc2b2d1426e6013a474e72a4acbdfd78c2eb0ef11771cb050919e82-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/233458517.hd.mp4?s=15b634b962162e2638d1f5d432bac81b7a4e3cbc&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/233458517.sd.mp4?s=9c51de5e95f17da01de8617af65e170708f07ed5&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 21,

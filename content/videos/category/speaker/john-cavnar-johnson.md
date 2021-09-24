@@ -12,7 +12,7 @@
     {
       "title": "Beyond Monoliths and Microservices",
       "slug": "beyond-monoliths-and-microservices",
-      "thumbnail": "https://i.vimeocdn.com/video/699662855_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/699662855-2497e635c5d375e679cae0377b95ebc9ede4112275a346fd1cbe99329d1817a4-d_295x166",
       "date": "2018-05-05T15:59:55",
       "meetups": [
         {
@@ -30,7 +30,7 @@
     {
       "title": "What's in a Name?",
       "slug": "whats-in-a-name",
-      "thumbnail": "https://i.vimeocdn.com/video/699668162_295x166.jpg",
+      "thumbnail": "https://i.vimeocdn.com/video/699668162-0fa082eef6e7ab5526f31f44df2fce4fe7f2aa92ed6a741e7e186dcc1e9931d0-d_295x166",
       "date": "2018-05-05T14:55:57",
       "meetups": [
         {

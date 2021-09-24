@@ -10,11 +10,11 @@
   "abstract": "<p>How do you keep track these various devices? How do they communicate information back to and forth? I show how to configure the devices, communicate in both directions, and how to test those communication channels. I will be using both simulated devices as well as real hardware for the demos.You?ve have heard and read about this thing called the Internet of Things (IoT). With all media hype about IoT and the new paradigm it brings, it?s easy to feel overwhelmed. When you hear about companies connecting billions of devices (you have heard that right), it can be difficult to grasp how that is possible. But there?s no reason IoT has to be futuristic, complicated, or overwhelming. Let?s explore this Azure IoT Suite and see just how hard it isn?t to start down that road.</p>",
   "description": "<p>How do you keep track these various devices? How do they communicate information back to and forth? I show how to configure the devices, communicate in both directions, and how to test those communication channels. I will be using both simulated devices as well as real hardware for the demos.You?ve have heard and read about this thing called the Internet of Things (IoT). With all media hype about IoT and the new paradigm it brings, it?s easy to feel overwhelmed. When you hear about companies connecting billions of devices (you have heard that right), it can be difficult to grasp how that is possible. But there?s no reason IoT has to be futuristic, complicated, or overwhelming. Let?s explore this Azure IoT Suite and see just how hard it isn?t to start down that road.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/650327330_295x166.jpg"
+    "https://i.vimeocdn.com/video/650327330-1f3415b265a0c2ae80dce867ac25343dd80d490f740d4cc9167498600281d559-d_295x166"
   ],
   "vimeo": "229895763",
   "moreinfo": "http://schoolofdev.com/Tulsa/2017/Speakers/HaroldPulcher/default.aspx",
-  "thumbnail": "https://i.vimeocdn.com/video/650327330_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/650327330-1f3415b265a0c2ae80dce867ac25343dd80d490f740d4cc9167498600281d559-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/229895763.hd.mp4?s=87e4fc2859a7cd3eee0e3d12157b5398211c15b2&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/229895763.sd.mp4?s=32fdd914dd4cfedbda4b42ac107ebed0c2783354&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 222,

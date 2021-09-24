@@ -13,11 +13,11 @@
   "abstract": "<p>An overview of recently announced open-source projects (OAM, Rudr, Porter, and Dapr) for developing and deploying cloud-native applications. This session will walk you through on how to get started with each of these projects with a combination of presentation and live demos.</p>",
   "description": "<p>An overview of recently announced open-source projects (OAM, Rudr, Porter, and Dapr) for developing and deploying cloud-native applications. This session will walk you through on how to get started with each of these projects with a combination of presentation and live demos.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/845729821_295x166.jpg"
+    "https://i.vimeocdn.com/video/845729821-115e7967820749d34d5f8ff016efad7f67e1983a8db01ff57e4e71b27692a36d-d_295x166"
   ],
   "vimeo": "384090253",
   "moreinfo": "https://www.meetup.com/azureaustin/events/267114666/",
-  "thumbnail": "https://i.vimeocdn.com/video/845729821_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/845729821-115e7967820749d34d5f8ff016efad7f67e1983a8db01ff57e4e71b27692a36d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/384090253.hd.mp4?s=a77550b46e75ded679cfa2d2e513be9e427610c6&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/384090253.sd.mp4?s=ebc7038544f08432d07de600c53d50fb15b06431&profile_id=164&oauth2_token_id=20985841",
   "recordingID": 385,
@@ -55,7 +55,7 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 51
+      "count": 52
     }
   ]
 }

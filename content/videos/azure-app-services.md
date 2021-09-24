@@ -10,11 +10,11 @@
   "abstract": "<p>Join me to see how you can publish a .NET core API and push the dockerized API straight\r\nto Azure App service and run it! Dockerizing and publishing a .NET core API straight from Visual\r\nStudio 2017 to a Linux App service. The API will contain a swagger end point which you can run\r\nin Azure once published</p>",
   "description": "<p>Join me to see how you can publish a .NET core API and push the dockerized API straight\r\nto Azure App service and run it! Dockerizing and publishing a .NET core API straight from Visual\r\nStudio 2017 to a Linux App service. The API will contain a swagger end point which you can run\r\nin Azure once published</p>",
   "images": [
-    "https://i.vimeocdn.com/video/778966437_295x166.jpg"
+    "https://i.vimeocdn.com/video/778966437-0ba0591e95414247cd972bc1f835bf79f1ea822e2865887626db2a2decc6e4da-d_295x166"
   ],
   "vimeo": "333087685",
   "moreinfo": "https://www.meetup.com/azureaustin/events/258070696/",
-  "thumbnail": "https://i.vimeocdn.com/video/778966437_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/778966437-0ba0591e95414247cd972bc1f835bf79f1ea822e2865887626db2a2decc6e4da-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/333087685.hd.mp4?s=694b18df41e102612ec4921a5c81a48410bdb631&profile_id=175&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/333087685.sd.mp4?s=f6182ded475694b00e7bd6540181c7206ed9eb87&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 302,
@@ -37,7 +37,7 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 51
+      "count": 52
     },
     {
       "name": "Austin Global Azure Bootcamp",

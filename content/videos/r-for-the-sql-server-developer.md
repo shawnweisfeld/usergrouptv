@@ -10,11 +10,11 @@
   "abstract": "<p>R is the premiere language for data analysis.  If the world of data science sounds fun and exciting, now is the time to get into R.  We will walk through the core constructs of R, learn how to retrieve data from flat files and databases, and get a peek at the power behind R.  This session will also give resources on where to go in order to become more familiar with statistics, R the language, and the R package ecosystem.</p>",
   "description": "<p>R is the premiere language for data analysis.  If the world of data science sounds fun and exciting, now is the time to get into R.  We will walk through the core constructs of R, learn how to retrieve data from flat files and databases, and get a peek at the power behind R.  This session will also give resources on where to go in order to become more familiar with statistics, R the language, and the R package ecosystem.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/622684266_295x166.jpg"
+    "https://i.vimeocdn.com/video/622684266-a0ed39bc5b399892b10d4aa4ac1856a561824b55c591571266b96e7a941f40f5-d_295x166"
   ],
   "vimeo": "207570215",
   "moreinfo": "http://www.sqlsaturday.com/603/Sessions/Details.aspx?sid=57273",
-  "thumbnail": "https://i.vimeocdn.com/video/622684266_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/622684266-a0ed39bc5b399892b10d4aa4ac1856a561824b55c591571266b96e7a941f40f5-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/207570215.hd.mp4?s=678646d09d2d48fe44a9a910fc0764b112fdcd24&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/207570215.sd.mp4?s=6d3e0c01472fc364672c1161ee72a630f23c7c92&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 234,

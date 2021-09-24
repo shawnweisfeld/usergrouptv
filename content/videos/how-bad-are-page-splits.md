@@ -10,11 +10,11 @@
   "abstract": "<p>We've always been told that Bad Page Splits hurt performance, but there is little showing actual performance decrements. This session will review the difference between good and bad page splits and continue with an example highlighting the performance decrements encountered during a bad page split as well as the on-going effects of the bad page split on a SELECT query. Results for this example indicate a much larger performance hit than anticipated.</p>",
   "description": "<p>We've always been told that Bad Page Splits hurt performance, but there is little showing actual performance decrements. This session will review the difference between good and bad page splits and continue with an example highlighting the performance decrements encountered during a bad page split as well as the on-going effects of the bad page split on a SELECT query. Results for this example indicate a much larger performance hit than anticipated.</p>",
   "images": [
-    "https://i.vimeocdn.com/video/859011737_295x166.jpg"
+    "https://i.vimeocdn.com/video/859011737-30b00153e8f4cc943c3fbde7d1d90eb0bc1339668240bf4b2b3b936a88d0bf7d-d_295x166"
   ],
   "vimeo": "393490179",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/pttzvqybcdbxb/",
-  "thumbnail": "https://i.vimeocdn.com/video/859011737_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/859011737-30b00153e8f4cc943c3fbde7d1d90eb0bc1339668240bf4b2b3b936a88d0bf7d-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/393490179.hd.mp4?s=79e2276578e9b1dd596ab2a3e60367ef8a3f167e&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/393490179.sd.mp4?s=499eedf265ddf7a1f9f9c5c0690248d67f4d3351&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 337,

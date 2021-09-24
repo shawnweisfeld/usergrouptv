@@ -10,11 +10,11 @@
   "abstract": "<p>You've heard of the cloud. You've heard of Windows Azure. You have a general understanding of what it is but you still don't fully understand how or why you would want to use it. If this sounds like you, you owe it to yourself to attend this session and get a foundational understanding of what exactly Windows Azure is and how you can leverage it in powerful ways in your new and existing .NET applications. In this session, Casey starts by covering some basic, high-level cloud-related topics to give you a solid foundation in cloud development, then moves on to how Windows Azure implements these ideas and makes them easily consumable to .NET developers. Finally, you will have the opportunity to dive in with Casey and build applications from scratch that leverage several important Azure features such as Azure storage and service bus. Bring your questions about Windows Azure to this highly interactive session.\r\n</p>",
   "description": "<p>You've heard of the cloud. You've heard of Windows Azure. You have a general understanding of what it is but you still don't fully understand how or why you would want to use it. If this sounds like you, you owe it to yourself to attend this session and get a foundational understanding of what exactly Windows Azure is and how you can leverage it in powerful ways in your new and existing .NET applications. In this session, Casey starts by covering some basic, high-level cloud-related topics to give you a solid foundation in cloud development, then moves on to how Windows Azure implements these ideas and makes them easily consumable to .NET developers. Finally, you will have the opportunity to dive in with Casey and build applications from scratch that leverage several important Azure features such as Azure storage and service bus. Bring your questions about Windows Azure to this highly interactive session.\r\n</p>",
   "images": [
-    "https://i.vimeocdn.com/video/481936088_295x166.jpg"
+    "https://i.vimeocdn.com/video/481936088-2dfca9fa95060f982b0464b12cd756119b79d9a7244987b766250ad6b507601f-d_295x166"
   ],
   "vimeo": "100447085",
   "moreinfo": "http://2014.cowtowntechroundup.com/Profile/00455fc6-cd81-4d23-a8e8-5391e83ddc8d",
-  "thumbnail": "https://i.vimeocdn.com/video/481936088_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/481936088-2dfca9fa95060f982b0464b12cd756119b79d9a7244987b766250ad6b507601f-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/100447085.hd.mp4?s=595921216de691736469f661602180323f4b0c11&profile_id=119&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/100447085.sd.mp4?s=37719f3620884a7f4bed801f2bbf2e4bca63d088&profile_id=112&oauth2_token_id=20985841",
   "recordingID": 926,
@@ -30,7 +30,7 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 41
+      "count": 42
     }
   ],
   "meetups": [

@@ -10,11 +10,11 @@
   "abstract": "<p>Big Data & Analytics in Azure</p>",
   "description": "<p>Big Data & Analytics in Azure</p>",
   "images": [
-    "https://i.vimeocdn.com/video/566415745_295x166.jpg"
+    "https://i.vimeocdn.com/video/566415745-6d2cbb7f6052bc5f00663bd91986b1d008b1b65fe2bf0136219d34fc8f85c4c4-d_295x166"
   ],
   "vimeo": "163218217",
   "moreinfo": "http://www.meetup.com/DFW-Azure-User-Group/events/227460670/",
-  "thumbnail": "https://i.vimeocdn.com/video/566415745_295x166.jpg",
+  "thumbnail": "https://i.vimeocdn.com/video/566415745-6d2cbb7f6052bc5f00663bd91986b1d008b1b65fe2bf0136219d34fc8f85c4c4-d_295x166",
   "mp4Video": "http://player.vimeo.com/external/163218217.hd.mp4?s=bb65b58e1654ee2043c85d90986a4ad7a9bc7b3b&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/163218217.sd.mp4?s=e61b2084be91a1ad4da6710318559fe736dfc251&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 849,
@@ -30,14 +30,14 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 41
+      "count": 42
     }
   ],
   "meetups": [
     {
       "name": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "count": 15
+      "count": 16
     }
   ]
 }

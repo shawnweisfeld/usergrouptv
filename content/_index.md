@@ -1,7 +1,7 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-09-24T13:12:10.2793959Z",
+  "date": "2021-09-24T13:22:22.8114117Z",
   "draft": false,
   "recordingCount": "1,082",
   "speakerCount": "611",
@@ -10,7 +10,7 @@
     {
       "title": "PostgreSQL in Azure",
       "slug": "postgresql-in-azure",
-      "thumbnail": "https://i.vimeocdn.com/video/1252686279-7f16f776e1d507a6eb7039272b5dc407b4b26fc65decd0a21_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1252837860-b41171cfc1a91f4cfb91fc1689b2ae9d9035de57bcc8fc0c5_295x166",
       "date": "2021-09-21T00:00:00",
       "speakers": [
         {

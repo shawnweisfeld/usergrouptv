@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-09-24T13:12:11.0680402Z",
+  "date": "2021-09-24T13:22:23.5692354Z",
   "draft": false,
   "speakers": [
     {
@@ -2548,7 +2548,7 @@
     {
       "title": "Mark Moore",
       "slug": "mark-moore",
-      "thumbnail": "https://i.vimeocdn.com/video/1252686279-7f16f776e1d507a6eb7039272b5dc407b4b26fc65decd0a21_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1252837860-b41171cfc1a91f4cfb91fc1689b2ae9d9035de57bcc8fc0c5_295x166",
       "date": "2021-09-21T00:00:00",
       "count": 4
     },

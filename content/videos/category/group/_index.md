@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2021-09-24T13:12:11.9913737Z",
+  "date": "2021-09-24T13:22:24.946896Z",
   "draft": false,
   "meetups": [
     {
@@ -133,14 +133,14 @@
     {
       "title": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "thumbnail": "https://i.vimeocdn.com/video/1252686279-7f16f776e1d507a6eb7039272b5dc407b4b26fc65decd0a21_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1252837860-b41171cfc1a91f4cfb91fc1689b2ae9d9035de57bcc8fc0c5_295x166",
       "date": "2021-09-21T00:00:00",
       "count": 52
     },
     {
       "title": "Azure User Group - Houston",
       "slug": "azure-user-group-houston",
-      "thumbnail": "https://i.vimeocdn.com/video/1252686279-7f16f776e1d507a6eb7039272b5dc407b4b26fc65decd0a21_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1252837860-b41171cfc1a91f4cfb91fc1689b2ae9d9035de57bcc8fc0c5_295x166",
       "date": "2021-09-21T00:00:00",
       "count": 4
     },
@@ -266,7 +266,7 @@
     {
       "title": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1252686279-7f16f776e1d507a6eb7039272b5dc407b4b26fc65decd0a21_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1252837860-b41171cfc1a91f4cfb91fc1689b2ae9d9035de57bcc8fc0c5_295x166",
       "date": "2021-09-21T00:00:00",
       "count": 16
     },

@@ -11,11 +11,11 @@
   "abstract": "Interested in running Postgres, join this session to learn about the different Postgres offerings Microsoft has running in Azure as well as on-premises. In this session we will cover Postgres Single Server, Flex Server, Hyperscale running the Citus extension in Azure as well as running Postgres Hyperscale (Citus) on premises in your data center.",
   "description": "Interested in running Postgres, join this session to learn about the different Postgres offerings Microsoft has running in Azure as well as on-premises. In this session we will cover Postgres Single Server, Flex Server, Hyperscale running the Citus extension in Azure as well as running Postgres Hyperscale (Citus) on premises in your data center.",
   "images": [
-    "https://i.vimeocdn.com/video/1252686279-7f16f776e1d507a6eb7039272b5dc407b4b26fc65decd0a21_295x166"
+    "https://i.vimeocdn.com/video/1252837860-b41171cfc1a91f4cfb91fc1689b2ae9d9035de57bcc8fc0c5_295x166"
   ],
   "vimeo": "613575006",
   "moreinfo": "https://www.meetup.com/azureaustin/events/280542672/",
-  "thumbnail": "https://i.vimeocdn.com/video/1252686279-7f16f776e1d507a6eb7039272b5dc407b4b26fc65decd0a21_295x166",
+  "thumbnail": "https://i.vimeocdn.com/video/1252837860-b41171cfc1a91f4cfb91fc1689b2ae9d9035de57bcc8fc0c5_295x166",
   "mp4Video": "http://player.vimeo.com/external/613575006.hd.mp4?s=7d6f91f099b8140ed1d6acaed1e25ecab4668498&profile_id=174&oauth2_token_id=20985841",
   "mp4VideoLow": "http://player.vimeo.com/external/613575006.sd.mp4?s=53ca2fe31a01139f1738c544d216d6d9c6f97308&profile_id=165&oauth2_token_id=20985841",
   "recordingID": 1088,

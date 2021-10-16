@@ -27270,4 +27270,27 @@ In this session, you will learn what you can do with Cosmos DB, the benefits of 
       <slug>postgresql</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Understanding DAX</Title>
+    <Url>https://usergroup.tv/videos/understanding-dax/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1276255402-761a9df899170d2bcbfae52ce9f13c1f77a199b6dd8e78c2e_295x166</Thumbnail>
+    <Excerpt>Please join us as we welcome THE SQLSwimmer MVP Angela Henry to discuss Understanding DAX!</Excerpt>
+    <PostDate>2021-10-13T00:00:00</PostDate>
+    <Id>1089</Id>
+    <Mp4Video>http://player.vimeo.com/external/633881227.hd.mp4?s=d7915ddf04741c45451bd0f95b2e9f87f30a47fe&amp;profile_id=174&amp;oauth2_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/633881227.sd.mp4?s=a036dc4d486c8faed22d88199f273265ca13e8dd&amp;profile_id=164&amp;oauth2_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Angela Henry</name>
+      <slug>angela-henry</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>dax</name>
+      <slug>dax</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

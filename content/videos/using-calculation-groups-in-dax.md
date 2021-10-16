@@ -30,7 +30,7 @@
     {
       "name": "dax",
       "slug": "dax",
-      "count": 1
+      "count": 2
     }
   ],
   "meetups": [

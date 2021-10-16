@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-09-24T13:22:23.5692354Z",
+  "date": "2021-10-16T18:27:50.8886941Z",
   "draft": false,
   "speakers": [
     {
@@ -245,9 +245,9 @@
     {
       "title": "Angela Henry",
       "slug": "angela-henry",
-      "thumbnail": "https://i.vimeocdn.com/video/719492065-d56c83957471771e3c8525374152aed1f523f1f022b160d49b87c50a3793c6a5-d_295x166",
-      "date": "2018-08-11T15:57:59",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1276255402-761a9df899170d2bcbfae52ce9f13c1f77a199b6dd8e78c2e_295x166",
+      "date": "2021-10-13T00:00:00",
+      "count": 2
     },
     {
       "title": "Angela Tidwell",

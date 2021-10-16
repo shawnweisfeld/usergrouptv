@@ -5,9 +5,27 @@
     "Austin Power BI User Group"
   ],
   "slug": "austin-power-bi-user-group",
-  "date": "2021-09-08T00:00:00",
+  "date": "2021-10-13T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Understanding DAX",
+      "slug": "understanding-dax",
+      "thumbnail": "https://i.vimeocdn.com/video/1276255402-761a9df899170d2bcbfae52ce9f13c1f77a199b6dd8e78c2e_295x166",
+      "date": "2021-10-13T00:00:00",
+      "speakers": [
+        {
+          "name": "Angela Henry",
+          "slug": "angela-henry"
+        }
+      ],
+      "tags": [
+        {
+          "name": "dax",
+          "slug": "dax"
+        }
+      ]
+    },
     {
       "title": "Deneb",
       "slug": "deneb",

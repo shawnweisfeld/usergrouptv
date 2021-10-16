@@ -1,12 +1,36 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-09-24T13:22:22.8114117Z",
+  "date": "2021-10-16T18:27:49.8357207Z",
   "draft": false,
-  "recordingCount": "1,082",
+  "recordingCount": "1,083",
   "speakerCount": "611",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Understanding DAX",
+      "slug": "understanding-dax",
+      "thumbnail": "https://i.vimeocdn.com/video/1276255402-761a9df899170d2bcbfae52ce9f13c1f77a199b6dd8e78c2e_295x166",
+      "date": "2021-10-13T00:00:00",
+      "speakers": [
+        {
+          "name": "Angela Henry",
+          "slug": "angela-henry"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "dax",
+          "slug": "dax"
+        }
+      ]
+    },
     {
       "title": "PostgreSQL in Azure",
       "slug": "postgresql-in-azure",
@@ -496,30 +520,6 @@
         {
           "name": "SQL",
           "slug": "sql"
-        }
-      ]
-    },
-    {
-      "title": "How we use Power BI at Enterprise DNA",
-      "slug": "how-we-use-power-bi-at-enterprise-dna",
-      "thumbnail": "https://i.vimeocdn.com/video/1164372990-4630d4c63f8dc45e63ba30cfc2ffb209edb5da6180ae0aeed59d6fce474f9bfa-d_295x166",
-      "date": "2021-06-09T00:00:00",
-      "speakers": [
-        {
-          "name": "Sam McKay",
-          "slug": "sam-mckay"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Power BI",
-          "slug": "power-bi"
         }
       ]
     }

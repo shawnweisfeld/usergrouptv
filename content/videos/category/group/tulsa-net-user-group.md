@@ -5,9 +5,35 @@
     "Tulsa .NET User Group"
   ],
   "slug": "tulsa-net-user-group",
-  "date": "2021-08-24T00:00:00",
+  "date": "2021-10-14T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "An Infrastructure as Code Bake-off, comparing ARM, Terraform and Bicep",
+      "slug": "an-infrastructure-as-code-bakeoff-comparing-arm-terraform-and-bicep",
+      "thumbnail": "https://i.vimeocdn.com/video/1288579806-58ab4313dcc59dc69553c6f93128c5cd768a75c3a99346cef_295x166",
+      "date": "2021-10-14T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Benkovich",
+          "slug": "mike-benkovich"
+        }
+      ],
+      "tags": [
+        {
+          "name": "ARM",
+          "slug": "arm"
+        },
+        {
+          "name": "BiCep",
+          "slug": "bicep"
+        },
+        {
+          "name": "Infrastructure as Code",
+          "slug": "infrastructure-as-code"
+        }
+      ]
+    },
     {
       "title": "Dungeons, Dragons, and Graph Databases",
       "slug": "dungeons-dragons-and-graph-databases",

@@ -6,7 +6,34 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Oct 2021 18:27:51 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Oct 2021 12:43:26 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ARM</title>
+      <link>https://usergroup.tv/videos/tag/arm/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/arm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BiCep</title>
+      <link>https://usergroup.tv/videos/tag/bicep/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/bicep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infrastructure as Code</title>
+      <link>https://usergroup.tv/videos/tag/infrastructure-as-code/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/infrastructure-as-code/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>dax</title>
       <link>https://usergroup.tv/videos/tag/dax/</link>

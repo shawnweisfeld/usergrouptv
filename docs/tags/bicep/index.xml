@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BiCep on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/bicep/</link>
+    <description>Recent content in BiCep on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/bicep/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Infrastructure as Code Bake-off, comparing ARM, Terraform and Bicep</title>
+      <link>https://usergroup.tv/videos/an-infrastructure-as-code-bakeoff-comparing-arm-terraform-and-bicep/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/an-infrastructure-as-code-bakeoff-comparing-arm-terraform-and-bicep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BiCep</title>
+      <link>https://usergroup.tv/videos/tag/bicep/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/bicep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

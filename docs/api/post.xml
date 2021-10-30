@@ -27293,4 +27293,35 @@ In this session, you will learn what you can do with Cosmos DB, the benefits of 
       <slug>dax</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>An Infrastructure as Code Bake-off, comparing ARM, Terraform and Bicep</Title>
+    <Url>https://usergroup.tv/videos/an-infrastructure-as-code-bakeoff-comparing-arm-terraform-and-bicep/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1288579806-58ab4313dcc59dc69553c6f93128c5cd768a75c3a99346cef_295x166</Thumbnail>
+    <Excerpt>Infrastructure as Code comes in many flavors, and the Azure Cloud's default deployment templates work with Azure Resource Manager (ARM) to define and deploy infrastructure. Working with the JSON format of ARM can be challenging, but Microsoft has introduced a language processor called Bicep which generates ARM as output. At the same time there are other options, including scripting tools, Terraform, Pulumi, Ansible and others. In this session we'll compare creating infrastructure using ARM, Terraform and Bicep, and compare pros and cons to each.</Excerpt>
+    <PostDate>2021-10-14T00:00:00</PostDate>
+    <Id>1090</Id>
+    <Mp4Video>http://player.vimeo.com/external/640661996.hd.mp4?s=e13c2b955ef7d7bf5849b7c2da3f5eae2ea1e202&amp;profile_id=175&amp;oauth_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/640661996.sd.mp4?s=7626d5196f4bdf4b5d9c6465a2ef561c6bf03cda&amp;profile_id=164&amp;oauth_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Mike Benkovich</name>
+      <slug>mike-benkovich</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>ARM</name>
+      <slug>arm</slug>
+    </Tags>
+    <Tags>
+      <name>BiCep</name>
+      <slug>bicep</slug>
+    </Tags>
+    <Tags>
+      <name>Infrastructure as Code</name>
+      <slug>infrastructure-as-code</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

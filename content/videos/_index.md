@@ -1,12 +1,44 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-10-16T18:27:49.8357207Z",
+  "date": "2021-10-30T12:43:24.5554123Z",
   "draft": false,
-  "recordingCount": "1,083",
+  "recordingCount": "1,084",
   "speakerCount": "611",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "An Infrastructure as Code Bake-off, comparing ARM, Terraform and Bicep",
+      "slug": "an-infrastructure-as-code-bakeoff-comparing-arm-terraform-and-bicep",
+      "thumbnail": "https://i.vimeocdn.com/video/1288579806-58ab4313dcc59dc69553c6f93128c5cd768a75c3a99346cef_295x166",
+      "date": "2021-10-14T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Benkovich",
+          "slug": "mike-benkovich"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "ARM",
+          "slug": "arm"
+        },
+        {
+          "name": "BiCep",
+          "slug": "bicep"
+        },
+        {
+          "name": "Infrastructure as Code",
+          "slug": "infrastructure-as-code"
+        }
+      ]
+    },
     {
       "title": "Understanding DAX",
       "slug": "understanding-dax",
@@ -496,30 +528,6 @@
         {
           "name": "Azure Virtual Desktop",
           "slug": "azure-virtual-desktop"
-        }
-      ]
-    },
-    {
-      "title": "The CASE statement",
-      "slug": "the-case-statement",
-      "thumbnail": "https://i.vimeocdn.com/video/1168688602-f0ca057b08c550227c40304be0d538166d0555dc1b7fb17dc55b4d6d8f627e70-d_295x166",
-      "date": "2021-06-16T00:00:00",
-      "speakers": [
-        {
-          "name": "Mike Burek",
-          "slug": "mike-burek"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Capitol Area Central Texas Users of SQL Server",
-          "slug": "capitol-area-central-texas-users-of-sql-server"
-        }
-      ],
-      "tags": [
-        {
-          "name": "SQL",
-          "slug": "sql"
         }
       ]
     }

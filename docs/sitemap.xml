@@ -3,19 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2021-10-16T18:27:52+00:00</lastmod>
+    <lastmod>2021-10-30T12:43:26+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2021-10-16T18:27:51+00:00</lastmod>
+    <lastmod>2021-10-30T12:43:26+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2021-10-16T18:27:50+00:00</lastmod>
+    <lastmod>2021-10-30T12:43:25+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2021-10-16T18:27:49+00:00</lastmod>
+    <lastmod>2021-10-30T12:43:24+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2021-10-16T18:27:49+00:00</lastmod>
+    <lastmod>2021-10-30T12:43:24+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/an-infrastructure-as-code-bakeoff-comparing-arm-terraform-and-bicep/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/arm/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/arm/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/bicep/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/bicep/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/infrastructure-as-code/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/infrastructure-as-code/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/mike-benkovich/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/mike-benkovich/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/angela-henry/</loc>
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
@@ -33,9 +69,6 @@
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/dax/</loc>
-    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/</loc>
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/understanding-dax/</loc>
@@ -138,12 +171,6 @@
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/redis/</loc>
-    <lastmod>2021-08-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
-    <lastmod>2021-08-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/azure-service-bus/</loc>
@@ -474,12 +501,6 @@
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/mark-ghanayem/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/mike-benkovich/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/mike-benkovich/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/william-assaf/</loc>

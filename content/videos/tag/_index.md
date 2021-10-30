@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2021-10-16T18:27:51.5207705Z",
+  "date": "2021-10-30T12:43:26.0966593Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -143,6 +143,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/699208046-bb4de5b3c612531f78a24d54c4e6427dabf7ef44b7e941c0d20262c19ff4e4a4-d_295x166",
       "date": "2018-05-05T15:33:09",
       "count": 2
+    },
+    {
+      "title": "ARM",
+      "slug": "arm",
+      "thumbnail": "https://i.vimeocdn.com/video/1288579806-58ab4313dcc59dc69553c6f93128c5cd768a75c3a99346cef_295x166",
+      "date": "2021-10-14T00:00:00",
+      "count": 1
     },
     {
       "title": "ASP.NET",
@@ -408,6 +415,13 @@
       "slug": "behaviors",
       "thumbnail": "https://i.vimeocdn.com/video/500557846-fa4be21069e842aa1b7983a0b854a426e30046a7176fd0ac7effdc31c4a07c06-d_295x166",
       "date": "2011-04-05T22:09:13",
+      "count": 1
+    },
+    {
+      "title": "BiCep",
+      "slug": "bicep",
+      "thumbnail": "https://i.vimeocdn.com/video/1288579806-58ab4313dcc59dc69553c6f93128c5cd768a75c3a99346cef_295x166",
+      "date": "2021-10-14T00:00:00",
       "count": 1
     },
     {
@@ -1311,6 +1325,13 @@
       "slug": "infopath",
       "thumbnail": "https://i.vimeocdn.com/video/593963324-e04c1b8f8619fb632ce5d11dacae0fea16f6cd4ed5c64e3b2223f909ad129fb3-d_295x166",
       "date": "2016-09-24T19:53:26",
+      "count": 1
+    },
+    {
+      "title": "Infrastructure as Code",
+      "slug": "infrastructure-as-code",
+      "thumbnail": "https://i.vimeocdn.com/video/1288579806-58ab4313dcc59dc69553c6f93128c5cd768a75c3a99346cef_295x166",
+      "date": "2021-10-14T00:00:00",
       "count": 1
     },
     {

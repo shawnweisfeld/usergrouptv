@@ -23,8 +23,8 @@
     {
       "name": "Mike Benkovich",
       "slug": "mike-benkovich",
-      "bio": "A developer, business owner, consultant, cloud architect, Microsoft Azure MVP and an online instructor, Mike Benkovich is an alumni of Microsoft from 2004 to 2012 where he helped build developer communities across the US, thru work on Microsoft Across America, MSDN Events, MSDN Webcasts, DPE and Channel 9. He's helped to create and grow developer conferences and user groups in various cities across the US. He's a LinkedIn Learning Instructor for Azure, have developed many online courses. Mike actively works in Azure Cloud Governance, Application Architecture and Software Delivery consulting.",
-      "count": 1
+      "bio": "A software architect, Azure expert, and former Microsoft evangelist, Mike Benkovich dedicates huge amounts of his time to helping his fellow developers and burgeoning programmers learn about new technologies and platforms. Mike’s website equips developers with tips and resources to help them get to grips with technologies including cloud, data and devices, and he produces online courses covering areas like Azure enterprise development and serverless computing. Mike is also a chronic sharer of puns, so head over to his Twitter feed if you’re after a laugh (or a groan).",
+      "count": 2
     }
   ],
   "ugtvtags": [
@@ -43,7 +43,7 @@
     {
       "name": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "count": 27
+      "count": 28
     }
   ]
 }

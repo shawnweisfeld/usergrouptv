@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-10-16T18:27:50.8886941Z",
+  "date": "2021-10-30T12:43:25.3342551Z",
   "draft": false,
   "speakers": [
     {
@@ -2856,9 +2856,9 @@
     {
       "title": "Mike Benkovich",
       "slug": "mike-benkovich",
-      "thumbnail": "https://i.vimeocdn.com/video/1136615596-c3a82d4580ef1aebf8763c8ff4eb603e622aa5e96d09045bdbcd3a18afd3422f-d_295x166",
-      "date": "2021-04-20T00:00:00",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1288579806-58ab4313dcc59dc69553c6f93128c5cd768a75c3a99346cef_295x166",
+      "date": "2021-10-14T00:00:00",
+      "count": 2
     },
     {
       "title": "Mike Bishop",

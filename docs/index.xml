@@ -6,7 +6,43 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Oct 2021 12:43:24 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Nov 2021 13:40:37 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Austin Power BI User Group</title>
+      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dax</title>
+      <link>https://usergroup.tv/videos/tag/dax/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/dax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Your DAX Skills with DAX.DO</title>
+      <link>https://usergroup.tv/videos/improving-your-dax-skills-with-daxdo/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/improving-your-dax-skills-with-daxdo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Arnold</title>
+      <link>https://usergroup.tv/videos/category/speaker/kevin-arnold/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/kevin-arnold/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>An Infrastructure as Code Bake-off, comparing ARM, Terraform and Bicep</title>
       <link>https://usergroup.tv/videos/an-infrastructure-as-code-bakeoff-comparing-arm-terraform-and-bicep/</link>
@@ -67,24 +103,6 @@
       <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/angela-henry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Austin Power BI User Group</title>
-      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
-      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dax</title>
-      <link>https://usergroup.tv/videos/tag/dax/</link>
-      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/dax/</guid>
       <description></description>
     </item>
     

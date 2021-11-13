@@ -3,19 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2021-10-30T12:43:26+00:00</lastmod>
+    <lastmod>2021-11-13T13:40:40+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2021-10-30T12:43:26+00:00</lastmod>
+    <lastmod>2021-11-13T13:40:39+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2021-10-30T12:43:25+00:00</lastmod>
+    <lastmod>2021-11-13T13:40:38+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2021-10-30T12:43:24+00:00</lastmod>
+    <lastmod>2021-11-13T13:40:37+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2021-10-30T12:43:24+00:00</lastmod>
+    <lastmod>2021-11-13T13:40:37+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/dax/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/dax/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/improving-your-dax-skills-with-daxdo/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/kevin-arnold/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/kevin-arnold/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/an-infrastructure-as-code-bakeoff-comparing-arm-terraform-and-bicep/</loc>
     <lastmod>2021-10-14T00:00:00+00:00</lastmod>
@@ -44,9 +68,6 @@
     <loc>https://usergroup.tv/videos/category/speaker/mike-benkovich/</loc>
     <lastmod>2021-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/</loc>
-    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
     <lastmod>2021-10-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -57,18 +78,6 @@
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/angela-henry/</loc>
-    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
-    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
-    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/dax/</loc>
-    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/dax/</loc>
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/understanding-dax/</loc>

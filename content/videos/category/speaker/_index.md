@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-10-30T12:43:25.3342551Z",
+  "date": "2021-11-13T13:40:38.4335586Z",
   "draft": false,
   "speakers": [
     {
@@ -2242,6 +2242,13 @@
       "slug": "kesten-broughton",
       "thumbnail": "https://i.vimeocdn.com/video/725423772-b8efb6aec2358415dbc2a7ca77d97404bddd605a168d7d03d5f75086e758adfc-d_295x166",
       "date": "2018-09-12T21:19:52",
+      "count": 1
+    },
+    {
+      "title": "Kevin Arnold",
+      "slug": "kevin-arnold",
+      "thumbnail": "https://i.vimeocdn.com/video/1298663082-c7394730532acf3965f4f36447b511b9bb18afa39e9a34512_295x166",
+      "date": "2021-11-10T00:00:00",
       "count": 1
     },
     {

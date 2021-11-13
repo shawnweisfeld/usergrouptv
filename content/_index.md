@@ -1,12 +1,36 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-10-30T12:43:24.5554123Z",
+  "date": "2021-11-13T13:40:37.0168132Z",
   "draft": false,
-  "recordingCount": "1,084",
-  "speakerCount": "611",
+  "recordingCount": "1,085",
+  "speakerCount": "612",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Improving Your DAX Skills with DAX.DO",
+      "slug": "improving-your-dax-skills-with-daxdo",
+      "thumbnail": "https://i.vimeocdn.com/video/1298663082-c7394730532acf3965f4f36447b511b9bb18afa39e9a34512_295x166",
+      "date": "2021-11-10T00:00:00",
+      "speakers": [
+        {
+          "name": "Kevin Arnold",
+          "slug": "kevin-arnold"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "dax",
+          "slug": "dax"
+        }
+      ]
+    },
     {
       "title": "An Infrastructure as Code Bake-off, comparing ARM, Terraform and Bicep",
       "slug": "an-infrastructure-as-code-bakeoff-comparing-arm-terraform-and-bicep",
@@ -500,34 +524,6 @@
         {
           "name": "Entity Framework",
           "slug": "entity-framework"
-        }
-      ]
-    },
-    {
-      "title": "Azure Virtual Desktop",
-      "slug": "azure-virtual-desktop-by-adam-whitlatch",
-      "thumbnail": "https://i.vimeocdn.com/video/1168688870-2256f3b1689a365f7bc8971f760c0c88e5eb7b4b50af1f9e6b251e4eedaf5bae-d_295x166",
-      "date": "2021-06-16T00:00:00",
-      "speakers": [
-        {
-          "name": "Adam Whitlatch",
-          "slug": "adam-whitlatch"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        },
-        {
-          "name": "DFW Azure User Group",
-          "slug": "dfw-azure-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Azure Virtual Desktop",
-          "slug": "azure-virtual-desktop"
         }
       ]
     }

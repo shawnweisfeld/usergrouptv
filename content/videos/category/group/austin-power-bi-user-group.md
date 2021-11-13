@@ -5,9 +5,27 @@
     "Austin Power BI User Group"
   ],
   "slug": "austin-power-bi-user-group",
-  "date": "2021-10-13T00:00:00",
+  "date": "2021-11-10T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Improving Your DAX Skills with DAX.DO",
+      "slug": "improving-your-dax-skills-with-daxdo",
+      "thumbnail": "https://i.vimeocdn.com/video/1298663082-c7394730532acf3965f4f36447b511b9bb18afa39e9a34512_295x166",
+      "date": "2021-11-10T00:00:00",
+      "speakers": [
+        {
+          "name": "Kevin Arnold",
+          "slug": "kevin-arnold"
+        }
+      ],
+      "tags": [
+        {
+          "name": "dax",
+          "slug": "dax"
+        }
+      ]
+    },
     {
       "title": "Understanding DAX",
       "slug": "understanding-dax",

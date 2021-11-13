@@ -27324,4 +27324,27 @@ In this session, you will learn what you can do with Cosmos DB, the benefits of 
       <slug>infrastructure-as-code</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Improving Your DAX Skills with DAX.DO</Title>
+    <Url>https://usergroup.tv/videos/improving-your-dax-skills-with-daxdo/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1298663082-c7394730532acf3965f4f36447b511b9bb18afa39e9a34512_295x166</Thumbnail>
+    <Excerpt>Discussion of DAX.DO developed by SQLBI to improve your DAX Knowledge.</Excerpt>
+    <PostDate>2021-11-10T00:00:00</PostDate>
+    <Id>1091</Id>
+    <Mp4Video>http://player.vimeo.com/external/645397452.hd.mp4?s=dcb966e49cf81c3cb94e5848949c5672db9fda39&amp;profile_id=175&amp;oauth_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/645397452.sd.mp4?s=b27924cecfdd8667eb2cb5618da8dbdc548b0c5e&amp;profile_id=165&amp;oauth_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Kevin Arnold</name>
+      <slug>kevin-arnold</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>dax</name>
+      <slug>dax</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

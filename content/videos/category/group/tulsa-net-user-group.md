@@ -5,9 +5,27 @@
     "Tulsa .NET User Group"
   ],
   "slug": "tulsa-net-user-group",
-  "date": "2021-10-14T00:00:00",
+  "date": "2021-11-11T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "C# 10: Immutability and Generic Attributes",
+      "slug": "c-10-immutability-and-generic-attributes",
+      "thumbnail": "https://i.vimeocdn.com/video/1313081441-d6666b9e8bbd94643e1b0479eaf896b65ca481879537aa323_295x166",
+      "date": "2021-11-11T00:00:00",
+      "speakers": [
+        {
+          "name": "Tim Rayburn",
+          "slug": "tim-rayburn"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        }
+      ]
+    },
     {
       "title": "An Infrastructure as Code Bake-off, comparing ARM, Terraform and Bicep",
       "slug": "an-infrastructure-as-code-bakeoff-comparing-arm-terraform-and-bicep",

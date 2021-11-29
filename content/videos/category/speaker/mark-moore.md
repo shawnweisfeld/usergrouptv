@@ -5,10 +5,32 @@
   ],
   "type": "speaker",
   "slug": "mark-moore",
-  "date": "2021-09-21T00:00:00",
+  "date": "2021-11-16T00:00:00",
   "draft": false,
   "bio": "<p>Mark Moore is a Cloud Solutions Architect at Microsoft in North Texas. Mark has been with Microsoft for 25 years serving in various roles in Services and Sales. Prior to Microsoft Mark worked at Digital Equipment Corporation serving Federal and Government customers in San Antonio, Texas. Mark currently resides in the DFW area.</p>",
   "recordings": [
+    {
+      "title": "Azure Kubernetes Cluster (AKS)",
+      "slug": "azure-kubernetes-cluster-aks",
+      "thumbnail": "https://i.vimeocdn.com/video/1312906191-83ede5792114f057e6e2eceb13e30389367e8f44c5e17ce67_295x166",
+      "date": "2021-11-16T00:00:00",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ],
+      "tags": [
+        {
+          "name": "K8S",
+          "slug": "k8s"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
+      ]
+    },
     {
       "title": "PostgreSQL in Azure",
       "slug": "postgresql-in-azure",

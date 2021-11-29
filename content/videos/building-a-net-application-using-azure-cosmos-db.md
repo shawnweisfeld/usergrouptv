@@ -32,7 +32,7 @@
     {
       "name": ".net",
       "slug": "net",
-      "count": 16
+      "count": 17
     },
     {
       "name": "Cosmos DB",
@@ -42,14 +42,14 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 42
+      "count": 43
     }
   ],
   "meetups": [
     {
       "name": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "count": 28
+      "count": 29
     }
   ]
 }

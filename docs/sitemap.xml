@@ -3,19 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2021-11-13T13:40:40+00:00</lastmod>
+    <lastmod>2021-11-29T00:13:44+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2021-11-13T13:40:39+00:00</lastmod>
+    <lastmod>2021-11-29T00:13:44+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2021-11-13T13:40:38+00:00</lastmod>
+    <lastmod>2021-11-29T00:13:43+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2021-11-13T13:40:37+00:00</lastmod>
+    <lastmod>2021-11-29T00:13:42+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2021-11-13T13:40:37+00:00</lastmod>
+    <lastmod>2021-11-29T00:13:42+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/azure/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/azure/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/azure-austin-meetup/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/azure-kubernetes-cluster-aks/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/k8s/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/k8s/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/mark-moore/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/mark-moore/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/.net/</loc>
+    <lastmod>2021-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/net/</loc>
+    <lastmod>2021-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/c-10-immutability-and-generic-attributes/</loc>
+    <lastmod>2021-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/tim-rayburn/</loc>
+    <lastmod>2021-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/tim-rayburn/</loc>
+    <lastmod>2021-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
+    <lastmod>2021-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
+    <lastmod>2021-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
@@ -36,9 +87,6 @@
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/kevin-arnold/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/an-infrastructure-as-code-bakeoff-comparing-arm-terraform-and-bicep/</loc>
@@ -68,12 +116,6 @@
     <loc>https://usergroup.tv/videos/category/speaker/mike-benkovich/</loc>
     <lastmod>2021-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
-    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
-    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/angela-henry/</loc>
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -82,18 +124,6 @@
   </url><url>
     <loc>https://usergroup.tv/videos/understanding-dax/</loc>
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/azure/</loc>
-    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/azure/</loc>
-    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
-    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/azure-austin-meetup/</loc>
-    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/azure-user-group-houston/</loc>
     <lastmod>2021-09-21T00:00:00+00:00</lastmod>
@@ -105,12 +135,6 @@
     <lastmod>2021-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</loc>
-    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/mark-moore/</loc>
-    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/mark-moore/</loc>
     <lastmod>2021-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/postgresql/</loc>
@@ -548,12 +572,6 @@
     <loc>https://usergroup.tv/videos/category/speaker/jamie-phillips/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/k8s/</loc>
-    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/k8s/</loc>
-    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/kubernetes/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -565,12 +583,6 @@
   </url><url>
     <loc>https://usergroup.tv/videos/the-hitchhikers-guide-to-the-cosmos/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/.net/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/net/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/.net-core/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
@@ -7191,12 +7203,6 @@
     <lastmod>2014-08-22T17:40:06+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/no-capes-superman-is-evil/</loc>
-    <lastmod>2014-08-22T17:39:13+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/tim-rayburn/</loc>
-    <lastmod>2014-08-22T17:39:13+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/tim-rayburn/</loc>
     <lastmod>2014-08-22T17:39:13+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/glynn-brewer/</loc>

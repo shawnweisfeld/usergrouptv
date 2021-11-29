@@ -5,10 +5,28 @@
   ],
   "type": "speaker",
   "slug": "tim-rayburn",
-  "date": "2014-08-22T17:39:13",
+  "date": "2021-11-11T00:00:00",
   "draft": false,
-  "bio": "<p>Tim is a Principal Consultant with Improving Enterprises. Since 2007, he has been annually awarded the Microsoft MVP for Connected Systems Development in recognition of his expertise and community leadership. He is the organizer of Dallas TechFest, where through the work of an amazing staff, they bring an incredible multi-technology conference to life every year in Dallas. He is the co-author of Entity Framework 4.1: Expert’s Cookbook with Devlin Liles can be found speaking across the nation of Agile process, distributed architecture, and data access technologies. He lives in Arlington, Texas with his amazing wife, Kate, and their loyal dog, Gandalf.\r\n</p>",
+  "bio": "Tim Rayburn is a Vice President of Consulting with Improving, and a passionate advocate for developer learning, mentorship, sponsorship and apprenticeship. A multi-year Microsoft MVP, author, conference speaker and conference organizer. Tim lives in Dallas with his beautiful wife Kate.",
   "recordings": [
+    {
+      "title": "C# 10: Immutability and Generic Attributes",
+      "slug": "c-10-immutability-and-generic-attributes",
+      "thumbnail": "https://i.vimeocdn.com/video/1313081441-d6666b9e8bbd94643e1b0479eaf896b65ca481879537aa323_295x166",
+      "date": "2021-11-11T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        }
+      ]
+    },
     {
       "title": "NO CAPES - SUPERMAN IS EVIL",
       "slug": "no-capes-superman-is-evil",

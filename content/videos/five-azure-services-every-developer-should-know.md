@@ -48,14 +48,14 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 42
+      "count": 43
     }
   ],
   "meetups": [
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 52
+      "count": 53
     },
     {
       "name": "DFW Azure User Group",

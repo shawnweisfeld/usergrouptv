@@ -30,14 +30,14 @@
     {
       "name": "K8S",
       "slug": "k8s",
-      "count": 6
+      "count": 7
     }
   ],
   "meetups": [
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 52
+      "count": 53
     },
     {
       "name": "Austin Global Azure Bootcamp",

@@ -1,12 +1,64 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-11-13T13:40:37.0168132Z",
+  "date": "2021-11-29T00:13:42.8634032Z",
   "draft": false,
-  "recordingCount": "1,085",
+  "recordingCount": "1,087",
   "speakerCount": "612",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Azure Kubernetes Cluster (AKS)",
+      "slug": "azure-kubernetes-cluster-aks",
+      "thumbnail": "https://i.vimeocdn.com/video/1312906191-83ede5792114f057e6e2eceb13e30389367e8f44c5e17ce67_295x166",
+      "date": "2021-11-16T00:00:00",
+      "speakers": [
+        {
+          "name": "Mark Moore",
+          "slug": "mark-moore"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ],
+      "tags": [
+        {
+          "name": "K8S",
+          "slug": "k8s"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
+      ]
+    },
+    {
+      "title": "C# 10: Immutability and Generic Attributes",
+      "slug": "c-10-immutability-and-generic-attributes",
+      "thumbnail": "https://i.vimeocdn.com/video/1313081441-d6666b9e8bbd94643e1b0479eaf896b65ca481879537aa323_295x166",
+      "date": "2021-11-11T00:00:00",
+      "speakers": [
+        {
+          "name": "Tim Rayburn",
+          "slug": "tim-rayburn"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        }
+      ]
+    },
     {
       "title": "Improving Your DAX Skills with DAX.DO",
       "slug": "improving-your-dax-skills-with-daxdo",
@@ -476,54 +528,6 @@
         {
           "name": "Power BI",
           "slug": "power-bi"
-        }
-      ]
-    },
-    {
-      "title": "Real-Time Revolution: SignalR In Action",
-      "slug": "realtime-revolution-signalr-in-action",
-      "thumbnail": "https://i.vimeocdn.com/video/1195698289-0e890e779d4bc163b34b8efe6be9b7a30e421e2bce1a777f2f4b394a346a78e7-d_295x166",
-      "date": "2021-07-08T00:00:00",
-      "speakers": [
-        {
-          "name": "Kevin Griffin",
-          "slug": "kevin-griffin"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "SignalR",
-          "slug": "signalr"
-        }
-      ]
-    },
-    {
-      "title": "Entity Framework Performance Monitoring and Tuning",
-      "slug": "entity-framework-performance-monitoring-and-tuning",
-      "thumbnail": "https://i.vimeocdn.com/video/1175041310-73a82bc8959cfbb17fed600f052802532fe51afae84eec46729874ae673eb4c1-d_295x166",
-      "date": "2021-06-22T00:00:00",
-      "speakers": [
-        {
-          "name": "Jim Wooley",
-          "slug": "jim-wooley"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Entity Framework",
-          "slug": "entity-framework"
         }
       ]
     }

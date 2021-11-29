@@ -6,13 +6,22 @@
     <description>Recent content in Azure on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/azure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/azure/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure</title>
       <link>https://usergroup.tv/videos/tag/azure/</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Kubernetes Cluster (AKS)</title>
+      <link>https://usergroup.tv/videos/azure-kubernetes-cluster-aks/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/azure-kubernetes-cluster-aks/</guid>
       <description></description>
     </item>
     

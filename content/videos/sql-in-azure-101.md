@@ -23,7 +23,7 @@
       "name": "Mark Moore",
       "slug": "mark-moore",
       "bio": "<p>Mark Moore is a Cloud Solutions Architect at Microsoft in North Texas. Mark has been with Microsoft for 25 years serving in various roles in Services and Sales. Prior to Microsoft Mark worked at Digital Equipment Corporation serving Federal and Government customers in San Antonio, Texas. Mark currently resides in the DFW area.</p>",
-      "count": 4
+      "count": 5
     }
   ],
   "ugtvtags": [

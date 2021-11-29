@@ -6,7 +6,70 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure</title>
+      <link>https://usergroup.tv/tags/azure/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Austin Meetup</title>
+      <link>https://usergroup.tv/tags/azure-austin-meetup/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/azure-austin-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K8S</title>
+      <link>https://usergroup.tv/tags/k8s/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/k8s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Moore</title>
+      <link>https://usergroup.tv/tags/mark-moore/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/mark-moore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>.net</title>
+      <link>https://usergroup.tv/tags/.net/</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/.net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tim Rayburn</title>
+      <link>https://usergroup.tv/tags/tim-rayburn/</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/tim-rayburn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/tags/tulsa-.net-user-group/</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/tulsa-.net-user-group/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Austin Power BI User Group</title>
       <link>https://usergroup.tv/tags/austin-power-bi-user-group/</link>
@@ -71,38 +134,11 @@
     </item>
     
     <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/tags/tulsa-.net-user-group/</link>
-      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/tulsa-.net-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Angela Henry</title>
       <link>https://usergroup.tv/tags/angela-henry/</link>
       <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/angela-henry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure</title>
-      <link>https://usergroup.tv/tags/azure/</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/azure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure Austin Meetup</title>
-      <link>https://usergroup.tv/tags/azure-austin-meetup/</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/azure-austin-meetup/</guid>
       <description></description>
     </item>
     
@@ -121,15 +157,6 @@
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/dfw-azure-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mark Moore</title>
-      <link>https://usergroup.tv/tags/mark-moore/</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/mark-moore/</guid>
       <description></description>
     </item>
     
@@ -674,29 +701,11 @@
     </item>
     
     <item>
-      <title>K8S</title>
-      <link>https://usergroup.tv/tags/k8s/</link>
-      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/k8s/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kubernetes</title>
       <link>https://usergroup.tv/tags/kubernetes/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/kubernetes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>.net</title>
-      <link>https://usergroup.tv/tags/.net/</link>
-      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/.net/</guid>
       <description></description>
     </item>
     
@@ -7429,15 +7438,6 @@
       <pubDate>Fri, 22 Aug 2014 17:40:06 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/don-mcgreal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tim Rayburn</title>
-      <link>https://usergroup.tv/tags/tim-rayburn/</link>
-      <pubDate>Fri, 22 Aug 2014 17:39:13 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/tim-rayburn/</guid>
       <description></description>
     </item>
     

@@ -30,7 +30,7 @@
     {
       "name": "K8S",
       "slug": "k8s",
-      "count": 6
+      "count": 7
     }
   ],
   "meetups": [

@@ -43,7 +43,7 @@
     {
       "name": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "count": 28
+      "count": 29
     }
   ]
 }

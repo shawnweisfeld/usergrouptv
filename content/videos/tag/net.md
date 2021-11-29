@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "net",
-  "date": "2021-03-11T00:00:00",
+  "date": "2021-11-11T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "C# 10: Immutability and Generic Attributes",
+      "slug": "c-10-immutability-and-generic-attributes",
+      "thumbnail": "https://i.vimeocdn.com/video/1313081441-d6666b9e8bbd94643e1b0479eaf896b65ca481879537aa323_295x166",
+      "date": "2021-11-11T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Tim Rayburn",
+          "slug": "tim-rayburn"
+        }
+      ]
+    },
     {
       "title": "Exploring an Immutable Architecture",
       "slug": "exploring-an-immutable-architecture",

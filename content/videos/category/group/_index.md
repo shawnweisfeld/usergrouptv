@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2021-11-13T13:40:40.2875564Z",
+  "date": "2021-11-29T00:13:44.8352796Z",
   "draft": false,
   "meetups": [
     {
@@ -133,9 +133,9 @@
     {
       "title": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "thumbnail": "https://i.vimeocdn.com/video/1252837860-b41171cfc1a91f4cfb91fc1689b2ae9d9035de57bcc8fc0c5_295x166",
-      "date": "2021-09-21T00:00:00",
-      "count": 52
+      "thumbnail": "https://i.vimeocdn.com/video/1312906191-83ede5792114f057e6e2eceb13e30389367e8f44c5e17ce67_295x166",
+      "date": "2021-11-16T00:00:00",
+      "count": 53
     },
     {
       "title": "Azure User Group - Houston",
@@ -441,9 +441,9 @@
     {
       "title": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1288579806-58ab4313dcc59dc69553c6f93128c5cd768a75c3a99346cef_295x166",
-      "date": "2021-10-14T00:00:00",
-      "count": 28
+      "thumbnail": "https://i.vimeocdn.com/video/1313081441-d6666b9e8bbd94643e1b0479eaf896b65ca481879537aa323_295x166",
+      "date": "2021-11-11T00:00:00",
+      "count": 29
     },
     {
       "title": "Tulsa School of Dev",

@@ -38,7 +38,7 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 42
+      "count": 43
     },
     {
       "name": "MS SQL",
@@ -55,7 +55,7 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 52
+      "count": 53
     },
     {
       "name": "Capitol Area Central Texas Users of SQL Server",

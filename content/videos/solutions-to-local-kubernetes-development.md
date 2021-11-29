@@ -32,7 +32,7 @@
     {
       "name": "K8S",
       "slug": "k8s",
-      "count": 6
+      "count": 7
     },
     {
       "name": "Docker",
@@ -49,7 +49,7 @@
     {
       "name": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "count": 28
+      "count": 29
     }
   ]
 }

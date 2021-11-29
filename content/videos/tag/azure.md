@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "azure",
-  "date": "2021-09-21T00:00:00",
+  "date": "2021-11-16T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Azure Kubernetes Cluster (AKS)",
+      "slug": "azure-kubernetes-cluster-aks",
+      "thumbnail": "https://i.vimeocdn.com/video/1312906191-83ede5792114f057e6e2eceb13e30389367e8f44c5e17ce67_295x166",
+      "date": "2021-11-16T00:00:00",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Mark Moore",
+          "slug": "mark-moore"
+        }
+      ]
+    },
     {
       "title": "PostgreSQL in Azure",
       "slug": "postgresql-in-azure",

@@ -27347,4 +27347,55 @@ In this session, you will learn what you can do with Cosmos DB, the benefits of 
       <slug>dax</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>C# 10: Immutability and Generic Attributes</Title>
+    <Url>https://usergroup.tv/videos/c-10-immutability-and-generic-attributes/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1313081441-d6666b9e8bbd94643e1b0479eaf896b65ca481879537aa323_295x166</Thumbnail>
+    <Excerpt>We have a brand new version of C#, and it is awesome. We see continued deeper support for Immutability in C#, and a feature I’ve desperately wanted for years, Generic Attributes! Come join me as we explore these new features with hands on code examples.</Excerpt>
+    <PostDate>2021-11-11T00:00:00</PostDate>
+    <Id>1092</Id>
+    <Mp4Video>http://player.vimeo.com/external/650872955.hd.mp4?s=f2081d79c795c66883032298db09665989ffb831&amp;profile_id=175&amp;oauth_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/650872955.sd.mp4?s=478719f5a63861f2750450203d5f5391a19ef5b4&amp;profile_id=165&amp;oauth_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Tim Rayburn</name>
+      <slug>tim-rayburn</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>.net</name>
+      <slug>net</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Azure Kubernetes Cluster (AKS)</Title>
+    <Url>https://usergroup.tv/videos/azure-kubernetes-cluster-aks/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1312906191-83ede5792114f057e6e2eceb13e30389367e8f44c5e17ce67_295x166</Thumbnail>
+    <Excerpt>Have you been hearing a lot about Kubernetes want to learn more? Join us this month to get an quick overview of Kubernetes, what it is, why is it so popular and we will walk through spinning up a Kubernetes cluster in Azure with our Azure ARC Kubernetes extensions so you can provision resources from the azure portal.
+</Excerpt>
+    <PostDate>2021-11-16T00:00:00</PostDate>
+    <Id>1093</Id>
+    <Mp4Video>http://player.vimeo.com/external/650873117.hd.mp4?s=0b897c682c439b50d43025a0f6d5c77a8c83c4bf&amp;profile_id=175&amp;oauth_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/650873117.sd.mp4?s=fea2db98a44a433185c60f2713cc86c9d750290f&amp;profile_id=165&amp;oauth_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Mark Moore</name>
+      <slug>mark-moore</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Tags>
+      <name>K8S</name>
+      <slug>k8s</slug>
+    </Tags>
+    <Tags>
+      <name>Azure</name>
+      <slug>azure</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

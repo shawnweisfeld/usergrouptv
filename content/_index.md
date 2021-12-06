@@ -1,12 +1,44 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-11-29T00:13:42.8634032Z",
+  "date": "2021-12-06T18:03:03.4992876Z",
   "draft": false,
-  "recordingCount": "1,087",
+  "recordingCount": "1,088",
   "speakerCount": "612",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "What's New for C# Developers",
+      "slug": "whats-new-for-c-developers",
+      "thumbnail": "https://i.vimeocdn.com/video/1319552424-0224e3a9e632a6d74091f2c4940040d34586e9431b721bd2eaec99d7418000ba-d_295x166",
+      "date": "2021-11-30T00:00:00",
+      "speakers": [
+        {
+          "name": "Chad Green",
+          "slug": "chad-green"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "C#",
+          "slug": "c"
+        },
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": ".NET 6",
+          "slug": "net-6"
+        }
+      ]
+    },
     {
       "title": "Azure Kubernetes Cluster (AKS)",
       "slug": "azure-kubernetes-cluster-aks",
@@ -504,30 +536,6 @@
         {
           "name": "SQL Admin",
           "slug": "sql-admin"
-        }
-      ]
-    },
-    {
-      "title": "Building Successful BI and Data Platforms following a Results First Strategy",
-      "slug": "building-successful-bi-and-data-platforms-following-a-results-first-strategy",
-      "thumbnail": "https://i.vimeocdn.com/video/1216459477-5e9e26d653a62cd292d0f63b73ed5b53b3acc21fe78215be4b460bc0dd7921fd-d_295x166",
-      "date": "2021-07-14T00:00:00",
-      "speakers": [
-        {
-          "name": "Chris Wagner",
-          "slug": "chris-wagner"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Power BI",
-          "slug": "power-bi"
         }
       ]
     }

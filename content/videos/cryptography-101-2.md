@@ -31,7 +31,7 @@
     {
       "name": ".net",
       "slug": "net",
-      "count": 17
+      "count": 18
     },
     {
       "name": "Cryptography",
@@ -43,7 +43,7 @@
     {
       "name": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "count": 29
+      "count": 30
     }
   ]
 }

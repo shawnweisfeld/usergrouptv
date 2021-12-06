@@ -6,13 +6,22 @@
     <description>Recent content in .net on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>.net</title>
       <link>https://usergroup.tv/videos/tag/net/</link>
-      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What&#39;s New for C# Developers</title>
+      <link>https://usergroup.tv/videos/whats-new-for-c-developers/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/whats-new-for-c-developers/</guid>
       <description></description>
     </item>
     

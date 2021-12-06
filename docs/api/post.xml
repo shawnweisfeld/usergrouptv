@@ -27398,4 +27398,35 @@ In this session, you will learn what you can do with Cosmos DB, the benefits of 
       <slug>azure</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>What's New for C# Developers</Title>
+    <Url>https://usergroup.tv/videos/whats-new-for-c-developers/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1319552424-0224e3a9e632a6d74091f2c4940040d34586e9431b721bd2eaec99d7418000ba-d_295x166</Thumbnail>
+    <Excerpt>Microsoft has gone from multi-year releases of C# and .NET to annual releases, meaning there are always new things for C# to make their development efforts better and easier. During this session, we'll talk about the new features in C# 10 and talk about some exciting additions in .NET 6, Entity Framework Core, and ASP.NET Core.</Excerpt>
+    <PostDate>2021-11-30T00:00:00</PostDate>
+    <Id>1094</Id>
+    <Mp4Video>http://player.vimeo.com/external/653755663.hd.mp4?s=7289c4a24ee2ce4a4a22d96760d94aada5041fda&amp;profile_id=174&amp;oauth_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/653755663.sd.mp4?s=876ad2a02aedb1f79e1ec655da31255aceabc728&amp;profile_id=164&amp;oauth_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Chad Green</name>
+      <slug>chad-green</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>C#</name>
+      <slug>c</slug>
+    </Tags>
+    <Tags>
+      <name>.net</name>
+      <slug>net</slug>
+    </Tags>
+    <Tags>
+      <name>.NET 6</name>
+      <slug>net-6</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

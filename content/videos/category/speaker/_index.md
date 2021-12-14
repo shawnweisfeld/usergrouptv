@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-12-06T18:03:09.5733859Z",
+  "date": "2021-12-14T15:30:17.9258422Z",
   "draft": false,
   "speakers": [
     {
@@ -556,6 +556,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/739778084-147c51e83ed0dd7fded9f5b8cbdd79a077460552af03e32515c4ab30621737a7-d_295x166",
       "date": "2018-11-14T16:55:09",
       "count": 3
+    },
+    {
+      "title": "Bryant Avey",
+      "slug": "bryant-avey",
+      "thumbnail": "https://i.vimeocdn.com/video/1325602023-9e62b3169d7478277712a0f7e335b6a98432552b03549aa886461edca49d5930-d_295x166",
+      "date": "2021-12-08T00:00:00",
+      "count": 1
     },
     {
       "title": "Buddy Lindsey",

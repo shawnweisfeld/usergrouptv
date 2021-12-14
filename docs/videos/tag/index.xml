@@ -6,7 +6,34 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Dec 2021 18:03:11 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Dec 2021 15:30:18 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neo4j</title>
+      <link>https://usergroup.tv/videos/tag/neo4j/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/neo4j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>https://usergroup.tv/videos/tag/power-bi/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PowerBI</title>
+      <link>https://usergroup.tv/videos/tag/powerbi/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/powerbi/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>.net</title>
       <link>https://usergroup.tv/videos/tag/net/</link>
@@ -103,15 +130,6 @@
       <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/deneb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power BI</title>
-      <link>https://usergroup.tv/videos/tag/power-bi/</link>
-      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
       <description></description>
     </item>
     
@@ -535,15 +553,6 @@
       <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/cryptography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PowerBI</title>
-      <link>https://usergroup.tv/videos/tag/powerbi/</link>
-      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/powerbi/</guid>
       <description></description>
     </item>
     

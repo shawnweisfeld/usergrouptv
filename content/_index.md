@@ -1,12 +1,44 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-12-06T18:03:03.4992876Z",
+  "date": "2021-12-14T15:30:17.3413593Z",
   "draft": false,
-  "recordingCount": "1,088",
-  "speakerCount": "612",
+  "recordingCount": "1,089",
+  "speakerCount": "613",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Pattern-Driven Insight: Integrating Neo4j with Power BI",
+      "slug": "patterndriven-insight-integrating-neo4j-with-power-bi",
+      "thumbnail": "https://i.vimeocdn.com/video/1325602023-9e62b3169d7478277712a0f7e335b6a98432552b03549aa886461edca49d5930-d_295x166",
+      "date": "2021-12-08T00:00:00",
+      "speakers": [
+        {
+          "name": "Bryant Avey",
+          "slug": "bryant-avey"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "PowerBI",
+          "slug": "powerbi"
+        },
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        },
+        {
+          "name": "Neo4j",
+          "slug": "neo4j"
+        }
+      ]
+    },
     {
       "title": "What's New for C# Developers",
       "slug": "whats-new-for-c-developers",
@@ -504,38 +536,6 @@
         {
           "name": "Logic Apps",
           "slug": "logic-apps"
-        }
-      ]
-    },
-    {
-      "title": "DBA Fired by the PowerShell Wiz",
-      "slug": "dba-fired-by-the-powershell-wiz",
-      "thumbnail": "https://i.vimeocdn.com/video/1195699085-faab9d9f165de121fc99ce499b423f95f96dc93a0fc2c1bf395e5c8d8742287f-d_295x166",
-      "date": "2021-07-20T00:00:00",
-      "speakers": [
-        {
-          "name": "Mike Burek",
-          "slug": "mike-burek"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Capitol Area Central Texas Users of SQL Server",
-          "slug": "capitol-area-central-texas-users-of-sql-server"
-        }
-      ],
-      "tags": [
-        {
-          "name": "PowerShell",
-          "slug": "powershell"
-        },
-        {
-          "name": "SQL",
-          "slug": "sql"
-        },
-        {
-          "name": "SQL Admin",
-          "slug": "sql-admin"
         }
       ]
     }

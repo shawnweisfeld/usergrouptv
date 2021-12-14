@@ -6,22 +6,31 @@
     <description>Recent content in PowerBI on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/powerbi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/powerbi/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How Power Query Thinks: Taking the Mystery Out of Streaming and Query Folding</title>
-      <link>https://usergroup.tv/videos/how-power-query-thinks-taking-the-mystery-out-of-streaming-and-query-folding/</link>
-      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <title>Pattern-Driven Insight: Integrating Neo4j with Power BI</title>
+      <link>https://usergroup.tv/videos/patterndriven-insight-integrating-neo4j-with-power-bi/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://usergroup.tv/videos/how-power-query-thinks-taking-the-mystery-out-of-streaming-and-query-folding/</guid>
+      <guid>https://usergroup.tv/videos/patterndriven-insight-integrating-neo4j-with-power-bi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PowerBI</title>
       <link>https://usergroup.tv/videos/tag/powerbi/</link>
-      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/powerbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Power Query Thinks: Taking the Mystery Out of Streaming and Query Folding</title>
+      <link>https://usergroup.tv/videos/how-power-query-thinks-taking-the-mystery-out-of-streaming-and-query-folding/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/how-power-query-thinks-taking-the-mystery-out-of-streaming-and-query-folding/</guid>
       <description></description>
     </item>
     

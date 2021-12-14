@@ -27429,4 +27429,35 @@ In this session, you will learn what you can do with Cosmos DB, the benefits of 
       <slug>net-6</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Pattern-Driven Insight: Integrating Neo4j with Power BI</Title>
+    <Url>https://usergroup.tv/videos/patterndriven-insight-integrating-neo4j-with-power-bi/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1325602023-9e62b3169d7478277712a0f7e335b6a98432552b03549aa886461edca49d5930-d_295x166</Thumbnail>
+    <Excerpt>This session will introduce you to the world of Graph Databases by using Neo4j to find hidden patterns in Stock Market Price History and then use Power BI to visualize and explore those patterns to gain insights. Bryant will walk you through Machine Learning algorithms he used to identify and generate hidden patterns. He will also teach you a new Power Query technique he developed to combine applied steps into a single query step allowing you to make reusable Template Queries with input variables.</Excerpt>
+    <PostDate>2021-12-08T00:00:00</PostDate>
+    <Id>1095</Id>
+    <Mp4Video>http://player.vimeo.com/external/655671208.hd.mp4?s=6213a9daaa8252394f204e03f070cdc1b0035d99&amp;profile_id=174&amp;oauth_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/655671208.sd.mp4?s=665ce9b28eff26facb39224a2a8504ec6f129679&amp;profile_id=165&amp;oauth_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Bryant Avey</name>
+      <slug>bryant-avey</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>PowerBI</name>
+      <slug>powerbi</slug>
+    </Tags>
+    <Tags>
+      <name>Power BI</name>
+      <slug>power-bi</slug>
+    </Tags>
+    <Tags>
+      <name>Neo4j</name>
+      <slug>neo4j</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

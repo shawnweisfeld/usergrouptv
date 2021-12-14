@@ -3,19 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2021-12-06T18:03:12+00:00</lastmod>
+    <lastmod>2021-12-14T15:30:18+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2021-12-06T18:03:11+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2021-12-06T18:03:09+00:00</lastmod>
+    <lastmod>2021-12-14T15:30:18+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2021-12-06T18:03:03+00:00</lastmod>
+    <lastmod>2021-12-14T15:30:17+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2021-12-06T18:03:03+00:00</lastmod>
+    <lastmod>2021-12-14T15:30:17+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/</loc>
+    <lastmod>2021-12-14T15:30:17+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/bryant-avey/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/bryant-avey/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/neo4j/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/neo4j/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/patterndriven-insight-integrating-neo4j-with-power-bi/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/power-bi/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/power-bi/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/powerbi/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/powerbi/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/.net/</loc>
     <lastmod>2021-11-30T00:00:00+00:00</lastmod>
@@ -39,9 +75,6 @@
     <lastmod>2021-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/chad-green/</loc>
-    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/</loc>
     <lastmod>2021-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
@@ -88,12 +121,6 @@
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/tim-rayburn/</loc>
     <lastmod>2021-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/dax/</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
@@ -186,12 +213,6 @@
     <lastmod>2021-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/kerry-kolosko/</loc>
-    <lastmod>2021-09-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/power-bi/</loc>
-    <lastmod>2021-09-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/power-bi/</loc>
     <lastmod>2021-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/dungeons-dragons-and-graph-databases/</loc>
@@ -831,12 +852,6 @@
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/how-power-query-thinks-taking-the-mystery-out-of-streaming-and-query-folding/</loc>
-    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/powerbi/</loc>
-    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/powerbi/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/asp.net-mvc/</loc>

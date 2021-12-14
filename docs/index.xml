@@ -6,7 +6,61 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Dec 2021 18:03:03 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Dec 2021 15:30:17 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Austin Power BI User Group</title>
+      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bryant Avey</title>
+      <link>https://usergroup.tv/videos/category/speaker/bryant-avey/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/bryant-avey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neo4j</title>
+      <link>https://usergroup.tv/videos/tag/neo4j/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/neo4j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pattern-Driven Insight: Integrating Neo4j with Power BI</title>
+      <link>https://usergroup.tv/videos/patterndriven-insight-integrating-neo4j-with-power-bi/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/patterndriven-insight-integrating-neo4j-with-power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>https://usergroup.tv/videos/tag/power-bi/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PowerBI</title>
+      <link>https://usergroup.tv/videos/tag/powerbi/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/powerbi/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>.net</title>
       <link>https://usergroup.tv/videos/tag/net/</link>
@@ -121,15 +175,6 @@
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/tim-rayburn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Austin Power BI User Group</title>
-      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
       <description></description>
     </item>
     
@@ -292,15 +337,6 @@
       <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/kerry-kolosko/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power BI</title>
-      <link>https://usergroup.tv/videos/tag/power-bi/</link>
-      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
       <description></description>
     </item>
     
@@ -1444,15 +1480,6 @@
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/how-power-query-thinks-taking-the-mystery-out-of-streaming-and-query-folding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PowerBI</title>
-      <link>https://usergroup.tv/videos/tag/powerbi/</link>
-      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/powerbi/</guid>
       <description></description>
     </item>
     

@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2021-12-06T18:03:11.2971875Z",
+  "date": "2021-12-14T15:30:18.5233732Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -1846,6 +1846,13 @@
       "count": 1
     },
     {
+      "title": "Neo4j",
+      "slug": "neo4j",
+      "thumbnail": "https://i.vimeocdn.com/video/1325602023-9e62b3169d7478277712a0f7e335b6a98432552b03549aa886461edca49d5930-d_295x166",
+      "date": "2021-12-08T00:00:00",
+      "count": 1
+    },
+    {
       "title": "NFC",
       "slug": "nfc",
       "thumbnail": "https://i.vimeocdn.com/video/485962579-e80816118527ad8ecc7142e893bd8b550567d5cf17d1535d08f683bea3efced5-d_295x166",
@@ -2086,9 +2093,9 @@
     {
       "title": "Power BI",
       "slug": "power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1240211628-1fca59ed399529bb1e6953d73a422719cfd5a4b9813d5dd1d6f16a64c61fb289-d_295x166",
-      "date": "2021-09-08T00:00:00",
-      "count": 29
+      "thumbnail": "https://i.vimeocdn.com/video/1325602023-9e62b3169d7478277712a0f7e335b6a98432552b03549aa886461edca49d5930-d_295x166",
+      "date": "2021-12-08T00:00:00",
+      "count": 30
     },
     {
       "title": "Power Map",
@@ -2135,9 +2142,9 @@
     {
       "title": "PowerBI",
       "slug": "powerbi",
-      "thumbnail": "https://i.vimeocdn.com/video/994397461-9752af41de0d44cd05d1f77639b56d84038e599aaeb582f53f24a5f59295bdf9-d_295x166",
-      "date": "2020-11-11T00:00:00",
-      "count": 6
+      "thumbnail": "https://i.vimeocdn.com/video/1325602023-9e62b3169d7478277712a0f7e335b6a98432552b03549aa886461edca49d5930-d_295x166",
+      "date": "2021-12-08T00:00:00",
+      "count": 7
     },
     {
       "title": "PowerShell",

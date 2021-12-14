@@ -5,9 +5,35 @@
     "Austin Power BI User Group"
   ],
   "slug": "austin-power-bi-user-group",
-  "date": "2021-11-10T00:00:00",
+  "date": "2021-12-08T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Pattern-Driven Insight: Integrating Neo4j with Power BI",
+      "slug": "patterndriven-insight-integrating-neo4j-with-power-bi",
+      "thumbnail": "https://i.vimeocdn.com/video/1325602023-9e62b3169d7478277712a0f7e335b6a98432552b03549aa886461edca49d5930-d_295x166",
+      "date": "2021-12-08T00:00:00",
+      "speakers": [
+        {
+          "name": "Bryant Avey",
+          "slug": "bryant-avey"
+        }
+      ],
+      "tags": [
+        {
+          "name": "PowerBI",
+          "slug": "powerbi"
+        },
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        },
+        {
+          "name": "Neo4j",
+          "slug": "neo4j"
+        }
+      ]
+    },
     {
       "title": "Improving Your DAX Skills with DAX.DO",
       "slug": "improving-your-dax-skills-with-daxdo",

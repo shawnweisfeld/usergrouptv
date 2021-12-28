@@ -6,7 +6,61 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Dec 2021 15:30:17 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Dec 2021 22:25:43 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>.net</title>
+      <link>https://usergroup.tv/videos/tag/net/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blazor</title>
+      <link>https://usergroup.tv/videos/tag/blazor/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/blazor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go Hybrid across Web, Desktop, &amp; Mobile with Blazor &amp; .NET MAUI</title>
+      <link>https://usergroup.tv/videos/go-hybrid-across-web-desktop-mobile-with-blazor-net-maui/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/go-hybrid-across-web-desktop-mobile-with-blazor-net-maui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James Montemagno</title>
+      <link>https://usergroup.tv/videos/category/speaker/james-montemagno/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/james-montemagno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAUI</title>
+      <link>https://usergroup.tv/videos/tag/maui/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/maui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Austin Power BI User Group</title>
       <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
@@ -62,15 +116,6 @@
     </item>
     
     <item>
-      <title>.net</title>
-      <link>https://usergroup.tv/videos/tag/net/</link>
-      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/net/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>.NET 6</title>
       <link>https://usergroup.tv/videos/tag/net-6/</link>
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
@@ -94,15 +139,6 @@
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/chad-green/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
-      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
       <description></description>
     </item>
     
@@ -1372,15 +1408,6 @@
       <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/net-5-and-net-6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blazor</title>
-      <link>https://usergroup.tv/videos/tag/blazor/</link>
-      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/blazor/</guid>
       <description></description>
     </item>
     
@@ -12805,15 +12832,6 @@ What do we use your information for?</description>
       <pubDate>Sun, 31 May 2015 13:36:23 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/developing-ios-android-apps-in-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>James Montemagno</title>
-      <link>https://usergroup.tv/videos/category/speaker/james-montemagno/</link>
-      <pubDate>Sun, 31 May 2015 13:36:23 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/speaker/james-montemagno/</guid>
       <description></description>
     </item>
     

@@ -6,22 +6,31 @@
     <description>Recent content in Blazor on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/blazor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/blazor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blazor</title>
+      <link>https://usergroup.tv/videos/tag/blazor/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/blazor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go Hybrid across Web, Desktop, &amp; Mobile with Blazor &amp; .NET MAUI</title>
+      <link>https://usergroup.tv/videos/go-hybrid-across-web-desktop-mobile-with-blazor-net-maui/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/go-hybrid-across-web-desktop-mobile-with-blazor-net-maui/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>.NET 5 and .NET 6</title>
       <link>https://usergroup.tv/videos/net-5-and-net-6/</link>
       <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/net-5-and-net-6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blazor</title>
-      <link>https://usergroup.tv/videos/tag/blazor/</link>
-      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/blazor/</guid>
       <description></description>
     </item>
     

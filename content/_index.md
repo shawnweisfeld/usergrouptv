@@ -1,12 +1,44 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-12-14T15:30:17.3413593Z",
+  "date": "2021-12-28T22:25:43.5135632Z",
   "draft": false,
-  "recordingCount": "1,089",
+  "recordingCount": "1,090",
   "speakerCount": "613",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Go Hybrid across Web, Desktop, & Mobile with Blazor & .NET MAUI",
+      "slug": "go-hybrid-across-web-desktop-mobile-with-blazor-net-maui",
+      "thumbnail": "https://i.vimeocdn.com/video/1335692469-6c7ef82a632dd37aefd552ee8e6080506eb1ad4537e12cf755b5640732df4e42-d_295x166",
+      "date": "2021-12-09T00:00:00",
+      "speakers": [
+        {
+          "name": "James Montemagno",
+          "slug": "james-montemagno"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "Blazor",
+          "slug": "blazor"
+        },
+        {
+          "name": "MAUI",
+          "slug": "maui"
+        }
+      ]
+    },
     {
       "title": "Pattern-Driven Insight: Integrating Neo4j with Power BI",
       "slug": "patterndriven-insight-integrating-neo4j-with-power-bi",
@@ -504,38 +536,6 @@
         {
           "name": "NoSQL",
           "slug": "nosql"
-        }
-      ]
-    },
-    {
-      "title": "Azure Logic Apps: Innovating on B2B Connectivity",
-      "slug": "azure-logic-apps-innovating-on-b2b-connectivity",
-      "thumbnail": "https://i.vimeocdn.com/video/1195698558-ab0b54f58123637a7e0a4ebe7fa439eba14069ea16e6ef028a2e318104833201-d_295x166",
-      "date": "2021-07-20T00:00:00",
-      "speakers": [
-        {
-          "name": "Aaron Lieberman",
-          "slug": "aaron-lieberman"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        },
-        {
-          "name": "DFW Azure User Group",
-          "slug": "dfw-azure-user-group"
-        },
-        {
-          "name": "Azure User Group - Houston",
-          "slug": "azure-user-group-houston"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Logic Apps",
-          "slug": "logic-apps"
         }
       ]
     }

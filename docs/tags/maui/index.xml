@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MAUI on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/maui/</link>
+    <description>Recent content in MAUI on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/maui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go Hybrid across Web, Desktop, &amp; Mobile with Blazor &amp; .NET MAUI</title>
+      <link>https://usergroup.tv/videos/go-hybrid-across-web-desktop-mobile-with-blazor-net-maui/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/go-hybrid-across-web-desktop-mobile-with-blazor-net-maui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAUI</title>
+      <link>https://usergroup.tv/videos/tag/maui/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/maui/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

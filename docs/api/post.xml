@@ -27460,4 +27460,36 @@ In this session, you will learn what you can do with Cosmos DB, the benefits of 
       <slug>neo4j</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Go Hybrid across Web, Desktop, &amp; Mobile with Blazor &amp; .NET MAUI</Title>
+    <Url>https://usergroup.tv/videos/go-hybrid-across-web-desktop-mobile-with-blazor-net-maui/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1335692469-6c7ef82a632dd37aefd552ee8e6080506eb1ad4537e12cf755b5640732df4e42-d_295x166</Thumbnail>
+    <Excerpt>Bring your Blazor web apps to desktop and mobile with .NET MAUI Blazor apps! That is right, you can re-use all of your Blazor knowledge, razor components, business logic, and favorite Blazor libraries to create native apps for desktop and mobile devices. Wrap your existing app, or go full hybrid and blend in native UI and native APIs to create the best apps for any platform.
+</Excerpt>
+    <PostDate>2021-12-09T00:00:00</PostDate>
+    <Id>1096</Id>
+    <Mp4Video>http://player.vimeo.com/external/660752613.hd.mp4?s=1590e23a662a4cdf543905d98381c149b9c03544&amp;profile_id=175&amp;oauth_token_id=20985841</Mp4Video>
+    <Mp4VideoLow>http://player.vimeo.com/external/660752613.sd.mp4?s=7176d583ec58d32ed4bf7e619ae7a950f881859b&amp;profile_id=165&amp;oauth_token_id=20985841</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>James Montemagno</name>
+      <slug>james-montemagno</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>.net</name>
+      <slug>net</slug>
+    </Tags>
+    <Tags>
+      <name>Blazor</name>
+      <slug>blazor</slug>
+    </Tags>
+    <Tags>
+      <name>MAUI</name>
+      <slug>maui</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

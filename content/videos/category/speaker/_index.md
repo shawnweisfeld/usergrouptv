@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2021-12-14T15:30:17.9258422Z",
+  "date": "2021-12-28T22:25:45.3344196Z",
   "draft": false,
   "speakers": [
     {
@@ -1561,9 +1561,9 @@
     {
       "title": "James Montemagno",
       "slug": "james-montemagno",
-      "thumbnail": "https://i.vimeocdn.com/video/520899576-d573aff19e7e214ea0a9fbbed67a13472c7f82e777ac735a28bec183be0d7cef-d_295x166",
-      "date": "2015-05-31T13:36:23",
-      "count": 2
+      "thumbnail": "https://i.vimeocdn.com/video/1335692469-6c7ef82a632dd37aefd552ee8e6080506eb1ad4537e12cf755b5640732df4e42-d_295x166",
+      "date": "2021-12-09T00:00:00",
+      "count": 3
     },
     {
       "title": "James Newton-King",

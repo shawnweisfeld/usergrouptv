@@ -1,15 +1,15 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2021-12-14T15:30:18.5233732Z",
+  "date": "2021-12-28T22:25:46.2894693Z",
   "draft": false,
   "ugtvtags": [
     {
       "title": ".net",
       "slug": "net",
-      "thumbnail": "https://i.vimeocdn.com/video/1319552424-0224e3a9e632a6d74091f2c4940040d34586e9431b721bd2eaec99d7418000ba-d_295x166",
-      "date": "2021-11-30T00:00:00",
-      "count": 18
+      "thumbnail": "https://i.vimeocdn.com/video/1335692469-6c7ef82a632dd37aefd552ee8e6080506eb1ad4537e12cf755b5640732df4e42-d_295x166",
+      "date": "2021-12-09T00:00:00",
+      "count": 19
     },
     {
       "title": ".NET 6",
@@ -455,9 +455,9 @@
     {
       "title": "Blazor",
       "slug": "blazor",
-      "thumbnail": "https://i.vimeocdn.com/video/1016803292-73d90a93d8779795c6299e9f4d0dc084947623e28bfec49b7879749c1318dc1a-d_295x166",
-      "date": "2020-12-14T00:00:00",
-      "count": 3
+      "thumbnail": "https://i.vimeocdn.com/video/1335692469-6c7ef82a632dd37aefd552ee8e6080506eb1ad4537e12cf755b5640732df4e42-d_295x166",
+      "date": "2021-12-09T00:00:00",
+      "count": 4
     },
     {
       "title": "Blend",
@@ -1627,6 +1627,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/485086496-0dbe232a60655ba99bc03a735a595e912ab2d9efea5ad7d64b1122ba809b3f92-d_295x166",
       "date": "2013-01-10T02:01:16",
       "count": 2
+    },
+    {
+      "title": "MAUI",
+      "slug": "maui",
+      "thumbnail": "https://i.vimeocdn.com/video/1335692469-6c7ef82a632dd37aefd552ee8e6080506eb1ad4537e12cf755b5640732df4e42-d_295x166",
+      "date": "2021-12-09T00:00:00",
+      "count": 1
     },
     {
       "title": "MDM",

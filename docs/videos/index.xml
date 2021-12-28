@@ -6,7 +6,16 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Dec 2021 15:30:17 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Dec 2021 22:25:43 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go Hybrid across Web, Desktop, &amp; Mobile with Blazor &amp; .NET MAUI</title>
+      <link>https://usergroup.tv/videos/go-hybrid-across-web-desktop-mobile-with-blazor-net-maui/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/go-hybrid-across-web-desktop-mobile-with-blazor-net-maui/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Pattern-Driven Insight: Integrating Neo4j with Power BI</title>
       <link>https://usergroup.tv/videos/patterndriven-insight-integrating-neo4j-with-power-bi/</link>

@@ -5,9 +5,35 @@
     "Tulsa .NET User Group"
   ],
   "slug": "tulsa-net-user-group",
-  "date": "2021-11-30T00:00:00",
+  "date": "2021-12-09T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Go Hybrid across Web, Desktop, & Mobile with Blazor & .NET MAUI",
+      "slug": "go-hybrid-across-web-desktop-mobile-with-blazor-net-maui",
+      "thumbnail": "https://i.vimeocdn.com/video/1335692469-6c7ef82a632dd37aefd552ee8e6080506eb1ad4537e12cf755b5640732df4e42-d_295x166",
+      "date": "2021-12-09T00:00:00",
+      "speakers": [
+        {
+          "name": "James Montemagno",
+          "slug": "james-montemagno"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "Blazor",
+          "slug": "blazor"
+        },
+        {
+          "name": "MAUI",
+          "slug": "maui"
+        }
+      ]
+    },
     {
       "title": "What's New for C# Developers",
       "slug": "whats-new-for-c-developers",

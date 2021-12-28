@@ -33,7 +33,7 @@
     {
       "name": ".net",
       "slug": "net",
-      "count": 18
+      "count": 19
     },
     {
       "name": ".NET Core",
@@ -48,14 +48,14 @@
     {
       "name": "Blazor",
       "slug": "blazor",
-      "count": 3
+      "count": 4
     }
   ],
   "meetups": [
     {
       "name": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "count": 30
+      "count": 31
     }
   ]
 }

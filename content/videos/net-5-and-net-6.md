@@ -32,7 +32,7 @@
     {
       "name": ".net",
       "slug": "net",
-      "count": 18
+      "count": 19
     },
     {
       "name": "ASP.NET",
@@ -42,7 +42,7 @@
     {
       "name": "Blazor",
       "slug": "blazor",
-      "count": 3
+      "count": 4
     }
   ],
   "meetups": [

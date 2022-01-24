@@ -3,23 +3,22 @@
   "type": "recording",
   "tags": [
     "ARM",
-    "BiCep",
-    "Infrastructure as Code"
+    "BiCep"
   ],
-  "date": "2021-10-14T00:00:00",
+  "date": "2022-01-18T00:00:00",
   "draft": false,
-  "slug": "an-infrastructure-as-code-bakeoff-comparing-arm-terraform-and-bicep",
+  "slug": "an-infrastructure-as-code-bakeoff-comparing-arm-terraform-and-bicep-2",
   "abstract": "Infrastructure as Code comes in many flavors, and the Azure Cloud's default deployment templates work with Azure Resource Manager (ARM) to define and deploy infrastructure. Working with the JSON format of ARM can be challenging, but Microsoft has introduced a language processor called Bicep which generates ARM as output. At the same time there are other options, including scripting tools, Terraform, Pulumi, Ansible and others. In this session we'll compare creating infrastructure using ARM, Terraform and Bicep, and compare pros and cons to each.",
   "description": "Infrastructure as Code comes in many flavors, and the Azure Cloud's default deployment templates work with Azure Resource Manager (ARM) to define and deploy infrastructure. Working with the JSON format of ARM can be challenging, but Microsoft has introduced a language processor called Bicep which generates ARM as output. At the same time there are other options, including scripting tools, Terraform, Pulumi, Ansible and others. In this session we'll compare creating infrastructure using ARM, Terraform and Bicep, and compare pros and cons to each.",
   "images": [
-    "https://i.vimeocdn.com/video/1288579806-58ab4313dcc59dc69553c6f93128c5cd768a75c3a99346cef_295x166"
+    "https://i.vimeocdn.com/video/1356030553-316f8dcaf6f5da6b1c28d5fdd72c3c48ff2d57c32d562e0978c80a70292a1440-d_295x166"
   ],
-  "vimeo": "640661996",
-  "moreinfo": "https://www.meetup.com/TulsaDevelopers-net/events/281385827/",
-  "thumbnail": "https://i.vimeocdn.com/video/1288579806-58ab4313dcc59dc69553c6f93128c5cd768a75c3a99346cef_295x166",
-  "mp4Video": "http://player.vimeo.com/external/640661996.hd.mp4?s=e13c2b955ef7d7bf5849b7c2da3f5eae2ea1e202&profile_id=175&oauth_token_id=20985841",
-  "mp4VideoLow": "http://player.vimeo.com/external/640661996.sd.mp4?s=7626d5196f4bdf4b5d9c6465a2ef561c6bf03cda&profile_id=164&oauth_token_id=20985841",
-  "recordingID": 1090,
+  "vimeo": "668996146",
+  "moreinfo": "https://www.meetup.com/azureaustin/events/281875032",
+  "thumbnail": "https://i.vimeocdn.com/video/1356030553-316f8dcaf6f5da6b1c28d5fdd72c3c48ff2d57c32d562e0978c80a70292a1440-d_295x166",
+  "mp4Video": "https://player.vimeo.com/progressive_redirect/playback/668996146/rendition/720p/720p.mp4?loc=external&oauth2_token_id=20985841&signature=abbd6b8a1c12fe7b2bed4e8471c8fda80f8c8fff72bfe01eb5629c20dc4f22a8",
+  "mp4VideoLow": "https://player.vimeo.com/progressive_redirect/playback/668996146/rendition/360p/360p.mp4?loc=external&oauth2_token_id=20985841&signature=f89c122988d702d8404725472714bb969cdeee07d9d67fcaae827065cd8dc227",
+  "recordingID": 1097,
   "speakers": [
     {
       "name": "Mike Benkovich",
@@ -38,18 +37,23 @@
       "name": "BiCep",
       "slug": "bicep",
       "count": 2
-    },
-    {
-      "name": "Infrastructure as Code",
-      "slug": "infrastructure-as-code",
-      "count": 1
     }
   ],
   "meetups": [
     {
-      "name": "Tulsa .NET User Group",
-      "slug": "tulsa-net-user-group",
-      "count": 31
+      "name": "Azure Austin Meetup",
+      "slug": "azure-austin-meetup",
+      "count": 54
+    },
+    {
+      "name": "DFW Azure User Group",
+      "slug": "dfw-azure-user-group",
+      "count": 17
+    },
+    {
+      "name": "Azure User Group - Houston",
+      "slug": "azure-user-group-houston",
+      "count": 5
     }
   ]
 }

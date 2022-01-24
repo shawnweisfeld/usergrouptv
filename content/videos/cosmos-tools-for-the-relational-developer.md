@@ -24,7 +24,7 @@
       "name": "Mike Benkovich",
       "slug": "mike-benkovich",
       "bio": "A software architect, Azure expert, and former Microsoft evangelist, Mike Benkovich dedicates huge amounts of his time to helping his fellow developers and burgeoning programmers learn about new technologies and platforms. Mike’s website equips developers with tips and resources to help them get to grips with technologies including cloud, data and devices, and he produces online courses covering areas like Azure enterprise development and serverless computing. Mike is also a chronic sharer of puns, so head over to his Twitter feed if you’re after a laugh (or a groan).",
-      "count": 2
+      "count": 3
     }
   ],
   "ugtvtags": [

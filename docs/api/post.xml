@@ -27492,4 +27492,39 @@ In this session, you will learn what you can do with Cosmos DB, the benefits of 
       <slug>maui</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>An Infrastructure as Code Bake-off, comparing ARM, Terraform and Bicep</Title>
+    <Url>https://usergroup.tv/videos/an-infrastructure-as-code-bakeoff-comparing-arm-terraform-and-bicep-2/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1356030553-316f8dcaf6f5da6b1c28d5fdd72c3c48ff2d57c32d562e0978c80a70292a1440-d_295x166</Thumbnail>
+    <Excerpt>Infrastructure as Code comes in many flavors, and the Azure Cloud's default deployment templates work with Azure Resource Manager (ARM) to define and deploy infrastructure. Working with the JSON format of ARM can be challenging, but Microsoft has introduced a language processor called Bicep which generates ARM as output. At the same time there are other options, including scripting tools, Terraform, Pulumi, Ansible and others. In this session we'll compare creating infrastructure using ARM, Terraform and Bicep, and compare pros and cons to each.</Excerpt>
+    <PostDate>2022-01-18T00:00:00</PostDate>
+    <Id>1097</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/668996146/rendition/720p/720p.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=abbd6b8a1c12fe7b2bed4e8471c8fda80f8c8fff72bfe01eb5629c20dc4f22a8</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/668996146/rendition/360p/360p.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=f89c122988d702d8404725472714bb969cdeee07d9d67fcaae827065cd8dc227</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Mike Benkovich</name>
+      <slug>mike-benkovich</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
+    <Groups>
+      <name>Azure User Group - Houston</name>
+      <slug>azure-user-group-houston</slug>
+    </Groups>
+    <Tags>
+      <name>ARM</name>
+      <slug>arm</slug>
+    </Tags>
+    <Tags>
+      <name>BiCep</name>
+      <slug>bicep</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

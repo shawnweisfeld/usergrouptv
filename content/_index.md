@@ -1,12 +1,48 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2021-12-28T22:25:43.5135632Z",
+  "date": "2022-01-24T14:07:38.0607643Z",
   "draft": false,
-  "recordingCount": "1,090",
+  "recordingCount": "1,091",
   "speakerCount": "613",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "An Infrastructure as Code Bake-off, comparing ARM, Terraform and Bicep",
+      "slug": "an-infrastructure-as-code-bakeoff-comparing-arm-terraform-and-bicep-2",
+      "thumbnail": "https://i.vimeocdn.com/video/1356030553-316f8dcaf6f5da6b1c28d5fdd72c3c48ff2d57c32d562e0978c80a70292a1440-d_295x166",
+      "date": "2022-01-18T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Benkovich",
+          "slug": "mike-benkovich"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        },
+        {
+          "name": "Azure User Group - Houston",
+          "slug": "azure-user-group-houston"
+        }
+      ],
+      "tags": [
+        {
+          "name": "ARM",
+          "slug": "arm"
+        },
+        {
+          "name": "BiCep",
+          "slug": "bicep"
+        }
+      ]
+    },
     {
       "title": "Go Hybrid across Web, Desktop, & Mobile with Blazor & .NET MAUI",
       "slug": "go-hybrid-across-web-desktop-mobile-with-blazor-net-maui",
@@ -512,30 +548,6 @@
         {
           "name": "LiteDB",
           "slug": "litedb"
-        }
-      ]
-    },
-    {
-      "title": "Going Schema-less: How to migrate a relational database to a NoSQL database",
-      "slug": "going-schemaless-how-to-migrate-a-relational-database-to-a-nosql-database",
-      "thumbnail": "https://i.vimeocdn.com/video/1205594992-45e2a444eb3219402d3fe3bf0f1098359fcb996de610804934b7e12496666eea-d_295x166",
-      "date": "2021-07-27T00:00:00",
-      "speakers": [
-        {
-          "name": "Chad Green",
-          "slug": "chad-green"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "NoSQL",
-          "slug": "nosql"
         }
       ]
     }

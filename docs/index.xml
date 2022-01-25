@@ -6,7 +6,70 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Dec 2021 22:25:43 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jan 2022 12:05:28 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Infrastructure as Code Bake-off, comparing ARM, Terraform and Bicep</title>
+      <link>https://usergroup.tv/videos/an-infrastructure-as-code-bakeoff-comparing-arm-terraform-and-bicep-2/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/an-infrastructure-as-code-bakeoff-comparing-arm-terraform-and-bicep-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARM</title>
+      <link>https://usergroup.tv/videos/tag/arm/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/arm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Austin Meetup</title>
+      <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/azure-austin-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure User Group - Houston</title>
+      <link>https://usergroup.tv/videos/category/group/azure-user-group-houston/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/azure-user-group-houston/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BiCep</title>
+      <link>https://usergroup.tv/videos/tag/bicep/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/bicep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFW Azure User Group</title>
+      <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mike Benkovich</title>
+      <link>https://usergroup.tv/videos/category/speaker/mike-benkovich/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/mike-benkovich/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>.net</title>
       <link>https://usergroup.tv/videos/tag/net/</link>
@@ -161,15 +224,6 @@
     </item>
     
     <item>
-      <title>Azure Austin Meetup</title>
-      <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
-      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/azure-austin-meetup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Azure Kubernetes Cluster (AKS)</title>
       <link>https://usergroup.tv/videos/azure-kubernetes-cluster-aks/</link>
       <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
@@ -251,38 +305,11 @@
     </item>
     
     <item>
-      <title>ARM</title>
-      <link>https://usergroup.tv/videos/tag/arm/</link>
-      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/arm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BiCep</title>
-      <link>https://usergroup.tv/videos/tag/bicep/</link>
-      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/bicep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Infrastructure as Code</title>
       <link>https://usergroup.tv/videos/tag/infrastructure-as-code/</link>
       <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/infrastructure-as-code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mike Benkovich</title>
-      <link>https://usergroup.tv/videos/category/speaker/mike-benkovich/</link>
-      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/speaker/mike-benkovich/</guid>
       <description></description>
     </item>
     
@@ -301,24 +328,6 @@
       <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/understanding-dax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure User Group - Houston</title>
-      <link>https://usergroup.tv/videos/category/group/azure-user-group-houston/</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/azure-user-group-houston/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DFW Azure User Group</title>
-      <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
       <description></description>
     </item>
     

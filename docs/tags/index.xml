@@ -6,7 +6,61 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ARM</title>
+      <link>https://usergroup.tv/tags/arm/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/arm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Austin Meetup</title>
+      <link>https://usergroup.tv/tags/azure-austin-meetup/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/azure-austin-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure User Group - Houston</title>
+      <link>https://usergroup.tv/tags/azure-user-group-houston/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/azure-user-group-houston/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BiCep</title>
+      <link>https://usergroup.tv/tags/bicep/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/bicep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFW Azure User Group</title>
+      <link>https://usergroup.tv/tags/dfw-azure-user-group/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/dfw-azure-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mike Benkovich</title>
+      <link>https://usergroup.tv/tags/mike-benkovich/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/mike-benkovich/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>.net</title>
       <link>https://usergroup.tv/tags/.net/</link>
@@ -134,15 +188,6 @@
     </item>
     
     <item>
-      <title>Azure Austin Meetup</title>
-      <link>https://usergroup.tv/tags/azure-austin-meetup/</link>
-      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/azure-austin-meetup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>K8S</title>
       <link>https://usergroup.tv/tags/k8s/</link>
       <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
@@ -188,24 +233,6 @@
     </item>
     
     <item>
-      <title>ARM</title>
-      <link>https://usergroup.tv/tags/arm/</link>
-      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/arm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BiCep</title>
-      <link>https://usergroup.tv/tags/bicep/</link>
-      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/bicep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Infrastructure as Code</title>
       <link>https://usergroup.tv/tags/infrastructure-as-code/</link>
       <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
@@ -215,38 +242,11 @@
     </item>
     
     <item>
-      <title>Mike Benkovich</title>
-      <link>https://usergroup.tv/tags/mike-benkovich/</link>
-      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/mike-benkovich/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Angela Henry</title>
       <link>https://usergroup.tv/tags/angela-henry/</link>
       <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/angela-henry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure User Group - Houston</title>
-      <link>https://usergroup.tv/tags/azure-user-group-houston/</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/azure-user-group-houston/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DFW Azure User Group</title>
-      <link>https://usergroup.tv/tags/dfw-azure-user-group/</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/dfw-azure-user-group/</guid>
       <description></description>
     </item>
     

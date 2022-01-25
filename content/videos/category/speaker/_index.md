@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2022-01-25T11:37:31.0856298Z",
+  "date": "2022-01-25T12:05:30.4005116Z",
   "draft": false,
   "speakers": [
     {

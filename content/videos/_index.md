@@ -1,7 +1,7 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2022-01-24T14:07:38.0607643Z",
+  "date": "2022-01-25T11:37:30.2486962Z",
   "draft": false,
   "recordingCount": "1,091",
   "speakerCount": "613",

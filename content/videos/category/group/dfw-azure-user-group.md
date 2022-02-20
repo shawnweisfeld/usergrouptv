@@ -5,9 +5,31 @@
     "DFW Azure User Group"
   ],
   "slug": "dfw-azure-user-group",
-  "date": "2022-01-18T00:00:00",
+  "date": "2022-02-15T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Landing Zones for Data and the Data Mesh Architecture",
+      "slug": "landing-zones-for-data-and-the-data-mesh-architecture",
+      "thumbnail": "https://i.vimeocdn.com/video/1377660771-40046bed4dcde719c1e20ac24a177c3e52ad04b71258f3045174c793b35af372-d_295x166",
+      "date": "2022-02-15T00:00:00",
+      "speakers": [
+        {
+          "name": "Amy Genender-Feltheimer",
+          "slug": "amy-genenderfeltheimer"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "Data Mesh",
+          "slug": "data-mesh"
+        }
+      ]
+    },
     {
       "title": "An Infrastructure as Code Bake-off, comparing ARM, Terraform and Bicep",
       "slug": "an-infrastructure-as-code-bakeoff-comparing-arm-terraform-and-bicep-2",

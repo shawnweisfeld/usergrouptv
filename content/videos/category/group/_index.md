@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2022-01-25T12:05:33.2466782Z",
+  "date": "2022-02-20T15:22:56.4255282Z",
   "draft": false,
   "meetups": [
     {
@@ -133,23 +133,23 @@
     {
       "title": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "thumbnail": "https://i.vimeocdn.com/video/1356030553-316f8dcaf6f5da6b1c28d5fdd72c3c48ff2d57c32d562e0978c80a70292a1440-d_295x166",
-      "date": "2022-01-18T00:00:00",
-      "count": 54
+      "thumbnail": "https://i.vimeocdn.com/video/1377660771-40046bed4dcde719c1e20ac24a177c3e52ad04b71258f3045174c793b35af372-d_295x166",
+      "date": "2022-02-15T00:00:00",
+      "count": 55
     },
     {
       "title": "Azure User Group - Houston",
       "slug": "azure-user-group-houston",
-      "thumbnail": "https://i.vimeocdn.com/video/1356030553-316f8dcaf6f5da6b1c28d5fdd72c3c48ff2d57c32d562e0978c80a70292a1440-d_295x166",
-      "date": "2022-01-18T00:00:00",
-      "count": 5
+      "thumbnail": "https://i.vimeocdn.com/video/1377660771-40046bed4dcde719c1e20ac24a177c3e52ad04b71258f3045174c793b35af372-d_295x166",
+      "date": "2022-02-15T00:00:00",
+      "count": 6
     },
     {
       "title": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "thumbnail": "https://i.vimeocdn.com/video/1221979479-19a2b6ea9dab28d17b337d4abafac963787dbed61c0f857996f9c405135f2d56-d_295x166",
-      "date": "2021-08-17T00:00:00",
-      "count": 75
+      "thumbnail": "https://i.vimeocdn.com/video/1377662098-627e5b1c94379ad39710852c6c73e75472ede00ebd2a9f2ddc5cafc8f07ce95b-d_295x166",
+      "date": "2022-02-15T00:00:00",
+      "count": 76
     },
     {
       "title": "Chicago IT Architects Group",
@@ -266,9 +266,9 @@
     {
       "title": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1356030553-316f8dcaf6f5da6b1c28d5fdd72c3c48ff2d57c32d562e0978c80a70292a1440-d_295x166",
-      "date": "2022-01-18T00:00:00",
-      "count": 17
+      "thumbnail": "https://i.vimeocdn.com/video/1377660771-40046bed4dcde719c1e20ac24a177c3e52ad04b71258f3045174c793b35af372-d_295x166",
+      "date": "2022-02-15T00:00:00",
+      "count": 18
     },
     {
       "title": "DFW C++ User Group",
@@ -441,9 +441,9 @@
     {
       "title": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1335692469-6c7ef82a632dd37aefd552ee8e6080506eb1ad4537e12cf755b5640732df4e42-d_295x166",
-      "date": "2021-12-09T00:00:00",
-      "count": 31
+      "thumbnail": "https://i.vimeocdn.com/video/1377640381-45c47366714f274966ea38cd4df0419d0eff2eae64daefb866eeea4c1d401b63-d_295x166",
+      "date": "2022-02-10T00:00:00",
+      "count": 34
     },
     {
       "title": "Tulsa School of Dev",

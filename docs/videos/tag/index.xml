@@ -6,7 +6,97 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jan 2022 12:05:31 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Feb 2022 15:22:56 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure</title>
+      <link>https://usergroup.tv/videos/tag/azure/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Mesh</title>
+      <link>https://usergroup.tv/videos/tag/data-mesh/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/data-mesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://usergroup.tv/videos/tag/sql/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Admin</title>
+      <link>https://usergroup.tv/videos/tag/sql-admin/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql-admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSMS</title>
+      <link>https://usergroup.tv/videos/tag/ssms/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/ssms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>.net</title>
+      <link>https://usergroup.tv/videos/tag/net/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graphql</title>
+      <link>https://usergroup.tv/videos/tag/graphql/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/graphql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helm</title>
+      <link>https://usergroup.tv/videos/tag/helm/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/helm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K8S</title>
+      <link>https://usergroup.tv/videos/tag/k8s/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/k8s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>https://usergroup.tv/videos/tag/kubernetes/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/kubernetes/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ARM</title>
       <link>https://usergroup.tv/videos/tag/arm/</link>
@@ -26,11 +116,38 @@
     </item>
     
     <item>
-      <title>.net</title>
-      <link>https://usergroup.tv/videos/tag/net/</link>
-      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      <title>API</title>
+      <link>https://usergroup.tv/videos/tag/api/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://usergroup.tv/videos/tag/net/</guid>
+      <guid>https://usergroup.tv/videos/tag/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASP.NET</title>
+      <link>https://usergroup.tv/videos/tag/asp-net/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/asp-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASP.NET Core</title>
+      <link>https://usergroup.tv/videos/tag/asp-net-core/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/asp-net-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimal API</title>
+      <link>https://usergroup.tv/videos/tag/minimal-api/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/minimal-api/</guid>
       <description></description>
     </item>
     
@@ -94,24 +211,6 @@
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure</title>
-      <link>https://usergroup.tv/videos/tag/azure/</link>
-      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/azure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K8S</title>
-      <link>https://usergroup.tv/videos/tag/k8s/</link>
-      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/k8s/</guid>
       <description></description>
     </item>
     
@@ -296,24 +395,6 @@
     </item>
     
     <item>
-      <title>SQL</title>
-      <link>https://usergroup.tv/videos/tag/sql/</link>
-      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/sql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQL Admin</title>
-      <link>https://usergroup.tv/videos/tag/sql-admin/</link>
-      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/sql-admin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SignalR</title>
       <link>https://usergroup.tv/videos/tag/signalr/</link>
       <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
@@ -422,15 +503,6 @@
     </item>
     
     <item>
-      <title>Kubernetes</title>
-      <link>https://usergroup.tv/videos/tag/kubernetes/</link>
-      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/kubernetes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>.NET Core</title>
       <link>https://usergroup.tv/videos/tag/net-core/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
@@ -445,24 +517,6 @@
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/architecture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ASP.NET</title>
-      <link>https://usergroup.tv/videos/tag/asp-net/</link>
-      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/asp-net/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ASP.NET Core</title>
-      <link>https://usergroup.tv/videos/tag/asp-net-core/</link>
-      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/asp-net-core/</guid>
       <description></description>
     </item>
     
@@ -499,15 +553,6 @@
       <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/memory-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>API</title>
-      <link>https://usergroup.tv/videos/tag/api/</link>
-      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/api/</guid>
       <description></description>
     </item>
     

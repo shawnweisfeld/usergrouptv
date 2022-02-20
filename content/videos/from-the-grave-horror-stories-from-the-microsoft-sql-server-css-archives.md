@@ -30,7 +30,7 @@
     {
       "name": "SQL Admin",
       "slug": "sql-admin",
-      "count": 9
+      "count": 10
     }
   ],
   "meetups": [

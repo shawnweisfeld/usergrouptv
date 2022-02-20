@@ -1,12 +1,140 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2022-01-25T12:05:28.0489149Z",
+  "date": "2022-02-20T15:22:54.8529149Z",
   "draft": false,
-  "recordingCount": "1,091",
-  "speakerCount": "613",
+  "recordingCount": "1,096",
+  "speakerCount": "616",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Landing Zones for Data and the Data Mesh Architecture",
+      "slug": "landing-zones-for-data-and-the-data-mesh-architecture",
+      "thumbnail": "https://i.vimeocdn.com/video/1377660771-40046bed4dcde719c1e20ac24a177c3e52ad04b71258f3045174c793b35af372-d_295x166",
+      "date": "2022-02-15T00:00:00",
+      "speakers": [
+        {
+          "name": "Amy Genender-Feltheimer",
+          "slug": "amy-genenderfeltheimer"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        },
+        {
+          "name": "Azure User Group - Houston",
+          "slug": "azure-user-group-houston"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "Data Mesh",
+          "slug": "data-mesh"
+        }
+      ]
+    },
+    {
+      "title": "SSMS Tips and Tricks",
+      "slug": "ssms-tips-and-tricks",
+      "thumbnail": "https://i.vimeocdn.com/video/1377662098-627e5b1c94379ad39710852c6c73e75472ede00ebd2a9f2ddc5cafc8f07ce95b-d_295x166",
+      "date": "2022-02-15T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Burek",
+          "slug": "mike-burek"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        },
+        {
+          "name": "SQL Admin",
+          "slug": "sql-admin"
+        },
+        {
+          "name": "SSMS",
+          "slug": "ssms"
+        }
+      ]
+    },
+    {
+      "title": "GraphQL for .NET Developers",
+      "slug": "graphql-for-net-developers",
+      "thumbnail": "https://i.vimeocdn.com/video/1377640381-45c47366714f274966ea38cd4df0419d0eff2eae64daefb866eeea4c1d401b63-d_295x166",
+      "date": "2022-02-10T00:00:00",
+      "speakers": [
+        {
+          "name": "Jeremy Likness",
+          "slug": "jeremy-likness"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "graphql",
+          "slug": "graphql"
+        }
+      ]
+    },
+    {
+      "title": "Demystifying Helm",
+      "slug": "demystifying-helm",
+      "thumbnail": "https://i.vimeocdn.com/video/1377640812-e19bfb54d8ec0751b0ba9bcf7bc59ce6144d56d496591c9a9c52a88882ca4df2-d_295x166",
+      "date": "2022-01-25T00:00:00",
+      "speakers": [
+        {
+          "name": "Donovan Brown",
+          "slug": "donovan-brown"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "K8S",
+          "slug": "k8s"
+        },
+        {
+          "name": "Kubernetes",
+          "slug": "kubernetes"
+        },
+        {
+          "name": "Helm",
+          "slug": "helm"
+        }
+      ]
+    },
     {
       "title": "An Infrastructure as Code Bake-off, comparing ARM, Terraform and Bicep",
       "slug": "an-infrastructure-as-code-bakeoff-comparing-arm-terraform-and-bicep-2",
@@ -40,6 +168,46 @@
         {
           "name": "BiCep",
           "slug": "bicep"
+        }
+      ]
+    },
+    {
+      "title": "Minimal APIs with ASP.NET 6.0",
+      "slug": "minimal-apis-with-aspnet-60",
+      "thumbnail": "https://i.vimeocdn.com/video/1377563992-d64f308f4a27167c9d28e6da268ce790da728ea784a0f87e41ba41cdb790e1fc-d_295x166",
+      "date": "2022-01-13T00:00:00",
+      "speakers": [
+        {
+          "name": "Rob Richardson",
+          "slug": "rob-richardson"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "ASP.NET Core",
+          "slug": "asp-net-core"
+        },
+        {
+          "name": "API",
+          "slug": "api"
+        },
+        {
+          "name": "ASP.NET",
+          "slug": "asp-net"
+        },
+        {
+          "name": "Minimal API",
+          "slug": "minimal-api"
         }
       ]
     },
@@ -408,146 +576,6 @@
         {
           "name": "Azure Service Bus",
           "slug": "azure-service-bus"
-        }
-      ]
-    },
-    {
-      "title": "How and Where to Practice Writing Queries",
-      "slug": "how-and-where-to-practice-writing-queries",
-      "thumbnail": "https://i.vimeocdn.com/video/1221979479-19a2b6ea9dab28d17b337d4abafac963787dbed61c0f857996f9c405135f2d56-d_295x166",
-      "date": "2021-08-17T00:00:00",
-      "speakers": [
-        {
-          "name": "Mike Burek",
-          "slug": "mike-burek"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Capitol Area Central Texas Users of SQL Server",
-          "slug": "capitol-area-central-texas-users-of-sql-server"
-        }
-      ],
-      "tags": [
-        {
-          "name": "DBA",
-          "slug": "dba"
-        },
-        {
-          "name": "MS SQL",
-          "slug": "ms-sql"
-        }
-      ]
-    },
-    {
-      "title": "One Band One Sound",
-      "slug": "one-band-one-sound",
-      "thumbnail": "https://i.vimeocdn.com/video/1216459740-dd7c081acfd681496457af72337193a418e19f34e4a507f9bac0ecb9f3935aae-d_295x166",
-      "date": "2021-08-12T00:00:00",
-      "speakers": [
-        {
-          "name": "Phil Japikse",
-          "slug": "phil-japikse"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Agile",
-          "slug": "agile"
-        },
-        {
-          "name": "Team building",
-          "slug": "team-building"
-        }
-      ]
-    },
-    {
-      "title": "Introduction to Charticulator",
-      "slug": "introduction-to-charticulator",
-      "thumbnail": "https://i.vimeocdn.com/video/1216459183-dbe72bd6fea263a34dad08e2ae0dc3a57bd4a3b82fac3eba875a5e43663be541-d_295x166",
-      "date": "2021-08-11T00:00:00",
-      "speakers": [
-        {
-          "name": "Mike Carlo",
-          "slug": "mike-carlo"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Power BI",
-          "slug": "power-bi"
-        },
-        {
-          "name": "Charticulator",
-          "slug": "charticulator"
-        }
-      ]
-    },
-    {
-      "title": "Actor based distributed caching model using Microsoft Orleans",
-      "slug": "actor-based-distributed-caching-model-using-microsoft-orleans",
-      "thumbnail": "https://i.vimeocdn.com/video/1215477680-dd1b3273d9de364ed413ad298b1590833985c68d29709c9305c63347d68f0fe8-d_295x166",
-      "date": "2021-08-09T00:00:00",
-      "speakers": [
-        {
-          "name": "Irfan Gilani",
-          "slug": "irfan-gilani"
-        },
-        {
-          "name": "Gopi Kandhadi",
-          "slug": "gopi-kandhadi"
-        },
-        {
-          "name": "Mohammad Sadiq",
-          "slug": "mohammad-sadiq"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin .NET UG",
-          "slug": "austin-net-ug"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Microsoft Orleans",
-          "slug": "microsoft-orleans"
-        }
-      ]
-    },
-    {
-      "title": "Intro to LiteDB",
-      "slug": "intro-to-litedb",
-      "thumbnail": "https://i.vimeocdn.com/video/1205594121-6138f3199f71673af2245eb1817d29afb46d6ccdd736a8f76e236d7528d47574-d_295x166",
-      "date": "2021-07-27T00:00:00",
-      "speakers": [
-        {
-          "name": "Chris Conley",
-          "slug": "chris-conley"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "LiteDB",
-          "slug": "litedb"
         }
       ]
     }

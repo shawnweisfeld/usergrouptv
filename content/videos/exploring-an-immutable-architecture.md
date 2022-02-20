@@ -34,7 +34,7 @@
     {
       "name": ".net",
       "slug": "net",
-      "count": 19
+      "count": 21
     },
     {
       "name": ".NET Core",
@@ -44,7 +44,7 @@
     {
       "name": "ASP.NET Core",
       "slug": "asp-net-core",
-      "count": 7
+      "count": 8
     },
     {
       "name": "Architecture",
@@ -54,14 +54,14 @@
     {
       "name": "ASP.NET",
       "slug": "asp-net",
-      "count": 9
+      "count": 10
     }
   ],
   "meetups": [
     {
       "name": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "count": 31
+      "count": 34
     }
   ]
 }

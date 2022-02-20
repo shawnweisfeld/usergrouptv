@@ -30,14 +30,14 @@
     {
       "name": "SQL",
       "slug": "sql",
-      "count": 19
+      "count": 20
     }
   ],
   "meetups": [
     {
       "name": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "count": 75
+      "count": 76
     }
   ]
 }

@@ -30,7 +30,7 @@
     {
       "name": "SQL",
       "slug": "sql",
-      "count": 19
+      "count": 20
     }
   ],
   "meetups": [

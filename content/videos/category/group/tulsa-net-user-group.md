@@ -5,9 +5,91 @@
     "Tulsa .NET User Group"
   ],
   "slug": "tulsa-net-user-group",
-  "date": "2021-12-09T00:00:00",
+  "date": "2022-02-10T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "GraphQL for .NET Developers",
+      "slug": "graphql-for-net-developers",
+      "thumbnail": "https://i.vimeocdn.com/video/1377640381-45c47366714f274966ea38cd4df0419d0eff2eae64daefb866eeea4c1d401b63-d_295x166",
+      "date": "2022-02-10T00:00:00",
+      "speakers": [
+        {
+          "name": "Jeremy Likness",
+          "slug": "jeremy-likness"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "graphql",
+          "slug": "graphql"
+        }
+      ]
+    },
+    {
+      "title": "Demystifying Helm",
+      "slug": "demystifying-helm",
+      "thumbnail": "https://i.vimeocdn.com/video/1377640812-e19bfb54d8ec0751b0ba9bcf7bc59ce6144d56d496591c9a9c52a88882ca4df2-d_295x166",
+      "date": "2022-01-25T00:00:00",
+      "speakers": [
+        {
+          "name": "Donovan Brown",
+          "slug": "donovan-brown"
+        }
+      ],
+      "tags": [
+        {
+          "name": "K8S",
+          "slug": "k8s"
+        },
+        {
+          "name": "Kubernetes",
+          "slug": "kubernetes"
+        },
+        {
+          "name": "Helm",
+          "slug": "helm"
+        }
+      ]
+    },
+    {
+      "title": "Minimal APIs with ASP.NET 6.0",
+      "slug": "minimal-apis-with-aspnet-60",
+      "thumbnail": "https://i.vimeocdn.com/video/1377563992-d64f308f4a27167c9d28e6da268ce790da728ea784a0f87e41ba41cdb790e1fc-d_295x166",
+      "date": "2022-01-13T00:00:00",
+      "speakers": [
+        {
+          "name": "Rob Richardson",
+          "slug": "rob-richardson"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "ASP.NET Core",
+          "slug": "asp-net-core"
+        },
+        {
+          "name": "API",
+          "slug": "api"
+        },
+        {
+          "name": "ASP.NET",
+          "slug": "asp-net"
+        },
+        {
+          "name": "Minimal API",
+          "slug": "minimal-api"
+        }
+      ]
+    },
     {
       "title": "Go Hybrid across Web, Desktop, & Mobile with Blazor & .NET MAUI",
       "slug": "go-hybrid-across-web-desktop-mobile-with-blazor-net-maui",

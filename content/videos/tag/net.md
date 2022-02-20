@@ -5,9 +5,45 @@
   ],
   "type": "tag",
   "slug": "net",
-  "date": "2021-12-09T00:00:00",
+  "date": "2022-02-10T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "GraphQL for .NET Developers",
+      "slug": "graphql-for-net-developers",
+      "thumbnail": "https://i.vimeocdn.com/video/1377640381-45c47366714f274966ea38cd4df0419d0eff2eae64daefb866eeea4c1d401b63-d_295x166",
+      "date": "2022-02-10T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Jeremy Likness",
+          "slug": "jeremy-likness"
+        }
+      ]
+    },
+    {
+      "title": "Minimal APIs with ASP.NET 6.0",
+      "slug": "minimal-apis-with-aspnet-60",
+      "thumbnail": "https://i.vimeocdn.com/video/1377563992-d64f308f4a27167c9d28e6da268ce790da728ea784a0f87e41ba41cdb790e1fc-d_295x166",
+      "date": "2022-01-13T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Rob Richardson",
+          "slug": "rob-richardson"
+        }
+      ]
+    },
     {
       "title": "Go Hybrid across Web, Desktop, & Mobile with Blazor & .NET MAUI",
       "slug": "go-hybrid-across-web-desktop-mobile-with-blazor-net-maui",

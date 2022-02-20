@@ -26,14 +26,14 @@
       "name": "Rob Richardson",
       "slug": "rob-richardson",
       "bio": "Rob Richardson is a software craftsman building web properties in ASP.NET and Node, React and Vue. He’s a Microsoft MVP, published author, frequent speaker at conferences, user groups, and community events, and a diligent teacher and student of high quality software development. You can find this and other talks on https://robrich.org/presentations and follow him on twitter at @rob_rich.",
-      "count": 1
+      "count": 2
     }
   ],
   "ugtvtags": [
     {
       "name": ".net",
       "slug": "net",
-      "count": 19
+      "count": 21
     },
     {
       "name": "Docker",
@@ -43,7 +43,7 @@
     {
       "name": "ASP.NET",
       "slug": "asp-net",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Containers",
@@ -55,7 +55,7 @@
     {
       "name": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "count": 31
+      "count": 34
     }
   ]
 }

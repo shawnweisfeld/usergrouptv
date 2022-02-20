@@ -30,7 +30,7 @@
     {
       "name": "ASP.NET Core",
       "slug": "asp-net-core",
-      "count": 7
+      "count": 8
     }
   ],
   "meetups": [

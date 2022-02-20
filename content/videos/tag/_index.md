@@ -1,15 +1,15 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2022-01-25T12:05:31.9225325Z",
+  "date": "2022-02-20T15:22:56.0742402Z",
   "draft": false,
   "ugtvtags": [
     {
       "title": ".net",
       "slug": "net",
-      "thumbnail": "https://i.vimeocdn.com/video/1335692469-6c7ef82a632dd37aefd552ee8e6080506eb1ad4537e12cf755b5640732df4e42-d_295x166",
-      "date": "2021-12-09T00:00:00",
-      "count": 19
+      "thumbnail": "https://i.vimeocdn.com/video/1377640381-45c47366714f274966ea38cd4df0419d0eff2eae64daefb866eeea4c1d401b63-d_295x166",
+      "date": "2022-02-10T00:00:00",
+      "count": 21
     },
     {
       "title": ".NET 6",
@@ -126,9 +126,9 @@
     {
       "title": "API",
       "slug": "api",
-      "thumbnail": "https://i.vimeocdn.com/video/1039951207-b9444ca759cc775617a805df0c47cb19fa8108d60132af32f46dab413e65c592-d_295x166",
-      "date": "2021-01-19T00:00:00",
-      "count": 4
+      "thumbnail": "https://i.vimeocdn.com/video/1377563992-d64f308f4a27167c9d28e6da268ce790da728ea784a0f87e41ba41cdb790e1fc-d_295x166",
+      "date": "2022-01-13T00:00:00",
+      "count": 5
     },
     {
       "title": "AR",
@@ -161,16 +161,16 @@
     {
       "title": "ASP.NET",
       "slug": "asp-net",
-      "thumbnail": "https://i.vimeocdn.com/video/1084436628-cf1cd522e911e86d334ee6e55811c42f94ad32bc29b6824774a54eec22a7b6f5-d_295x166",
-      "date": "2021-03-11T00:00:00",
-      "count": 9
+      "thumbnail": "https://i.vimeocdn.com/video/1377563992-d64f308f4a27167c9d28e6da268ce790da728ea784a0f87e41ba41cdb790e1fc-d_295x166",
+      "date": "2022-01-13T00:00:00",
+      "count": 10
     },
     {
       "title": "ASP.NET Core",
       "slug": "asp-net-core",
-      "thumbnail": "https://i.vimeocdn.com/video/1084436628-cf1cd522e911e86d334ee6e55811c42f94ad32bc29b6824774a54eec22a7b6f5-d_295x166",
-      "date": "2021-03-11T00:00:00",
-      "count": 7
+      "thumbnail": "https://i.vimeocdn.com/video/1377563992-d64f308f4a27167c9d28e6da268ce790da728ea784a0f87e41ba41cdb790e1fc-d_295x166",
+      "date": "2022-01-13T00:00:00",
+      "count": 8
     },
     {
       "title": "ASP.NET MVC",
@@ -238,9 +238,9 @@
     {
       "title": "Azure",
       "slug": "azure",
-      "thumbnail": "https://i.vimeocdn.com/video/1312906191-83ede5792114f057e6e2eceb13e30389367e8f44c5e17ce67_295x166",
-      "date": "2021-11-16T00:00:00",
-      "count": 43
+      "thumbnail": "https://i.vimeocdn.com/video/1377660771-40046bed4dcde719c1e20ac24a177c3e52ad04b71258f3045174c793b35af372-d_295x166",
+      "date": "2022-02-15T00:00:00",
+      "count": 44
     },
     {
       "title": "Azure AD",
@@ -782,6 +782,13 @@
       "count": 1
     },
     {
+      "title": "Data Mesh",
+      "slug": "data-mesh",
+      "thumbnail": "https://i.vimeocdn.com/video/1377660771-40046bed4dcde719c1e20ac24a177c3e52ad04b71258f3045174c793b35af372-d_295x166",
+      "date": "2022-02-15T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Data Profiling",
       "slug": "data-profiling",
       "thumbnail": "https://i.vimeocdn.com/video/488137582-1a27088ca3b7496a2a084b47e158a5361209ffecb6ee6afbbf1ded4d54c33b5d-d_295x166",
@@ -1223,6 +1230,13 @@
       "count": 1
     },
     {
+      "title": "graphql",
+      "slug": "graphql",
+      "thumbnail": "https://i.vimeocdn.com/video/1377640381-45c47366714f274966ea38cd4df0419d0eff2eae64daefb866eeea4c1d401b63-d_295x166",
+      "date": "2022-02-10T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Groovy",
       "slug": "groovy",
       "thumbnail": "https://i.vimeocdn.com/video/728993838-857e5760a49d1aad9b86b46f7b7b98843fc48374892ad73f54e4cdbaa967ba6e-d_295x166",
@@ -1249,6 +1263,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/641693171-de2e7980211b534b3401f1690e352102ef341cc0e83c7b6663c1684cfa7e315d-d_295x166",
       "date": "2017-06-17T14:12:15",
       "count": 2
+    },
+    {
+      "title": "Helm",
+      "slug": "helm",
+      "thumbnail": "https://i.vimeocdn.com/video/1377640812-e19bfb54d8ec0751b0ba9bcf7bc59ce6144d56d496591c9a9c52a88882ca4df2-d_295x166",
+      "date": "2022-01-25T00:00:00",
+      "count": 1
     },
     {
       "title": "HierarchyID",
@@ -1442,9 +1463,9 @@
     {
       "title": "K8S",
       "slug": "k8s",
-      "thumbnail": "https://i.vimeocdn.com/video/1312906191-83ede5792114f057e6e2eceb13e30389367e8f44c5e17ce67_295x166",
-      "date": "2021-11-16T00:00:00",
-      "count": 7
+      "thumbnail": "https://i.vimeocdn.com/video/1377640812-e19bfb54d8ec0751b0ba9bcf7bc59ce6144d56d496591c9a9c52a88882ca4df2-d_295x166",
+      "date": "2022-01-25T00:00:00",
+      "count": 8
     },
     {
       "title": "Kanban",
@@ -1484,9 +1505,9 @@
     {
       "title": "Kubernetes",
       "slug": "kubernetes",
-      "thumbnail": "https://i.vimeocdn.com/video/1096213728-508b724b1d90ded5cebe26340b1016d50ff605de83df2a8e0a5a9394515021bc-d_295x166",
-      "date": "2021-03-23T00:00:00",
-      "count": 2
+      "thumbnail": "https://i.vimeocdn.com/video/1377640812-e19bfb54d8ec0751b0ba9bcf7bc59ce6144d56d496591c9a9c52a88882ca4df2-d_295x166",
+      "date": "2022-01-25T00:00:00",
+      "count": 3
     },
     {
       "title": "Lambdas",
@@ -1731,6 +1752,13 @@
       "slug": "millennials",
       "thumbnail": "https://i.vimeocdn.com/video/650871904-ddac34afb547deaf15514eca48d612daa80ad1839d90bf32db8662067a2bc549-d_295x166",
       "date": "2017-08-06T16:00:41",
+      "count": 1
+    },
+    {
+      "title": "Minimal API",
+      "slug": "minimal-api",
+      "thumbnail": "https://i.vimeocdn.com/video/1377563992-d64f308f4a27167c9d28e6da268ce790da728ea784a0f87e41ba41cdb790e1fc-d_295x166",
+      "date": "2022-01-13T00:00:00",
       "count": 1
     },
     {
@@ -2520,16 +2548,16 @@
     {
       "title": "SQL",
       "slug": "sql",
-      "thumbnail": "https://i.vimeocdn.com/video/1195699085-faab9d9f165de121fc99ce499b423f95f96dc93a0fc2c1bf395e5c8d8742287f-d_295x166",
-      "date": "2021-07-20T00:00:00",
-      "count": 19
+      "thumbnail": "https://i.vimeocdn.com/video/1377662098-627e5b1c94379ad39710852c6c73e75472ede00ebd2a9f2ddc5cafc8f07ce95b-d_295x166",
+      "date": "2022-02-15T00:00:00",
+      "count": 20
     },
     {
       "title": "SQL Admin",
       "slug": "sql-admin",
-      "thumbnail": "https://i.vimeocdn.com/video/1195699085-faab9d9f165de121fc99ce499b423f95f96dc93a0fc2c1bf395e5c8d8742287f-d_295x166",
-      "date": "2021-07-20T00:00:00",
-      "count": 9
+      "thumbnail": "https://i.vimeocdn.com/video/1377662098-627e5b1c94379ad39710852c6c73e75472ede00ebd2a9f2ddc5cafc8f07ce95b-d_295x166",
+      "date": "2022-02-15T00:00:00",
+      "count": 10
     },
     {
       "title": "SQL AlwaysOn",
@@ -2740,6 +2768,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/854625067-7181f2ed4161ccaba476a757568fb14a2616a0ec3e624536c3ea2b3eb396c1b1-d_295x166",
       "date": "2020-02-08T16:19:15",
       "count": 9
+    },
+    {
+      "title": "SSMS",
+      "slug": "ssms",
+      "thumbnail": "https://i.vimeocdn.com/video/1377662098-627e5b1c94379ad39710852c6c73e75472ede00ebd2a9f2ddc5cafc8f07ce95b-d_295x166",
+      "date": "2022-02-15T00:00:00",
+      "count": 1
     },
     {
       "title": "SSRS",

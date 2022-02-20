@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2022-01-25T12:05:30.4005116Z",
+  "date": "2022-02-20T15:22:55.4509122Z",
   "draft": false,
   "speakers": [
     {
@@ -191,6 +191,13 @@
       "slug": "amit-banerjee",
       "thumbnail": "https://i.vimeocdn.com/video/980844918-beb054c71fc1d2c2e628d251ae8a0959a6192aecff06475077513364c59786d1-d_295x166",
       "date": "2020-10-20T00:00:00",
+      "count": 1
+    },
+    {
+      "title": "Amy Genender-Feltheimer",
+      "slug": "amy-genenderfeltheimer",
+      "thumbnail": "https://i.vimeocdn.com/video/1377660771-40046bed4dcde719c1e20ac24a177c3e52ad04b71258f3045174c793b35af372-d_295x166",
+      "date": "2022-02-15T00:00:00",
       "count": 1
     },
     {
@@ -1139,6 +1146,13 @@
       "count": 2
     },
     {
+      "title": "Donovan Brown",
+      "slug": "donovan-brown",
+      "thumbnail": "https://i.vimeocdn.com/video/1377640812-e19bfb54d8ec0751b0ba9bcf7bc59ce6144d56d496591c9a9c52a88882ca4df2-d_295x166",
+      "date": "2022-01-25T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Doug Deitel",
       "slug": "doug-deitel",
       "thumbnail": "https://i.vimeocdn.com/video/818415218-b26d2855b971bbd4a04829e420f48d073432b0b563dca62d67c42949f59432dd-d_295x166",
@@ -1822,6 +1836,13 @@
       "slug": "jeremy-jones",
       "thumbnail": "https://i.vimeocdn.com/video/660008423-a6f569be88b6311607afc13c4d12714bb6a2c0c79cc42598599fd8b59aaea956-d_295x166",
       "date": "2017-10-06T22:11:34",
+      "count": 1
+    },
+    {
+      "title": "Jeremy Likness",
+      "slug": "jeremy-likness",
+      "thumbnail": "https://i.vimeocdn.com/video/1377640381-45c47366714f274966ea38cd4df0419d0eff2eae64daefb866eeea4c1d401b63-d_295x166",
+      "date": "2022-02-10T00:00:00",
       "count": 1
     },
     {
@@ -2884,9 +2905,9 @@
     {
       "title": "Mike Burek",
       "slug": "mike-burek",
-      "thumbnail": "https://i.vimeocdn.com/video/1221979479-19a2b6ea9dab28d17b337d4abafac963787dbed61c0f857996f9c405135f2d56-d_295x166",
-      "date": "2021-08-17T00:00:00",
-      "count": 7
+      "thumbnail": "https://i.vimeocdn.com/video/1377662098-627e5b1c94379ad39710852c6c73e75472ede00ebd2a9f2ddc5cafc8f07ce95b-d_295x166",
+      "date": "2022-02-15T00:00:00",
+      "count": 8
     },
     {
       "title": "Mike Byrd",
@@ -3353,9 +3374,9 @@
     {
       "title": "Rob Richardson",
       "slug": "rob-richardson",
-      "thumbnail": "https://i.vimeocdn.com/video/1073474480-924e43a4e7b9c125bfc4b2c95b0514ee4be9eb5ca903a790b5289dacabaa1278-d_295x166",
-      "date": "2021-02-23T00:00:00",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1377563992-d64f308f4a27167c9d28e6da268ce790da728ea784a0f87e41ba41cdb790e1fc-d_295x166",
+      "date": "2022-01-13T00:00:00",
+      "count": 2
     },
     {
       "title": "Rob Sullivan",

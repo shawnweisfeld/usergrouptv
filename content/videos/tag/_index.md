@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2022-02-20T15:22:56.0742402Z",
+  "date": "2022-03-13T13:33:35.1558734Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -735,8 +735,15 @@
     {
       "title": "Cyber Security",
       "slug": "cyber-security",
-      "thumbnail": "https://i.vimeocdn.com/video/779161150-95ae2db902e5fe423cae57305b51dbc65d1e559e392b6945f03dffe23c3a4820-d_295x166",
-      "date": "2019-04-27T13:47:42",
+      "thumbnail": "https://i.vimeocdn.com/video/1393024084-ca25a22f0df6885bb8f34df945284203ac499c2d129412f94c08e33b8013666f-d_295x166",
+      "date": "2022-03-10T00:00:00",
+      "count": 2
+    },
+    {
+      "title": "Cybersecurity",
+      "slug": "cybersecurity",
+      "thumbnail": "https://i.vimeocdn.com/video/1393024084-ca25a22f0df6885bb8f34df945284203ac499c2d129412f94c08e33b8013666f-d_295x166",
+      "date": "2022-03-10T00:00:00",
       "count": 1
     },
     {
@@ -2128,9 +2135,9 @@
     {
       "title": "Power BI",
       "slug": "power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1325602023-9e62b3169d7478277712a0f7e335b6a98432552b03549aa886461edca49d5930-d_295x166",
-      "date": "2021-12-08T00:00:00",
-      "count": 30
+      "thumbnail": "https://i.vimeocdn.com/video/1393024279-7cd235758cc7673be0ebd3ebe351c99efddc7699af46e4e6c0be4e3bb4ec5495-d_295x166",
+      "date": "2022-03-09T00:00:00",
+      "count": 31
     },
     {
       "title": "Power Map",
@@ -2177,9 +2184,9 @@
     {
       "title": "PowerBI",
       "slug": "powerbi",
-      "thumbnail": "https://i.vimeocdn.com/video/1325602023-9e62b3169d7478277712a0f7e335b6a98432552b03549aa886461edca49d5930-d_295x166",
-      "date": "2021-12-08T00:00:00",
-      "count": 7
+      "thumbnail": "https://i.vimeocdn.com/video/1393024279-7cd235758cc7673be0ebd3ebe351c99efddc7699af46e4e6c0be4e3bb4ec5495-d_295x166",
+      "date": "2022-03-09T00:00:00",
+      "count": 8
     },
     {
       "title": "PowerShell",
@@ -2401,9 +2408,9 @@
     {
       "title": "Security",
       "slug": "security",
-      "thumbnail": "https://i.vimeocdn.com/video/732129823-f61484a6d921e2f2f349b1028c4f930d3dac320804c7916d88e7852189f287a7-d_295x166",
-      "date": "2018-10-13T14:13:25",
-      "count": 5
+      "thumbnail": "https://i.vimeocdn.com/video/1393024084-ca25a22f0df6885bb8f34df945284203ac499c2d129412f94c08e33b8013666f-d_295x166",
+      "date": "2022-03-10T00:00:00",
+      "count": 6
     },
     {
       "title": "Selenium",
@@ -2901,6 +2908,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/586639846-7ec102c8330ad2d5cfbcfe41e5003ae03942399a584809c03b45120266739731-d_295x166",
       "date": "2016-08-05T14:43:07",
       "count": 5
+    },
+    {
+      "title": "Threat Modeling",
+      "slug": "threat-modeling",
+      "thumbnail": "https://i.vimeocdn.com/video/1393024084-ca25a22f0df6885bb8f34df945284203ac499c2d129412f94c08e33b8013666f-d_295x166",
+      "date": "2022-03-10T00:00:00",
+      "count": 1
     },
     {
       "title": "tools",

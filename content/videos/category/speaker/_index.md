@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2022-02-20T15:22:55.4509122Z",
+  "date": "2022-03-13T13:33:34.5316913Z",
   "draft": false,
   "speakers": [
     {
@@ -3421,6 +3421,13 @@
       "count": 2
     },
     {
+      "title": "Robert Hurlbut",
+      "slug": "robert-hurlbut",
+      "thumbnail": "https://i.vimeocdn.com/video/1393024084-ca25a22f0df6885bb8f34df945284203ac499c2d129412f94c08e33b8013666f-d_295x166",
+      "date": "2022-03-10T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Robert Jacobi",
       "slug": "robert-jacobi",
       "thumbnail": "https://i.vimeocdn.com/video/818415610-3d7a06e32d3654ac8e91f610f2ead2dab8867703b2378a6905305c881ae8fc5d-d_295x166",
@@ -4013,6 +4020,13 @@
       "slug": "tessa-snodgrass",
       "thumbnail": "https://i.vimeocdn.com/video/818417695-5109b25125b037c006d2a8e16fd7913df861167b07864551320f674c53c45d34-d_295x166",
       "date": "2019-09-28T16:57:50",
+      "count": 1
+    },
+    {
+      "title": "Thomas Ivarsson",
+      "slug": "thomas-ivarsson",
+      "thumbnail": "https://i.vimeocdn.com/video/1393024279-7cd235758cc7673be0ebd3ebe351c99efddc7699af46e4e6c0be4e3bb4ec5495-d_295x166",
+      "date": "2022-03-09T00:00:00",
       "count": 1
     },
     {

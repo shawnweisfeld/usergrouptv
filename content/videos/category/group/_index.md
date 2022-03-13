@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2022-02-20T15:22:56.4255282Z",
+  "date": "2022-03-13T13:33:35.627688Z",
   "draft": false,
   "meetups": [
     {
@@ -112,9 +112,9 @@
     {
       "title": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1325602023-9e62b3169d7478277712a0f7e335b6a98432552b03549aa886461edca49d5930-d_295x166",
-      "date": "2021-12-08T00:00:00",
-      "count": 27
+      "thumbnail": "https://i.vimeocdn.com/video/1393024279-7cd235758cc7673be0ebd3ebe351c99efddc7699af46e4e6c0be4e3bb4ec5495-d_295x166",
+      "date": "2022-03-09T00:00:00",
+      "count": 28
     },
     {
       "title": "Austin SQL Saturday",
@@ -441,9 +441,9 @@
     {
       "title": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1377640381-45c47366714f274966ea38cd4df0419d0eff2eae64daefb866eeea4c1d401b63-d_295x166",
-      "date": "2022-02-10T00:00:00",
-      "count": 34
+      "thumbnail": "https://i.vimeocdn.com/video/1393024084-ca25a22f0df6885bb8f34df945284203ac499c2d129412f94c08e33b8013666f-d_295x166",
+      "date": "2022-03-10T00:00:00",
+      "count": 35
     },
     {
       "title": "Tulsa School of Dev",

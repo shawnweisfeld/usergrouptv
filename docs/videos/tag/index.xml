@@ -6,7 +6,61 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Feb 2022 15:22:56 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Mar 2022 13:33:35 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyber Security</title>
+      <link>https://usergroup.tv/videos/tag/cyber-security/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/cyber-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cybersecurity</title>
+      <link>https://usergroup.tv/videos/tag/cybersecurity/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/cybersecurity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://usergroup.tv/videos/tag/security/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Threat Modeling</title>
+      <link>https://usergroup.tv/videos/tag/threat-modeling/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/threat-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>https://usergroup.tv/videos/tag/power-bi/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PowerBI</title>
+      <link>https://usergroup.tv/videos/tag/powerbi/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/powerbi/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Azure</title>
       <link>https://usergroup.tv/videos/tag/azure/</link>
@@ -175,24 +229,6 @@
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/neo4j/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power BI</title>
-      <link>https://usergroup.tv/videos/tag/power-bi/</link>
-      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PowerBI</title>
-      <link>https://usergroup.tv/videos/tag/powerbi/</link>
-      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/powerbi/</guid>
       <description></description>
     </item>
     
@@ -1088,15 +1124,6 @@
     </item>
     
     <item>
-      <title>Cyber Security</title>
-      <link>https://usergroup.tv/videos/tag/cyber-security/</link>
-      <pubDate>Sat, 27 Apr 2019 13:47:42 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/cyber-security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ACI</title>
       <link>https://usergroup.tv/videos/tag/aci/</link>
       <pubDate>Sat, 27 Apr 2019 13:45:58 +0000</pubDate>
@@ -1183,15 +1210,6 @@
       <pubDate>Sat, 13 Oct 2018 14:14:30 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/authentication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Security</title>
-      <link>https://usergroup.tv/videos/tag/security/</link>
-      <pubDate>Sat, 13 Oct 2018 14:13:25 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/security/</guid>
       <description></description>
     </item>
     

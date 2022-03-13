@@ -6,7 +6,25 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Feb 2022 15:22:54 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Mar 2022 13:33:33 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>User-Story Driven Threat Modeling</title>
+      <link>https://usergroup.tv/videos/userstory-driven-threat-modeling/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/userstory-driven-threat-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Modeling Best Practices</title>
+      <link>https://usergroup.tv/videos/data-modeling-best-practices/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/data-modeling-best-practices/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Landing Zones for Data and the Data Mesh Architecture</title>
       <link>https://usergroup.tv/videos/landing-zones-for-data-and-the-data-mesh-architecture/</link>

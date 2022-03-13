@@ -3,19 +3,88 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2022-02-20T15:22:56+00:00</lastmod>
+    <lastmod>2022-03-13T13:33:35+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2022-02-20T15:22:56+00:00</lastmod>
+    <lastmod>2022-03-13T13:33:35+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2022-02-20T15:22:55+00:00</lastmod>
+    <lastmod>2022-03-13T13:33:34+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2022-02-20T15:22:54+00:00</lastmod>
+    <lastmod>2022-03-13T13:33:33+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2022-02-20T15:22:54+00:00</lastmod>
+    <lastmod>2022-03-13T13:33:33+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/cyber-security/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/cyber-security/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/cybersecurity/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/cybersecurity/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/robert-hurlbut/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/robert-hurlbut/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/security/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/security/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/threat-modeling/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/threat-modeling/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/userstory-driven-threat-modeling/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
+    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
+    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/data-modeling-best-practices/</loc>
+    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/power-bi/</loc>
+    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/power-bi/</loc>
+    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/powerbi/</loc>
+    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/powerbi/</loc>
+    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/thomas-ivarsson/</loc>
+    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/thomas-ivarsson/</loc>
+    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/amy-genender-feltheimer/</loc>
     <lastmod>2022-02-15T00:00:00+00:00</lastmod>
@@ -89,9 +158,6 @@
     <loc>https://usergroup.tv/videos/ssms-tips-and-tricks/</loc>
     <lastmod>2022-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/.net/</loc>
     <lastmod>2022-02-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -111,12 +177,6 @@
     <lastmod>2022-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/jeremy-likness/</loc>
-    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
-    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
     <lastmod>2022-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/demystifying-helm/</loc>
@@ -221,12 +281,6 @@
     <loc>https://usergroup.tv/videos/tag/maui/</loc>
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
-    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
-    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/bryant-avey/</loc>
     <lastmod>2021-12-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -240,18 +294,6 @@
     <lastmod>2021-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/patterndriven-insight-integrating-neo4j-with-power-bi/</loc>
-    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/power-bi/</loc>
-    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/power-bi/</loc>
-    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/powerbi/</loc>
-    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/powerbi/</loc>
     <lastmod>2021-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/.net-6/</loc>
@@ -2297,12 +2339,6 @@
     <loc>https://usergroup.tv/videos/category/speaker/adam-berguem/</loc>
     <lastmod>2019-04-27T13:47:42+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/cyber-security/</loc>
-    <lastmod>2019-04-27T13:47:42+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/cyber-security/</loc>
-    <lastmod>2019-04-27T13:47:42+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/videos/cyber-security-adapt-or-die/</loc>
     <lastmod>2019-04-27T13:47:42+00:00</lastmod>
   </url><url>
@@ -2604,12 +2640,6 @@
     <lastmod>2018-10-13T14:14:30+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/im-pwned-youre-pwned-were-all-pwned/</loc>
-    <lastmod>2018-10-13T14:13:25+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/security/</loc>
-    <lastmod>2018-10-13T14:13:25+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/security/</loc>
     <lastmod>2018-10-13T14:13:25+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/troy-hunt/</loc>

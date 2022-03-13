@@ -6,7 +6,115 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Feb 2022 15:22:54 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Mar 2022 13:33:33 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyber Security</title>
+      <link>https://usergroup.tv/videos/tag/cyber-security/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/cyber-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cybersecurity</title>
+      <link>https://usergroup.tv/videos/tag/cybersecurity/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/cybersecurity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Hurlbut</title>
+      <link>https://usergroup.tv/videos/category/speaker/robert-hurlbut/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/robert-hurlbut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://usergroup.tv/videos/tag/security/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Threat Modeling</title>
+      <link>https://usergroup.tv/videos/tag/threat-modeling/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/threat-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User-Story Driven Threat Modeling</title>
+      <link>https://usergroup.tv/videos/userstory-driven-threat-modeling/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/userstory-driven-threat-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Austin Power BI User Group</title>
+      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Modeling Best Practices</title>
+      <link>https://usergroup.tv/videos/data-modeling-best-practices/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/data-modeling-best-practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>https://usergroup.tv/videos/tag/power-bi/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PowerBI</title>
+      <link>https://usergroup.tv/videos/tag/powerbi/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/powerbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Ivarsson</title>
+      <link>https://usergroup.tv/videos/category/speaker/thomas-ivarsson/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/thomas-ivarsson/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Amy Genender-Feltheimer</title>
       <link>https://usergroup.tv/videos/category/speaker/amy-genenderfeltheimer/</link>
@@ -157,15 +265,6 @@
       <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/jeremy-likness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
-      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
       <description></description>
     </item>
     
@@ -341,15 +440,6 @@
     </item>
     
     <item>
-      <title>Austin Power BI User Group</title>
-      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
-      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Bryant Avey</title>
       <link>https://usergroup.tv/videos/category/speaker/bryant-avey/</link>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
@@ -373,24 +463,6 @@
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/patterndriven-insight-integrating-neo4j-with-power-bi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power BI</title>
-      <link>https://usergroup.tv/videos/tag/power-bi/</link>
-      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PowerBI</title>
-      <link>https://usergroup.tv/videos/tag/powerbi/</link>
-      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/powerbi/</guid>
       <description></description>
     </item>
     
@@ -4259,15 +4331,6 @@ What do we use your information for?</description>
     </item>
     
     <item>
-      <title>Cyber Security</title>
-      <link>https://usergroup.tv/videos/tag/cyber-security/</link>
-      <pubDate>Sat, 27 Apr 2019 13:47:42 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/cyber-security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cyber Security - Adapt or Die</title>
       <link>https://usergroup.tv/videos/cyber-security-adapt-or-die/</link>
       <pubDate>Sat, 27 Apr 2019 13:47:42 +0000</pubDate>
@@ -4876,15 +4939,6 @@ What do we use your information for?</description>
       <pubDate>Sat, 13 Oct 2018 14:13:25 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/im-pwned-youre-pwned-were-all-pwned/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Security</title>
-      <link>https://usergroup.tv/videos/tag/security/</link>
-      <pubDate>Sat, 13 Oct 2018 14:13:25 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/security/</guid>
       <description></description>
     </item>
     

@@ -36,7 +36,7 @@
     {
       "name": "Cyber Security",
       "slug": "cyber-security",
-      "count": 1
+      "count": 2
     }
   ],
   "meetups": [

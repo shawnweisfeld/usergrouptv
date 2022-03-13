@@ -27717,4 +27717,66 @@ Come learn some new techniques to work faster and share any of your own tips.</E
       <slug>ssms</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Data Modeling Best Practices</Title>
+    <Url>https://usergroup.tv/videos/data-modeling-best-practices/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1393024279-7cd235758cc7673be0ebd3ebe351c99efddc7699af46e4e6c0be4e3bb4ec5495-d_295x166</Thumbnail>
+    <Excerpt>The session will include the following topics: The first normal form of a table (The Key), Too many tables (Conformed Dimensions), Star Schema or Single Table Dump, Granularities of columns in fact and dimension tables, Many to many relationships, Data type issues (Int for keys, be careful with strings), Data transformations in DAX</Excerpt>
+    <PostDate>2022-03-09T00:00:00</PostDate>
+    <Id>1103</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/687524371/rendition/1080p?loc=external&amp;oauth2_token_id=20985841&amp;signature=027eb2f90b97a4295c59081a7954f7406d4cf27d64e2293d8eec0253a769c51a</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/687524371/rendition/360p?loc=external&amp;oauth2_token_id=20985841&amp;signature=79b0485b28f7c732b4272bc15ffba29d6ae87153c47456d568a9094f12fa68bb</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Thomas Ivarsson</name>
+      <slug>thomas-ivarsson</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>PowerBI</name>
+      <slug>powerbi</slug>
+    </Tags>
+    <Tags>
+      <name>Power BI</name>
+      <slug>power-bi</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>User-Story Driven Threat Modeling</Title>
+    <Url>https://usergroup.tv/videos/userstory-driven-threat-modeling/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1393024084-ca25a22f0df6885bb8f34df945284203ac499c2d129412f94c08e33b8013666f-d_295x166</Thumbnail>
+    <Excerpt>Threat modeling is a way of thinking about what could go wrong and how to prevent it. When it comes to building software, some software shops either skip the important step of threat modeling in secure software design or, they have tried threat modeling before but haven't quite figured out how to connect the threat models to real world software development and its priorities. Threat modeling should be part of your secure software design process. In this session we will look at some of the latest advances in threat modeling integrated with Agile Development processes by using User Stories and Abuser Stories. This process is iterative and meant to keep in step with Agile Development and/or DevOps practices. By enumerating threats against User Stories / Abuser Stories, you are not threat modeling an entire/massive system, but going granular by enumerating threats against relevant user stories. Finally, you will see how this process facilitates the creation of multiple segues into Security Test Cases and Mitigation Plans. You will also see how this process works with an automated approach to security test cases.</Excerpt>
+    <PostDate>2022-03-10T00:00:00</PostDate>
+    <Id>1104</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/687524899/rendition/1080p?loc=external&amp;oauth2_token_id=20985841&amp;signature=0bec12bda5336a884ea6243912a6bbcc8b9b88a47f3b7e180545e060347d00f8</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/687524899/rendition/360p?loc=external&amp;oauth2_token_id=20985841&amp;signature=e1747ca9b6992f46491fa772a2b2dfd35501aa55603b9dd8de7c176067677d98</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Robert Hurlbut</name>
+      <slug>robert-hurlbut</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Security</name>
+      <slug>security</slug>
+    </Tags>
+    <Tags>
+      <name>Cyber Security</name>
+      <slug>cyber-security</slug>
+    </Tags>
+    <Tags>
+      <name>Threat Modeling</name>
+      <slug>threat-modeling</slug>
+    </Tags>
+    <Tags>
+      <name>Cybersecurity</name>
+      <slug>cybersecurity</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

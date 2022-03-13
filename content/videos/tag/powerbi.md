@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "powerbi",
-  "date": "2021-12-08T00:00:00",
+  "date": "2022-03-09T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Data Modeling Best Practices",
+      "slug": "data-modeling-best-practices",
+      "thumbnail": "https://i.vimeocdn.com/video/1393024279-7cd235758cc7673be0ebd3ebe351c99efddc7699af46e4e6c0be4e3bb4ec5495-d_295x166",
+      "date": "2022-03-09T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Thomas Ivarsson",
+          "slug": "thomas-ivarsson"
+        }
+      ]
+    },
     {
       "title": "Pattern-Driven Insight: Integrating Neo4j with Power BI",
       "slug": "patterndriven-insight-integrating-neo4j-with-power-bi",

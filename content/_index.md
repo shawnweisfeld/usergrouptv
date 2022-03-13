@@ -1,12 +1,76 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2022-02-20T15:22:54.8529149Z",
+  "date": "2022-03-13T13:33:33.2455457Z",
   "draft": false,
-  "recordingCount": "1,096",
-  "speakerCount": "616",
+  "recordingCount": "1,098",
+  "speakerCount": "618",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "User-Story Driven Threat Modeling",
+      "slug": "userstory-driven-threat-modeling",
+      "thumbnail": "https://i.vimeocdn.com/video/1393024084-ca25a22f0df6885bb8f34df945284203ac499c2d129412f94c08e33b8013666f-d_295x166",
+      "date": "2022-03-10T00:00:00",
+      "speakers": [
+        {
+          "name": "Robert Hurlbut",
+          "slug": "robert-hurlbut"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Security",
+          "slug": "security"
+        },
+        {
+          "name": "Cyber Security",
+          "slug": "cyber-security"
+        },
+        {
+          "name": "Threat Modeling",
+          "slug": "threat-modeling"
+        },
+        {
+          "name": "Cybersecurity",
+          "slug": "cybersecurity"
+        }
+      ]
+    },
+    {
+      "title": "Data Modeling Best Practices",
+      "slug": "data-modeling-best-practices",
+      "thumbnail": "https://i.vimeocdn.com/video/1393024279-7cd235758cc7673be0ebd3ebe351c99efddc7699af46e4e6c0be4e3bb4ec5495-d_295x166",
+      "date": "2022-03-09T00:00:00",
+      "speakers": [
+        {
+          "name": "Thomas Ivarsson",
+          "slug": "thomas-ivarsson"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "PowerBI",
+          "slug": "powerbi"
+        },
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "Landing Zones for Data and the Data Mesh Architecture",
       "slug": "landing-zones-for-data-and-the-data-mesh-architecture",
@@ -504,78 +568,6 @@
         {
           "name": "Deneb",
           "slug": "deneb"
-        }
-      ]
-    },
-    {
-      "title": "Dungeons, Dragons, and Graph Databases",
-      "slug": "dungeons-dragons-and-graph-databases",
-      "thumbnail": "https://i.vimeocdn.com/video/1226770946-dfe5cd10ecb6a7c35fc8345a83b111c8397c4f787205c7b8d7f9cb56beae1da1-d_295x166",
-      "date": "2021-08-24T00:00:00",
-      "speakers": [
-        {
-          "name": "Guy Royse",
-          "slug": "guy-royse"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Graph Databases",
-          "slug": "graph-databases"
-        },
-        {
-          "name": "Redis",
-          "slug": "redis"
-        },
-        {
-          "name": "graph",
-          "slug": "graph"
-        },
-        {
-          "name": "graphdb",
-          "slug": "graphdb"
-        }
-      ]
-    },
-    {
-      "title": "Messaging Without Servers",
-      "slug": "messaging-without-servers",
-      "thumbnail": "https://i.vimeocdn.com/video/1221979247-6af76a5dab398cd4f0b94fc3c3311c431c94f14bd3de34f755b2b4a1341c9fd4-d_295x166",
-      "date": "2021-08-17T00:00:00",
-      "speakers": [
-        {
-          "name": "Simon Timms",
-          "slug": "simon-timms"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        },
-        {
-          "name": "DFW Azure User Group",
-          "slug": "dfw-azure-user-group"
-        },
-        {
-          "name": "Azure User Group - Houston",
-          "slug": "azure-user-group-houston"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Messaging",
-          "slug": "messaging"
-        },
-        {
-          "name": "Azure Service Bus",
-          "slug": "azure-service-bus"
         }
       ]
     }

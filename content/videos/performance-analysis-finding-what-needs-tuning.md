@@ -36,7 +36,7 @@
     {
       "name": "Tuning",
       "slug": "tuning",
-      "count": 1
+      "count": 2
     }
   ],
   "meetups": [

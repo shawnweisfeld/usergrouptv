@@ -5,9 +5,27 @@
     "Azure User Group - Houston"
   ],
   "slug": "azure-user-group-houston",
-  "date": "2022-02-15T00:00:00",
+  "date": "2022-03-15T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Why terraform and what it could do for you",
+      "slug": "why-terraform-and-what-it-could-do-for-you",
+      "thumbnail": "https://i.vimeocdn.com/video/1398143997-60827ebebc961b757a21213cba0e3528d812a8ca6e91f05355fe0bfb51d69f98-d_295x166",
+      "date": "2022-03-15T00:00:00",
+      "speakers": [
+        {
+          "name": "Adam Whitlatch",
+          "slug": "adam-whitlatch"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Terraform",
+          "slug": "terraform"
+        }
+      ]
+    },
     {
       "title": "Landing Zones for Data and the Data Mesh Architecture",
       "slug": "landing-zones-for-data-and-the-data-mesh-architecture",

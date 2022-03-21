@@ -23,7 +23,7 @@
       "name": "Adam Whitlatch",
       "slug": "adam-whitlatch",
       "bio": "Adam Whitlatch is a Microsoft Principal Cloud Solution Architect, based in Phoenix, AZ. His key areas of technical specialty are Virtual Desktop, Infrastructure Core Enablement, and Hybrid cloud strategy. Adam has held roles in Infrastructure Architecture/Engineering across Financial, Retail, Banking, Education, and Pharmaceutical industries for the past 20 years. Early on in his career Adam embraced and championed Virtualization technologies including applications, and Desktops which propelled his career. Adam provides strong technical depth & business architecture which results in impactful solutions for cloud implementations.",
-      "count": 1
+      "count": 2
     }
   ],
   "ugtvtags": [
@@ -37,12 +37,12 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 55
+      "count": 56
     },
     {
       "name": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "count": 18
+      "count": 19
     }
   ]
 }

@@ -33,7 +33,7 @@
     {
       "name": "SQL",
       "slug": "sql",
-      "count": 20
+      "count": 21
     },
     {
       "name": "Azure",
@@ -55,17 +55,17 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 55
+      "count": 56
     },
     {
       "name": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "count": 76
+      "count": 77
     },
     {
       "name": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "count": 18
+      "count": 19
     }
   ]
 }

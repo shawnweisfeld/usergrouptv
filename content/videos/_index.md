@@ -1,12 +1,72 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2022-03-13T13:33:33.2455457Z",
+  "date": "2022-03-21T12:42:16.2401142Z",
   "draft": false,
-  "recordingCount": "1,098",
+  "recordingCount": "1,100",
   "speakerCount": "618",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Prove Your Query Tuning Works",
+      "slug": "prove-your-query-tuning-works",
+      "thumbnail": "https://i.vimeocdn.com/video/1398143331-e5ad101fa081373f99522c3c8c55850989a9771aa1b1a28cb2be45f2e1c72fcd-d_295x166",
+      "date": "2022-03-15T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Burek",
+          "slug": "mike-burek"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        },
+        {
+          "name": "Tuning",
+          "slug": "tuning"
+        }
+      ]
+    },
+    {
+      "title": "Why terraform and what it could do for you",
+      "slug": "why-terraform-and-what-it-could-do-for-you",
+      "thumbnail": "https://i.vimeocdn.com/video/1398143997-60827ebebc961b757a21213cba0e3528d812a8ca6e91f05355fe0bfb51d69f98-d_295x166",
+      "date": "2022-03-15T00:00:00",
+      "speakers": [
+        {
+          "name": "Adam Whitlatch",
+          "slug": "adam-whitlatch"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        },
+        {
+          "name": "Azure User Group - Houston",
+          "slug": "azure-user-group-houston"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Terraform",
+          "slug": "terraform"
+        }
+      ]
+    },
     {
       "title": "User-Story Driven Threat Modeling",
       "slug": "userstory-driven-threat-modeling",
@@ -500,74 +560,6 @@
         {
           "name": "dax",
           "slug": "dax"
-        }
-      ]
-    },
-    {
-      "title": "PostgreSQL in Azure",
-      "slug": "postgresql-in-azure",
-      "thumbnail": "https://i.vimeocdn.com/video/1252837860-b41171cfc1a91f4cfb91fc1689b2ae9d9035de57bcc8fc0c5_295x166",
-      "date": "2021-09-21T00:00:00",
-      "speakers": [
-        {
-          "name": "Mark Moore",
-          "slug": "mark-moore"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        },
-        {
-          "name": "DFW Azure User Group",
-          "slug": "dfw-azure-user-group"
-        },
-        {
-          "name": "Azure User Group - Houston",
-          "slug": "azure-user-group-houston"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Azure",
-          "slug": "azure"
-        },
-        {
-          "name": "PostgreSQL",
-          "slug": "postgresql"
-        }
-      ]
-    },
-    {
-      "title": "Deneb",
-      "slug": "deneb",
-      "thumbnail": "https://i.vimeocdn.com/video/1240211628-1fca59ed399529bb1e6953d73a422719cfd5a4b9813d5dd1d6f16a64c61fb289-d_295x166",
-      "date": "2021-09-08T00:00:00",
-      "speakers": [
-        {
-          "name": "Daniel Marsh-Patrick",
-          "slug": "daniel-marshpatrick"
-        },
-        {
-          "name": "Kerry Kolosko",
-          "slug": "kerry-kolosko"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Power BI",
-          "slug": "power-bi"
-        },
-        {
-          "name": "Deneb",
-          "slug": "deneb"
         }
       ]
     }

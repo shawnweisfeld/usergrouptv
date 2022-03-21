@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "sql",
-  "date": "2022-02-15T00:00:00",
+  "date": "2022-03-15T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Prove Your Query Tuning Works",
+      "slug": "prove-your-query-tuning-works",
+      "thumbnail": "https://i.vimeocdn.com/video/1398143331-e5ad101fa081373f99522c3c8c55850989a9771aa1b1a28cb2be45f2e1c72fcd-d_295x166",
+      "date": "2022-03-15T00:00:00",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Mike Burek",
+          "slug": "mike-burek"
+        }
+      ]
+    },
     {
       "title": "SSMS Tips and Tricks",
       "slug": "ssms-tips-and-tricks",

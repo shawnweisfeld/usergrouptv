@@ -27779,4 +27779,69 @@ Come learn some new techniques to work faster and share any of your own tips.</E
       <slug>cybersecurity</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Prove Your Query Tuning Works</Title>
+    <Url>https://usergroup.tv/videos/prove-your-query-tuning-works/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1398143331-e5ad101fa081373f99522c3c8c55850989a9771aa1b1a28cb2be45f2e1c72fcd-d_295x166</Thumbnail>
+    <Excerpt>When you tune a query, you want to be able to prove your tuning helped. We'll be going over how to prove what difference was made and how to present it, especially for presenting to others who are not at the same skill level or are in other departments.
+
+You want to highlight what changed, with numbers to prove it was a good change, along with something graphical to help illustrate the benefits.
+
+We'll go over the workflow I use to present the query tuning.
+The tools used are SSMS, execution plans, query statistics, screen capture, StatisticsParser, Query Store, and Word.
+
+(Not going over workload tools like distributed replay, test instances, or scripts to rerun workloads)</Excerpt>
+    <PostDate>2022-03-15T00:00:00</PostDate>
+    <Id>1105</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/690487812/rendition/1080p?loc=external&amp;oauth2_token_id=20985841&amp;signature=77138cdcbbda009a5872ce4236293751bb233082ebbd654d27dea945d664b518</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/690487812/rendition/540p?loc=external&amp;oauth2_token_id=20985841&amp;signature=99fe8347d2f10665db06da0bed120d3547c413a42b7f24cb7fee8d8de9d6285b</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Mike Burek</name>
+      <slug>mike-burek</slug>
+    </Speakers>
+    <Groups>
+      <name>Capitol Area Central Texas Users of SQL Server</name>
+      <slug>capitol-area-central-texas-users-of-sql-server</slug>
+    </Groups>
+    <Tags>
+      <name>SQL</name>
+      <slug>sql</slug>
+    </Tags>
+    <Tags>
+      <name>Tuning</name>
+      <slug>tuning</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Why terraform and what it could do for you</Title>
+    <Url>https://usergroup.tv/videos/why-terraform-and-what-it-could-do-for-you/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1398143997-60827ebebc961b757a21213cba0e3528d812a8ca6e91f05355fe0bfb51d69f98-d_295x166</Thumbnail>
+    <Excerpt>Why terraform and what it could do for you</Excerpt>
+    <PostDate>2022-03-15T00:00:00</PostDate>
+    <Id>1106</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/690487535/rendition/720p?loc=external&amp;oauth2_token_id=20985841&amp;signature=9680a2c4e3f9aaf142d9ad9e1becbcda6c55b2241091e300177ea042cd284b75</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/690487535/rendition/240p?loc=external&amp;oauth2_token_id=20985841&amp;signature=263688321547748acc008575e432dd5e4c54068605f21a195fde39c60a5704c6</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Adam Whitlatch</name>
+      <slug>adam-whitlatch</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
+    <Groups>
+      <name>Azure User Group - Houston</name>
+      <slug>azure-user-group-houston</slug>
+    </Groups>
+    <Tags>
+      <name>Terraform</name>
+      <slug>terraform</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

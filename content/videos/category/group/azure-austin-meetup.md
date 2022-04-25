@@ -11,7 +11,7 @@
     {
       "title": "Overview of Azure Storage",
       "slug": "overview-of-azure-storage",
-      "thumbnail": "https://i.vimeocdn.com/video/1419976806-924a7d42b34209c8c66c7f987cfb0da819a5ef4e67d4aba05ba85b3b70cfd781-d_295x166",
+      "thumbnail": "https://i.vimeocdn.com/video/1420132300-0d9b6375c1283e975d9f6bb581fccdf1b5d72123204b1b9658b19b53bb7be7b7-d_295x166",
       "date": "2022-04-19T00:00:00",
       "speakers": [
         {

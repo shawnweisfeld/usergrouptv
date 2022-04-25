@@ -11,13 +11,13 @@
   "abstract": "Join Sr. Program Manager Shawn Weisfeld from the Azure Storage team for tour of Azure Storage. The Azure Storage platform is Microsoft's cloud storage solution for modern data storage scenarios. Azure Storage offers highly available, massively scalable, durable, and secure storage for a variety of data objects in the cloud, including object, file, disk, queue, and table storage. In this session learn about your storage options in Azure.",
   "description": "Join Sr. Program Manager Shawn Weisfeld from the Azure Storage team for tour of Azure Storage. The Azure Storage platform is Microsoft's cloud storage solution for modern data storage scenarios. Azure Storage offers highly available, massively scalable, durable, and secure storage for a variety of data objects in the cloud, including object, file, disk, queue, and table storage. In this session learn about your storage options in Azure.",
   "images": [
-    "https://i.vimeocdn.com/video/1419976806-924a7d42b34209c8c66c7f987cfb0da819a5ef4e67d4aba05ba85b3b70cfd781-d_295x166"
+    "https://i.vimeocdn.com/video/1420132300-0d9b6375c1283e975d9f6bb581fccdf1b5d72123204b1b9658b19b53bb7be7b7-d_295x166"
   ],
   "vimeo": "702843095",
   "moreinfo": "https://www.meetup.com/azureaustin/events/284808197/",
-  "thumbnail": "https://i.vimeocdn.com/video/1419976806-924a7d42b34209c8c66c7f987cfb0da819a5ef4e67d4aba05ba85b3b70cfd781-d_295x166",
-  "mp4Video": "https://player.vimeo.com/progressive_redirect/playback/702838775/rendition/720p?loc=external&oauth2_token_id=20985841&signature=fabc40770f85f6b769ea249ef151782056cf9f0cc656e2b56d073b1eea1500e6",
-  "mp4VideoLow": "https://player.vimeo.com/progressive_redirect/playback/702838775/rendition/540p?loc=external&oauth2_token_id=20985841&signature=8d059bb9337d09e875e8137681ba456586adc3af270c9c022c3f0901b2b64adb",
+  "thumbnail": "https://i.vimeocdn.com/video/1420132300-0d9b6375c1283e975d9f6bb581fccdf1b5d72123204b1b9658b19b53bb7be7b7-d_295x166",
+  "mp4Video": "https://player.vimeo.com/progressive_redirect/playback/702843095/rendition/720p?loc=external&oauth2_token_id=20985841&signature=ae6c0aa02c0881accaae95fd62c27aec85acadec7711fe1f137ea8db6f5ae1ac",
+  "mp4VideoLow": "https://player.vimeo.com/progressive_redirect/playback/702843095/rendition/360p?loc=external&oauth2_token_id=20985841&signature=8704b8901ed19baa9855219972ebf38ef2a679b8f94547dd3d1aec91157b9b54",
   "recordingID": 1109,
   "speakers": [
     {

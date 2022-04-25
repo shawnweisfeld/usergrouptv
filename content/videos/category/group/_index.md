@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2022-04-25T17:08:27.7426004Z",
+  "date": "2022-04-25T17:37:13.3823577Z",
   "draft": false,
   "meetups": [
     {
@@ -147,7 +147,7 @@
     {
       "title": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "thumbnail": "/images/thumbnail.png",
+      "thumbnail": "https://i.vimeocdn.com/video/1419976806-924a7d42b34209c8c66c7f987cfb0da819a5ef4e67d4aba05ba85b3b70cfd781-d_295x166",
       "date": "2022-04-19T00:00:00",
       "count": 78
     },

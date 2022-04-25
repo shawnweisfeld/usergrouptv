@@ -11,7 +11,7 @@
     {
       "title": "JOINS for fun and profit",
       "slug": "joins-for-fun-and-profit",
-      "thumbnail": "/images/thumbnail.png",
+      "thumbnail": "https://i.vimeocdn.com/video/1419976806-924a7d42b34209c8c66c7f987cfb0da819a5ef4e67d4aba05ba85b3b70cfd781-d_295x166",
       "date": "2022-04-19T00:00:00",
       "speakers": [
         {

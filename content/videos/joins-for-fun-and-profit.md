@@ -10,13 +10,13 @@
   "abstract": "(Disclaimer: This talk is not for anyone who always writes a perfect JOIN statement from the very start)\r\n\r\nThere are many different ways to join data between objects. Sometimes there is a clear best way. Other times, there are several different ways. Often those different ways are just a matter of style because the compiler understands what is going on and can translate them all down to the same performant execution plan.\r\n\r\nWe'll look at different styles of joins and many different ways to use and abuse them, all for fun and learning to make you a better sql developer.",
   "description": "(Disclaimer: This talk is not for anyone who always writes a perfect JOIN statement from the very start)\r\n\r\nThere are many different ways to join data between objects. Sometimes there is a clear best way. Other times, there are several different ways. Often those different ways are just a matter of style because the compiler understands what is going on and can translate them all down to the same performant execution plan.\r\n\r\nWe'll look at different styles of joins and many different ways to use and abuse them, all for fun and learning to make you a better sql developer.",
   "images": [
-    "/images/thumbnail.png"
+    "https://i.vimeocdn.com/video/1419976806-924a7d42b34209c8c66c7f987cfb0da819a5ef4e67d4aba05ba85b3b70cfd781-d_295x166"
   ],
-  "vimeo": "0",
+  "vimeo": "702838775",
   "moreinfo": "https://www.meetup.com/Austin-SQL-Server-User-Group/events/spswrsydcgbzb/",
-  "thumbnail": "/images/thumbnail.png",
-  "mp4Video": null,
-  "mp4VideoLow": null,
+  "thumbnail": "https://i.vimeocdn.com/video/1419976806-924a7d42b34209c8c66c7f987cfb0da819a5ef4e67d4aba05ba85b3b70cfd781-d_295x166",
+  "mp4Video": "https://player.vimeo.com/progressive_redirect/playback/702838775/rendition/720p?loc=external&oauth2_token_id=20985841&signature=fabc40770f85f6b769ea249ef151782056cf9f0cc656e2b56d073b1eea1500e6",
+  "mp4VideoLow": "https://player.vimeo.com/progressive_redirect/playback/702838775/rendition/360p?loc=external&oauth2_token_id=20985841&signature=91bc58184263fd42d991fe44c7da32662ddc826f92dd453dd15caa11b43f8e8c",
   "recordingID": 1108,
   "speakers": [
     {

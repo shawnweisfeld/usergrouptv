@@ -30,7 +30,7 @@
     {
       "name": "Storage",
       "slug": "storage",
-      "count": 2
+      "count": 3
     }
   ],
   "meetups": [

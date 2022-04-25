@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2022-03-21T12:42:18.3201209Z",
+  "date": "2022-04-25T17:08:27.7426004Z",
   "draft": false,
   "meetups": [
     {
@@ -133,9 +133,9 @@
     {
       "title": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "thumbnail": "https://i.vimeocdn.com/video/1398143997-60827ebebc961b757a21213cba0e3528d812a8ca6e91f05355fe0bfb51d69f98-d_295x166",
-      "date": "2022-03-15T00:00:00",
-      "count": 56
+      "thumbnail": "https://i.vimeocdn.com/video/1419976806-924a7d42b34209c8c66c7f987cfb0da819a5ef4e67d4aba05ba85b3b70cfd781-d_295x166",
+      "date": "2022-04-19T00:00:00",
+      "count": 57
     },
     {
       "title": "Azure User Group - Houston",
@@ -147,9 +147,9 @@
     {
       "title": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "thumbnail": "https://i.vimeocdn.com/video/1398143331-e5ad101fa081373f99522c3c8c55850989a9771aa1b1a28cb2be45f2e1c72fcd-d_295x166",
-      "date": "2022-03-15T00:00:00",
-      "count": 77
+      "thumbnail": "/images/thumbnail.png",
+      "date": "2022-04-19T00:00:00",
+      "count": 78
     },
     {
       "title": "Chicago IT Architects Group",
@@ -266,9 +266,9 @@
     {
       "title": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1398143997-60827ebebc961b757a21213cba0e3528d812a8ca6e91f05355fe0bfb51d69f98-d_295x166",
-      "date": "2022-03-15T00:00:00",
-      "count": 19
+      "thumbnail": "https://i.vimeocdn.com/video/1419976806-924a7d42b34209c8c66c7f987cfb0da819a5ef4e67d4aba05ba85b3b70cfd781-d_295x166",
+      "date": "2022-04-19T00:00:00",
+      "count": 20
     },
     {
       "title": "DFW C++ User Group",
@@ -441,9 +441,9 @@
     {
       "title": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1393024084-ca25a22f0df6885bb8f34df945284203ac499c2d129412f94c08e33b8013666f-d_295x166",
-      "date": "2022-03-10T00:00:00",
-      "count": 35
+      "thumbnail": "https://i.vimeocdn.com/video/1419976547-cfeb785a6c0eb3082e2aa527349c72e44ebdebf8832f9f51520be005c986f56c-d_295x166",
+      "date": "2022-04-14T00:00:00",
+      "count": 36
     },
     {
       "title": "Tulsa School of Dev",

@@ -1,12 +1,100 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2022-03-21T12:42:16.2401142Z",
+  "date": "2022-04-25T17:08:25.6484181Z",
   "draft": false,
-  "recordingCount": "1,100",
-  "speakerCount": "618",
+  "recordingCount": "1,103",
+  "speakerCount": "619",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "JOINS for fun and profit",
+      "slug": "joins-for-fun-and-profit",
+      "thumbnail": "/images/thumbnail.png",
+      "date": "2022-04-19T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Burek",
+          "slug": "mike-burek"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        }
+      ]
+    },
+    {
+      "title": "Overview of Azure Storage",
+      "slug": "overview-of-azure-storage",
+      "thumbnail": "https://i.vimeocdn.com/video/1419976806-924a7d42b34209c8c66c7f987cfb0da819a5ef4e67d4aba05ba85b3b70cfd781-d_295x166",
+      "date": "2022-04-19T00:00:00",
+      "speakers": [
+        {
+          "name": "Shawn Weisfeld",
+          "slug": "shawn-weisfeld"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "Storage",
+          "slug": "storage"
+        }
+      ]
+    },
+    {
+      "title": "Governance: The forgotten key to managing Cloud",
+      "slug": "governance-the-forgotten-key-to-managing-cloud",
+      "thumbnail": "https://i.vimeocdn.com/video/1419976547-cfeb785a6c0eb3082e2aa527349c72e44ebdebf8832f9f51520be005c986f56c-d_295x166",
+      "date": "2022-04-14T00:00:00",
+      "speakers": [
+        {
+          "name": "Rik Hepworth",
+          "slug": "rik-hepworth"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cloud",
+          "slug": "cloud"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "Governance",
+          "slug": "governance"
+        }
+      ]
+    },
     {
       "title": "Prove Your Query Tuning Works",
       "slug": "prove-your-query-tuning-works",
@@ -480,86 +568,6 @@
         {
           "name": ".net",
           "slug": "net"
-        }
-      ]
-    },
-    {
-      "title": "Improving Your DAX Skills with DAX.DO",
-      "slug": "improving-your-dax-skills-with-daxdo",
-      "thumbnail": "https://i.vimeocdn.com/video/1298663082-c7394730532acf3965f4f36447b511b9bb18afa39e9a34512_295x166",
-      "date": "2021-11-10T00:00:00",
-      "speakers": [
-        {
-          "name": "Kevin Arnold",
-          "slug": "kevin-arnold"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "dax",
-          "slug": "dax"
-        }
-      ]
-    },
-    {
-      "title": "An Infrastructure as Code Bake-off, comparing ARM, Terraform and Bicep",
-      "slug": "an-infrastructure-as-code-bakeoff-comparing-arm-terraform-and-bicep",
-      "thumbnail": "https://i.vimeocdn.com/video/1288579806-58ab4313dcc59dc69553c6f93128c5cd768a75c3a99346cef_295x166",
-      "date": "2021-10-14T00:00:00",
-      "speakers": [
-        {
-          "name": "Mike Benkovich",
-          "slug": "mike-benkovich"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "ARM",
-          "slug": "arm"
-        },
-        {
-          "name": "BiCep",
-          "slug": "bicep"
-        },
-        {
-          "name": "Infrastructure as Code",
-          "slug": "infrastructure-as-code"
-        }
-      ]
-    },
-    {
-      "title": "Understanding DAX",
-      "slug": "understanding-dax",
-      "thumbnail": "https://i.vimeocdn.com/video/1276255402-761a9df899170d2bcbfae52ce9f13c1f77a199b6dd8e78c2e_295x166",
-      "date": "2021-10-13T00:00:00",
-      "speakers": [
-        {
-          "name": "Angela Henry",
-          "slug": "angela-henry"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "dax",
-          "slug": "dax"
         }
       ]
     }

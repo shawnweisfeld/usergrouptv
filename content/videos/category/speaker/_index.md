@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2022-03-21T12:42:16.8841134Z",
+  "date": "2022-04-25T17:08:26.3558533Z",
   "draft": false,
   "speakers": [
     {
@@ -2905,9 +2905,9 @@
     {
       "title": "Mike Burek",
       "slug": "mike-burek",
-      "thumbnail": "https://i.vimeocdn.com/video/1398143331-e5ad101fa081373f99522c3c8c55850989a9771aa1b1a28cb2be45f2e1c72fcd-d_295x166",
-      "date": "2022-03-15T00:00:00",
-      "count": 9
+      "thumbnail": "/images/thumbnail.png",
+      "date": "2022-04-19T00:00:00",
+      "count": 10
     },
     {
       "title": "Mike Byrd",
@@ -3372,6 +3372,13 @@
       "count": 3
     },
     {
+      "title": "Rik Hepworth",
+      "slug": "rik-hepworth",
+      "thumbnail": "https://i.vimeocdn.com/video/1419976547-cfeb785a6c0eb3082e2aa527349c72e44ebdebf8832f9f51520be005c986f56c-d_295x166",
+      "date": "2022-04-14T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Rob Richardson",
       "slug": "rob-richardson",
       "thumbnail": "https://i.vimeocdn.com/video/1377563992-d64f308f4a27167c9d28e6da268ce790da728ea784a0f87e41ba41cdb790e1fc-d_295x166",
@@ -3773,9 +3780,9 @@
     {
       "title": "Shawn Weisfeld",
       "slug": "shawn-weisfeld",
-      "thumbnail": "https://i.vimeocdn.com/video/833796599-eaadeac3b55b0d1f5733194c127aaee731b06f2fac6c88de284fa39a2f8c58f3-d_295x166",
-      "date": "2019-11-19T16:17:46",
-      "count": 72
+      "thumbnail": "https://i.vimeocdn.com/video/1419976806-924a7d42b34209c8c66c7f987cfb0da819a5ef4e67d4aba05ba85b3b70cfd781-d_295x166",
+      "date": "2022-04-19T00:00:00",
+      "count": 73
     },
     {
       "title": "Shelby Dremely",

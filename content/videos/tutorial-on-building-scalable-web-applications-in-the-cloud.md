@@ -30,7 +30,7 @@
     {
       "name": "Cloud",
       "slug": "cloud",
-      "count": 8
+      "count": 9
     }
   ],
   "meetups": [

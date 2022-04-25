@@ -6,22 +6,31 @@
     <description>Recent content in Storage on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Mar 2017 22:00:09 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/storage/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/storage/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Do You Know Storage ? Come talk to us and learn how to talk to your Storage Admin!</title>
-      <link>https://usergroup.tv/videos/do-you-know-storage-come-talk-to-us-and-learn-how-to-talk-to-your-storage-admin/</link>
-      <pubDate>Sat, 04 Mar 2017 22:00:09 +0000</pubDate>
+      <title>Overview of Azure Storage</title>
+      <link>https://usergroup.tv/videos/overview-of-azure-storage/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://usergroup.tv/videos/do-you-know-storage-come-talk-to-us-and-learn-how-to-talk-to-your-storage-admin/</guid>
+      <guid>https://usergroup.tv/videos/overview-of-azure-storage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Storage</title>
       <link>https://usergroup.tv/videos/tag/storage/</link>
-      <pubDate>Sat, 04 Mar 2017 22:00:09 +0000</pubDate>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do You Know Storage ? Come talk to us and learn how to talk to your Storage Admin!</title>
+      <link>https://usergroup.tv/videos/do-you-know-storage-come-talk-to-us-and-learn-how-to-talk-to-your-storage-admin/</link>
+      <pubDate>Sat, 04 Mar 2017 22:00:09 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/do-you-know-storage-come-talk-to-us-and-learn-how-to-talk-to-your-storage-admin/</guid>
       <description></description>
     </item>
     

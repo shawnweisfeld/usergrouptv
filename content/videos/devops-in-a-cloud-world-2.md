@@ -23,7 +23,7 @@
       "name": "Shawn Weisfeld",
       "slug": "shawn-weisfeld",
       "bio": "<p>Shawn (http://www.shawnweisfeld.com) is passionate about building awesome applications and websites with .NET technologies and Azure. He is Program Manager for Azure Stroage for Microsoft based in Austin TX and founder of http://UserGroup.tv. Read his full bio at http://about.me/shawnweisfeld or connect with him on LinkedIn https://www.linkedin.com/in/shawnweisfeld/</p>",
-      "count": 72
+      "count": 73
     }
   ],
   "ugtvtags": [
@@ -37,7 +37,7 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 56
+      "count": 57
     },
     {
       "name": "Austin .NET UG",

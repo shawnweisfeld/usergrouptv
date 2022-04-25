@@ -6,22 +6,148 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Mar 2022 12:42:16 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Apr 2022 17:08:25 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Adam Whitlatch</title>
-      <link>https://usergroup.tv/videos/category/speaker/adam-whitlatch/</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <title>Azure</title>
+      <link>https://usergroup.tv/videos/tag/azure/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://usergroup.tv/videos/category/speaker/adam-whitlatch/</guid>
+      <guid>https://usergroup.tv/videos/tag/azure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Azure Austin Meetup</title>
       <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/group/azure-austin-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capitol Area Central Texas Users of SQL Server</title>
+      <link>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFW Azure User Group</title>
+      <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JOINS for fun and profit</title>
+      <link>https://usergroup.tv/videos/joins-for-fun-and-profit/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/joins-for-fun-and-profit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mike Burek</title>
+      <link>https://usergroup.tv/videos/category/speaker/mike-burek/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/mike-burek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview of Azure Storage</title>
+      <link>https://usergroup.tv/videos/overview-of-azure-storage/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/overview-of-azure-storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shawn Weisfeld</title>
+      <link>https://usergroup.tv/videos/category/speaker/shawn-weisfeld/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/shawn-weisfeld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://usergroup.tv/videos/tag/sql/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Storage</title>
+      <link>https://usergroup.tv/videos/tag/storage/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud</title>
+      <link>https://usergroup.tv/videos/tag/cloud/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Governance</title>
+      <link>https://usergroup.tv/videos/tag/governance/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/governance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Governance: The forgotten key to managing Cloud</title>
+      <link>https://usergroup.tv/videos/governance-the-forgotten-key-to-managing-cloud/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/governance-the-forgotten-key-to-managing-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rik Hepworth</title>
+      <link>https://usergroup.tv/videos/category/speaker/rik-hepworth/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/rik-hepworth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam Whitlatch</title>
+      <link>https://usergroup.tv/videos/category/speaker/adam-whitlatch/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/adam-whitlatch/</guid>
       <description></description>
     </item>
     
@@ -35,47 +161,11 @@
     </item>
     
     <item>
-      <title>Capitol Area Central Texas Users of SQL Server</title>
-      <link>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DFW Azure User Group</title>
-      <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mike Burek</title>
-      <link>https://usergroup.tv/videos/category/speaker/mike-burek/</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/speaker/mike-burek/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Prove Your Query Tuning Works</title>
       <link>https://usergroup.tv/videos/prove-your-query-tuning-works/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/prove-your-query-tuning-works/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQL</title>
-      <link>https://usergroup.tv/videos/tag/sql/</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/sql/</guid>
       <description></description>
     </item>
     
@@ -152,15 +242,6 @@
     </item>
     
     <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>User-Story Driven Threat Modeling</title>
       <link>https://usergroup.tv/videos/userstory-driven-threat-modeling/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
@@ -220,15 +301,6 @@
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/amy-genenderfeltheimer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure</title>
-      <link>https://usergroup.tv/videos/tag/azure/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/azure/</guid>
       <description></description>
     </item>
     
@@ -2990,15 +3062,6 @@ What do we use your information for?</description>
     </item>
     
     <item>
-      <title>Shawn Weisfeld</title>
-      <link>https://usergroup.tv/videos/category/speaker/shawn-weisfeld/</link>
-      <pubDate>Tue, 19 Nov 2019 16:17:46 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/speaker/shawn-weisfeld/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Farida Bharmal</title>
       <link>https://usergroup.tv/videos/category/speaker/farida-bharmal/</link>
       <pubDate>Wed, 13 Nov 2019 17:28:13 +0000</pubDate>
@@ -5065,15 +5128,6 @@ What do we use your information for?</description>
       <pubDate>Sat, 13 Oct 2018 14:06:53 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/billy-hollis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cloud</title>
-      <link>https://usergroup.tv/videos/tag/cloud/</link>
-      <pubDate>Sat, 13 Oct 2018 14:06:53 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/cloud/</guid>
       <description></description>
     </item>
     
@@ -10343,15 +10397,6 @@ What do we use your information for?</description>
     </item>
     
     <item>
-      <title>Storage</title>
-      <link>https://usergroup.tv/videos/tag/storage/</link>
-      <pubDate>Sat, 04 Mar 2017 22:00:09 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/storage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Diane Schuster</title>
       <link>https://usergroup.tv/videos/category/speaker/diane-schuster/</link>
       <pubDate>Sat, 04 Mar 2017 21:56:18 +0000</pubDate>
@@ -13277,20 +13322,20 @@ What do we use your information for?</description>
     </item>
     
     <item>
-      <title>SQL Injection</title>
-      <link>https://usergroup.tv/videos/sql-injection-2/</link>
-      <pubDate>Sat, 31 Jan 2015 23:17:05 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/sql-injection-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>sql injection</title>
       <link>https://usergroup.tv/videos/tag/sql-injection/</link>
       <pubDate>Sat, 31 Jan 2015 23:17:05 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/sql-injection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Injection</title>
+      <link>https://usergroup.tv/videos/sql-injection-2/</link>
+      <pubDate>Sat, 31 Jan 2015 23:17:05 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/sql-injection-2/</guid>
       <description></description>
     </item>
     

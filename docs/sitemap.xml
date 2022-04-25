@@ -3,30 +3,108 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2022-03-21T12:42:18+00:00</lastmod>
+    <lastmod>2022-04-25T17:08:27+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2022-03-21T12:42:17+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/</loc>
-    <lastmod>2022-03-21T12:42:16+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2022-03-21T12:42:16+00:00</lastmod>
+    <lastmod>2022-04-25T17:08:27+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2022-03-21T12:42:16+00:00</lastmod>
+    <lastmod>2022-04-25T17:08:26+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/</loc>
+    <lastmod>2022-04-25T17:08:25+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/</loc>
+    <lastmod>2022-04-25T17:08:25+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/azure/</loc>
+    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/azure/</loc>
+    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
+    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/azure-austin-meetup/</loc>
+    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</loc>
+    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</loc>
+    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/dfw-azure-user-group/</loc>
+    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</loc>
+    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/joins-for-fun-and-profit/</loc>
+    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/mike-burek/</loc>
+    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/mike-burek/</loc>
+    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/overview-of-azure-storage/</loc>
+    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/shawn-weisfeld/</loc>
+    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/shawn-weisfeld/</loc>
+    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/sql/</loc>
+    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/sql/</loc>
+    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/storage/</loc>
+    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/storage/</loc>
+    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/cloud/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/cloud/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/governance/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/governance/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/governance-the-forgotten-key-to-managing-cloud/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/rik-hepworth/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/rik-hepworth/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/adam-whitlatch/</loc>
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/adam-whitlatch/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/azure-austin-meetup/</loc>
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/azure-user-group-houston/</loc>
@@ -35,34 +113,7 @@
     <loc>https://usergroup.tv/videos/category/group/azure-user-group-houston/</loc>
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/dfw-azure-user-group/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/mike-burek/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/mike-burek/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/videos/prove-your-query-tuning-works/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/sql/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/sql/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/</loc>
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/terraform/</loc>
@@ -110,12 +161,6 @@
     <loc>https://usergroup.tv/videos/tag/threat-modeling/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/videos/userstory-driven-threat-modeling/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -150,12 +195,6 @@
     <lastmod>2022-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/amy-genenderfeltheimer/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/azure/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/azure/</loc>
     <lastmod>2022-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/data-mesh/</loc>
@@ -1655,12 +1694,6 @@
     <loc>https://usergroup.tv/videos/quick-github-overview-for-dbas/</loc>
     <lastmod>2019-11-19T16:17:46+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/shawn-weisfeld/</loc>
-    <lastmod>2019-11-19T16:17:46+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/shawn-weisfeld/</loc>
-    <lastmod>2019-11-19T16:17:46+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/farida-bharmal/</loc>
     <lastmod>2019-11-13T17:28:13+00:00</lastmod>
   </url><url>
@@ -2706,12 +2739,6 @@
     <lastmod>2018-10-13T14:06:53+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/billy-hollis/</loc>
-    <lastmod>2018-10-13T14:06:53+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/cloud/</loc>
-    <lastmod>2018-10-13T14:06:53+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/cloud/</loc>
     <lastmod>2018-10-13T14:06:53+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/get-your-head-in-the-cloud/</loc>
@@ -5345,12 +5372,6 @@
     <loc>https://usergroup.tv/videos/category/speaker/marsha-pierce/</loc>
     <lastmod>2017-03-04T22:00:09+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/storage/</loc>
-    <lastmod>2017-03-04T22:00:09+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/storage/</loc>
-    <lastmod>2017-03-04T22:00:09+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/diane-schuster/</loc>
     <lastmod>2017-03-04T21:56:18+00:00</lastmod>
   </url><url>
@@ -6779,13 +6800,13 @@
     <loc>https://usergroup.tv/videos/tag/sql-tuning/</loc>
     <lastmod>2015-01-31T23:18:51+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/videos/sql-injection-2/</loc>
-    <lastmod>2015-01-31T23:17:05+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/sql-injection/</loc>
     <lastmod>2015-01-31T23:17:05+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/sql-injection/</loc>
+    <lastmod>2015-01-31T23:17:05+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/sql-injection-2/</loc>
     <lastmod>2015-01-31T23:17:05+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/cisco/</loc>

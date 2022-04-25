@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "sql",
-  "date": "2022-03-15T00:00:00",
+  "date": "2022-04-19T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "JOINS for fun and profit",
+      "slug": "joins-for-fun-and-profit",
+      "thumbnail": "/images/thumbnail.png",
+      "date": "2022-04-19T00:00:00",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Mike Burek",
+          "slug": "mike-burek"
+        }
+      ]
+    },
     {
       "title": "Prove Your Query Tuning Works",
       "slug": "prove-your-query-tuning-works",

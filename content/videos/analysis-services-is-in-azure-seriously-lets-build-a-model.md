@@ -31,7 +31,7 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 44
+      "count": 46
     },
     {
       "name": "SSAS",

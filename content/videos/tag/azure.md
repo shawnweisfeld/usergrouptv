@@ -5,9 +5,49 @@
   ],
   "type": "tag",
   "slug": "azure",
-  "date": "2022-02-15T00:00:00",
+  "date": "2022-04-19T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Overview of Azure Storage",
+      "slug": "overview-of-azure-storage",
+      "thumbnail": "https://i.vimeocdn.com/video/1419976806-924a7d42b34209c8c66c7f987cfb0da819a5ef4e67d4aba05ba85b3b70cfd781-d_295x166",
+      "date": "2022-04-19T00:00:00",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Shawn Weisfeld",
+          "slug": "shawn-weisfeld"
+        }
+      ]
+    },
+    {
+      "title": "Governance: The forgotten key to managing Cloud",
+      "slug": "governance-the-forgotten-key-to-managing-cloud",
+      "thumbnail": "https://i.vimeocdn.com/video/1419976547-cfeb785a6c0eb3082e2aa527349c72e44ebdebf8832f9f51520be005c986f56c-d_295x166",
+      "date": "2022-04-14T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Rik Hepworth",
+          "slug": "rik-hepworth"
+        }
+      ]
+    },
     {
       "title": "Landing Zones for Data and the Data Mesh Architecture",
       "slug": "landing-zones-for-data-and-the-data-mesh-architecture",

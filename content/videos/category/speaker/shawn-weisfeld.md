@@ -5,10 +5,36 @@
   ],
   "type": "speaker",
   "slug": "shawn-weisfeld",
-  "date": "2019-11-19T16:17:46",
+  "date": "2022-04-19T00:00:00",
   "draft": false,
   "bio": "<p>Shawn (http://www.shawnweisfeld.com) is passionate about building awesome applications and websites with .NET technologies and Azure. He is Program Manager for Azure Stroage for Microsoft based in Austin TX and founder of http://UserGroup.tv. Read his full bio at http://about.me/shawnweisfeld or connect with him on LinkedIn https://www.linkedin.com/in/shawnweisfeld/</p>",
   "recordings": [
+    {
+      "title": "Overview of Azure Storage",
+      "slug": "overview-of-azure-storage",
+      "thumbnail": "https://i.vimeocdn.com/video/1419976806-924a7d42b34209c8c66c7f987cfb0da819a5ef4e67d4aba05ba85b3b70cfd781-d_295x166",
+      "date": "2022-04-19T00:00:00",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "Storage",
+          "slug": "storage"
+        }
+      ]
+    },
     {
       "title": "Quick GitHub overview for DBAs",
       "slug": "quick-github-overview-for-dbas",

@@ -5,9 +5,31 @@
   ],
   "type": "tag",
   "slug": "storage",
-  "date": "2017-03-04T22:00:09",
+  "date": "2022-04-19T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Overview of Azure Storage",
+      "slug": "overview-of-azure-storage",
+      "thumbnail": "https://i.vimeocdn.com/video/1419976806-924a7d42b34209c8c66c7f987cfb0da819a5ef4e67d4aba05ba85b3b70cfd781-d_295x166",
+      "date": "2022-04-19T00:00:00",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Shawn Weisfeld",
+          "slug": "shawn-weisfeld"
+        }
+      ]
+    },
     {
       "title": "Do You Know Storage ? Come talk to us and learn how to talk to your Storage Admin!",
       "slug": "do-you-know-storage-come-talk-to-us-and-learn-how-to-talk-to-your-storage-admin",

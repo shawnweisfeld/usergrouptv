@@ -6,22 +6,31 @@
     <description>Recent content in SQL on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Prove Your Query Tuning Works</title>
-      <link>https://usergroup.tv/videos/prove-your-query-tuning-works/</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <title>JOINS for fun and profit</title>
+      <link>https://usergroup.tv/videos/joins-for-fun-and-profit/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://usergroup.tv/videos/prove-your-query-tuning-works/</guid>
+      <guid>https://usergroup.tv/videos/joins-for-fun-and-profit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SQL</title>
       <link>https://usergroup.tv/videos/tag/sql/</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prove Your Query Tuning Works</title>
+      <link>https://usergroup.tv/videos/prove-your-query-tuning-works/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/prove-your-query-tuning-works/</guid>
       <description></description>
     </item>
     

@@ -31,7 +31,7 @@
     {
       "name": "Power BI",
       "slug": "power-bi",
-      "count": 31
+      "count": 32
     },
     {
       "name": "Charticulator",
@@ -43,7 +43,7 @@
     {
       "name": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "count": 28
+      "count": 29
     }
   ]
 }

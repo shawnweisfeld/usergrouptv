@@ -27935,4 +27935,31 @@ We'll look at different styles of joins and many different ways to use and abuse
       <slug>storage</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>A "M"ind Bending Experience: Custom Functions and Documentation in Power Query</Title>
+    <Url>https://usergroup.tv/videos/a-mind-bending-experience-custom-functions-and-documentation-in-power-query/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1424297329-ccd6ae3c5e8e757fb15801ab54377c0490b4388708d1c08489214c9e56b383ab-d_295x166</Thumbnail>
+    <Excerpt>This will be a hands-on-keyboard session teaching you how to get started with creating custom functions to aid in the reusability of transformation patters and how to add robust documentation to your Power Query queries. The information from this session will be applicable to all places where Power Query is found.</Excerpt>
+    <PostDate>2022-04-13T00:00:00</PostDate>
+    <Id>1110</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/705421944/rendition/1080p?loc=external&amp;oauth2_token_id=20985841&amp;signature=1bd8d548e24b44f7d12ace90f1813e9bba348ad71523c8122958e568d65dddc4</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/705421944/rendition/540p?loc=external&amp;oauth2_token_id=20985841&amp;signature=ffd67de2574e14176b728c34c649dd75d9960d21d77e11fe7b85e828c78d4c08</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Alex Powers</name>
+      <slug>alex-powers</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>PowerBI</name>
+      <slug>powerbi</slug>
+    </Tags>
+    <Tags>
+      <name>Power BI</name>
+      <slug>power-bi</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

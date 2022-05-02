@@ -22,22 +22,22 @@
     {
       "name": "Alex Powers",
       "slug": "alex-powers",
-      "bio": "<p>From financial services to felines, the World Wide Web to professional wrestling – Alex Powers has an affinity for the conventional and unconventional when it comes to information. A self-proclaimed Excel and Power BI Enthusiast Alex Powers enjoy contributing to online forums, writing blog posts (http://itsnotaboutthecell.com), and sharing his passion for empowering others using Microsoft technologies.</p>",
-      "count": 1
+      "bio": "From financial services to felines, the World Wide Web to professional wrestling - Alex Powers has an affinity for the conventional and unconventional when it comes to information. A self-proclaimed Excel and Power BI Enthusiast Alex Powers enjoys contributing to online forums and sharing his passion for empowering others using Microsoft technologies.",
+      "count": 2
     }
   ],
   "ugtvtags": [
     {
       "name": "Power BI",
       "slug": "power-bi",
-      "count": 31
+      "count": 32
     }
   ],
   "meetups": [
     {
       "name": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "count": 28
+      "count": 29
     }
   ]
 }

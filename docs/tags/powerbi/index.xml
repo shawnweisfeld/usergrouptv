@@ -6,22 +6,31 @@
     <description>Recent content in PowerBI on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/powerbi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/powerbi/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Data Modeling Best Practices</title>
-      <link>https://usergroup.tv/videos/data-modeling-best-practices/</link>
-      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      <title>A &#34;M&#34;ind Bending Experience: Custom Functions and Documentation in Power Query</title>
+      <link>https://usergroup.tv/videos/a-mind-bending-experience-custom-functions-and-documentation-in-power-query/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://usergroup.tv/videos/data-modeling-best-practices/</guid>
+      <guid>https://usergroup.tv/videos/a-mind-bending-experience-custom-functions-and-documentation-in-power-query/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PowerBI</title>
       <link>https://usergroup.tv/videos/tag/powerbi/</link>
-      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/powerbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Modeling Best Practices</title>
+      <link>https://usergroup.tv/videos/data-modeling-best-practices/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/data-modeling-best-practices/</guid>
       <description></description>
     </item>
     

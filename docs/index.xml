@@ -6,7 +6,7 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Apr 2022 17:55:33 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 May 2022 16:16:47 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure</title>
       <link>https://usergroup.tv/videos/tag/azure/</link>
@@ -143,6 +143,51 @@
     </item>
     
     <item>
+      <title>A &#34;M&#34;ind Bending Experience: Custom Functions and Documentation in Power Query</title>
+      <link>https://usergroup.tv/videos/a-mind-bending-experience-custom-functions-and-documentation-in-power-query/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/a-mind-bending-experience-custom-functions-and-documentation-in-power-query/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alex Powers</title>
+      <link>https://usergroup.tv/videos/category/speaker/alex-powers/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/alex-powers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Austin Power BI User Group</title>
+      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>https://usergroup.tv/videos/tag/power-bi/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PowerBI</title>
+      <link>https://usergroup.tv/videos/tag/powerbi/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/powerbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Adam Whitlatch</title>
       <link>https://usergroup.tv/videos/category/speaker/adam-whitlatch/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
@@ -251,38 +296,11 @@
     </item>
     
     <item>
-      <title>Austin Power BI User Group</title>
-      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
-      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Data Modeling Best Practices</title>
       <link>https://usergroup.tv/videos/data-modeling-best-practices/</link>
       <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/data-modeling-best-practices/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power BI</title>
-      <link>https://usergroup.tv/videos/tag/power-bi/</link>
-      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PowerBI</title>
-      <link>https://usergroup.tv/videos/tag/powerbi/</link>
-      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/powerbi/</guid>
       <description></description>
     </item>
     
@@ -2050,15 +2068,6 @@ What do we use your information for?</description>
       <pubDate>Mon, 14 Sep 2020 17:44:41 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/jeffrey-palermo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alex Powers</title>
-      <link>https://usergroup.tv/videos/category/speaker/alex-powers/</link>
-      <pubDate>Wed, 09 Sep 2020 15:22:13 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/speaker/alex-powers/</guid>
       <description></description>
     </item>
     

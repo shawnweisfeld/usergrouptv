@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2022-04-25T17:55:34+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2022-04-25T17:55:34+00:00</lastmod>
+    <lastmod>2022-05-02T16:16:56+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2022-04-25T17:55:34+00:00</lastmod>
+    <lastmod>2022-05-02T16:16:54+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/</loc>
+    <lastmod>2022-05-02T16:16:52+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2022-04-25T17:55:33+00:00</lastmod>
+    <lastmod>2022-05-02T16:16:47+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2022-04-25T17:55:33+00:00</lastmod>
+    <lastmod>2022-05-02T16:16:47+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/azure/</loc>
     <lastmod>2022-04-19T00:00:00+00:00</lastmod>
@@ -101,6 +101,33 @@
     <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
     <lastmod>2022-04-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://usergroup.tv/videos/a-mind-bending-experience-custom-functions-and-documentation-in-power-query/</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/alex-powers/</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/alex-powers/</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/power-bi/</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/power-bi/</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/powerbi/</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/powerbi/</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://usergroup.tv/tags/adam-whitlatch/</loc>
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -164,25 +191,7 @@
     <loc>https://usergroup.tv/videos/userstory-driven-threat-modeling/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
-    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
-    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/videos/data-modeling-best-practices/</loc>
-    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/power-bi/</loc>
-    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/power-bi/</loc>
-    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/powerbi/</loc>
-    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/powerbi/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/thomas-ivarsson/</loc>
@@ -1153,12 +1162,6 @@
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/jeffrey-palermo/</loc>
     <lastmod>2020-09-14T17:44:41+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/alex-powers/</loc>
-    <lastmod>2020-09-09T15:22:13+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/alex-powers/</loc>
-    <lastmod>2020-09-09T15:22:13+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/an-introduction-to-tabular-editor/</loc>
     <lastmod>2020-09-09T15:22:13+00:00</lastmod>

@@ -1,9 +1,9 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2022-04-25T17:55:33.7240816Z",
+  "date": "2022-05-02T16:16:47.5567629Z",
   "draft": false,
-  "recordingCount": "1,103",
+  "recordingCount": "1,104",
   "speakerCount": "619",
   "groupCount": "67",
   "newest": [
@@ -92,6 +92,34 @@
         {
           "name": "Governance",
           "slug": "governance"
+        }
+      ]
+    },
+    {
+      "title": "A \"M\"ind Bending Experience: Custom Functions and Documentation in Power Query",
+      "slug": "a-mind-bending-experience-custom-functions-and-documentation-in-power-query",
+      "thumbnail": "https://i.vimeocdn.com/video/1424297329-ccd6ae3c5e8e757fb15801ab54377c0490b4388708d1c08489214c9e56b383ab-d_295x166",
+      "date": "2022-04-13T00:00:00",
+      "speakers": [
+        {
+          "name": "Alex Powers",
+          "slug": "alex-powers"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "PowerBI",
+          "slug": "powerbi"
+        },
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
         }
       ]
     },
@@ -544,30 +572,6 @@
         {
           "name": "Azure",
           "slug": "azure"
-        }
-      ]
-    },
-    {
-      "title": "C# 10: Immutability and Generic Attributes",
-      "slug": "c-10-immutability-and-generic-attributes",
-      "thumbnail": "https://i.vimeocdn.com/video/1313081441-d6666b9e8bbd94643e1b0479eaf896b65ca481879537aa323_295x166",
-      "date": "2021-11-11T00:00:00",
-      "speakers": [
-        {
-          "name": "Tim Rayburn",
-          "slug": "tim-rayburn"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": ".net",
-          "slug": "net"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2022-04-25T17:55:34.1967244Z",
+  "date": "2022-05-02T16:16:52.9055738Z",
   "draft": false,
   "speakers": [
     {
@@ -105,9 +105,9 @@
     {
       "title": "Alex Powers",
       "slug": "alex-powers",
-      "thumbnail": "https://i.vimeocdn.com/video/955146027-31557f168f459449cfd724f65df0b37c78173451482ddd18ae29df0230b5916c-d_295x166",
-      "date": "2020-09-09T15:22:13",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1424297329-ccd6ae3c5e8e757fb15801ab54377c0490b4388708d1c08489214c9e56b383ab-d_295x166",
+      "date": "2022-04-13T00:00:00",
+      "count": 2
     },
     {
       "title": "Alex Suttmiller",

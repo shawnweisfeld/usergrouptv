@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "power-bi",
-  "date": "2022-03-09T00:00:00",
+  "date": "2022-04-13T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "A \"M\"ind Bending Experience: Custom Functions and Documentation in Power Query",
+      "slug": "a-mind-bending-experience-custom-functions-and-documentation-in-power-query",
+      "thumbnail": "https://i.vimeocdn.com/video/1424297329-ccd6ae3c5e8e757fb15801ab54377c0490b4388708d1c08489214c9e56b383ab-d_295x166",
+      "date": "2022-04-13T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Alex Powers",
+          "slug": "alex-powers"
+        }
+      ]
+    },
     {
       "title": "Data Modeling Best Practices",
       "slug": "data-modeling-best-practices",

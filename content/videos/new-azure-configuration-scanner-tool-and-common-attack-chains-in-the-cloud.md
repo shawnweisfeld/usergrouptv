@@ -30,7 +30,7 @@
     {
       "name": "Cloud Security",
       "slug": "cloud-security",
-      "count": 1
+      "count": 2
     }
   ],
   "meetups": [

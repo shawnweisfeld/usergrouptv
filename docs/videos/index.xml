@@ -6,7 +6,16 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 May 2022 16:16:47 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 May 2022 17:35:33 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Service Principals and Managed Identities - tools every Azure Dev should know</title>
+      <link>https://usergroup.tv/videos/service-principals-and-managed-identities-tools-every-azure-dev-should-know/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/service-principals-and-managed-identities-tools-every-azure-dev-should-know/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>JOINS for fun and profit</title>
       <link>https://usergroup.tv/videos/joins-for-fun-and-profit/</link>

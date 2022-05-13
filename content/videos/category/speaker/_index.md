@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2022-05-02T16:16:52.9055738Z",
+  "date": "2022-05-13T17:35:34.5159571Z",
   "draft": false,
   "speakers": [
     {
@@ -784,9 +784,9 @@
     {
       "title": "Christos Matskas",
       "slug": "christos-matskas",
-      "thumbnail": "https://i.vimeocdn.com/video/1057117933-131fc8c6482aedee3d0149389adf2f9b12a02eb7dc3fbc25828a33a8d8159e1c-d_295x166",
-      "date": "2021-01-14T00:00:00",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1431397786-9f9ac81f84d698734a389c76f1c1a5dfabe496faf1d229437323dfa42b53ed10-d_295x166",
+      "date": "2022-05-12T00:00:00",
+      "count": 2
     },
     {
       "title": "Cindy Ashcraft",

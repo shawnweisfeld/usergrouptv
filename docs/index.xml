@@ -6,13 +6,67 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 May 2022 16:16:47 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 May 2022 17:35:33 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure</title>
       <link>https://usergroup.tv/videos/tag/azure/</link>
-      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christos Matskas</title>
+      <link>https://usergroup.tv/videos/category/speaker/christos-matskas/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/christos-matskas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Security</title>
+      <link>https://usergroup.tv/videos/tag/cloud-security/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/cloud-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managed Identity</title>
+      <link>https://usergroup.tv/videos/tag/managed-identity/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/managed-identity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service Principal</title>
+      <link>https://usergroup.tv/videos/tag/service-principal/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/service-principal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service Principals and Managed Identities - tools every Azure Dev should know</title>
+      <link>https://usergroup.tv/videos/service-principals-and-managed-identities-tools-every-azure-dev-should-know/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/service-principals-and-managed-identities-tools-every-azure-dev-should-know/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
       <description></description>
     </item>
     
@@ -130,15 +184,6 @@
       <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/rik-hepworth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
-      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
       <description></description>
     </item>
     
@@ -1642,15 +1687,6 @@
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/azure-devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Christos Matskas</title>
-      <link>https://usergroup.tv/videos/category/speaker/christos-matskas/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/speaker/christos-matskas/</guid>
       <description></description>
     </item>
     
@@ -5443,15 +5479,6 @@ What do we use your information for?</description>
       <pubDate>Wed, 12 Sep 2018 21:21:11 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/the-power-of-powerapps-with-sharepoint/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cloud Security</title>
-      <link>https://usergroup.tv/videos/tag/cloud-security/</link>
-      <pubDate>Wed, 12 Sep 2018 21:19:52 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/cloud-security/</guid>
       <description></description>
     </item>
     

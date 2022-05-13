@@ -1,12 +1,48 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2022-05-02T16:16:47.5567629Z",
+  "date": "2022-05-13T17:35:33.9622614Z",
   "draft": false,
-  "recordingCount": "1,104",
+  "recordingCount": "1,105",
   "speakerCount": "619",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Service Principals and Managed Identities - tools every Azure Dev should know",
+      "slug": "service-principals-and-managed-identities-tools-every-azure-dev-should-know",
+      "thumbnail": "https://i.vimeocdn.com/video/1431397786-9f9ac81f84d698734a389c76f1c1a5dfabe496faf1d229437323dfa42b53ed10-d_295x166",
+      "date": "2022-05-12T00:00:00",
+      "speakers": [
+        {
+          "name": "Christos Matskas",
+          "slug": "christos-matskas"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cloud Security",
+          "slug": "cloud-security"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "Managed Identity",
+          "slug": "managed-identity"
+        },
+        {
+          "name": "Service Principal",
+          "slug": "service-principal"
+        }
+      ]
+    },
     {
       "title": "JOINS for fun and profit",
       "slug": "joins-for-fun-and-profit",
@@ -544,34 +580,6 @@
         {
           "name": ".NET 6",
           "slug": "net-6"
-        }
-      ]
-    },
-    {
-      "title": "Azure Kubernetes Cluster (AKS)",
-      "slug": "azure-kubernetes-cluster-aks",
-      "thumbnail": "https://i.vimeocdn.com/video/1312906191-83ede5792114f057e6e2eceb13e30389367e8f44c5e17ce67_295x166",
-      "date": "2021-11-16T00:00:00",
-      "speakers": [
-        {
-          "name": "Mark Moore",
-          "slug": "mark-moore"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        }
-      ],
-      "tags": [
-        {
-          "name": "K8S",
-          "slug": "k8s"
-        },
-        {
-          "name": "Azure",
-          "slug": "azure"
         }
       ]
     }

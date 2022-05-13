@@ -5,9 +5,39 @@
     "Tulsa .NET User Group"
   ],
   "slug": "tulsa-net-user-group",
-  "date": "2022-04-14T00:00:00",
+  "date": "2022-05-12T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Service Principals and Managed Identities - tools every Azure Dev should know",
+      "slug": "service-principals-and-managed-identities-tools-every-azure-dev-should-know",
+      "thumbnail": "https://i.vimeocdn.com/video/1431397786-9f9ac81f84d698734a389c76f1c1a5dfabe496faf1d229437323dfa42b53ed10-d_295x166",
+      "date": "2022-05-12T00:00:00",
+      "speakers": [
+        {
+          "name": "Christos Matskas",
+          "slug": "christos-matskas"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cloud Security",
+          "slug": "cloud-security"
+        },
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "Managed Identity",
+          "slug": "managed-identity"
+        },
+        {
+          "name": "Service Principal",
+          "slug": "service-principal"
+        }
+      ]
+    },
     {
       "title": "Governance: The forgotten key to managing Cloud",
       "slug": "governance-the-forgotten-key-to-managing-cloud",

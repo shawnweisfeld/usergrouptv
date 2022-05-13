@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2022-05-02T16:16:54.9160784Z",
+  "date": "2022-05-13T17:35:35.0990132Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -238,9 +238,9 @@
     {
       "title": "Azure",
       "slug": "azure",
-      "thumbnail": "https://i.vimeocdn.com/video/1420132300-0d9b6375c1283e975d9f6bb581fccdf1b5d72123204b1b9658b19b53bb7be7b7-d_295x166",
-      "date": "2022-04-19T00:00:00",
-      "count": 46
+      "thumbnail": "https://i.vimeocdn.com/video/1431397786-9f9ac81f84d698734a389c76f1c1a5dfabe496faf1d229437323dfa42b53ed10-d_295x166",
+      "date": "2022-05-12T00:00:00",
+      "count": 47
     },
     {
       "title": "Azure AD",
@@ -602,9 +602,9 @@
     {
       "title": "Cloud Security",
       "slug": "cloud-security",
-      "thumbnail": "https://i.vimeocdn.com/video/725423772-b8efb6aec2358415dbc2a7ca77d97404bddd605a168d7d03d5f75086e758adfc-d_295x166",
-      "date": "2018-09-12T21:19:52",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1431397786-9f9ac81f84d698734a389c76f1c1a5dfabe496faf1d229437323dfa42b53ed10-d_295x166",
+      "date": "2022-05-12T00:00:00",
+      "count": 2
     },
     {
       "title": "CODE",
@@ -1643,6 +1643,13 @@
       "count": 2
     },
     {
+      "title": "Managed Identity",
+      "slug": "managed-identity",
+      "thumbnail": "https://i.vimeocdn.com/video/1431397786-9f9ac81f84d698734a389c76f1c1a5dfabe496faf1d229437323dfa42b53ed10-d_295x166",
+      "date": "2022-05-12T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Map Reduce",
       "slug": "map-reduce",
       "thumbnail": "https://i.vimeocdn.com/video/488139709-1c2b5734bafcb4f3aa3ab90ce5fb0248c6dab4282003477799d340c6f91e7e89-d_295x166",
@@ -2453,6 +2460,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/590925415-2a6596efa8dcedaa817c3dc1a28365295b06e7923ae453b8603c14405764d3ec-d_295x166",
       "date": "2016-09-08T18:22:06",
       "count": 3
+    },
+    {
+      "title": "Service Principal",
+      "slug": "service-principal",
+      "thumbnail": "https://i.vimeocdn.com/video/1431397786-9f9ac81f84d698734a389c76f1c1a5dfabe496faf1d229437323dfa42b53ed10-d_295x166",
+      "date": "2022-05-12T00:00:00",
+      "count": 1
     },
     {
       "title": "Sharepoint",

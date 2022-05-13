@@ -36,14 +36,14 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 46
+      "count": 47
     }
   ],
   "meetups": [
     {
       "name": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "count": 36
+      "count": 37
     }
   ]
 }

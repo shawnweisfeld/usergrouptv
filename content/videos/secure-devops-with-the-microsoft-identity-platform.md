@@ -24,8 +24,8 @@
     {
       "name": "Christos Matskas",
       "slug": "christos-matskas",
-      "bio": "Christos is on the Identity team at Microsoft and he is one of the co-presenters on the 425 Show on Twitch @ https://twitch.tv/425show.",
-      "count": 1
+      "bio": "Christos Matskas is a software developer, dad, blogger, husband, speaker, and all around geek. He currently works as a Developer Advocate for Microsoft Identity helping developers and teams leverage the power of the identity and cloud. Before joining Microsoft, he was a successful entrepreneur collaborating with companies such as MarkIT, Lockheed Martin and Barclays. He's been building software for over 16 years and he's a passionate Open Source advocate. He contributes regularly to numerous OSS projects and works closely with the developer community to make the space bigger and better.",
+      "count": 2
     },
     {
       "name": "John Patrick Dandison",
@@ -55,7 +55,7 @@
     {
       "name": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "count": 36
+      "count": 37
     }
   ]
 }

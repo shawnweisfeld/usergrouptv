@@ -27997,4 +27997,73 @@ We'll look at different styles of joins and many different ways to use and abuse
       <slug>service-principal</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Getting Started with SQL Server Performance Tuning</Title>
+    <Url>https://usergroup.tv/videos/getting-started-with-sql-server-performance-tuning/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1439482168-e84fd0ff1dbfc8a6184c56a53ab256716bc5706547531ca5bf644eb1db060f79-d_295x166</Thumbnail>
+    <Excerpt>Proper maintenance of vehicles is more important than ever. If you don't take proper care of a car's engine, you get fewer miles per gallon and lose speed and power— eventually, your neglect mandates costly repairs. Similarly, all businesses and organizations have vehicles, or databases, filled with valuable information. As data grows performance problems arise. If a medical practice has a slow or inaccessible path to medical records, doctors and staff cannot provide high-quality or safe care for their patients. When a sales team's CRM database is sluggish and unreliable, they will not make money or grow a business. A professional sports club need 24/7 fast access to compelling statistics to render the best possible game-day decisions. You will walk away from this webinar with tips to optimize your organizations database. Just like Procure SQL has done for the three cases above. </Excerpt>
+    <PostDate>2022-05-17T00:00:00</PostDate>
+    <Id>1112</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/713814486/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=fa3100975d14e7b3bd9a9cca3eddb0b08c2a000b08b7614fa6640d1c93a12c75</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/713814486/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=753617771b33db6c40e6fa5e9aab565b76df9ec685402004526ac36934016c11</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>John Sterrett</name>
+      <slug>john-sterrett</slug>
+    </Speakers>
+    <Groups>
+      <name>Capitol Area Central Texas Users of SQL Server</name>
+      <slug>capitol-area-central-texas-users-of-sql-server</slug>
+    </Groups>
+    <Tags>
+      <name>SQL</name>
+      <slug>sql</slug>
+    </Tags>
+    <Tags>
+      <name>SQL Performance</name>
+      <slug>sql-performance</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Azure Data Factory</Title>
+    <Url>https://usergroup.tv/videos/azure-data-factory/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1439482341-746b77f4c0cb4e0b9d020eb6bbe4c46ee1f3af3d987aeae19fe0d567e25fa8a3-d_295x166</Thumbnail>
+    <Excerpt>Please join us May 17th for a session on Azure Data Factory. This is an introductory session. Mark Moore will present the following topics: What is Data Factory, How does it work, Key components, Linked Services and lots of Demos</Excerpt>
+    <PostDate>2022-05-17T00:00:00</PostDate>
+    <Id>1113</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/713814651/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=d2094718ead77baf76fbae4c9c7b6c58b46037668c438eca6cb4596dbdce5871</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/713814651/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=c0b86c7a2f9d2a69f19c3412902dda5faed3825a260c4880c01483ea5b2175f5</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Mark Moore</name>
+      <slug>mark-moore</slug>
+    </Speakers>
+    <Tags>
+      <name>Azure</name>
+      <slug>azure</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Query Folding in Power BI</Title>
+    <Url>https://usergroup.tv/videos/query-folding-in-power-bi/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1439597667-1c3e017aedb7098fa1f650f30f3ad12f10cc7025acb457a78ebb66e482871370-d_295x166</Thumbnail>
+    <Excerpt>Did you know Power BI can generate native SQL queries which can speed up refreshes? In this session, we will look at how query folding works, when it works/doesn't work and some hidden tricks to get it to work. The techniques covered will be helpful even when working with non-folding data sources.</Excerpt>
+    <PostDate>2022-05-18T00:00:00</PostDate>
+    <Id>1114</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/714177719/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=291bc9b65d92f3ed405cbd0c5b5618a2f3484c0a5f2af99d72dec476ad96f2e1</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/714177719/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=d989c1fb1ecb015e164d030473836a5864a889df434061757fa2204c3323cac3</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Sandeep Pawar</name>
+      <slug>sandeep-pawar</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Power BI</name>
+      <slug>power-bi</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

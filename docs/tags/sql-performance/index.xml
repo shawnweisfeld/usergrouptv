@@ -6,22 +6,31 @@
     <description>Recent content in SQL Performance on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Aug 2018 19:39:30 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql-performance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql-performance/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Climbing the SQL Server Index B-Tree (from a user perspective)</title>
-      <link>https://usergroup.tv/videos/climbing-the-sql-server-index-b-tree-from-a-user-perspective/</link>
-      <pubDate>Sat, 25 Aug 2018 19:39:30 +0000</pubDate>
+      <title>Getting Started with SQL Server Performance Tuning</title>
+      <link>https://usergroup.tv/videos/getting-started-with-sql-server-performance-tuning/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://usergroup.tv/videos/climbing-the-sql-server-index-b-tree-from-a-user-perspective/</guid>
+      <guid>https://usergroup.tv/videos/getting-started-with-sql-server-performance-tuning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SQL Performance</title>
       <link>https://usergroup.tv/videos/tag/sql-performance/</link>
-      <pubDate>Sat, 25 Aug 2018 19:39:30 +0000</pubDate>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/sql-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climbing the SQL Server Index B-Tree (from a user perspective)</title>
+      <link>https://usergroup.tv/videos/climbing-the-sql-server-index-b-tree-from-a-user-perspective/</link>
+      <pubDate>Sat, 25 Aug 2018 19:39:30 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/climbing-the-sql-server-index-b-tree-from-a-user-perspective/</guid>
       <description></description>
     </item>
     

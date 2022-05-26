@@ -5,9 +5,27 @@
     "Austin Power BI User Group"
   ],
   "slug": "austin-power-bi-user-group",
-  "date": "2022-04-13T00:00:00",
+  "date": "2022-05-18T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Query Folding in Power BI",
+      "slug": "query-folding-in-power-bi",
+      "thumbnail": "https://i.vimeocdn.com/video/1439597667-1c3e017aedb7098fa1f650f30f3ad12f10cc7025acb457a78ebb66e482871370-d_295x166",
+      "date": "2022-05-18T00:00:00",
+      "speakers": [
+        {
+          "name": "Sandeep Pawar",
+          "slug": "sandeep-pawar"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "A \"M\"ind Bending Experience: Custom Functions and Documentation in Power Query",
       "slug": "a-mind-bending-experience-custom-functions-and-documentation-in-power-query",

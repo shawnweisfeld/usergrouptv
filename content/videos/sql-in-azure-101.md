@@ -22,8 +22,8 @@
     {
       "name": "Mark Moore",
       "slug": "mark-moore",
-      "bio": "<p>Mark Moore is a Cloud Solutions Architect at Microsoft in North Texas. Mark has been with Microsoft for 25 years serving in various roles in Services and Sales. Prior to Microsoft Mark worked at Digital Equipment Corporation serving Federal and Government customers in San Antonio, Texas. Mark currently resides in the DFW area.</p>",
-      "count": 5
+      "bio": "Mark Moore is a Cloud Solution Architect at Microsoft, Mark has been in the industry for 35+ years and has been with Microsoft for the past 27 years. Mark resides in the DFW area.",
+      "count": 6
     }
   ],
   "ugtvtags": [
@@ -37,7 +37,7 @@
     {
       "name": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "count": 78
+      "count": 79
     },
     {
       "name": "SQL Saturday",

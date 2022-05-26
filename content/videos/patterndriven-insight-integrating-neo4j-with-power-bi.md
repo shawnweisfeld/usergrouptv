@@ -37,7 +37,7 @@
     {
       "name": "Power BI",
       "slug": "power-bi",
-      "count": 32
+      "count": 33
     },
     {
       "name": "Neo4j",
@@ -49,7 +49,7 @@
     {
       "name": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "count": 29
+      "count": 30
     }
   ]
 }

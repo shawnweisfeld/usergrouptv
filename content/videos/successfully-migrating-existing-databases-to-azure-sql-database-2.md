@@ -22,8 +22,8 @@
     {
       "name": "John Sterrett",
       "slug": "john-sterrett",
-      "bio": "<p>John Sterrett is an MCSE: Data Platform, Principal Consultant and the Founder of Procure SQL LLC.  John has presented at many community events, including Microsoft Ignite, PASS Member Summit, SQLRally, 24 Hours of PASS, SQLSaturdays, PASS Chapters, and Virtual Chapter meetings. John is a leader of the Austin SQL Server User Group and the founder of the HADR Virtual Chapter.</p>",
-      "count": 18
+      "bio": "John's experience leading large technical teams in complex environments has made him a global expert in performance and scalability. John speaks at conferences around the world on database strategy and topics related to performance tuning, development, and cloud computing. He is a Microsoft Certified Trainer, is the principal consultant and founder at Procure SQL.",
+      "count": 19
     }
   ],
   "ugtvtags": [
@@ -37,7 +37,7 @@
     {
       "name": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "count": 78
+      "count": 79
     },
     {
       "name": "SQL Saturday",

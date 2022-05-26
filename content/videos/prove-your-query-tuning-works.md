@@ -31,7 +31,7 @@
     {
       "name": "SQL",
       "slug": "sql",
-      "count": 22
+      "count": 23
     },
     {
       "name": "Tuning",
@@ -43,7 +43,7 @@
     {
       "name": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "count": 78
+      "count": 79
     }
   ]
 }

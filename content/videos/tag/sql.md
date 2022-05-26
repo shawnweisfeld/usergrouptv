@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "sql",
-  "date": "2022-04-19T00:00:00",
+  "date": "2022-05-17T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Getting Started with SQL Server Performance Tuning",
+      "slug": "getting-started-with-sql-server-performance-tuning",
+      "thumbnail": "https://i.vimeocdn.com/video/1439482168-e84fd0ff1dbfc8a6184c56a53ab256716bc5706547531ca5bf644eb1db060f79-d_295x166",
+      "date": "2022-05-17T00:00:00",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "John Sterrett",
+          "slug": "john-sterrett"
+        }
+      ]
+    },
     {
       "title": "JOINS for fun and profit",
       "slug": "joins-for-fun-and-profit",

@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2022-05-13T17:35:35.0990132Z",
+  "date": "2022-05-26T21:08:40.5073214Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -238,9 +238,9 @@
     {
       "title": "Azure",
       "slug": "azure",
-      "thumbnail": "https://i.vimeocdn.com/video/1431397786-9f9ac81f84d698734a389c76f1c1a5dfabe496faf1d229437323dfa42b53ed10-d_295x166",
-      "date": "2022-05-12T00:00:00",
-      "count": 47
+      "thumbnail": "https://i.vimeocdn.com/video/1439482341-746b77f4c0cb4e0b9d020eb6bbe4c46ee1f3af3d987aeae19fe0d567e25fa8a3-d_295x166",
+      "date": "2022-05-17T00:00:00",
+      "count": 48
     },
     {
       "title": "Azure AD",
@@ -2149,9 +2149,9 @@
     {
       "title": "Power BI",
       "slug": "power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1424297329-ccd6ae3c5e8e757fb15801ab54377c0490b4388708d1c08489214c9e56b383ab-d_295x166",
-      "date": "2022-04-13T00:00:00",
-      "count": 32
+      "thumbnail": "https://i.vimeocdn.com/video/1439597667-1c3e017aedb7098fa1f650f30f3ad12f10cc7025acb457a78ebb66e482871370-d_295x166",
+      "date": "2022-05-18T00:00:00",
+      "count": 33
     },
     {
       "title": "Power Map",
@@ -2576,9 +2576,9 @@
     {
       "title": "SQL",
       "slug": "sql",
-      "thumbnail": "https://i.vimeocdn.com/video/1419976806-924a7d42b34209c8c66c7f987cfb0da819a5ef4e67d4aba05ba85b3b70cfd781-d_295x166",
-      "date": "2022-04-19T00:00:00",
-      "count": 22
+      "thumbnail": "https://i.vimeocdn.com/video/1439482168-e84fd0ff1dbfc8a6184c56a53ab256716bc5706547531ca5bf644eb1db060f79-d_295x166",
+      "date": "2022-05-17T00:00:00",
+      "count": 23
     },
     {
       "title": "SQL Admin",
@@ -2681,9 +2681,9 @@
     {
       "title": "SQL Performance",
       "slug": "sql-performance",
-      "thumbnail": "https://i.vimeocdn.com/video/722419009-785b839782b7b06cfac7a75e67dbca59cbc5e485f6319f1a8f83caabd40e4de3-d_295x166",
-      "date": "2018-08-25T19:39:30",
-      "count": 18
+      "thumbnail": "https://i.vimeocdn.com/video/1439482168-e84fd0ff1dbfc8a6184c56a53ab256716bc5706547531ca5bf644eb1db060f79-d_295x166",
+      "date": "2022-05-17T00:00:00",
+      "count": 19
     },
     {
       "title": "SQL Policy Based Mgmt",

@@ -1,12 +1,83 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2022-05-13T17:35:33.9622614Z",
+  "date": "2022-05-26T21:08:37.3967419Z",
   "draft": false,
-  "recordingCount": "1,105",
+  "recordingCount": "1,108",
   "speakerCount": "619",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Query Folding in Power BI",
+      "slug": "query-folding-in-power-bi",
+      "thumbnail": "https://i.vimeocdn.com/video/1439597667-1c3e017aedb7098fa1f650f30f3ad12f10cc7025acb457a78ebb66e482871370-d_295x166",
+      "date": "2022-05-18T00:00:00",
+      "speakers": [
+        {
+          "name": "Sandeep Pawar",
+          "slug": "sandeep-pawar"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
+    {
+      "title": "Getting Started with SQL Server Performance Tuning",
+      "slug": "getting-started-with-sql-server-performance-tuning",
+      "thumbnail": "https://i.vimeocdn.com/video/1439482168-e84fd0ff1dbfc8a6184c56a53ab256716bc5706547531ca5bf644eb1db060f79-d_295x166",
+      "date": "2022-05-17T00:00:00",
+      "speakers": [
+        {
+          "name": "John Sterrett",
+          "slug": "john-sterrett"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        },
+        {
+          "name": "SQL Performance",
+          "slug": "sql-performance"
+        }
+      ]
+    },
+    {
+      "title": "Azure Data Factory",
+      "slug": "azure-data-factory",
+      "thumbnail": "https://i.vimeocdn.com/video/1439482341-746b77f4c0cb4e0b9d020eb6bbe4c46ee1f3af3d987aeae19fe0d567e25fa8a3-d_295x166",
+      "date": "2022-05-17T00:00:00",
+      "speakers": [
+        {
+          "name": "Mark Moore",
+          "slug": "mark-moore"
+        }
+      ],
+      "meetups": [],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
+      ]
+    },
     {
       "title": "Service Principals and Managed Identities - tools every Azure Dev should know",
       "slug": "service-principals-and-managed-identities-tools-every-azure-dev-should-know",
@@ -484,102 +555,6 @@
         {
           "name": "Minimal API",
           "slug": "minimal-api"
-        }
-      ]
-    },
-    {
-      "title": "Go Hybrid across Web, Desktop, & Mobile with Blazor & .NET MAUI",
-      "slug": "go-hybrid-across-web-desktop-mobile-with-blazor-net-maui",
-      "thumbnail": "https://i.vimeocdn.com/video/1335692469-6c7ef82a632dd37aefd552ee8e6080506eb1ad4537e12cf755b5640732df4e42-d_295x166",
-      "date": "2021-12-09T00:00:00",
-      "speakers": [
-        {
-          "name": "James Montemagno",
-          "slug": "james-montemagno"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": ".net",
-          "slug": "net"
-        },
-        {
-          "name": "Blazor",
-          "slug": "blazor"
-        },
-        {
-          "name": "MAUI",
-          "slug": "maui"
-        }
-      ]
-    },
-    {
-      "title": "Pattern-Driven Insight: Integrating Neo4j with Power BI",
-      "slug": "patterndriven-insight-integrating-neo4j-with-power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1325602023-9e62b3169d7478277712a0f7e335b6a98432552b03549aa886461edca49d5930-d_295x166",
-      "date": "2021-12-08T00:00:00",
-      "speakers": [
-        {
-          "name": "Bryant Avey",
-          "slug": "bryant-avey"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "PowerBI",
-          "slug": "powerbi"
-        },
-        {
-          "name": "Power BI",
-          "slug": "power-bi"
-        },
-        {
-          "name": "Neo4j",
-          "slug": "neo4j"
-        }
-      ]
-    },
-    {
-      "title": "What's New for C# Developers",
-      "slug": "whats-new-for-c-developers",
-      "thumbnail": "https://i.vimeocdn.com/video/1319552424-0224e3a9e632a6d74091f2c4940040d34586e9431b721bd2eaec99d7418000ba-d_295x166",
-      "date": "2021-11-30T00:00:00",
-      "speakers": [
-        {
-          "name": "Chad Green",
-          "slug": "chad-green"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "C#",
-          "slug": "c"
-        },
-        {
-          "name": ".net",
-          "slug": "net"
-        },
-        {
-          "name": ".NET 6",
-          "slug": "net-6"
         }
       ]
     }

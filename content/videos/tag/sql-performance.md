@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "sql-performance",
-  "date": "2018-08-25T19:39:30",
+  "date": "2022-05-17T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Getting Started with SQL Server Performance Tuning",
+      "slug": "getting-started-with-sql-server-performance-tuning",
+      "thumbnail": "https://i.vimeocdn.com/video/1439482168-e84fd0ff1dbfc8a6184c56a53ab256716bc5706547531ca5bf644eb1db060f79-d_295x166",
+      "date": "2022-05-17T00:00:00",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "John Sterrett",
+          "slug": "john-sterrett"
+        }
+      ]
+    },
     {
       "title": "Climbing the SQL Server Index B-Tree (from a user perspective)",
       "slug": "climbing-the-sql-server-index-b-tree-from-a-user-perspective",

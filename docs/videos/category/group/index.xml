@@ -6,7 +6,25 @@
     <description>Recent content in Meetups on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 May 2022 17:35:35 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/category/group/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 May 2022 21:08:41 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/category/group/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Austin Power BI User Group</title>
+      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capitol Area Central Texas Users of SQL Server</title>
+      <link>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Tulsa .NET User Group</title>
       <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
@@ -26,29 +44,11 @@
     </item>
     
     <item>
-      <title>Capitol Area Central Texas Users of SQL Server</title>
-      <link>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</link>
-      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DFW Azure User Group</title>
       <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
       <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Austin Power BI User Group</title>
-      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
-      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
       <description></description>
     </item>
     

@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2022-05-13T17:35:35.8370363Z",
+  "date": "2022-05-26T21:08:41.4345012Z",
   "draft": false,
   "meetups": [
     {
@@ -112,9 +112,9 @@
     {
       "title": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1424297329-ccd6ae3c5e8e757fb15801ab54377c0490b4388708d1c08489214c9e56b383ab-d_295x166",
-      "date": "2022-04-13T00:00:00",
-      "count": 29
+      "thumbnail": "https://i.vimeocdn.com/video/1439597667-1c3e017aedb7098fa1f650f30f3ad12f10cc7025acb457a78ebb66e482871370-d_295x166",
+      "date": "2022-05-18T00:00:00",
+      "count": 30
     },
     {
       "title": "Austin SQL Saturday",
@@ -147,9 +147,9 @@
     {
       "title": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "thumbnail": "https://i.vimeocdn.com/video/1419976806-924a7d42b34209c8c66c7f987cfb0da819a5ef4e67d4aba05ba85b3b70cfd781-d_295x166",
-      "date": "2022-04-19T00:00:00",
-      "count": 78
+      "thumbnail": "https://i.vimeocdn.com/video/1439482168-e84fd0ff1dbfc8a6184c56a53ab256716bc5706547531ca5bf644eb1db060f79-d_295x166",
+      "date": "2022-05-17T00:00:00",
+      "count": 79
     },
     {
       "title": "Chicago IT Architects Group",

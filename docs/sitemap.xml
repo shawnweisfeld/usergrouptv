@@ -3,25 +3,85 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2022-05-13T17:35:35+00:00</lastmod>
+    <lastmod>2022-05-26T21:08:41+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2022-05-13T17:35:35+00:00</lastmod>
+    <lastmod>2022-05-26T21:08:40+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2022-05-13T17:35:34+00:00</lastmod>
+    <lastmod>2022-05-26T21:08:39+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2022-05-13T17:35:33+00:00</lastmod>
+    <lastmod>2022-05-26T21:08:37+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2022-05-13T17:35:33+00:00</lastmod>
+    <lastmod>2022-05-26T21:08:37+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/power-bi/</loc>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/power-bi/</loc>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/query-folding-in-power-bi/</loc>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/sandeep-pawar/</loc>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/sandeep-pawar/</loc>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/azure/</loc>
-    <lastmod>2022-05-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/azure/</loc>
-    <lastmod>2022-05-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/azure-data-factory/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/getting-started-with-sql-server-performance-tuning/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/john-sterrett/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/john-sterrett/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/mark-moore/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/mark-moore/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/sql/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/sql/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/sql-performance/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/sql-performance/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/christos-matskas/</loc>
     <lastmod>2022-05-12T00:00:00+00:00</lastmod>
@@ -50,9 +110,6 @@
     <loc>https://usergroup.tv/videos/service-principals-and-managed-identities-tools-every-azure-dev-should-know/</loc>
     <lastmod>2022-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/</loc>
-    <lastmod>2022-05-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
     <lastmod>2022-05-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -63,12 +120,6 @@
     <lastmod>2022-04-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/group/azure-austin-meetup/</loc>
-    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</loc>
-    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</loc>
     <lastmod>2022-04-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/dfw-azure-user-group/</loc>
@@ -93,12 +144,6 @@
     <lastmod>2022-04-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/shawn-weisfeld/</loc>
-    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/sql/</loc>
-    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/sql/</loc>
     <lastmod>2022-04-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/storage/</loc>
@@ -135,18 +180,6 @@
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/alex-powers/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/power-bi/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/power-bi/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/powerbi/</loc>
@@ -417,12 +450,6 @@
     <lastmod>2021-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/azure-kubernetes-cluster-aks/</loc>
-    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/mark-moore/</loc>
-    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/mark-moore/</loc>
     <lastmod>2021-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/c-10-immutability-and-generic-attributes/</loc>
@@ -1017,12 +1044,6 @@
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/forecasting-in-power-bi/</loc>
-    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/sandeep-pawar/</loc>
-    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/sandeep-pawar/</loc>
     <lastmod>2020-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/azure-sql-database/</loc>
@@ -2138,12 +2159,6 @@
     <loc>https://usergroup.tv/videos/tag/azure-database/</loc>
     <lastmod>2019-07-13T14:01:49+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/john-sterrett/</loc>
-    <lastmod>2019-07-13T14:01:49+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/john-sterrett/</loc>
-    <lastmod>2019-07-13T14:01:49+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/videos/successfully-migrating-existing-databases-to-azure-sql-database-2/</loc>
     <lastmod>2019-07-13T14:01:49+00:00</lastmod>
   </url><url>
@@ -2916,12 +2931,6 @@
     <lastmod>2018-09-10T21:18:32+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/climbing-the-sql-server-index-b-tree-from-a-user-perspective/</loc>
-    <lastmod>2018-08-25T19:39:30+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/sql-performance/</loc>
-    <lastmod>2018-08-25T19:39:30+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/sql-performance/</loc>
     <lastmod>2018-08-25T19:39:30+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/ben-miller/</loc>

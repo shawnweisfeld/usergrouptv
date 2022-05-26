@@ -5,10 +5,23 @@
   ],
   "type": "speaker",
   "slug": "mark-moore",
-  "date": "2021-11-16T00:00:00",
+  "date": "2022-05-17T00:00:00",
   "draft": false,
-  "bio": "<p>Mark Moore is a Cloud Solutions Architect at Microsoft in North Texas. Mark has been with Microsoft for 25 years serving in various roles in Services and Sales. Prior to Microsoft Mark worked at Digital Equipment Corporation serving Federal and Government customers in San Antonio, Texas. Mark currently resides in the DFW area.</p>",
+  "bio": "Mark Moore is a Cloud Solution Architect at Microsoft, Mark has been in the industry for 35+ years and has been with Microsoft for the past 27 years. Mark resides in the DFW area.",
   "recordings": [
+    {
+      "title": "Azure Data Factory",
+      "slug": "azure-data-factory",
+      "thumbnail": "https://i.vimeocdn.com/video/1439482341-746b77f4c0cb4e0b9d020eb6bbe4c46ee1f3af3d987aeae19fe0d567e25fa8a3-d_295x166",
+      "date": "2022-05-17T00:00:00",
+      "meetups": [],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
+      ]
+    },
     {
       "title": "Azure Kubernetes Cluster (AKS)",
       "slug": "azure-kubernetes-cluster-aks",

@@ -31,7 +31,7 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 47
+      "count": 48
     },
     {
       "name": "Microservices",

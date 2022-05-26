@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2022-05-13T17:35:34.5159571Z",
+  "date": "2022-05-26T21:08:39.3804976Z",
   "draft": false,
   "speakers": [
     {
@@ -1967,9 +1967,9 @@
     {
       "title": "John Sterrett",
       "slug": "john-sterrett",
-      "thumbnail": "https://i.vimeocdn.com/video/798800339-cca54a6dc26eb10f32f04ec56bf27d9574398baf2228a46752eb1f4f8c9e4238-d_295x166",
-      "date": "2019-07-13T14:01:49",
-      "count": 18
+      "thumbnail": "https://i.vimeocdn.com/video/1439482168-e84fd0ff1dbfc8a6184c56a53ab256716bc5706547531ca5bf644eb1db060f79-d_295x166",
+      "date": "2022-05-17T00:00:00",
+      "count": 19
     },
     {
       "title": "John Teague",
@@ -2583,9 +2583,9 @@
     {
       "title": "Mark Moore",
       "slug": "mark-moore",
-      "thumbnail": "https://i.vimeocdn.com/video/1312906191-83ede5792114f057e6e2eceb13e30389367e8f44c5e17ce67_295x166",
-      "date": "2021-11-16T00:00:00",
-      "count": 5
+      "thumbnail": "https://i.vimeocdn.com/video/1439482341-746b77f4c0cb4e0b9d020eb6bbe4c46ee1f3af3d987aeae19fe0d567e25fa8a3-d_295x166",
+      "date": "2022-05-17T00:00:00",
+      "count": 6
     },
     {
       "title": "Mark Rackley",
@@ -3619,9 +3619,9 @@
     {
       "title": "Sandeep Pawar",
       "slug": "sandeep-pawar",
-      "thumbnail": "https://i.vimeocdn.com/video/1014455189-ed6c7c25aaf943bc6f927afdc1cd3c901c1c663f276949ccc58af47d3c1409b5-d_295x166",
-      "date": "2020-12-09T00:00:00",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1439597667-1c3e017aedb7098fa1f650f30f3ad12f10cc7025acb457a78ebb66e482871370-d_295x166",
+      "date": "2022-05-18T00:00:00",
+      "count": 2
     },
     {
       "title": "Sanjay Kaul",

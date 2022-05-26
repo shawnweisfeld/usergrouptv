@@ -5,10 +5,32 @@
   ],
   "type": "speaker",
   "slug": "john-sterrett",
-  "date": "2019-07-13T14:01:49",
+  "date": "2022-05-17T00:00:00",
   "draft": false,
-  "bio": "<p>John Sterrett is an MCSE: Data Platform, Principal Consultant and the Founder of Procure SQL LLC.  John has presented at many community events, including Microsoft Ignite, PASS Member Summit, SQLRally, 24 Hours of PASS, SQLSaturdays, PASS Chapters, and Virtual Chapter meetings. John is a leader of the Austin SQL Server User Group and the founder of the HADR Virtual Chapter.</p>",
+  "bio": "John's experience leading large technical teams in complex environments has made him a global expert in performance and scalability. John speaks at conferences around the world on database strategy and topics related to performance tuning, development, and cloud computing. He is a Microsoft Certified Trainer, is the principal consultant and founder at Procure SQL.",
   "recordings": [
+    {
+      "title": "Getting Started with SQL Server Performance Tuning",
+      "slug": "getting-started-with-sql-server-performance-tuning",
+      "thumbnail": "https://i.vimeocdn.com/video/1439482168-e84fd0ff1dbfc8a6184c56a53ab256716bc5706547531ca5bf644eb1db060f79-d_295x166",
+      "date": "2022-05-17T00:00:00",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        },
+        {
+          "name": "SQL Performance",
+          "slug": "sql-performance"
+        }
+      ]
+    },
     {
       "title": "Successfully Migrating Existing Databases to Azure SQL Database ",
       "slug": "successfully-migrating-existing-databases-to-azure-sql-database-2",

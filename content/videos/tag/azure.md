@@ -5,9 +5,22 @@
   ],
   "type": "tag",
   "slug": "azure",
-  "date": "2022-05-12T00:00:00",
+  "date": "2022-05-17T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Azure Data Factory",
+      "slug": "azure-data-factory",
+      "thumbnail": "https://i.vimeocdn.com/video/1439482341-746b77f4c0cb4e0b9d020eb6bbe4c46ee1f3af3d987aeae19fe0d567e25fa8a3-d_295x166",
+      "date": "2022-05-17T00:00:00",
+      "meetups": [],
+      "speakers": [
+        {
+          "name": "Mark Moore",
+          "slug": "mark-moore"
+        }
+      ]
+    },
     {
       "title": "Service Principals and Managed Identities - tools every Azure Dev should know",
       "slug": "service-principals-and-managed-identities-tools-every-azure-dev-should-know",

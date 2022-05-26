@@ -28038,6 +28038,14 @@ We'll look at different styles of joins and many different ways to use and abuse
       <name>Mark Moore</name>
       <slug>mark-moore</slug>
     </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
     <Tags>
       <name>Azure</name>
       <slug>azure</slug>

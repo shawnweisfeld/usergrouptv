@@ -13,7 +13,16 @@
       "slug": "azure-data-factory",
       "thumbnail": "https://i.vimeocdn.com/video/1439482341-746b77f4c0cb4e0b9d020eb6bbe4c46ee1f3af3d987aeae19fe0d567e25fa8a3-d_295x166",
       "date": "2022-05-17T00:00:00",
-      "meetups": [],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
       "speakers": [
         {
           "name": "Mark Moore",

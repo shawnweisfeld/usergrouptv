@@ -1,7 +1,7 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2022-05-26T21:08:37.3967419Z",
+  "date": "2022-05-26T21:17:34.1266975Z",
   "draft": false,
   "recordingCount": "1,108",
   "speakerCount": "619",
@@ -70,7 +70,16 @@
           "slug": "mark-moore"
         }
       ],
-      "meetups": [],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
       "tags": [
         {
           "name": "Azure",

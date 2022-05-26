@@ -37,7 +37,7 @@
     {
       "name": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "count": 20
+      "count": 21
     }
   ]
 }

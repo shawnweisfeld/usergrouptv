@@ -5,10 +5,28 @@
   ],
   "type": "speaker",
   "slug": "chris-wagner",
-  "date": "2021-07-14T00:00:00",
+  "date": "2022-06-08T00:00:00",
   "draft": false,
-  "bio": "Chris has been working in the Data and Analytics space for nearly 20 years. Chris has dedicated his professional career to making data and information accessible to the masses. A significant component in making data available is continually learning new things and teaching others from these experiences. To help people keep up with this ever-changing landscape, Chris frequently posts on LinkedIn and to his blog.",
+  "bio": "Microsoft MVP, Kratos BI owner/founder, Senior Big Data/ Business Intelligence (BI) Solution Architect and Developer with experience in a wide variety of business applications and business processes with an emphasis on Insurance, Banking, Risk, Finance, Marketing and driving ROI through utilization of Agile Development best practices.",
   "recordings": [
+    {
+      "title": "The Data God Guide to Citizen Data Engineering",
+      "slug": "the-data-god-guide-to-citizen-data-engineering",
+      "thumbnail": "https://i.vimeocdn.com/video/1460363698-e652f3cf999605a957b658d34e353a45a4714571d8a0bdc0e09fff165fe643aa-d_295x166",
+      "date": "2022-06-08T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Data Engineering",
+          "slug": "data-engineering"
+        }
+      ]
+    },
     {
       "title": "Building Successful BI and Data Platforms following a Results First Strategy",
       "slug": "building-successful-bi-and-data-platforms-following-a-results-first-strategy",

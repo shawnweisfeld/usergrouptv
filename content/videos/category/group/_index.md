@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2022-05-26T21:17:38.1626165Z",
+  "date": "2022-06-29T19:53:40.3062958Z",
   "draft": false,
   "meetups": [
     {
@@ -112,9 +112,9 @@
     {
       "title": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1439597667-1c3e017aedb7098fa1f650f30f3ad12f10cc7025acb457a78ebb66e482871370-d_295x166",
-      "date": "2022-05-18T00:00:00",
-      "count": 30
+      "thumbnail": "https://i.vimeocdn.com/video/1460363698-e652f3cf999605a957b658d34e353a45a4714571d8a0bdc0e09fff165fe643aa-d_295x166",
+      "date": "2022-06-08T00:00:00",
+      "count": 31
     },
     {
       "title": "Austin SQL Saturday",
@@ -133,9 +133,9 @@
     {
       "title": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "thumbnail": "https://i.vimeocdn.com/video/1439482341-746b77f4c0cb4e0b9d020eb6bbe4c46ee1f3af3d987aeae19fe0d567e25fa8a3-d_295x166",
-      "date": "2022-05-17T00:00:00",
-      "count": 58
+      "thumbnail": "https://i.vimeocdn.com/video/1460364484-e46b150fd1d01bcc0edba820ca67ffbaf7491c38a5c22b60b79b54da058262d4-d_295x166",
+      "date": "2022-06-21T00:00:00",
+      "count": 59
     },
     {
       "title": "Azure User Group - Houston",
@@ -147,9 +147,9 @@
     {
       "title": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "thumbnail": "https://i.vimeocdn.com/video/1439482168-e84fd0ff1dbfc8a6184c56a53ab256716bc5706547531ca5bf644eb1db060f79-d_295x166",
-      "date": "2022-05-17T00:00:00",
-      "count": 79
+      "thumbnail": "https://i.vimeocdn.com/video/1460364089-fd107a6711cf53d5164b8f9493430a085504c9bf27ad964ffed2494b899fd469-d_295x166",
+      "date": "2022-06-21T00:00:00",
+      "count": 80
     },
     {
       "title": "Chicago IT Architects Group",
@@ -266,9 +266,9 @@
     {
       "title": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1439482341-746b77f4c0cb4e0b9d020eb6bbe4c46ee1f3af3d987aeae19fe0d567e25fa8a3-d_295x166",
-      "date": "2022-05-17T00:00:00",
-      "count": 21
+      "thumbnail": "https://i.vimeocdn.com/video/1460364484-e46b150fd1d01bcc0edba820ca67ffbaf7491c38a5c22b60b79b54da058262d4-d_295x166",
+      "date": "2022-06-21T00:00:00",
+      "count": 22
     },
     {
       "title": "DFW C++ User Group",

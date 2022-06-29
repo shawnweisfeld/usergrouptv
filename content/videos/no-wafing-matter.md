@@ -36,7 +36,7 @@
     {
       "name": "waf",
       "slug": "waf",
-      "count": 1
+      "count": 2
     }
   ],
   "meetups": [

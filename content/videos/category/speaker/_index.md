@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2022-05-26T21:17:36.2360483Z",
+  "date": "2022-06-29T19:53:35.3330053Z",
   "draft": false,
   "speakers": [
     {
@@ -749,9 +749,9 @@
     {
       "title": "Chris Wagner",
       "slug": "chris-wagner",
-      "thumbnail": "https://i.vimeocdn.com/video/1216459477-5e9e26d653a62cd292d0f63b73ed5b53b3acc21fe78215be4b460bc0dd7921fd-d_295x166",
-      "date": "2021-07-14T00:00:00",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1460363698-e652f3cf999605a957b658d34e353a45a4714571d8a0bdc0e09fff165fe643aa-d_295x166",
+      "date": "2022-06-08T00:00:00",
+      "count": 2
     },
     {
       "title": "Chris Weldon",
@@ -2905,9 +2905,9 @@
     {
       "title": "Mike Burek",
       "slug": "mike-burek",
-      "thumbnail": "https://i.vimeocdn.com/video/1419976806-924a7d42b34209c8c66c7f987cfb0da819a5ef4e67d4aba05ba85b3b70cfd781-d_295x166",
-      "date": "2022-04-19T00:00:00",
-      "count": 10
+      "thumbnail": "https://i.vimeocdn.com/video/1460364089-fd107a6711cf53d5164b8f9493430a085504c9bf27ad964ffed2494b899fd469-d_295x166",
+      "date": "2022-06-21T00:00:00",
+      "count": 11
     },
     {
       "title": "Mike Byrd",
@@ -3810,6 +3810,13 @@
       "slug": "siraj-mohammad",
       "thumbnail": "https://i.vimeocdn.com/video/632015565-3e43d68b435174bead38930543324bac56ed27f95dd25daa326d7f9362b2825c-d_295x166",
       "date": "2017-04-19T14:14:35",
+      "count": 1
+    },
+    {
+      "title": "Sowmya Mahadevaiah",
+      "slug": "sowmya-mahadevaiah",
+      "thumbnail": "https://i.vimeocdn.com/video/1460364484-e46b150fd1d01bcc0edba820ca67ffbaf7491c38a5c22b60b79b54da058262d4-d_295x166",
+      "date": "2022-06-21T00:00:00",
       "count": 1
     },
     {

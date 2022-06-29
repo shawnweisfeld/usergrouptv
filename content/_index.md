@@ -1,12 +1,88 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2022-05-26T21:17:34.1266975Z",
+  "date": "2022-06-29T19:53:29.4444923Z",
   "draft": false,
-  "recordingCount": "1,108",
-  "speakerCount": "619",
+  "recordingCount": "1,111",
+  "speakerCount": "620",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Azure Data Factory Tips and Tricks",
+      "slug": "azure-data-factory-tips-and-tricks",
+      "thumbnail": "https://i.vimeocdn.com/video/1460364089-fd107a6711cf53d5164b8f9493430a085504c9bf27ad964ffed2494b899fd469-d_295x166",
+      "date": "2022-06-21T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Burek",
+          "slug": "mike-burek"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "ADF",
+          "slug": "adf"
+        }
+      ]
+    },
+    {
+      "title": "Introduction to Azure Web Application Firewall (WAF)",
+      "slug": "introduction-to-azure-web-application-firewall-waf",
+      "thumbnail": "https://i.vimeocdn.com/video/1460364484-e46b150fd1d01bcc0edba820ca67ffbaf7491c38a5c22b60b79b54da058262d4-d_295x166",
+      "date": "2022-06-21T00:00:00",
+      "speakers": [
+        {
+          "name": "Sowmya Mahadevaiah",
+          "slug": "sowmya-mahadevaiah"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "waf",
+          "slug": "waf"
+        }
+      ]
+    },
+    {
+      "title": "The Data God Guide to Citizen Data Engineering",
+      "slug": "the-data-god-guide-to-citizen-data-engineering",
+      "thumbnail": "https://i.vimeocdn.com/video/1460363698-e652f3cf999605a957b658d34e353a45a4714571d8a0bdc0e09fff165fe643aa-d_295x166",
+      "date": "2022-06-08T00:00:00",
+      "speakers": [
+        {
+          "name": "Chris Wagner",
+          "slug": "chris-wagner"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Data Engineering",
+          "slug": "data-engineering"
+        }
+      ]
+    },
     {
       "title": "Query Folding in Power BI",
       "slug": "query-folding-in-power-bi",
@@ -456,114 +532,6 @@
         {
           "name": "graphql",
           "slug": "graphql"
-        }
-      ]
-    },
-    {
-      "title": "Demystifying Helm",
-      "slug": "demystifying-helm",
-      "thumbnail": "https://i.vimeocdn.com/video/1377640812-e19bfb54d8ec0751b0ba9bcf7bc59ce6144d56d496591c9a9c52a88882ca4df2-d_295x166",
-      "date": "2022-01-25T00:00:00",
-      "speakers": [
-        {
-          "name": "Donovan Brown",
-          "slug": "donovan-brown"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "K8S",
-          "slug": "k8s"
-        },
-        {
-          "name": "Kubernetes",
-          "slug": "kubernetes"
-        },
-        {
-          "name": "Helm",
-          "slug": "helm"
-        }
-      ]
-    },
-    {
-      "title": "An Infrastructure as Code Bake-off, comparing ARM, Terraform and Bicep",
-      "slug": "an-infrastructure-as-code-bakeoff-comparing-arm-terraform-and-bicep-2",
-      "thumbnail": "https://i.vimeocdn.com/video/1356030553-316f8dcaf6f5da6b1c28d5fdd72c3c48ff2d57c32d562e0978c80a70292a1440-d_295x166",
-      "date": "2022-01-18T00:00:00",
-      "speakers": [
-        {
-          "name": "Mike Benkovich",
-          "slug": "mike-benkovich"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        },
-        {
-          "name": "DFW Azure User Group",
-          "slug": "dfw-azure-user-group"
-        },
-        {
-          "name": "Azure User Group - Houston",
-          "slug": "azure-user-group-houston"
-        }
-      ],
-      "tags": [
-        {
-          "name": "ARM",
-          "slug": "arm"
-        },
-        {
-          "name": "BiCep",
-          "slug": "bicep"
-        }
-      ]
-    },
-    {
-      "title": "Minimal APIs with ASP.NET 6.0",
-      "slug": "minimal-apis-with-aspnet-60",
-      "thumbnail": "https://i.vimeocdn.com/video/1377563992-d64f308f4a27167c9d28e6da268ce790da728ea784a0f87e41ba41cdb790e1fc-d_295x166",
-      "date": "2022-01-13T00:00:00",
-      "speakers": [
-        {
-          "name": "Rob Richardson",
-          "slug": "rob-richardson"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": ".net",
-          "slug": "net"
-        },
-        {
-          "name": "ASP.NET Core",
-          "slug": "asp-net-core"
-        },
-        {
-          "name": "API",
-          "slug": "api"
-        },
-        {
-          "name": "ASP.NET",
-          "slug": "asp-net"
-        },
-        {
-          "name": "Minimal API",
-          "slug": "minimal-api"
         }
       ]
     }

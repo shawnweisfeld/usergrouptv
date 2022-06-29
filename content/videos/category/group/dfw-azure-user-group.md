@@ -5,9 +5,27 @@
     "DFW Azure User Group"
   ],
   "slug": "dfw-azure-user-group",
-  "date": "2022-05-17T00:00:00",
+  "date": "2022-06-21T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Introduction to Azure Web Application Firewall (WAF)",
+      "slug": "introduction-to-azure-web-application-firewall-waf",
+      "thumbnail": "https://i.vimeocdn.com/video/1460364484-e46b150fd1d01bcc0edba820ca67ffbaf7491c38a5c22b60b79b54da058262d4-d_295x166",
+      "date": "2022-06-21T00:00:00",
+      "speakers": [
+        {
+          "name": "Sowmya Mahadevaiah",
+          "slug": "sowmya-mahadevaiah"
+        }
+      ],
+      "tags": [
+        {
+          "name": "waf",
+          "slug": "waf"
+        }
+      ]
+    },
     {
       "title": "Azure Data Factory",
       "slug": "azure-data-factory",

@@ -5,9 +5,27 @@
     "Capitol Area Central Texas Users of SQL Server"
   ],
   "slug": "capitol-area-central-texas-users-of-sql-server",
-  "date": "2022-05-17T00:00:00",
+  "date": "2022-06-21T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Azure Data Factory Tips and Tricks",
+      "slug": "azure-data-factory-tips-and-tricks",
+      "thumbnail": "https://i.vimeocdn.com/video/1460364089-fd107a6711cf53d5164b8f9493430a085504c9bf27ad964ffed2494b899fd469-d_295x166",
+      "date": "2022-06-21T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Burek",
+          "slug": "mike-burek"
+        }
+      ],
+      "tags": [
+        {
+          "name": "ADF",
+          "slug": "adf"
+        }
+      ]
+    },
     {
       "title": "Getting Started with SQL Server Performance Tuning",
       "slug": "getting-started-with-sql-server-performance-tuning",

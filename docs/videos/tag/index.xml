@@ -6,7 +6,34 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 May 2022 21:17:37 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jun 2022 19:53:37 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ADF</title>
+      <link>https://usergroup.tv/videos/tag/adf/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/adf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>waf</title>
+      <link>https://usergroup.tv/videos/tag/waf/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/waf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Engineering</title>
+      <link>https://usergroup.tv/videos/tag/data-engineering/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/data-engineering/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Power BI</title>
       <link>https://usergroup.tv/videos/tag/power-bi/</link>
@@ -1777,15 +1804,6 @@
       <pubDate>Thu, 05 Oct 2017 21:53:05 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/web-components/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>waf</title>
-      <link>https://usergroup.tv/videos/tag/waf/</link>
-      <pubDate>Thu, 05 Oct 2017 21:51:41 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/waf/</guid>
       <description></description>
     </item>
     

@@ -28074,4 +28074,81 @@ We'll look at different styles of joins and many different ways to use and abuse
       <slug>power-bi</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>The Data God Guide to Citizen Data Engineering</Title>
+    <Url>https://usergroup.tv/videos/the-data-god-guide-to-citizen-data-engineering/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1460363698-e652f3cf999605a957b658d34e353a45a4714571d8a0bdc0e09fff165fe643aa-d_295x166</Thumbnail>
+    <Excerpt>This presentation takes you through the concepts of data engineering, how citizen data engineers are important to organizations, and a demo that covers basic, intermediate, and advanced concepts within data engineering.</Excerpt>
+    <PostDate>2022-06-08T00:00:00</PostDate>
+    <Id>1115</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/724889408/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=66992b7d15bc84e6738ee3340784e2f65c212385f55bb743c152523462e48f60</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/724889408/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=26814ae409307af94b7208ab0e62c80a01319d5b4b9430702e2bc0d2773166f9</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Chris Wagner</name>
+      <slug>chris-wagner</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Data Engineering</name>
+      <slug>data-engineering</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Azure Data Factory Tips and Tricks</Title>
+    <Url>https://usergroup.tv/videos/azure-data-factory-tips-and-tricks/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1460364089-fd107a6711cf53d5164b8f9493430a085504c9bf27ad964ffed2494b899fd469-d_295x166</Thumbnail>
+    <Excerpt>* Zipping a large file in an Azure Storage Account so your download is smaller
+* Disable an Activity in Azure Data Factory
+* Do a partial Publish in Azure Data Factory instead of the whole Publish All
+
+I'll start out with a quick overview of what each tip is. Then I'll go through a longer step by step process of setting up each tip.</Excerpt>
+    <PostDate>2022-06-21T00:00:00</PostDate>
+    <Id>1116</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/724947445/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=1c7b15cf5bdf7465d52a7352c82475627827a6890ac3efec2a52ee3da988d466</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/724947445/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=3d4f792ca7377cb8b53fad40d156ca4c0e3d17d04ce9d5b3b5851f889a02c4e3</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Mike Burek</name>
+      <slug>mike-burek</slug>
+    </Speakers>
+    <Groups>
+      <name>Capitol Area Central Texas Users of SQL Server</name>
+      <slug>capitol-area-central-texas-users-of-sql-server</slug>
+    </Groups>
+    <Tags>
+      <name>ADF</name>
+      <slug>adf</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Introduction to Azure Web Application Firewall (WAF)</Title>
+    <Url>https://usergroup.tv/videos/introduction-to-azure-web-application-firewall-waf/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1460364484-e46b150fd1d01bcc0edba820ca67ffbaf7491c38a5c22b60b79b54da058262d4-d_295x166</Thumbnail>
+    <Excerpt>This talk will give an overview of the Azure Web Application Firewall (WAF) product. The presentation will cover the need for Azure WAF, Azure WAF’s capabilities and recently introduced features.</Excerpt>
+    <PostDate>2022-06-21T00:00:00</PostDate>
+    <Id>1117</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/724982268/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=7d1fff8761201835156d0b9a870b7f5a2d23bb7e7063f2d0bb5b7c7a7f083e93</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/724982268/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=7535e746781bdb8d5e2b59274fa54c6c286811e324c6ad58257cb64413f25bf4</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Sowmya Mahadevaiah</name>
+      <slug>sowmya-mahadevaiah</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>waf</name>
+      <slug>waf</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

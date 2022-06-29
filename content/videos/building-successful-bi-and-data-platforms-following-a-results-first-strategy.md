@@ -22,8 +22,8 @@
     {
       "name": "Chris Wagner",
       "slug": "chris-wagner",
-      "bio": "Chris has been working in the Data and Analytics space for nearly 20 years. Chris has dedicated his professional career to making data and information accessible to the masses. A significant component in making data available is continually learning new things and teaching others from these experiences. To help people keep up with this ever-changing landscape, Chris frequently posts on LinkedIn and to his blog.",
-      "count": 1
+      "bio": "Microsoft MVP, Kratos BI owner/founder, Senior Big Data/ Business Intelligence (BI) Solution Architect and Developer with experience in a wide variety of business applications and business processes with an emphasis on Insurance, Banking, Risk, Finance, Marketing and driving ROI through utilization of Agile Development best practices.",
+      "count": 2
     }
   ],
   "ugtvtags": [
@@ -37,7 +37,7 @@
     {
       "name": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "count": 30
+      "count": 31
     }
   ]
 }

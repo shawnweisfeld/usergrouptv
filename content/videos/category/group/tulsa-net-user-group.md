@@ -5,9 +5,49 @@
     "Tulsa .NET User Group"
   ],
   "slug": "tulsa-net-user-group",
-  "date": "2022-05-12T00:00:00",
+  "date": "2022-07-14T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Microsoft Orleans",
+      "slug": "microsoft-orleans",
+      "thumbnail": "https://i.vimeocdn.com/video/1474779624-219f6e50c028d7836e307b872dc031d39110094b9906db4b5e4cef288fac8f2e-d_295x166",
+      "date": "2022-07-14T00:00:00",
+      "speakers": [
+        {
+          "name": "Reuben Bond",
+          "slug": "reuben-bond"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Microsoft Orleans",
+          "slug": "microsoft-orleans"
+        },
+        {
+          "name": "Distributed Architecture",
+          "slug": "distributed-architecture"
+        }
+      ]
+    },
+    {
+      "title": "Improving code quality with Static Analyzers",
+      "slug": "improving-code-quality-with-static-analyzers",
+      "thumbnail": "https://i.vimeocdn.com/video/1474779438-359332411a504aef97f9bcdda13d9662e92f61984e0d9d210e057b8a60723f68-d_295x166",
+      "date": "2022-06-28T00:00:00",
+      "speakers": [
+        {
+          "name": "Jim Wooley",
+          "slug": "jim-wooley"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Static Analyzers",
+          "slug": "static-analyzers"
+        }
+      ]
+    },
     {
       "title": "Service Principals and Managed Identities - tools every Azure Dev should know",
       "slug": "service-principals-and-managed-identities-tools-every-azure-dev-should-know",

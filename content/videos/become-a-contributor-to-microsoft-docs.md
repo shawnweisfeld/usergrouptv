@@ -43,7 +43,7 @@
     {
       "name": "SQL",
       "slug": "sql",
-      "count": 23
+      "count": 24
     },
     {
       "name": "Documentation",
@@ -55,7 +55,7 @@
     {
       "name": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "count": 80
+      "count": 81
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2022-06-29T19:53:37.805756Z",
+  "date": "2022-07-24T01:02:18.5475623Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -136,6 +136,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/1377563992-d64f308f4a27167c9d28e6da268ce790da728ea784a0f87e41ba41cdb790e1fc-d_295x166",
       "date": "2022-01-13T00:00:00",
       "count": 5
+    },
+    {
+      "title": "Application Insights",
+      "slug": "application-insights",
+      "thumbnail": "https://i.vimeocdn.com/video/1474779741-267753039bd229cc4c60e8ec7665b18d850e3246f87e64de4b93d316fcf2d657-d_295x166",
+      "date": "2022-07-19T00:00:00",
+      "count": 1
     },
     {
       "title": "AR",
@@ -948,6 +955,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/1057117933-131fc8c6482aedee3d0149389adf2f9b12a02eb7dc3fbc25828a33a8d8159e1c-d_295x166",
       "date": "2021-01-14T00:00:00",
       "count": 16
+    },
+    {
+      "title": "Distributed Architecture",
+      "slug": "distributed-architecture",
+      "thumbnail": "https://i.vimeocdn.com/video/1474779624-219f6e50c028d7836e307b872dc031d39110094b9906db4b5e4cef288fac8f2e-d_295x166",
+      "date": "2022-07-14T00:00:00",
+      "count": 1
     },
     {
       "title": "Distributed Transactions",
@@ -1778,9 +1792,9 @@
     {
       "title": "Microsoft Orleans",
       "slug": "microsoft-orleans",
-      "thumbnail": "https://i.vimeocdn.com/video/1215477680-dd1b3273d9de364ed413ad298b1590833985c68d29709c9305c63347d68f0fe8-d_295x166",
-      "date": "2021-08-09T00:00:00",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1474779624-219f6e50c028d7836e307b872dc031d39110094b9906db4b5e4cef288fac8f2e-d_295x166",
+      "date": "2022-07-14T00:00:00",
+      "count": 2
     },
     {
       "title": "millennials",
@@ -2163,9 +2177,9 @@
     {
       "title": "Power BI",
       "slug": "power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1439597667-1c3e017aedb7098fa1f650f30f3ad12f10cc7025acb457a78ebb66e482871370-d_295x166",
-      "date": "2022-05-18T00:00:00",
-      "count": 33
+      "thumbnail": "https://i.vimeocdn.com/video/1474779570-5109f68a6633b5f2139f29227b745a44b5580ed675d87f34ec6ed983d5193c9b-d_295x166",
+      "date": "2022-07-13T00:00:00",
+      "count": 34
     },
     {
       "title": "Power Map",
@@ -2282,9 +2296,9 @@
     {
       "title": "Python",
       "slug": "python",
-      "thumbnail": "https://i.vimeocdn.com/video/854626443-6dbab1c4880358e08498ef860060c3f59a192b4a5ae14d5523e988458d7f6478-d_295x166",
-      "date": "2020-02-08T16:14:32",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1474779570-5109f68a6633b5f2139f29227b745a44b5580ed675d87f34ec6ed983d5193c9b-d_295x166",
+      "date": "2022-07-13T00:00:00",
+      "count": 2
     },
     {
       "title": "Questions",
@@ -2296,9 +2310,9 @@
     {
       "title": "R",
       "slug": "r",
-      "thumbnail": "https://i.vimeocdn.com/video/728974733-28ebb1e6820e01c2d087cdaef8e547f11890c40ccf9862daa73d55cf0e8c9300-d_295x166",
-      "date": "2018-09-29T15:11:38",
-      "count": 4
+      "thumbnail": "https://i.vimeocdn.com/video/1474779570-5109f68a6633b5f2139f29227b745a44b5580ed675d87f34ec6ed983d5193c9b-d_295x166",
+      "date": "2022-07-13T00:00:00",
+      "count": 5
     },
     {
       "title": "Rackspace",
@@ -2590,9 +2604,9 @@
     {
       "title": "SQL",
       "slug": "sql",
-      "thumbnail": "https://i.vimeocdn.com/video/1439482168-e84fd0ff1dbfc8a6184c56a53ab256716bc5706547531ca5bf644eb1db060f79-d_295x166",
-      "date": "2022-05-17T00:00:00",
-      "count": 23
+      "thumbnail": "https://i.vimeocdn.com/video/1474779816-83f12728b158f14cd85e1c5cfbaf929d0b7036573a95f4896bf3476ab76d1a1a-d_295x166",
+      "date": "2022-07-19T00:00:00",
+      "count": 24
     },
     {
       "title": "SQL Admin",
@@ -2830,6 +2844,13 @@
       "slug": "startup",
       "thumbnail": "https://i.vimeocdn.com/video/593959626-735fdc6b5aeef15939cee24b3452c38736f4ff5abe3df2b9e7df09cbfe837140-d_295x166",
       "date": "2016-09-24T19:45:32",
+      "count": 1
+    },
+    {
+      "title": "Static Analyzers",
+      "slug": "static-analyzers",
+      "thumbnail": "https://i.vimeocdn.com/video/1474779438-359332411a504aef97f9bcdda13d9662e92f61984e0d9d210e057b8a60723f68-d_295x166",
+      "date": "2022-06-28T00:00:00",
       "count": 1
     },
     {

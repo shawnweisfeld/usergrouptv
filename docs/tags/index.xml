@@ -6,20 +6,20 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ADF</title>
-      <link>https://usergroup.tv/tags/adf/</link>
-      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <title>Application Insights</title>
+      <link>https://usergroup.tv/tags/application-insights/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://usergroup.tv/tags/adf/</guid>
+      <guid>https://usergroup.tv/tags/application-insights/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Azure Austin Meetup</title>
       <link>https://usergroup.tv/tags/azure-austin-meetup/</link>
-      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/azure-austin-meetup/</guid>
       <description></description>
@@ -28,16 +28,25 @@
     <item>
       <title>Capitol Area Central Texas Users of SQL Server</title>
       <link>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</link>
-      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Chris Ayers</title>
+      <link>https://usergroup.tv/tags/chris-ayers/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/chris-ayers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DFW Azure User Group</title>
       <link>https://usergroup.tv/tags/dfw-azure-user-group/</link>
-      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/dfw-azure-user-group/</guid>
       <description></description>
@@ -46,9 +55,126 @@
     <item>
       <title>Mike Burek</title>
       <link>https://usergroup.tv/tags/mike-burek/</link>
-      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/mike-burek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://usergroup.tv/tags/sql/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Architecture</title>
+      <link>https://usergroup.tv/tags/distributed-architecture/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/distributed-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Orleans</title>
+      <link>https://usergroup.tv/tags/microsoft-orleans/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/microsoft-orleans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reuben Bond</title>
+      <link>https://usergroup.tv/tags/reuben-bond/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/reuben-bond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/tags/tulsa-.net-user-group/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/tulsa-.net-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Austin Power BI User Group</title>
+      <link>https://usergroup.tv/tags/austin-power-bi-user-group/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/austin-power-bi-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pablo Moreno</title>
+      <link>https://usergroup.tv/tags/pablo-moreno/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/pablo-moreno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>https://usergroup.tv/tags/power-bi/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://usergroup.tv/tags/python/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://usergroup.tv/tags/r/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jim Wooley</title>
+      <link>https://usergroup.tv/tags/jim-wooley/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/jim-wooley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static Analyzers</title>
+      <link>https://usergroup.tv/tags/static-analyzers/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/static-analyzers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADF</title>
+      <link>https://usergroup.tv/tags/adf/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/adf/</guid>
       <description></description>
     </item>
     
@@ -71,15 +197,6 @@
     </item>
     
     <item>
-      <title>Austin Power BI User Group</title>
-      <link>https://usergroup.tv/tags/austin-power-bi-user-group/</link>
-      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/austin-power-bi-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Chris Wagner</title>
       <link>https://usergroup.tv/tags/chris-wagner/</link>
       <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
@@ -94,15 +211,6 @@
       <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/data-engineering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power BI</title>
-      <link>https://usergroup.tv/tags/power-bi/</link>
-      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/power-bi/</guid>
       <description></description>
     </item>
     
@@ -139,15 +247,6 @@
       <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/mark-moore/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQL</title>
-      <link>https://usergroup.tv/tags/sql/</link>
-      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/sql/</guid>
       <description></description>
     </item>
     
@@ -193,15 +292,6 @@
       <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/service-principal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/tags/tulsa-.net-user-group/</link>
-      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/tulsa-.net-user-group/</guid>
       <description></description>
     </item>
     
@@ -845,15 +935,6 @@
     </item>
     
     <item>
-      <title>Microsoft Orleans</title>
-      <link>https://usergroup.tv/tags/microsoft-orleans/</link>
-      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/microsoft-orleans/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mohammad Sadiq</title>
       <link>https://usergroup.tv/tags/mohammad-sadiq/</link>
       <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
@@ -940,15 +1021,6 @@
       <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/entity-framework/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jim Wooley</title>
-      <link>https://usergroup.tv/tags/jim-wooley/</link>
-      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/jim-wooley/</guid>
       <description></description>
     </item>
     
@@ -1390,15 +1462,6 @@
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/sql-server/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pablo Moreno</title>
-      <link>https://usergroup.tv/tags/pablo-moreno/</link>
-      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/pablo-moreno/</guid>
       <description></description>
     </item>
     
@@ -1867,15 +1930,6 @@
       <pubDate>Sat, 08 Feb 2020 16:14:32 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/jupyter-notebook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://usergroup.tv/tags/python/</link>
-      <pubDate>Sat, 08 Feb 2020 16:14:32 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/python/</guid>
       <description></description>
     </item>
     
@@ -3181,15 +3235,6 @@
       <pubDate>Sat, 29 Sep 2018 15:18:28 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/mike-bishop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>https://usergroup.tv/tags/r/</link>
-      <pubDate>Sat, 29 Sep 2018 15:11:38 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/r/</guid>
       <description></description>
     </item>
     

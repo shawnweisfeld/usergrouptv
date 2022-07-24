@@ -28151,4 +28151,149 @@ I'll start out with a quick overview of what each tip is. Then I'll go through a
       <slug>waf</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Improving code quality with Static Analyzers</Title>
+    <Url>https://usergroup.tv/videos/improving-code-quality-with-static-analyzers/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1474779438-359332411a504aef97f9bcdda13d9662e92f61984e0d9d210e057b8a60723f68-d_295x166</Thumbnail>
+    <Excerpt>How do you keep code consistent across a team or make sure your independent code follows accepted standards, use a Static Analyzer tool. See how to use some of these tools for your .Net, JavaScript, Style sheets, etc. to improve your code as an independent or large team lead.
+
+Whether you're an independent developer that needs assistance reviewing your code, or a member of a large team that wants to keep code consistency among the team, static analyzer tools can help identify and optionally fix issues in your code. Many platforms have their own version to help based on the language, including Roslyn, JsLint, CssLint, SonarQube. FxCop, StyleCop, etc. We'll take a look at some of these tools and explore how they can help identify issues in your code and improve maintainability and decrease errors before you deploy to production. We'll also look at the ability to build your own tool to enforce rules in your specific domain.</Excerpt>
+    <PostDate>2022-06-28T00:00:00</PostDate>
+    <Id>1118</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/732828599/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=fd8998eff64d86f1893f890f6a1fe0c02183961484c65cfff9bb03fd66796c86</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/732828599/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=82a6493c0aeaba4ff6cb3f47f9fae847d0d7dfec743d8f52314b00f27925399e</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Jim Wooley</name>
+      <slug>jim-wooley</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Static Analyzers</name>
+      <slug>static-analyzers</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Microsoft Orleans</Title>
+    <Url>https://usergroup.tv/videos/microsoft-orleans/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1474779624-219f6e50c028d7836e307b872dc031d39110094b9906db4b5e4cef288fac8f2e-d_295x166</Thumbnail>
+    <Excerpt>Learn about the internals of Orleans, Microsoft's high scale distributed systems framework. Reuben will cover the programming model, architecture, networking, RPC system, code generation, and serialization, paying special attention to the techniques used to optimize performance.</Excerpt>
+    <PostDate>2022-07-14T00:00:00</PostDate>
+    <Id>1119</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/732828730/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=5b888c44cd9c007bf9df3412641b4989b01207470a6057c6d87a4147173db901</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/732828730/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=292c4f270e2b636d099e9ab9047d8c822649facaa01745491d0258b4344163fa</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Reuben Bond</name>
+      <slug>reuben-bond</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Microsoft Orleans</name>
+      <slug>microsoft-orleans</slug>
+    </Tags>
+    <Tags>
+      <name>Distributed Architecture</name>
+      <slug>distributed-architecture</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Monitoring and Troubleshooting with Azure Application Insights</Title>
+    <Url>https://usergroup.tv/videos/monitoring-and-troubleshooting-with-azure-application-insights/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1474779741-267753039bd229cc4c60e8ec7665b18d850e3246f87e64de4b93d316fcf2d657-d_295x166</Thumbnail>
+    <Excerpt>Monitoring and troubleshooting a live, production application is vital. One of the most stressful things a team can do, is trying to diagnose a distributed system without adding to the disruptions. Application Insights, part of Azure Monitor, is a tool that can you can plug into your applications to get the data you need. It goes far beyond a simple, logging solution by automatically detect performance anomalies and providing a live view into your applications.
+
+We will cover how to enable Application Insights in our applications, both on prem, or in the cloud. I'll share examples in C#, JavaScript, and Python. We'll explore the integrations with DevOps and development tooling. Together we’ll look at the way Application Insights provides a deep view into application performance, errors, and usage. Finally, we’ll look at how to detect anomalies before they become complete outages and get alerted.
+
+After this session, you'll be able to use Application Insights to help you continuously improve performance and usability. When issues arise, you'll have the insights to resolve problems quickly.
+Monitoring and troubleshooting a live, production application is vital. One of the most stressful things a team can do, is trying to diagnose a distributed system without adding to the disruptions. Application Insights, part of Azure Monitor, is a tool that can you can plug into your applications to get the data you need. After this session, you'll be able to use Application Insights to help you continuously improve performance and usability. When issues arise, you'll have the insights to resolve problems quickly.</Excerpt>
+    <PostDate>2022-07-19T00:00:00</PostDate>
+    <Id>1120</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/732828790/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=d7af668e9bb2334bd76a90f188e9ef2b01e9f1fb3e31cb1a95006fec16417333</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/732828790/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=3d5aeadfa9411f044e9d0b2225f209e8906a8744123fbc2340b8ef3aac5050f9</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Chris Ayers</name>
+      <slug>chris-ayers</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Application Insights</name>
+      <slug>application-insights</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Working with R and Python in Power BI</Title>
+    <Url>https://usergroup.tv/videos/working-with-r-and-python-in-power-bi/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1474779570-5109f68a6633b5f2139f29227b745a44b5580ed675d87f34ec6ed983d5193c9b-d_295x166</Thumbnail>
+    <Excerpt>This session will provide examples of how to extend Power BI with R and Python. Pablo has written a book about this subject titled Machine Learning in Power BI with R and Python. As an added bonus for those that attend, there will be a contest for a free eBook copy of his book.</Excerpt>
+    <PostDate>2022-07-13T00:00:00</PostDate>
+    <Id>1121</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/732828681/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=ab34a26d22cfa1a6e911fe5f94061091e0e71d39fc4f75a08869393b5287e833</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/732828681/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=5c9af68027d850310688ab5a2e2365f245d342891179b33c9111e4f225408d50</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Pablo Moreno</name>
+      <slug>pablo-moreno</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Python</name>
+      <slug>python</slug>
+    </Tags>
+    <Tags>
+      <name>R</name>
+      <slug>r</slug>
+    </Tags>
+    <Tags>
+      <name>Power BI</name>
+      <slug>power-bi</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>New SQL Server 2022 commands</Title>
+    <Url>https://usergroup.tv/videos/new-sql-server-2022-commands/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1474779816-83f12728b158f14cd85e1c5cfbaf929d0b7036573a95f4896bf3476ab76d1a1a-d_295x166</Thumbnail>
+    <Excerpt>Look at the new features in SQL Server 2022 specifically related to T-SQL:
+
+Updating statistics to add AUTO_DROP option.
+Updating FIRST_VALUE and LAST_VALUE to support IGNORE NULLS and RESPECT NULLS.
+Some new JSON functions.
+New named windows.
+Pausing and resuming an ALTER TABLE ADD CONSTRAINT.
+New commands GREATEST, LEAST, STRING_SPLIT, DATE_BUCKET, GENERATE_SERIES.</Excerpt>
+    <PostDate>2022-07-19T00:00:00</PostDate>
+    <Id>1122</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/732828851/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=f2254cd1682cc70a97a49c03c4304f9f48cb8c0d45d8138efde79e9d482d8783</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/732828851/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=6005e476de7797c5ae03296259b64f206b13cd00806f6b5ae5cd6b68f85e166c</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Mike Burek</name>
+      <slug>mike-burek</slug>
+    </Speakers>
+    <Groups>
+      <name>Capitol Area Central Texas Users of SQL Server</name>
+      <slug>capitol-area-central-texas-users-of-sql-server</slug>
+    </Groups>
+    <Tags>
+      <name>SQL</name>
+      <slug>sql</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

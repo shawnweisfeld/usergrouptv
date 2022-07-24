@@ -30,7 +30,7 @@
     {
       "name": "R",
       "slug": "r",
-      "count": 4
+      "count": 5
     }
   ],
   "meetups": [

@@ -32,7 +32,7 @@
     {
       "name": "Python",
       "slug": "python",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Jupyter Notebook",
@@ -54,7 +54,7 @@
     {
       "name": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "count": 80
+      "count": 81
     }
   ]
 }

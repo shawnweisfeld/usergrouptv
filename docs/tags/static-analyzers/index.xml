@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Static Analyzers on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/static-analyzers/</link>
+    <description>Recent content in Static Analyzers on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/static-analyzers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Improving code quality with Static Analyzers</title>
+      <link>https://usergroup.tv/videos/improving-code-quality-with-static-analyzers/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/improving-code-quality-with-static-analyzers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static Analyzers</title>
+      <link>https://usergroup.tv/videos/tag/static-analyzers/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/static-analyzers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

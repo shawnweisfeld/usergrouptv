@@ -6,7 +6,52 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jun 2022 19:53:29 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jul 2022 01:02:17 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monitoring and Troubleshooting with Azure Application Insights</title>
+      <link>https://usergroup.tv/videos/monitoring-and-troubleshooting-with-azure-application-insights/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/monitoring-and-troubleshooting-with-azure-application-insights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New SQL Server 2022 commands</title>
+      <link>https://usergroup.tv/videos/new-sql-server-2022-commands/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/new-sql-server-2022-commands/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Orleans</title>
+      <link>https://usergroup.tv/videos/microsoft-orleans/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/microsoft-orleans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working with R and Python in Power BI</title>
+      <link>https://usergroup.tv/videos/working-with-r-and-python-in-power-bi/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/working-with-r-and-python-in-power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving code quality with Static Analyzers</title>
+      <link>https://usergroup.tv/videos/improving-code-quality-with-static-analyzers/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/improving-code-quality-with-static-analyzers/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Azure Data Factory Tips and Tricks</title>
       <link>https://usergroup.tv/videos/azure-data-factory-tips-and-tricks/</link>

@@ -6,7 +6,79 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jun 2022 19:53:37 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jul 2022 01:02:18 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Application Insights</title>
+      <link>https://usergroup.tv/videos/tag/application-insights/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/application-insights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://usergroup.tv/videos/tag/sql/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Architecture</title>
+      <link>https://usergroup.tv/videos/tag/distributed-architecture/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/distributed-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Orleans</title>
+      <link>https://usergroup.tv/videos/tag/microsoft-orleans/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/microsoft-orleans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>https://usergroup.tv/videos/tag/power-bi/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://usergroup.tv/videos/tag/python/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://usergroup.tv/videos/tag/r/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static Analyzers</title>
+      <link>https://usergroup.tv/videos/tag/static-analyzers/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/static-analyzers/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ADF</title>
       <link>https://usergroup.tv/videos/tag/adf/</link>
@@ -35,29 +107,11 @@
     </item>
     
     <item>
-      <title>Power BI</title>
-      <link>https://usergroup.tv/videos/tag/power-bi/</link>
-      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Azure</title>
       <link>https://usergroup.tv/videos/tag/azure/</link>
       <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/azure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQL</title>
-      <link>https://usergroup.tv/videos/tag/sql/</link>
-      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/sql/</guid>
       <description></description>
     </item>
     
@@ -490,15 +544,6 @@
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/charticulator/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Microsoft Orleans</title>
-      <link>https://usergroup.tv/videos/tag/microsoft-orleans/</link>
-      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/microsoft-orleans/</guid>
       <description></description>
     </item>
     
@@ -989,15 +1034,6 @@
     </item>
     
     <item>
-      <title>Python</title>
-      <link>https://usergroup.tv/videos/tag/python/</link>
-      <pubDate>Sat, 08 Feb 2020 16:14:32 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Career</title>
       <link>https://usergroup.tv/videos/tag/career/</link>
       <pubDate>Sat, 08 Feb 2020 16:12:39 +0000</pubDate>
@@ -1345,15 +1381,6 @@
       <pubDate>Sat, 29 Sep 2018 15:18:28 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/groovy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>https://usergroup.tv/videos/tag/r/</link>
-      <pubDate>Sat, 29 Sep 2018 15:11:38 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/r/</guid>
       <description></description>
     </item>
     

@@ -5,10 +5,36 @@
   ],
   "type": "speaker",
   "slug": "pablo-moreno",
-  "date": "2020-10-14T00:00:00",
+  "date": "2022-07-13T00:00:00",
   "draft": false,
-  "bio": "",
+  "bio": "Pablo Moreno is a Microsoft MVP who has a passion for data and data science.",
   "recordings": [
+    {
+      "title": "Working with R and Python in Power BI",
+      "slug": "working-with-r-and-python-in-power-bi",
+      "thumbnail": "https://i.vimeocdn.com/video/1474779570-5109f68a6633b5f2139f29227b745a44b5580ed675d87f34ec6ed983d5193c9b-d_295x166",
+      "date": "2022-07-13T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Python",
+          "slug": "python"
+        },
+        {
+          "name": "R",
+          "slug": "r"
+        },
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "Machine Learning in Power BI with Python",
       "slug": "machine-learning-in-power-bi-with-python",

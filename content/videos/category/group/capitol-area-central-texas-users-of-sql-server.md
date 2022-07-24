@@ -5,9 +5,27 @@
     "Capitol Area Central Texas Users of SQL Server"
   ],
   "slug": "capitol-area-central-texas-users-of-sql-server",
-  "date": "2022-06-21T00:00:00",
+  "date": "2022-07-19T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "New SQL Server 2022 commands",
+      "slug": "new-sql-server-2022-commands",
+      "thumbnail": "https://i.vimeocdn.com/video/1474779816-83f12728b158f14cd85e1c5cfbaf929d0b7036573a95f4896bf3476ab76d1a1a-d_295x166",
+      "date": "2022-07-19T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Burek",
+          "slug": "mike-burek"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        }
+      ]
+    },
     {
       "title": "Azure Data Factory Tips and Tricks",
       "slug": "azure-data-factory-tips-and-tricks",

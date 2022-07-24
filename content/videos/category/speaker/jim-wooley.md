@@ -5,10 +5,28 @@
   ],
   "type": "speaker",
   "slug": "jim-wooley",
-  "date": "2021-06-22T00:00:00",
+  "date": "2022-06-28T00:00:00",
   "draft": false,
-  "bio": "By day, Jim Wooley is a consultant for Slalom Consulting, In his free time, Jim is a frequent speaker, MVP, and author of \"LINQ in Action\". He is always striving to stay at the forefront of technology and enjoys the thrill of a new challenge. He has been active evangelizing LINQ since it's announcement in 2005. In addition, he attempts to pass on the insights he has gained by being active in the community, including organizing and speaking at code camps and regional events, including DevLink, DevWeek, CodeMash, CodeStock, VS Live, and MIX.",
+  "bio": "By day, Jim Wooley is a Senior Delivery Principal for Slalom Consulting, In his free time, Jim is a frequent speaker, MVP, and author of \"LINQ in Action\". He is always striving to stay at the forefront of technology and enjoys the thrill of a new challenge. He has been active evangelizing LINQ since its announcement in 2005. In addition, he attempts to pass on the insights he has gained by being active in the community, including organizing and speaking at code camps and regional events, including VS Live, KCDC, That Conference, TechBash, and CodeStock.",
   "recordings": [
+    {
+      "title": "Improving code quality with Static Analyzers",
+      "slug": "improving-code-quality-with-static-analyzers",
+      "thumbnail": "https://i.vimeocdn.com/video/1474779438-359332411a504aef97f9bcdda13d9662e92f61984e0d9d210e057b8a60723f68-d_295x166",
+      "date": "2022-06-28T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Static Analyzers",
+          "slug": "static-analyzers"
+        }
+      ]
+    },
     {
       "title": "Entity Framework Performance Monitoring and Tuning",
       "slug": "entity-framework-performance-monitoring-and-tuning",

@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2022-06-29T19:53:35.3330053Z",
+  "date": "2022-07-24T01:02:18.0521721Z",
   "draft": false,
   "speakers": [
     {
@@ -675,6 +675,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/831973973-dc3924b6c597d27f178376e379f9b610a3fc3debf8fb4105a9fa3e139894340a-d_295x166",
       "date": "2019-11-11T17:23:37",
       "count": 7
+    },
+    {
+      "title": "Chris Ayers",
+      "slug": "chris-ayers",
+      "thumbnail": "https://i.vimeocdn.com/video/1474779741-267753039bd229cc4c60e8ec7665b18d850e3246f87e64de4b93d316fcf2d657-d_295x166",
+      "date": "2022-07-19T00:00:00",
+      "count": 1
     },
     {
       "title": "Chris Baudo",
@@ -1911,9 +1918,9 @@
     {
       "title": "Jim Wooley",
       "slug": "jim-wooley",
-      "thumbnail": "https://i.vimeocdn.com/video/1175041310-73a82bc8959cfbb17fed600f052802532fe51afae84eec46729874ae673eb4c1-d_295x166",
-      "date": "2021-06-22T00:00:00",
-      "count": 2
+      "thumbnail": "https://i.vimeocdn.com/video/1474779438-359332411a504aef97f9bcdda13d9662e92f61984e0d9d210e057b8a60723f68-d_295x166",
+      "date": "2022-06-28T00:00:00",
+      "count": 3
     },
     {
       "title": "Jimmy Bogard",
@@ -2905,9 +2912,9 @@
     {
       "title": "Mike Burek",
       "slug": "mike-burek",
-      "thumbnail": "https://i.vimeocdn.com/video/1460364089-fd107a6711cf53d5164b8f9493430a085504c9bf27ad964ffed2494b899fd469-d_295x166",
-      "date": "2022-06-21T00:00:00",
-      "count": 11
+      "thumbnail": "https://i.vimeocdn.com/video/1474779816-83f12728b158f14cd85e1c5cfbaf929d0b7036573a95f4896bf3476ab76d1a1a-d_295x166",
+      "date": "2022-07-19T00:00:00",
+      "count": 12
     },
     {
       "title": "Mike Byrd",
@@ -3101,9 +3108,9 @@
     {
       "title": "Pablo Moreno",
       "slug": "pablo-moreno",
-      "thumbnail": "https://i.vimeocdn.com/video/976555636-3c5fb54bd2fa4c4c10bb6808b9012763ae84d4a41a266a0af7433558acc98d75-d_295x166",
-      "date": "2020-10-14T00:00:00",
-      "count": 3
+      "thumbnail": "https://i.vimeocdn.com/video/1474779570-5109f68a6633b5f2139f29227b745a44b5580ed675d87f34ec6ed983d5193c9b-d_295x166",
+      "date": "2022-07-13T00:00:00",
+      "count": 4
     },
     {
       "title": "Patrick Abbs",
@@ -3327,6 +3334,13 @@
       "slug": "reinaldo-kibel",
       "thumbnail": "https://i.vimeocdn.com/video/505669133-4fab5af25ea78e29f94a7d7ad632dfb5952bd5f164f00cf61811f18c84ff7125-d_295x166",
       "date": "2015-01-31T14:01:39",
+      "count": 1
+    },
+    {
+      "title": "Reuben Bond",
+      "slug": "reuben-bond",
+      "thumbnail": "https://i.vimeocdn.com/video/1474779624-219f6e50c028d7836e307b872dc031d39110094b9906db4b5e4cef288fac8f2e-d_295x166",
+      "date": "2022-07-14T00:00:00",
       "count": 1
     },
     {

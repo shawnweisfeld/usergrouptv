@@ -22,8 +22,8 @@
     {
       "name": "Jim Wooley",
       "slug": "jim-wooley",
-      "bio": "By day, Jim Wooley is a consultant for Slalom Consulting, In his free time, Jim is a frequent speaker, MVP, and author of \"LINQ in Action\". He is always striving to stay at the forefront of technology and enjoys the thrill of a new challenge. He has been active evangelizing LINQ since it's announcement in 2005. In addition, he attempts to pass on the insights he has gained by being active in the community, including organizing and speaking at code camps and regional events, including DevLink, DevWeek, CodeMash, CodeStock, VS Live, and MIX.",
-      "count": 2
+      "bio": "By day, Jim Wooley is a Senior Delivery Principal for Slalom Consulting, In his free time, Jim is a frequent speaker, MVP, and author of \"LINQ in Action\". He is always striving to stay at the forefront of technology and enjoys the thrill of a new challenge. He has been active evangelizing LINQ since its announcement in 2005. In addition, he attempts to pass on the insights he has gained by being active in the community, including organizing and speaking at code camps and regional events, including VS Live, KCDC, That Conference, TechBash, and CodeStock.",
+      "count": 3
     }
   ],
   "ugtvtags": [

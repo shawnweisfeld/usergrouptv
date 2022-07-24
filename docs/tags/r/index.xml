@@ -6,22 +6,31 @@
     <description>Recent content in R on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Sep 2018 15:11:38 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R</title>
+      <link>https://usergroup.tv/videos/tag/r/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working with R and Python in Power BI</title>
+      <link>https://usergroup.tv/videos/working-with-r-and-python-in-power-bi/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/working-with-r-and-python-in-power-bi/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Introduction to R</title>
       <link>https://usergroup.tv/videos/introduction-to-r/</link>
       <pubDate>Sat, 29 Sep 2018 15:11:38 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/introduction-to-r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>https://usergroup.tv/videos/tag/r/</link>
-      <pubDate>Sat, 29 Sep 2018 15:11:38 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/r/</guid>
       <description></description>
     </item>
     

@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "python",
-  "date": "2020-02-08T16:14:32",
+  "date": "2022-07-13T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Working with R and Python in Power BI",
+      "slug": "working-with-r-and-python-in-power-bi",
+      "thumbnail": "https://i.vimeocdn.com/video/1474779570-5109f68a6633b5f2139f29227b745a44b5580ed675d87f34ec6ed983d5193c9b-d_295x166",
+      "date": "2022-07-13T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Pablo Moreno",
+          "slug": "pablo-moreno"
+        }
+      ]
+    },
     {
       "title": "ETL Using Python, Pandas, and Jupyter Notebook",
       "slug": "etl-using-python-pandas-and-jupyter-notebook",

@@ -1,12 +1,148 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2022-06-29T19:53:29.4444923Z",
+  "date": "2022-07-24T01:02:17.4357086Z",
   "draft": false,
-  "recordingCount": "1,111",
-  "speakerCount": "620",
+  "recordingCount": "1,116",
+  "speakerCount": "622",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Monitoring and Troubleshooting with Azure Application Insights",
+      "slug": "monitoring-and-troubleshooting-with-azure-application-insights",
+      "thumbnail": "https://i.vimeocdn.com/video/1474779741-267753039bd229cc4c60e8ec7665b18d850e3246f87e64de4b93d316fcf2d657-d_295x166",
+      "date": "2022-07-19T00:00:00",
+      "speakers": [
+        {
+          "name": "Chris Ayers",
+          "slug": "chris-ayers"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Application Insights",
+          "slug": "application-insights"
+        }
+      ]
+    },
+    {
+      "title": "New SQL Server 2022 commands",
+      "slug": "new-sql-server-2022-commands",
+      "thumbnail": "https://i.vimeocdn.com/video/1474779816-83f12728b158f14cd85e1c5cfbaf929d0b7036573a95f4896bf3476ab76d1a1a-d_295x166",
+      "date": "2022-07-19T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Burek",
+          "slug": "mike-burek"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        }
+      ]
+    },
+    {
+      "title": "Microsoft Orleans",
+      "slug": "microsoft-orleans",
+      "thumbnail": "https://i.vimeocdn.com/video/1474779624-219f6e50c028d7836e307b872dc031d39110094b9906db4b5e4cef288fac8f2e-d_295x166",
+      "date": "2022-07-14T00:00:00",
+      "speakers": [
+        {
+          "name": "Reuben Bond",
+          "slug": "reuben-bond"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Microsoft Orleans",
+          "slug": "microsoft-orleans"
+        },
+        {
+          "name": "Distributed Architecture",
+          "slug": "distributed-architecture"
+        }
+      ]
+    },
+    {
+      "title": "Working with R and Python in Power BI",
+      "slug": "working-with-r-and-python-in-power-bi",
+      "thumbnail": "https://i.vimeocdn.com/video/1474779570-5109f68a6633b5f2139f29227b745a44b5580ed675d87f34ec6ed983d5193c9b-d_295x166",
+      "date": "2022-07-13T00:00:00",
+      "speakers": [
+        {
+          "name": "Pablo Moreno",
+          "slug": "pablo-moreno"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Python",
+          "slug": "python"
+        },
+        {
+          "name": "R",
+          "slug": "r"
+        },
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
+    {
+      "title": "Improving code quality with Static Analyzers",
+      "slug": "improving-code-quality-with-static-analyzers",
+      "thumbnail": "https://i.vimeocdn.com/video/1474779438-359332411a504aef97f9bcdda13d9662e92f61984e0d9d210e057b8a60723f68-d_295x166",
+      "date": "2022-06-28T00:00:00",
+      "speakers": [
+        {
+          "name": "Jim Wooley",
+          "slug": "jim-wooley"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Static Analyzers",
+          "slug": "static-analyzers"
+        }
+      ]
+    },
     {
       "title": "Azure Data Factory Tips and Tricks",
       "slug": "azure-data-factory-tips-and-tricks",
@@ -372,166 +508,6 @@
         {
           "name": "Terraform",
           "slug": "terraform"
-        }
-      ]
-    },
-    {
-      "title": "User-Story Driven Threat Modeling",
-      "slug": "userstory-driven-threat-modeling",
-      "thumbnail": "https://i.vimeocdn.com/video/1393024084-ca25a22f0df6885bb8f34df945284203ac499c2d129412f94c08e33b8013666f-d_295x166",
-      "date": "2022-03-10T00:00:00",
-      "speakers": [
-        {
-          "name": "Robert Hurlbut",
-          "slug": "robert-hurlbut"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Security",
-          "slug": "security"
-        },
-        {
-          "name": "Cyber Security",
-          "slug": "cyber-security"
-        },
-        {
-          "name": "Threat Modeling",
-          "slug": "threat-modeling"
-        },
-        {
-          "name": "Cybersecurity",
-          "slug": "cybersecurity"
-        }
-      ]
-    },
-    {
-      "title": "Data Modeling Best Practices",
-      "slug": "data-modeling-best-practices",
-      "thumbnail": "https://i.vimeocdn.com/video/1393024279-7cd235758cc7673be0ebd3ebe351c99efddc7699af46e4e6c0be4e3bb4ec5495-d_295x166",
-      "date": "2022-03-09T00:00:00",
-      "speakers": [
-        {
-          "name": "Thomas Ivarsson",
-          "slug": "thomas-ivarsson"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "PowerBI",
-          "slug": "powerbi"
-        },
-        {
-          "name": "Power BI",
-          "slug": "power-bi"
-        }
-      ]
-    },
-    {
-      "title": "Landing Zones for Data and the Data Mesh Architecture",
-      "slug": "landing-zones-for-data-and-the-data-mesh-architecture",
-      "thumbnail": "https://i.vimeocdn.com/video/1377660771-40046bed4dcde719c1e20ac24a177c3e52ad04b71258f3045174c793b35af372-d_295x166",
-      "date": "2022-02-15T00:00:00",
-      "speakers": [
-        {
-          "name": "Amy Genender-Feltheimer",
-          "slug": "amy-genenderfeltheimer"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        },
-        {
-          "name": "DFW Azure User Group",
-          "slug": "dfw-azure-user-group"
-        },
-        {
-          "name": "Azure User Group - Houston",
-          "slug": "azure-user-group-houston"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Azure",
-          "slug": "azure"
-        },
-        {
-          "name": "Data Mesh",
-          "slug": "data-mesh"
-        }
-      ]
-    },
-    {
-      "title": "SSMS Tips and Tricks",
-      "slug": "ssms-tips-and-tricks",
-      "thumbnail": "https://i.vimeocdn.com/video/1377662098-627e5b1c94379ad39710852c6c73e75472ede00ebd2a9f2ddc5cafc8f07ce95b-d_295x166",
-      "date": "2022-02-15T00:00:00",
-      "speakers": [
-        {
-          "name": "Mike Burek",
-          "slug": "mike-burek"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Capitol Area Central Texas Users of SQL Server",
-          "slug": "capitol-area-central-texas-users-of-sql-server"
-        }
-      ],
-      "tags": [
-        {
-          "name": "SQL",
-          "slug": "sql"
-        },
-        {
-          "name": "SQL Admin",
-          "slug": "sql-admin"
-        },
-        {
-          "name": "SSMS",
-          "slug": "ssms"
-        }
-      ]
-    },
-    {
-      "title": "GraphQL for .NET Developers",
-      "slug": "graphql-for-net-developers",
-      "thumbnail": "https://i.vimeocdn.com/video/1377640381-45c47366714f274966ea38cd4df0419d0eff2eae64daefb866eeea4c1d401b63-d_295x166",
-      "date": "2022-02-10T00:00:00",
-      "speakers": [
-        {
-          "name": "Jeremy Likness",
-          "slug": "jeremy-likness"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": ".net",
-          "slug": "net"
-        },
-        {
-          "name": "graphql",
-          "slug": "graphql"
         }
       ]
     }

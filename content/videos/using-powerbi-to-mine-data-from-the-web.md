@@ -22,8 +22,8 @@
     {
       "name": "Pablo Moreno",
       "slug": "pablo-moreno",
-      "bio": "",
-      "count": 3
+      "bio": "Pablo Moreno is a Microsoft MVP who has a passion for data and data science.",
+      "count": 4
     }
   ],
   "ugtvtags": [
@@ -37,7 +37,7 @@
     {
       "name": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "count": 31
+      "count": 32
     }
   ]
 }

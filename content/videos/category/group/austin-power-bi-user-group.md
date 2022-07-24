@@ -5,9 +5,35 @@
     "Austin Power BI User Group"
   ],
   "slug": "austin-power-bi-user-group",
-  "date": "2022-06-08T00:00:00",
+  "date": "2022-07-13T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Working with R and Python in Power BI",
+      "slug": "working-with-r-and-python-in-power-bi",
+      "thumbnail": "https://i.vimeocdn.com/video/1474779570-5109f68a6633b5f2139f29227b745a44b5580ed675d87f34ec6ed983d5193c9b-d_295x166",
+      "date": "2022-07-13T00:00:00",
+      "speakers": [
+        {
+          "name": "Pablo Moreno",
+          "slug": "pablo-moreno"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Python",
+          "slug": "python"
+        },
+        {
+          "name": "R",
+          "slug": "r"
+        },
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "The Data God Guide to Citizen Data Engineering",
       "slug": "the-data-god-guide-to-citizen-data-engineering",

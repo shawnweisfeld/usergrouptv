@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Entra on UserGroup.tv</title>
+    <link>https://usergroup.tv/tags/entra/</link>
+    <description>Recent content in Entra on UserGroup.tv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/entra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entra</title>
+      <link>https://usergroup.tv/videos/tag/entra/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/entra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Entra Permissions Management</title>
+      <link>https://usergroup.tv/videos/microsoft-entra-permissions-management/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/microsoft-entra-permissions-management/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

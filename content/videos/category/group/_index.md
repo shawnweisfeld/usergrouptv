@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2022-07-24T01:02:19.0370669Z",
+  "date": "2022-08-22T13:30:03.9683232Z",
   "draft": false,
   "meetups": [
     {
@@ -112,9 +112,9 @@
     {
       "title": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1474779570-5109f68a6633b5f2139f29227b745a44b5580ed675d87f34ec6ed983d5193c9b-d_295x166",
-      "date": "2022-07-13T00:00:00",
-      "count": 32
+      "thumbnail": "https://i.vimeocdn.com/video/1492819509-76289643e3a0e173591fe38330c292a4c249fe0f761b10d5cf3029bcdb4fcaa9-d_295x166",
+      "date": "2022-08-10T00:00:00",
+      "count": 33
     },
     {
       "title": "Austin SQL Saturday",
@@ -133,9 +133,9 @@
     {
       "title": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "thumbnail": "https://i.vimeocdn.com/video/1474779741-267753039bd229cc4c60e8ec7665b18d850e3246f87e64de4b93d316fcf2d657-d_295x166",
-      "date": "2022-07-19T00:00:00",
-      "count": 60
+      "thumbnail": "https://i.vimeocdn.com/video/1492819759-7e4d858ccedf0d975f6aa66c87e47717950ef14dcf5659f0c88a00f8825dc024-d_295x166",
+      "date": "2022-08-16T00:00:00",
+      "count": 61
     },
     {
       "title": "Azure User Group - Houston",
@@ -266,9 +266,9 @@
     {
       "title": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1474779741-267753039bd229cc4c60e8ec7665b18d850e3246f87e64de4b93d316fcf2d657-d_295x166",
-      "date": "2022-07-19T00:00:00",
-      "count": 23
+      "thumbnail": "https://i.vimeocdn.com/video/1492819759-7e4d858ccedf0d975f6aa66c87e47717950ef14dcf5659f0c88a00f8825dc024-d_295x166",
+      "date": "2022-08-16T00:00:00",
+      "count": 24
     },
     {
       "title": "DFW C++ User Group",

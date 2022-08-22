@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "api",
-  "date": "2022-01-13T00:00:00",
+  "date": "2022-08-10T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Getting Access to Thousands of New Power BI Data Sources Thanks to APIs",
+      "slug": "getting-access-to-thousands-of-new-power-bi-data-sources-thanks-to-apis",
+      "thumbnail": "https://i.vimeocdn.com/video/1492819509-76289643e3a0e173591fe38330c292a4c249fe0f761b10d5cf3029bcdb4fcaa9-d_295x166",
+      "date": "2022-08-10T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Olivier Travers",
+          "slug": "olivier-travers"
+        }
+      ]
+    },
     {
       "title": "Minimal APIs with ASP.NET 6.0",
       "slug": "minimal-apis-with-aspnet-60",

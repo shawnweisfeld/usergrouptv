@@ -6,7 +6,43 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jul 2022 01:02:18 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Aug 2022 13:30:02 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CIEM</title>
+      <link>https://usergroup.tv/videos/tag/ciem/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/ciem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entra</title>
+      <link>https://usergroup.tv/videos/tag/entra/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/entra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>API</title>
+      <link>https://usergroup.tv/videos/tag/api/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>https://usergroup.tv/videos/tag/power-bi/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Application Insights</title>
       <link>https://usergroup.tv/videos/tag/application-insights/</link>
@@ -40,15 +76,6 @@
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/microsoft-orleans/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power BI</title>
-      <link>https://usergroup.tv/videos/tag/power-bi/</link>
-      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
       <description></description>
     </item>
     
@@ -328,15 +355,6 @@
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/bicep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>API</title>
-      <link>https://usergroup.tv/videos/tag/api/</link>
-      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/api/</guid>
       <description></description>
     </item>
     

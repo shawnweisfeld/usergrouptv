@@ -28296,4 +28296,62 @@ New commands GREATEST, LEAST, STRING_SPLIT, DATE_BUCKET, GENERATE_SERIES.</Excer
       <slug>sql</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Getting Access to Thousands of New Power BI Data Sources Thanks to APIs</Title>
+    <Url>https://usergroup.tv/videos/getting-access-to-thousands-of-new-power-bi-data-sources-thanks-to-apis/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1492819509-76289643e3a0e173591fe38330c292a4c249fe0f761b10d5cf3029bcdb4fcaa9-d_295x166</Thumbnail>
+    <Excerpt>Have you ever wanted to learn about how to connect to API's using Power BI and the different type's of API's that are available? Then this session is for you.</Excerpt>
+    <PostDate>2022-08-10T00:00:00</PostDate>
+    <Id>1123</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/741729131/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=087bc8d9d4f11a18f814fe6ac1bea79e81062546f1c02fb5916caecfdcf050d8</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/741729131/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=f2673ea9b78766f20dbbe2f783c6367720aef81a8a297d700fdd7dae2b1c7db5</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Olivier Travers</name>
+      <slug>olivier-travers</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>API</name>
+      <slug>api</slug>
+    </Tags>
+    <Tags>
+      <name>Power BI</name>
+      <slug>power-bi</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Microsoft Entra Permissions Management</Title>
+    <Url>https://usergroup.tv/videos/microsoft-entra-permissions-management/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1492819759-7e4d858ccedf0d975f6aa66c87e47717950ef14dcf5659f0c88a00f8825dc024-d_295x166</Thumbnail>
+    <Excerpt>Permissions Management is a cloud infrastructure entitlement management (CIEM) solution that provides comprehensive visibility and control over all permissions for any identity and any resource across all major clouds (Azure, AWS, Google Cloud). It provides a unified platform where you can assess, manage, govern, and protect permissions and identities consistently. Enforces the principle of least privileges to helping to reduce the permissions gap and getting one step closer to a Zero Trust security framework.</Excerpt>
+    <PostDate>2022-08-16T00:00:00</PostDate>
+    <Id>1124</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/741729175/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=0ce2a803654a7fe4f4d1575d61e9027c551eeaef688088be1a64b2ee7b453139</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/741729175/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=02b23bbce7e343879291eae479f5aa7073ac6055be8c765ff0d037b4702078f7</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Sanjay Shah</name>
+      <slug>sanjay-shah</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>CIEM</name>
+      <slug>ciem</slug>
+    </Tags>
+    <Tags>
+      <name>Entra</name>
+      <slug>entra</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

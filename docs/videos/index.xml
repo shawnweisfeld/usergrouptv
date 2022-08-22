@@ -6,7 +6,25 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jul 2022 01:02:17 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Aug 2022 13:29:57 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft Entra Permissions Management</title>
+      <link>https://usergroup.tv/videos/microsoft-entra-permissions-management/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/microsoft-entra-permissions-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting Access to Thousands of New Power BI Data Sources Thanks to APIs</title>
+      <link>https://usergroup.tv/videos/getting-access-to-thousands-of-new-power-bi-data-sources-thanks-to-apis/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/getting-access-to-thousands-of-new-power-bi-data-sources-thanks-to-apis/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Monitoring and Troubleshooting with Azure Application Insights</title>
       <link>https://usergroup.tv/videos/monitoring-and-troubleshooting-with-azure-application-insights/</link>

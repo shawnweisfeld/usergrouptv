@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2022-07-24T01:02:18.0521721Z",
+  "date": "2022-08-22T13:30:01.6176448Z",
   "draft": false,
   "speakers": [
     {
@@ -3106,6 +3106,13 @@
       "count": 2
     },
     {
+      "title": "Olivier Travers",
+      "slug": "olivier-travers",
+      "thumbnail": "https://i.vimeocdn.com/video/1492819509-76289643e3a0e173591fe38330c292a4c249fe0f761b10d5cf3029bcdb4fcaa9-d_295x166",
+      "date": "2022-08-10T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Pablo Moreno",
       "slug": "pablo-moreno",
       "thumbnail": "https://i.vimeocdn.com/video/1474779570-5109f68a6633b5f2139f29227b745a44b5580ed675d87f34ec6ed983d5193c9b-d_295x166",
@@ -3642,6 +3649,13 @@
       "slug": "sanjay-kaul",
       "thumbnail": "https://i.vimeocdn.com/video/482636101-495f8e46f8115f353db7a482d08584f814fef06caa0218a9239b8d1000a09319-d_295x166",
       "date": "2014-05-03T19:59:18",
+      "count": 1
+    },
+    {
+      "title": "Sanjay Shah",
+      "slug": "sanjay-shah",
+      "thumbnail": "https://i.vimeocdn.com/video/1492819759-7e4d858ccedf0d975f6aa66c87e47717950ef14dcf5659f0c88a00f8825dc024-d_295x166",
+      "date": "2022-08-16T00:00:00",
       "count": 1
     },
     {

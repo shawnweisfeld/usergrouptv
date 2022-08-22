@@ -1,12 +1,72 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2022-07-24T01:02:17.4357086Z",
+  "date": "2022-08-22T13:29:57.9262883Z",
   "draft": false,
-  "recordingCount": "1,116",
-  "speakerCount": "622",
+  "recordingCount": "1,118",
+  "speakerCount": "624",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Microsoft Entra Permissions Management",
+      "slug": "microsoft-entra-permissions-management",
+      "thumbnail": "https://i.vimeocdn.com/video/1492819759-7e4d858ccedf0d975f6aa66c87e47717950ef14dcf5659f0c88a00f8825dc024-d_295x166",
+      "date": "2022-08-16T00:00:00",
+      "speakers": [
+        {
+          "name": "Sanjay Shah",
+          "slug": "sanjay-shah"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "CIEM",
+          "slug": "ciem"
+        },
+        {
+          "name": "Entra",
+          "slug": "entra"
+        }
+      ]
+    },
+    {
+      "title": "Getting Access to Thousands of New Power BI Data Sources Thanks to APIs",
+      "slug": "getting-access-to-thousands-of-new-power-bi-data-sources-thanks-to-apis",
+      "thumbnail": "https://i.vimeocdn.com/video/1492819509-76289643e3a0e173591fe38330c292a4c249fe0f761b10d5cf3029bcdb4fcaa9-d_295x166",
+      "date": "2022-08-10T00:00:00",
+      "speakers": [
+        {
+          "name": "Olivier Travers",
+          "slug": "olivier-travers"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "API",
+          "slug": "api"
+        },
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "Monitoring and Troubleshooting with Azure Application Insights",
       "slug": "monitoring-and-troubleshooting-with-azure-application-insights",
@@ -448,66 +508,6 @@
         {
           "name": "Power BI",
           "slug": "power-bi"
-        }
-      ]
-    },
-    {
-      "title": "Prove Your Query Tuning Works",
-      "slug": "prove-your-query-tuning-works",
-      "thumbnail": "https://i.vimeocdn.com/video/1398143331-e5ad101fa081373f99522c3c8c55850989a9771aa1b1a28cb2be45f2e1c72fcd-d_295x166",
-      "date": "2022-03-15T00:00:00",
-      "speakers": [
-        {
-          "name": "Mike Burek",
-          "slug": "mike-burek"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Capitol Area Central Texas Users of SQL Server",
-          "slug": "capitol-area-central-texas-users-of-sql-server"
-        }
-      ],
-      "tags": [
-        {
-          "name": "SQL",
-          "slug": "sql"
-        },
-        {
-          "name": "Tuning",
-          "slug": "tuning"
-        }
-      ]
-    },
-    {
-      "title": "Why terraform and what it could do for you",
-      "slug": "why-terraform-and-what-it-could-do-for-you",
-      "thumbnail": "https://i.vimeocdn.com/video/1398143997-60827ebebc961b757a21213cba0e3528d812a8ca6e91f05355fe0bfb51d69f98-d_295x166",
-      "date": "2022-03-15T00:00:00",
-      "speakers": [
-        {
-          "name": "Adam Whitlatch",
-          "slug": "adam-whitlatch"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        },
-        {
-          "name": "DFW Azure User Group",
-          "slug": "dfw-azure-user-group"
-        },
-        {
-          "name": "Azure User Group - Houston",
-          "slug": "azure-user-group-houston"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Terraform",
-          "slug": "terraform"
         }
       ]
     }

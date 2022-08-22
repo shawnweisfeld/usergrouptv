@@ -6,22 +6,94 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Austin Meetup</title>
+      <link>https://usergroup.tv/tags/azure-austin-meetup/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/azure-austin-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CIEM</title>
+      <link>https://usergroup.tv/tags/ciem/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/ciem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFW Azure User Group</title>
+      <link>https://usergroup.tv/tags/dfw-azure-user-group/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/dfw-azure-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entra</title>
+      <link>https://usergroup.tv/tags/entra/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/entra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sanjay Shah</title>
+      <link>https://usergroup.tv/tags/sanjay-shah/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/sanjay-shah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>API</title>
+      <link>https://usergroup.tv/tags/api/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Austin Power BI User Group</title>
+      <link>https://usergroup.tv/tags/austin-power-bi-user-group/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/austin-power-bi-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olivier Travers</title>
+      <link>https://usergroup.tv/tags/olivier-travers/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/olivier-travers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>https://usergroup.tv/tags/power-bi/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/power-bi/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Application Insights</title>
       <link>https://usergroup.tv/tags/application-insights/</link>
       <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/application-insights/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure Austin Meetup</title>
-      <link>https://usergroup.tv/tags/azure-austin-meetup/</link>
-      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/azure-austin-meetup/</guid>
       <description></description>
     </item>
     
@@ -40,15 +112,6 @@
       <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/chris-ayers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DFW Azure User Group</title>
-      <link>https://usergroup.tv/tags/dfw-azure-user-group/</link>
-      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/dfw-azure-user-group/</guid>
       <description></description>
     </item>
     
@@ -107,29 +170,11 @@
     </item>
     
     <item>
-      <title>Austin Power BI User Group</title>
-      <link>https://usergroup.tv/tags/austin-power-bi-user-group/</link>
-      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/austin-power-bi-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Pablo Moreno</title>
       <link>https://usergroup.tv/tags/pablo-moreno/</link>
       <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/pablo-moreno/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power BI</title>
-      <link>https://usergroup.tv/tags/power-bi/</link>
-      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/power-bi/</guid>
       <description></description>
     </item>
     
@@ -571,15 +616,6 @@
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/mike-benkovich/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>API</title>
-      <link>https://usergroup.tv/tags/api/</link>
-      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/api/</guid>
       <description></description>
     </item>
     

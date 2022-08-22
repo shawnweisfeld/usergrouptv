@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2022-07-24T01:02:18.5475623Z",
+  "date": "2022-08-22T13:30:02.8979978Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -133,9 +133,9 @@
     {
       "title": "API",
       "slug": "api",
-      "thumbnail": "https://i.vimeocdn.com/video/1377563992-d64f308f4a27167c9d28e6da268ce790da728ea784a0f87e41ba41cdb790e1fc-d_295x166",
-      "date": "2022-01-13T00:00:00",
-      "count": 5
+      "thumbnail": "https://i.vimeocdn.com/video/1492819509-76289643e3a0e173591fe38330c292a4c249fe0f761b10d5cf3029bcdb4fcaa9-d_295x166",
+      "date": "2022-08-10T00:00:00",
+      "count": 6
     },
     {
       "title": "Application Insights",
@@ -591,6 +591,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/660641859-b0de4b937071aecc814984fc197e2b78848683233144811cf91961cecda15d51-d_295x166",
       "date": "2017-10-09T16:26:42",
       "count": 3
+    },
+    {
+      "title": "CIEM",
+      "slug": "ciem",
+      "thumbnail": "https://i.vimeocdn.com/video/1492819759-7e4d858ccedf0d975f6aa66c87e47717950ef14dcf5659f0c88a00f8825dc024-d_295x166",
+      "date": "2022-08-16T00:00:00",
+      "count": 1
     },
     {
       "title": "Cisco",
@@ -1108,6 +1115,13 @@
       "slug": "entity-framework-code-first",
       "thumbnail": "https://i.vimeocdn.com/video/499120891-e40a467761384d0dbcdbfd67dd82cb780130115cfaeb4585ad80fdb72f856872-d_295x166",
       "date": "2011-06-02T01:45:08",
+      "count": 1
+    },
+    {
+      "title": "Entra",
+      "slug": "entra",
+      "thumbnail": "https://i.vimeocdn.com/video/1492819759-7e4d858ccedf0d975f6aa66c87e47717950ef14dcf5659f0c88a00f8825dc024-d_295x166",
+      "date": "2022-08-16T00:00:00",
       "count": 1
     },
     {
@@ -2177,9 +2191,9 @@
     {
       "title": "Power BI",
       "slug": "power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1474779570-5109f68a6633b5f2139f29227b745a44b5580ed675d87f34ec6ed983d5193c9b-d_295x166",
-      "date": "2022-07-13T00:00:00",
-      "count": 34
+      "thumbnail": "https://i.vimeocdn.com/video/1492819509-76289643e3a0e173591fe38330c292a4c249fe0f761b10d5cf3029bcdb4fcaa9-d_295x166",
+      "date": "2022-08-10T00:00:00",
+      "count": 35
     },
     {
       "title": "Power Map",

@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "blazor",
-  "date": "2021-12-09T00:00:00",
+  "date": "2022-08-23T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Intro to Blazor: The Best Parts",
+      "slug": "intro-to-blazor-the-best-parts",
+      "thumbnail": "https://i.vimeocdn.com/video/1498958246-f73146a7985159e42d088b1d84721a937fc312c73afdf6f773519be7f3676ae0-d_295x166",
+      "date": "2022-08-23T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Carl Franklin",
+          "slug": "carl-franklin"
+        }
+      ]
+    },
     {
       "title": "Go Hybrid across Web, Desktop, & Mobile with Blazor & .NET MAUI",
       "slug": "go-hybrid-across-web-desktop-mobile-with-blazor-net-maui",

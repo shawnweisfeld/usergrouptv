@@ -28354,4 +28354,27 @@ New commands GREATEST, LEAST, STRING_SPLIT, DATE_BUCKET, GENERATE_SERIES.</Excer
       <slug>entra</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Intro to Blazor: The Best Parts</Title>
+    <Url>https://usergroup.tv/videos/intro-to-blazor-the-best-parts/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1498958246-f73146a7985159e42d088b1d84721a937fc312c73afdf6f773519be7f3676ae0-d_295x166</Thumbnail>
+    <Excerpt>Carl Franklin introduces Blazor with all its hidden gems.</Excerpt>
+    <PostDate>2022-08-23T00:00:00</PostDate>
+    <Id>1125</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/745233718/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=24811c3c348c54810c9d4f7d733544389211d09ae7f3e151d53d485780392b32</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/745233718/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=4a8b99253bced7445e11e85c3272449fb8f44d7e846bc5678e3c59a20d7d2178</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Carl Franklin</name>
+      <slug>carl-franklin</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Blazor</name>
+      <slug>blazor</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

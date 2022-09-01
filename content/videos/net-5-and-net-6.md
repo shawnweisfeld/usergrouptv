@@ -42,7 +42,7 @@
     {
       "name": "Blazor",
       "slug": "blazor",
-      "count": 4
+      "count": 5
     }
   ],
   "meetups": [

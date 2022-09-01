@@ -6,13 +6,22 @@
     <description>Recent content in Blazor on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/blazor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/blazor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blazor</title>
       <link>https://usergroup.tv/videos/tag/blazor/</link>
-      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/blazor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to Blazor: The Best Parts</title>
+      <link>https://usergroup.tv/videos/intro-to-blazor-the-best-parts/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/intro-to-blazor-the-best-parts/</guid>
       <description></description>
     </item>
     

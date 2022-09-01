@@ -6,7 +6,16 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Aug 2022 13:29:57 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Sep 2022 02:25:44 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro to Blazor: The Best Parts</title>
+      <link>https://usergroup.tv/videos/intro-to-blazor-the-best-parts/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/intro-to-blazor-the-best-parts/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Microsoft Entra Permissions Management</title>
       <link>https://usergroup.tv/videos/microsoft-entra-permissions-management/</link>

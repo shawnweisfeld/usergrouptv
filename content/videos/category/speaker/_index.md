@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2022-08-22T13:30:01.6176448Z",
+  "date": "2022-09-01T02:25:46.1934925Z",
   "draft": false,
   "speakers": [
     {
@@ -590,6 +590,13 @@
       "slug": "candase-hokanson",
       "thumbnail": "https://i.vimeocdn.com/video/703363477-9ba58f3575f63f554776da3875fdacb67b29c3fff55eef31e14fe42b367889ac-d_295x166",
       "date": "2018-05-24T16:55:02",
+      "count": 1
+    },
+    {
+      "title": "Carl Franklin",
+      "slug": "carl-franklin",
+      "thumbnail": "https://i.vimeocdn.com/video/1498958246-f73146a7985159e42d088b1d84721a937fc312c73afdf6f773519be7f3676ae0-d_295x166",
+      "date": "2022-08-23T00:00:00",
       "count": 1
     },
     {

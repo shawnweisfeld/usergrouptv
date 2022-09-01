@@ -1,12 +1,36 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2022-08-22T13:29:57.9262883Z",
+  "date": "2022-09-01T02:25:44.0581239Z",
   "draft": false,
-  "recordingCount": "1,118",
-  "speakerCount": "624",
+  "recordingCount": "1,119",
+  "speakerCount": "625",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Intro to Blazor: The Best Parts",
+      "slug": "intro-to-blazor-the-best-parts",
+      "thumbnail": "https://i.vimeocdn.com/video/1498958246-f73146a7985159e42d088b1d84721a937fc312c73afdf6f773519be7f3676ae0-d_295x166",
+      "date": "2022-08-23T00:00:00",
+      "speakers": [
+        {
+          "name": "Carl Franklin",
+          "slug": "carl-franklin"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Blazor",
+          "slug": "blazor"
+        }
+      ]
+    },
     {
       "title": "Microsoft Entra Permissions Management",
       "slug": "microsoft-entra-permissions-management",
@@ -480,34 +504,6 @@
         {
           "name": "Governance",
           "slug": "governance"
-        }
-      ]
-    },
-    {
-      "title": "A \"M\"ind Bending Experience: Custom Functions and Documentation in Power Query",
-      "slug": "a-mind-bending-experience-custom-functions-and-documentation-in-power-query",
-      "thumbnail": "https://i.vimeocdn.com/video/1424297329-ccd6ae3c5e8e757fb15801ab54377c0490b4388708d1c08489214c9e56b383ab-d_295x166",
-      "date": "2022-04-13T00:00:00",
-      "speakers": [
-        {
-          "name": "Alex Powers",
-          "slug": "alex-powers"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "PowerBI",
-          "slug": "powerbi"
-        },
-        {
-          "name": "Power BI",
-          "slug": "power-bi"
         }
       ]
     }

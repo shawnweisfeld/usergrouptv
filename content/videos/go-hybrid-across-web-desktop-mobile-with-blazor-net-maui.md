@@ -37,7 +37,7 @@
     {
       "name": "Blazor",
       "slug": "blazor",
-      "count": 4
+      "count": 5
     },
     {
       "name": "MAUI",
@@ -49,7 +49,7 @@
     {
       "name": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "count": 39
+      "count": 40
     }
   ]
 }

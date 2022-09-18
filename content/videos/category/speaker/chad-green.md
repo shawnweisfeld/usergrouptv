@@ -5,10 +5,36 @@
   ],
   "type": "speaker",
   "slug": "chad-green",
-  "date": "2021-11-30T00:00:00",
+  "date": "2022-09-08T00:00:00",
   "draft": false,
-  "bio": "Chad Green is a manager, software development, architect, community leader, Microsoft MVP, and most importantly a father and husband. Over his career spanning three decades, Chad has managed groups from 3 to 63 people, worked on projects in a wide range of markets including education, healthcare, military, government, workforce management, financial services, chemical research, and electronic commerce. Being a big believer in giving back and wanting to ensure that there are cool events for others, Chad founded and chairs the annual Code PaLOUsa conference, organizers the Louisville .NET Meetup user group and the Monthly Tech Leader Coffee and Discussion, and has helped other groups like the Louisville Tech Ladies and events like Cincy Deliver.",
+  "bio": "Chad Green is a manager, software development, architect, community leader, Microsoft MVP, and most importantly a father and husband. Over his career spanning three decades, Chad has managed groups from 3 to 63 people, worked on projects in a wide range of markets including education, healthcare, military, government, workforce management, financial services, chemical research, and electronic commerce.  Being a big believer in giving back and wanting to ensure that there are cool events for others, Chad founded and chairs the annual Code PaLOUsa conference, organizes the Louisville .NET Meetup user group and the Monthly Tech Leader Coffee and Discussion, and has helped other groups like the Louisville Tech Ladies and events like Cincy Deliver and TDevConf.",
   "recordings": [
+    {
+      "title": "Secrets of Conflict Resolution",
+      "slug": "secrets-of-conflict-resolution",
+      "thumbnail": "https://i.vimeocdn.com/video/1509823345-0a4b2be281bf2fa3cb567ef6f3e23bb148970d25f493db9325e105f67cd61e29-d_295x166",
+      "date": "2022-09-08T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Management",
+          "slug": "management"
+        },
+        {
+          "name": "Conflict Resolution",
+          "slug": "conflict-resolution"
+        },
+        {
+          "name": "People Skills",
+          "slug": "people-skills"
+        }
+      ]
+    },
     {
       "title": "What's New for C# Developers",
       "slug": "whats-new-for-c-developers",

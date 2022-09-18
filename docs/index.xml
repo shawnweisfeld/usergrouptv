@@ -6,7 +6,97 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Sep 2022 02:25:44 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Sep 2022 16:25:40 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Austin Power BI User Group</title>
+      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeff Weir</title>
+      <link>https://usergroup.tv/videos/category/speaker/jeff-weir/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/jeff-weir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>https://usergroup.tv/videos/tag/power-bi/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reimagining a Trade Dashboard with PowerBI &#43; Zebra BI Custom Visuals</title>
+      <link>https://usergroup.tv/videos/reimagining-a-trade-dashboard-with-powerbi-zebra-bi-custom-visuals/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/reimagining-a-trade-dashboard-with-powerbi-zebra-bi-custom-visuals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chad Green</title>
+      <link>https://usergroup.tv/videos/category/speaker/chad-green/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/chad-green/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conflict Resolution</title>
+      <link>https://usergroup.tv/videos/tag/conflict-resolution/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/conflict-resolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Management</title>
+      <link>https://usergroup.tv/videos/tag/management/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People Skills</title>
+      <link>https://usergroup.tv/videos/tag/people-skills/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/people-skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secrets of Conflict Resolution</title>
+      <link>https://usergroup.tv/videos/secrets-of-conflict-resolution/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/secrets-of-conflict-resolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Blazor</title>
       <link>https://usergroup.tv/videos/tag/blazor/</link>
@@ -31,15 +121,6 @@
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/intro-to-blazor-the-best-parts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
-      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
       <description></description>
     </item>
     
@@ -107,15 +188,6 @@
     </item>
     
     <item>
-      <title>Austin Power BI User Group</title>
-      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
-      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Getting Access to Thousands of New Power BI Data Sources Thanks to APIs</title>
       <link>https://usergroup.tv/videos/getting-access-to-thousands-of-new-power-bi-data-sources-thanks-to-apis/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
@@ -130,15 +202,6 @@
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/olivier-travers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power BI</title>
-      <link>https://usergroup.tv/videos/tag/power-bi/</link>
-      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
       <description></description>
     </item>
     
@@ -1003,15 +1066,6 @@
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chad Green</title>
-      <link>https://usergroup.tv/videos/category/speaker/chad-green/</link>
-      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/speaker/chad-green/</guid>
       <description></description>
     </item>
     

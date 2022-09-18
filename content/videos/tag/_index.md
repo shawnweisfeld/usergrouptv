@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2022-09-01T02:25:48.1649848Z",
+  "date": "2022-09-18T16:25:46.0875325Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -674,6 +674,13 @@
       "slug": "concurrency",
       "thumbnail": "https://i.vimeocdn.com/video/483485096-ed060be26892e1339eb2a9151e9b32035664bc781b22b362c52e9c6133e03d0f-d_295x166",
       "date": "2013-09-28T15:34:36",
+      "count": 1
+    },
+    {
+      "title": "Conflict Resolution",
+      "slug": "conflict-resolution",
+      "thumbnail": "https://i.vimeocdn.com/video/1509823345-0a4b2be281bf2fa3cb567ef6f3e23bb148970d25f493db9325e105f67cd61e29-d_295x166",
+      "date": "2022-09-08T00:00:00",
       "count": 1
     },
     {
@@ -1692,6 +1699,13 @@
       "count": 1
     },
     {
+      "title": "Management",
+      "slug": "management",
+      "thumbnail": "https://i.vimeocdn.com/video/1509823345-0a4b2be281bf2fa3cb567ef6f3e23bb148970d25f493db9325e105f67cd61e29-d_295x166",
+      "date": "2022-09-08T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Map Reduce",
       "slug": "map-reduce",
       "thumbnail": "https://i.vimeocdn.com/video/488139709-1c2b5734bafcb4f3aa3ab90ce5fb0248c6dab4282003477799d340c6f91e7e89-d_295x166",
@@ -2119,6 +2133,13 @@
       "count": 1
     },
     {
+      "title": "People Skills",
+      "slug": "people-skills",
+      "thumbnail": "https://i.vimeocdn.com/video/1509823345-0a4b2be281bf2fa3cb567ef6f3e23bb148970d25f493db9325e105f67cd61e29-d_295x166",
+      "date": "2022-09-08T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Performance",
       "slug": "performance",
       "thumbnail": "https://i.vimeocdn.com/video/491651964-720d4d7315050f023c5ef91e2a8469a6834ddd2be4d21560bd3bde1bdfe4ecea-d_295x166",
@@ -2191,9 +2212,9 @@
     {
       "title": "Power BI",
       "slug": "power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1492819509-76289643e3a0e173591fe38330c292a4c249fe0f761b10d5cf3029bcdb4fcaa9-d_295x166",
-      "date": "2022-08-10T00:00:00",
-      "count": 35
+      "thumbnail": "https://i.vimeocdn.com/video/1509823426-a5fef2b92b30e68222b1b91a6631f7392e9be02d3732954e711d48b41638b395-d_295x166",
+      "date": "2022-09-14T00:00:00",
+      "count": 36
     },
     {
       "title": "Power Map",

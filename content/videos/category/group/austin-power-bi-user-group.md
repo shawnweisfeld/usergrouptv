@@ -5,9 +5,27 @@
     "Austin Power BI User Group"
   ],
   "slug": "austin-power-bi-user-group",
-  "date": "2022-08-10T00:00:00",
+  "date": "2022-09-14T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Reimagining a Trade Dashboard with PowerBI + Zebra BI Custom Visuals",
+      "slug": "reimagining-a-trade-dashboard-with-powerbi-zebra-bi-custom-visuals",
+      "thumbnail": "https://i.vimeocdn.com/video/1509823426-a5fef2b92b30e68222b1b91a6631f7392e9be02d3732954e711d48b41638b395-d_295x166",
+      "date": "2022-09-14T00:00:00",
+      "speakers": [
+        {
+          "name": "Jeff Weir",
+          "slug": "jeff-weir"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "Getting Access to Thousands of New Power BI Data Sources Thanks to APIs",
       "slug": "getting-access-to-thousands-of-new-power-bi-data-sources-thanks-to-apis",

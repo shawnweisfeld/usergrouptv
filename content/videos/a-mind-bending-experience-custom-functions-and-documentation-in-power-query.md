@@ -36,14 +36,14 @@
     {
       "name": "Power BI",
       "slug": "power-bi",
-      "count": 35
+      "count": 36
     }
   ],
   "meetups": [
     {
       "name": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "count": 33
+      "count": 34
     }
   ]
 }

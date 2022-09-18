@@ -28377,4 +28377,62 @@ New commands GREATEST, LEAST, STRING_SPLIT, DATE_BUCKET, GENERATE_SERIES.</Excer
       <slug>blazor</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Secrets of Conflict Resolution</Title>
+    <Url>https://usergroup.tv/videos/secrets-of-conflict-resolution/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1509823345-0a4b2be281bf2fa3cb567ef6f3e23bb148970d25f493db9325e105f67cd61e29-d_295x166</Thumbnail>
+    <Excerpt>One of the most challenging aspects of being a leader is dealing with conflict amongst your team. Yet, productivity is vital to running the team like a well-oiled machine, even in adversity. Improve your relationships with coworkers, clients, and managers and find your way through conflict back to cooperation. This session will provide you with the secrets of effective conflict resolution and how to prevent conflicts from ever starting.
+
+</Excerpt>
+    <PostDate>2022-09-08T00:00:00</PostDate>
+    <Id>1126</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/750941909/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=0865332a92027b2eea3a4b45e20ed63f5b6989dd90999612c22c67f6cd0cf6c5</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/750941909/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=2fba7e107ec274407b36c228f16da1ae24f17fdb9205c419d10185d1dc5aa260</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Chad Green</name>
+      <slug>chad-green</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Management</name>
+      <slug>management</slug>
+    </Tags>
+    <Tags>
+      <name>Conflict Resolution</name>
+      <slug>conflict-resolution</slug>
+    </Tags>
+    <Tags>
+      <name>People Skills</name>
+      <slug>people-skills</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Reimagining a Trade Dashboard with PowerBI + Zebra BI Custom Visuals</Title>
+    <Url>https://usergroup.tv/videos/reimagining-a-trade-dashboard-with-powerbi-zebra-bi-custom-visuals/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1509823426-a5fef2b92b30e68222b1b91a6631f7392e9be02d3732954e711d48b41638b395-d_295x166</Thumbnail>
+    <Excerpt>In this session, Jeff Weir will take you through his work with the New Zealand / US Council to help visualise trade flows between New Zealand and other countries (with an emphasis on the United States of course, who are NZ's 3rd largest trading partner after Australia and China). Previously the Council have made use of the Statistics New Zealand Trade Dashboard at https://statisticsnz.shinyapps.io/trade_dashboard/… built using ShinyApps at this link to get their data, but they wanted something more interactive and exploratory. Was Power BI up to the task? Let's find out.
+
+</Excerpt>
+    <PostDate>2022-09-14T00:00:00</PostDate>
+    <Id>1127</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/750942536/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=abf52a8221599ace5925985b0d3a71071da546f1903f91f0c87ba7d2e8a34bac</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/750942536/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=19e53f0f02d5e9a637a9904a7ad33c146394edb6e429cd580a7b6c392cc1a28b</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Jeff Weir</name>
+      <slug>jeff-weir</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Power BI</name>
+      <slug>power-bi</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

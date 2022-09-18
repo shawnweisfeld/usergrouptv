@@ -5,9 +5,35 @@
     "Tulsa .NET User Group"
   ],
   "slug": "tulsa-net-user-group",
-  "date": "2022-08-23T00:00:00",
+  "date": "2022-09-08T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Secrets of Conflict Resolution",
+      "slug": "secrets-of-conflict-resolution",
+      "thumbnail": "https://i.vimeocdn.com/video/1509823345-0a4b2be281bf2fa3cb567ef6f3e23bb148970d25f493db9325e105f67cd61e29-d_295x166",
+      "date": "2022-09-08T00:00:00",
+      "speakers": [
+        {
+          "name": "Chad Green",
+          "slug": "chad-green"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Management",
+          "slug": "management"
+        },
+        {
+          "name": "Conflict Resolution",
+          "slug": "conflict-resolution"
+        },
+        {
+          "name": "People Skills",
+          "slug": "people-skills"
+        }
+      ]
+    },
     {
       "title": "Intro to Blazor: The Best Parts",
       "slug": "intro-to-blazor-the-best-parts",

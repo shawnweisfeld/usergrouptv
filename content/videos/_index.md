@@ -1,12 +1,68 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2022-09-01T02:25:44.0581239Z",
+  "date": "2022-09-18T16:25:40.0658427Z",
   "draft": false,
-  "recordingCount": "1,119",
-  "speakerCount": "625",
+  "recordingCount": "1,121",
+  "speakerCount": "626",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Reimagining a Trade Dashboard with PowerBI + Zebra BI Custom Visuals",
+      "slug": "reimagining-a-trade-dashboard-with-powerbi-zebra-bi-custom-visuals",
+      "thumbnail": "https://i.vimeocdn.com/video/1509823426-a5fef2b92b30e68222b1b91a6631f7392e9be02d3732954e711d48b41638b395-d_295x166",
+      "date": "2022-09-14T00:00:00",
+      "speakers": [
+        {
+          "name": "Jeff Weir",
+          "slug": "jeff-weir"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
+    {
+      "title": "Secrets of Conflict Resolution",
+      "slug": "secrets-of-conflict-resolution",
+      "thumbnail": "https://i.vimeocdn.com/video/1509823345-0a4b2be281bf2fa3cb567ef6f3e23bb148970d25f493db9325e105f67cd61e29-d_295x166",
+      "date": "2022-09-08T00:00:00",
+      "speakers": [
+        {
+          "name": "Chad Green",
+          "slug": "chad-green"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Management",
+          "slug": "management"
+        },
+        {
+          "name": "Conflict Resolution",
+          "slug": "conflict-resolution"
+        },
+        {
+          "name": "People Skills",
+          "slug": "people-skills"
+        }
+      ]
+    },
     {
       "title": "Intro to Blazor: The Best Parts",
       "slug": "intro-to-blazor-the-best-parts",
@@ -440,70 +496,6 @@
         {
           "name": "SQL",
           "slug": "sql"
-        }
-      ]
-    },
-    {
-      "title": "Overview of Azure Storage",
-      "slug": "overview-of-azure-storage",
-      "thumbnail": "https://i.vimeocdn.com/video/1420132300-0d9b6375c1283e975d9f6bb581fccdf1b5d72123204b1b9658b19b53bb7be7b7-d_295x166",
-      "date": "2022-04-19T00:00:00",
-      "speakers": [
-        {
-          "name": "Shawn Weisfeld",
-          "slug": "shawn-weisfeld"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        },
-        {
-          "name": "DFW Azure User Group",
-          "slug": "dfw-azure-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Azure",
-          "slug": "azure"
-        },
-        {
-          "name": "Storage",
-          "slug": "storage"
-        }
-      ]
-    },
-    {
-      "title": "Governance: The forgotten key to managing Cloud",
-      "slug": "governance-the-forgotten-key-to-managing-cloud",
-      "thumbnail": "https://i.vimeocdn.com/video/1419976547-cfeb785a6c0eb3082e2aa527349c72e44ebdebf8832f9f51520be005c986f56c-d_295x166",
-      "date": "2022-04-14T00:00:00",
-      "speakers": [
-        {
-          "name": "Rik Hepworth",
-          "slug": "rik-hepworth"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Cloud",
-          "slug": "cloud"
-        },
-        {
-          "name": "Azure",
-          "slug": "azure"
-        },
-        {
-          "name": "Governance",
-          "slug": "governance"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2022-09-01T02:25:46.1934925Z",
+  "date": "2022-09-18T16:25:44.4376132Z",
   "draft": false,
   "speakers": [
     {
@@ -637,9 +637,9 @@
     {
       "title": "Chad Green",
       "slug": "chad-green",
-      "thumbnail": "https://i.vimeocdn.com/video/1319552424-0224e3a9e632a6d74091f2c4940040d34586e9431b721bd2eaec99d7418000ba-d_295x166",
-      "date": "2021-11-30T00:00:00",
-      "count": 7
+      "thumbnail": "https://i.vimeocdn.com/video/1509823345-0a4b2be281bf2fa3cb567ef6f3e23bb148970d25f493db9325e105f67cd61e29-d_295x166",
+      "date": "2022-09-08T00:00:00",
+      "count": 8
     },
     {
       "title": "Chad Howell",
@@ -1787,6 +1787,13 @@
       "slug": "jeff-linwood",
       "thumbnail": "https://i.vimeocdn.com/video/567149928-e96e611322bcf3ff731e261b650738d53ec1cb5f6956f7805f127a27f05ac7b7-d_295x166",
       "date": "2016-04-20T23:43:58",
+      "count": 1
+    },
+    {
+      "title": "Jeff Weir",
+      "slug": "jeff-weir",
+      "thumbnail": "https://i.vimeocdn.com/video/1509823426-a5fef2b92b30e68222b1b91a6631f7392e9be02d3732954e711d48b41638b395-d_295x166",
+      "date": "2022-09-14T00:00:00",
       "count": 1
     },
     {

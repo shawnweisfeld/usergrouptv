@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2022-09-18T16:25:46.0875325Z",
+  "date": "2022-10-03T14:22:54.0428994Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -252,9 +252,9 @@
     {
       "title": "Azure",
       "slug": "azure",
-      "thumbnail": "https://i.vimeocdn.com/video/1439482341-746b77f4c0cb4e0b9d020eb6bbe4c46ee1f3af3d987aeae19fe0d567e25fa8a3-d_295x166",
-      "date": "2022-05-17T00:00:00",
-      "count": 48
+      "thumbnail": "https://i.vimeocdn.com/video/1519519430-dc0bca7dac18db82d4a8ca796a4377e02cb5ec526494d118eeb96796a13013ae-d_295x166",
+      "date": "2022-09-20T00:00:00",
+      "count": 49
     },
     {
       "title": "Azure AD",
@@ -553,9 +553,9 @@
     {
       "title": "Career",
       "slug": "career",
-      "thumbnail": "https://i.vimeocdn.com/video/854625923-93d325df8b9a112cfea728d6839f0d30e2e4f11beaf569a482a5a510f627a2e8-d_295x166",
-      "date": "2020-02-08T16:12:39",
-      "count": 16
+      "thumbnail": "https://i.vimeocdn.com/video/1519519819-d567cd50ed2090217f35631ee82b2622cc349b3dbf18e6db930b3771dffc2fad-d_295x166",
+      "date": "2022-09-20T00:00:00",
+      "count": 17
     },
     {
       "title": "Casablanca",
@@ -2639,9 +2639,9 @@
     {
       "title": "SQL",
       "slug": "sql",
-      "thumbnail": "https://i.vimeocdn.com/video/1474779816-83f12728b158f14cd85e1c5cfbaf929d0b7036573a95f4896bf3476ab76d1a1a-d_295x166",
-      "date": "2022-07-19T00:00:00",
-      "count": 24
+      "thumbnail": "https://i.vimeocdn.com/video/1519519819-d567cd50ed2090217f35631ee82b2622cc349b3dbf18e6db930b3771dffc2fad-d_295x166",
+      "date": "2022-09-20T00:00:00",
+      "count": 25
     },
     {
       "title": "SQL Admin",

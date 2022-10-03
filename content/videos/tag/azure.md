@@ -5,9 +5,35 @@
   ],
   "type": "tag",
   "slug": "azure",
-  "date": "2022-05-17T00:00:00",
+  "date": "2022-09-20T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "How to Choose the Right Azure Services for Your Applications—It’s Not A or B",
+      "slug": "how-to-choose-the-right-azure-services-for-your-applicationsits-not-a-or-b",
+      "thumbnail": "https://i.vimeocdn.com/video/1519519430-dc0bca7dac18db82d4a8ca796a4377e02cb5ec526494d118eeb96796a13013ae-d_295x166",
+      "date": "2022-09-20T00:00:00",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Ajai Peddapanga",
+          "slug": "ajai-peddapanga"
+        },
+        {
+          "name": "Asir Selvasingh",
+          "slug": "asir-selvasingh"
+        }
+      ]
+    },
     {
       "title": "Azure Data Factory",
       "slug": "azure-data-factory",

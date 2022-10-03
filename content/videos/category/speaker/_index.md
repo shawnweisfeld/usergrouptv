@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2022-09-18T16:25:44.4376132Z",
+  "date": "2022-10-03T14:22:52.461195Z",
   "draft": false,
   "speakers": [
     {
@@ -65,6 +65,13 @@
       "slug": "aj-mendo",
       "thumbnail": "https://i.vimeocdn.com/video/561392072-a8a4d429119f00839cb29b3037b29c0bf13ec2a87766a6e5ff80e9c1f4b18664-d_295x166",
       "date": "2016-02-16T13:33:02",
+      "count": 1
+    },
+    {
+      "title": "Ajai Peddapanga",
+      "slug": "ajai-peddapanga",
+      "thumbnail": "https://i.vimeocdn.com/video/1519519430-dc0bca7dac18db82d4a8ca796a4377e02cb5ec526494d118eeb96796a13013ae-d_295x166",
+      "date": "2022-09-20T00:00:00",
       "count": 1
     },
     {
@@ -296,6 +303,13 @@
       "slug": "asa-hutchinson",
       "thumbnail": "https://i.vimeocdn.com/video/540279596-822c517e70aa72dc1174c3f326b38369ac5f1b71de76a012737289db1b6049da-d_295x166",
       "date": "2015-10-16T02:21:20",
+      "count": 1
+    },
+    {
+      "title": "Asir Selvasingh",
+      "slug": "asir-selvasingh",
+      "thumbnail": "https://i.vimeocdn.com/video/1519519430-dc0bca7dac18db82d4a8ca796a4377e02cb5ec526494d118eeb96796a13013ae-d_295x166",
+      "date": "2022-09-20T00:00:00",
       "count": 1
     },
     {
@@ -2674,9 +2688,9 @@
     {
       "title": "Martin Perez",
       "slug": "martin-perez",
-      "thumbnail": "https://i.vimeocdn.com/video/651776320-0f94e93c95e354fab27e7754b26990db797c6d3db2134777fe22b8af0d750a55-d_295x166",
-      "date": "2017-08-15T14:34:00",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1519519819-d567cd50ed2090217f35631ee82b2622cc349b3dbf18e6db930b3771dffc2fad-d_295x166",
+      "date": "2022-09-20T00:00:00",
+      "count": 2
     },
     {
       "title": "Mary Grace Francisco",

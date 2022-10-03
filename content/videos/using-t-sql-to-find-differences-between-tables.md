@@ -22,8 +22,8 @@
     {
       "name": "Martin Perez",
       "slug": "martin-perez",
-      "bio": "",
-      "count": 1
+      "bio": "Martin has progressed in his career just a DBA just starting out to Data Warehousing, Data Engineering, and now Data Architecting. He's pushed himself to get out of just working in SSMS and just SQL to use Python and Data Bricks and other tools. He will have an open discussion about some of his decisions, what's he's been focusing on, and methods he used, so you can follow along and also expand your own horizon.",
+      "count": 2
     }
   ],
   "ugtvtags": [
@@ -37,7 +37,7 @@
     {
       "name": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "count": 81
+      "count": 82
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2022-09-18T16:25:46.9845593Z",
+  "date": "2022-10-03T14:22:56.3467478Z",
   "draft": false,
   "meetups": [
     {
@@ -133,9 +133,9 @@
     {
       "title": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "thumbnail": "https://i.vimeocdn.com/video/1492819759-7e4d858ccedf0d975f6aa66c87e47717950ef14dcf5659f0c88a00f8825dc024-d_295x166",
-      "date": "2022-08-16T00:00:00",
-      "count": 61
+      "thumbnail": "https://i.vimeocdn.com/video/1519519430-dc0bca7dac18db82d4a8ca796a4377e02cb5ec526494d118eeb96796a13013ae-d_295x166",
+      "date": "2022-09-20T00:00:00",
+      "count": 62
     },
     {
       "title": "Azure User Group - Houston",
@@ -147,9 +147,9 @@
     {
       "title": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "thumbnail": "https://i.vimeocdn.com/video/1474779816-83f12728b158f14cd85e1c5cfbaf929d0b7036573a95f4896bf3476ab76d1a1a-d_295x166",
-      "date": "2022-07-19T00:00:00",
-      "count": 81
+      "thumbnail": "https://i.vimeocdn.com/video/1519519819-d567cd50ed2090217f35631ee82b2622cc349b3dbf18e6db930b3771dffc2fad-d_295x166",
+      "date": "2022-09-20T00:00:00",
+      "count": 82
     },
     {
       "title": "Chicago IT Architects Group",
@@ -266,9 +266,9 @@
     {
       "title": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1492819759-7e4d858ccedf0d975f6aa66c87e47717950ef14dcf5659f0c88a00f8825dc024-d_295x166",
-      "date": "2022-08-16T00:00:00",
-      "count": 24
+      "thumbnail": "https://i.vimeocdn.com/video/1519519430-dc0bca7dac18db82d4a8ca796a4377e02cb5ec526494d118eeb96796a13013ae-d_295x166",
+      "date": "2022-09-20T00:00:00",
+      "count": 25
     },
     {
       "title": "DFW C++ User Group",

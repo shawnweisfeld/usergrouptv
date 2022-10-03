@@ -5,9 +5,31 @@
     "Capitol Area Central Texas Users of SQL Server"
   ],
   "slug": "capitol-area-central-texas-users-of-sql-server",
-  "date": "2022-07-19T00:00:00",
+  "date": "2022-09-20T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Career Progression from DBA to Data Engineer and Beyond",
+      "slug": "career-progression-from-dba-to-data-engineer-and-beyond",
+      "thumbnail": "https://i.vimeocdn.com/video/1519519819-d567cd50ed2090217f35631ee82b2622cc349b3dbf18e6db930b3771dffc2fad-d_295x166",
+      "date": "2022-09-20T00:00:00",
+      "speakers": [
+        {
+          "name": "Martin Perez",
+          "slug": "martin-perez"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        },
+        {
+          "name": "Career",
+          "slug": "career"
+        }
+      ]
+    },
     {
       "title": "New SQL Server 2022 commands",
       "slug": "new-sql-server-2022-commands",

@@ -1,12 +1,72 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2022-09-18T16:25:40.0658427Z",
+  "date": "2022-10-03T14:22:45.1075756Z",
   "draft": false,
-  "recordingCount": "1,121",
-  "speakerCount": "626",
+  "recordingCount": "1,123",
+  "speakerCount": "628",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "How to Choose the Right Azure Services for Your Applications—It’s Not A or B",
+      "slug": "how-to-choose-the-right-azure-services-for-your-applicationsits-not-a-or-b",
+      "thumbnail": "https://i.vimeocdn.com/video/1519519430-dc0bca7dac18db82d4a8ca796a4377e02cb5ec526494d118eeb96796a13013ae-d_295x166",
+      "date": "2022-09-20T00:00:00",
+      "speakers": [
+        {
+          "name": "Ajai Peddapanga",
+          "slug": "ajai-peddapanga"
+        },
+        {
+          "name": "Asir Selvasingh",
+          "slug": "asir-selvasingh"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        }
+      ]
+    },
+    {
+      "title": "Career Progression from DBA to Data Engineer and Beyond",
+      "slug": "career-progression-from-dba-to-data-engineer-and-beyond",
+      "thumbnail": "https://i.vimeocdn.com/video/1519519819-d567cd50ed2090217f35631ee82b2622cc349b3dbf18e6db930b3771dffc2fad-d_295x166",
+      "date": "2022-09-20T00:00:00",
+      "speakers": [
+        {
+          "name": "Martin Perez",
+          "slug": "martin-perez"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        },
+        {
+          "name": "Career",
+          "slug": "career"
+        }
+      ]
+    },
     {
       "title": "Reimagining a Trade Dashboard with PowerBI + Zebra BI Custom Visuals",
       "slug": "reimagining-a-trade-dashboard-with-powerbi-zebra-bi-custom-visuals",
@@ -436,66 +496,6 @@
         {
           "name": "Azure",
           "slug": "azure"
-        }
-      ]
-    },
-    {
-      "title": "Service Principals and Managed Identities - tools every Azure Dev should know",
-      "slug": "service-principals-and-managed-identities-tools-every-azure-dev-should-know",
-      "thumbnail": "https://i.vimeocdn.com/video/1431397786-9f9ac81f84d698734a389c76f1c1a5dfabe496faf1d229437323dfa42b53ed10-d_295x166",
-      "date": "2022-05-12T00:00:00",
-      "speakers": [
-        {
-          "name": "Christos Matskas",
-          "slug": "christos-matskas"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Cloud Security",
-          "slug": "cloud-security"
-        },
-        {
-          "name": "Azure",
-          "slug": "azure"
-        },
-        {
-          "name": "Managed Identity",
-          "slug": "managed-identity"
-        },
-        {
-          "name": "Service Principal",
-          "slug": "service-principal"
-        }
-      ]
-    },
-    {
-      "title": "JOINS for fun and profit",
-      "slug": "joins-for-fun-and-profit",
-      "thumbnail": "https://i.vimeocdn.com/video/1419976806-924a7d42b34209c8c66c7f987cfb0da819a5ef4e67d4aba05ba85b3b70cfd781-d_295x166",
-      "date": "2022-04-19T00:00:00",
-      "speakers": [
-        {
-          "name": "Mike Burek",
-          "slug": "mike-burek"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Capitol Area Central Texas Users of SQL Server",
-          "slug": "capitol-area-central-texas-users-of-sql-server"
-        }
-      ],
-      "tags": [
-        {
-          "name": "SQL",
-          "slug": "sql"
         }
       ]
     }

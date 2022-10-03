@@ -31,7 +31,7 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 48
+      "count": 49
     },
     {
       "name": "Storage",

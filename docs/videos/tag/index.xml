@@ -6,7 +6,34 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Sep 2022 16:25:46 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Oct 2022 15:22:51 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure</title>
+      <link>https://usergroup.tv/videos/tag/azure/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Career</title>
+      <link>https://usergroup.tv/videos/tag/career/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://usergroup.tv/videos/tag/sql/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Power BI</title>
       <link>https://usergroup.tv/videos/tag/power-bi/</link>
@@ -89,15 +116,6 @@
     </item>
     
     <item>
-      <title>SQL</title>
-      <link>https://usergroup.tv/videos/tag/sql/</link>
-      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/sql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Distributed Architecture</title>
       <link>https://usergroup.tv/videos/tag/distributed-architecture/</link>
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
@@ -166,15 +184,6 @@
       <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/data-engineering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure</title>
-      <link>https://usergroup.tv/videos/tag/azure/</link>
-      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/azure/</guid>
       <description></description>
     </item>
     
@@ -1075,15 +1084,6 @@
       <pubDate>Sat, 08 Feb 2020 16:14:32 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/jupyter-notebook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Career</title>
-      <link>https://usergroup.tv/videos/tag/career/</link>
-      <pubDate>Sat, 08 Feb 2020 16:12:39 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/career/</guid>
       <description></description>
     </item>
     

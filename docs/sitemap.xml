@@ -3,19 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2022-09-18T16:25:46+00:00</lastmod>
+    <lastmod>2022-10-05T15:22:54+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2022-09-18T16:25:46+00:00</lastmod>
+    <lastmod>2022-10-05T15:22:51+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2022-09-18T16:25:44+00:00</lastmod>
+    <lastmod>2022-10-05T15:22:49+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2022-09-18T16:25:40+00:00</lastmod>
+    <lastmod>2022-10-05T15:22:41+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2022-09-18T16:25:40+00:00</lastmod>
+    <lastmod>2022-10-05T15:22:41+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/ajai-peddapanga/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/ajai-peddapanga/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/asir-selvasingh/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/asir-selvasingh/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/azure/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/azure/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/azure-austin-meetup/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/career/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/career/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/career-progression-from-dba-to-data-engineer-and-beyond/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/dfw-azure-user-group/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/how-to-choose-the-right-azure-services-for-your-applicationsits-not-a-or-b/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/martin-perez/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/martin-perez/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/sql/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/sql/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
@@ -36,9 +99,6 @@
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/reimagining-a-trade-dashboard-with-powerbi-zebra-bi-custom-visuals/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/chad-green/</loc>
@@ -89,22 +149,10 @@
     <loc>https://usergroup.tv/videos/intro-to-blazor-the-best-parts/</loc>
     <lastmod>2022-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
-    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/azure-austin-meetup/</loc>
-    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/ciem/</loc>
     <lastmod>2022-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/ciem/</loc>
-    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/dfw-azure-user-group/</loc>
-    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</loc>
     <lastmod>2022-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/entra/</loc>
@@ -143,12 +191,6 @@
     <loc>https://usergroup.tv/videos/tag/application-insights/</loc>
     <lastmod>2022-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</loc>
-    <lastmod>2022-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</loc>
-    <lastmod>2022-07-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/chris-ayers/</loc>
     <lastmod>2022-07-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -165,12 +207,6 @@
     <lastmod>2022-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/new-sql-server-2022-commands/</loc>
-    <lastmod>2022-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/sql/</loc>
-    <lastmod>2022-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/sql/</loc>
     <lastmod>2022-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/distributed-architecture/</loc>
@@ -277,12 +313,6 @@
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/sandeep-pawar/</loc>
     <lastmod>2022-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/azure/</loc>
-    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/azure/</loc>
-    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/azure-data-factory/</loc>
     <lastmod>2022-05-17T00:00:00+00:00</lastmod>
@@ -1744,12 +1774,6 @@
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/wenbin-zhao/</loc>
     <lastmod>2020-02-08T16:14:32+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/career/</loc>
-    <lastmod>2020-02-08T16:12:39+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/career/</loc>
-    <lastmod>2020-02-08T16:12:39+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/more-common-than-you-think-mental-illness-in-tech/</loc>
     <lastmod>2020-02-08T16:12:39+00:00</lastmod>
@@ -4534,12 +4558,6 @@
   </url><url>
     <loc>https://usergroup.tv/videos/building-cloud-ready-scalable-and-distributed-systems-with-akka-net/</loc>
     <lastmod>2017-08-16T14:35:24+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/martin-perez/</loc>
-    <lastmod>2017-08-15T14:34:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/martin-perez/</loc>
-    <lastmod>2017-08-15T14:34:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/using-t-sql-to-find-differences-between-tables/</loc>
     <lastmod>2017-08-15T14:34:00+00:00</lastmod>

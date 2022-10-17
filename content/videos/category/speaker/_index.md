@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2022-10-05T15:22:49.1923305Z",
+  "date": "2022-10-17T01:00:56.3048077Z",
   "draft": false,
   "speakers": [
     {
@@ -700,9 +700,9 @@
     {
       "title": "Chris Ayers",
       "slug": "chris-ayers",
-      "thumbnail": "https://i.vimeocdn.com/video/1474779741-267753039bd229cc4c60e8ec7665b18d850e3246f87e64de4b93d316fcf2d657-d_295x166",
-      "date": "2022-07-19T00:00:00",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1528287911-7cefcfe1f3cac5e03440a6f6ed7d22d95edf96d49bb40a0b47ef51290784865b-d_295x166",
+      "date": "2022-10-13T00:00:00",
+      "count": 2
     },
     {
       "title": "Chris Baudo",
@@ -777,9 +777,9 @@
     {
       "title": "Chris Wagner",
       "slug": "chris-wagner",
-      "thumbnail": "https://i.vimeocdn.com/video/1460363698-e652f3cf999605a957b658d34e353a45a4714571d8a0bdc0e09fff165fe643aa-d_295x166",
-      "date": "2022-06-08T00:00:00",
-      "count": 2
+      "thumbnail": "https://i.vimeocdn.com/video/1528132524-5dc485afa4790a573f8f23608d382633beaf46f997ad4784ba7503dc9750e264-d_295x166",
+      "date": "2022-10-12T00:00:00",
+      "count": 3
     },
     {
       "title": "Chris Weldon",
@@ -3019,6 +3019,13 @@
       "slug": "miriam-arora",
       "thumbnail": "https://i.vimeocdn.com/video/651116902-a5835375f0d9658a09e30ebbb79fd0dffc4346453a24a52a55c7685d55101e15-d_295x166",
       "date": "2017-08-04T14:21:01",
+      "count": 1
+    },
+    {
+      "title": "Mitchel Sellers",
+      "slug": "mitchel-sellers",
+      "thumbnail": "https://i.vimeocdn.com/video/1528132773-77ddfef39a60f3565f108450cce2cc06625651d9ef33e030efa5d978445796cb-d_295x166",
+      "date": "2022-09-27T00:00:00",
       "count": 1
     },
     {

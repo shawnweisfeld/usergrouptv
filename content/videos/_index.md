@@ -1,12 +1,100 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2022-10-05T15:22:41.9785199Z",
+  "date": "2022-10-17T01:00:55.3846852Z",
   "draft": false,
-  "recordingCount": "1,123",
-  "speakerCount": "628",
+  "recordingCount": "1,126",
+  "speakerCount": "629",
   "groupCount": "67",
   "newest": [
+    {
+      "title": ".NET Configuration In Depth",
+      "slug": "net-configuration-in-depth",
+      "thumbnail": "https://i.vimeocdn.com/video/1528287911-7cefcfe1f3cac5e03440a6f6ed7d22d95edf96d49bb40a0b47ef51290784865b-d_295x166",
+      "date": "2022-10-13T00:00:00",
+      "speakers": [
+        {
+          "name": "Chris Ayers",
+          "slug": "chris-ayers"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": ".NET Core",
+          "slug": "net-core"
+        },
+        {
+          "name": "Configuration",
+          "slug": "configuration"
+        }
+      ]
+    },
+    {
+      "title": "Power BI Metrics",
+      "slug": "power-bi-metrics",
+      "thumbnail": "https://i.vimeocdn.com/video/1528132524-5dc485afa4790a573f8f23608d382633beaf46f997ad4784ba7503dc9750e264-d_295x166",
+      "date": "2022-10-12T00:00:00",
+      "speakers": [
+        {
+          "name": "Chris Wagner",
+          "slug": "chris-wagner"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
+    {
+      "title": "But It was Logged! Practical Logging & Monitoring with .NET Core",
+      "slug": "but-it-was-logged-practical-logging-monitoring-with-net-core",
+      "thumbnail": "https://i.vimeocdn.com/video/1528132773-77ddfef39a60f3565f108450cce2cc06625651d9ef33e030efa5d978445796cb-d_295x166",
+      "date": "2022-09-27T00:00:00",
+      "speakers": [
+        {
+          "name": "Mitchel Sellers",
+          "slug": "mitchel-sellers"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": ".NET Core",
+          "slug": "net-core"
+        },
+        {
+          "name": "logging",
+          "slug": "logging"
+        }
+      ]
+    },
     {
       "title": "How to Choose the Right Azure Services for Your Applications—It’s Not A or B",
       "slug": "how-to-choose-the-right-azure-services-for-your-applicationsits-not-a-or-b",
@@ -416,86 +504,6 @@
         {
           "name": "Data Engineering",
           "slug": "data-engineering"
-        }
-      ]
-    },
-    {
-      "title": "Query Folding in Power BI",
-      "slug": "query-folding-in-power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1439597667-1c3e017aedb7098fa1f650f30f3ad12f10cc7025acb457a78ebb66e482871370-d_295x166",
-      "date": "2022-05-18T00:00:00",
-      "speakers": [
-        {
-          "name": "Sandeep Pawar",
-          "slug": "sandeep-pawar"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Power BI",
-          "slug": "power-bi"
-        }
-      ]
-    },
-    {
-      "title": "Getting Started with SQL Server Performance Tuning",
-      "slug": "getting-started-with-sql-server-performance-tuning",
-      "thumbnail": "https://i.vimeocdn.com/video/1439482168-e84fd0ff1dbfc8a6184c56a53ab256716bc5706547531ca5bf644eb1db060f79-d_295x166",
-      "date": "2022-05-17T00:00:00",
-      "speakers": [
-        {
-          "name": "John Sterrett",
-          "slug": "john-sterrett"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Capitol Area Central Texas Users of SQL Server",
-          "slug": "capitol-area-central-texas-users-of-sql-server"
-        }
-      ],
-      "tags": [
-        {
-          "name": "SQL",
-          "slug": "sql"
-        },
-        {
-          "name": "SQL Performance",
-          "slug": "sql-performance"
-        }
-      ]
-    },
-    {
-      "title": "Azure Data Factory",
-      "slug": "azure-data-factory",
-      "thumbnail": "https://i.vimeocdn.com/video/1439482341-746b77f4c0cb4e0b9d020eb6bbe4c46ee1f3af3d987aeae19fe0d567e25fa8a3-d_295x166",
-      "date": "2022-05-17T00:00:00",
-      "speakers": [
-        {
-          "name": "Mark Moore",
-          "slug": "mark-moore"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        },
-        {
-          "name": "DFW Azure User Group",
-          "slug": "dfw-azure-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Azure",
-          "slug": "azure"
         }
       ]
     }

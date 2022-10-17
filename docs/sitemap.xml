@@ -3,19 +3,91 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2022-10-05T15:22:54+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2022-10-05T15:22:51+00:00</lastmod>
+    <lastmod>2022-10-17T01:00:57+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2022-10-05T15:22:49+00:00</lastmod>
+    <lastmod>2022-10-17T01:00:56+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/</loc>
+    <lastmod>2022-10-17T01:00:56+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2022-10-05T15:22:41+00:00</lastmod>
+    <lastmod>2022-10-17T01:00:55+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2022-10-05T15:22:41+00:00</lastmod>
+    <lastmod>2022-10-17T01:00:55+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/.net/</loc>
+    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/net/</loc>
+    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/net-configuration-in-depth/</loc>
+    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/.net-core/</loc>
+    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/net-core/</loc>
+    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/chris-ayers/</loc>
+    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/chris-ayers/</loc>
+    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/configuration/</loc>
+    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/configuration/</loc>
+    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
+    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
+    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
+    <lastmod>2022-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
+    <lastmod>2022-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/chris-wagner/</loc>
+    <lastmod>2022-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/chris-wagner/</loc>
+    <lastmod>2022-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/power-bi/</loc>
+    <lastmod>2022-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/power-bi/</loc>
+    <lastmod>2022-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/power-bi-metrics/</loc>
+    <lastmod>2022-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/but-it-was-logged-practical-logging-monitoring-with-net-core/</loc>
+    <lastmod>2022-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/logging/</loc>
+    <lastmod>2022-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/logging/</loc>
+    <lastmod>2022-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/mitchel-sellers/</loc>
+    <lastmod>2022-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/mitchel-sellers/</loc>
+    <lastmod>2022-09-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/ajai-peddapanga/</loc>
     <lastmod>2022-09-20T00:00:00+00:00</lastmod>
@@ -77,25 +149,10 @@
     <loc>https://usergroup.tv/videos/tag/sql/</loc>
     <lastmod>2022-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/</loc>
-    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/jeff-weir/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/jeff-weir/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/power-bi/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/power-bi/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/reimagining-a-trade-dashboard-with-powerbi-zebra-bi-custom-visuals/</loc>
@@ -126,12 +183,6 @@
     <lastmod>2022-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/secrets-of-conflict-resolution/</loc>
-    <lastmod>2022-09-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
-    <lastmod>2022-09-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
     <lastmod>2022-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/blazor/</loc>
@@ -189,12 +240,6 @@
     <lastmod>2022-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/application-insights/</loc>
-    <lastmod>2022-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/chris-ayers/</loc>
-    <lastmod>2022-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/chris-ayers/</loc>
     <lastmod>2022-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/mike-burek/</loc>
@@ -289,12 +334,6 @@
   </url><url>
     <loc>https://usergroup.tv/videos/tag/waf/</loc>
     <lastmod>2022-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/chris-wagner/</loc>
-    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/chris-wagner/</loc>
-    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/data-engineering/</loc>
     <lastmod>2022-06-08T00:00:00+00:00</lastmod>
@@ -520,12 +559,6 @@
   </url><url>
     <loc>https://usergroup.tv/videos/ssms-tips-and-tricks/</loc>
     <lastmod>2022-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/.net/</loc>
-    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/net/</loc>
-    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/graphql/</loc>
     <lastmod>2022-02-10T00:00:00+00:00</lastmod>
@@ -1087,12 +1120,6 @@
   </url><url>
     <loc>https://usergroup.tv/videos/the-hitchhikers-guide-to-the-cosmos/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/.net-core/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/net-core/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/architecture/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
@@ -5085,12 +5112,6 @@
     <lastmod>2017-07-21T14:03:32+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/landy-bible/</loc>
-    <lastmod>2017-07-21T14:03:32+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/logging/</loc>
-    <lastmod>2017-07-21T14:03:32+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/logging/</loc>
     <lastmod>2017-07-21T14:03:32+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/processing-3-billion-log-entries-per-week/</loc>

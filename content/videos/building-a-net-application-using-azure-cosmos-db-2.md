@@ -34,7 +34,7 @@
     {
       "name": ".net",
       "slug": "net",
-      "count": 21
+      "count": 23
     },
     {
       "name": "Cosmos DB",
@@ -44,7 +44,7 @@
     {
       "name": ".NET Core",
       "slug": "net-core",
-      "count": 7
+      "count": 9
     },
     {
       "name": "ASP.NET Core",

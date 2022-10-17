@@ -5,10 +5,28 @@
   ],
   "type": "speaker",
   "slug": "chris-wagner",
-  "date": "2022-06-08T00:00:00",
+  "date": "2022-10-12T00:00:00",
   "draft": false,
   "bio": "Microsoft MVP, Kratos BI owner/founder, Senior Big Data/ Business Intelligence (BI) Solution Architect and Developer with experience in a wide variety of business applications and business processes with an emphasis on Insurance, Banking, Risk, Finance, Marketing and driving ROI through utilization of Agile Development best practices.",
   "recordings": [
+    {
+      "title": "Power BI Metrics",
+      "slug": "power-bi-metrics",
+      "thumbnail": "https://i.vimeocdn.com/video/1528132524-5dc485afa4790a573f8f23608d382633beaf46f997ad4784ba7503dc9750e264-d_295x166",
+      "date": "2022-10-12T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "The Data God Guide to Citizen Data Engineering",
       "slug": "the-data-god-guide-to-citizen-data-engineering",

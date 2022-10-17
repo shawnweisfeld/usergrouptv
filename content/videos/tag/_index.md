@@ -1,15 +1,15 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2022-10-05T15:22:51.9783589Z",
+  "date": "2022-10-17T01:00:56.8260271Z",
   "draft": false,
   "ugtvtags": [
     {
       "title": ".net",
       "slug": "net",
-      "thumbnail": "https://i.vimeocdn.com/video/1377640381-45c47366714f274966ea38cd4df0419d0eff2eae64daefb866eeea4c1d401b63-d_295x166",
-      "date": "2022-02-10T00:00:00",
-      "count": 21
+      "thumbnail": "https://i.vimeocdn.com/video/1528287911-7cefcfe1f3cac5e03440a6f6ed7d22d95edf96d49bb40a0b47ef51290784865b-d_295x166",
+      "date": "2022-10-13T00:00:00",
+      "count": 23
     },
     {
       "title": ".NET 6",
@@ -21,9 +21,9 @@
     {
       "title": ".NET Core",
       "slug": "net-core",
-      "thumbnail": "https://i.vimeocdn.com/video/1084436628-cf1cd522e911e86d334ee6e55811c42f94ad32bc29b6824774a54eec22a7b6f5-d_295x166",
-      "date": "2021-03-11T00:00:00",
-      "count": 7
+      "thumbnail": "https://i.vimeocdn.com/video/1528287911-7cefcfe1f3cac5e03440a6f6ed7d22d95edf96d49bb40a0b47ef51290784865b-d_295x166",
+      "date": "2022-10-13T00:00:00",
+      "count": 9
     },
     {
       "title": ".NET Tips and Tricks",
@@ -674,6 +674,13 @@
       "slug": "concurrency",
       "thumbnail": "https://i.vimeocdn.com/video/483485096-ed060be26892e1339eb2a9151e9b32035664bc781b22b362c52e9c6133e03d0f-d_295x166",
       "date": "2013-09-28T15:34:36",
+      "count": 1
+    },
+    {
+      "title": "Configuration",
+      "slug": "configuration",
+      "thumbnail": "https://i.vimeocdn.com/video/1528287911-7cefcfe1f3cac5e03440a6f6ed7d22d95edf96d49bb40a0b47ef51290784865b-d_295x166",
+      "date": "2022-10-13T00:00:00",
       "count": 1
     },
     {
@@ -1666,9 +1673,9 @@
     {
       "title": "logging",
       "slug": "logging",
-      "thumbnail": "https://i.vimeocdn.com/video/650633820-aa45b0b5168ff1b21f5c1b774af33c823d766afbb8bf6456e8041d52983f5c70-d_295x166",
-      "date": "2017-07-21T14:03:32",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1528132773-77ddfef39a60f3565f108450cce2cc06625651d9ef33e030efa5d978445796cb-d_295x166",
+      "date": "2022-09-27T00:00:00",
+      "count": 2
     },
     {
       "title": "Logic Apps",
@@ -2212,9 +2219,9 @@
     {
       "title": "Power BI",
       "slug": "power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1509823426-a5fef2b92b30e68222b1b91a6631f7392e9be02d3732954e711d48b41638b395-d_295x166",
-      "date": "2022-09-14T00:00:00",
-      "count": 36
+      "thumbnail": "https://i.vimeocdn.com/video/1528132524-5dc485afa4790a573f8f23608d382633beaf46f997ad4784ba7503dc9750e264-d_295x166",
+      "date": "2022-10-12T00:00:00",
+      "count": 37
     },
     {
       "title": "Power Map",

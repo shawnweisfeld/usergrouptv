@@ -5,9 +5,45 @@
   ],
   "type": "tag",
   "slug": "net",
-  "date": "2022-02-10T00:00:00",
+  "date": "2022-10-13T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": ".NET Configuration In Depth",
+      "slug": "net-configuration-in-depth",
+      "thumbnail": "https://i.vimeocdn.com/video/1528287911-7cefcfe1f3cac5e03440a6f6ed7d22d95edf96d49bb40a0b47ef51290784865b-d_295x166",
+      "date": "2022-10-13T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Chris Ayers",
+          "slug": "chris-ayers"
+        }
+      ]
+    },
+    {
+      "title": "But It was Logged! Practical Logging & Monitoring with .NET Core",
+      "slug": "but-it-was-logged-practical-logging-monitoring-with-net-core",
+      "thumbnail": "https://i.vimeocdn.com/video/1528132773-77ddfef39a60f3565f108450cce2cc06625651d9ef33e030efa5d978445796cb-d_295x166",
+      "date": "2022-09-27T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Mitchel Sellers",
+          "slug": "mitchel-sellers"
+        }
+      ]
+    },
     {
       "title": "GraphQL for .NET Developers",
       "slug": "graphql-for-net-developers",

@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "power-bi",
-  "date": "2022-09-14T00:00:00",
+  "date": "2022-10-12T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Power BI Metrics",
+      "slug": "power-bi-metrics",
+      "thumbnail": "https://i.vimeocdn.com/video/1528132524-5dc485afa4790a573f8f23608d382633beaf46f997ad4784ba7503dc9750e264-d_295x166",
+      "date": "2022-10-12T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Chris Wagner",
+          "slug": "chris-wagner"
+        }
+      ]
+    },
     {
       "title": "Reimagining a Trade Dashboard with PowerBI + Zebra BI Custom Visuals",
       "slug": "reimagining-a-trade-dashboard-with-powerbi-zebra-bi-custom-visuals",

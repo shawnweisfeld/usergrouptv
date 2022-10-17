@@ -23,7 +23,7 @@
       "name": "Chris Wagner",
       "slug": "chris-wagner",
       "bio": "Microsoft MVP, Kratos BI owner/founder, Senior Big Data/ Business Intelligence (BI) Solution Architect and Developer with experience in a wide variety of business applications and business processes with an emphasis on Insurance, Banking, Risk, Finance, Marketing and driving ROI through utilization of Agile Development best practices.",
-      "count": 2
+      "count": 3
     }
   ],
   "ugtvtags": [
@@ -37,7 +37,7 @@
     {
       "name": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "count": 34
+      "count": 35
     }
   ]
 }

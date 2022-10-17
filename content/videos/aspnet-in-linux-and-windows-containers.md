@@ -33,7 +33,7 @@
     {
       "name": ".net",
       "slug": "net",
-      "count": 21
+      "count": 23
     },
     {
       "name": "Docker",
@@ -55,7 +55,7 @@
     {
       "name": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "count": 41
+      "count": 43
     }
   ]
 }

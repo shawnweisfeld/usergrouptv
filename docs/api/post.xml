@@ -28502,4 +28502,106 @@ Download your free copy of the e-book here: https://aka.ms/Not-A-or-B</Excerpt>
       <slug>career</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>But It was Logged! Practical Logging &amp; Monitoring with .NET Core</Title>
+    <Url>https://usergroup.tv/videos/but-it-was-logged-practical-logging-monitoring-with-net-core/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1528132773-77ddfef39a60f3565f108450cce2cc06625651d9ef33e030efa5d978445796cb-d_295x166</Thumbnail>
+    <Excerpt>.NET Core makes writing log entries a breeze within your applications, however, that is where the out-of-the-box simplicity ends. So you have decorated your code with all of these pretty log messages that are designed to make your life easier, but then what? Have you actually reviewed them? Something bad happened, did it tell you? What about confidential information, have you limited that from being logged?
+
+Well, this session is designed to help take your logging from ***IMPLEMENTED*** to ***USABLE***. Logging is great, but we have so many questions to answer, including where you store the logs, how you get notifications etc. In this code-focused solution, we explore the following concepts, with detailed examples.
+
+* Where to log entries to, and flexible configurations
+* Monitoring and escalation of log entries
+* Integration with logging &amp; external assemblies
+* Configuration &amp; build systems with logging
+
+At the end of the session, attendees should be able to work with logging and exception handling in .NET Core effectively.</Excerpt>
+    <PostDate>2022-09-27T00:00:00</PostDate>
+    <Id>1130</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/760816077/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=4096bb0a04ad088750f8f258fbca9a914f98d88f06d819a38b03a89fd5cf40d9</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/760816077/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=cca5d1ca7d6b796f244f2e655786c8ab26ba4b9b9b355c5dffa87bf0013097c7</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Mitchel Sellers</name>
+      <slug>mitchel-sellers</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>.net</name>
+      <slug>net</slug>
+    </Tags>
+    <Tags>
+      <name>.NET Core</name>
+      <slug>net-core</slug>
+    </Tags>
+    <Tags>
+      <name>logging</name>
+      <slug>logging</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>.NET Configuration In Depth</Title>
+    <Url>https://usergroup.tv/videos/net-configuration-in-depth/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1528287911-7cefcfe1f3cac5e03440a6f6ed7d22d95edf96d49bb40a0b47ef51290784865b-d_295x166</Thumbnail>
+    <Excerpt>Working as a consultant, something I often saw was teams moving from .NET Framework to .NET Core and .NET 5/6. As they adopted these new versions, they kept similar patterns and libraries. The teams weren't taking full advantage of the improvements in .NET. One of those areas is Configuration.
+
+Configuration holds our secrets, connection strings, application settings, and other data. We have checked it in, stored it in a web.config and transformed it in a pipeline. Today there are a variety of ways to configure our applications securely.
+
+This session will cover:
+Strongly typed configuration
+Configuration providers - JSON, XML, INI files; Environment variables; Command Line;Azure App Config; Key Vault
+Dependency Injection
+The Options Pattern</Excerpt>
+    <PostDate>2022-10-13T00:00:00</PostDate>
+    <Id>1131</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/760828211/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=c002d9117fb16956242446e6abc135d1fc6c95ace3a43e65283b9572f5b9fa3a</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/760828211/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=84b0b6d61f387f526cb3c1e224cf04d180da8dd222216aa2c774f5270882bdac</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Chris Ayers</name>
+      <slug>chris-ayers</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>.net</name>
+      <slug>net</slug>
+    </Tags>
+    <Tags>
+      <name>.NET Core</name>
+      <slug>net-core</slug>
+    </Tags>
+    <Tags>
+      <name>Configuration</name>
+      <slug>configuration</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Power BI Metrics</Title>
+    <Url>https://usergroup.tv/videos/power-bi-metrics/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1528132524-5dc485afa4790a573f8f23608d382633beaf46f997ad4784ba7503dc9750e264-d_295x166</Thumbnail>
+    <Excerpt>Drive Actionable Insights with PowerBI Metrics (formerly known as Goals) - Review three powerful real world use cases for everyday usage of PowerBI Metrics.</Excerpt>
+    <PostDate>2022-10-12T00:00:00</PostDate>
+    <Id>1132</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/760816842/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=1311cd165eaa56812a640c59015d23fa97a00bcd40a0ddc1729a489cc7424fe0</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/760816842/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=cb0e816fb266df25e68fade61e98e19fef206f4bc35c1b63da19bedf0546a090</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Chris Wagner</name>
+      <slug>chris-wagner</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Power BI</name>
+      <slug>power-bi</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

@@ -23,7 +23,7 @@
       "name": "Chris Ayers",
       "slug": "chris-ayers",
       "bio": "Chris is a Senior Customer Engineer on the Fast Track for Azure team at Microsoft. He has a focus in modern applications built with DevOps, microservices, containers, Single Page Apps, RESTful APIs, and cloud technologies following agile practices. In his free time, Chris is a speaker at numerous meetups, an avid reader and a gamer.",
-      "count": 1
+      "count": 2
     }
   ],
   "ugtvtags": [

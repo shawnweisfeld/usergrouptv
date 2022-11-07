@@ -31,7 +31,7 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 49
+      "count": 50
     },
     {
       "name": "Data Mesh",
@@ -43,12 +43,12 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 62
+      "count": 63
     },
     {
       "name": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "count": 25
+      "count": 26
     },
     {
       "name": "Azure User Group - Houston",

@@ -5,9 +5,35 @@
     "Tulsa .NET User Group"
   ],
   "slug": "tulsa-net-user-group",
-  "date": "2022-10-13T00:00:00",
+  "date": "2022-10-25T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Demystifying the .NET Runtime",
+      "slug": "demystifying-the-net-runtime",
+      "thumbnail": "https://i.vimeocdn.com/video/1541918026-eaef537743cc846d6fc3ef025bb181e53b47b10b669bc8ca4ad87ff3f3a33fde-d_295x166",
+      "date": "2022-10-25T00:00:00",
+      "speakers": [
+        {
+          "name": "Chris Gardner",
+          "slug": "chris-gardner"
+        }
+      ],
+      "tags": [
+        {
+          "name": "C#",
+          "slug": "c"
+        },
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "Compiler",
+          "slug": "compiler"
+        }
+      ]
+    },
     {
       "title": ".NET Configuration In Depth",
       "slug": "net-configuration-in-depth",

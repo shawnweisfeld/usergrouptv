@@ -1,15 +1,15 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2022-10-17T01:00:56.8260271Z",
+  "date": "2022-11-07T02:31:27.4367778Z",
   "draft": false,
   "ugtvtags": [
     {
       "title": ".net",
       "slug": "net",
-      "thumbnail": "https://i.vimeocdn.com/video/1528287911-7cefcfe1f3cac5e03440a6f6ed7d22d95edf96d49bb40a0b47ef51290784865b-d_295x166",
-      "date": "2022-10-13T00:00:00",
-      "count": 23
+      "thumbnail": "https://i.vimeocdn.com/video/1541918026-eaef537743cc846d6fc3ef025bb181e53b47b10b669bc8ca4ad87ff3f3a33fde-d_295x166",
+      "date": "2022-10-25T00:00:00",
+      "count": 24
     },
     {
       "title": ".NET 6",
@@ -252,9 +252,9 @@
     {
       "title": "Azure",
       "slug": "azure",
-      "thumbnail": "https://i.vimeocdn.com/video/1519519430-dc0bca7dac18db82d4a8ca796a4377e02cb5ec526494d118eeb96796a13013ae-d_295x166",
-      "date": "2022-09-20T00:00:00",
-      "count": 49
+      "thumbnail": "https://i.vimeocdn.com/video/1541919610-2c5a4e1e6e84b146306279e75fc7052097b9ce81ff2da7a115d3524d73c8bfe8-d_295x166",
+      "date": "2022-10-18T00:00:00",
+      "count": 50
     },
     {
       "title": "Azure AD",
@@ -282,6 +282,13 @@
       "slug": "azure-blueprint",
       "thumbnail": "https://i.vimeocdn.com/video/876243475-fd0c306a4eda501b6caa810802d81793ac706d874f2c1fbefa3c4822cbad2f60-d_295x166",
       "date": "2020-04-08T18:34:29",
+      "count": 1
+    },
+    {
+      "title": "Azure Container Apps",
+      "slug": "azure-container-apps",
+      "thumbnail": "https://i.vimeocdn.com/video/1541919610-2c5a4e1e6e84b146306279e75fc7052097b9ce81ff2da7a115d3524d73c8bfe8-d_295x166",
+      "date": "2022-10-18T00:00:00",
       "count": 1
     },
     {
@@ -511,9 +518,9 @@
     {
       "title": "C#",
       "slug": "c",
-      "thumbnail": "https://i.vimeocdn.com/video/1319552424-0224e3a9e632a6d74091f2c4940040d34586e9431b721bd2eaec99d7418000ba-d_295x166",
-      "date": "2021-11-30T00:00:00",
-      "count": 14
+      "thumbnail": "https://i.vimeocdn.com/video/1541918026-eaef537743cc846d6fc3ef025bb181e53b47b10b669bc8ca4ad87ff3f3a33fde-d_295x166",
+      "date": "2022-10-25T00:00:00",
+      "count": 15
     },
     {
       "title": "c# in 24 hrs",
@@ -658,9 +665,9 @@
     {
       "title": "Compiler",
       "slug": "compiler",
-      "thumbnail": "https://i.vimeocdn.com/video/972800786-7cc1d2cdd968cbe5bd5fde5ca70d044d5dd661b4ca122e3639b8cb7b623c88a3-d_295x166",
-      "date": "2020-10-08T00:00:00",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1541918026-eaef537743cc846d6fc3ef025bb181e53b47b10b669bc8ca4ad87ff3f3a33fde-d_295x166",
+      "date": "2022-10-25T00:00:00",
+      "count": 2
     },
     {
       "title": "Computer Science Edution",

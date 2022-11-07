@@ -6,13 +6,94 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>.net</title>
       <link>https://usergroup.tv/tags/.net/</link>
-      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/.net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C#</title>
+      <link>https://usergroup.tv/tags/c#/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/c#/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Gardner</title>
+      <link>https://usergroup.tv/tags/chris-gardner/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/chris-gardner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compiler</title>
+      <link>https://usergroup.tv/tags/compiler/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/compiler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/tags/tulsa-.net-user-group/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/tulsa-.net-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure</title>
+      <link>https://usergroup.tv/tags/azure/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Austin Meetup</title>
+      <link>https://usergroup.tv/tags/azure-austin-meetup/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/azure-austin-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Container Apps</title>
+      <link>https://usergroup.tv/tags/azure-container-apps/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/azure-container-apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFW Azure User Group</title>
+      <link>https://usergroup.tv/tags/dfw-azure-user-group/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/dfw-azure-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kendall Roden</title>
+      <link>https://usergroup.tv/tags/kendall-roden/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/kendall-roden/</guid>
       <description></description>
     </item>
     
@@ -40,15 +121,6 @@
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/configuration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/tags/tulsa-.net-user-group/</link>
-      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/tulsa-.net-user-group/</guid>
       <description></description>
     </item>
     
@@ -116,24 +188,6 @@
     </item>
     
     <item>
-      <title>Azure</title>
-      <link>https://usergroup.tv/tags/azure/</link>
-      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/azure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure Austin Meetup</title>
-      <link>https://usergroup.tv/tags/azure-austin-meetup/</link>
-      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/azure-austin-meetup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Capitol Area Central Texas Users of SQL Server</title>
       <link>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</link>
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
@@ -148,15 +202,6 @@
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/career/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DFW Azure User Group</title>
-      <link>https://usergroup.tv/tags/dfw-azure-user-group/</link>
-      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/dfw-azure-user-group/</guid>
       <description></description>
     </item>
     
@@ -832,15 +877,6 @@
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/.net-6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C#</title>
-      <link>https://usergroup.tv/tags/c#/</link>
-      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/c#/</guid>
       <description></description>
     </item>
     
@@ -1615,15 +1651,6 @@
       <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/david-mccarter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Compiler</title>
-      <link>https://usergroup.tv/tags/compiler/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/compiler/</guid>
       <description></description>
     </item>
     

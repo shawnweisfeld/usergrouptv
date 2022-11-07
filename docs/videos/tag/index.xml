@@ -6,13 +6,49 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Oct 2022 01:00:56 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Nov 2022 02:31:27 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>.net</title>
       <link>https://usergroup.tv/videos/tag/net/</link>
-      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C#</title>
+      <link>https://usergroup.tv/videos/tag/c/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compiler</title>
+      <link>https://usergroup.tv/videos/tag/compiler/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/compiler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure</title>
+      <link>https://usergroup.tv/videos/tag/azure/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Container Apps</title>
+      <link>https://usergroup.tv/videos/tag/azure-container-apps/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure-container-apps/</guid>
       <description></description>
     </item>
     
@@ -49,15 +85,6 @@
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/logging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure</title>
-      <link>https://usergroup.tv/videos/tag/azure/</link>
-      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/azure/</guid>
       <description></description>
     </item>
     
@@ -485,15 +512,6 @@
     </item>
     
     <item>
-      <title>C#</title>
-      <link>https://usergroup.tv/videos/tag/c/</link>
-      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>dax</title>
       <link>https://usergroup.tv/videos/tag/dax/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
@@ -904,15 +922,6 @@
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/sql-server/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Compiler</title>
-      <link>https://usergroup.tv/videos/tag/compiler/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/compiler/</guid>
       <description></description>
     </item>
     

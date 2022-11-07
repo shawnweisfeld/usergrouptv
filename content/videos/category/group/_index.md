@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2022-10-17T01:00:57.4645069Z",
+  "date": "2022-11-07T02:31:28.9837682Z",
   "draft": false,
   "meetups": [
     {
@@ -133,9 +133,9 @@
     {
       "title": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "thumbnail": "https://i.vimeocdn.com/video/1519519430-dc0bca7dac18db82d4a8ca796a4377e02cb5ec526494d118eeb96796a13013ae-d_295x166",
-      "date": "2022-09-20T00:00:00",
-      "count": 62
+      "thumbnail": "https://i.vimeocdn.com/video/1541919610-2c5a4e1e6e84b146306279e75fc7052097b9ce81ff2da7a115d3524d73c8bfe8-d_295x166",
+      "date": "2022-10-18T00:00:00",
+      "count": 63
     },
     {
       "title": "Azure User Group - Houston",
@@ -266,9 +266,9 @@
     {
       "title": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1519519430-dc0bca7dac18db82d4a8ca796a4377e02cb5ec526494d118eeb96796a13013ae-d_295x166",
-      "date": "2022-09-20T00:00:00",
-      "count": 25
+      "thumbnail": "https://i.vimeocdn.com/video/1541919610-2c5a4e1e6e84b146306279e75fc7052097b9ce81ff2da7a115d3524d73c8bfe8-d_295x166",
+      "date": "2022-10-18T00:00:00",
+      "count": 26
     },
     {
       "title": "DFW C++ User Group",
@@ -441,9 +441,9 @@
     {
       "title": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1528287911-7cefcfe1f3cac5e03440a6f6ed7d22d95edf96d49bb40a0b47ef51290784865b-d_295x166",
-      "date": "2022-10-13T00:00:00",
-      "count": 43
+      "thumbnail": "https://i.vimeocdn.com/video/1541918026-eaef537743cc846d6fc3ef025bb181e53b47b10b669bc8ca4ad87ff3f3a33fde-d_295x166",
+      "date": "2022-10-25T00:00:00",
+      "count": 44
     },
     {
       "title": "Tulsa School of Dev",

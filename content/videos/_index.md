@@ -1,12 +1,76 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2022-10-17T01:00:55.3846852Z",
+  "date": "2022-11-07T02:31:21.2393398Z",
   "draft": false,
-  "recordingCount": "1,126",
-  "speakerCount": "629",
+  "recordingCount": "1,128",
+  "speakerCount": "631",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Demystifying the .NET Runtime",
+      "slug": "demystifying-the-net-runtime",
+      "thumbnail": "https://i.vimeocdn.com/video/1541918026-eaef537743cc846d6fc3ef025bb181e53b47b10b669bc8ca4ad87ff3f3a33fde-d_295x166",
+      "date": "2022-10-25T00:00:00",
+      "speakers": [
+        {
+          "name": "Chris Gardner",
+          "slug": "chris-gardner"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "C#",
+          "slug": "c"
+        },
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "Compiler",
+          "slug": "compiler"
+        }
+      ]
+    },
+    {
+      "title": "Going Cloud Native with Azure Container Apps",
+      "slug": "going-cloud-native-with-azure-container-apps",
+      "thumbnail": "https://i.vimeocdn.com/video/1541919610-2c5a4e1e6e84b146306279e75fc7052097b9ce81ff2da7a115d3524d73c8bfe8-d_295x166",
+      "date": "2022-10-18T00:00:00",
+      "speakers": [
+        {
+          "name": "Kendall Roden",
+          "slug": "kendall-roden"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "Azure Container Apps",
+          "slug": "azure-container-apps"
+        }
+      ]
+    },
     {
       "title": ".NET Configuration In Depth",
       "slug": "net-configuration-in-depth",
@@ -452,58 +516,6 @@
         {
           "name": "ADF",
           "slug": "adf"
-        }
-      ]
-    },
-    {
-      "title": "Introduction to Azure Web Application Firewall (WAF)",
-      "slug": "introduction-to-azure-web-application-firewall-waf",
-      "thumbnail": "https://i.vimeocdn.com/video/1460364484-e46b150fd1d01bcc0edba820ca67ffbaf7491c38a5c22b60b79b54da058262d4-d_295x166",
-      "date": "2022-06-21T00:00:00",
-      "speakers": [
-        {
-          "name": "Sowmya Mahadevaiah",
-          "slug": "sowmya-mahadevaiah"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        },
-        {
-          "name": "DFW Azure User Group",
-          "slug": "dfw-azure-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "waf",
-          "slug": "waf"
-        }
-      ]
-    },
-    {
-      "title": "The Data God Guide to Citizen Data Engineering",
-      "slug": "the-data-god-guide-to-citizen-data-engineering",
-      "thumbnail": "https://i.vimeocdn.com/video/1460363698-e652f3cf999605a957b658d34e353a45a4714571d8a0bdc0e09fff165fe643aa-d_295x166",
-      "date": "2022-06-08T00:00:00",
-      "speakers": [
-        {
-          "name": "Chris Wagner",
-          "slug": "chris-wagner"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Data Engineering",
-          "slug": "data-engineering"
         }
       ]
     }

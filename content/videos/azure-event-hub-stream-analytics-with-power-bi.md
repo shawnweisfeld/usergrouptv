@@ -55,12 +55,12 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 62
+      "count": 63
     },
     {
       "name": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "count": 25
+      "count": 26
     }
   ]
 }

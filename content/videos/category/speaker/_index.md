@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2022-10-17T01:00:56.3048077Z",
+  "date": "2022-11-07T02:31:26.1420466Z",
   "draft": false,
   "speakers": [
     {
@@ -716,6 +716,13 @@
       "slug": "chris-conley",
       "thumbnail": "https://i.vimeocdn.com/video/1205594121-6138f3199f71673af2245eb1817d29afb46d6ccdd736a8f76e236d7528d47574-d_295x166",
       "date": "2021-07-27T00:00:00",
+      "count": 1
+    },
+    {
+      "title": "Chris Gardner",
+      "slug": "chris-gardner",
+      "thumbnail": "https://i.vimeocdn.com/video/1541918026-eaef537743cc846d6fc3ef025bb181e53b47b10b669bc8ca4ad87ff3f3a33fde-d_295x166",
+      "date": "2022-10-25T00:00:00",
       "count": 1
     },
     {
@@ -2264,6 +2271,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/486704902-8053c4f679cd761e5542036dc12d9727c665e26b22b1b1331c83833ebc79c67d-d_295x166",
       "date": "2014-08-22T17:36:13",
       "count": 3
+    },
+    {
+      "title": "Kendall Roden",
+      "slug": "kendall-roden",
+      "thumbnail": "https://i.vimeocdn.com/video/1541919610-2c5a4e1e6e84b146306279e75fc7052097b9ce81ff2da7a115d3524d73c8bfe8-d_295x166",
+      "date": "2022-10-18T00:00:00",
+      "count": 1
     },
     {
       "title": "Kendra Havens",

@@ -28604,4 +28604,66 @@ The Options Pattern</Excerpt>
       <slug>power-bi</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Demystifying the .NET Runtime</Title>
+    <Url>https://usergroup.tv/videos/demystifying-the-net-runtime/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1541918026-eaef537743cc846d6fc3ef025bb181e53b47b10b669bc8ca4ad87ff3f3a33fde-d_295x166</Thumbnail>
+    <Excerpt>While most .NET developers know that .NET is an interpreted language, have you ever thought about what that really means? If the language is compiled to an intermediate language (literally called "Microsoft Intermediate Language" or MSIL) and run on a VM, how have they added more features to the language without updating the interpreter? This talk answers all these questions and more. We'll take a deep dive into the differences between the .NET Compiler and .NET Runtime. We'll see what's possible in the compiler, what the runtime can do, and how you can know what's happening where. You'll leave this session with a deeper appreciation of the .NET languages and a clearer sense of how your code really runs.</Excerpt>
+    <PostDate>2022-10-25T00:00:00</PostDate>
+    <Id>1133</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/767931804/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=1de863e5a6b630f532a481f256e63e294225cc3abc8f6f904fdec9aad103cda8</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/767931804/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=874a44ef83e24d1aeb9932b6134484212d6b927850c345d7f7533feac18a22a2</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Chris Gardner</name>
+      <slug>chris-gardner</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>C#</name>
+      <slug>c</slug>
+    </Tags>
+    <Tags>
+      <name>.net</name>
+      <slug>net</slug>
+    </Tags>
+    <Tags>
+      <name>Compiler</name>
+      <slug>compiler</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Going Cloud Native with Azure Container Apps</Title>
+    <Url>https://usergroup.tv/videos/going-cloud-native-with-azure-container-apps/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1541919610-2c5a4e1e6e84b146306279e75fc7052097b9ce81ff2da7a115d3524d73c8bfe8-d_295x166</Thumbnail>
+    <Excerpt>Join this session to learn more about Azure Container Apps, a new serverless platform purpose-built for microservices and built on top of open source technology.</Excerpt>
+    <PostDate>2022-10-18T00:00:00</PostDate>
+    <Id>1134</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/767931707/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=83ac773ee3734ab067205b02ab17ec8c32f1f892781e52fdb2a0763e8d7e2536</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/767931707/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=1c08e66f689356bf7f5480647d3c5048d020a2e4f23d0aed7e1d55012a7ed94f</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Kendall Roden</name>
+      <slug>kendall-roden</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Azure</name>
+      <slug>azure</slug>
+    </Tags>
+    <Tags>
+      <name>Azure Container Apps</name>
+      <slug>azure-container-apps</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

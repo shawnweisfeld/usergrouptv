@@ -30,14 +30,14 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 49
+      "count": 50
     }
   ],
   "meetups": [
     {
       "name": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "count": 25
+      "count": 26
     }
   ]
 }

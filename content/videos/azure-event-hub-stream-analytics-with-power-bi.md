@@ -43,7 +43,7 @@
     {
       "name": "PowerBI",
       "slug": "powerbi",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Event Hubs",

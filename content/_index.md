@@ -1,12 +1,36 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2022-11-07T02:31:21.2393398Z",
+  "date": "2022-11-12T14:04:30.8691837Z",
   "draft": false,
-  "recordingCount": "1,128",
-  "speakerCount": "631",
+  "recordingCount": "1,129",
+  "speakerCount": "632",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Expert Power BI Development",
+      "slug": "expert-power-bi-development",
+      "thumbnail": "https://i.vimeocdn.com/video/1545863917-7a587dc1648f566c4f6bc782e5a9adcc13d73041f4e97c3edafd5edb15e66014-d_295x166",
+      "date": "2022-11-09T00:00:00",
+      "speakers": [
+        {
+          "name": "Greg Baldini",
+          "slug": "greg-baldini"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "PowerBI",
+          "slug": "powerbi"
+        }
+      ]
+    },
     {
       "title": "Demystifying the .NET Runtime",
       "slug": "demystifying-the-net-runtime",
@@ -492,30 +516,6 @@
         {
           "name": "Static Analyzers",
           "slug": "static-analyzers"
-        }
-      ]
-    },
-    {
-      "title": "Azure Data Factory Tips and Tricks",
-      "slug": "azure-data-factory-tips-and-tricks",
-      "thumbnail": "https://i.vimeocdn.com/video/1460364089-fd107a6711cf53d5164b8f9493430a085504c9bf27ad964ffed2494b899fd469-d_295x166",
-      "date": "2022-06-21T00:00:00",
-      "speakers": [
-        {
-          "name": "Mike Burek",
-          "slug": "mike-burek"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Capitol Area Central Texas Users of SQL Server",
-          "slug": "capitol-area-central-texas-users-of-sql-server"
-        }
-      ],
-      "tags": [
-        {
-          "name": "ADF",
-          "slug": "adf"
         }
       ]
     }

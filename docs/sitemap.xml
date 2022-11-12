@@ -3,19 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2022-11-07T02:31:28+00:00</lastmod>
+    <lastmod>2022-11-12T14:04:42+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2022-11-07T02:31:27+00:00</lastmod>
+    <lastmod>2022-11-12T14:04:39+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2022-11-07T02:31:26+00:00</lastmod>
+    <lastmod>2022-11-12T14:04:37+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2022-11-07T02:31:21+00:00</lastmod>
+    <lastmod>2022-11-12T14:04:30+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2022-11-07T02:31:21+00:00</lastmod>
+    <lastmod>2022-11-12T14:04:30+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/expert-power-bi-development/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/greg-baldini/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/greg-baldini/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/powerbi/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/powerbi/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/.net/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
@@ -42,9 +66,6 @@
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/demystifying-the-net-runtime/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
@@ -106,12 +127,6 @@
   </url><url>
     <loc>https://usergroup.tv/videos/tag/configuration/</loc>
     <lastmod>2022-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
-    <lastmod>2022-10-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
-    <lastmod>2022-10-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/chris-wagner/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
@@ -486,12 +501,6 @@
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/alex-powers/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/powerbi/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/powerbi/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/adam-whitlatch/</loc>

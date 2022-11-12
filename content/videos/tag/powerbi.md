@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "powerbi",
-  "date": "2022-04-13T00:00:00",
+  "date": "2022-11-09T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Expert Power BI Development",
+      "slug": "expert-power-bi-development",
+      "thumbnail": "https://i.vimeocdn.com/video/1545863917-7a587dc1648f566c4f6bc782e5a9adcc13d73041f4e97c3edafd5edb15e66014-d_295x166",
+      "date": "2022-11-09T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Greg Baldini",
+          "slug": "greg-baldini"
+        }
+      ]
+    },
     {
       "title": "A \"M\"ind Bending Experience: Custom Functions and Documentation in Power Query",
       "slug": "a-mind-bending-experience-custom-functions-and-documentation-in-power-query",

@@ -5,9 +5,27 @@
     "Austin Power BI User Group"
   ],
   "slug": "austin-power-bi-user-group",
-  "date": "2022-10-12T00:00:00",
+  "date": "2022-11-09T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Expert Power BI Development",
+      "slug": "expert-power-bi-development",
+      "thumbnail": "https://i.vimeocdn.com/video/1545863917-7a587dc1648f566c4f6bc782e5a9adcc13d73041f4e97c3edafd5edb15e66014-d_295x166",
+      "date": "2022-11-09T00:00:00",
+      "speakers": [
+        {
+          "name": "Greg Baldini",
+          "slug": "greg-baldini"
+        }
+      ],
+      "tags": [
+        {
+          "name": "PowerBI",
+          "slug": "powerbi"
+        }
+      ]
+    },
     {
       "title": "Power BI Metrics",
       "slug": "power-bi-metrics",

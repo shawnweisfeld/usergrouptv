@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2022-11-07T02:31:26.1420466Z",
+  "date": "2022-11-12T14:04:37.0163994Z",
   "draft": false,
   "speakers": [
     {
@@ -1451,6 +1451,13 @@
       "slug": "greg-allbright",
       "thumbnail": "https://i.vimeocdn.com/video/494263637-79d12092e3e0ddb1a63a73a2a75a8570c7be70c39c381e6c2b0f0ec5fff16b9a-d_295x166",
       "date": "2011-10-22T23:11:42",
+      "count": 1
+    },
+    {
+      "title": "Greg Baldini",
+      "slug": "greg-baldini",
+      "thumbnail": "https://i.vimeocdn.com/video/1545863917-7a587dc1648f566c4f6bc782e5a9adcc13d73041f4e97c3edafd5edb15e66014-d_295x166",
+      "date": "2022-11-09T00:00:00",
       "count": 1
     },
     {

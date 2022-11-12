@@ -28666,4 +28666,27 @@ The Options Pattern</Excerpt>
       <slug>azure-container-apps</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Expert Power BI Development</Title>
+    <Url>https://usergroup.tv/videos/expert-power-bi-development/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1545863917-7a587dc1648f566c4f6bc782e5a9adcc13d73041f4e97c3edafd5edb15e66014-d_295x166</Thumbnail>
+    <Excerpt>This is a fast paced talk covering tools and techniques for advanced modeling and DAX development, focusing on new development, optimization, and debugging techniques. The focus is on DAX Studio and Tabular Editor.</Excerpt>
+    <PostDate>2022-11-09T00:00:00</PostDate>
+    <Id>1135</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/770200803/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=4c51c1a2261f95a8064cf49771c6e51085af6423e1b6dbccf8cd034a134cbded</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/770200803/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=bf102c431a6e9244480c366351e34ae02fb6c960c4361fd13f484e08750d4ccf</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Greg Baldini</name>
+      <slug>greg-baldini</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>PowerBI</name>
+      <slug>powerbi</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

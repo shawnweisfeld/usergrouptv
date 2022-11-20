@@ -6,7 +6,133 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Nov 2022 14:04:30 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Nov 2022 20:56:37 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Capitol Area Central Texas Users of SQL Server</title>
+      <link>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Json</title>
+      <link>https://usergroup.tv/videos/tag/json/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JSON in SQL, Expanding the Possibilities!</title>
+      <link>https://usergroup.tv/videos/json-in-sql-expanding-the-possibilities/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/json-in-sql-expanding-the-possibilities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mike Burek</title>
+      <link>https://usergroup.tv/videos/category/speaker/mike-burek/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/mike-burek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://usergroup.tv/videos/tag/sql/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure</title>
+      <link>https://usergroup.tv/videos/tag/azure/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Data Factory</title>
+      <link>https://usergroup.tv/videos/tag/azure-data-factory/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure-data-factory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Data Lake</title>
+      <link>https://usergroup.tv/videos/tag/azure-data-lake/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure-data-lake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Synapse</title>
+      <link>https://usergroup.tv/videos/tag/azure-synapse/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure-synapse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data</title>
+      <link>https://usergroup.tv/videos/tag/big-data/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Processing</title>
+      <link>https://usergroup.tv/videos/tag/data-processing/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/data-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeff St. Germain</title>
+      <link>https://usergroup.tv/videos/category/speaker/jeff-st-germain/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/jeff-st-germain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Big Data with Azure Solutions</title>
+      <link>https://usergroup.tv/videos/understanding-big-data-with-azure-solutions/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/understanding-big-data-with-azure-solutions/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Austin Power BI User Group</title>
       <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
@@ -85,24 +211,6 @@
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/demystifying-the-net-runtime/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
-      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure</title>
-      <link>https://usergroup.tv/videos/tag/azure/</link>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/azure/</guid>
       <description></description>
     </item>
     
@@ -260,15 +368,6 @@
     </item>
     
     <item>
-      <title>Capitol Area Central Texas Users of SQL Server</title>
-      <link>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</link>
-      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Career</title>
       <link>https://usergroup.tv/videos/tag/career/</link>
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
@@ -301,15 +400,6 @@
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/martin-perez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQL</title>
-      <link>https://usergroup.tv/videos/tag/sql/</link>
-      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/sql/</guid>
       <description></description>
     </item>
     
@@ -472,15 +562,6 @@
       <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/application-insights/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mike Burek</title>
-      <link>https://usergroup.tv/videos/category/speaker/mike-burek/</link>
-      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/speaker/mike-burek/</guid>
       <description></description>
     </item>
     
@@ -4394,15 +4475,6 @@ What do we use your information for?</description>
     </item>
     
     <item>
-      <title>Azure Data Lake</title>
-      <link>https://usergroup.tv/videos/tag/azure-data-lake/</link>
-      <pubDate>Sat, 13 Jul 2019 14:04:25 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/azure-data-lake/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Querying Semistructured Data in Azure Data Lake with USQL</title>
       <link>https://usergroup.tv/videos/querying-semistructured-data-in-azure-data-lake-with-usql-4/</link>
       <pubDate>Sat, 13 Jul 2019 14:04:25 +0000</pubDate>
@@ -5164,15 +5236,6 @@ What do we use your information for?</description>
       <pubDate>Wed, 13 Mar 2019 15:44:36 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/becky-isserman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Big Data</title>
-      <link>https://usergroup.tv/videos/tag/big-data/</link>
-      <pubDate>Wed, 13 Mar 2019 15:44:36 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/big-data/</guid>
       <description></description>
     </item>
     
@@ -16747,15 +16810,6 @@ What do we use your information for?</description>
       <pubDate>Fri, 01 Mar 2013 20:26:42 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/fun-with-json-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Json</title>
-      <link>https://usergroup.tv/videos/tag/json/</link>
-      <pubDate>Fri, 01 Mar 2013 20:26:42 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/json/</guid>
       <description></description>
     </item>
     

@@ -30,14 +30,14 @@
     {
       "name": "Azure Data Lake",
       "slug": "azure-data-lake",
-      "count": 4
+      "count": 5
     }
   ],
   "meetups": [
     {
       "name": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "count": 82
+      "count": 83
     },
     {
       "name": "SQL Saturday",

@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="utf-8"><script type="application/ld+json">
+    {
+        "@context" : "http://schema.org",
+        "@type" : "BlogPosting",
+        "mainEntityOfPage": {
+             "@type": "WebPage",
+             "@id": "https:\/\/usergroup.tv\/"
+        },
+        "articleSection" : "videos",
+        "name" : "JSON in SQL, Expanding the Possibilities!",
+        "headline" : "JSON in SQL, Expanding the Possibilities!",
+        "description" : "You\u0027re going to run into JSON data. And it\u0027s getting common enough that it\u0027s now hard to push back and request the data get converted to some time of table format; you are expected to hand JSON data now. So let\u0027s look at the built-in ways to handle it natively in SQL Server, starting with 2016. There are various ways import and export the data, some special considerations since the data can be nested and denormalized with implicit linking. Luckily, compared to XML data, we have a few additional built in functions that make working with JSON much easier than XML. We won\u0027t cover external programs and manual processing of the JSON strings, since SQL Server can natively handle the data.",
+        "inLanguage" : "en",
+        "author" : "Shawn Weisfeld",
+        "creator" : "Shawn Weisfeld",
+        "publisher": "Shawn Weisfeld",
+        "accountablePerson" : "Shawn Weisfeld",
+        "copyrightHolder" : "Shawn Weisfeld",
+        "copyrightYear" : "2022",
+        "datePublished": "2022-11-15T00:00:00Z",
+        "dateModified" : "2022-11-15T00:00:00Z",
+        "url" : "\/videos\/json-in-sql-expanding-the-possibilities\/",
+        "wordCount" : "0",
+        "keywords" : [ "SQL","Json","Blog" ]
+    }
+</script>
+<title>
+    JSON in SQL, Expanding the Possibilities! &ndash; UserGroup.tv
+</title><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="You&#39;re going to run into JSON data. And it&#39;s getting common enough that it&#39;s now hard to push back and request the data get converted to some time of table format; you are expected to hand JSON data now. So let&#39;s look at the built-in ways to handle it natively in SQL Server, starting with 2016. There are various ways import and export the data, some special considerations since the data can be nested and denormalized with implicit linking. Luckily, compared to XML data, we have a few additional built in functions that make working with JSON much easier than XML. We won&#39;t cover external programs and manual processing of the JSON strings, since SQL Server can natively handle the data.">
+<meta name="author" content="Shawn Weisfeld">
+<link rel="icon" href="/favicon.ico">
+
+
+<meta itemprop="name" content="JSON in SQL, Expanding the Possibilities!">
+<meta itemprop="description" content="You&#39;re going to run into JSON data. And it&#39;s getting common enough that it&#39;s now hard to push back and request the data get converted to some time of table format; you are expected to hand JSON data now. So let&#39;s look at the built-in ways to handle it natively in SQL Server, starting with 2016. There are various ways import and export the data, some special considerations since the data can be nested and denormalized with implicit linking. Luckily, compared to XML data, we have a few additional built in functions that make working with JSON much easier than XML. We won&#39;t cover external programs and manual processing of the JSON strings, since SQL Server can natively handle the data."><meta itemprop="datePublished" content="2022-11-15T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2022-11-15T00:00:00+00:00" />
+<meta itemprop="wordCount" content="0"><meta itemprop="image" content="https://i.vimeocdn.com/video/1551442769-55f5dfd58705d295b70446175909363881a589eb821106ef5f96929987123ba1-d_295x166">
+<meta itemprop="keywords" content="SQL,Json," />
+<meta property="og:title" content="JSON in SQL, Expanding the Possibilities!" />
+<meta property="og:description" content="You&#39;re going to run into JSON data. And it&#39;s getting common enough that it&#39;s now hard to push back and request the data get converted to some time of table format; you are expected to hand JSON data now. So let&#39;s look at the built-in ways to handle it natively in SQL Server, starting with 2016. There are various ways import and export the data, some special considerations since the data can be nested and denormalized with implicit linking. Luckily, compared to XML data, we have a few additional built in functions that make working with JSON much easier than XML. We won&#39;t cover external programs and manual processing of the JSON strings, since SQL Server can natively handle the data." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://usergroup.tv/videos/json-in-sql-expanding-the-possibilities/" /><meta property="og:image" content="https://i.vimeocdn.com/video/1551442769-55f5dfd58705d295b70446175909363881a589eb821106ef5f96929987123ba1-d_295x166" /><meta property="article:section" content="videos" />
+<meta property="article:published_time" content="2022-11-15T00:00:00+00:00" />
+<meta property="article:modified_time" content="2022-11-15T00:00:00+00:00" />
+
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://i.vimeocdn.com/video/1551442769-55f5dfd58705d295b70446175909363881a589eb821106ef5f96929987123ba1-d_295x166"/>
+
+<meta name="twitter:title" content="JSON in SQL, Expanding the Possibilities!"/>
+<meta name="twitter:description" content="You&#39;re going to run into JSON data. And it&#39;s getting common enough that it&#39;s now hard to push back and request the data get converted to some time of table format; you are expected to hand JSON data now. So let&#39;s look at the built-in ways to handle it natively in SQL Server, starting with 2016. There are various ways import and export the data, some special considerations since the data can be nested and denormalized with implicit linking. Luckily, compared to XML data, we have a few additional built in functions that make working with JSON much easier than XML. We won&#39;t cover external programs and manual processing of the JSON strings, since SQL Server can natively handle the data."/>
+
+
+<link rel="alternate" href="/index.xml" type="application/rss+xml" title="UserGroup.tv"/>
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/vendor.min.bfce43db53ea1b06d2bb16511e9b733eb4aefaf130b53804b253a4f9bf9f0702e2c08227c6ebbce6b4b537d898593af583d5fb1da9557104d61005dd624588d5.css" integrity="sha512-v85D21PqGwbSuxZRHptzPrSu&#43;vEwtTgEslOk&#43;b&#43;fBwLiwIInxuu85rS1N9iYWTr1g9X7HalVcQTWEAXdYkWI1Q==">
+
+
+
+  <meta property="og:image:secure" content="https://i.vimeocdn.com/video/1551442769-55f5dfd58705d295b70446175909363881a589eb821106ef5f96929987123ba1-d_295x166" />
+<body><nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
+    <div class="container">
+        <a class="navbar-brand" href="/">
+            <img src="/images/Ugtv.png" alt="UserGroup.tv">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="/">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/videos/category/speaker/">Speakers</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/videos/category/group/">Groups</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/videos/tag/">Tags</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/about-us/">About Us</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://forms.office.com/Pages/ResponsePage.aspx?id=TlyBc-0-d0WrTt-gYiae0KLqSn4LXatBuXAR729jgnhUQ0MyQUlFMEw5UTdUMVI1TDQ1M0RFNElTSC4u" target="_blank">Publish</a>
+            </li>
+          </ul>
+        </div>
+    </div>
+</nav>      
+<main role="main">
+
+    <div data-type="ad" data-publisher="lqm.usergrouptv.site" data-format="728x90" data-zone="ros" class="horizontal-ad"></div>
+
+    <div class="container mt-3 mb-3">
+
+        <h1>
+            JSON in SQL, Expanding the Possibilities!
+        </h1>
+
+        <div class="addthis_inline_share_toolbox text-right"></div>
+
+        
+        <iframe src="https://player.vimeo.com/video/773094774" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        
+
+
+        <h2>Abstract: </h2>
+        <div>You're going to run into JSON data. And it's getting common enough that it's now hard to push back and request the data get converted to some time of table format; you are expected to hand JSON data now. So let's look at the built-in ways to handle it natively in SQL Server, starting with 2016. There are various ways import and export the data, some special considerations since the data can be nested and denormalized with implicit linking. Luckily, compared to XML data, we have a few additional built in functions that make working with JSON much easier than XML. We won't cover external programs and manual processing of the JSON strings, since SQL Server can natively handle the data.</div>
+
+        <h2>Speakers: </h2>
+        <div>
+            <ul>
+                
+                <li>
+                    <h3>
+                        <a href="/videos/category/speaker/mike-burek">Mike Burek</a>
+                    </h3>
+                    <div>
+<span class="badge badge-primary">13 Recordings</span>
+
+</div>
+                    <div><p>Mike is the leader of the Austin SQL User Group</p></div>
+                </li>
+                
+            </ul>            
+        </div>
+
+        <h2>Recorded At: </h2>
+        <div>
+            <ul>
+                
+                <li>
+                    <a href="/videos/category/group/capitol-area-central-texas-users-of-sql-server">Capitol Area Central Texas Users of SQL Server</a> 
+<span class="badge badge-primary">83 Recordings</span>
+
+
+                </li>
+                
+            </ul>            
+        </div>
+
+        <h2>Recorded on: </h2>
+        <div>Nov 15, 2022</div>
+
+        <h2>More Info: </h2>
+        <div><a href="https://www.meetup.com/austin-sql-server-user-group/events/gdvrxsydcpbtb/" target="_blank" >https://www.meetup.com/austin-sql-server-user-group/events/gdvrxsydcpbtb/</a></div>
+
+        <h2>Tags: </h2>
+        <div>
+            <ul>
+                
+                <li>
+                    <a href="/videos/tag/sql">SQL</a> 
+<span class="badge badge-primary">26 Recordings</span>
+
+
+                </li>
+                
+                <li>
+                    <a href="/videos/tag/json">Json</a> 
+<span class="badge badge-primary">3 Recordings</span>
+
+
+                </li>
+                
+            </ul>            
+        </div>
+
+
+    </div>
+
+
+        </main>
+
+<nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+    <div class="container">
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+        <span class="navbar-text">
+            &copy; UserGroup.tv 2020
+        </span>
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="/privacy-policy">Privacy Policy</a>
+            </li>
+        </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+<script src="/js/vendor.min.cb1b7357739fe696b5790da72f4e974012eaa41e6fe80bc53b784e6c88c9d54cf1c291756e2829e1ad9afdc8cd93622181d79c39daaefb59335475f7b575801c.js" integrity="sha512-yxtzV3Of5pa1eQ2nL06XQBLqpB5v6AvFO3hObIjJ1UzxwpF1bigp4a2a/cjNk2IhgdecOdqu&#43;1kzVHX3tXWAHA=="></script>
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-155341911-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<script type='text/javascript'>
+    function _dmBootstrap(file) {
+        var _dma = document.createElement('script');
+        _dma.type = 'text/javascript';
+        _dma.async = true;
+        _dma.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + file;
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(_dma);
+    }
+    function _dmFollowup(file) { if (typeof DMAds === 'undefined') _dmBootstrap('cdn2.DeveloperMedia.com/a.min.js'); }
+    (function () { _dmBootstrap('cdn1.DeveloperMedia.com/a.min.js'); setTimeout(_dmFollowup, 2000); })();
+</script>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5fb843a02f2efdea"></script>
+</body>
+</html>

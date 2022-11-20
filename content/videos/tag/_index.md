@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2022-11-12T14:04:39.7049263Z",
+  "date": "2022-11-20T20:56:40.397066Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -252,9 +252,9 @@
     {
       "title": "Azure",
       "slug": "azure",
-      "thumbnail": "https://i.vimeocdn.com/video/1541919610-2c5a4e1e6e84b146306279e75fc7052097b9ce81ff2da7a115d3524d73c8bfe8-d_295x166",
-      "date": "2022-10-18T00:00:00",
-      "count": 50
+      "thumbnail": "https://i.vimeocdn.com/video/1551440825-e4a86014bf7e99bf9241e4802378884372c87d3dfdc2bd9ce298784b9c8ada34-d_295x166",
+      "date": "2022-11-10T00:00:00",
+      "count": 51
     },
     {
       "title": "Azure AD",
@@ -292,11 +292,18 @@
       "count": 1
     },
     {
+      "title": "Azure Data Factory",
+      "slug": "azure-data-factory",
+      "thumbnail": "https://i.vimeocdn.com/video/1551440825-e4a86014bf7e99bf9241e4802378884372c87d3dfdc2bd9ce298784b9c8ada34-d_295x166",
+      "date": "2022-11-10T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Azure Data Lake",
       "slug": "azure-data-lake",
-      "thumbnail": "https://i.vimeocdn.com/video/798800906-75aa3fc37b8a91273f3751c5dfb406dbe6c039b12b13dbcc90502df3fa56620c-d_295x166",
-      "date": "2019-07-13T14:04:25",
-      "count": 4
+      "thumbnail": "https://i.vimeocdn.com/video/1551440825-e4a86014bf7e99bf9241e4802378884372c87d3dfdc2bd9ce298784b9c8ada34-d_295x166",
+      "date": "2022-11-10T00:00:00",
+      "count": 5
     },
     {
       "title": "Azure Database",
@@ -404,6 +411,13 @@
       "count": 7
     },
     {
+      "title": "Azure Synapse",
+      "slug": "azure-synapse",
+      "thumbnail": "https://i.vimeocdn.com/video/1551440825-e4a86014bf7e99bf9241e4802378884372c87d3dfdc2bd9ce298784b9c8ada34-d_295x166",
+      "date": "2022-11-10T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Azure Virtual Desktop",
       "slug": "azure-virtual-desktop",
       "thumbnail": "https://i.vimeocdn.com/video/1168688870-2256f3b1689a365f7bc8971f760c0c88e5eb7b4b50af1f9e6b251e4eedaf5bae-d_295x166",
@@ -455,9 +469,9 @@
     {
       "title": "Big Data",
       "slug": "big-data",
-      "thumbnail": "https://i.vimeocdn.com/video/767166080-188d9a8bbe280f4fd2885d20f6cb1006df0898270e28c091d975756a5e679c40-d_295x166",
-      "date": "2019-03-13T15:44:36",
-      "count": 3
+      "thumbnail": "https://i.vimeocdn.com/video/1551440825-e4a86014bf7e99bf9241e4802378884372c87d3dfdc2bd9ce298784b9c8ada34-d_295x166",
+      "date": "2022-11-10T00:00:00",
+      "count": 4
     },
     {
       "title": "BIML",
@@ -842,6 +856,13 @@
       "slug": "data-mesh",
       "thumbnail": "https://i.vimeocdn.com/video/1377660771-40046bed4dcde719c1e20ac24a177c3e52ad04b71258f3045174c793b35af372-d_295x166",
       "date": "2022-02-15T00:00:00",
+      "count": 1
+    },
+    {
+      "title": "Data Processing",
+      "slug": "data-processing",
+      "thumbnail": "https://i.vimeocdn.com/video/1551440825-e4a86014bf7e99bf9241e4802378884372c87d3dfdc2bd9ce298784b9c8ada34-d_295x166",
+      "date": "2022-11-10T00:00:00",
       "count": 1
     },
     {
@@ -1526,9 +1547,9 @@
     {
       "title": "Json",
       "slug": "json",
-      "thumbnail": "https://i.vimeocdn.com/video/485082472-430d087b091d052e44f4f8581aa7728ab322acba414b9fa61be88c937c48c06c-d_295x166",
-      "date": "2013-03-01T20:26:42",
-      "count": 2
+      "thumbnail": "https://i.vimeocdn.com/video/1551442769-55f5dfd58705d295b70446175909363881a589eb821106ef5f96929987123ba1-d_295x166",
+      "date": "2022-11-15T00:00:00",
+      "count": 3
     },
     {
       "title": "Jupyter Notebook",
@@ -2653,9 +2674,9 @@
     {
       "title": "SQL",
       "slug": "sql",
-      "thumbnail": "https://i.vimeocdn.com/video/1519519819-d567cd50ed2090217f35631ee82b2622cc349b3dbf18e6db930b3771dffc2fad-d_295x166",
-      "date": "2022-09-20T00:00:00",
-      "count": 25
+      "thumbnail": "https://i.vimeocdn.com/video/1551442769-55f5dfd58705d295b70446175909363881a589eb821106ef5f96929987123ba1-d_295x166",
+      "date": "2022-11-15T00:00:00",
+      "count": 26
     },
     {
       "title": "SQL Admin",

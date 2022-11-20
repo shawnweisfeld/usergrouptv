@@ -28689,4 +28689,74 @@ The Options Pattern</Excerpt>
       <slug>powerbi</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>JSON in SQL, Expanding the Possibilities!</Title>
+    <Url>https://usergroup.tv/videos/json-in-sql-expanding-the-possibilities/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1551442769-55f5dfd58705d295b70446175909363881a589eb821106ef5f96929987123ba1-d_295x166</Thumbnail>
+    <Excerpt>You're going to run into JSON data. And it's getting common enough that it's now hard to push back and request the data get converted to some time of table format; you are expected to hand JSON data now. So let's look at the built-in ways to handle it natively in SQL Server, starting with 2016. There are various ways import and export the data, some special considerations since the data can be nested and denormalized with implicit linking. Luckily, compared to XML data, we have a few additional built in functions that make working with JSON much easier than XML. We won't cover external programs and manual processing of the JSON strings, since SQL Server can natively handle the data.</Excerpt>
+    <PostDate>2022-11-15T00:00:00</PostDate>
+    <Id>1136</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/773094774/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=1d03261399d7fe0f970f26ae73448d3fab5e2ba7bde0f8fcf68aa95ef10c059a</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/773094774/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=fa09c2f51b6d3d785b0956335438ffe8ebf45eb1ee894438d1addcaa500e4d58</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Mike Burek</name>
+      <slug>mike-burek</slug>
+    </Speakers>
+    <Groups>
+      <name>Capitol Area Central Texas Users of SQL Server</name>
+      <slug>capitol-area-central-texas-users-of-sql-server</slug>
+    </Groups>
+    <Tags>
+      <name>SQL</name>
+      <slug>sql</slug>
+    </Tags>
+    <Tags>
+      <name>Json</name>
+      <slug>json</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Understanding Big Data with Azure Solutions</Title>
+    <Url>https://usergroup.tv/videos/understanding-big-data-with-azure-solutions/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1551440825-e4a86014bf7e99bf9241e4802378884372c87d3dfdc2bd9ce298784b9c8ada34-d_295x166</Thumbnail>
+    <Excerpt>There is an ever-increasing need for companies to handle "Big Data". The application of big data varies based on the needs of customers. Some companies have some need for processing small amounts of unstructured data while other companies exist to process extremely large amounts of data. What does "Big Data" actually mean and how does it apply to you? In this talk, we'll cover "Big Data" and various Azure tools and solutions for processing data. Extract, Transform, Load (ETL) is just the tip of the iceberg of needs customers have. You'll see how ETL tools like Azure Data Factory can help you work with data migration and exporting. We will also cover storage options and techniques using Azure Synapse and "Data Lakes". We'll also discuss using techniques that can improve data processing which in turn supports the needs of analytics.</Excerpt>
+    <PostDate>2022-11-10T00:00:00</PostDate>
+    <Id>1137</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/773094661/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=10effb26ee137d07719923c8f3955d10ad824692ffb14823e360ee832dd43b6e</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/773094661/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=ebaa7265aef52b338cf7c8071e289f5ab24177e08e47f74f0707d3d850ac8db3</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Jeff St. Germain</name>
+      <slug>jeff-st-germain</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Azure</name>
+      <slug>azure</slug>
+    </Tags>
+    <Tags>
+      <name>Big Data</name>
+      <slug>big-data</slug>
+    </Tags>
+    <Tags>
+      <name>Azure Data Lake</name>
+      <slug>azure-data-lake</slug>
+    </Tags>
+    <Tags>
+      <name>Azure Synapse</name>
+      <slug>azure-synapse</slug>
+    </Tags>
+    <Tags>
+      <name>Azure Data Factory</name>
+      <slug>azure-data-factory</slug>
+    </Tags>
+    <Tags>
+      <name>Data Processing</name>
+      <slug>data-processing</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

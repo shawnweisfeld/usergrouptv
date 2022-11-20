@@ -5,9 +5,31 @@
     "Capitol Area Central Texas Users of SQL Server"
   ],
   "slug": "capitol-area-central-texas-users-of-sql-server",
-  "date": "2022-09-20T00:00:00",
+  "date": "2022-11-15T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "JSON in SQL, Expanding the Possibilities!",
+      "slug": "json-in-sql-expanding-the-possibilities",
+      "thumbnail": "https://i.vimeocdn.com/video/1551442769-55f5dfd58705d295b70446175909363881a589eb821106ef5f96929987123ba1-d_295x166",
+      "date": "2022-11-15T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Burek",
+          "slug": "mike-burek"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        },
+        {
+          "name": "Json",
+          "slug": "json"
+        }
+      ]
+    },
     {
       "title": "Career Progression from DBA to Data Engineer and Beyond",
       "slug": "career-progression-from-dba-to-data-engineer-and-beyond",

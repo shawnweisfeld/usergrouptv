@@ -48,7 +48,7 @@
     {
       "name": "Big Data",
       "slug": "big-data",
-      "count": 3
+      "count": 4
     }
   ],
   "meetups": [

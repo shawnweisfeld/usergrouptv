@@ -33,12 +33,12 @@
     {
       "name": "SQL",
       "slug": "sql",
-      "count": 25
+      "count": 26
     },
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 50
+      "count": 51
     },
     {
       "name": "MS SQL",
@@ -60,7 +60,7 @@
     {
       "name": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "count": 82
+      "count": 83
     },
     {
       "name": "DFW Azure User Group",

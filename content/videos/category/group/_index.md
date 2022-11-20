@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2022-11-12T14:04:42.341656Z",
+  "date": "2022-11-20T20:56:41.3210044Z",
   "draft": false,
   "meetups": [
     {
@@ -147,9 +147,9 @@
     {
       "title": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "thumbnail": "https://i.vimeocdn.com/video/1519519819-d567cd50ed2090217f35631ee82b2622cc349b3dbf18e6db930b3771dffc2fad-d_295x166",
-      "date": "2022-09-20T00:00:00",
-      "count": 82
+      "thumbnail": "https://i.vimeocdn.com/video/1551442769-55f5dfd58705d295b70446175909363881a589eb821106ef5f96929987123ba1-d_295x166",
+      "date": "2022-11-15T00:00:00",
+      "count": 83
     },
     {
       "title": "Chicago IT Architects Group",
@@ -441,9 +441,9 @@
     {
       "title": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1541918026-eaef537743cc846d6fc3ef025bb181e53b47b10b669bc8ca4ad87ff3f3a33fde-d_295x166",
-      "date": "2022-10-25T00:00:00",
-      "count": 44
+      "thumbnail": "https://i.vimeocdn.com/video/1551440825-e4a86014bf7e99bf9241e4802378884372c87d3dfdc2bd9ce298784b9c8ada34-d_295x166",
+      "date": "2022-11-10T00:00:00",
+      "count": 45
     },
     {
       "title": "Tulsa School of Dev",

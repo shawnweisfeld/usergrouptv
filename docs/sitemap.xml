@@ -3,19 +3,100 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2022-11-12T14:04:42+00:00</lastmod>
+    <lastmod>2022-11-20T20:56:41+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2022-11-12T14:04:39+00:00</lastmod>
+    <lastmod>2022-11-20T20:56:40+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2022-11-12T14:04:37+00:00</lastmod>
+    <lastmod>2022-11-20T20:56:39+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2022-11-12T14:04:30+00:00</lastmod>
+    <lastmod>2022-11-20T20:56:37+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2022-11-12T14:04:30+00:00</lastmod>
+    <lastmod>2022-11-20T20:56:37+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</loc>
+    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</loc>
+    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/json/</loc>
+    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/json/</loc>
+    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/json-in-sql-expanding-the-possibilities/</loc>
+    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/mike-burek/</loc>
+    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/mike-burek/</loc>
+    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/sql/</loc>
+    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/sql/</loc>
+    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/azure/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/azure/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/azure-data-factory/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/azure-data-factory/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/azure-data-lake/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/azure-data-lake/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/azure-synapse/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/azure-synapse/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/big-data/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/big-data/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/data-processing/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/data-processing/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/jeff-st.-germain/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/jeff-st-germain/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/understanding-big-data-with-azure-solutions/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
     <lastmod>2022-11-09T00:00:00+00:00</lastmod>
@@ -36,9 +117,6 @@
     <lastmod>2022-11-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/powerbi/</loc>
-    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/</loc>
     <lastmod>2022-11-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/.net/</loc>
@@ -67,18 +145,6 @@
   </url><url>
     <loc>https://usergroup.tv/videos/demystifying-the-net-runtime/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/azure/</loc>
-    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/azure/</loc>
-    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
     <lastmod>2022-10-18T00:00:00+00:00</lastmod>
@@ -170,12 +236,6 @@
     <loc>https://usergroup.tv/videos/category/speaker/asir-selvasingh/</loc>
     <lastmod>2022-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</loc>
-    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</loc>
-    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/career/</loc>
     <lastmod>2022-09-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -192,12 +252,6 @@
     <lastmod>2022-09-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/martin-perez/</loc>
-    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/sql/</loc>
-    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/sql/</loc>
     <lastmod>2022-09-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/jeff-weir/</loc>
@@ -291,12 +345,6 @@
     <lastmod>2022-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/application-insights/</loc>
-    <lastmod>2022-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/mike-burek/</loc>
-    <lastmod>2022-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/mike-burek/</loc>
     <lastmod>2022-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/monitoring-and-troubleshooting-with-azure-application-insights/</loc>
@@ -2378,12 +2426,6 @@
     <loc>https://usergroup.tv/videos/category/speaker/hasan-savran/</loc>
     <lastmod>2019-07-13T14:05:39+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/azure-data-lake/</loc>
-    <lastmod>2019-07-13T14:04:25+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/azure-data-lake/</loc>
-    <lastmod>2019-07-13T14:04:25+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/videos/querying-semistructured-data-in-azure-data-lake-with-usql-4/</loc>
     <lastmod>2019-07-13T14:04:25+00:00</lastmod>
   </url><url>
@@ -2763,12 +2805,6 @@
     <lastmod>2019-03-13T15:44:36+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/becky-isserman/</loc>
-    <lastmod>2019-03-13T15:44:36+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/big-data/</loc>
-    <lastmod>2019-03-13T15:44:36+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/big-data/</loc>
     <lastmod>2019-03-13T15:44:36+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/coding-standards-effective-not-just-efficient/</loc>
@@ -8490,12 +8526,6 @@
     <lastmod>2013-03-01T20:37:25+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/fun-with-json-2/</loc>
-    <lastmod>2013-03-01T20:26:42+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/json/</loc>
-    <lastmod>2013-03-01T20:26:42+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/json/</loc>
     <lastmod>2013-03-01T20:26:42+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/real-timeweb-programming-with-signalr/</loc>

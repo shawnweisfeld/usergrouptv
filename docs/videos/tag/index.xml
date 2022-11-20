@@ -6,7 +6,79 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Nov 2022 14:04:39 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Nov 2022 20:56:40 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Json</title>
+      <link>https://usergroup.tv/videos/tag/json/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://usergroup.tv/videos/tag/sql/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure</title>
+      <link>https://usergroup.tv/videos/tag/azure/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Data Factory</title>
+      <link>https://usergroup.tv/videos/tag/azure-data-factory/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure-data-factory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Data Lake</title>
+      <link>https://usergroup.tv/videos/tag/azure-data-lake/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure-data-lake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Synapse</title>
+      <link>https://usergroup.tv/videos/tag/azure-synapse/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure-synapse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data</title>
+      <link>https://usergroup.tv/videos/tag/big-data/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Processing</title>
+      <link>https://usergroup.tv/videos/tag/data-processing/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/data-processing/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>PowerBI</title>
       <link>https://usergroup.tv/videos/tag/powerbi/</link>
@@ -40,15 +112,6 @@
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/compiler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure</title>
-      <link>https://usergroup.tv/videos/tag/azure/</link>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/azure/</guid>
       <description></description>
     </item>
     
@@ -103,15 +166,6 @@
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/career/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQL</title>
-      <link>https://usergroup.tv/videos/tag/sql/</link>
-      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/sql/</guid>
       <description></description>
     </item>
     
@@ -1232,15 +1286,6 @@
     </item>
     
     <item>
-      <title>Azure Data Lake</title>
-      <link>https://usergroup.tv/videos/tag/azure-data-lake/</link>
-      <pubDate>Sat, 13 Jul 2019 14:04:25 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/azure-data-lake/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Azure Database</title>
       <link>https://usergroup.tv/videos/tag/azure-database/</link>
       <pubDate>Sat, 13 Jul 2019 14:01:49 +0000</pubDate>
@@ -1354,15 +1399,6 @@
       <pubDate>Wed, 13 Mar 2019 23:34:23 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/flow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Big Data</title>
-      <link>https://usergroup.tv/videos/tag/big-data/</link>
-      <pubDate>Wed, 13 Mar 2019 15:44:36 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/big-data/</guid>
       <description></description>
     </item>
     
@@ -3388,15 +3424,6 @@
       <pubDate>Fri, 01 Mar 2013 20:39:55 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/alm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Json</title>
-      <link>https://usergroup.tv/videos/tag/json/</link>
-      <pubDate>Fri, 01 Mar 2013 20:26:42 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/json/</guid>
       <description></description>
     </item>
     

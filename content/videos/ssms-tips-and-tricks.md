@@ -25,14 +25,14 @@
       "name": "Mike Burek",
       "slug": "mike-burek",
       "bio": "<p>Mike is the leader of the Austin SQL User Group</p>",
-      "count": 12
+      "count": 13
     }
   ],
   "ugtvtags": [
     {
       "name": "SQL",
       "slug": "sql",
-      "count": 25
+      "count": 26
     },
     {
       "name": "SQL Admin",
@@ -49,7 +49,7 @@
     {
       "name": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "count": 82
+      "count": 83
     }
   ]
 }

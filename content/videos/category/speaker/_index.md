@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2022-11-12T14:04:37.0163994Z",
+  "date": "2022-11-20T20:56:39.1761358Z",
   "draft": false,
   "speakers": [
     {
@@ -1818,6 +1818,13 @@
       "count": 1
     },
     {
+      "title": "Jeff St. Germain",
+      "slug": "jeff-st-germain",
+      "thumbnail": "https://i.vimeocdn.com/video/1551440825-e4a86014bf7e99bf9241e4802378884372c87d3dfdc2bd9ce298784b9c8ada34-d_295x166",
+      "date": "2022-11-10T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Jeff Weir",
       "slug": "jeff-weir",
       "thumbnail": "https://i.vimeocdn.com/video/1509823426-a5fef2b92b30e68222b1b91a6631f7392e9be02d3732954e711d48b41638b395-d_295x166",
@@ -2961,9 +2968,9 @@
     {
       "title": "Mike Burek",
       "slug": "mike-burek",
-      "thumbnail": "https://i.vimeocdn.com/video/1474779816-83f12728b158f14cd85e1c5cfbaf929d0b7036573a95f4896bf3476ab76d1a1a-d_295x166",
-      "date": "2022-07-19T00:00:00",
-      "count": 12
+      "thumbnail": "https://i.vimeocdn.com/video/1551442769-55f5dfd58705d295b70446175909363881a589eb821106ef5f96929987123ba1-d_295x166",
+      "date": "2022-11-15T00:00:00",
+      "count": 13
     },
     {
       "title": "Mike Byrd",

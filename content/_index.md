@@ -1,12 +1,84 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2022-11-12T14:04:30.8691837Z",
+  "date": "2022-11-20T20:56:37.8717885Z",
   "draft": false,
-  "recordingCount": "1,129",
-  "speakerCount": "632",
+  "recordingCount": "1,131",
+  "speakerCount": "633",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "JSON in SQL, Expanding the Possibilities!",
+      "slug": "json-in-sql-expanding-the-possibilities",
+      "thumbnail": "https://i.vimeocdn.com/video/1551442769-55f5dfd58705d295b70446175909363881a589eb821106ef5f96929987123ba1-d_295x166",
+      "date": "2022-11-15T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Burek",
+          "slug": "mike-burek"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        },
+        {
+          "name": "Json",
+          "slug": "json"
+        }
+      ]
+    },
+    {
+      "title": "Understanding Big Data with Azure Solutions",
+      "slug": "understanding-big-data-with-azure-solutions",
+      "thumbnail": "https://i.vimeocdn.com/video/1551440825-e4a86014bf7e99bf9241e4802378884372c87d3dfdc2bd9ce298784b9c8ada34-d_295x166",
+      "date": "2022-11-10T00:00:00",
+      "speakers": [
+        {
+          "name": "Jeff St. Germain",
+          "slug": "jeff-st-germain"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "Big Data",
+          "slug": "big-data"
+        },
+        {
+          "name": "Azure Data Lake",
+          "slug": "azure-data-lake"
+        },
+        {
+          "name": "Azure Synapse",
+          "slug": "azure-synapse"
+        },
+        {
+          "name": "Azure Data Factory",
+          "slug": "azure-data-factory"
+        },
+        {
+          "name": "Data Processing",
+          "slug": "data-processing"
+        }
+      ]
+    },
     {
       "title": "Expert Power BI Development",
       "slug": "expert-power-bi-development",
@@ -460,62 +532,6 @@
         {
           "name": "Distributed Architecture",
           "slug": "distributed-architecture"
-        }
-      ]
-    },
-    {
-      "title": "Working with R and Python in Power BI",
-      "slug": "working-with-r-and-python-in-power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1474779570-5109f68a6633b5f2139f29227b745a44b5580ed675d87f34ec6ed983d5193c9b-d_295x166",
-      "date": "2022-07-13T00:00:00",
-      "speakers": [
-        {
-          "name": "Pablo Moreno",
-          "slug": "pablo-moreno"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Python",
-          "slug": "python"
-        },
-        {
-          "name": "R",
-          "slug": "r"
-        },
-        {
-          "name": "Power BI",
-          "slug": "power-bi"
-        }
-      ]
-    },
-    {
-      "title": "Improving code quality with Static Analyzers",
-      "slug": "improving-code-quality-with-static-analyzers",
-      "thumbnail": "https://i.vimeocdn.com/video/1474779438-359332411a504aef97f9bcdda13d9662e92f61984e0d9d210e057b8a60723f68-d_295x166",
-      "date": "2022-06-28T00:00:00",
-      "speakers": [
-        {
-          "name": "Jim Wooley",
-          "slug": "jim-wooley"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Static Analyzers",
-          "slug": "static-analyzers"
         }
       ]
     }

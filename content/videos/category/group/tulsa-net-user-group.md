@@ -5,9 +5,47 @@
     "Tulsa .NET User Group"
   ],
   "slug": "tulsa-net-user-group",
-  "date": "2022-10-25T00:00:00",
+  "date": "2022-11-10T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Understanding Big Data with Azure Solutions",
+      "slug": "understanding-big-data-with-azure-solutions",
+      "thumbnail": "https://i.vimeocdn.com/video/1551440825-e4a86014bf7e99bf9241e4802378884372c87d3dfdc2bd9ce298784b9c8ada34-d_295x166",
+      "date": "2022-11-10T00:00:00",
+      "speakers": [
+        {
+          "name": "Jeff St. Germain",
+          "slug": "jeff-st-germain"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "Big Data",
+          "slug": "big-data"
+        },
+        {
+          "name": "Azure Data Lake",
+          "slug": "azure-data-lake"
+        },
+        {
+          "name": "Azure Synapse",
+          "slug": "azure-synapse"
+        },
+        {
+          "name": "Azure Data Factory",
+          "slug": "azure-data-factory"
+        },
+        {
+          "name": "Data Processing",
+          "slug": "data-processing"
+        }
+      ]
+    },
     {
       "title": "Demystifying the .NET Runtime",
       "slug": "demystifying-the-net-runtime",

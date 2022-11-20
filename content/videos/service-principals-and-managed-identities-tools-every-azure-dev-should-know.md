@@ -38,7 +38,7 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 50
+      "count": 51
     },
     {
       "name": "Managed Identity",
@@ -55,7 +55,7 @@
     {
       "name": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "count": 44
+      "count": 45
     }
   ]
 }

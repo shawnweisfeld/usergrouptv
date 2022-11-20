@@ -5,10 +5,32 @@
   ],
   "type": "speaker",
   "slug": "mike-burek",
-  "date": "2022-07-19T00:00:00",
+  "date": "2022-11-15T00:00:00",
   "draft": false,
   "bio": "<p>Mike is the leader of the Austin SQL User Group</p>",
   "recordings": [
+    {
+      "title": "JSON in SQL, Expanding the Possibilities!",
+      "slug": "json-in-sql-expanding-the-possibilities",
+      "thumbnail": "https://i.vimeocdn.com/video/1551442769-55f5dfd58705d295b70446175909363881a589eb821106ef5f96929987123ba1-d_295x166",
+      "date": "2022-11-15T00:00:00",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL",
+          "slug": "sql"
+        },
+        {
+          "name": "Json",
+          "slug": "json"
+        }
+      ]
+    },
     {
       "title": "New SQL Server 2022 commands",
       "slug": "new-sql-server-2022-commands",

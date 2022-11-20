@@ -30,7 +30,7 @@
     {
       "name": "Azure Data Lake",
       "slug": "azure-data-lake",
-      "count": 4
+      "count": 5
     }
   ],
   "meetups": [

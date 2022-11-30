@@ -28759,4 +28759,35 @@ The Options Pattern</Excerpt>
       <slug>data-processing</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Microsoft Purview: Unified Data Gov Made Easy and Extensible!</Title>
+    <Url>https://usergroup.tv/videos/microsoft-purview-unified-data-gov-made-easy-and-extensible/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1551442987-382ee9789520a78037a0cc29eab7861bb3a8eeca72914c6c609aa2a2158a17f1-d_295x166</Thumbnail>
+    <Excerpt>Do you work with data? Does someone need to know where it came from, who owns it and what exactly Key1, id_vat_no, and cust_spec_type means? Then you will want to learn about the Data Discovery, Data Classification, and Data Governance features in Microsoft Purview. This session will introduce you to the product, what it can do, and then dive into how you can extend it to make it even more useful.</Excerpt>
+    <PostDate>2022-11-15T00:00:00</PostDate>
+    <Id>1138</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/773096706/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=1c94275f449ac147604847f699ae17ee203ddacc156f98b9f3efff76d637a2ba</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/773096706/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=3df0ab386c2423aeec399f3186e6c2cdc7d1961ef8e888238a48f77e01b9faec</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Scott Hermes</name>
+      <slug>scott-hermes</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Azure</name>
+      <slug>azure</slug>
+    </Tags>
+    <Tags>
+      <name>Purview</name>
+      <slug>purview</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

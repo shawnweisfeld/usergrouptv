@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2022-11-20T20:56:39.1761358Z",
+  "date": "2022-11-30T16:42:10.8696374Z",
   "draft": false,
   "speakers": [
     {
@@ -3748,6 +3748,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/807050783-7cc608bfa426f973c5edc18a51b9e4af604d629aa84b02efe6687f73c0ee994d-d_295x166",
       "date": "2019-08-12T14:12:57",
       "count": 2
+    },
+    {
+      "title": "Scott Hermes",
+      "slug": "scott-hermes",
+      "thumbnail": "https://i.vimeocdn.com/video/1551442987-382ee9789520a78037a0cc29eab7861bb3a8eeca72914c6c609aa2a2158a17f1-d_295x166",
+      "date": "2022-11-15T00:00:00",
+      "count": 1
     },
     {
       "title": "Scott Hunter",

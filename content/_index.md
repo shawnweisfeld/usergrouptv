@@ -1,10 +1,10 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2022-11-20T20:56:37.8717885Z",
+  "date": "2022-11-30T16:42:02.0971887Z",
   "draft": false,
-  "recordingCount": "1,131",
-  "speakerCount": "633",
+  "recordingCount": "1,132",
+  "speakerCount": "634",
   "groupCount": "67",
   "newest": [
     {
@@ -32,6 +32,38 @@
         {
           "name": "Json",
           "slug": "json"
+        }
+      ]
+    },
+    {
+      "title": "Microsoft Purview: Unified Data Gov Made Easy and Extensible!",
+      "slug": "microsoft-purview-unified-data-gov-made-easy-and-extensible",
+      "thumbnail": "https://i.vimeocdn.com/video/1551442987-382ee9789520a78037a0cc29eab7861bb3a8eeca72914c6c609aa2a2158a17f1-d_295x166",
+      "date": "2022-11-15T00:00:00",
+      "speakers": [
+        {
+          "name": "Scott Hermes",
+          "slug": "scott-hermes"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "Purview",
+          "slug": "purview"
         }
       ]
     },
@@ -504,34 +536,6 @@
         {
           "name": "SQL",
           "slug": "sql"
-        }
-      ]
-    },
-    {
-      "title": "Microsoft Orleans",
-      "slug": "microsoft-orleans",
-      "thumbnail": "https://i.vimeocdn.com/video/1474779624-219f6e50c028d7836e307b872dc031d39110094b9906db4b5e4cef288fac8f2e-d_295x166",
-      "date": "2022-07-14T00:00:00",
-      "speakers": [
-        {
-          "name": "Reuben Bond",
-          "slug": "reuben-bond"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Tulsa .NET User Group",
-          "slug": "tulsa-net-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Microsoft Orleans",
-          "slug": "microsoft-orleans"
-        },
-        {
-          "name": "Distributed Architecture",
-          "slug": "distributed-architecture"
         }
       ]
     }

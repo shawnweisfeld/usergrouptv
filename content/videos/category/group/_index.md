@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2022-11-20T20:56:41.3210044Z",
+  "date": "2022-11-30T16:42:15.5220746Z",
   "draft": false,
   "meetups": [
     {
@@ -133,9 +133,9 @@
     {
       "title": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "thumbnail": "https://i.vimeocdn.com/video/1541919610-2c5a4e1e6e84b146306279e75fc7052097b9ce81ff2da7a115d3524d73c8bfe8-d_295x166",
-      "date": "2022-10-18T00:00:00",
-      "count": 63
+      "thumbnail": "https://i.vimeocdn.com/video/1551442987-382ee9789520a78037a0cc29eab7861bb3a8eeca72914c6c609aa2a2158a17f1-d_295x166",
+      "date": "2022-11-15T00:00:00",
+      "count": 64
     },
     {
       "title": "Azure User Group - Houston",
@@ -266,9 +266,9 @@
     {
       "title": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1541919610-2c5a4e1e6e84b146306279e75fc7052097b9ce81ff2da7a115d3524d73c8bfe8-d_295x166",
-      "date": "2022-10-18T00:00:00",
-      "count": 26
+      "thumbnail": "https://i.vimeocdn.com/video/1551442987-382ee9789520a78037a0cc29eab7861bb3a8eeca72914c6c609aa2a2158a17f1-d_295x166",
+      "date": "2022-11-15T00:00:00",
+      "count": 27
     },
     {
       "title": "DFW C++ User Group",

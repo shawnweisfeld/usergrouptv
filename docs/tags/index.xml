@@ -8,11 +8,38 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Azure</title>
+      <link>https://usergroup.tv/tags/azure/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Austin Meetup</title>
+      <link>https://usergroup.tv/tags/azure-austin-meetup/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/azure-austin-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Capitol Area Central Texas Users of SQL Server</title>
       <link>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFW Azure User Group</title>
+      <link>https://usergroup.tv/tags/dfw-azure-user-group/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/dfw-azure-user-group/</guid>
       <description></description>
     </item>
     
@@ -35,20 +62,29 @@
     </item>
     
     <item>
+      <title>Purview</title>
+      <link>https://usergroup.tv/tags/purview/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/purview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scott Hermes</title>
+      <link>https://usergroup.tv/tags/scott-hermes/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/scott-hermes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SQL</title>
       <link>https://usergroup.tv/tags/sql/</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/sql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure</title>
-      <link>https://usergroup.tv/tags/azure/</link>
-      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/azure/</guid>
       <description></description>
     </item>
     
@@ -179,29 +215,11 @@
     </item>
     
     <item>
-      <title>Azure Austin Meetup</title>
-      <link>https://usergroup.tv/tags/azure-austin-meetup/</link>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/azure-austin-meetup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Azure Container Apps</title>
       <link>https://usergroup.tv/tags/azure-container-apps/</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/azure-container-apps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DFW Azure User Group</title>
-      <link>https://usergroup.tv/tags/dfw-azure-user-group/</link>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/dfw-azure-user-group/</guid>
       <description></description>
     </item>
     

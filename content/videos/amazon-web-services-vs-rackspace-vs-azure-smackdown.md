@@ -32,7 +32,7 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 51
+      "count": 52
     },
     {
       "name": "AWS",

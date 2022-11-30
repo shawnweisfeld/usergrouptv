@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2022-11-20T20:56:40.397066Z",
+  "date": "2022-11-30T16:42:12.9808729Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -252,9 +252,9 @@
     {
       "title": "Azure",
       "slug": "azure",
-      "thumbnail": "https://i.vimeocdn.com/video/1551440825-e4a86014bf7e99bf9241e4802378884372c87d3dfdc2bd9ce298784b9c8ada34-d_295x166",
-      "date": "2022-11-10T00:00:00",
-      "count": 51
+      "thumbnail": "https://i.vimeocdn.com/video/1551442987-382ee9789520a78037a0cc29eab7861bb3a8eeca72914c6c609aa2a2158a17f1-d_295x166",
+      "date": "2022-11-15T00:00:00",
+      "count": 52
     },
     {
       "title": "Azure AD",
@@ -2354,6 +2354,13 @@
       "slug": "public-speaking",
       "thumbnail": "https://i.vimeocdn.com/video/651773977-2c5a51f6ff10672aae99e2eb2956486a372c63f3027bf8ce9d462431350e1566-d_295x166",
       "date": "2017-08-04T14:26:53",
+      "count": 1
+    },
+    {
+      "title": "Purview",
+      "slug": "purview",
+      "thumbnail": "https://i.vimeocdn.com/video/1551442987-382ee9789520a78037a0cc29eab7861bb3a8eeca72914c6c609aa2a2158a17f1-d_295x166",
+      "date": "2022-11-15T00:00:00",
       "count": 1
     },
     {

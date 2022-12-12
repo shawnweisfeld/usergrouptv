@@ -28790,4 +28790,33 @@ The Options Pattern</Excerpt>
       <slug>purview</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Upgrade your JS App to Native with .NET MAUI</Title>
+    <Url>https://usergroup.tv/videos/upgrade-your-js-app-to-native-with-net-maui/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1566491987-f83d73333243b758ad485384c8175533393ae45eeefbefd2ba233171dd2a7acd-d_295x166</Thumbnail>
+    <Excerpt>As a JS girl in a .NET World, I have recently started learning the power of MAUI. MAUI is a .NET framework used for creating native mobile and desktop apps. I learned how to utilize a WebView inside a .NET MAUI application to wrap any sort of web app I desired (Angular, React, Vue, you name it!) and deploy it with the power of MAUI to any platform under the sun. I’m excited to show you how to do this — bridging two worlds has never been more fun!
+
+</Excerpt>
+    <PostDate>2022-11-22T00:00:00</PostDate>
+    <Id>1139</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/780383292/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=3833da782f7583b252d54eb17891ea45437d798309b892e8fa23aa17c8307c91</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/780383292/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=b02ab113004e5af32cec5600cd222aac4945600a5023502eafafad050fd2c9cf</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Alyssa Nicoll</name>
+      <slug>alyssa-nicoll</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>.net</name>
+      <slug>net</slug>
+    </Tags>
+    <Tags>
+      <name>MAUI</name>
+      <slug>maui</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

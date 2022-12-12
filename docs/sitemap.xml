@@ -3,19 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2022-11-30T16:42:15+00:00</lastmod>
+    <lastmod>2022-12-12T15:31:42+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2022-11-30T16:42:12+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2022-11-30T16:42:10+00:00</lastmod>
+    <lastmod>2022-12-12T15:31:42+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2022-11-30T16:42:02+00:00</lastmod>
+    <lastmod>2022-12-12T15:31:41+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2022-11-30T16:42:02+00:00</lastmod>
+    <lastmod>2022-12-12T15:31:41+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/</loc>
+    <lastmod>2022-12-12T15:31:41+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/.net/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/net/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/alyssa-nicoll/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/alyssa-nicoll/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/maui/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/maui/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/upgrade-your-js-app-to-native-with-net-maui/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/azure/</loc>
     <lastmod>2022-11-15T00:00:00+00:00</lastmod>
@@ -77,9 +107,6 @@
     <loc>https://usergroup.tv/videos/tag/sql/</loc>
     <lastmod>2022-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/</loc>
-    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/azure-data-factory/</loc>
     <lastmod>2022-11-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -116,12 +143,6 @@
     <loc>https://usergroup.tv/videos/category/speaker/jeff-st-germain/</loc>
     <lastmod>2022-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/tulsa-.net-user-group/</loc>
-    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</loc>
-    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/videos/understanding-big-data-with-azure-solutions/</loc>
     <lastmod>2022-11-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -145,12 +166,6 @@
   </url><url>
     <loc>https://usergroup.tv/videos/tag/powerbi/</loc>
     <lastmod>2022-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/.net/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/net/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/c#/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
@@ -765,12 +780,6 @@
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/james-montemagno/</loc>
-    <lastmod>2021-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/maui/</loc>
-    <lastmod>2021-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/maui/</loc>
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/bryant-avey/</loc>

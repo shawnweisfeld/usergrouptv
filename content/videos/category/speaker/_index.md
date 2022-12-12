@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2022-11-30T16:42:10.8696374Z",
+  "date": "2022-12-12T15:31:41.7029879Z",
   "draft": false,
   "speakers": [
     {
@@ -171,6 +171,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/593960183-0d1262a58b5add9a913cd03da816e9edf08e104dc48e2298d0bf57d6c32b242b-d_295x166",
       "date": "2016-09-24T19:46:37",
       "count": 3
+    },
+    {
+      "title": "Alyssa Nicoll",
+      "slug": "alyssa-nicoll",
+      "thumbnail": "https://i.vimeocdn.com/video/1566491987-f83d73333243b758ad485384c8175533393ae45eeefbefd2ba233171dd2a7acd-d_295x166",
+      "date": "2022-11-22T00:00:00",
+      "count": 1
     },
     {
       "title": "Amanda Cardenas",

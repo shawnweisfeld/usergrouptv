@@ -31,7 +31,7 @@
     {
       "name": ".net",
       "slug": "net",
-      "count": 24
+      "count": 25
     },
     {
       "name": "graphql",
@@ -43,7 +43,7 @@
     {
       "name": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "count": 45
+      "count": 46
     }
   ]
 }

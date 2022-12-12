@@ -1,12 +1,40 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2022-11-30T16:42:02.0971887Z",
+  "date": "2022-12-12T15:31:41.1178752Z",
   "draft": false,
-  "recordingCount": "1,132",
-  "speakerCount": "634",
+  "recordingCount": "1,133",
+  "speakerCount": "635",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Upgrade your JS App to Native with .NET MAUI",
+      "slug": "upgrade-your-js-app-to-native-with-net-maui",
+      "thumbnail": "https://i.vimeocdn.com/video/1566491987-f83d73333243b758ad485384c8175533393ae45eeefbefd2ba233171dd2a7acd-d_295x166",
+      "date": "2022-11-22T00:00:00",
+      "speakers": [
+        {
+          "name": "Alyssa Nicoll",
+          "slug": "alyssa-nicoll"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "MAUI",
+          "slug": "maui"
+        }
+      ]
+    },
     {
       "title": "JSON in SQL, Expanding the Possibilities!",
       "slug": "json-in-sql-expanding-the-possibilities",
@@ -512,30 +540,6 @@
         {
           "name": "Application Insights",
           "slug": "application-insights"
-        }
-      ]
-    },
-    {
-      "title": "New SQL Server 2022 commands",
-      "slug": "new-sql-server-2022-commands",
-      "thumbnail": "https://i.vimeocdn.com/video/1474779816-83f12728b158f14cd85e1c5cfbaf929d0b7036573a95f4896bf3476ab76d1a1a-d_295x166",
-      "date": "2022-07-19T00:00:00",
-      "speakers": [
-        {
-          "name": "Mike Burek",
-          "slug": "mike-burek"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Capitol Area Central Texas Users of SQL Server",
-          "slug": "capitol-area-central-texas-users-of-sql-server"
-        }
-      ],
-      "tags": [
-        {
-          "name": "SQL",
-          "slug": "sql"
         }
       ]
     }

@@ -5,10 +5,32 @@
   ],
   "type": "speaker",
   "slug": "kevin-griffin",
-  "date": "2021-07-08T00:00:00",
+  "date": "2022-12-08T00:00:00",
   "draft": false,
-  "bio": "Kevin Griffin is an author, teacher, mentor, and consultant focusing in software development. He is also an 12-time Microsoft MVP, specializing in ASP.NET, Microsoft Azure, and web application development. As an independent consultant, Kevin specializes in helping businesses push their technology stacks into the 21st century. You can often find Kevin speaking at conferences and user groups across the country or blogging at https://consultwithgriff.com.",
+  "bio": "Kevin Griffin is an author, teacher, mentor, and consultant focusing in software development. He is also an 13-time Microsoft MVP, specializing in ASP.NET, Microsoft Azure, and web application development. As an independent consultant, Kevin specializes in helping businesses push their technology stacks into the 21st century. You can often find Kevin speaking at conferences and user groups across the country or blogging at https://consultwithgriff.com.",
   "recordings": [
+    {
+      "title": "Tactics for Building Background Services in .NET",
+      "slug": "tactics-for-building-background-services-in-net",
+      "thumbnail": "https://i.vimeocdn.com/video/1576079381-f3593230d892276f5462c4dcf911f81fc23f49a268e4f7fe6c8d7de4c4025fe6-d_295x166",
+      "date": "2022-12-08T00:00:00",
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "Background Processes",
+          "slug": "background-processes"
+        }
+      ]
+    },
     {
       "title": "Real-Time Revolution: SignalR In Action",
       "slug": "realtime-revolution-signalr-in-action",

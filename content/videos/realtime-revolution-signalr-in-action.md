@@ -22,8 +22,8 @@
     {
       "name": "Kevin Griffin",
       "slug": "kevin-griffin",
-      "bio": "Kevin Griffin is an author, teacher, mentor, and consultant focusing in software development. He is also an 12-time Microsoft MVP, specializing in ASP.NET, Microsoft Azure, and web application development. As an independent consultant, Kevin specializes in helping businesses push their technology stacks into the 21st century. You can often find Kevin speaking at conferences and user groups across the country or blogging at https://consultwithgriff.com.",
-      "count": 2
+      "bio": "Kevin Griffin is an author, teacher, mentor, and consultant focusing in software development. He is also an 13-time Microsoft MVP, specializing in ASP.NET, Microsoft Azure, and web application development. As an independent consultant, Kevin specializes in helping businesses push their technology stacks into the 21st century. You can often find Kevin speaking at conferences and user groups across the country or blogging at https://consultwithgriff.com.",
+      "count": 3
     }
   ],
   "ugtvtags": [
@@ -37,7 +37,7 @@
     {
       "name": "Tulsa .NET User Group",
       "slug": "tulsa-net-user-group",
-      "count": 46
+      "count": 47
     }
   ]
 }

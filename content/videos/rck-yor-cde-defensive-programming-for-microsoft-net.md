@@ -30,7 +30,7 @@
     {
       "name": ".net",
       "slug": "net",
-      "count": 25
+      "count": 26
     }
   ],
   "meetups": [

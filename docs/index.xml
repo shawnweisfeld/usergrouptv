@@ -6,13 +6,49 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Dec 2022 15:31:41 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 17:04:18 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>.net</title>
       <link>https://usergroup.tv/videos/tag/net/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Background Processes</title>
+      <link>https://usergroup.tv/videos/tag/background-processes/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/background-processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Griffin</title>
+      <link>https://usergroup.tv/videos/category/speaker/kevin-griffin/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/kevin-griffin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tactics for Building Background Services in .NET</title>
+      <link>https://usergroup.tv/videos/tactics-for-building-background-services-in-net/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tactics-for-building-background-services-in-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
       <description></description>
     </item>
     
@@ -31,15 +67,6 @@
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/maui/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
       <description></description>
     </item>
     
@@ -1858,15 +1885,6 @@
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/building-successful-bi-and-data-platforms-following-a-results-first-strategy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kevin Griffin</title>
-      <link>https://usergroup.tv/videos/category/speaker/kevin-griffin/</link>
-      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/speaker/kevin-griffin/</guid>
       <description></description>
     </item>
     

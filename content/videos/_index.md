@@ -1,12 +1,40 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2022-12-12T15:31:41.1178752Z",
+  "date": "2022-12-27T17:04:18.4102556Z",
   "draft": false,
-  "recordingCount": "1,133",
+  "recordingCount": "1,134",
   "speakerCount": "635",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Tactics for Building Background Services in .NET",
+      "slug": "tactics-for-building-background-services-in-net",
+      "thumbnail": "https://i.vimeocdn.com/video/1576079381-f3593230d892276f5462c4dcf911f81fc23f49a268e4f7fe6c8d7de4c4025fe6-d_295x166",
+      "date": "2022-12-08T00:00:00",
+      "speakers": [
+        {
+          "name": "Kevin Griffin",
+          "slug": "kevin-griffin"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Tulsa .NET User Group",
+          "slug": "tulsa-net-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": ".net",
+          "slug": "net"
+        },
+        {
+          "name": "Background Processes",
+          "slug": "background-processes"
+        }
+      ]
+    },
     {
       "title": "Upgrade your JS App to Native with .NET MAUI",
       "slug": "upgrade-your-js-app-to-native-with-net-maui",
@@ -512,34 +540,6 @@
         {
           "name": "Power BI",
           "slug": "power-bi"
-        }
-      ]
-    },
-    {
-      "title": "Monitoring and Troubleshooting with Azure Application Insights",
-      "slug": "monitoring-and-troubleshooting-with-azure-application-insights",
-      "thumbnail": "https://i.vimeocdn.com/video/1474779741-267753039bd229cc4c60e8ec7665b18d850e3246f87e64de4b93d316fcf2d657-d_295x166",
-      "date": "2022-07-19T00:00:00",
-      "speakers": [
-        {
-          "name": "Chris Ayers",
-          "slug": "chris-ayers"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        },
-        {
-          "name": "DFW Azure User Group",
-          "slug": "dfw-azure-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Application Insights",
-          "slug": "application-insights"
         }
       ]
     }

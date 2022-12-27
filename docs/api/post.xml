@@ -28819,4 +28819,31 @@ The Options Pattern</Excerpt>
       <slug>maui</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Tactics for Building Background Services in .NET</Title>
+    <Url>https://usergroup.tv/videos/tactics-for-building-background-services-in-net/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1576079381-f3593230d892276f5462c4dcf911f81fc23f49a268e4f7fe6c8d7de4c4025fe6-d_295x166</Thumbnail>
+    <Excerpt>Mature applications often find themselves in the predicament of having to do work "behind the scenes." Frequently this could be simple tasks such as sending emails or updating statistics. Or it could be something more complicated, like processing incoming files or building reports. These tasks should not impede the user experience because they can be done in the background. But in modern .NET applications, what's the best way to implement background services? There isn't necessarily a right or wrong way, but there are ways that are "easy to write" and methods that are "easy to scale." This talk aims to take you on a journey through several processes that allow you to do work in the background. We'll cover the pros and cons of different approaches and leave you with actionable advice to take back to your projects.</Excerpt>
+    <PostDate>2022-12-08T00:00:00</PostDate>
+    <Id>1140</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/784587520/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=fdf6078ec70e8ed680e49897b655c33d5c8e61c8d02d0de6be4cd362775bf4a2</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/784587520/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=95c92ff1e98350e5d0b7849e0aebf5a9b27e5a51678cf3e55e369328832dbf04</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Kevin Griffin</name>
+      <slug>kevin-griffin</slug>
+    </Speakers>
+    <Groups>
+      <name>Tulsa .NET User Group</name>
+      <slug>tulsa-net-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>.net</name>
+      <slug>net</slug>
+    </Tags>
+    <Tags>
+      <name>Background Processes</name>
+      <slug>background-processes</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

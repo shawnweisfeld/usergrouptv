@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2022-12-12T15:31:41.7029879Z",
+  "date": "2022-12-27T17:04:20.9955342Z",
   "draft": false,
   "speakers": [
     {
@@ -2380,9 +2380,9 @@
     {
       "title": "Kevin Griffin",
       "slug": "kevin-griffin",
-      "thumbnail": "https://i.vimeocdn.com/video/1195698289-0e890e779d4bc163b34b8efe6be9b7a30e421e2bce1a777f2f4b394a346a78e7-d_295x166",
-      "date": "2021-07-08T00:00:00",
-      "count": 2
+      "thumbnail": "https://i.vimeocdn.com/video/1576079381-f3593230d892276f5462c4dcf911f81fc23f49a268e4f7fe6c8d7de4c4025fe6-d_295x166",
+      "date": "2022-12-08T00:00:00",
+      "count": 3
     },
     {
       "title": "Kevin Hill",

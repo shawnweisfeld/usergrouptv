@@ -6,13 +6,40 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>.net</title>
       <link>https://usergroup.tv/tags/.net/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/.net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Background Processes</title>
+      <link>https://usergroup.tv/tags/background-processes/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/background-processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Griffin</title>
+      <link>https://usergroup.tv/tags/kevin-griffin/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/kevin-griffin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tulsa .NET User Group</title>
+      <link>https://usergroup.tv/tags/tulsa-.net-user-group/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/tags/tulsa-.net-user-group/</guid>
       <description></description>
     </item>
     
@@ -31,15 +58,6 @@
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/maui/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tulsa .NET User Group</title>
-      <link>https://usergroup.tv/tags/tulsa-.net-user-group/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/tulsa-.net-user-group/</guid>
       <description></description>
     </item>
     
@@ -1282,15 +1300,6 @@
       <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/tags/powershell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kevin Griffin</title>
-      <link>https://usergroup.tv/tags/kevin-griffin/</link>
-      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/tags/kevin-griffin/</guid>
       <description></description>
     </item>
     

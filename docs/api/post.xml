@@ -28846,4 +28846,31 @@ The Options Pattern</Excerpt>
       <slug>background-processes</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Latest innovations in Azure SQL</Title>
+    <Url>https://usergroup.tv/videos/latest-innovations-in-azure-sql/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1609321925-54c023868843661b054fe9e0223953d7b60ab5f872ce15f91556ad4f0f22bf10-d_295x166</Thumbnail>
+    <Excerpt>This is your chance to hear about the latest innovations in Azure SQL. In this session you can hear about all the new features that SQL 2022 has brought to Azure SQL.</Excerpt>
+    <PostDate>2023-01-17T00:00:00</PostDate>
+    <Id>1141</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/798127661/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=cdf398d53fbe2c70561703b72496ed6a8172726190be7bfb0161b22d85949c74</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/798127661/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=d0f69e58ab7c265d8d7edba4c774b888375b3415130597c11bb596b532e7df9f</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Bob Ward</name>
+      <slug>bob-ward</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Azure SQL Database</name>
+      <slug>azure-sql-database</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

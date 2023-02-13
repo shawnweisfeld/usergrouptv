@@ -23,7 +23,7 @@
       "name": "Bob Ward",
       "slug": "bob-ward",
       "bio": "Bob is a Principal Architect on the Azure Data Engineering team.",
-      "count": 5
+      "count": 6
     }
   ],
   "ugtvtags": [

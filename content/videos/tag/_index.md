@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2022-12-27T17:04:22.3226522Z",
+  "date": "2023-02-13T02:33:44.5815769Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -406,9 +406,9 @@
     {
       "title": "Azure SQL Database",
       "slug": "azure-sql-database",
-      "thumbnail": "https://i.vimeocdn.com/video/999191466-040cc9671bff28de497c719be283f9c19abba4474103a016ebf7c1c9d8983ef5-d_295x166",
-      "date": "2020-11-17T00:00:00",
-      "count": 7
+      "thumbnail": "https://i.vimeocdn.com/video/1609321925-54c023868843661b054fe9e0223953d7b60ab5f872ce15f91556ad4f0f22bf10-d_295x166",
+      "date": "2023-01-17T00:00:00",
+      "count": 8
     },
     {
       "title": "Azure Synapse",

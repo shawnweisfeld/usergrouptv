@@ -5,10 +5,32 @@
   ],
   "type": "speaker",
   "slug": "bob-ward",
-  "date": "2020-11-17T00:00:00",
+  "date": "2023-01-17T00:00:00",
   "draft": false,
   "bio": "Bob is a Principal Architect on the Azure Data Engineering team.",
   "recordings": [
+    {
+      "title": "Latest innovations in Azure SQL",
+      "slug": "latest-innovations-in-azure-sql",
+      "thumbnail": "https://i.vimeocdn.com/video/1609321925-54c023868843661b054fe9e0223953d7b60ab5f872ce15f91556ad4f0f22bf10-d_295x166",
+      "date": "2023-01-17T00:00:00",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure SQL Database",
+          "slug": "azure-sql-database"
+        }
+      ]
+    },
     {
       "title": "SQL Server to Azure SQL: Performance and Availability",
       "slug": "sql-server-to-azure-sql-performance-and-availability",

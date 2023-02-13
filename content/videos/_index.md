@@ -1,12 +1,40 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2022-12-27T17:04:18.4102556Z",
+  "date": "2023-02-13T02:33:43.5015976Z",
   "draft": false,
-  "recordingCount": "1,134",
+  "recordingCount": "1,135",
   "speakerCount": "635",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Latest innovations in Azure SQL",
+      "slug": "latest-innovations-in-azure-sql",
+      "thumbnail": "https://i.vimeocdn.com/video/1609321925-54c023868843661b054fe9e0223953d7b60ab5f872ce15f91556ad4f0f22bf10-d_295x166",
+      "date": "2023-01-17T00:00:00",
+      "speakers": [
+        {
+          "name": "Bob Ward",
+          "slug": "bob-ward"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure SQL Database",
+          "slug": "azure-sql-database"
+        }
+      ]
+    },
     {
       "title": "Tactics for Building Background Services in .NET",
       "slug": "tactics-for-building-background-services-in-net",
@@ -512,34 +540,6 @@
         {
           "name": "Entra",
           "slug": "entra"
-        }
-      ]
-    },
-    {
-      "title": "Getting Access to Thousands of New Power BI Data Sources Thanks to APIs",
-      "slug": "getting-access-to-thousands-of-new-power-bi-data-sources-thanks-to-apis",
-      "thumbnail": "https://i.vimeocdn.com/video/1492819509-76289643e3a0e173591fe38330c292a4c249fe0f761b10d5cf3029bcdb4fcaa9-d_295x166",
-      "date": "2022-08-10T00:00:00",
-      "speakers": [
-        {
-          "name": "Olivier Travers",
-          "slug": "olivier-travers"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "API",
-          "slug": "api"
-        },
-        {
-          "name": "Power BI",
-          "slug": "power-bi"
         }
       ]
     }

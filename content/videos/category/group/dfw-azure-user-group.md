@@ -5,9 +5,27 @@
     "DFW Azure User Group"
   ],
   "slug": "dfw-azure-user-group",
-  "date": "2022-11-15T00:00:00",
+  "date": "2023-01-17T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Latest innovations in Azure SQL",
+      "slug": "latest-innovations-in-azure-sql",
+      "thumbnail": "https://i.vimeocdn.com/video/1609321925-54c023868843661b054fe9e0223953d7b60ab5f872ce15f91556ad4f0f22bf10-d_295x166",
+      "date": "2023-01-17T00:00:00",
+      "speakers": [
+        {
+          "name": "Bob Ward",
+          "slug": "bob-ward"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure SQL Database",
+          "slug": "azure-sql-database"
+        }
+      ]
+    },
     {
       "title": "Microsoft Purview: Unified Data Gov Made Easy and Extensible!",
       "slug": "microsoft-purview-unified-data-gov-made-easy-and-extensible",

@@ -23,21 +23,21 @@
       "name": "Bob Ward",
       "slug": "bob-ward",
       "bio": "Bob is a Principal Architect on the Azure Data Engineering team.",
-      "count": 5
+      "count": 6
     }
   ],
   "ugtvtags": [
     {
       "name": "Azure SQL Database",
       "slug": "azure-sql-database",
-      "count": 7
+      "count": 8
     }
   ],
   "meetups": [
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 64
+      "count": 65
     },
     {
       "name": "Capitol Area Central Texas Users of SQL Server",
@@ -47,7 +47,7 @@
     {
       "name": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "count": 27
+      "count": 28
     }
   ]
 }

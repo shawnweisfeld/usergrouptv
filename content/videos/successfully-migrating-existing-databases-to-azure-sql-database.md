@@ -30,7 +30,7 @@
     {
       "name": "Azure SQL Database",
       "slug": "azure-sql-database",
-      "count": 7
+      "count": 8
     }
   ],
   "meetups": [

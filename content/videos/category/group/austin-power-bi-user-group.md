@@ -5,9 +5,35 @@
     "Austin Power BI User Group"
   ],
   "slug": "austin-power-bi-user-group",
-  "date": "2022-11-09T00:00:00",
+  "date": "2023-02-08T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Traveling Light: 50 Days of DAX Without CALCULATE or Time Intelligence",
+      "slug": "traveling-light-50-days-of-dax-without-calculate-or-time-intelligence",
+      "thumbnail": "https://i.vimeocdn.com/video/1614290787-29352ef30794b52f65b83df164bfbbcc956f4b4ae4d823e5e558cbcaf6702e1a-d_295x166",
+      "date": "2023-02-08T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Ford",
+          "slug": "mike-ford"
+        },
+        {
+          "name": "Brian Julius",
+          "slug": "brian-julius"
+        }
+      ],
+      "tags": [
+        {
+          "name": "dax",
+          "slug": "dax"
+        },
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "Expert Power BI Development",
       "slug": "expert-power-bi-development",

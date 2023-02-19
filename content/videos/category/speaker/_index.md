@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2023-02-13T02:33:44.0064856Z",
+  "date": "2023-02-19T14:09:22.0535481Z",
   "draft": false,
   "speakers": [
     {
@@ -513,6 +513,13 @@
       "slug": "brian-gogle",
       "thumbnail": "https://i.vimeocdn.com/video/482636875-7dcaacfc4cf84c9842f9f91a96a0d104bfb9c7f00fd8c55efc26af1a795d429c-d_295x166",
       "date": "2014-05-03T19:44:24",
+      "count": 1
+    },
+    {
+      "title": "Brian Julius",
+      "slug": "brian-julius",
+      "thumbnail": "https://i.vimeocdn.com/video/1614290787-29352ef30794b52f65b83df164bfbbcc956f4b4ae4d823e5e558cbcaf6702e1a-d_295x166",
+      "date": "2023-02-08T00:00:00",
       "count": 1
     },
     {
@@ -3003,9 +3010,9 @@
     {
       "title": "Mike Ford",
       "slug": "mike-ford",
-      "thumbnail": "https://i.vimeocdn.com/video/845729272-df472ce975b237f96b5a57775efcd58257af6d2a0eb028879b6d0df5581eb219-d_295x166",
-      "date": "2020-01-08T16:17:29",
-      "count": 2
+      "thumbnail": "https://i.vimeocdn.com/video/1614290787-29352ef30794b52f65b83df164bfbbcc956f4b4ae4d823e5e558cbcaf6702e1a-d_295x166",
+      "date": "2023-02-08T00:00:00",
+      "count": 3
     },
     {
       "title": "Mike Haze",

@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2023-02-13T02:33:44.5815769Z",
+  "date": "2023-02-19T14:09:24.2537833Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -931,9 +931,9 @@
     {
       "title": "dax",
       "slug": "dax",
-      "thumbnail": "https://i.vimeocdn.com/video/1298663082-c7394730532acf3965f4f36447b511b9bb18afa39e9a34512_295x166",
-      "date": "2021-11-10T00:00:00",
-      "count": 3
+      "thumbnail": "https://i.vimeocdn.com/video/1614290787-29352ef30794b52f65b83df164bfbbcc956f4b4ae4d823e5e558cbcaf6702e1a-d_295x166",
+      "date": "2023-02-08T00:00:00",
+      "count": 4
     },
     {
       "title": "DB Project",
@@ -2254,9 +2254,9 @@
     {
       "title": "Power BI",
       "slug": "power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1528132524-5dc485afa4790a573f8f23608d382633beaf46f997ad4784ba7503dc9750e264-d_295x166",
-      "date": "2022-10-12T00:00:00",
-      "count": 37
+      "thumbnail": "https://i.vimeocdn.com/video/1614290787-29352ef30794b52f65b83df164bfbbcc956f4b4ae4d823e5e558cbcaf6702e1a-d_295x166",
+      "date": "2023-02-08T00:00:00",
+      "count": 38
     },
     {
       "title": "Power Map",

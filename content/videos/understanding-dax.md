@@ -30,14 +30,14 @@
     {
       "name": "dax",
       "slug": "dax",
-      "count": 3
+      "count": 4
     }
   ],
   "meetups": [
     {
       "name": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "count": 36
+      "count": 37
     }
   ]
 }

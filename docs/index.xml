@@ -6,7 +6,61 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Feb 2023 02:33:43 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Feb 2023 14:09:15 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Austin Power BI User Group</title>
+      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian Julius</title>
+      <link>https://usergroup.tv/videos/category/speaker/brian-julius/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/brian-julius/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dax</title>
+      <link>https://usergroup.tv/videos/tag/dax/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/dax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mike Ford</title>
+      <link>https://usergroup.tv/videos/category/speaker/mike-ford/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/mike-ford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>https://usergroup.tv/videos/tag/power-bi/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traveling Light: 50 Days of DAX Without CALCULATE or Time Intelligence</title>
+      <link>https://usergroup.tv/videos/traveling-light-50-days-of-dax-without-calculate-or-time-intelligence/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/traveling-light-50-days-of-dax-without-calculate-or-time-intelligence/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Azure Austin Meetup</title>
       <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
@@ -269,15 +323,6 @@
     </item>
     
     <item>
-      <title>Austin Power BI User Group</title>
-      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
-      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Expert Power BI Development</title>
       <link>https://usergroup.tv/videos/expert-power-bi-development/</link>
       <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
@@ -409,15 +454,6 @@
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/chris-wagner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power BI</title>
-      <link>https://usergroup.tv/videos/tag/power-bi/</link>
-      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
       <description></description>
     </item>
     
@@ -1471,15 +1507,6 @@
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/tim-rayburn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dax</title>
-      <link>https://usergroup.tv/videos/tag/dax/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/dax/</guid>
       <description></description>
     </item>
     
@@ -3643,15 +3670,6 @@ What do we use your information for?</description>
       <pubDate>Wed, 08 Jan 2020 16:17:29 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/data-discovery-austin-scooter-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mike Ford</title>
-      <link>https://usergroup.tv/videos/category/speaker/mike-ford/</link>
-      <pubDate>Wed, 08 Jan 2020 16:17:29 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/speaker/mike-ford/</guid>
       <description></description>
     </item>
     

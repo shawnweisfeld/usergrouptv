@@ -6,7 +6,25 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Feb 2023 02:33:44 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Feb 2023 14:09:24 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dax</title>
+      <link>https://usergroup.tv/videos/tag/dax/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/dax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>https://usergroup.tv/videos/tag/power-bi/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Azure SQL Database</title>
       <link>https://usergroup.tv/videos/tag/azure-sql-database/</link>
@@ -175,15 +193,6 @@
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/configuration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power BI</title>
-      <link>https://usergroup.tv/videos/tag/power-bi/</link>
-      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
       <description></description>
     </item>
     
@@ -589,15 +598,6 @@
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/net-6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dax</title>
-      <link>https://usergroup.tv/videos/tag/dax/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/dax/</guid>
       <description></description>
     </item>
     

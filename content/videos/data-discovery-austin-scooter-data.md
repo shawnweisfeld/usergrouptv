@@ -22,22 +22,22 @@
     {
       "name": "Mike Ford",
       "slug": "mike-ford",
-      "bio": "",
-      "count": 2
+      "bio": "Mike Ford is a Business Intelligence Director at ABB within the Electrification Division. He oversees program and development activities for reporting solutions that include finance, marketing & sales, procurement, and supply chain metrics. He enjoys working with business teams to provide reporting/analytical solutions that help them make data-driven decisions. He has over 20 years of experience in the data analytics space and enjoys teaching and sharing knowledge. He has taught Power BI and Excel courses to over 1,000 students within ABB, and is also certified in Power BI, Power Platform, and Agile Project Management.",
+      "count": 3
     }
   ],
   "ugtvtags": [
     {
       "name": "Power BI",
       "slug": "power-bi",
-      "count": 37
+      "count": 38
     }
   ],
   "meetups": [
     {
       "name": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "count": 36
+      "count": 37
     }
   ]
 }

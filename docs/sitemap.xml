@@ -3,19 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2023-02-13T02:33:45+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2023-02-13T02:33:44+00:00</lastmod>
+    <lastmod>2023-02-19T14:09:26+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2023-02-13T02:33:44+00:00</lastmod>
+    <lastmod>2023-02-19T14:09:24+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/</loc>
+    <lastmod>2023-02-19T14:09:22+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2023-02-13T02:33:43+00:00</lastmod>
+    <lastmod>2023-02-19T14:09:15+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2023-02-13T02:33:43+00:00</lastmod>
+    <lastmod>2023-02-19T14:09:15+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/brian-julius/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/brian-julius/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/dax/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/dax/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/mike-ford/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/mike-ford/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/power-bi/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/power-bi/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/traveling-light-50-days-of-dax-without-calculate-or-time-intelligence/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
     <lastmod>2023-01-17T00:00:00+00:00</lastmod>
@@ -42,9 +78,6 @@
     <lastmod>2023-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/latest-innovations-in-azure-sql/</loc>
-    <lastmod>2023-01-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/</loc>
     <lastmod>2023-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/.net/</loc>
@@ -176,12 +209,6 @@
     <loc>https://usergroup.tv/videos/understanding-big-data-with-azure-solutions/</loc>
     <lastmod>2022-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
-    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
-    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/videos/expert-power-bi-development/</loc>
     <lastmod>2022-11-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -258,12 +285,6 @@
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/chris-wagner/</loc>
-    <lastmod>2022-10-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/power-bi/</loc>
-    <lastmod>2022-10-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/power-bi/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/power-bi-metrics/</loc>
@@ -847,12 +868,6 @@
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/tim-rayburn/</loc>
     <lastmod>2021-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/dax/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/dax/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/improving-your-dax-skills-with-daxdo/</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
@@ -1998,12 +2013,6 @@
     <lastmod>2020-01-08T16:19:26+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/data-discovery-austin-scooter-data/</loc>
-    <lastmod>2020-01-08T16:17:29+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/mike-ford/</loc>
-    <lastmod>2020-01-08T16:17:29+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/mike-ford/</loc>
     <lastmod>2020-01-08T16:17:29+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/austin-office-365-and-sharepoint-user-group/</loc>

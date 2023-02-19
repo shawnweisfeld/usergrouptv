@@ -1,12 +1,44 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2023-02-13T02:33:43.5015976Z",
+  "date": "2023-02-19T14:09:15.3524721Z",
   "draft": false,
-  "recordingCount": "1,135",
-  "speakerCount": "635",
+  "recordingCount": "1,136",
+  "speakerCount": "636",
   "groupCount": "67",
   "newest": [
+    {
+      "title": "Traveling Light: 50 Days of DAX Without CALCULATE or Time Intelligence",
+      "slug": "traveling-light-50-days-of-dax-without-calculate-or-time-intelligence",
+      "thumbnail": "https://i.vimeocdn.com/video/1614290787-29352ef30794b52f65b83df164bfbbcc956f4b4ae4d823e5e558cbcaf6702e1a-d_295x166",
+      "date": "2023-02-08T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Ford",
+          "slug": "mike-ford"
+        },
+        {
+          "name": "Brian Julius",
+          "slug": "brian-julius"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "dax",
+          "slug": "dax"
+        },
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "Latest innovations in Azure SQL",
       "slug": "latest-innovations-in-azure-sql",
@@ -508,38 +540,6 @@
         {
           "name": "Blazor",
           "slug": "blazor"
-        }
-      ]
-    },
-    {
-      "title": "Microsoft Entra Permissions Management",
-      "slug": "microsoft-entra-permissions-management",
-      "thumbnail": "https://i.vimeocdn.com/video/1492819759-7e4d858ccedf0d975f6aa66c87e47717950ef14dcf5659f0c88a00f8825dc024-d_295x166",
-      "date": "2022-08-16T00:00:00",
-      "speakers": [
-        {
-          "name": "Sanjay Shah",
-          "slug": "sanjay-shah"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        },
-        {
-          "name": "DFW Azure User Group",
-          "slug": "dfw-azure-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "CIEM",
-          "slug": "ciem"
-        },
-        {
-          "name": "Entra",
-          "slug": "entra"
         }
       ]
     }

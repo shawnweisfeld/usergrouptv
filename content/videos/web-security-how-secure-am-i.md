@@ -30,7 +30,7 @@
     {
       "name": "Security",
       "slug": "security",
-      "count": 6
+      "count": 7
     }
   ],
   "meetups": [

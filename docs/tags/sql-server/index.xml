@@ -6,22 +6,31 @@
     <description>Recent content in SQL Server on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql-server/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql-server/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to get the best TCO while running SQL Server on Azure VM</title>
-      <link>https://usergroup.tv/videos/how-to-get-the-best-tco-while-running-sql-server-on-azure-vm/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <title>Batch Mode Improvements Leveraging Modern Hardware</title>
+      <link>https://usergroup.tv/videos/batch-mode-improvements-leveraging-modern-hardware/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://usergroup.tv/videos/how-to-get-the-best-tco-while-running-sql-server-on-azure-vm/</guid>
+      <guid>https://usergroup.tv/videos/batch-mode-improvements-leveraging-modern-hardware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SQL Server</title>
       <link>https://usergroup.tv/videos/tag/sql-server/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/sql-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to get the best TCO while running SQL Server on Azure VM</title>
+      <link>https://usergroup.tv/videos/how-to-get-the-best-tco-while-running-sql-server-on-azure-vm/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/how-to-get-the-best-tco-while-running-sql-server-on-azure-vm/</guid>
       <description></description>
     </item>
     

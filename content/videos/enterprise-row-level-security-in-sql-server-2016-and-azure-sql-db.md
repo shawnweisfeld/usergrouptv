@@ -31,12 +31,12 @@
     {
       "name": "SQL Security",
       "slug": "sql-security",
-      "count": 6
+      "count": 7
     },
     {
       "name": "SQL Azure",
       "slug": "sql-azure",
-      "count": 5
+      "count": 6
     }
   ],
   "meetups": [

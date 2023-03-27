@@ -30,14 +30,14 @@
     {
       "name": "SQL Security",
       "slug": "sql-security",
-      "count": 6
+      "count": 7
     }
   ],
   "meetups": [
     {
       "name": "Austin SQL Saturday",
       "slug": "austin-sql-saturday",
-      "count": 27
+      "count": 41
     }
   ]
 }

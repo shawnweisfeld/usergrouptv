@@ -30,7 +30,7 @@
     {
       "name": "Cosmos DB",
       "slug": "cosmos-db",
-      "count": 9
+      "count": 10
     }
   ],
   "meetups": [

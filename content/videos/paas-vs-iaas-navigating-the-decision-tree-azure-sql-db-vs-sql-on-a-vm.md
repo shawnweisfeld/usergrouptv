@@ -30,7 +30,7 @@
     {
       "name": "SQL Azure",
       "slug": "sql-azure",
-      "count": 5
+      "count": 6
     }
   ],
   "meetups": [

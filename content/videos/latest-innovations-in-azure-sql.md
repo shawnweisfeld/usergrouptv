@@ -22,8 +22,8 @@
     {
       "name": "Bob Ward",
       "slug": "bob-ward",
-      "bio": "Bob is a Principal Architect on the Azure Data Engineering team.",
-      "count": 6
+      "bio": "Bob Ward is a Principal Architect for the Microsoft Azure Data team, which owns the development for all SQL Server versions. Bob has worked for Microsoft for 29 years on every version of SQL Server shipped from OS/2 1.1 to SQL Server 2022 including Azure SQL. Bob is a well-known speaker on SQL Server and Azure SQL, often presenting talks on new releases, internals, and specialized topics at events such as SQLBits, Azure Data Conference, Microsoft Build, Microsoft Inspire, Microsoft Ignite, PASS Summit, and many different events. You can also learn Azure SQL from him on the popular series https://aka.ms/azuresql4beginners. You can follow him at @bobwardms or linkedin.com/in/bobwardms. Bob is the author of the books Pro SQL Server on Linux, SQL Server 2019 Revealed, and Azure SQL Revealed available from Apress Media.",
+      "count": 13
     }
   ],
   "ugtvtags": [
@@ -37,12 +37,12 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 65
+      "count": 67
     },
     {
       "name": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "count": 28
+      "count": 30
     }
   ]
 }

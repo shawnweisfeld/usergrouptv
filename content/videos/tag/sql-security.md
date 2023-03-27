@@ -5,9 +5,31 @@
   ],
   "type": "tag",
   "slug": "sql-security",
-  "date": "2018-08-25T19:25:44",
+  "date": "2023-02-25T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "A Process for Securing SQL Server and Azure SQL DB Solutions",
+      "slug": "a-process-for-securing-sql-server-and-azure-sql-db-solutions",
+      "thumbnail": "https://i.vimeocdn.com/video/1641443485-4d8dddcbf930406a614ebd199bf427205a68a9ba963547f23e158eb0ce93605a-d_295x166",
+      "date": "2023-02-25T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin SQL Saturday",
+          "slug": "austin-sql-saturday"
+        },
+        {
+          "name": "Austin Data User Group",
+          "slug": "austin-data-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Michael Howard",
+          "slug": "michael-howard"
+        }
+      ]
+    },
     {
       "title": "SQL Server Security from the ground up",
       "slug": "sql-server-security-from-the-ground-up",

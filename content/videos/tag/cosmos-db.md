@@ -5,9 +5,35 @@
   ],
   "type": "tag",
   "slug": "cosmos-db",
-  "date": "2021-04-20T00:00:00",
+  "date": "2023-02-21T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Intro to Cosmos DB",
+      "slug": "intro-to-cosmos-db",
+      "thumbnail": "https://i.vimeocdn.com/video/1641445327-4e9e095d0b2a4316d3ac0129abeaf95fe7d32d77b7e3f166fc50e4d4bc5a42dc-d_295x166",
+      "date": "2023-02-21T00:00:00",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Mark Moore",
+          "slug": "mark-moore"
+        }
+      ]
+    },
     {
       "title": "Five Azure Services Every Developer Should Know",
       "slug": "five-azure-services-every-developer-should-know",

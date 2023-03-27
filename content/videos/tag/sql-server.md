@@ -5,9 +5,31 @@
   ],
   "type": "tag",
   "slug": "sql-server",
-  "date": "2020-10-20T00:00:00",
+  "date": "2023-02-25T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Batch Mode Improvements Leveraging Modern Hardware",
+      "slug": "batch-mode-improvements-leveraging-modern-hardware",
+      "thumbnail": "https://i.vimeocdn.com/video/1641442393-292a6829adb02b7d0d27ddd3ac233e4e7edd2f0012010f9c90d6a052b13618d6-d_295x166",
+      "date": "2023-02-25T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin SQL Saturday",
+          "slug": "austin-sql-saturday"
+        },
+        {
+          "name": "Austin Data User Group",
+          "slug": "austin-data-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Conor Cunningham",
+          "slug": "conor-cunningham"
+        }
+      ]
+    },
     {
       "title": "How to get the best TCO while running SQL Server on Azure VM",
       "slug": "how-to-get-the-best-tco-while-running-sql-server-on-azure-vm",

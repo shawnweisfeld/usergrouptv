@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="utf-8"><script type="application/ld+json">
+    {
+        "@context" : "http://schema.org",
+        "@type" : "BlogPosting",
+        "mainEntityOfPage": {
+             "@type": "WebPage",
+             "@id": "https:\/\/usergroup.tv\/"
+        },
+        "articleSection" : "videos",
+        "name" : "Batch Mode Improvements Leveraging Modern Hardware",
+        "headline" : "Batch Mode Improvements Leveraging Modern Hardware",
+        "description" : "Batch mode was introduced in SQL 2012 and it revolutionized query performance on analytical data. We don\u0027t speak that often on this, but the SQL team does do improvements each release to make scenarios faster. This talk will go into some details about how modern hardware is evolving and how SQL leverages those advances to deliver best-in-class performance through its batch mode engine. This talk will go deep into hardware design and behavior, but it is intended to be accessible to those without a deep computer science background.",
+        "inLanguage" : "en",
+        "author" : "Shawn Weisfeld",
+        "creator" : "Shawn Weisfeld",
+        "publisher": "Shawn Weisfeld",
+        "accountablePerson" : "Shawn Weisfeld",
+        "copyrightHolder" : "Shawn Weisfeld",
+        "copyrightYear" : "2023",
+        "datePublished": "2023-02-25T00:00:00Z",
+        "dateModified" : "2023-02-25T00:00:00Z",
+        "url" : "\/videos\/batch-mode-improvements-leveraging-modern-hardware\/",
+        "wordCount" : "0",
+        "keywords" : [ "SQL Server","Blog" ]
+    }
+</script>
+<title>
+    Batch Mode Improvements Leveraging Modern Hardware &ndash; UserGroup.tv
+</title><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="Batch mode was introduced in SQL 2012 and it revolutionized query performance on analytical data. We don&#39;t speak that often on this, but the SQL team does do improvements each release to make scenarios faster. This talk will go into some details about how modern hardware is evolving and how SQL leverages those advances to deliver best-in-class performance through its batch mode engine. This talk will go deep into hardware design and behavior, but it is intended to be accessible to those without a deep computer science background.">
+<meta name="author" content="Shawn Weisfeld">
+<link rel="icon" href="/favicon.ico">
+
+
+<meta itemprop="name" content="Batch Mode Improvements Leveraging Modern Hardware">
+<meta itemprop="description" content="Batch mode was introduced in SQL 2012 and it revolutionized query performance on analytical data. We don&#39;t speak that often on this, but the SQL team does do improvements each release to make scenarios faster. This talk will go into some details about how modern hardware is evolving and how SQL leverages those advances to deliver best-in-class performance through its batch mode engine. This talk will go deep into hardware design and behavior, but it is intended to be accessible to those without a deep computer science background."><meta itemprop="datePublished" content="2023-02-25T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2023-02-25T00:00:00+00:00" />
+<meta itemprop="wordCount" content="0"><meta itemprop="image" content="https://i.vimeocdn.com/video/1641442393-292a6829adb02b7d0d27ddd3ac233e4e7edd2f0012010f9c90d6a052b13618d6-d_295x166">
+<meta itemprop="keywords" content="SQL Server," />
+<meta property="og:title" content="Batch Mode Improvements Leveraging Modern Hardware" />
+<meta property="og:description" content="Batch mode was introduced in SQL 2012 and it revolutionized query performance on analytical data. We don&#39;t speak that often on this, but the SQL team does do improvements each release to make scenarios faster. This talk will go into some details about how modern hardware is evolving and how SQL leverages those advances to deliver best-in-class performance through its batch mode engine. This talk will go deep into hardware design and behavior, but it is intended to be accessible to those without a deep computer science background." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://usergroup.tv/videos/batch-mode-improvements-leveraging-modern-hardware/" /><meta property="og:image" content="https://i.vimeocdn.com/video/1641442393-292a6829adb02b7d0d27ddd3ac233e4e7edd2f0012010f9c90d6a052b13618d6-d_295x166" /><meta property="article:section" content="videos" />
+<meta property="article:published_time" content="2023-02-25T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-02-25T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://i.vimeocdn.com/video/1641442393-292a6829adb02b7d0d27ddd3ac233e4e7edd2f0012010f9c90d6a052b13618d6-d_295x166"/>
+
+<meta name="twitter:title" content="Batch Mode Improvements Leveraging Modern Hardware"/>
+<meta name="twitter:description" content="Batch mode was introduced in SQL 2012 and it revolutionized query performance on analytical data. We don&#39;t speak that often on this, but the SQL team does do improvements each release to make scenarios faster. This talk will go into some details about how modern hardware is evolving and how SQL leverages those advances to deliver best-in-class performance through its batch mode engine. This talk will go deep into hardware design and behavior, but it is intended to be accessible to those without a deep computer science background."/>
+
+
+<link rel="alternate" href="/index.xml" type="application/rss+xml" title="UserGroup.tv"/>
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/vendor.min.bfce43db53ea1b06d2bb16511e9b733eb4aefaf130b53804b253a4f9bf9f0702e2c08227c6ebbce6b4b537d898593af583d5fb1da9557104d61005dd624588d5.css" integrity="sha512-v85D21PqGwbSuxZRHptzPrSu&#43;vEwtTgEslOk&#43;b&#43;fBwLiwIInxuu85rS1N9iYWTr1g9X7HalVcQTWEAXdYkWI1Q==">
+
+
+
+  <meta property="og:image:secure" content="https://i.vimeocdn.com/video/1641442393-292a6829adb02b7d0d27ddd3ac233e4e7edd2f0012010f9c90d6a052b13618d6-d_295x166" />
+<body><nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
+    <div class="container">
+        <a class="navbar-brand" href="/">
+            <img src="/images/Ugtv.png" alt="UserGroup.tv">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="/">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/videos/category/speaker/">Speakers</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/videos/category/group/">Groups</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/videos/tag/">Tags</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/about-us/">About Us</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://forms.office.com/Pages/ResponsePage.aspx?id=TlyBc-0-d0WrTt-gYiae0KLqSn4LXatBuXAR729jgnhUQ0MyQUlFMEw5UTdUMVI1TDQ1M0RFNElTSC4u" target="_blank">Publish</a>
+            </li>
+          </ul>
+        </div>
+    </div>
+</nav>      
+<main role="main">
+
+    <div data-type="ad" data-publisher="lqm.usergrouptv.site" data-format="728x90" data-zone="ros" class="horizontal-ad"></div>
+
+    <div class="container mt-3 mb-3">
+
+        <h1>
+            Batch Mode Improvements Leveraging Modern Hardware
+        </h1>
+
+        <div class="addthis_inline_share_toolbox text-right"></div>
+
+        
+        <iframe src="https://player.vimeo.com/video/811838012" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        
+
+
+        <h2>Abstract: </h2>
+        <div>Batch mode was introduced in SQL 2012 and it revolutionized query performance on analytical data. We don't speak that often on this, but the SQL team does do improvements each release to make scenarios faster. This talk will go into some details about how modern hardware is evolving and how SQL leverages those advances to deliver best-in-class performance through its batch mode engine. This talk will go deep into hardware design and behavior, but it is intended to be accessible to those without a deep computer science background.</div>
+
+        <h2>Speakers: </h2>
+        <div>
+            <ul>
+                
+                <li>
+                    <h3>
+                        <a href="/videos/category/speaker/conor-cunningham">Conor Cunningham</a>
+                    </h3>
+                    <div>
+<span class="badge badge-primary">2 Recordings</span>
+
+</div>
+                    <div>Conor has been working on building database engines for 25 years at Microsoft. He has worked on features such as the Query Store, Table Partitioning, Window Functions, PIVOT/UNPIVOT, DMVs, and many others. Conor served as the Breadth Architect for shipping SQL Server 2016, 2017 and 2019 and still serves as an architect across the engine on challenging architectural issues. Conor is based in Austin, Texas (USA) and also serves as the Engineering Site Leader as we build a new engineering site there. His team there recently delivered a number of T-SQL language extensions into SQL Server 2022 and SQL Azure as well as doing the AVX-512 performance improvements that shipped in SQL Server 2022. Currently he is working on Synapse Data Warehouse and future database architectures.</div>
+                </li>
+                
+            </ul>            
+        </div>
+
+        <h2>Recorded At: </h2>
+        <div>
+            <ul>
+                
+                <li>
+                    <a href="/videos/category/group/austin-sql-saturday">Austin SQL Saturday</a> 
+<span class="badge badge-primary">41 Recordings</span>
+
+
+                </li>
+                
+                <li>
+                    <a href="/videos/category/group/austin-data-user-group">Austin Data User Group</a> 
+<span class="badge badge-primary">15 Recordings</span>
+
+
+                </li>
+                
+            </ul>            
+        </div>
+
+        <h2>Recorded on: </h2>
+        <div>Feb 25, 2023</div>
+
+        <h2>More Info: </h2>
+        <div><a href="https://sqlsaturday.com/2023-02-25-sqlsaturday1043/#schedule" target="_blank" >https://sqlsaturday.com/2023-02-25-sqlsaturday1043/#schedule</a></div>
+
+        <h2>Tags: </h2>
+        <div>
+            <ul>
+                
+                <li>
+                    <a href="/videos/tag/sql-server">SQL Server</a> 
+<span class="badge badge-primary">13 Recordings</span>
+
+
+                </li>
+                
+            </ul>            
+        </div>
+
+
+    </div>
+
+
+        </main>
+
+<nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+    <div class="container">
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+        <span class="navbar-text">
+            &copy; UserGroup.tv 2020
+        </span>
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="/privacy-policy">Privacy Policy</a>
+            </li>
+        </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+<script src="/js/vendor.min.cb1b7357739fe696b5790da72f4e974012eaa41e6fe80bc53b784e6c88c9d54cf1c291756e2829e1ad9afdc8cd93622181d79c39daaefb59335475f7b575801c.js" integrity="sha512-yxtzV3Of5pa1eQ2nL06XQBLqpB5v6AvFO3hObIjJ1UzxwpF1bigp4a2a/cjNk2IhgdecOdqu&#43;1kzVHX3tXWAHA=="></script>
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-155341911-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<script type='text/javascript'>
+    function _dmBootstrap(file) {
+        var _dma = document.createElement('script');
+        _dma.type = 'text/javascript';
+        _dma.async = true;
+        _dma.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + file;
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(_dma);
+    }
+    function _dmFollowup(file) { if (typeof DMAds === 'undefined') _dmBootstrap('cdn2.DeveloperMedia.com/a.min.js'); }
+    (function () { _dmBootstrap('cdn1.DeveloperMedia.com/a.min.js'); setTimeout(_dmFollowup, 2000); })();
+</script>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5fb843a02f2efdea"></script>
+</body>
+</html>

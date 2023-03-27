@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2023-02-19T14:09:26.1156704Z",
+  "date": "2023-03-27T01:20:14.2849503Z",
   "draft": false,
   "meetups": [
     {
@@ -75,6 +75,13 @@
       "count": 22
     },
     {
+      "title": "Austin Data User Group",
+      "slug": "austin-data-user-group",
+      "thumbnail": "https://i.vimeocdn.com/video/1641445780-f4fc2169f48f66811133e3dce718ba42ee2beca9534edebd07f8930bc4283985-d_295x166",
+      "date": "2023-03-21T00:00:00",
+      "count": 15
+    },
+    {
       "title": "Austin F# Meetup",
       "slug": "austin-f-meetup",
       "thumbnail": "https://i.vimeocdn.com/video/831973973-dc3924b6c597d27f178376e379f9b610a3fc3debf8fb4105a9fa3e139894340a-d_295x166",
@@ -112,16 +119,16 @@
     {
       "title": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1614290787-29352ef30794b52f65b83df164bfbbcc956f4b4ae4d823e5e558cbcaf6702e1a-d_295x166",
-      "date": "2023-02-08T00:00:00",
-      "count": 37
+      "thumbnail": "https://i.vimeocdn.com/video/1641445566-85a8e520172d43ff25832cccc947865d228382333ba2365856711e8dac6f401c-d_295x166",
+      "date": "2023-03-08T00:00:00",
+      "count": 38
     },
     {
       "title": "Austin SQL Saturday",
       "slug": "austin-sql-saturday",
-      "thumbnail": "https://i.vimeocdn.com/video/854620500-8f2d84679d3f888ebecea3bd458af3f33ea1a22f78f2b1f8866ac558335f3967-d_295x166",
-      "date": "2020-02-08T16:30:20",
-      "count": 27
+      "thumbnail": "https://i.vimeocdn.com/video/1641442393-292a6829adb02b7d0d27ddd3ac233e4e7edd2f0012010f9c90d6a052b13618d6-d_295x166",
+      "date": "2023-02-25T00:00:00",
+      "count": 41
     },
     {
       "title": "Austin TFS UG",
@@ -133,9 +140,9 @@
     {
       "title": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "thumbnail": "https://i.vimeocdn.com/video/1609321925-54c023868843661b054fe9e0223953d7b60ab5f872ce15f91556ad4f0f22bf10-d_295x166",
-      "date": "2023-01-17T00:00:00",
-      "count": 65
+      "thumbnail": "https://i.vimeocdn.com/video/1641445780-f4fc2169f48f66811133e3dce718ba42ee2beca9534edebd07f8930bc4283985-d_295x166",
+      "date": "2023-03-21T00:00:00",
+      "count": 67
     },
     {
       "title": "Azure User Group - Houston",
@@ -147,9 +154,9 @@
     {
       "title": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "thumbnail": "https://i.vimeocdn.com/video/1551442769-55f5dfd58705d295b70446175909363881a589eb821106ef5f96929987123ba1-d_295x166",
-      "date": "2022-11-15T00:00:00",
-      "count": 83
+      "thumbnail": "https://i.vimeocdn.com/video/1641445780-f4fc2169f48f66811133e3dce718ba42ee2beca9534edebd07f8930bc4283985-d_295x166",
+      "date": "2023-03-21T00:00:00",
+      "count": 85
     },
     {
       "title": "Chicago IT Architects Group",
@@ -266,9 +273,9 @@
     {
       "title": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1609321925-54c023868843661b054fe9e0223953d7b60ab5f872ce15f91556ad4f0f22bf10-d_295x166",
-      "date": "2023-01-17T00:00:00",
-      "count": 28
+      "thumbnail": "https://i.vimeocdn.com/video/1641445780-f4fc2169f48f66811133e3dce718ba42ee2beca9534edebd07f8930bc4283985-d_295x166",
+      "date": "2023-03-21T00:00:00",
+      "count": 30
     },
     {
       "title": "DFW C++ User Group",

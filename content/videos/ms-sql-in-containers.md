@@ -23,7 +23,7 @@
       "name": "Cory Brown",
       "slug": "cory-brown",
       "bio": "",
-      "count": 1
+      "count": 2
     }
   ],
   "ugtvtags": [
@@ -37,7 +37,7 @@
     {
       "name": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "count": 83
+      "count": 85
     }
   ]
 }

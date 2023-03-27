@@ -5,9 +5,31 @@
   ],
   "type": "tag",
   "slug": "sql-performance",
-  "date": "2022-05-17T00:00:00",
+  "date": "2023-02-25T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Faster Transactions: Query Tuning for Data Manipulation",
+      "slug": "faster-transactions-query-tuning-for-data-manipulation",
+      "thumbnail": "https://i.vimeocdn.com/video/1641442928-b706ec57b6a4f044d443440898fc56b3490b770862d5bb46398a3915256b3fc6-d_295x166",
+      "date": "2023-02-25T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin SQL Saturday",
+          "slug": "austin-sql-saturday"
+        },
+        {
+          "name": "Austin Data User Group",
+          "slug": "austin-data-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Jeff Iannucci",
+          "slug": "jeff-iannucci"
+        }
+      ]
+    },
     {
       "title": "Getting Started with SQL Server Performance Tuning",
       "slug": "getting-started-with-sql-server-performance-tuning",

@@ -32,7 +32,7 @@
     {
       "name": "Cloud",
       "slug": "cloud",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Azure",

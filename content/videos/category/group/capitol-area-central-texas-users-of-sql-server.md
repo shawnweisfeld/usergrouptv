@@ -5,9 +5,45 @@
     "Capitol Area Central Texas Users of SQL Server"
   ],
   "slug": "capitol-area-central-texas-users-of-sql-server",
-  "date": "2022-11-15T00:00:00",
+  "date": "2023-03-21T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Microsoft Modern Data Estate & Azure Synapse Link",
+      "slug": "microsoft-modern-data-estate-azure-synapse-link",
+      "thumbnail": "https://i.vimeocdn.com/video/1641445780-f4fc2169f48f66811133e3dce718ba42ee2beca9534edebd07f8930bc4283985-d_295x166",
+      "date": "2023-03-21T00:00:00",
+      "speakers": [
+        {
+          "name": "Cory Brown",
+          "slug": "cory-brown"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure Synapse",
+          "slug": "azure-synapse"
+        }
+      ]
+    },
+    {
+      "title": "Intro to Cosmos DB",
+      "slug": "intro-to-cosmos-db",
+      "thumbnail": "https://i.vimeocdn.com/video/1641445327-4e9e095d0b2a4316d3ac0129abeaf95fe7d32d77b7e3f166fc50e4d4bc5a42dc-d_295x166",
+      "date": "2023-02-21T00:00:00",
+      "speakers": [
+        {
+          "name": "Mark Moore",
+          "slug": "mark-moore"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cosmos DB",
+          "slug": "cosmos-db"
+        }
+      ]
+    },
     {
       "title": "JSON in SQL, Expanding the Possibilities!",
       "slug": "json-in-sql-expanding-the-possibilities",

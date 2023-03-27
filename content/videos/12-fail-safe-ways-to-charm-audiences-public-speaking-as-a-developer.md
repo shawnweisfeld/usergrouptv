@@ -30,7 +30,7 @@
     {
       "name": "Public speaking",
       "slug": "public-speaking",
-      "count": 1
+      "count": 2
     }
   ],
   "meetups": [

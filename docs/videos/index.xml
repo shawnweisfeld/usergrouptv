@@ -6,7 +6,160 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Feb 2023 14:09:15 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Mar 2023 01:20:04 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft Modern Data Estate &amp; Azure Synapse Link</title>
+      <link>https://usergroup.tv/videos/microsoft-modern-data-estate-azure-synapse-link/</link>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/microsoft-modern-data-estate-azure-synapse-link/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measure Killer</title>
+      <link>https://usergroup.tv/videos/measure-killer/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/measure-killer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Process for Securing SQL Server and Azure SQL DB Solutions</title>
+      <link>https://usergroup.tv/videos/a-process-for-securing-sql-server-and-azure-sql-db-solutions/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/a-process-for-securing-sql-server-and-azure-sql-db-solutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Batch Mode Improvements Leveraging Modern Hardware</title>
+      <link>https://usergroup.tv/videos/batch-mode-improvements-leveraging-modern-hardware/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/batch-mode-improvements-leveraging-modern-hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster Transactions: Query Tuning for Data Manipulation</title>
+      <link>https://usergroup.tv/videos/faster-transactions-query-tuning-for-data-manipulation/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/faster-transactions-query-tuning-for-data-manipulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Zero to Hero on Synapse Spark pool</title>
+      <link>https://usergroup.tv/videos/from-zero-to-hero-on-synapse-spark-pool/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/from-zero-to-hero-on-synapse-spark-pool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ground to Cloud: Your Migration Success Checklist</title>
+      <link>https://usergroup.tv/videos/ground-to-cloud-your-migration-success-checklist/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/ground-to-cloud-your-migration-success-checklist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Azure Synapse</title>
+      <link>https://usergroup.tv/videos/introduction-to-azure-synapse/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/introduction-to-azure-synapse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server 2022: The hybrid data platform</title>
+      <link>https://usergroup.tv/videos/sql-server-2022-the-hybrid-data-platform/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/sql-server-2022-the-hybrid-data-platform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why You Should Be Standing Here: Learning to Present a Session</title>
+      <link>https://usergroup.tv/videos/why-you-should-be-standing-here-learning-to-present-a-session/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/why-you-should-be-standing-here-learning-to-present-a-session/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server 2022 Workshop - 01 - Introduction to SQL Server 2022</title>
+      <link>https://usergroup.tv/videos/sql-server-2022-workshop-01-introduction-to-sql-server-2022/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/sql-server-2022-workshop-01-introduction-to-sql-server-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server 2022 Workshop - 02 - Connect SQL Server 2022 to Azure</title>
+      <link>https://usergroup.tv/videos/sql-server-2022-workshop-02-connect-sql-server-2022-to-azure/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/sql-server-2022-workshop-02-connect-sql-server-2022-to-azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server 2022 Workshop - 03 - Accelerate performance with built-in query intelligence</title>
+      <link>https://usergroup.tv/videos/sql-server-2022-workshop-03-accelerate-performance-with-builtin-query-intelligence/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/sql-server-2022-workshop-03-accelerate-performance-with-builtin-query-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server 2022 Workshop - 04 - Power your database with security, scalability, and availability</title>
+      <link>https://usergroup.tv/videos/sql-server-2022-workshop-04-power-your-database-with-security-scalability-and-availability/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/sql-server-2022-workshop-04-power-your-database-with-security-scalability-and-availability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server 2022 Workshop - 05 - Access new sources with data virtualization and object storage</title>
+      <link>https://usergroup.tv/videos/sql-server-2022-workshop-05-access-new-sources-with-data-virtualization-and-object-storage/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/sql-server-2022-workshop-05-access-new-sources-with-data-virtualization-and-object-storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server 2022 Workshop - 06 - Enhance your application with new T-SQL capabilities</title>
+      <link>https://usergroup.tv/videos/sql-server-2022-workshop-06-enhance-your-application-with-new-tsql-capabilities/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/sql-server-2022-workshop-06-enhance-your-application-with-new-tsql-capabilities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to Cosmos DB</title>
+      <link>https://usergroup.tv/videos/intro-to-cosmos-db/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/intro-to-cosmos-db/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Traveling Light: 50 Days of DAX Without CALCULATE or Time Intelligence</title>
       <link>https://usergroup.tv/videos/traveling-light-50-days-of-dax-without-calculate-or-time-intelligence/</link>

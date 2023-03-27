@@ -31,7 +31,7 @@
     {
       "name": "SQL",
       "slug": "sql",
-      "count": 26
+      "count": 28
     },
     {
       "name": "Regex",

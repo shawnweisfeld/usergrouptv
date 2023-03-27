@@ -49,12 +49,12 @@
     {
       "name": "Austin SQL Saturday",
       "slug": "austin-sql-saturday",
-      "count": 27
+      "count": 41
     },
     {
       "name": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "count": 83
+      "count": 85
     }
   ]
 }

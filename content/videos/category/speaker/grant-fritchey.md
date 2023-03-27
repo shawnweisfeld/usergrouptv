@@ -5,10 +5,32 @@
   ],
   "type": "speaker",
   "slug": "grant-fritchey",
-  "date": "2012-08-25T21:54:32",
+  "date": "2023-02-25T00:00:00",
   "draft": false,
-  "bio": "Grant Fritchey is a SQL Server MVP with over 20 years’ experience in IT, including time spent in support and development. He has worked with SQL Server since 6.0, back in 1995. He has developed in VB, VB.Net, C# and Java. Grant volunteers at PASS. He has authored books for Apress and Simple-Talk, and joined Red Gate Software as a Product Evangelist in January 2011.",
+  "bio": "Grant Fritchey is a Data Platform MVP and AWS Community Builder with over 30 years’ experience in IT, including time spent in support and development. He has worked with SQL Server since 6.0 back in 1995. He has also developed in VB, VB.NET, C#, and Java. Grant has written books for Apress and Simple-Talk. Grant presents at conferences and user groups, large and small, all over the world. He joined Redgate Software as a product advocate in January 2011.",
   "recordings": [
+    {
+      "title": "Why You Should Be Standing Here: Learning to Present a Session",
+      "slug": "why-you-should-be-standing-here-learning-to-present-a-session",
+      "thumbnail": "https://i.vimeocdn.com/video/1641445056-740dd43e77c3b5bc07aebb76762f8b075d630d8a1d2692a4c986f69dd47a7ee3-d_295x166",
+      "date": "2023-02-25T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin SQL Saturday",
+          "slug": "austin-sql-saturday"
+        },
+        {
+          "name": "Austin Data User Group",
+          "slug": "austin-data-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Public speaking",
+          "slug": "public-speaking"
+        }
+      ]
+    },
     {
       "title": "Top Tips for Writing Better T-SQL Queries",
       "slug": "top-tips-for-writing-better-t-sql-queries",

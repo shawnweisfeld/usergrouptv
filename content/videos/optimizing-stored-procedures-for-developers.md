@@ -30,7 +30,7 @@
     {
       "name": "SQL Performance",
       "slug": "sql-performance",
-      "count": 19
+      "count": 20
     }
   ],
   "meetups": [

@@ -23,21 +23,21 @@
       "name": "Mark Moore",
       "slug": "mark-moore",
       "bio": "Mark Moore is a Cloud Solution Architect at Microsoft, Mark has been in the industry for 35+ years and has been with Microsoft for the past 27 years. Mark resides in the DFW area.",
-      "count": 6
+      "count": 7
     }
   ],
   "ugtvtags": [
     {
       "name": "SQL Server",
       "slug": "sql-server",
-      "count": 12
+      "count": 13
     }
   ],
   "meetups": [
     {
       "name": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "count": 83
+      "count": 85
     }
   ]
 }

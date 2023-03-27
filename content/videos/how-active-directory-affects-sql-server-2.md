@@ -31,7 +31,7 @@
     {
       "name": "SQL",
       "slug": "sql",
-      "count": 26
+      "count": 28
     },
     {
       "name": "AD",
@@ -43,7 +43,7 @@
     {
       "name": "Austin SQL Saturday",
       "slug": "austin-sql-saturday",
-      "count": 27
+      "count": 41
     }
   ]
 }

@@ -43,7 +43,7 @@
     {
       "name": "Austin SQL Saturday",
       "slug": "austin-sql-saturday",
-      "count": 27
+      "count": 41
     }
   ]
 }

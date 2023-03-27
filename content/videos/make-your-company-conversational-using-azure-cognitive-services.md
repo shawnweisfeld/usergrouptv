@@ -22,8 +22,8 @@
     {
       "name": "Matt Gordon",
       "slug": "matt-gordon",
-      "bio": "<p>Matt is a Microsoft Data Platform MVP and has worked with SQL Server since 2000. He is the leader of the Lexington, KY PASS local group and a frequent domestic and international community speaker. He's an IDERA ACE and 2019 Friend of Redgate. His original data professional role was as a database developer, which quickly evolved into query tuning work that further evolved into being a full-fledged DBA in the healthcare realm. He has supported several critical systems utilizing SQL Server and managed dozens of 24/7/365 SQL Server implementations. He currently utilizes that real world experience as a data platform consultant helping clients design solutions that meet their ever-changing business needs.\r\n</p>",
-      "count": 1
+      "bio": "Matt is a Microsoft Data Platform MVP and has worked with SQL Server since 2000. He is the leader of the Lexington, KY Data Technology Group and a frequent domestic and international community speaker. He's an IDERA ACE alumnus and Friend of Redgate. His original data professional role was in database development, which quickly evolved into query tuning work that further evolved into being a DBA in the healthcare realm. He has supported several critical systems utilizing SQL Server and managed dozens of 24/7/365 SQL Server implementations. As a consultant, he works with customers large, medium, and small to migrate to the cloud, make their data estate operate efficiently, and find the right tools and solutions within the Microsoft Data Platform.",
+      "count": 2
     }
   ],
   "ugtvtags": [
@@ -37,12 +37,12 @@
     {
       "name": "Austin SQL Saturday",
       "slug": "austin-sql-saturday",
-      "count": 27
+      "count": 41
     },
     {
       "name": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "count": 83
+      "count": 85
     }
   ]
 }

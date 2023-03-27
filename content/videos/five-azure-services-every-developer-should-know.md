@@ -38,7 +38,7 @@
     {
       "name": "Cosmos DB",
       "slug": "cosmos-db",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Azure Functions",
@@ -55,12 +55,12 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 65
+      "count": 67
     },
     {
       "name": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "count": 28
+      "count": 30
     },
     {
       "name": "Azure User Group - Houston",

@@ -28904,4 +28904,525 @@ The Options Pattern</Excerpt>
       <slug>power-bi</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Intro to Cosmos DB</Title>
+    <Url>https://usergroup.tv/videos/intro-to-cosmos-db/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1641445327-4e9e095d0b2a4316d3ac0129abeaf95fe7d32d77b7e3f166fc50e4d4bc5a42dc-d_295x166</Thumbnail>
+    <Excerpt>Are you thinking about using Cosmos DB in Azure? Are you curious about Cosmos DB and just want to learn more?
+
+This month Mark will be doing an introductory session to Cosmos DB covering the following topics.
+
+What is Cosmos DB
+When should I use Cosmos DB
+How is Cosmos DB billed.
+How do I use the Cosmos DB SDK to develop applications.
+Q&amp;A</Excerpt>
+    <PostDate>2023-02-21T00:00:00</PostDate>
+    <Id>1143</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/811838539/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=854ab896d0b2e6944d87d23eac9b4690c99adaf5dc9de087a645997523ba532b</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/811838539/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=3685e1ce376d7efab3a820247bba691feb5b404a2fcbc0889190a18530f15132</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Mark Moore</name>
+      <slug>mark-moore</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>Capitol Area Central Texas Users of SQL Server</name>
+      <slug>capitol-area-central-texas-users-of-sql-server</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Cosmos DB</name>
+      <slug>cosmos-db</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>SQL Server 2022 Workshop - 01 - Introduction to SQL Server 2022</Title>
+    <Url>https://usergroup.tv/videos/sql-server-2022-workshop-01-introduction-to-sql-server-2022/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1641441416-2d92e8953bb97638b72c0b31dcd833ade6408cfd25f9332c936c224c1db2083a-d_295x166</Thumbnail>
+    <Excerpt>Immerse yourself in this day-long workshop on SQL Server 2022 including presentations, hands-on exercises, and interactive Q&amp;A taught by the Microsoft engineering team. You will learn all aspects of what is new in SQL Server 2022 including features for hybrid, built-in query intelligence, industry-proven engine, data virtualization and object storage, and new T-SQL capabilities. Attendees will need to bring their own laptop running Windows and will be provided instructions on software to be pre-installed including SQL Server 2022 Evaluation Edition and tools like SQL Server Management Studio. All attendees are expected to have a fundamental working knowledge of SQL Server including the T-SQL language, engine fundamentals, and use of tools like SQL Server Management Studio (SSMS). If you are looking to dive deep into “everything” SQL Server 2022 this workshop is for you.</Excerpt>
+    <PostDate>2023-02-24T00:00:00</PostDate>
+    <Id>1144</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/811812296/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=daef6018e4f4b820a47e564d19552d56e5af02b17e984b5b63e5faf618d3453a</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/811812296/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=d20f9a680046b4d810f99dcb95d79ab1ba79484ad470cc77213f9a407c5f0a17</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Bob Ward</name>
+      <slug>bob-ward</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin SQL Saturday</name>
+      <slug>austin-sql-saturday</slug>
+    </Groups>
+    <Groups>
+      <name>Austin Data User Group</name>
+      <slug>austin-data-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>SQL Server 2022</name>
+      <slug>sql-server-2022</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>SQL Server 2022 Workshop - 02 - Connect SQL Server 2022 to Azure</Title>
+    <Url>https://usergroup.tv/videos/sql-server-2022-workshop-02-connect-sql-server-2022-to-azure/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1641441519-d48c6012e9e4ae1dcbfb63904da09fdcf6e8436a9ef8ad1d09f55691a58911e2-d_295x166</Thumbnail>
+    <Excerpt>Immerse yourself in this day-long workshop on SQL Server 2022 including presentations, hands-on exercises, and interactive Q&amp;A taught by the Microsoft engineering team. You will learn all aspects of what is new in SQL Server 2022 including features for hybrid, built-in query intelligence, industry-proven engine, data virtualization and object storage, and new T-SQL capabilities. Attendees will need to bring their own laptop running Windows and will be provided instructions on software to be pre-installed including SQL Server 2022 Evaluation Edition and tools like SQL Server Management Studio. All attendees are expected to have a fundamental working knowledge of SQL Server including the T-SQL language, engine fundamentals, and use of tools like SQL Server Management Studio (SSMS). If you are looking to dive deep into “everything” SQL Server 2022 this workshop is for you.</Excerpt>
+    <PostDate>2023-02-24T00:00:00</PostDate>
+    <Id>1145</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/811812398/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=1a8697af194609e52a5b9e9106960af6f7f5021969e388d7db88e39602b22250</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/811812398/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=9af863fa787285097ee24d6d18ccdd7ee92e6cdb2ef00efaa245a6f72b6394d1</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Bob Ward</name>
+      <slug>bob-ward</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin SQL Saturday</name>
+      <slug>austin-sql-saturday</slug>
+    </Groups>
+    <Groups>
+      <name>Austin Data User Group</name>
+      <slug>austin-data-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>SQL Server 2022</name>
+      <slug>sql-server-2022</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>SQL Server 2022 Workshop - 03 - Accelerate performance with built-in query intelligence</Title>
+    <Url>https://usergroup.tv/videos/sql-server-2022-workshop-03-accelerate-performance-with-builtin-query-intelligence/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1641441633-2a80096e73203cacdf70066829f70fdd9e601c2391faba07dac69ebdc2929512-d_295x166</Thumbnail>
+    <Excerpt>Immerse yourself in this day-long workshop on SQL Server 2022 including presentations, hands-on exercises, and interactive Q&amp;A taught by the Microsoft engineering team. You will learn all aspects of what is new in SQL Server 2022 including features for hybrid, built-in query intelligence, industry-proven engine, data virtualization and object storage, and new T-SQL capabilities. Attendees will need to bring their own laptop running Windows and will be provided instructions on software to be pre-installed including SQL Server 2022 Evaluation Edition and tools like SQL Server Management Studio. All attendees are expected to have a fundamental working knowledge of SQL Server including the T-SQL language, engine fundamentals, and use of tools like SQL Server Management Studio (SSMS). If you are looking to dive deep into “everything” SQL Server 2022 this workshop is for you.</Excerpt>
+    <PostDate>2023-02-24T00:00:00</PostDate>
+    <Id>1146</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/811815142/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=1be57fce2455ff2edcdeff37e3a84f0f7a2aa86e4c3183ee6881cfc489838929</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/811815142/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=bffd01473ead94c31692d769e2d8de58a9b93d49697ab97d90f087f304383c90</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Bob Ward</name>
+      <slug>bob-ward</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin SQL Saturday</name>
+      <slug>austin-sql-saturday</slug>
+    </Groups>
+    <Groups>
+      <name>Austin Data User Group</name>
+      <slug>austin-data-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>SQL Server 2022</name>
+      <slug>sql-server-2022</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>SQL Server 2022 Workshop - 04 - Power your database with security, scalability, and availability</Title>
+    <Url>https://usergroup.tv/videos/sql-server-2022-workshop-04-power-your-database-with-security-scalability-and-availability/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1641441849-bf2a19e6d4c51701c7d85d4f54b2c7cbca643c9cd72b918b9622a54b6821ce1a-d_295x166</Thumbnail>
+    <Excerpt>Immerse yourself in this day-long workshop on SQL Server 2022 including presentations, hands-on exercises, and interactive Q&amp;A taught by the Microsoft engineering team. You will learn all aspects of what is new in SQL Server 2022 including features for hybrid, built-in query intelligence, industry-proven engine, data virtualization and object storage, and new T-SQL capabilities. Attendees will need to bring their own laptop running Windows and will be provided instructions on software to be pre-installed including SQL Server 2022 Evaluation Edition and tools like SQL Server Management Studio. All attendees are expected to have a fundamental working knowledge of SQL Server including the T-SQL language, engine fundamentals, and use of tools like SQL Server Management Studio (SSMS). If you are looking to dive deep into “everything” SQL Server 2022 this workshop is for you.</Excerpt>
+    <PostDate>2023-02-24T00:00:00</PostDate>
+    <Id>1147</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/811837825/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=253f8542f0c6cc387c955a809c27b5a8af2bb05b44af87ec9ad5feb884656775</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/811837825/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=56b5de472c27e67cc8b7db9efb9a19b3103700334b3c26f80b6ff18d8d354eac</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Bob Ward</name>
+      <slug>bob-ward</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin SQL Saturday</name>
+      <slug>austin-sql-saturday</slug>
+    </Groups>
+    <Groups>
+      <name>Austin Data User Group</name>
+      <slug>austin-data-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>SQL Server 2022</name>
+      <slug>sql-server-2022</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>SQL Server 2022 Workshop - 05 - Access new sources with data virtualization and object storage</Title>
+    <Url>https://usergroup.tv/videos/sql-server-2022-workshop-05-access-new-sources-with-data-virtualization-and-object-storage/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1641441978-d3484b4491237540599dab525c9aab76b39431c48ea224fd11e44077216db0df-d_295x166</Thumbnail>
+    <Excerpt>Immerse yourself in this day-long workshop on SQL Server 2022 including presentations, hands-on exercises, and interactive Q&amp;A taught by the Microsoft engineering team. You will learn all aspects of what is new in SQL Server 2022 including features for hybrid, built-in query intelligence, industry-proven engine, data virtualization and object storage, and new T-SQL capabilities. Attendees will need to bring their own laptop running Windows and will be provided instructions on software to be pre-installed including SQL Server 2022 Evaluation Edition and tools like SQL Server Management Studio. All attendees are expected to have a fundamental working knowledge of SQL Server including the T-SQL language, engine fundamentals, and use of tools like SQL Server Management Studio (SSMS). If you are looking to dive deep into “everything” SQL Server 2022 this workshop is for you.</Excerpt>
+    <PostDate>2023-02-24T00:00:00</PostDate>
+    <Id>1148</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/811837899/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=999511386d823e899996aff75346c85558b974b773648a4b728762c502f60d78</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/811837899/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=22be74d0526820d79a7122f3fa3978f4c50bce145d7cb2f675951be97caafc1c</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Bob Ward</name>
+      <slug>bob-ward</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin SQL Saturday</name>
+      <slug>austin-sql-saturday</slug>
+    </Groups>
+    <Groups>
+      <name>Austin Data User Group</name>
+      <slug>austin-data-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>SQL Server 2022</name>
+      <slug>sql-server-2022</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>SQL Server 2022 Workshop - 06 - Enhance your application with new T-SQL capabilities</Title>
+    <Url>https://usergroup.tv/videos/sql-server-2022-workshop-06-enhance-your-application-with-new-tsql-capabilities/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1641442310-30129d0ef2ab5f2413a64751acee4c5646273c3c5eb930fa64a0b5a445a1067c-d_295x166</Thumbnail>
+    <Excerpt>Immerse yourself in this day-long workshop on SQL Server 2022 including presentations, hands-on exercises, and interactive Q&amp;A taught by the Microsoft engineering team. You will learn all aspects of what is new in SQL Server 2022 including features for hybrid, built-in query intelligence, industry-proven engine, data virtualization and object storage, and new T-SQL capabilities. Attendees will need to bring their own laptop running Windows and will be provided instructions on software to be pre-installed including SQL Server 2022 Evaluation Edition and tools like SQL Server Management Studio. All attendees are expected to have a fundamental working knowledge of SQL Server including the T-SQL language, engine fundamentals, and use of tools like SQL Server Management Studio (SSMS). If you are looking to dive deep into “everything” SQL Server 2022 this workshop is for you.</Excerpt>
+    <PostDate>2023-02-24T00:00:00</PostDate>
+    <Id>1149</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/811837945/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=d98bac83003d58baf9223a0bac5cca4b4eb95908be04e83b6bd61660df3b174f</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/811837945/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=f61bdca0dd17138f611b43b9fa6f66398ff28c15318daba6051fb3a444b35bd4</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Bob Ward</name>
+      <slug>bob-ward</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin SQL Saturday</name>
+      <slug>austin-sql-saturday</slug>
+    </Groups>
+    <Groups>
+      <name>Austin Data User Group</name>
+      <slug>austin-data-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>SQL Server 2022</name>
+      <slug>sql-server-2022</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Batch Mode Improvements Leveraging Modern Hardware</Title>
+    <Url>https://usergroup.tv/videos/batch-mode-improvements-leveraging-modern-hardware/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1641442393-292a6829adb02b7d0d27ddd3ac233e4e7edd2f0012010f9c90d6a052b13618d6-d_295x166</Thumbnail>
+    <Excerpt>Batch mode was introduced in SQL 2012 and it revolutionized query performance on analytical data. We don't speak that often on this, but the SQL team does do improvements each release to make scenarios faster. This talk will go into some details about how modern hardware is evolving and how SQL leverages those advances to deliver best-in-class performance through its batch mode engine. This talk will go deep into hardware design and behavior, but it is intended to be accessible to those without a deep computer science background.</Excerpt>
+    <PostDate>2023-02-25T00:00:00</PostDate>
+    <Id>1150</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/811838012/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=3acd3e25f7a3017273d5d1c20a50b0fc727f33b0438646ddd90636d34f33fcc1</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/811838012/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=216a9f0f188456a05a3e7dc004ed6c1eee2411aeb8a553887d9ddcb2c1be08cb</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Conor Cunningham</name>
+      <slug>conor-cunningham</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin SQL Saturday</name>
+      <slug>austin-sql-saturday</slug>
+    </Groups>
+    <Groups>
+      <name>Austin Data User Group</name>
+      <slug>austin-data-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>SQL Server</name>
+      <slug>sql-server</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Faster Transactions: Query Tuning for Data Manipulation</Title>
+    <Url>https://usergroup.tv/videos/faster-transactions-query-tuning-for-data-manipulation/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1641442928-b706ec57b6a4f044d443440898fc56b3490b770862d5bb46398a3915256b3fc6-d_295x166</Thumbnail>
+    <Excerpt>Your server has dozens of CPUs, terabytes of RAM, and uses solid-state drives…and yet your UPDATE statement still takes hours. Why? In this demo-filled session, we examine common pitfalls for any SQL Server professional who manipulates large sets of data with INSERT, UPDATE, and DELETE statements, and explore techniques you can use to improve performance.</Excerpt>
+    <PostDate>2023-02-25T00:00:00</PostDate>
+    <Id>1151</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/811838177/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=86cdad56a670400eb04f5c07829b901166efaee418747202cc0a7abca2058e41</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/811838177/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=fc12971db3394d51f2b9c36fbead20bc3a3c5066dce58d130462b32e9256dca7</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Jeff Iannucci</name>
+      <slug>jeff-iannucci</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin SQL Saturday</name>
+      <slug>austin-sql-saturday</slug>
+    </Groups>
+    <Groups>
+      <name>Austin Data User Group</name>
+      <slug>austin-data-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>SQL Performance</name>
+      <slug>sql-performance</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Ground to Cloud: Your Migration Success Checklist</Title>
+    <Url>https://usergroup.tv/videos/ground-to-cloud-your-migration-success-checklist/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1641442552-4d2977523438a5688fd5ec5c35c8ab1de5b26e0e6a46e4de8fa1e1215fbbfb5d-d_295x166</Thumbnail>
+    <Excerpt>Cloud migration projects are often massive projects with sprawling scopes. Even with experienced project leadership it can be very difficult to know that all preliminary preparations are complete. Worse yet, with such a large and complicated project, it can be very difficult to know when the project has actually been successfully completed. Don't you want some help sorting through this enormous pile of work? You need to zero in on the critical items that need to be prepared, executed, and completed to ensure a successful cloud migration project. Join an experienced cloud migration consultant for a targeted walkthrough of their cloud migration success checklist so you can make sure your project gets off to a good start and reaches a successful completion.</Excerpt>
+    <PostDate>2023-02-25T00:00:00</PostDate>
+    <Id>1152</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/811838102/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=adbf9bff17dba2fe5928ef6eb31b9a79617bdb618a2fecf4fce670966d870cfc</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/811838102/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=661783698068456ed0f465c6ae1fa1f746b87ce19547b3dc103bfda3148deedf</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Matt Gordon</name>
+      <slug>matt-gordon</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin SQL Saturday</name>
+      <slug>austin-sql-saturday</slug>
+    </Groups>
+    <Groups>
+      <name>Austin Data User Group</name>
+      <slug>austin-data-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Cloud</name>
+      <slug>cloud</slug>
+    </Tags>
+    <Tags>
+      <name>SQL</name>
+      <slug>sql</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>A Process for Securing SQL Server and Azure SQL DB Solutions</Title>
+    <Url>https://usergroup.tv/videos/a-process-for-securing-sql-server-and-azure-sql-db-solutions/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1641443485-4d8dddcbf930406a614ebd199bf427205a68a9ba963547f23e158eb0ce93605a-d_295x166</Thumbnail>
+    <Excerpt>In this session, Michael will explain how to design and develop secure SQL DB solutions using tried and tested security discipline. At the end of the session, you will have a much better understanding of the core elements for designing secure solutions.
+
+</Excerpt>
+    <PostDate>2023-02-25T00:00:00</PostDate>
+    <Id>1153</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/811838257/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=965ab8d2d90436aebfb5a5b1336e0cec4a6d7da312be2c5057c7af6509da9179</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/811838257/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=eb4e9745ba0cde7842682441556c736c78e459657ba0bc748bbbc587fcfbc9cf</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Michael Howard</name>
+      <slug>michael-howard</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin SQL Saturday</name>
+      <slug>austin-sql-saturday</slug>
+    </Groups>
+    <Groups>
+      <name>Austin Data User Group</name>
+      <slug>austin-data-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Security</name>
+      <slug>security</slug>
+    </Tags>
+    <Tags>
+      <name>SQL</name>
+      <slug>sql</slug>
+    </Tags>
+    <Tags>
+      <name>SQL Security</name>
+      <slug>sql-security</slug>
+    </Tags>
+    <Tags>
+      <name>SQL Azure</name>
+      <slug>sql-azure</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>SQL Server 2022: The hybrid data platform</Title>
+    <Url>https://usergroup.tv/videos/sql-server-2022-the-hybrid-data-platform/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1641443812-213594722fb8e216f96d405189e11a385edfbb19c97888bd2c50c719cb51aa58-d_295x166</Thumbnail>
+    <Excerpt>Come learn about the latest major release of SQL Server and its hybrid capabilities to connect to Azure. SQL Server has a proud tradition for innovation so this session will also cover built-in query intelligence, new engine capabilities, data virtualization, and T-SQL enhancements.
+
+</Excerpt>
+    <PostDate>2023-02-25T00:00:00</PostDate>
+    <Id>1154</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/811838319/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=3459b712f102177eca3b771965ed6b0afbe89e5d811ab611703a6147453cbc60</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/811838319/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=53f2b7f2f09f6f022cf2ad9a6ad460c70a74061e232a0d52e5a9f0cfde6550a5</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Bob Ward</name>
+      <slug>bob-ward</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin SQL Saturday</name>
+      <slug>austin-sql-saturday</slug>
+    </Groups>
+    <Groups>
+      <name>Austin Data User Group</name>
+      <slug>austin-data-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>SQL Server 2022</name>
+      <slug>sql-server-2022</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>From Zero to Hero on Synapse Spark pool</Title>
+    <Url>https://usergroup.tv/videos/from-zero-to-hero-on-synapse-spark-pool/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1641444136-6d80a80486b5b6e814e095586bb6d3a8d5827e44da9e3526cc156efb68c4d284-d_295x166</Thumbnail>
+    <Excerpt>The "no-code" approach of SQL server SSIS can find a close parallel in Synapse Transformation Pipelines. There are cases, though, when we do need to code some complex, out of the curve, very specific data transformations. In this session you will learn the foundations of Synapse Spark Pools and how to benefit from it through many demos.
+
+</Excerpt>
+    <PostDate>2023-02-25T00:00:00</PostDate>
+    <Id>1155</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/811838374/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=e1818343bbde3a9057edab29a7d92e29a69e5c6bbdda9d71f9cc3858a2feac42</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/811838374/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=e1753d79c2d34407e0e55bcd2dd9165a19c1350b915eac31393b3cfb6791b36a</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Armando Lacerda</name>
+      <slug>armando-lacerda</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin SQL Saturday</name>
+      <slug>austin-sql-saturday</slug>
+    </Groups>
+    <Groups>
+      <name>Austin Data User Group</name>
+      <slug>austin-data-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Azure Synapse</name>
+      <slug>azure-synapse</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Introduction to Azure Synapse</Title>
+    <Url>https://usergroup.tv/videos/introduction-to-azure-synapse/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1641444518-9e02e03c9c6230eedaafc4a8a7a5b4108b1f7457dc9a1ccc3dbc30df1440440e-d_295x166</Thumbnail>
+    <Excerpt>The purpose of this session is to provide a good overview of exactly what is Synapse and is primary features it offers. This session includes demonstrations.
+
+</Excerpt>
+    <PostDate>2023-02-25T00:00:00</PostDate>
+    <Id>1156</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/811838436/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=3ade58ccb3c013fa207b11434025294e1e879d5531a87197b307ee7312754aa4</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/811838436/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=a393ed780dc92883e27741c6f796497ffd9f28f46df9035583bd1cfa6beb83e0</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Warren Sifre</name>
+      <slug>warren-sifre</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin SQL Saturday</name>
+      <slug>austin-sql-saturday</slug>
+    </Groups>
+    <Groups>
+      <name>Austin Data User Group</name>
+      <slug>austin-data-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Azure Synapse</name>
+      <slug>azure-synapse</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Why You Should Be Standing Here: Learning to Present a Session</Title>
+    <Url>https://usergroup.tv/videos/why-you-should-be-standing-here-learning-to-present-a-session/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1641445056-740dd43e77c3b5bc07aebb76762f8b075d630d8a1d2692a4c986f69dd47a7ee3-d_295x166</Thumbnail>
+    <Excerpt>You should know how to present a session. In fact, you should be standing up on the stage where I will be standing while presenting this session. It's not about becoming an industry expert, an MVP or an AWS Community Builder. No, it's about learning how to take an idea to your management team and convince them that you can help the business. It's about teaching new techniques to your peers. It's about expanding your own knowledge on a topic as you prepare a session, present it, and then answer questions. There are very good, career driven, reasons for you to learn to present.
+
+This session will go over how to put together a session. From choosing meaningful titles to putting together abstracts, you'll get the information you need to get started. We'll discuss how to build the slides, demonstrations, and more. You'll learn about how to rehearse to get ready for your session. Finally, we'll cover actually giving the session, handling questions, hecklers and other points.
+
+You should be standing at the front of the room, giving your own session. Please, come here, learn why, and learn how. It will help you in your career.</Excerpt>
+    <PostDate>2023-02-25T00:00:00</PostDate>
+    <Id>1157</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/811838490/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=0e998fd08fed3933f7972aeed375a7fcb14a4ed5e1cded3ac954dbabad9e346a</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/811838490/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=ca64e7393363e5e3b52e2b812f48fefc0b0a88b64e36b522794fe8baa4a82e39</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Grant Fritchey</name>
+      <slug>grant-fritchey</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin SQL Saturday</name>
+      <slug>austin-sql-saturday</slug>
+    </Groups>
+    <Groups>
+      <name>Austin Data User Group</name>
+      <slug>austin-data-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Public speaking</name>
+      <slug>public-speaking</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Measure Killer</Title>
+    <Url>https://usergroup.tv/videos/measure-killer/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1641445566-85a8e520172d43ff25832cccc947865d228382333ba2365856711e8dac6f401c-d_295x166</Thumbnail>
+    <Excerpt>"Measure Killer" is a new External Tool for MS Power BI that helps you clean up your Power BI tenant by identifying unused artifacts in your datasets.
+
+In this session we will show you what the most use cases are and the biggest features of MK.
+
+Thanks to great feedback from the Power BI community we are developing it further and adding more features.
+
+Currently you can identify unused columns and measures and "kill" them using Measure Killer.
+Additionally, you will get a nice overview of how large (storage) your unused columns are.
+
+Measure Killer can also generate two Excel reports that will give you detailed information on where and which artifacts (columns, measures) of your report are used.
+
+Since version 0.9 Measure Killer can also analyze shared datasets (and thus live/thin reports)
+
+For more information, check out:
+http://www.measurekiller.com
+
+It is also available in the Microsoft store. (https://apps.microsoft.com/store/detail/XP8JN7N3RG4N6H).</Excerpt>
+    <PostDate>2023-03-08T00:00:00</PostDate>
+    <Id>1158</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/811838595/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=c45b73b21d5a9968109e31971c5c5312ebaf801a9b5134bb369497438889157e</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/811838595/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=db8ab07dc2ec6de86fd356dc51e9d48d6b9da277c3d1c2887edb332d94f67a53</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Gregor Brunner</name>
+      <slug>gregor-brunner</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Measure Killer</name>
+      <slug>measure-killer</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Microsoft Modern Data Estate &amp; Azure Synapse Link</Title>
+    <Url>https://usergroup.tv/videos/microsoft-modern-data-estate-azure-synapse-link/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1641445780-f4fc2169f48f66811133e3dce718ba42ee2beca9534edebd07f8930bc4283985-d_295x166</Thumbnail>
+    <Excerpt>Session focus to provide an overview of Microsoft modern data estate and the use of the Azure Synapse Link technology to reduce their time to insight over their data. This framework and tools help to bridge the gap between transactional systems and analytics systems satisfying the need to not negatively impact transactional performance while also providing analytics and warehouse platforms with near-real time visibility to changes in transactional systems. Azure Synapse link services will help to make data pipelines more flexible while reducing customer TCO to maintain data feeds.
+
+</Excerpt>
+    <PostDate>2023-03-21T00:00:00</PostDate>
+    <Id>1159</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/811842009/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=783fcc7649635e0950cd477a0ce836757a906dd919a548d930c923f182a485be</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/811842009/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=1bd27c371a95ed94e5dc9ada9a7c66c0b252210c05c3760d3e83fced1c9764fb</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Cory Brown</name>
+      <slug>cory-brown</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>Capitol Area Central Texas Users of SQL Server</name>
+      <slug>capitol-area-central-texas-users-of-sql-server</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
+    <Groups>
+      <name>Austin Data User Group</name>
+      <slug>austin-data-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Azure Synapse</name>
+      <slug>azure-synapse</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

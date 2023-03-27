@@ -5,9 +5,31 @@
   ],
   "type": "tag",
   "slug": "cloud",
-  "date": "2022-04-14T00:00:00",
+  "date": "2023-02-25T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Ground to Cloud: Your Migration Success Checklist",
+      "slug": "ground-to-cloud-your-migration-success-checklist",
+      "thumbnail": "https://i.vimeocdn.com/video/1641442552-4d2977523438a5688fd5ec5c35c8ab1de5b26e0e6a46e4de8fa1e1215fbbfb5d-d_295x166",
+      "date": "2023-02-25T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin SQL Saturday",
+          "slug": "austin-sql-saturday"
+        },
+        {
+          "name": "Austin Data User Group",
+          "slug": "austin-data-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Matt Gordon",
+          "slug": "matt-gordon"
+        }
+      ]
+    },
     {
       "title": "Governance: The forgotten key to managing Cloud",
       "slug": "governance-the-forgotten-key-to-managing-cloud",

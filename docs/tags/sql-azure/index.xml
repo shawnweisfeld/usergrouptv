@@ -6,22 +6,31 @@
     <description>Recent content in SQL Azure on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jul 2019 13:44:10 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql-azure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql-azure/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Azure SQL Managed Instance the New Hotness</title>
-      <link>https://usergroup.tv/videos/azure-sql-managed-instance-the-new-hotness-3/</link>
-      <pubDate>Sat, 13 Jul 2019 13:44:10 +0000</pubDate>
+      <title>A Process for Securing SQL Server and Azure SQL DB Solutions</title>
+      <link>https://usergroup.tv/videos/a-process-for-securing-sql-server-and-azure-sql-db-solutions/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://usergroup.tv/videos/azure-sql-managed-instance-the-new-hotness-3/</guid>
+      <guid>https://usergroup.tv/videos/a-process-for-securing-sql-server-and-azure-sql-db-solutions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SQL Azure</title>
       <link>https://usergroup.tv/videos/tag/sql-azure/</link>
-      <pubDate>Sat, 13 Jul 2019 13:44:10 +0000</pubDate>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/sql-azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure SQL Managed Instance the New Hotness</title>
+      <link>https://usergroup.tv/videos/azure-sql-managed-instance-the-new-hotness-3/</link>
+      <pubDate>Sat, 13 Jul 2019 13:44:10 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/azure-sql-managed-instance-the-new-hotness-3/</guid>
       <description></description>
     </item>
     

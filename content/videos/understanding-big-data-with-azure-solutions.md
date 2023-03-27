@@ -50,7 +50,7 @@
     {
       "name": "Azure Synapse",
       "slug": "azure-synapse",
-      "count": 1
+      "count": 4
     },
     {
       "name": "Azure Data Factory",

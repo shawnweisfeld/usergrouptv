@@ -22,8 +22,8 @@
     {
       "name": "Grant Fritchey",
       "slug": "grant-fritchey",
-      "bio": "Grant Fritchey is a SQL Server MVP with over 20 years’ experience in IT, including time spent in support and development. He has worked with SQL Server since 6.0, back in 1995. He has developed in VB, VB.Net, C# and Java. Grant volunteers at PASS. He has authored books for Apress and Simple-Talk, and joined Red Gate Software as a Product Evangelist in January 2011.",
-      "count": 1
+      "bio": "Grant Fritchey is a Data Platform MVP and AWS Community Builder with over 30 years’ experience in IT, including time spent in support and development. He has worked with SQL Server since 6.0 back in 1995. He has also developed in VB, VB.NET, C#, and Java. Grant has written books for Apress and Simple-Talk. Grant presents at conferences and user groups, large and small, all over the world. He joined Redgate Software as a product advocate in January 2011.",
+      "count": 2
     }
   ],
   "ugtvtags": [

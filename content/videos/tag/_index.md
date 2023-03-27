@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2023-02-19T14:09:24.2537833Z",
+  "date": "2023-03-27T01:20:11.5548348Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -413,9 +413,9 @@
     {
       "title": "Azure Synapse",
       "slug": "azure-synapse",
-      "thumbnail": "https://i.vimeocdn.com/video/1551440825-e4a86014bf7e99bf9241e4802378884372c87d3dfdc2bd9ce298784b9c8ada34-d_295x166",
-      "date": "2022-11-10T00:00:00",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1641445780-f4fc2169f48f66811133e3dce718ba42ee2beca9534edebd07f8930bc4283985-d_295x166",
+      "date": "2023-03-21T00:00:00",
+      "count": 4
     },
     {
       "title": "Azure Virtual Desktop",
@@ -644,9 +644,9 @@
     {
       "title": "Cloud",
       "slug": "cloud",
-      "thumbnail": "https://i.vimeocdn.com/video/1419976547-cfeb785a6c0eb3082e2aa527349c72e44ebdebf8832f9f51520be005c986f56c-d_295x166",
-      "date": "2022-04-14T00:00:00",
-      "count": 9
+      "thumbnail": "https://i.vimeocdn.com/video/1641442552-4d2977523438a5688fd5ec5c35c8ab1de5b26e0e6a46e4de8fa1e1215fbbfb5d-d_295x166",
+      "date": "2023-02-25T00:00:00",
+      "count": 10
     },
     {
       "title": "Cloud Security",
@@ -756,9 +756,9 @@
     {
       "title": "Cosmos DB",
       "slug": "cosmos-db",
-      "thumbnail": "https://i.vimeocdn.com/video/1120787910-580db3b86e612c9aa8ed6c5876a51c377a2b257ce15e8963070310663f0e23a7-d_295x166",
-      "date": "2021-04-20T00:00:00",
-      "count": 9
+      "thumbnail": "https://i.vimeocdn.com/video/1641445327-4e9e095d0b2a4316d3ac0129abeaf95fe7d32d77b7e3f166fc50e4d4bc5a42dc-d_295x166",
+      "date": "2023-02-21T00:00:00",
+      "count": 10
     },
     {
       "title": "CQRS",
@@ -1783,6 +1783,13 @@
       "count": 1
     },
     {
+      "title": "Measure Killer",
+      "slug": "measure-killer",
+      "thumbnail": "https://i.vimeocdn.com/video/1641445566-85a8e520172d43ff25832cccc947865d228382333ba2365856711e8dac6f401c-d_295x166",
+      "date": "2023-03-08T00:00:00",
+      "count": 1
+    },
+    {
       "title": "MEF",
       "slug": "mef",
       "thumbnail": "https://i.vimeocdn.com/video/498383893-38570f248a5ed32feaeded5c7df5ffb31215fc1a2b8e38469bce0f6471d79a81-d_295x166",
@@ -2359,9 +2366,9 @@
     {
       "title": "Public speaking",
       "slug": "public-speaking",
-      "thumbnail": "https://i.vimeocdn.com/video/651773977-2c5a51f6ff10672aae99e2eb2956486a372c63f3027bf8ce9d462431350e1566-d_295x166",
-      "date": "2017-08-04T14:26:53",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1641445056-740dd43e77c3b5bc07aebb76762f8b075d630d8a1d2692a4c986f69dd47a7ee3-d_295x166",
+      "date": "2023-02-25T00:00:00",
+      "count": 2
     },
     {
       "title": "Purview",
@@ -2534,9 +2541,9 @@
     {
       "title": "Security",
       "slug": "security",
-      "thumbnail": "https://i.vimeocdn.com/video/1393024084-ca25a22f0df6885bb8f34df945284203ac499c2d129412f94c08e33b8013666f-d_295x166",
-      "date": "2022-03-10T00:00:00",
-      "count": 6
+      "thumbnail": "https://i.vimeocdn.com/video/1641443485-4d8dddcbf930406a614ebd199bf427205a68a9ba963547f23e158eb0ce93605a-d_295x166",
+      "date": "2023-02-25T00:00:00",
+      "count": 7
     },
     {
       "title": "Selenium",
@@ -2688,9 +2695,9 @@
     {
       "title": "SQL",
       "slug": "sql",
-      "thumbnail": "https://i.vimeocdn.com/video/1551442769-55f5dfd58705d295b70446175909363881a589eb821106ef5f96929987123ba1-d_295x166",
-      "date": "2022-11-15T00:00:00",
-      "count": 26
+      "thumbnail": "https://i.vimeocdn.com/video/1641442552-4d2977523438a5688fd5ec5c35c8ab1de5b26e0e6a46e4de8fa1e1215fbbfb5d-d_295x166",
+      "date": "2023-02-25T00:00:00",
+      "count": 28
     },
     {
       "title": "SQL Admin",
@@ -2716,9 +2723,9 @@
     {
       "title": "SQL Azure",
       "slug": "sql-azure",
-      "thumbnail": "https://i.vimeocdn.com/video/798691939-2afa55ae3cc6d1e00ad865f531bf2440046b796029efc4c8e9b8ce8d686c32e9-d_295x166",
-      "date": "2019-07-13T13:44:10",
-      "count": 5
+      "thumbnail": "https://i.vimeocdn.com/video/1641443485-4d8dddcbf930406a614ebd199bf427205a68a9ba963547f23e158eb0ce93605a-d_295x166",
+      "date": "2023-02-25T00:00:00",
+      "count": 6
     },
     {
       "title": "SQL Backup",
@@ -2793,9 +2800,9 @@
     {
       "title": "SQL Performance",
       "slug": "sql-performance",
-      "thumbnail": "https://i.vimeocdn.com/video/1439482168-e84fd0ff1dbfc8a6184c56a53ab256716bc5706547531ca5bf644eb1db060f79-d_295x166",
-      "date": "2022-05-17T00:00:00",
-      "count": 19
+      "thumbnail": "https://i.vimeocdn.com/video/1641442928-b706ec57b6a4f044d443440898fc56b3490b770862d5bb46398a3915256b3fc6-d_295x166",
+      "date": "2023-02-25T00:00:00",
+      "count": 20
     },
     {
       "title": "SQL Policy Based Mgmt",
@@ -2807,16 +2814,16 @@
     {
       "title": "SQL Security",
       "slug": "sql-security",
-      "thumbnail": "https://i.vimeocdn.com/video/722234125-6d3b2ce4dfb635b4b4f2af31ea047c0f64f0c4941481ac7b04f357c30254edfe-d_295x166",
-      "date": "2018-08-25T19:25:44",
-      "count": 6
+      "thumbnail": "https://i.vimeocdn.com/video/1641443485-4d8dddcbf930406a614ebd199bf427205a68a9ba963547f23e158eb0ce93605a-d_295x166",
+      "date": "2023-02-25T00:00:00",
+      "count": 7
     },
     {
       "title": "SQL Server",
       "slug": "sql-server",
-      "thumbnail": "https://i.vimeocdn.com/video/980844918-beb054c71fc1d2c2e628d251ae8a0959a6192aecff06475077513364c59786d1-d_295x166",
-      "date": "2020-10-20T00:00:00",
-      "count": 12
+      "thumbnail": "https://i.vimeocdn.com/video/1641442393-292a6829adb02b7d0d27ddd3ac233e4e7edd2f0012010f9c90d6a052b13618d6-d_295x166",
+      "date": "2023-02-25T00:00:00",
+      "count": 13
     },
     {
       "title": "SQL Server 2017",
@@ -2824,6 +2831,13 @@
       "thumbnail": "https://i.vimeocdn.com/video/702668038-e2ac794eb2479a848577b10d0b5b1cdfd17ab97abb3b4def4a96f51314b6509b-d_295x166",
       "date": "2018-05-19T23:04:05",
       "count": 3
+    },
+    {
+      "title": "SQL Server 2022",
+      "slug": "sql-server-2022",
+      "thumbnail": "https://i.vimeocdn.com/video/1641443812-213594722fb8e216f96d405189e11a385edfbb19c97888bd2c50c719cb51aa58-d_295x166",
+      "date": "2023-02-25T00:00:00",
+      "count": 7
     },
     {
       "title": "SQL Server Reporting Services",

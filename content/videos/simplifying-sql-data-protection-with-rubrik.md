@@ -30,7 +30,7 @@
     {
       "name": "SQL Security",
       "slug": "sql-security",
-      "count": 6
+      "count": 7
     }
   ],
   "meetups": [

@@ -6,7 +6,115 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Feb 2023 14:09:24 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Mar 2023 01:20:11 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Synapse</title>
+      <link>https://usergroup.tv/videos/tag/azure-synapse/</link>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure-synapse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measure Killer</title>
+      <link>https://usergroup.tv/videos/tag/measure-killer/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/measure-killer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud</title>
+      <link>https://usergroup.tv/videos/tag/cloud/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public speaking</title>
+      <link>https://usergroup.tv/videos/tag/public-speaking/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/public-speaking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://usergroup.tv/videos/tag/security/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://usergroup.tv/videos/tag/sql/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Azure</title>
+      <link>https://usergroup.tv/videos/tag/sql-azure/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql-azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Performance</title>
+      <link>https://usergroup.tv/videos/tag/sql-performance/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Security</title>
+      <link>https://usergroup.tv/videos/tag/sql-security/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server</title>
+      <link>https://usergroup.tv/videos/tag/sql-server/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server 2022</title>
+      <link>https://usergroup.tv/videos/tag/sql-server-2022/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql-server-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cosmos DB</title>
+      <link>https://usergroup.tv/videos/tag/cosmos-db/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/cosmos-db/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>dax</title>
       <link>https://usergroup.tv/videos/tag/dax/</link>
@@ -89,15 +197,6 @@
     </item>
     
     <item>
-      <title>SQL</title>
-      <link>https://usergroup.tv/videos/tag/sql/</link>
-      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/sql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Azure Data Factory</title>
       <link>https://usergroup.tv/videos/tag/azure-data-factory/</link>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
@@ -112,15 +211,6 @@
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/azure-data-lake/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure Synapse</title>
-      <link>https://usergroup.tv/videos/tag/azure-synapse/</link>
-      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/azure-synapse/</guid>
       <description></description>
     </item>
     
@@ -359,15 +449,6 @@
     </item>
     
     <item>
-      <title>SQL Performance</title>
-      <link>https://usergroup.tv/videos/tag/sql-performance/</link>
-      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/sql-performance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cloud Security</title>
       <link>https://usergroup.tv/videos/tag/cloud-security/</link>
       <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
@@ -400,15 +481,6 @@
       <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/storage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cloud</title>
-      <link>https://usergroup.tv/videos/tag/cloud/</link>
-      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/cloud/</guid>
       <description></description>
     </item>
     
@@ -454,15 +526,6 @@
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/cybersecurity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Security</title>
-      <link>https://usergroup.tv/videos/tag/security/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/security/</guid>
       <description></description>
     </item>
     
@@ -818,15 +881,6 @@
     </item>
     
     <item>
-      <title>Cosmos DB</title>
-      <link>https://usergroup.tv/videos/tag/cosmos-db/</link>
-      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/cosmos-db/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Database</title>
       <link>https://usergroup.tv/videos/tag/database/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
@@ -985,15 +1039,6 @@
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/visual-studio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQL Server</title>
-      <link>https://usergroup.tv/videos/tag/sql-server/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/sql-server/</guid>
       <description></description>
     </item>
     
@@ -1313,15 +1358,6 @@
     </item>
     
     <item>
-      <title>SQL Azure</title>
-      <link>https://usergroup.tv/videos/tag/sql-azure/</link>
-      <pubDate>Sat, 13 Jul 2019 13:44:10 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/sql-azure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>bots</title>
       <link>https://usergroup.tv/videos/tag/bots/</link>
       <pubDate>Wed, 10 Jul 2019 13:40:57 +0000</pubDate>
@@ -1525,15 +1561,6 @@
       <pubDate>Sat, 25 Aug 2018 19:30:52 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/tableau/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQL Security</title>
-      <link>https://usergroup.tv/videos/tag/sql-security/</link>
-      <pubDate>Sat, 25 Aug 2018 19:25:44 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/sql-security/</guid>
       <description></description>
     </item>
     
@@ -2110,15 +2137,6 @@
       <pubDate>Sat, 05 Aug 2017 14:30:29 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/webhosting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Public speaking</title>
-      <link>https://usergroup.tv/videos/tag/public-speaking/</link>
-      <pubDate>Fri, 04 Aug 2017 14:26:53 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/public-speaking/</guid>
       <description></description>
     </item>
     

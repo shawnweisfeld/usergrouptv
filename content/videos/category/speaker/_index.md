@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2023-02-19T14:09:22.0535481Z",
+  "date": "2023-03-27T01:20:08.810687Z",
   "draft": false,
   "speakers": [
     {
@@ -306,6 +306,13 @@
       "count": 1
     },
     {
+      "title": "Armando Lacerda",
+      "slug": "armando-lacerda",
+      "thumbnail": "https://i.vimeocdn.com/video/1641444136-6d80a80486b5b6e814e095586bb6d3a8d5827e44da9e3526cc156efb68c4d284-d_295x166",
+      "date": "2023-02-25T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Asa Hutchinson",
       "slug": "asa-hutchinson",
       "thumbnail": "https://i.vimeocdn.com/video/540279596-822c517e70aa72dc1174c3f326b38369ac5f1b71de76a012737289db1b6049da-d_295x166",
@@ -420,9 +427,9 @@
     {
       "title": "Bob Ward",
       "slug": "bob-ward",
-      "thumbnail": "https://i.vimeocdn.com/video/1609321925-54c023868843661b054fe9e0223953d7b60ab5f872ce15f91556ad4f0f22bf10-d_295x166",
-      "date": "2023-01-17T00:00:00",
-      "count": 6
+      "thumbnail": "https://i.vimeocdn.com/video/1641443812-213594722fb8e216f96d405189e11a385edfbb19c97888bd2c50c719cb51aa58-d_295x166",
+      "date": "2023-02-25T00:00:00",
+      "count": 13
     },
     {
       "title": "Bonas Khanal",
@@ -875,9 +882,9 @@
     {
       "title": "Conor Cunningham",
       "slug": "conor-cunningham",
-      "thumbnail": "https://i.vimeocdn.com/video/505668502-7a3a45235345ad36062f8e87ec12f2213d8ff4eed47ed2aada581aecde112815-d_295x166",
-      "date": "2015-01-31T23:18:51",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1641442393-292a6829adb02b7d0d27ddd3ac233e4e7edd2f0012010f9c90d6a052b13618d6-d_295x166",
+      "date": "2023-02-25T00:00:00",
+      "count": 2
     },
     {
       "title": "Cori Drew",
@@ -903,9 +910,9 @@
     {
       "title": "Cory Brown",
       "slug": "cory-brown",
-      "thumbnail": "https://i.vimeocdn.com/video/796753473-0b5734dd4a892d8cc9cafbffb70b92e5011abaa4ce715c10eb4aae86eb63d4a6-d_295x166",
-      "date": "2019-06-23T16:21:23",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1641445780-f4fc2169f48f66811133e3dce718ba42ee2beca9534edebd07f8930bc4283985-d_295x166",
+      "date": "2023-03-21T00:00:00",
+      "count": 2
     },
     {
       "title": "Cory Smith",
@@ -1456,9 +1463,9 @@
     {
       "title": "Grant Fritchey",
       "slug": "grant-fritchey",
-      "thumbnail": "https://i.vimeocdn.com/video/488131611-dade1b629ff630130ef38622e201b641b3f69c1d860f9573009af24486af987e-d_295x166",
-      "date": "2012-08-25T21:54:32",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1641445056-740dd43e77c3b5bc07aebb76762f8b075d630d8a1d2692a4c986f69dd47a7ee3-d_295x166",
+      "date": "2023-02-25T00:00:00",
+      "count": 2
     },
     {
       "title": "Greg Allbright",
@@ -1486,6 +1493,13 @@
       "slug": "greg-jordan",
       "thumbnail": "https://i.vimeocdn.com/video/660049778-5b08134a73c71f5903cc43548ba6d23d2d75669ec83161ad51265ad47e033506-d_295x166",
       "date": "2017-10-06T22:27:23",
+      "count": 1
+    },
+    {
+      "title": "Gregor Brunner",
+      "slug": "gregor-brunner",
+      "thumbnail": "https://i.vimeocdn.com/video/1641445566-85a8e520172d43ff25832cccc947865d228382333ba2365856711e8dac6f401c-d_295x166",
+      "date": "2023-03-08T00:00:00",
       "count": 1
     },
     {
@@ -1815,6 +1829,13 @@
       "slug": "jeff-brown",
       "thumbnail": "https://i.vimeocdn.com/video/739834214-f96ab2127fb4e681b8de0f988d72f02dc938ada7066dc7583989aebe9c59cfc6-d_295x166",
       "date": "2018-11-15T16:56:12",
+      "count": 1
+    },
+    {
+      "title": "Jeff Iannucci",
+      "slug": "jeff-iannucci",
+      "thumbnail": "https://i.vimeocdn.com/video/1641442928-b706ec57b6a4f044d443440898fc56b3490b770862d5bb46398a3915256b3fc6-d_295x166",
+      "date": "2023-02-25T00:00:00",
       "count": 1
     },
     {
@@ -2660,9 +2681,9 @@
     {
       "title": "Mark Moore",
       "slug": "mark-moore",
-      "thumbnail": "https://i.vimeocdn.com/video/1439482341-746b77f4c0cb4e0b9d020eb6bbe4c46ee1f3af3d987aeae19fe0d567e25fa8a3-d_295x166",
-      "date": "2022-05-17T00:00:00",
-      "count": 6
+      "thumbnail": "https://i.vimeocdn.com/video/1641445327-4e9e095d0b2a4316d3ac0129abeaf95fe7d32d77b7e3f166fc50e4d4bc5a42dc-d_295x166",
+      "date": "2023-02-21T00:00:00",
+      "count": 7
     },
     {
       "title": "Mark Rackley",
@@ -2765,9 +2786,9 @@
     {
       "title": "Matt Gordon",
       "slug": "matt-gordon",
-      "thumbnail": "https://i.vimeocdn.com/video/854627684-3c1e89251aacfcaf47ab61e4c0d6844e49d478d892fb67dc8a9b79d75fb45b19-d_295x166",
-      "date": "2020-02-08T16:08:46",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1641442552-4d2977523438a5688fd5ec5c35c8ab1de5b26e0e6a46e4de8fa1e1215fbbfb5d-d_295x166",
+      "date": "2023-02-25T00:00:00",
+      "count": 2
     },
     {
       "title": "Matt Hester",
@@ -2900,6 +2921,13 @@
       "slug": "michael-hotek",
       "thumbnail": "https://i.vimeocdn.com/video/488131594-f005b339e4df0d6462917c544581d908bf9b0319dfec49c19e15c2ce330e6e84-d_295x166",
       "date": "2012-08-25T22:00:47",
+      "count": 1
+    },
+    {
+      "title": "Michael Howard",
+      "slug": "michael-howard",
+      "thumbnail": "https://i.vimeocdn.com/video/1641443485-4d8dddcbf930406a614ebd199bf427205a68a9ba963547f23e158eb0ce93605a-d_295x166",
+      "date": "2023-02-25T00:00:00",
       "count": 1
     },
     {
@@ -4377,6 +4405,13 @@
       "slug": "walter-bodwell",
       "thumbnail": "https://i.vimeocdn.com/video/820031540-5e25707e4034139a7cbd1b5b48a4bbd0a70f253daa2dd522123944735b519db1-d_295x166",
       "date": "2019-10-04T16:48:04",
+      "count": 1
+    },
+    {
+      "title": "Warren Sifre",
+      "slug": "warren-sifre",
+      "thumbnail": "https://i.vimeocdn.com/video/1641444518-9e02e03c9c6230eedaafc4a8a7a5b4108b1f7457dc9a1ccc3dbc30df1440440e-d_295x166",
+      "date": "2023-02-25T00:00:00",
       "count": 1
     },
     {

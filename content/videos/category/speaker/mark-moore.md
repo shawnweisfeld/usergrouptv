@@ -5,10 +5,36 @@
   ],
   "type": "speaker",
   "slug": "mark-moore",
-  "date": "2022-05-17T00:00:00",
+  "date": "2023-02-21T00:00:00",
   "draft": false,
   "bio": "Mark Moore is a Cloud Solution Architect at Microsoft, Mark has been in the industry for 35+ years and has been with Microsoft for the past 27 years. Mark resides in the DFW area.",
   "recordings": [
+    {
+      "title": "Intro to Cosmos DB",
+      "slug": "intro-to-cosmos-db",
+      "thumbnail": "https://i.vimeocdn.com/video/1641445327-4e9e095d0b2a4316d3ac0129abeaf95fe7d32d77b7e3f166fc50e4d4bc5a42dc-d_295x166",
+      "date": "2023-02-21T00:00:00",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cosmos DB",
+          "slug": "cosmos-db"
+        }
+      ]
+    },
     {
       "title": "Azure Data Factory",
       "slug": "azure-data-factory",

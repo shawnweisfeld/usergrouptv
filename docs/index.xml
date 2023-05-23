@@ -6,7 +6,7 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 May 2023 11:50:51 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 May 2023 12:06:19 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ashish Talati</title>
       <link>https://usergroup.tv/videos/category/speaker/ashish-talati/</link>
@@ -103,15 +103,6 @@
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/developer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DFW Mobile .NET</title>
-      <link>https://usergroup.tv/videos/category/group/dfw-mobile-net/</link>
-      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/dfw-mobile-net/</guid>
       <description></description>
     </item>
     
@@ -14101,6 +14092,15 @@ What do we use your information for?</description>
       <pubDate>Wed, 13 May 2015 13:21:34 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/add-a-cloud-backend-to-your-app-in-minutes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFW Mobile .NET</title>
+      <link>https://usergroup.tv/videos/category/group/dfw-mobile-net/</link>
+      <pubDate>Wed, 13 May 2015 13:21:34 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/dfw-mobile-net/</guid>
       <description></description>
     </item>
     

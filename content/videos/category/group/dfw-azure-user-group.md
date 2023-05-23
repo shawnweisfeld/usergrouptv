@@ -27,6 +27,24 @@
       ]
     },
     {
+      "title": "Sharpening Our Skills",
+      "slug": "sharpening-our-skills",
+      "thumbnail": "https://i.vimeocdn.com/video/1673739702-835cfcc893e97919c34bda82ca2f5b59971977cec54e2594bf047aed7649a09b-d_295x166",
+      "date": "2023-04-18T00:00:00",
+      "speakers": [
+        {
+          "name": "Eric Sowell",
+          "slug": "eric-sowell"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
+        }
+      ]
+    },
+    {
       "title": "Microsoft Modern Data Estate & Azure Synapse Link",
       "slug": "microsoft-modern-data-estate-azure-synapse-link",
       "thumbnail": "https://i.vimeocdn.com/video/1641445780-f4fc2169f48f66811133e3dce718ba42ee2beca9534edebd07f8930bc4283985-d_295x166",

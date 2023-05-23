@@ -15,12 +15,12 @@
       "date": "2023-04-18T00:00:00",
       "meetups": [
         {
-          "name": "DFW Mobile .NET",
-          "slug": "dfw-mobile-net"
-        },
-        {
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
         }
       ],
       "speakers": [

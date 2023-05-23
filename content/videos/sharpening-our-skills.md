@@ -35,14 +35,14 @@
   ],
   "meetups": [
     {
-      "name": "DFW Mobile .NET",
-      "slug": "dfw-mobile-net",
-      "count": 2
-    },
-    {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
       "count": 69
+    },
+    {
+      "name": "DFW Azure User Group",
+      "slug": "dfw-azure-user-group",
+      "count": 32
     }
   ]
 }

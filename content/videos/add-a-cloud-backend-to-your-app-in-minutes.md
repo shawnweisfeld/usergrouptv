@@ -37,7 +37,7 @@
     {
       "name": "DFW Mobile .NET",
       "slug": "dfw-mobile-net",
-      "count": 2
+      "count": 1
     }
   ]
 }

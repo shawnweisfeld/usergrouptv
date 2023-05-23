@@ -1,7 +1,7 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2023-05-23T11:50:51.6945687Z",
+  "date": "2023-05-23T12:06:19.4032175Z",
   "draft": false,
   "recordingCount": "1,157",
   "speakerCount": "643",
@@ -76,12 +76,12 @@
       ],
       "meetups": [
         {
-          "name": "DFW Mobile .NET",
-          "slug": "dfw-mobile-net"
-        },
-        {
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
         }
       ],
       "tags": [

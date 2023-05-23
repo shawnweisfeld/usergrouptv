@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2023-05-23T11:50:53.507055Z",
+  "date": "2023-05-23T12:06:21.264196Z",
   "draft": false,
   "meetups": [
     {
@@ -275,7 +275,7 @@
       "slug": "dfw-azure-user-group",
       "thumbnail": "https://i.vimeocdn.com/video/1673740176-3b2a01e2883d5ddab68e42e9138e863d94aa4f43a0fa1bf27d78245bfa763a24-d_295x166",
       "date": "2023-05-16T00:00:00",
-      "count": 31
+      "count": 32
     },
     {
       "title": "DFW C++ User Group",
@@ -287,9 +287,9 @@
     {
       "title": "DFW Mobile .NET",
       "slug": "dfw-mobile-net",
-      "thumbnail": "https://i.vimeocdn.com/video/1673739702-835cfcc893e97919c34bda82ca2f5b59971977cec54e2594bf047aed7649a09b-d_295x166",
-      "date": "2023-04-18T00:00:00",
-      "count": 2
+      "thumbnail": "https://i.vimeocdn.com/video/519304884-89b383e2dd93852d5f6c37956b655dbc3ade20ce7582ca3f1ed8d534622f6ef9-d_295x166",
+      "date": "2015-05-13T13:21:34",
+      "count": 1
     },
     {
       "title": "Ft. Worth .NET UG",

@@ -29442,12 +29442,12 @@ On Tuesday night, we're going to explore this. The core of our discussion will b
       <slug>eric-sowell</slug>
     </Speakers>
     <Groups>
-      <name>DFW Mobile .NET</name>
-      <slug>dfw-mobile-net</slug>
-    </Groups>
-    <Groups>
       <name>Azure Austin Meetup</name>
       <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
     </Groups>
     <Tags>
       <name>Developer</name>

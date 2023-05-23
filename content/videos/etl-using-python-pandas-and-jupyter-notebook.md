@@ -37,7 +37,7 @@
     {
       "name": "Jupyter Notebook",
       "slug": "jupyter-notebook",
-      "count": 1
+      "count": 2
     },
     {
       "name": "ETL",

@@ -5,9 +5,31 @@
   ],
   "type": "tag",
   "slug": "developer",
-  "date": "2019-07-08T13:36:37",
+  "date": "2023-04-18T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Sharpening Our Skills",
+      "slug": "sharpening-our-skills",
+      "thumbnail": "https://i.vimeocdn.com/video/1673739702-835cfcc893e97919c34bda82ca2f5b59971977cec54e2594bf047aed7649a09b-d_295x166",
+      "date": "2023-04-18T00:00:00",
+      "meetups": [
+        {
+          "name": "DFW Mobile .NET",
+          "slug": "dfw-mobile-net"
+        },
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Eric Sowell",
+          "slug": "eric-sowell"
+        }
+      ]
+    },
     {
       "title": "Modern Windows developer",
       "slug": "modern-windows-developer",

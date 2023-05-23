@@ -1,7 +1,7 @@
 {
   "title": "Meetups",
   "type": "meetup",
-  "date": "2023-03-27T01:20:14.2849503Z",
+  "date": "2023-05-23T11:50:53.507055Z",
   "draft": false,
   "meetups": [
     {
@@ -119,9 +119,9 @@
     {
       "title": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1641445566-85a8e520172d43ff25832cccc947865d228382333ba2365856711e8dac6f401c-d_295x166",
-      "date": "2023-03-08T00:00:00",
-      "count": 38
+      "thumbnail": "https://i.vimeocdn.com/video/1673740025-a78c79c0b0017b01764218d254db8642688d718fbb7fe597b2cf557621f62b21-d_295x166",
+      "date": "2023-05-10T00:00:00",
+      "count": 40
     },
     {
       "title": "Austin SQL Saturday",
@@ -140,9 +140,9 @@
     {
       "title": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "thumbnail": "https://i.vimeocdn.com/video/1641445780-f4fc2169f48f66811133e3dce718ba42ee2beca9534edebd07f8930bc4283985-d_295x166",
-      "date": "2023-03-21T00:00:00",
-      "count": 67
+      "thumbnail": "https://i.vimeocdn.com/video/1673740176-3b2a01e2883d5ddab68e42e9138e863d94aa4f43a0fa1bf27d78245bfa763a24-d_295x166",
+      "date": "2023-05-16T00:00:00",
+      "count": 69
     },
     {
       "title": "Azure User Group - Houston",
@@ -273,9 +273,9 @@
     {
       "title": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "thumbnail": "https://i.vimeocdn.com/video/1641445780-f4fc2169f48f66811133e3dce718ba42ee2beca9534edebd07f8930bc4283985-d_295x166",
-      "date": "2023-03-21T00:00:00",
-      "count": 30
+      "thumbnail": "https://i.vimeocdn.com/video/1673740176-3b2a01e2883d5ddab68e42e9138e863d94aa4f43a0fa1bf27d78245bfa763a24-d_295x166",
+      "date": "2023-05-16T00:00:00",
+      "count": 31
     },
     {
       "title": "DFW C++ User Group",
@@ -287,9 +287,9 @@
     {
       "title": "DFW Mobile .NET",
       "slug": "dfw-mobile-net",
-      "thumbnail": "https://i.vimeocdn.com/video/519304884-89b383e2dd93852d5f6c37956b655dbc3ade20ce7582ca3f1ed8d534622f6ef9-d_295x166",
-      "date": "2015-05-13T13:21:34",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1673739702-835cfcc893e97919c34bda82ca2f5b59971977cec54e2594bf047aed7649a09b-d_295x166",
+      "date": "2023-04-18T00:00:00",
+      "count": 2
     },
     {
       "title": "Ft. Worth .NET UG",

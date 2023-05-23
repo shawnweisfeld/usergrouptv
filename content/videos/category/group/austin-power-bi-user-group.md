@@ -5,9 +5,53 @@
     "Austin Power BI User Group"
   ],
   "slug": "austin-power-bi-user-group",
-  "date": "2023-03-08T00:00:00",
+  "date": "2023-05-10T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Using Jupyter Notebook With Power BI",
+      "slug": "using-jupyter-notebook-with-power-bi",
+      "thumbnail": "https://i.vimeocdn.com/video/1673740025-a78c79c0b0017b01764218d254db8642688d718fbb7fe597b2cf557621f62b21-d_295x166",
+      "date": "2023-05-10T00:00:00",
+      "speakers": [
+        {
+          "name": "Sandeep Pawar",
+          "slug": "sandeep-pawar"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Jupyter Notebook",
+          "slug": "jupyter-notebook"
+        },
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
+    {
+      "title": "Bookmarks in Power BI - Everything you need to know",
+      "slug": "bookmarks-in-power-bi-everything-you-need-to-know",
+      "thumbnail": "https://i.vimeocdn.com/video/1673739363-fe09032d8e89a07af47c60c87cb0368914990e438b295e3e0840ed4902b0e52c-d_295x166",
+      "date": "2023-04-12T00:00:00",
+      "speakers": [
+        {
+          "name": "Mara Pereira",
+          "slug": "mara-pereira"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        },
+        {
+          "name": "Bookmarks",
+          "slug": "bookmarks"
+        }
+      ]
+    },
     {
       "title": "Measure Killer",
       "slug": "measure-killer",

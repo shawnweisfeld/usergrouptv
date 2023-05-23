@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2023-03-27T01:20:08.810687Z",
+  "date": "2023-05-23T11:50:52.2120483Z",
   "draft": false,
   "speakers": [
     {
@@ -317,6 +317,13 @@
       "slug": "asa-hutchinson",
       "thumbnail": "https://i.vimeocdn.com/video/540279596-822c517e70aa72dc1174c3f326b38369ac5f1b71de76a012737289db1b6049da-d_295x166",
       "date": "2015-10-16T02:21:20",
+      "count": 1
+    },
+    {
+      "title": "Ashish Talati",
+      "slug": "ashish-talati",
+      "thumbnail": "https://i.vimeocdn.com/video/1673740176-3b2a01e2883d5ddab68e42e9138e863d94aa4f43a0fa1bf27d78245bfa763a24-d_295x166",
+      "date": "2023-05-16T00:00:00",
       "count": 1
     },
     {
@@ -1330,9 +1337,9 @@
     {
       "title": "Eric Sowell",
       "slug": "eric-sowell",
-      "thumbnail": "https://i.vimeocdn.com/video/492574330-b96cd1d05daba4bdd4d3c294a013566b01eff7e69ca6a0d8412be14c347622a5-d_295x166",
-      "date": "2014-10-10T10:57:37",
-      "count": 10
+      "thumbnail": "https://i.vimeocdn.com/video/1673739702-835cfcc893e97919c34bda82ca2f5b59971977cec54e2594bf047aed7649a09b-d_295x166",
+      "date": "2023-04-18T00:00:00",
+      "count": 11
     },
     {
       "title": "Erik Ostermueller",
@@ -2630,6 +2637,13 @@
       "count": 1
     },
     {
+      "title": "Mara Pereira",
+      "slug": "mara-pereira",
+      "thumbnail": "https://i.vimeocdn.com/video/1673739363-fe09032d8e89a07af47c60c87cb0368914990e438b295e3e0840ed4902b0e52c-d_295x166",
+      "date": "2023-04-12T00:00:00",
+      "count": 1
+    },
+    {
       "title": "marek koenig",
       "slug": "marek-koenig",
       "thumbnail": "https://i.vimeocdn.com/video/482637298-2e4b504e30cf13751c3dc4e9a5b949d7e0bf5fbe42e88dc8f17d9f3675f62e34-d_295x166",
@@ -3745,9 +3759,9 @@
     {
       "title": "Sandeep Pawar",
       "slug": "sandeep-pawar",
-      "thumbnail": "https://i.vimeocdn.com/video/1439597667-1c3e017aedb7098fa1f650f30f3ad12f10cc7025acb457a78ebb66e482871370-d_295x166",
-      "date": "2022-05-18T00:00:00",
-      "count": 2
+      "thumbnail": "https://i.vimeocdn.com/video/1673740025-a78c79c0b0017b01764218d254db8642688d718fbb7fe597b2cf557621f62b21-d_295x166",
+      "date": "2023-05-10T00:00:00",
+      "count": 3
     },
     {
       "title": "Sanjay Kaul",

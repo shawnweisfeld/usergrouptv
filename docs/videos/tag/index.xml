@@ -6,7 +6,52 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Mar 2023 01:20:11 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 May 2023 11:50:52 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI </title>
+      <link>https://usergroup.tv/videos/tag/openai/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/openai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jupyter Notebook</title>
+      <link>https://usergroup.tv/videos/tag/jupyter-notebook/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/jupyter-notebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>https://usergroup.tv/videos/tag/power-bi/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developer</title>
+      <link>https://usergroup.tv/videos/tag/developer/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/developer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bookmarks</title>
+      <link>https://usergroup.tv/videos/tag/bookmarks/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/bookmarks/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Azure Synapse</title>
       <link>https://usergroup.tv/videos/tag/azure-synapse/</link>
@@ -121,15 +166,6 @@
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/dax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power BI</title>
-      <link>https://usergroup.tv/videos/tag/power-bi/</link>
-      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
       <description></description>
     </item>
     
@@ -1223,15 +1259,6 @@
     </item>
     
     <item>
-      <title>Jupyter Notebook</title>
-      <link>https://usergroup.tv/videos/tag/jupyter-notebook/</link>
-      <pubDate>Sat, 08 Feb 2020 16:14:32 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/jupyter-notebook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cognitive Services</title>
       <link>https://usergroup.tv/videos/tag/cognitive-services/</link>
       <pubDate>Sat, 08 Feb 2020 16:08:46 +0000</pubDate>
@@ -1363,15 +1390,6 @@
       <pubDate>Wed, 10 Jul 2019 13:40:57 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/bots/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Developer</title>
-      <link>https://usergroup.tv/videos/tag/developer/</link>
-      <pubDate>Mon, 08 Jul 2019 13:36:37 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/developer/</guid>
       <description></description>
     </item>
     

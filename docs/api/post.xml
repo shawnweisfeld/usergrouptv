@@ -29425,4 +29425,122 @@ It is also available in the Microsoft store. (https://apps.microsoft.com/store/d
       <slug>azure-synapse</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Sharpening Our Skills</Title>
+    <Url>https://usergroup.tv/videos/sharpening-our-skills/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1673739702-835cfcc893e97919c34bda82ca2f5b59971977cec54e2594bf047aed7649a09b-d_295x166</Thumbnail>
+    <Excerpt>As developers, we spend a lot of time learning to keep up with new languages, libraries, patterns, and ways of thinking about code. But how often do we stop and think about how we learn? How often do we ask ourselves if we're going about the task of learning well? I think about it a great deal.
+
+On Tuesday night, we're going to explore this. The core of our discussion will be around the ideas of two books, Make It Stick: The Science of Successful Learning and Peak: Secrets of the New Science of Expertise, along with some things I've learned along the way. The concepts are broadly applicable and you will leave with principles that you can apply to other subjects, though as a group of technologists, we'll focus on software development.</Excerpt>
+    <PostDate>2023-04-18T00:00:00</PostDate>
+    <Id>1160</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/828821642/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=7f7944d3b883d4f13418c04c00f95679afe5243bf2e7b7450fa747d74d459200</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/828821642/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=a2922450e210b05547946b1c151dac28d2490084d02c58434bcb75a912d36fe5</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Eric Sowell</name>
+      <slug>eric-sowell</slug>
+    </Speakers>
+    <Groups>
+      <name>DFW Mobile .NET</name>
+      <slug>dfw-mobile-net</slug>
+    </Groups>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Tags>
+      <name>Developer</name>
+      <slug>developer</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Azure OpenAI</Title>
+    <Url>https://usergroup.tv/videos/azure-openai/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1673740176-3b2a01e2883d5ddab68e42e9138e863d94aa4f43a0fa1bf27d78245bfa763a24-d_295x166</Thumbnail>
+    <Excerpt>Session focus on Azure OpenAI services available in Azure and how you can leverage large-scale, generative AI models to create cutting-dege language driven applications. In this demo-heavy session, we will discuss top capabilities, use-cases and key concepts to help you and your customer build solutions for common business scenarios easily, securely and responsibly.
+
+</Excerpt>
+    <PostDate>2023-05-16T00:00:00</PostDate>
+    <Id>1161</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/828821774/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=5a20f5aa1441c3561e487b603f55e71e87ddfca01d5e7b5652e65b9b9d5e5540</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/828821774/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=4fd54e6acca956f266d5a594ec1712be883b8091140550e83e6ba3821d85cea3</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Ashish Talati</name>
+      <slug>ashish-talati</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>OpenAI </name>
+      <slug>openai-</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Bookmarks in Power BI - Everything you need to know</Title>
+    <Url>https://usergroup.tv/videos/bookmarks-in-power-bi-everything-you-need-to-know/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1673739363-fe09032d8e89a07af47c60c87cb0368914990e438b295e3e0840ed4902b0e52c-d_295x166</Thumbnail>
+    <Excerpt>Bookmarks are the best thing since sliced bread!
+You don’t believe me? Maybe this session will change your mind.
+I know that bookmarks can be a bit overwhelming sometimes… Understanding all the different options and tricks you can use to create awesome reports, and especially managing and updating bookmarks can seem like a task that came directly from Mission Impossible.
+In this session, I will go through all the ins and outs of creating bookmarks, and how you can use different bookmark combinations to create awesome reporting solutions that not only look good, but that also significantly improve user experience. And if you’re thinking “creating bookmarks is not a problem, the problem is updating them”, worry not! I will also share how easy updating bookmarks can be if you’re smart in the way you group your visuals. Believe me, this will be a game changer if you struggle with updating your bookmarks.
+By the end of this session, you will be a pro in Power BI bookmarks!</Excerpt>
+    <PostDate>2023-04-12T00:00:00</PostDate>
+    <Id>1162</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/828821605/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=e7a56e7a0af0d37d6e2aa287d4f9a08eec5b1d6c39a908d42ae267948455983d</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/828821605/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=31e3b2e35cb26ae8d2561d1c50f423a551a6f482325d103c3c8356f7fb101420</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Mara Pereira</name>
+      <slug>mara-pereira</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Power BI</name>
+      <slug>power-bi</slug>
+    </Tags>
+    <Tags>
+      <name>Bookmarks</name>
+      <slug>bookmarks</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Using Jupyter Notebook With Power BI</Title>
+    <Url>https://usergroup.tv/videos/using-jupyter-notebook-with-power-bi/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1673740025-a78c79c0b0017b01764218d254db8642688d718fbb7fe597b2cf557621f62b21-d_295x166</Thumbnail>
+    <Excerpt>Did you know that you can not only embed Power BI reports in Jupyter notebooks but now you can also generate auto-created reports in notebooks? In this session, we will look at how to achieve this using Python and explore practical use cases, especially for exploratory data analysis. Although some familiarity with Python will be helpful, it's not a prerequisite to attend this session.
+
+</Excerpt>
+    <PostDate>2023-05-10T00:00:00</PostDate>
+    <Id>1163</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/828821695/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=20fdae9e67968367b9ddf650ef45d7321f3104841abd73c907dc20dd3ddb0e5d</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/828821695/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=7fa366ca425ea9a67a231c1693d63fc77c26adcfe3e7e535831f9b06944d4ccd</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Sandeep Pawar</name>
+      <slug>sandeep-pawar</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Jupyter Notebook</name>
+      <slug>jupyter-notebook</slug>
+    </Tags>
+    <Tags>
+      <name>Power BI</name>
+      <slug>power-bi</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

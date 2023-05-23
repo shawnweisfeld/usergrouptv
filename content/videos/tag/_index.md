@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2023-03-27T01:20:11.5548348Z",
+  "date": "2023-05-23T11:50:52.9361273Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -523,6 +523,13 @@
       "count": 1
     },
     {
+      "title": "Bookmarks",
+      "slug": "bookmarks",
+      "thumbnail": "https://i.vimeocdn.com/video/1673739363-fe09032d8e89a07af47c60c87cb0368914990e438b295e3e0840ed4902b0e52c-d_295x166",
+      "date": "2023-04-12T00:00:00",
+      "count": 1
+    },
+    {
       "title": "bots",
       "slug": "bots",
       "thumbnail": "https://i.vimeocdn.com/video/798691818-7328fbd4abfe3c1d7015906069b372e7d1eef58d8c72e55eea0ee1d8551e058a-d_295x166",
@@ -1001,9 +1008,9 @@
     {
       "title": "Developer",
       "slug": "developer",
-      "thumbnail": "https://i.vimeocdn.com/video/798691581-02623069468753b9e9f94f03b74551f4dba96df28ed88719b395e5df28bf0ebc-d_295x166",
-      "date": "2019-07-08T13:36:37",
-      "count": 23
+      "thumbnail": "https://i.vimeocdn.com/video/1673739702-835cfcc893e97919c34bda82ca2f5b59971977cec54e2594bf047aed7649a09b-d_295x166",
+      "date": "2023-04-18T00:00:00",
+      "count": 24
     },
     {
       "title": "DevOps",
@@ -1561,9 +1568,9 @@
     {
       "title": "Jupyter Notebook",
       "slug": "jupyter-notebook",
-      "thumbnail": "https://i.vimeocdn.com/video/854626443-6dbab1c4880358e08498ef860060c3f59a192b4a5ae14d5523e988458d7f6478-d_295x166",
-      "date": "2020-02-08T16:14:32",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1673740025-a78c79c0b0017b01764218d254db8642688d718fbb7fe597b2cf557621f62b21-d_295x166",
+      "date": "2023-05-10T00:00:00",
+      "count": 2
     },
     {
       "title": "K8S",
@@ -2105,6 +2112,13 @@
       "count": 1
     },
     {
+      "title": "OpenAI ",
+      "slug": "openai-",
+      "thumbnail": "https://i.vimeocdn.com/video/1673740176-3b2a01e2883d5ddab68e42e9138e863d94aa4f43a0fa1bf27d78245bfa763a24-d_295x166",
+      "date": "2023-05-16T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Oracle",
       "slug": "oracle",
       "thumbnail": "https://i.vimeocdn.com/video/482027562-89cd091da8ecd9aeb4033d3bec1cfd64d1feeae2d81899e71c950299c9145fa0-d_295x166",
@@ -2261,9 +2275,9 @@
     {
       "title": "Power BI",
       "slug": "power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1614290787-29352ef30794b52f65b83df164bfbbcc956f4b4ae4d823e5e558cbcaf6702e1a-d_295x166",
-      "date": "2023-02-08T00:00:00",
-      "count": 38
+      "thumbnail": "https://i.vimeocdn.com/video/1673740025-a78c79c0b0017b01764218d254db8642688d718fbb7fe597b2cf557621f62b21-d_295x166",
+      "date": "2023-05-10T00:00:00",
+      "count": 40
     },
     {
       "title": "Power Map",

@@ -22,22 +22,22 @@
     {
       "name": "Sandeep Pawar",
       "slug": "sandeep-pawar",
-      "bio": "Sandeep is a Mechanical Engineer turned Data Analytics engineer, specializing in using Data Science to solve Manufacturing and Product Development challenges. He uses Azure ML, Python & Power BI for creating advanced data analytics solutions at Cree Lighting, WI.",
-      "count": 2
+      "bio": "Sandeep Pawar is a Sr Power BI Architect at Hitachi Solutions America and has a Data Science background. He loves Power BI and blogs about topics related to data and Power BI at pawarbi.com",
+      "count": 3
     }
   ],
   "ugtvtags": [
     {
       "name": "Power BI",
       "slug": "power-bi",
-      "count": 38
+      "count": 40
     }
   ],
   "meetups": [
     {
       "name": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "count": 38
+      "count": 40
     }
   ]
 }

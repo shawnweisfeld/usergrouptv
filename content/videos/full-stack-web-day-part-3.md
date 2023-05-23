@@ -24,8 +24,8 @@
     {
       "name": "Eric Sowell",
       "slug": "eric-sowell",
-      "bio": "<p>Eric Sowell manages the mobile web development efforts of Match.com. These days he also does iOS development, plays too much Minecraft, reads a lot and enjoys long walks on the beach. He is the recent author of Mobile ASP.NET MVC 5 with Apress. You can see his occasionally updated website at http://ericsowell.com and can follow him on Twitter (@mallioch).</p>",
-      "count": 10
+      "bio": "Eric B. Sowell, a husband, dad, Christian, teacher, software developer, avid learner, speaker, Greek guy, and lover of history.  http://www.ericsowell.com/",
+      "count": 11
     }
   ],
   "ugtvtags": [

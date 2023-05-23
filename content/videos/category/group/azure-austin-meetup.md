@@ -5,9 +5,45 @@
     "Azure Austin Meetup"
   ],
   "slug": "azure-austin-meetup",
-  "date": "2023-03-21T00:00:00",
+  "date": "2023-05-16T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Azure OpenAI",
+      "slug": "azure-openai",
+      "thumbnail": "https://i.vimeocdn.com/video/1673740176-3b2a01e2883d5ddab68e42e9138e863d94aa4f43a0fa1bf27d78245bfa763a24-d_295x166",
+      "date": "2023-05-16T00:00:00",
+      "speakers": [
+        {
+          "name": "Ashish Talati",
+          "slug": "ashish-talati"
+        }
+      ],
+      "tags": [
+        {
+          "name": "OpenAI ",
+          "slug": "openai-"
+        }
+      ]
+    },
+    {
+      "title": "Sharpening Our Skills",
+      "slug": "sharpening-our-skills",
+      "thumbnail": "https://i.vimeocdn.com/video/1673739702-835cfcc893e97919c34bda82ca2f5b59971977cec54e2594bf047aed7649a09b-d_295x166",
+      "date": "2023-04-18T00:00:00",
+      "speakers": [
+        {
+          "name": "Eric Sowell",
+          "slug": "eric-sowell"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
+        }
+      ]
+    },
     {
       "title": "Microsoft Modern Data Estate & Azure Synapse Link",
       "slug": "microsoft-modern-data-estate-azure-synapse-link",

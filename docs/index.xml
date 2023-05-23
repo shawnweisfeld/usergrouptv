@@ -6,22 +6,166 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Mar 2023 01:20:04 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 May 2023 11:50:51 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Austin Data User Group</title>
-      <link>https://usergroup.tv/videos/category/group/austin-data-user-group/</link>
-      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      <title>Ashish Talati</title>
+      <link>https://usergroup.tv/videos/category/speaker/ashish-talati/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://usergroup.tv/videos/category/group/austin-data-user-group/</guid>
+      <guid>https://usergroup.tv/videos/category/speaker/ashish-talati/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Azure Austin Meetup</title>
       <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
-      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/group/azure-austin-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure OpenAI</title>
+      <link>https://usergroup.tv/videos/azure-openai/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/azure-openai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFW Azure User Group</title>
+      <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenAI </title>
+      <link>https://usergroup.tv/videos/tag/openai/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/openai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Austin Power BI User Group</title>
+      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jupyter Notebook</title>
+      <link>https://usergroup.tv/videos/tag/jupyter-notebook/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/jupyter-notebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>https://usergroup.tv/videos/tag/power-bi/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandeep Pawar</title>
+      <link>https://usergroup.tv/videos/category/speaker/sandeep-pawar/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/sandeep-pawar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Jupyter Notebook With Power BI</title>
+      <link>https://usergroup.tv/videos/using-jupyter-notebook-with-power-bi/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/using-jupyter-notebook-with-power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developer</title>
+      <link>https://usergroup.tv/videos/tag/developer/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/developer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFW Mobile .NET</title>
+      <link>https://usergroup.tv/videos/category/group/dfw-mobile-net/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/dfw-mobile-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric Sowell</title>
+      <link>https://usergroup.tv/videos/category/speaker/eric-sowell/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/eric-sowell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharpening Our Skills</title>
+      <link>https://usergroup.tv/videos/sharpening-our-skills/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/sharpening-our-skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bookmarks</title>
+      <link>https://usergroup.tv/videos/tag/bookmarks/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/bookmarks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bookmarks in Power BI - Everything you need to know</title>
+      <link>https://usergroup.tv/videos/bookmarks-in-power-bi-everything-you-need-to-know/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/bookmarks-in-power-bi-everything-you-need-to-know/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mara Pereira</title>
+      <link>https://usergroup.tv/videos/category/speaker/mara-pereira/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/mara-pereira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Austin Data User Group</title>
+      <link>https://usergroup.tv/videos/category/group/austin-data-user-group/</link>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/austin-data-user-group/</guid>
       <description></description>
     </item>
     
@@ -53,29 +197,11 @@
     </item>
     
     <item>
-      <title>DFW Azure User Group</title>
-      <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
-      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Microsoft Modern Data Estate &amp; Azure Synapse Link</title>
       <link>https://usergroup.tv/videos/microsoft-modern-data-estate-azure-synapse-link/</link>
       <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/microsoft-modern-data-estate-azure-synapse-link/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Austin Power BI User Group</title>
-      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
-      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
       <description></description>
     </item>
     
@@ -445,15 +571,6 @@
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/mike-ford/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power BI</title>
-      <link>https://usergroup.tv/videos/tag/power-bi/</link>
-      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
       <description></description>
     </item>
     
@@ -1246,15 +1363,6 @@
       <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/query-folding-in-power-bi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sandeep Pawar</title>
-      <link>https://usergroup.tv/videos/category/speaker/sandeep-pawar/</link>
-      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/speaker/sandeep-pawar/</guid>
       <description></description>
     </item>
     
@@ -3791,15 +3899,6 @@ What do we use your information for?</description>
     </item>
     
     <item>
-      <title>Jupyter Notebook</title>
-      <link>https://usergroup.tv/videos/tag/jupyter-notebook/</link>
-      <pubDate>Sat, 08 Feb 2020 16:14:32 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/jupyter-notebook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Wenbin Zhao</title>
       <link>https://usergroup.tv/videos/category/speaker/wenbin-zhao/</link>
       <pubDate>Sat, 08 Feb 2020 16:14:32 +0000</pubDate>
@@ -5038,15 +5137,6 @@ What do we use your information for?</description>
       <pubDate>Wed, 10 Jul 2019 13:40:57 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/speaker/wayne-smith/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Developer</title>
-      <link>https://usergroup.tv/videos/tag/developer/</link>
-      <pubDate>Mon, 08 Jul 2019 13:36:37 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/developer/</guid>
       <description></description>
     </item>
     
@@ -14015,15 +14105,6 @@ What do we use your information for?</description>
     </item>
     
     <item>
-      <title>DFW Mobile .NET</title>
-      <link>https://usergroup.tv/videos/category/group/dfw-mobile-net/</link>
-      <pubDate>Wed, 13 May 2015 13:21:34 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/dfw-mobile-net/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Azure API Management</title>
       <link>https://usergroup.tv/videos/azure-api-management/</link>
       <pubDate>Wed, 15 Apr 2015 23:07:07 +0000</pubDate>
@@ -14614,15 +14695,6 @@ What do we use your information for?</description>
       <pubDate>Fri, 10 Oct 2014 11:07:08 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/mobile-ux-inside-the-eye-of-the-perfect-storm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eric Sowell</title>
-      <link>https://usergroup.tv/videos/category/speaker/eric-sowell/</link>
-      <pubDate>Fri, 10 Oct 2014 10:57:37 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/speaker/eric-sowell/</guid>
       <description></description>
     </item>
     

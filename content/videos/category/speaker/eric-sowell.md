@@ -5,10 +5,32 @@
   ],
   "type": "speaker",
   "slug": "eric-sowell",
-  "date": "2014-10-10T10:57:37",
+  "date": "2023-04-18T00:00:00",
   "draft": false,
-  "bio": "<p>Eric Sowell manages the mobile web development efforts of Match.com. These days he also does iOS development, plays too much Minecraft, reads a lot and enjoys long walks on the beach. He is the recent author of Mobile ASP.NET MVC 5 with Apress. You can see his occasionally updated website at http://ericsowell.com and can follow him on Twitter (@mallioch).</p>",
+  "bio": "Eric B. Sowell, a husband, dad, Christian, teacher, software developer, avid learner, speaker, Greek guy, and lover of history.  http://www.ericsowell.com/",
   "recordings": [
+    {
+      "title": "Sharpening Our Skills",
+      "slug": "sharpening-our-skills",
+      "thumbnail": "https://i.vimeocdn.com/video/1673739702-835cfcc893e97919c34bda82ca2f5b59971977cec54e2594bf047aed7649a09b-d_295x166",
+      "date": "2023-04-18T00:00:00",
+      "meetups": [
+        {
+          "name": "DFW Mobile .NET",
+          "slug": "dfw-mobile-net"
+        },
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
+        }
+      ]
+    },
     {
       "title": "Getting Started with Swift",
       "slug": "getting-started-with-swift",

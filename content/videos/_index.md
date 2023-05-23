@@ -1,12 +1,124 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2023-03-27T01:20:04.4484839Z",
+  "date": "2023-05-23T11:50:51.6945687Z",
   "draft": false,
-  "recordingCount": "1,153",
-  "speakerCount": "641",
+  "recordingCount": "1,157",
+  "speakerCount": "643",
   "groupCount": "68",
   "newest": [
+    {
+      "title": "Azure OpenAI",
+      "slug": "azure-openai",
+      "thumbnail": "https://i.vimeocdn.com/video/1673740176-3b2a01e2883d5ddab68e42e9138e863d94aa4f43a0fa1bf27d78245bfa763a24-d_295x166",
+      "date": "2023-05-16T00:00:00",
+      "speakers": [
+        {
+          "name": "Ashish Talati",
+          "slug": "ashish-talati"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "OpenAI ",
+          "slug": "openai-"
+        }
+      ]
+    },
+    {
+      "title": "Using Jupyter Notebook With Power BI",
+      "slug": "using-jupyter-notebook-with-power-bi",
+      "thumbnail": "https://i.vimeocdn.com/video/1673740025-a78c79c0b0017b01764218d254db8642688d718fbb7fe597b2cf557621f62b21-d_295x166",
+      "date": "2023-05-10T00:00:00",
+      "speakers": [
+        {
+          "name": "Sandeep Pawar",
+          "slug": "sandeep-pawar"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Jupyter Notebook",
+          "slug": "jupyter-notebook"
+        },
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
+    {
+      "title": "Sharpening Our Skills",
+      "slug": "sharpening-our-skills",
+      "thumbnail": "https://i.vimeocdn.com/video/1673739702-835cfcc893e97919c34bda82ca2f5b59971977cec54e2594bf047aed7649a09b-d_295x166",
+      "date": "2023-04-18T00:00:00",
+      "speakers": [
+        {
+          "name": "Eric Sowell",
+          "slug": "eric-sowell"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "DFW Mobile .NET",
+          "slug": "dfw-mobile-net"
+        },
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Developer",
+          "slug": "developer"
+        }
+      ]
+    },
+    {
+      "title": "Bookmarks in Power BI - Everything you need to know",
+      "slug": "bookmarks-in-power-bi-everything-you-need-to-know",
+      "thumbnail": "https://i.vimeocdn.com/video/1673739363-fe09032d8e89a07af47c60c87cb0368914990e438b295e3e0840ed4902b0e52c-d_295x166",
+      "date": "2023-04-12T00:00:00",
+      "speakers": [
+        {
+          "name": "Mara Pereira",
+          "slug": "mara-pereira"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        },
+        {
+          "name": "Bookmarks",
+          "slug": "bookmarks"
+        }
+      ]
+    },
     {
       "title": "Microsoft Modern Data Estate & Azure Synapse Link",
       "slug": "microsoft-modern-data-estate-azure-synapse-link",
@@ -416,126 +528,6 @@
         {
           "name": "SQL Server 2022",
           "slug": "sql-server-2022"
-        }
-      ]
-    },
-    {
-      "title": "SQL Server 2022 Workshop - 05 - Access new sources with data virtualization and object storage",
-      "slug": "sql-server-2022-workshop-05-access-new-sources-with-data-virtualization-and-object-storage",
-      "thumbnail": "https://i.vimeocdn.com/video/1641441978-d3484b4491237540599dab525c9aab76b39431c48ea224fd11e44077216db0df-d_295x166",
-      "date": "2023-02-24T00:00:00",
-      "speakers": [
-        {
-          "name": "Bob Ward",
-          "slug": "bob-ward"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin SQL Saturday",
-          "slug": "austin-sql-saturday"
-        },
-        {
-          "name": "Austin Data User Group",
-          "slug": "austin-data-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "SQL Server 2022",
-          "slug": "sql-server-2022"
-        }
-      ]
-    },
-    {
-      "title": "SQL Server 2022 Workshop - 06 - Enhance your application with new T-SQL capabilities",
-      "slug": "sql-server-2022-workshop-06-enhance-your-application-with-new-tsql-capabilities",
-      "thumbnail": "https://i.vimeocdn.com/video/1641442310-30129d0ef2ab5f2413a64751acee4c5646273c3c5eb930fa64a0b5a445a1067c-d_295x166",
-      "date": "2023-02-24T00:00:00",
-      "speakers": [
-        {
-          "name": "Bob Ward",
-          "slug": "bob-ward"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin SQL Saturday",
-          "slug": "austin-sql-saturday"
-        },
-        {
-          "name": "Austin Data User Group",
-          "slug": "austin-data-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "SQL Server 2022",
-          "slug": "sql-server-2022"
-        }
-      ]
-    },
-    {
-      "title": "Intro to Cosmos DB",
-      "slug": "intro-to-cosmos-db",
-      "thumbnail": "https://i.vimeocdn.com/video/1641445327-4e9e095d0b2a4316d3ac0129abeaf95fe7d32d77b7e3f166fc50e4d4bc5a42dc-d_295x166",
-      "date": "2023-02-21T00:00:00",
-      "speakers": [
-        {
-          "name": "Mark Moore",
-          "slug": "mark-moore"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Azure Austin Meetup",
-          "slug": "azure-austin-meetup"
-        },
-        {
-          "name": "Capitol Area Central Texas Users of SQL Server",
-          "slug": "capitol-area-central-texas-users-of-sql-server"
-        },
-        {
-          "name": "DFW Azure User Group",
-          "slug": "dfw-azure-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Cosmos DB",
-          "slug": "cosmos-db"
-        }
-      ]
-    },
-    {
-      "title": "Traveling Light: 50 Days of DAX Without CALCULATE or Time Intelligence",
-      "slug": "traveling-light-50-days-of-dax-without-calculate-or-time-intelligence",
-      "thumbnail": "https://i.vimeocdn.com/video/1614290787-29352ef30794b52f65b83df164bfbbcc956f4b4ae4d823e5e558cbcaf6702e1a-d_295x166",
-      "date": "2023-02-08T00:00:00",
-      "speakers": [
-        {
-          "name": "Mike Ford",
-          "slug": "mike-ford"
-        },
-        {
-          "name": "Brian Julius",
-          "slug": "brian-julius"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "dax",
-          "slug": "dax"
-        },
-        {
-          "name": "Power BI",
-          "slug": "power-bi"
         }
       ]
     }

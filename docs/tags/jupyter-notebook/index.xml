@@ -6,22 +6,31 @@
     <description>Recent content in Jupyter Notebook on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Feb 2020 16:14:32 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/jupyter-notebook/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/jupyter-notebook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jupyter Notebook</title>
+      <link>https://usergroup.tv/videos/tag/jupyter-notebook/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/jupyter-notebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Jupyter Notebook With Power BI</title>
+      <link>https://usergroup.tv/videos/using-jupyter-notebook-with-power-bi/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/using-jupyter-notebook-with-power-bi/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ETL Using Python, Pandas, and Jupyter Notebook</title>
       <link>https://usergroup.tv/videos/etl-using-python-pandas-and-jupyter-notebook/</link>
       <pubDate>Sat, 08 Feb 2020 16:14:32 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/etl-using-python-pandas-and-jupyter-notebook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jupyter Notebook</title>
-      <link>https://usergroup.tv/videos/tag/jupyter-notebook/</link>
-      <pubDate>Sat, 08 Feb 2020 16:14:32 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/jupyter-notebook/</guid>
       <description></description>
     </item>
     

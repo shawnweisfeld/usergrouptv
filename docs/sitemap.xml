@@ -3,19 +3,97 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2023-05-23T12:06:21+00:00</lastmod>
+    <lastmod>2023-06-25T14:36:38+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2023-05-23T12:06:20+00:00</lastmod>
+    <lastmod>2023-06-25T14:36:37+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2023-05-23T12:06:20+00:00</lastmod>
+    <lastmod>2023-06-25T14:36:37+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2023-05-23T12:06:19+00:00</lastmod>
+    <lastmod>2023-06-25T14:36:36+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2023-05-23T12:06:19+00:00</lastmod>
+    <lastmod>2023-06-25T14:36:36+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/azure/</loc>
+    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/azure/</loc>
+    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
+    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/azure-austin-meetup/</loc>
+    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/azure-storage/</loc>
+    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</loc>
+    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</loc>
+    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/dfw-azure-user-group/</loc>
+    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</loc>
+    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/get-the-most-from-ssms/</loc>
+    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/mike-burek/</loc>
+    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/mike-burek/</loc>
+    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/sean-shen/</loc>
+    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/sean-shen/</loc>
+    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/ssms/</loc>
+    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/ssms/</loc>
+    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/storage/</loc>
+    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/storage/</loc>
+    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
+    <lastmod>2023-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
+    <lastmod>2023-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/introduction-to-direct-lake-datasets-in-fabric/</loc>
+    <lastmod>2023-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/microsoft-fabric/</loc>
+    <lastmod>2023-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/microsoft-fabric/</loc>
+    <lastmod>2023-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/sandeep-pawar/</loc>
+    <lastmod>2023-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/sandeep-pawar/</loc>
+    <lastmod>2023-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/ashish-talati/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
@@ -23,19 +101,7 @@
     <loc>https://usergroup.tv/videos/category/speaker/ashish-talati/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
-    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/azure-austin-meetup/</loc>
-    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/videos/azure-openai/</loc>
-    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/dfw-azure-user-group/</loc>
-    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/openai/</loc>
@@ -43,15 +109,6 @@
   </url><url>
     <loc>https://usergroup.tv/videos/tag/openai/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/</loc>
-    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>
-    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</loc>
-    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/jupyter-notebook/</loc>
     <lastmod>2023-05-10T00:00:00+00:00</lastmod>
@@ -63,12 +120,6 @@
     <lastmod>2023-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/power-bi/</loc>
-    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/sandeep-pawar/</loc>
-    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/sandeep-pawar/</loc>
     <lastmod>2023-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/using-jupyter-notebook-with-power-bi/</loc>
@@ -114,12 +165,6 @@
     <lastmod>2023-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/azure-synapse/</loc>
-    <lastmod>2023-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/capitol-area-central-texas-users-of-sql-server/</loc>
-    <lastmod>2023-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</loc>
     <lastmod>2023-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/cory-brown/</loc>
@@ -383,12 +428,6 @@
     <loc>https://usergroup.tv/videos/upgrade-your-js-app-to-native-with-net-maui/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/azure/</loc>
-    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/azure/</loc>
-    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/json/</loc>
     <lastmod>2022-11-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -399,12 +438,6 @@
     <lastmod>2022-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/microsoft-purview-unified-data-gov-made-easy-and-extensible/</loc>
-    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/mike-burek/</loc>
-    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/mike-burek/</loc>
     <lastmod>2022-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/purview/</loc>
@@ -821,12 +854,6 @@
     <loc>https://usergroup.tv/videos/category/speaker/shawn-weisfeld/</loc>
     <lastmod>2022-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/storage/</loc>
-    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/storage/</loc>
-    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/tags/governance/</loc>
     <lastmod>2022-04-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -936,12 +963,6 @@
     <lastmod>2022-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/sql-admin/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/ssms/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/tag/ssms/</loc>
     <lastmod>2022-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/ssms-tips-and-tricks/</loc>

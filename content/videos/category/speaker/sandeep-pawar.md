@@ -5,10 +5,28 @@
   ],
   "type": "speaker",
   "slug": "sandeep-pawar",
-  "date": "2023-05-10T00:00:00",
+  "date": "2023-06-14T00:00:00",
   "draft": false,
   "bio": "Sandeep Pawar is a Sr Power BI Architect at Hitachi Solutions America and has a Data Science background. He loves Power BI and blogs about topics related to data and Power BI at pawarbi.com",
   "recordings": [
+    {
+      "title": "Introduction to Direct Lake datasets in Fabric",
+      "slug": "introduction-to-direct-lake-datasets-in-fabric",
+      "thumbnail": "https://i.vimeocdn.com/video/1688967782-26f7957cacfb02bb30f5e71a55f84a31a3fa194fa9c2fb7340ee19091e4ba01a-d_295x166",
+      "date": "2023-06-14T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Microsoft Fabric",
+          "slug": "microsoft-fabric"
+        }
+      ]
+    },
     {
       "title": "Using Jupyter Notebook With Power BI",
       "slug": "using-jupyter-notebook-with-power-bi",

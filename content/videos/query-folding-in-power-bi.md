@@ -23,7 +23,7 @@
       "name": "Sandeep Pawar",
       "slug": "sandeep-pawar",
       "bio": "Sandeep Pawar is a Sr Power BI Architect at Hitachi Solutions America and has a Data Science background. He loves Power BI and blogs about topics related to data and Power BI at pawarbi.com",
-      "count": 3
+      "count": 4
     }
   ],
   "ugtvtags": [
@@ -37,7 +37,7 @@
     {
       "name": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "count": 40
+      "count": 41
     }
   ]
 }

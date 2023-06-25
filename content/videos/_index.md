@@ -1,12 +1,92 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2023-05-23T12:06:19.4032175Z",
+  "date": "2023-06-25T14:36:36.3129779Z",
   "draft": false,
-  "recordingCount": "1,157",
-  "speakerCount": "643",
+  "recordingCount": "1,160",
+  "speakerCount": "644",
   "groupCount": "68",
   "newest": [
+    {
+      "title": "Azure Storage",
+      "slug": "azure-storage",
+      "thumbnail": "https://i.vimeocdn.com/video/1688968554-6ede7537912c045249efc862c57adfc183e6acd874d6b1d09db025695815144d-d_295x166",
+      "date": "2023-06-20T00:00:00",
+      "speakers": [
+        {
+          "name": "Sean Shen",
+          "slug": "sean-shen"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "Storage",
+          "slug": "storage"
+        }
+      ]
+    },
+    {
+      "title": "Get the Most From SSMS",
+      "slug": "get-the-most-from-ssms",
+      "thumbnail": "https://i.vimeocdn.com/video/1688968205-4488d0bc70f54583410fb5bfa388432c1987fd167446d2e0a9d83a69efe7f7ed-d_295x166",
+      "date": "2023-06-20T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Burek",
+          "slug": "mike-burek"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SSMS",
+          "slug": "ssms"
+        }
+      ]
+    },
+    {
+      "title": "Introduction to Direct Lake datasets in Fabric",
+      "slug": "introduction-to-direct-lake-datasets-in-fabric",
+      "thumbnail": "https://i.vimeocdn.com/video/1688967782-26f7957cacfb02bb30f5e71a55f84a31a3fa194fa9c2fb7340ee19091e4ba01a-d_295x166",
+      "date": "2023-06-14T00:00:00",
+      "speakers": [
+        {
+          "name": "Sandeep Pawar",
+          "slug": "sandeep-pawar"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Microsoft Fabric",
+          "slug": "microsoft-fabric"
+        }
+      ]
+    },
     {
       "title": "Azure OpenAI",
       "slug": "azure-openai",
@@ -423,90 +503,6 @@
       "title": "SQL Server 2022 Workshop - 01 - Introduction to SQL Server 2022",
       "slug": "sql-server-2022-workshop-01-introduction-to-sql-server-2022",
       "thumbnail": "https://i.vimeocdn.com/video/1641441416-2d92e8953bb97638b72c0b31dcd833ade6408cfd25f9332c936c224c1db2083a-d_295x166",
-      "date": "2023-02-24T00:00:00",
-      "speakers": [
-        {
-          "name": "Bob Ward",
-          "slug": "bob-ward"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin SQL Saturday",
-          "slug": "austin-sql-saturday"
-        },
-        {
-          "name": "Austin Data User Group",
-          "slug": "austin-data-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "SQL Server 2022",
-          "slug": "sql-server-2022"
-        }
-      ]
-    },
-    {
-      "title": "SQL Server 2022 Workshop - 02 - Connect SQL Server 2022 to Azure",
-      "slug": "sql-server-2022-workshop-02-connect-sql-server-2022-to-azure",
-      "thumbnail": "https://i.vimeocdn.com/video/1641441519-d48c6012e9e4ae1dcbfb63904da09fdcf6e8436a9ef8ad1d09f55691a58911e2-d_295x166",
-      "date": "2023-02-24T00:00:00",
-      "speakers": [
-        {
-          "name": "Bob Ward",
-          "slug": "bob-ward"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin SQL Saturday",
-          "slug": "austin-sql-saturday"
-        },
-        {
-          "name": "Austin Data User Group",
-          "slug": "austin-data-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "SQL Server 2022",
-          "slug": "sql-server-2022"
-        }
-      ]
-    },
-    {
-      "title": "SQL Server 2022 Workshop - 03 - Accelerate performance with built-in query intelligence",
-      "slug": "sql-server-2022-workshop-03-accelerate-performance-with-builtin-query-intelligence",
-      "thumbnail": "https://i.vimeocdn.com/video/1641441633-2a80096e73203cacdf70066829f70fdd9e601c2391faba07dac69ebdc2929512-d_295x166",
-      "date": "2023-02-24T00:00:00",
-      "speakers": [
-        {
-          "name": "Bob Ward",
-          "slug": "bob-ward"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin SQL Saturday",
-          "slug": "austin-sql-saturday"
-        },
-        {
-          "name": "Austin Data User Group",
-          "slug": "austin-data-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "SQL Server 2022",
-          "slug": "sql-server-2022"
-        }
-      ]
-    },
-    {
-      "title": "SQL Server 2022 Workshop - 04 - Power your database with security, scalability, and availability",
-      "slug": "sql-server-2022-workshop-04-power-your-database-with-security-scalability-and-availability",
-      "thumbnail": "https://i.vimeocdn.com/video/1641441849-bf2a19e6d4c51701c7d85d4f54b2c7cbca643c9cd72b918b9622a54b6821ce1a-d_295x166",
       "date": "2023-02-24T00:00:00",
       "speakers": [
         {

@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2023-05-23T12:06:20.142112Z",
+  "date": "2023-06-25T14:36:37.1468319Z",
   "draft": false,
   "speakers": [
     {
@@ -3024,9 +3024,9 @@
     {
       "title": "Mike Burek",
       "slug": "mike-burek",
-      "thumbnail": "https://i.vimeocdn.com/video/1551442769-55f5dfd58705d295b70446175909363881a589eb821106ef5f96929987123ba1-d_295x166",
-      "date": "2022-11-15T00:00:00",
-      "count": 13
+      "thumbnail": "https://i.vimeocdn.com/video/1688968205-4488d0bc70f54583410fb5bfa388432c1987fd167446d2e0a9d83a69efe7f7ed-d_295x166",
+      "date": "2023-06-20T00:00:00",
+      "count": 14
     },
     {
       "title": "Mike Byrd",
@@ -3759,9 +3759,9 @@
     {
       "title": "Sandeep Pawar",
       "slug": "sandeep-pawar",
-      "thumbnail": "https://i.vimeocdn.com/video/1673740025-a78c79c0b0017b01764218d254db8642688d718fbb7fe597b2cf557621f62b21-d_295x166",
-      "date": "2023-05-10T00:00:00",
-      "count": 3
+      "thumbnail": "https://i.vimeocdn.com/video/1688967782-26f7957cacfb02bb30f5e71a55f84a31a3fa194fa9c2fb7340ee19091e4ba01a-d_295x166",
+      "date": "2023-06-14T00:00:00",
+      "count": 4
     },
     {
       "title": "Sanjay Kaul",
@@ -3866,6 +3866,13 @@
       "slug": "sean-mcdonough",
       "thumbnail": "https://i.vimeocdn.com/video/700408581-2bc14ef2b8e6f9b6574ba990fc1d1f60a2f0c57ec2170fef789b0c05d38c147e-d_295x166",
       "date": "2018-05-09T16:06:08",
+      "count": 1
+    },
+    {
+      "title": "Sean Shen",
+      "slug": "sean-shen",
+      "thumbnail": "https://i.vimeocdn.com/video/1688968554-6ede7537912c045249efc862c57adfc183e6acd874d6b1d09db025695815144d-d_295x166",
+      "date": "2023-06-20T00:00:00",
       "count": 1
     },
     {

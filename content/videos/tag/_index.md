@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2023-05-23T12:06:20.7345847Z",
+  "date": "2023-06-25T14:36:37.7934333Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -252,9 +252,9 @@
     {
       "title": "Azure",
       "slug": "azure",
-      "thumbnail": "https://i.vimeocdn.com/video/1551442987-382ee9789520a78037a0cc29eab7861bb3a8eeca72914c6c609aa2a2158a17f1-d_295x166",
-      "date": "2022-11-15T00:00:00",
-      "count": 52
+      "thumbnail": "https://i.vimeocdn.com/video/1688968554-6ede7537912c045249efc862c57adfc183e6acd874d6b1d09db025695815144d-d_295x166",
+      "date": "2023-06-20T00:00:00",
+      "count": 53
     },
     {
       "title": "Azure AD",
@@ -1853,6 +1853,13 @@
       "count": 1
     },
     {
+      "title": "Microsoft Fabric",
+      "slug": "microsoft-fabric",
+      "thumbnail": "https://i.vimeocdn.com/video/1688967782-26f7957cacfb02bb30f5e71a55f84a31a3fa194fa9c2fb7340ee19091e4ba01a-d_295x166",
+      "date": "2023-06-14T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Microsoft Graph",
       "slug": "microsoft-graph",
       "thumbnail": "https://i.vimeocdn.com/video/796753583-5974baa2acd0f2558e8a4ad194c875dfc8b5561cfaa662ffc2a90ded1dc26508-d_295x166",
@@ -2940,9 +2947,9 @@
     {
       "title": "SSMS",
       "slug": "ssms",
-      "thumbnail": "https://i.vimeocdn.com/video/1377662098-627e5b1c94379ad39710852c6c73e75472ede00ebd2a9f2ddc5cafc8f07ce95b-d_295x166",
-      "date": "2022-02-15T00:00:00",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1688968205-4488d0bc70f54583410fb5bfa388432c1987fd167446d2e0a9d83a69efe7f7ed-d_295x166",
+      "date": "2023-06-20T00:00:00",
+      "count": 2
     },
     {
       "title": "SSRS",
@@ -2975,9 +2982,9 @@
     {
       "title": "Storage",
       "slug": "storage",
-      "thumbnail": "https://i.vimeocdn.com/video/1420132300-0d9b6375c1283e975d9f6bb581fccdf1b5d72123204b1b9658b19b53bb7be7b7-d_295x166",
-      "date": "2022-04-19T00:00:00",
-      "count": 3
+      "thumbnail": "https://i.vimeocdn.com/video/1688968554-6ede7537912c045249efc862c57adfc183e6acd874d6b1d09db025695815144d-d_295x166",
+      "date": "2023-06-20T00:00:00",
+      "count": 4
     },
     {
       "title": "Stream Analytics",

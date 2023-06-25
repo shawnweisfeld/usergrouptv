@@ -5,9 +5,31 @@
   ],
   "type": "tag",
   "slug": "azure",
-  "date": "2022-11-15T00:00:00",
+  "date": "2023-06-20T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Azure Storage",
+      "slug": "azure-storage",
+      "thumbnail": "https://i.vimeocdn.com/video/1688968554-6ede7537912c045249efc862c57adfc183e6acd874d6b1d09db025695815144d-d_295x166",
+      "date": "2023-06-20T00:00:00",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Sean Shen",
+          "slug": "sean-shen"
+        }
+      ]
+    },
     {
       "title": "Microsoft Purview: Unified Data Gov Made Easy and Extensible!",
       "slug": "microsoft-purview-unified-data-gov-made-easy-and-extensible",

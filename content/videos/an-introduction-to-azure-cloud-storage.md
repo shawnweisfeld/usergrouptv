@@ -31,12 +31,12 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 52
+      "count": 53
     },
     {
       "name": "Storage",
       "slug": "storage",
-      "count": 3
+      "count": 4
     }
   ],
   "meetups": [

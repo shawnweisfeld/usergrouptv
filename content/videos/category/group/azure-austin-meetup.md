@@ -5,9 +5,31 @@
     "Azure Austin Meetup"
   ],
   "slug": "azure-austin-meetup",
-  "date": "2023-05-16T00:00:00",
+  "date": "2023-06-20T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Azure Storage",
+      "slug": "azure-storage",
+      "thumbnail": "https://i.vimeocdn.com/video/1688968554-6ede7537912c045249efc862c57adfc183e6acd874d6b1d09db025695815144d-d_295x166",
+      "date": "2023-06-20T00:00:00",
+      "speakers": [
+        {
+          "name": "Sean Shen",
+          "slug": "sean-shen"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "Storage",
+          "slug": "storage"
+        }
+      ]
+    },
     {
       "title": "Azure OpenAI",
       "slug": "azure-openai",

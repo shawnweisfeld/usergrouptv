@@ -1,12 +1,40 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2023-06-25T14:36:36.3129779Z",
+  "date": "2023-08-10T14:19:13.450486Z",
   "draft": false,
-  "recordingCount": "1,160",
+  "recordingCount": "1,161",
   "speakerCount": "644",
   "groupCount": "68",
   "newest": [
+    {
+      "title": "Using Parquet Files in Azure",
+      "slug": "using-parquet-files-in-azure",
+      "thumbnail": "https://i.vimeocdn.com/video/1708877119-685f93d2439f869c5b91e828d289a579194ff9e9c26701b0f7975592566d2efc-d_295x166",
+      "date": "2023-07-18T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Burek",
+          "slug": "mike-burek"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Parquet",
+          "slug": "parquet"
+        }
+      ]
+    },
     {
       "title": "Azure Storage",
       "slug": "azure-storage",
@@ -496,34 +524,6 @@
         {
           "name": "Public speaking",
           "slug": "public-speaking"
-        }
-      ]
-    },
-    {
-      "title": "SQL Server 2022 Workshop - 01 - Introduction to SQL Server 2022",
-      "slug": "sql-server-2022-workshop-01-introduction-to-sql-server-2022",
-      "thumbnail": "https://i.vimeocdn.com/video/1641441416-2d92e8953bb97638b72c0b31dcd833ade6408cfd25f9332c936c224c1db2083a-d_295x166",
-      "date": "2023-02-24T00:00:00",
-      "speakers": [
-        {
-          "name": "Bob Ward",
-          "slug": "bob-ward"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin SQL Saturday",
-          "slug": "austin-sql-saturday"
-        },
-        {
-          "name": "Austin Data User Group",
-          "slug": "austin-data-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "SQL Server 2022",
-          "slug": "sql-server-2022"
         }
       ]
     }

@@ -3,30 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usergroup.tv/videos/category/group/</loc>
-    <lastmod>2023-06-25T14:36:38+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/</loc>
-    <lastmod>2023-06-25T14:36:37+00:00</lastmod>
+    <lastmod>2023-08-10T14:19:15+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/</loc>
-    <lastmod>2023-06-25T14:36:37+00:00</lastmod>
+    <lastmod>2023-08-10T14:19:15+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/</loc>
+    <lastmod>2023-08-10T14:19:14+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/</loc>
-    <lastmod>2023-06-25T14:36:36+00:00</lastmod>
+    <lastmod>2023-08-10T14:19:13+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/</loc>
-    <lastmod>2023-06-25T14:36:36+00:00</lastmod>
+    <lastmod>2023-08-10T14:19:13+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
+    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/azure-austin-meetup/</loc>
+    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/dfw-azure-user-group/</loc>
+    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</loc>
+    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/mike-burek/</loc>
+    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/category/speaker/mike-burek/</loc>
+    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/parquet/</loc>
+    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/tag/parquet/</loc>
+    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/tags/</loc>
+    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://usergroup.tv/videos/using-parquet-files-in-azure/</loc>
+    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/azure/</loc>
     <lastmod>2023-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/azure/</loc>
-    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/azure-austin-meetup/</loc>
-    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/azure-austin-meetup/</loc>
     <lastmod>2023-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/azure-storage/</loc>
@@ -38,19 +62,7 @@
     <loc>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</loc>
     <lastmod>2023-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://usergroup.tv/tags/dfw-azure-user-group/</loc>
-    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</loc>
-    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://usergroup.tv/videos/get-the-most-from-ssms/</loc>
-    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/mike-burek/</loc>
-    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/videos/category/speaker/mike-burek/</loc>
     <lastmod>2023-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/sean-shen/</loc>
@@ -69,9 +81,6 @@
     <lastmod>2023-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/videos/tag/storage/</loc>
-    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://usergroup.tv/tags/</loc>
     <lastmod>2023-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usergroup.tv/tags/austin-power-bi-user-group/</loc>

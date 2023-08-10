@@ -29620,4 +29620,31 @@ By the end of this session, you will be a pro in Power BI bookmarks!</Excerpt>
       <slug>microsoft-fabric</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Using Parquet Files in Azure</Title>
+    <Url>https://usergroup.tv/videos/using-parquet-files-in-azure/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1708877119-685f93d2439f869c5b91e828d289a579194ff9e9c26701b0f7975592566d2efc-d_295x166</Thumbnail>
+    <Excerpt>For moving and storing data, Parquet files are everything that CSV aren’t. We’re going to look at how different Azure activities, components, resources use Parquet files in real life scenarios. You’ll come away wanting everything to be a parquet file. Well, at least an appreciation of the many benefits of parquet files, and an excitement to work with them. The technology and optimization of parquet files will not be a focus of this talk.</Excerpt>
+    <PostDate>2023-07-18T00:00:00</PostDate>
+    <Id>1167</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/852710925/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=f3431e3b2bd1ee28950192276a60d6abb7161866178e24624625a7330a95dab8</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/852710925/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=a2a54ebb9a032c25134b031f89aeb186723adf454af3fbcf76348853ff14db1c</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Mike Burek</name>
+      <slug>mike-burek</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Parquet</name>
+      <slug>parquet</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

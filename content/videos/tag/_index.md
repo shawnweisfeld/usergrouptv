@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2023-06-25T14:36:37.7934333Z",
+  "date": "2023-08-10T14:19:15.0284009Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -2179,6 +2179,13 @@
       "slug": "parallelism",
       "thumbnail": "https://i.vimeocdn.com/video/483485096-ed060be26892e1339eb2a9151e9b32035664bc781b22b362c52e9c6133e03d0f-d_295x166",
       "date": "2013-09-28T15:34:36",
+      "count": 1
+    },
+    {
+      "title": "Parquet",
+      "slug": "parquet",
+      "thumbnail": "https://i.vimeocdn.com/video/1708877119-685f93d2439f869c5b91e828d289a579194ff9e9c26701b0f7975592566d2efc-d_295x166",
+      "date": "2023-07-18T00:00:00",
       "count": 1
     },
     {

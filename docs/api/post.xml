@@ -29647,4 +29647,27 @@ By the end of this session, you will be a pro in Power BI bookmarks!</Excerpt>
       <slug>parquet</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>What's New in Power BI Data Viz</Title>
+    <Url>https://usergroup.tv/videos/whats-new-in-power-bi-data-viz/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1709322462-efb06021caa72deadfeb6f311b73b0a27c190412e2302bde467aea0b5bf282c6-d_295x166</Thumbnail>
+    <Excerpt>There have been several visual improvements in Power BI interactive reports in 2023. We'll review some of the top improvements, including measure-driven data labels, the new card visual, and subtitles. You'll see demonstrations of each feature, and we will chat about creative ways to use them.</Excerpt>
+    <PostDate>2023-08-09T00:00:00</PostDate>
+    <Id>1168</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/853461796/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=86a778607a391b6fb9ae7778cfa8bc914d29c2b96904f1a34bcd98ccb0022a19</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/853461796/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=ff18af19a17474c73886fe72d9ae02235c61782447df8592871dc386fc4df04c</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Meagan Longoria</name>
+      <slug>meagan-longoria</slug>
+    </Speakers>
+    <Groups>
+      <name>Austin Power BI User Group</name>
+      <slug>austin-power-bi-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Power BI</name>
+      <slug>power-bi</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

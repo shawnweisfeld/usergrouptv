@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "power-bi",
-  "date": "2023-05-10T00:00:00",
+  "date": "2023-08-09T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "What's New in Power BI Data Viz",
+      "slug": "whats-new-in-power-bi-data-viz",
+      "thumbnail": "https://i.vimeocdn.com/video/1709322462-efb06021caa72deadfeb6f311b73b0a27c190412e2302bde467aea0b5bf282c6-d_295x166",
+      "date": "2023-08-09T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Meagan Longoria",
+          "slug": "meagan-longoria"
+        }
+      ]
+    },
     {
       "title": "Using Jupyter Notebook With Power BI",
       "slug": "using-jupyter-notebook-with-power-bi",

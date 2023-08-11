@@ -5,9 +5,27 @@
     "Austin Power BI User Group"
   ],
   "slug": "austin-power-bi-user-group",
-  "date": "2023-06-14T00:00:00",
+  "date": "2023-08-09T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "What's New in Power BI Data Viz",
+      "slug": "whats-new-in-power-bi-data-viz",
+      "thumbnail": "https://i.vimeocdn.com/video/1709322462-efb06021caa72deadfeb6f311b73b0a27c190412e2302bde467aea0b5bf282c6-d_295x166",
+      "date": "2023-08-09T00:00:00",
+      "speakers": [
+        {
+          "name": "Meagan Longoria",
+          "slug": "meagan-longoria"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "Introduction to Direct Lake datasets in Fabric",
       "slug": "introduction-to-direct-lake-datasets-in-fabric",

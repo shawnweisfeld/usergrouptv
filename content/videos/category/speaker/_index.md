@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2023-08-10T14:19:14.0065742Z",
+  "date": "2023-08-11T13:37:54.8087078Z",
   "draft": false,
   "speakers": [
     {
@@ -2863,9 +2863,9 @@
     {
       "title": "Meagan Longoria",
       "slug": "meagan-longoria",
-      "thumbnail": "https://i.vimeocdn.com/video/1059080814-0c9f63216b2a51aade86f43346ca7d1db21bd1296ce58b65792ecd855640542f-d_295x166",
-      "date": "2021-02-10T00:00:00",
-      "count": 2
+      "thumbnail": "https://i.vimeocdn.com/video/1709322462-efb06021caa72deadfeb6f311b73b0a27c190412e2302bde467aea0b5bf282c6-d_295x166",
+      "date": "2023-08-09T00:00:00",
+      "count": 3
     },
     {
       "title": "Melissa Coates",

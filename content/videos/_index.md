@@ -1,12 +1,36 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2023-08-10T14:19:13.450486Z",
+  "date": "2023-08-11T13:37:53.8983115Z",
   "draft": false,
-  "recordingCount": "1,161",
+  "recordingCount": "1,162",
   "speakerCount": "644",
   "groupCount": "68",
   "newest": [
+    {
+      "title": "What's New in Power BI Data Viz",
+      "slug": "whats-new-in-power-bi-data-viz",
+      "thumbnail": "https://i.vimeocdn.com/video/1709322462-efb06021caa72deadfeb6f311b73b0a27c190412e2302bde467aea0b5bf282c6-d_295x166",
+      "date": "2023-08-09T00:00:00",
+      "speakers": [
+        {
+          "name": "Meagan Longoria",
+          "slug": "meagan-longoria"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "Using Parquet Files in Azure",
       "slug": "using-parquet-files-in-azure",
@@ -496,34 +520,6 @@
         {
           "name": "Azure Synapse",
           "slug": "azure-synapse"
-        }
-      ]
-    },
-    {
-      "title": "Why You Should Be Standing Here: Learning to Present a Session",
-      "slug": "why-you-should-be-standing-here-learning-to-present-a-session",
-      "thumbnail": "https://i.vimeocdn.com/video/1641445056-740dd43e77c3b5bc07aebb76762f8b075d630d8a1d2692a4c986f69dd47a7ee3-d_295x166",
-      "date": "2023-02-25T00:00:00",
-      "speakers": [
-        {
-          "name": "Grant Fritchey",
-          "slug": "grant-fritchey"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin SQL Saturday",
-          "slug": "austin-sql-saturday"
-        },
-        {
-          "name": "Austin Data User Group",
-          "slug": "austin-data-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Public speaking",
-          "slug": "public-speaking"
         }
       ]
     }

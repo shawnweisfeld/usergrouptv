@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2023-08-10T14:19:15.0284009Z",
+  "date": "2023-08-11T13:37:55.7883518Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -2289,9 +2289,9 @@
     {
       "title": "Power BI",
       "slug": "power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1673740025-a78c79c0b0017b01764218d254db8642688d718fbb7fe597b2cf557621f62b21-d_295x166",
-      "date": "2023-05-10T00:00:00",
-      "count": 40
+      "thumbnail": "https://i.vimeocdn.com/video/1709322462-efb06021caa72deadfeb6f311b73b0a27c190412e2302bde467aea0b5bf282c6-d_295x166",
+      "date": "2023-08-09T00:00:00",
+      "count": 41
     },
     {
       "title": "Power Map",

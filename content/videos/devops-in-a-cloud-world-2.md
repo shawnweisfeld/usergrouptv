@@ -37,7 +37,7 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 71
+      "count": 73
     },
     {
       "name": "Austin .NET UG",

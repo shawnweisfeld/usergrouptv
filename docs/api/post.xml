@@ -29670,4 +29670,62 @@ By the end of this session, you will be a pro in Power BI bookmarks!</Excerpt>
       <slug>power-bi</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>Developing Azure Functions using Python</Title>
+    <Url>https://usergroup.tv/videos/developing-azure-functions-using-python/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1713616477-1758a707526d3722d6e89f0bd6e0dfed3d77c77b43f51ec9b3053f075192556c-d_295x166</Thumbnail>
+    <Excerpt>Join us for a technical talk where we delve into the world of Azure Functions, a serverless compute service that allows developers to build and deploy event-driven applications with ease. Through the session, we will do a deep dive on Azure Functions, common use cases, how to get started, and demonstrate an end to end example using Azure Functions in Python to build an AI application.</Excerpt>
+    <PostDate>2023-08-15T00:00:00</PostDate>
+    <Id>1169</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/856727733/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=f132a0fb562a641ba9a52be0d7dc9363206c3c3d130f5c3de00064b788fa522a</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/856727733/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=7bba0b9f59d5c85aa26f0005beb3d3532f3769c18df805f9089f05e0a8075d5a</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Gavin Aguiar</name>
+      <slug>gavin-aguiar</slug>
+    </Speakers>
+    <Speakers>
+      <name>Shreya Batra</name>
+      <slug>shreya-batra</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Azure Functions</name>
+      <slug>azure-functions</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>GitHub Minute - Azure Functions</Title>
+    <Url>https://usergroup.tv/videos/github-minute-azure-functions/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1713616616-c7caf143cf1789cf3c7928f4db911c4cdd3dedf1de73ac639fd7c7738eaf67ae-d_295x166</Thumbnail>
+    <Excerpt>Create a GitHub workflow to automatically build and deploy code to your function app in Azure Functions</Excerpt>
+    <PostDate>2023-08-15T00:00:00</PostDate>
+    <Id>1170</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/856727597/rendition/720p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=eb5115f62d3b3d04288325ea38f9f2dd8b2fa926ba8be2ca01677e43651d4653</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/856727597/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=a346812d8ab632e8c6ed25cf3ce9fb5dd7970fd82b8b0c8f0735d90184f49531</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Gomti Mehta</name>
+      <slug>gomti-mehta</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Tags>
+      <name>GitHub</name>
+      <slug>github</slug>
+    </Tags>
+    <Tags>
+      <name>Azure Functions</name>
+      <slug>azure-functions</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

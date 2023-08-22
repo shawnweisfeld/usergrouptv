@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "github",
-  "date": "2021-04-20T00:00:00",
+  "date": "2023-08-15T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "GitHub Minute - Azure Functions",
+      "slug": "github-minute-azure-functions",
+      "thumbnail": "https://i.vimeocdn.com/video/1713616616-c7caf143cf1789cf3c7928f4db911c4cdd3dedf1de73ac639fd7c7738eaf67ae-d_295x166",
+      "date": "2023-08-15T00:00:00",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Gomti Mehta",
+          "slug": "gomti-mehta"
+        }
+      ]
+    },
     {
       "title": "Become a Contributor to Microsoft Docs",
       "slug": "become-a-contributor-to-microsoft-docs",

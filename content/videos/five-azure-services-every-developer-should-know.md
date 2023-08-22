@@ -43,7 +43,7 @@
     {
       "name": "Azure Functions",
       "slug": "azure-functions",
-      "count": 7
+      "count": 9
     },
     {
       "name": "Azure",
@@ -55,12 +55,12 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 71
+      "count": 73
     },
     {
       "name": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "count": 34
+      "count": 35
     },
     {
       "name": "Azure User Group - Houston",

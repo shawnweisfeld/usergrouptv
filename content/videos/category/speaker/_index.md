@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2023-08-11T13:37:54.8087078Z",
+  "date": "2023-08-22T11:06:05.1758322Z",
   "draft": false,
   "speakers": [
     {
@@ -1398,6 +1398,13 @@
       "count": 1
     },
     {
+      "title": "Gavin Aguiar",
+      "slug": "gavin-aguiar",
+      "thumbnail": "https://i.vimeocdn.com/video/1713616477-1758a707526d3722d6e89f0bd6e0dfed3d77c77b43f51ec9b3053f075192556c-d_295x166",
+      "date": "2023-08-15T00:00:00",
+      "count": 1
+    },
+    {
       "title": "Gene Webb",
       "slug": "gene-webb",
       "thumbnail": "https://i.vimeocdn.com/video/505503841-f6dd7e9e99475d58bb472f0ce411fcb909932bcba50d655f0cc8a638180e4307-d_295x166",
@@ -1458,6 +1465,13 @@
       "slug": "glynn-brewer",
       "thumbnail": "https://i.vimeocdn.com/video/486705234-65b5ea2447acb755f96690e67ea5084dc180b08d4ebbae09ec6f5c0ccb41a916-d_295x166",
       "date": "2014-08-22T17:37:57",
+      "count": 1
+    },
+    {
+      "title": "Gomti Mehta",
+      "slug": "gomti-mehta",
+      "thumbnail": "https://i.vimeocdn.com/video/1713616616-c7caf143cf1789cf3c7928f4db911c4cdd3dedf1de73ac639fd7c7738eaf67ae-d_295x166",
+      "date": "2023-08-15T00:00:00",
       "count": 1
     },
     {
@@ -3957,6 +3971,13 @@
       "slug": "shikhar-singh",
       "thumbnail": "https://i.vimeocdn.com/video/634593378-85cad0e51f03d5457ee80a403655b7d1c4a5dc4415ae53ed23468b6b6b245c87-d_295x166",
       "date": "2017-05-10T20:18:34",
+      "count": 1
+    },
+    {
+      "title": "Shreya Batra",
+      "slug": "shreya-batra",
+      "thumbnail": "https://i.vimeocdn.com/video/1713616477-1758a707526d3722d6e89f0bd6e0dfed3d77c77b43f51ec9b3053f075192556c-d_295x166",
+      "date": "2023-08-15T00:00:00",
       "count": 1
     },
     {

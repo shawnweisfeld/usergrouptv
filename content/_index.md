@@ -1,12 +1,72 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2023-08-11T13:37:53.8983115Z",
+  "date": "2023-08-22T11:06:01.6176211Z",
   "draft": false,
-  "recordingCount": "1,162",
-  "speakerCount": "644",
+  "recordingCount": "1,164",
+  "speakerCount": "647",
   "groupCount": "68",
   "newest": [
+    {
+      "title": "Developing Azure Functions using Python",
+      "slug": "developing-azure-functions-using-python",
+      "thumbnail": "https://i.vimeocdn.com/video/1713616477-1758a707526d3722d6e89f0bd6e0dfed3d77c77b43f51ec9b3053f075192556c-d_295x166",
+      "date": "2023-08-15T00:00:00",
+      "speakers": [
+        {
+          "name": "Gavin Aguiar",
+          "slug": "gavin-aguiar"
+        },
+        {
+          "name": "Shreya Batra",
+          "slug": "shreya-batra"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure Functions",
+          "slug": "azure-functions"
+        }
+      ]
+    },
+    {
+      "title": "GitHub Minute - Azure Functions",
+      "slug": "github-minute-azure-functions",
+      "thumbnail": "https://i.vimeocdn.com/video/1713616616-c7caf143cf1789cf3c7928f4db911c4cdd3dedf1de73ac639fd7c7738eaf67ae-d_295x166",
+      "date": "2023-08-15T00:00:00",
+      "speakers": [
+        {
+          "name": "Gomti Mehta",
+          "slug": "gomti-mehta"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ],
+      "tags": [
+        {
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "name": "Azure Functions",
+          "slug": "azure-functions"
+        }
+      ]
+    },
     {
       "title": "What's New in Power BI Data Viz",
       "slug": "whats-new-in-power-bi-data-viz",
@@ -464,62 +524,6 @@
         {
           "name": "SQL Server 2022",
           "slug": "sql-server-2022"
-        }
-      ]
-    },
-    {
-      "title": "From Zero to Hero on Synapse Spark pool",
-      "slug": "from-zero-to-hero-on-synapse-spark-pool",
-      "thumbnail": "https://i.vimeocdn.com/video/1641444136-6d80a80486b5b6e814e095586bb6d3a8d5827e44da9e3526cc156efb68c4d284-d_295x166",
-      "date": "2023-02-25T00:00:00",
-      "speakers": [
-        {
-          "name": "Armando Lacerda",
-          "slug": "armando-lacerda"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin SQL Saturday",
-          "slug": "austin-sql-saturday"
-        },
-        {
-          "name": "Austin Data User Group",
-          "slug": "austin-data-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Azure Synapse",
-          "slug": "azure-synapse"
-        }
-      ]
-    },
-    {
-      "title": "Introduction to Azure Synapse",
-      "slug": "introduction-to-azure-synapse",
-      "thumbnail": "https://i.vimeocdn.com/video/1641444518-9e02e03c9c6230eedaafc4a8a7a5b4108b1f7457dc9a1ccc3dbc30df1440440e-d_295x166",
-      "date": "2023-02-25T00:00:00",
-      "speakers": [
-        {
-          "name": "Warren Sifre",
-          "slug": "warren-sifre"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin SQL Saturday",
-          "slug": "austin-sql-saturday"
-        },
-        {
-          "name": "Austin Data User Group",
-          "slug": "austin-data-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Azure Synapse",
-          "slug": "azure-synapse"
         }
       ]
     }

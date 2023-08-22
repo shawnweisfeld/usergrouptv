@@ -5,9 +5,53 @@
   ],
   "type": "tag",
   "slug": "azure-functions",
-  "date": "2021-04-20T00:00:00",
+  "date": "2023-08-15T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Developing Azure Functions using Python",
+      "slug": "developing-azure-functions-using-python",
+      "thumbnail": "https://i.vimeocdn.com/video/1713616477-1758a707526d3722d6e89f0bd6e0dfed3d77c77b43f51ec9b3053f075192556c-d_295x166",
+      "date": "2023-08-15T00:00:00",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Gavin Aguiar",
+          "slug": "gavin-aguiar"
+        },
+        {
+          "name": "Shreya Batra",
+          "slug": "shreya-batra"
+        }
+      ]
+    },
+    {
+      "title": "GitHub Minute - Azure Functions",
+      "slug": "github-minute-azure-functions",
+      "thumbnail": "https://i.vimeocdn.com/video/1713616616-c7caf143cf1789cf3c7928f4db911c4cdd3dedf1de73ac639fd7c7738eaf67ae-d_295x166",
+      "date": "2023-08-15T00:00:00",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Gomti Mehta",
+          "slug": "gomti-mehta"
+        }
+      ]
+    },
     {
       "title": "Five Azure Services Every Developer Should Know",
       "slug": "five-azure-services-every-developer-should-know",

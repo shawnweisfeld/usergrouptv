@@ -6,7 +6,88 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Aug 2023 13:37:53 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Aug 2023 11:06:01 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Austin Meetup</title>
+      <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/azure-austin-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Functions</title>
+      <link>https://usergroup.tv/videos/tag/azure-functions/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/azure-functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing Azure Functions using Python</title>
+      <link>https://usergroup.tv/videos/developing-azure-functions-using-python/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/developing-azure-functions-using-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFW Azure User Group</title>
+      <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gavin Aguiar</title>
+      <link>https://usergroup.tv/videos/category/speaker/gavin-aguiar/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/gavin-aguiar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://usergroup.tv/videos/tag/github/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub Minute - Azure Functions</title>
+      <link>https://usergroup.tv/videos/github-minute-azure-functions/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/github-minute-azure-functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gomti Mehta</title>
+      <link>https://usergroup.tv/videos/category/speaker/gomti-mehta/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/gomti-mehta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shreya Batra</title>
+      <link>https://usergroup.tv/videos/category/speaker/shreya-batra/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/shreya-batra/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Austin Power BI User Group</title>
       <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
@@ -40,24 +121,6 @@
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/whats-new-in-power-bi-data-viz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure Austin Meetup</title>
-      <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
-      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/azure-austin-meetup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DFW Azure User Group</title>
-      <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
-      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
       <description></description>
     </item>
     
@@ -2573,15 +2636,6 @@
     </item>
     
     <item>
-      <title>Azure Functions</title>
-      <link>https://usergroup.tv/videos/tag/azure-functions/</link>
-      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/azure-functions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Become a Contributor to Microsoft Docs</title>
       <link>https://usergroup.tv/videos/become-a-contributor-to-microsoft-docs/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
@@ -2623,15 +2677,6 @@
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/five-azure-services-every-developer-should-know/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GitHub</title>
-      <link>https://usergroup.tv/videos/tag/github/</link>
-      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/github/</guid>
       <description></description>
     </item>
     

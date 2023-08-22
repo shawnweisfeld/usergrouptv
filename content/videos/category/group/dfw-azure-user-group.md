@@ -5,9 +5,31 @@
     "DFW Azure User Group"
   ],
   "slug": "dfw-azure-user-group",
-  "date": "2023-07-18T00:00:00",
+  "date": "2023-08-15T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Developing Azure Functions using Python",
+      "slug": "developing-azure-functions-using-python",
+      "thumbnail": "https://i.vimeocdn.com/video/1713616477-1758a707526d3722d6e89f0bd6e0dfed3d77c77b43f51ec9b3053f075192556c-d_295x166",
+      "date": "2023-08-15T00:00:00",
+      "speakers": [
+        {
+          "name": "Gavin Aguiar",
+          "slug": "gavin-aguiar"
+        },
+        {
+          "name": "Shreya Batra",
+          "slug": "shreya-batra"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure Functions",
+          "slug": "azure-functions"
+        }
+      ]
+    },
     {
       "title": "Using Parquet Files in Azure",
       "slug": "using-parquet-files-in-azure",

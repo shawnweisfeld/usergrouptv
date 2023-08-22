@@ -38,7 +38,7 @@
     {
       "name": "GitHub",
       "slug": "github",
-      "count": 2
+      "count": 3
     },
     {
       "name": "SQL",

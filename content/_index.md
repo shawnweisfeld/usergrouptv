@@ -1,12 +1,72 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2023-08-22T11:06:01.6176211Z",
+  "date": "2023-09-26T13:11:28.4418135Z",
   "draft": false,
-  "recordingCount": "1,164",
-  "speakerCount": "647",
+  "recordingCount": "1,166",
+  "speakerCount": "648",
   "groupCount": "68",
   "newest": [
+    {
+      "title": "Turbocharging PostgreSQL on Azure",
+      "slug": "turbocharging-postgresql-on-azure",
+      "thumbnail": "https://i.vimeocdn.com/video/1729408033-e2d628630f99919e14a471423cea27151fec8b7154c4036538e9f8cb7d3bc8a1-d_295x166",
+      "date": "2023-09-19T00:00:00",
+      "speakers": [
+        {
+          "name": "Ani Pandit",
+          "slug": "ani-pandit"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "PostgreSQL",
+          "slug": "postgresql"
+        }
+      ]
+    },
+    {
+      "title": "Use GitHub actions to create PostgreSQL service container.",
+      "slug": "use-github-actions-to-create-postgresql-service-container",
+      "thumbnail": "https://i.vimeocdn.com/video/1729407779-a38cdcd44642264509983f61b2f126d926a55bc897a2d3c4248877ad89301ab9-d_295x166",
+      "date": "2023-09-19T00:00:00",
+      "speakers": [
+        {
+          "name": "Gomti Mehta",
+          "slug": "gomti-mehta"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "name": "PostgreSQL",
+          "slug": "postgresql"
+        }
+      ]
+    },
     {
       "title": "Developing Azure Functions using Python",
       "slug": "developing-azure-functions-using-python",
@@ -54,6 +114,10 @@
         {
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
         }
       ],
       "tags": [
@@ -456,74 +520,6 @@
         {
           "name": "SQL",
           "slug": "sql"
-        }
-      ]
-    },
-    {
-      "title": "A Process for Securing SQL Server and Azure SQL DB Solutions",
-      "slug": "a-process-for-securing-sql-server-and-azure-sql-db-solutions",
-      "thumbnail": "https://i.vimeocdn.com/video/1641443485-4d8dddcbf930406a614ebd199bf427205a68a9ba963547f23e158eb0ce93605a-d_295x166",
-      "date": "2023-02-25T00:00:00",
-      "speakers": [
-        {
-          "name": "Michael Howard",
-          "slug": "michael-howard"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin SQL Saturday",
-          "slug": "austin-sql-saturday"
-        },
-        {
-          "name": "Austin Data User Group",
-          "slug": "austin-data-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Security",
-          "slug": "security"
-        },
-        {
-          "name": "SQL",
-          "slug": "sql"
-        },
-        {
-          "name": "SQL Security",
-          "slug": "sql-security"
-        },
-        {
-          "name": "SQL Azure",
-          "slug": "sql-azure"
-        }
-      ]
-    },
-    {
-      "title": "SQL Server 2022: The hybrid data platform",
-      "slug": "sql-server-2022-the-hybrid-data-platform",
-      "thumbnail": "https://i.vimeocdn.com/video/1641443812-213594722fb8e216f96d405189e11a385edfbb19c97888bd2c50c719cb51aa58-d_295x166",
-      "date": "2023-02-25T00:00:00",
-      "speakers": [
-        {
-          "name": "Bob Ward",
-          "slug": "bob-ward"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin SQL Saturday",
-          "slug": "austin-sql-saturday"
-        },
-        {
-          "name": "Austin Data User Group",
-          "slug": "austin-data-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "SQL Server 2022",
-          "slug": "sql-server-2022"
         }
       ]
     }

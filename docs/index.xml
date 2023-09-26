@@ -6,13 +6,76 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Aug 2023 11:06:01 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Sep 2023 13:11:28 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ani Pandit</title>
+      <link>https://usergroup.tv/videos/category/speaker/ani-pandit/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/ani-pandit/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Azure Austin Meetup</title>
       <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
-      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/category/group/azure-austin-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFW Azure User Group</title>
+      <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://usergroup.tv/videos/tag/github/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gomti Mehta</title>
+      <link>https://usergroup.tv/videos/category/speaker/gomti-mehta/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/gomti-mehta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL</title>
+      <link>https://usergroup.tv/videos/tag/postgresql/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/postgresql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turbocharging PostgreSQL on Azure</title>
+      <link>https://usergroup.tv/videos/turbocharging-postgresql-on-azure/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/turbocharging-postgresql-on-azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use GitHub actions to create PostgreSQL service container.</title>
+      <link>https://usergroup.tv/videos/use-github-actions-to-create-postgresql-service-container/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/use-github-actions-to-create-postgresql-service-container/</guid>
       <description></description>
     </item>
     
@@ -35,15 +98,6 @@
     </item>
     
     <item>
-      <title>DFW Azure User Group</title>
-      <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
-      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gavin Aguiar</title>
       <link>https://usergroup.tv/videos/category/speaker/gavin-aguiar/</link>
       <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
@@ -53,29 +107,11 @@
     </item>
     
     <item>
-      <title>GitHub</title>
-      <link>https://usergroup.tv/videos/tag/github/</link>
-      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>GitHub Minute - Azure Functions</title>
       <link>https://usergroup.tv/videos/github-minute-azure-functions/</link>
       <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/github-minute-azure-functions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gomti Mehta</title>
-      <link>https://usergroup.tv/videos/category/speaker/gomti-mehta/</link>
-      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/speaker/gomti-mehta/</guid>
       <description></description>
     </item>
     
@@ -2119,15 +2155,6 @@
       <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/understanding-dax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PostgreSQL</title>
-      <link>https://usergroup.tv/videos/tag/postgresql/</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/postgresql/</guid>
       <description></description>
     </item>
     

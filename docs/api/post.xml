@@ -29719,6 +29719,10 @@ By the end of this session, you will be a pro in Power BI bookmarks!</Excerpt>
       <name>Azure Austin Meetup</name>
       <slug>azure-austin-meetup</slug>
     </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
     <Tags>
       <name>GitHub</name>
       <slug>github</slug>
@@ -29726,6 +29730,64 @@ By the end of this session, you will be a pro in Power BI bookmarks!</Excerpt>
     <Tags>
       <name>Azure Functions</name>
       <slug>azure-functions</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Turbocharging PostgreSQL on Azure</Title>
+    <Url>https://usergroup.tv/videos/turbocharging-postgresql-on-azure/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1729408033-e2d628630f99919e14a471423cea27151fec8b7154c4036538e9f8cb7d3bc8a1-d_295x166</Thumbnail>
+    <Excerpt>Turbocharging PostgreSQL on Azure - Conquering Modern Application Challenges</Excerpt>
+    <PostDate>2023-09-19T00:00:00</PostDate>
+    <Id>1171</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/868316332/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=d93d3a5d32c79a9668267b1e1d90af56e19bd111784342713af7bd9fc40e573e</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/868316332/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=3532176106afcc210aa2518e83ad0e6a14c114e81e6874c36ecb6dcec389a13d</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Ani Pandit</name>
+      <slug>ani-pandit</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>PostgreSQL</name>
+      <slug>postgresql</slug>
+    </Tags>
+  </Post>
+  <Post>
+    <Title>Use GitHub actions to create PostgreSQL service container.</Title>
+    <Url>https://usergroup.tv/videos/use-github-actions-to-create-postgresql-service-container/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1729407779-a38cdcd44642264509983f61b2f126d926a55bc897a2d3c4248877ad89301ab9-d_295x166</Thumbnail>
+    <Excerpt>Use GitHub actions to create PostgreSQL service container.</Excerpt>
+    <PostDate>2023-09-19T00:00:00</PostDate>
+    <Id>1172</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/868316214/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=996497d636bfcd1b9332812f133f33ccbdd91544a855b720660fc2f1521bc3e8</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/868316214/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=c252537305f97b7a23ae110db67d607602b4c601d536f6ec080535346ef67456</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Gomti Mehta</name>
+      <slug>gomti-mehta</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>GitHub</name>
+      <slug>github</slug>
+    </Tags>
+    <Tags>
+      <name>PostgreSQL</name>
+      <slug>postgresql</slug>
     </Tags>
   </Post>
 </ArrayOfPost>

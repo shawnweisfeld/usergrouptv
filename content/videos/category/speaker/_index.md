@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2023-08-22T11:06:05.1758322Z",
+  "date": "2023-09-26T13:11:30.2474387Z",
   "draft": false,
   "speakers": [
     {
@@ -275,6 +275,13 @@
       "slug": "angela-tidwell",
       "thumbnail": "https://i.vimeocdn.com/video/796753194-996bd538202633d73542e3a68492a3266bf45e4ae81157531cddbf3a81638fe9-d_295x166",
       "date": "2019-06-18T15:39:15",
+      "count": 1
+    },
+    {
+      "title": "Ani Pandit",
+      "slug": "ani-pandit",
+      "thumbnail": "https://i.vimeocdn.com/video/1729408033-e2d628630f99919e14a471423cea27151fec8b7154c4036538e9f8cb7d3bc8a1-d_295x166",
+      "date": "2023-09-19T00:00:00",
       "count": 1
     },
     {
@@ -1470,9 +1477,9 @@
     {
       "title": "Gomti Mehta",
       "slug": "gomti-mehta",
-      "thumbnail": "https://i.vimeocdn.com/video/1713616616-c7caf143cf1789cf3c7928f4db911c4cdd3dedf1de73ac639fd7c7738eaf67ae-d_295x166",
-      "date": "2023-08-15T00:00:00",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1729407779-a38cdcd44642264509983f61b2f126d926a55bc897a2d3c4248877ad89301ab9-d_295x166",
+      "date": "2023-09-19T00:00:00",
+      "count": 2
     },
     {
       "title": "Gopi Kandhadi",

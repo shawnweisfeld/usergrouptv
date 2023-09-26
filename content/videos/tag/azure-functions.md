@@ -43,6 +43,10 @@
         {
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
         }
       ],
       "speakers": [

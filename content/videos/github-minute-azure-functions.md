@@ -24,14 +24,14 @@
       "name": "Gomti Mehta",
       "slug": "gomti-mehta",
       "bio": "Gomti is a dev advocate focused finding ways to make developers life easier so they can focus on delivering value and innovate. Gomti has more than a decade of software development experience and in the recent years she has worked as an app innovation specialist at Microsoft for Financial Services industry. Gomti is also passionate about fitness and nutrition and she is in love with Calisthenics.",
-      "count": 1
+      "count": 2
     }
   ],
   "ugtvtags": [
     {
       "name": "GitHub",
       "slug": "github",
-      "count": 3
+      "count": 4
     },
     {
       "name": "Azure Functions",
@@ -43,7 +43,12 @@
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 73
+      "count": 75
+    },
+    {
+      "name": "DFW Azure User Group",
+      "slug": "dfw-azure-user-group",
+      "count": 38
     }
   ]
 }

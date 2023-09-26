@@ -30,7 +30,7 @@
     {
       "name": "GitHub",
       "slug": "github",
-      "count": 3
+      "count": 4
     }
   ],
   "meetups": [

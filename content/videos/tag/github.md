@@ -5,9 +5,31 @@
   ],
   "type": "tag",
   "slug": "github",
-  "date": "2023-08-15T00:00:00",
+  "date": "2023-09-19T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Use GitHub actions to create PostgreSQL service container.",
+      "slug": "use-github-actions-to-create-postgresql-service-container",
+      "thumbnail": "https://i.vimeocdn.com/video/1729407779-a38cdcd44642264509983f61b2f126d926a55bc897a2d3c4248877ad89301ab9-d_295x166",
+      "date": "2023-09-19T00:00:00",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Gomti Mehta",
+          "slug": "gomti-mehta"
+        }
+      ]
+    },
     {
       "title": "GitHub Minute - Azure Functions",
       "slug": "github-minute-azure-functions",
@@ -17,6 +39,10 @@
         {
           "name": "Azure Austin Meetup",
           "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
         }
       ],
       "speakers": [

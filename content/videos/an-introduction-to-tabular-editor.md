@@ -23,21 +23,21 @@
       "name": "Alex Powers",
       "slug": "alex-powers",
       "bio": "From financial services to felines, the World Wide Web to professional wrestling - Alex Powers has an affinity for the conventional and unconventional when it comes to information. A self-proclaimed Excel and Power BI Enthusiast Alex Powers enjoys contributing to online forums and sharing his passion for empowering others using Microsoft technologies.",
-      "count": 2
+      "count": 3
     }
   ],
   "ugtvtags": [
     {
       "name": "Power BI",
       "slug": "power-bi",
-      "count": 41
+      "count": 42
     }
   ],
   "meetups": [
     {
       "name": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "count": 42
+      "count": 43
     }
   ]
 }

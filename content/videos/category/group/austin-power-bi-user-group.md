@@ -5,9 +5,31 @@
     "Austin Power BI User Group"
   ],
   "slug": "austin-power-bi-user-group",
-  "date": "2023-08-09T00:00:00",
+  "date": "2023-10-11T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Microsoft Fabric for Power BI Users",
+      "slug": "microsoft-fabric-for-power-bi-users",
+      "thumbnail": "https://i.vimeocdn.com/video/1743918175-abfe7d4a41356a45192b194515f7ea48eacc539b3fab125b6386a440352b1ed2-d_295x166",
+      "date": "2023-10-11T00:00:00",
+      "speakers": [
+        {
+          "name": "Alex Powers",
+          "slug": "alex-powers"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        },
+        {
+          "name": "Microsoft Fabric",
+          "slug": "microsoft-fabric"
+        }
+      ]
+    },
     {
       "title": "What's New in Power BI Data Viz",
       "slug": "whats-new-in-power-bi-data-viz",

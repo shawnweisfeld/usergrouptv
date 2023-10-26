@@ -5,10 +5,32 @@
   ],
   "type": "speaker",
   "slug": "alex-powers",
-  "date": "2022-04-13T00:00:00",
+  "date": "2023-10-11T00:00:00",
   "draft": false,
   "bio": "From financial services to felines, the World Wide Web to professional wrestling - Alex Powers has an affinity for the conventional and unconventional when it comes to information. A self-proclaimed Excel and Power BI Enthusiast Alex Powers enjoys contributing to online forums and sharing his passion for empowering others using Microsoft technologies.",
   "recordings": [
+    {
+      "title": "Microsoft Fabric for Power BI Users",
+      "slug": "microsoft-fabric-for-power-bi-users",
+      "thumbnail": "https://i.vimeocdn.com/video/1743918175-abfe7d4a41356a45192b194515f7ea48eacc539b3fab125b6386a440352b1ed2-d_295x166",
+      "date": "2023-10-11T00:00:00",
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        },
+        {
+          "name": "Microsoft Fabric",
+          "slug": "microsoft-fabric"
+        }
+      ]
+    },
     {
       "title": "A \"M\"ind Bending Experience: Custom Functions and Documentation in Power Query",
       "slug": "a-mind-bending-experience-custom-functions-and-documentation-in-power-query",

@@ -30,7 +30,7 @@
     {
       "name": "Power BI",
       "slug": "power-bi",
-      "count": 41
+      "count": 42
     }
   ],
   "meetups": [

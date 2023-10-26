@@ -6,22 +6,31 @@
     <description>Recent content in SQL Server on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql-server/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql-server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL Server</title>
+      <link>https://usergroup.tv/videos/tag/sql-server/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stored Procedure Data Flow Diagrams</title>
+      <link>https://usergroup.tv/videos/stored-procedure-data-flow-diagrams/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/stored-procedure-data-flow-diagrams/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Batch Mode Improvements Leveraging Modern Hardware</title>
       <link>https://usergroup.tv/videos/batch-mode-improvements-leveraging-modern-hardware/</link>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/batch-mode-improvements-leveraging-modern-hardware/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQL Server</title>
-      <link>https://usergroup.tv/videos/tag/sql-server/</link>
-      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/sql-server/</guid>
       <description></description>
     </item>
     

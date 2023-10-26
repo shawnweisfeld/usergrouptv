@@ -6,7 +6,88 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Sep 2023 13:11:28 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Oct 2023 00:37:01 +0000</lastBuildDate><atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Capitol Area Central Texas Users of SQL Server</title>
+      <link>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mike Burek</title>
+      <link>https://usergroup.tv/videos/category/speaker/mike-burek/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/mike-burek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server</title>
+      <link>https://usergroup.tv/videos/tag/sql-server/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/sql-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stored Procedure Data Flow Diagrams</title>
+      <link>https://usergroup.tv/videos/stored-procedure-data-flow-diagrams/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/stored-procedure-data-flow-diagrams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alex Powers</title>
+      <link>https://usergroup.tv/videos/category/speaker/alex-powers/</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/speaker/alex-powers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Austin Power BI User Group</title>
+      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Fabric</title>
+      <link>https://usergroup.tv/videos/tag/microsoft-fabric/</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/microsoft-fabric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Fabric for Power BI Users</title>
+      <link>https://usergroup.tv/videos/microsoft-fabric-for-power-bi-users/</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/microsoft-fabric-for-power-bi-users/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>https://usergroup.tv/videos/tag/power-bi/</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Ani Pandit</title>
       <link>https://usergroup.tv/videos/category/speaker/ani-pandit/</link>
@@ -125,15 +206,6 @@
     </item>
     
     <item>
-      <title>Austin Power BI User Group</title>
-      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
-      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Meagan Longoria</title>
       <link>https://usergroup.tv/videos/category/speaker/meagan-longoria/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
@@ -143,29 +215,11 @@
     </item>
     
     <item>
-      <title>Power BI</title>
-      <link>https://usergroup.tv/videos/tag/power-bi/</link>
-      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/power-bi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>What&#39;s New in Power BI Data Viz</title>
       <link>https://usergroup.tv/videos/whats-new-in-power-bi-data-viz/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/whats-new-in-power-bi-data-viz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mike Burek</title>
-      <link>https://usergroup.tv/videos/category/speaker/mike-burek/</link>
-      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/speaker/mike-burek/</guid>
       <description></description>
     </item>
     
@@ -202,15 +256,6 @@
       <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/azure-storage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Capitol Area Central Texas Users of SQL Server</title>
-      <link>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</link>
-      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</guid>
       <description></description>
     </item>
     
@@ -256,15 +301,6 @@
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/introduction-to-direct-lake-datasets-in-fabric/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Microsoft Fabric</title>
-      <link>https://usergroup.tv/videos/tag/microsoft-fabric/</link>
-      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/microsoft-fabric/</guid>
       <description></description>
     </item>
     
@@ -625,15 +661,6 @@
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/tag/sql-security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQL Server</title>
-      <link>https://usergroup.tv/videos/tag/sql-server/</link>
-      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/sql-server/</guid>
       <description></description>
     </item>
     
@@ -1687,15 +1714,6 @@
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usergroup.tv/videos/a-mind-bending-experience-custom-functions-and-documentation-in-power-query/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alex Powers</title>
-      <link>https://usergroup.tv/videos/category/speaker/alex-powers/</link>
-      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/speaker/alex-powers/</guid>
       <description></description>
     </item>
     

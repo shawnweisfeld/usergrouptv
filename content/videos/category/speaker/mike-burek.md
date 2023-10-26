@@ -5,10 +5,28 @@
   ],
   "type": "speaker",
   "slug": "mike-burek",
-  "date": "2023-07-18T00:00:00",
+  "date": "2023-10-17T00:00:00",
   "draft": false,
   "bio": "Mike Burek has worked with SQL Server for 25 years. Throughout his career, he has often worked with marketing data. From this, he has experience with various tools for ETL as the industry and programming has changed and matured over time. On the SQL Server side, he has held senior positions in database administration and database programming, focusing on optimization, automation, and increasing the value of data. Outside of work, he also runs the Austin SQL Server user group and makes a big effort to train others to help them grow in their careers.",
   "recordings": [
+    {
+      "title": "Stored Procedure Data Flow Diagrams",
+      "slug": "stored-procedure-data-flow-diagrams",
+      "thumbnail": "https://i.vimeocdn.com/video/1743918326-f5e6c104093461d78cbf6c9835417b5deb43e35ac3dec94efb4004590b48738e-d_295x166",
+      "date": "2023-10-17T00:00:00",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server",
+          "slug": "sql-server"
+        }
+      ]
+    },
     {
       "title": "Using Parquet Files in Azure",
       "slug": "using-parquet-files-in-azure",

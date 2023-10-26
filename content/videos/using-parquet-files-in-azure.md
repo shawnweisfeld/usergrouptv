@@ -23,7 +23,7 @@
       "name": "Mike Burek",
       "slug": "mike-burek",
       "bio": "Mike Burek has worked with SQL Server for 25 years. Throughout his career, he has often worked with marketing data. From this, he has experience with various tools for ETL as the industry and programming has changed and matured over time. On the SQL Server side, he has held senior positions in database administration and database programming, focusing on optimization, automation, and increasing the value of data. Outside of work, he also runs the Austin SQL Server user group and makes a big effort to train others to help them grow in their careers.",
-      "count": 15
+      "count": 16
     }
   ],
   "ugtvtags": [

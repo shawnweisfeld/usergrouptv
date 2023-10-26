@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2023-09-26T13:11:31.0022189Z",
+  "date": "2023-10-26T00:37:02.6404068Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -1855,9 +1855,9 @@
     {
       "title": "Microsoft Fabric",
       "slug": "microsoft-fabric",
-      "thumbnail": "https://i.vimeocdn.com/video/1688967782-26f7957cacfb02bb30f5e71a55f84a31a3fa194fa9c2fb7340ee19091e4ba01a-d_295x166",
-      "date": "2023-06-14T00:00:00",
-      "count": 1
+      "thumbnail": "https://i.vimeocdn.com/video/1743918175-abfe7d4a41356a45192b194515f7ea48eacc539b3fab125b6386a440352b1ed2-d_295x166",
+      "date": "2023-10-11T00:00:00",
+      "count": 2
     },
     {
       "title": "Microsoft Graph",
@@ -2289,9 +2289,9 @@
     {
       "title": "Power BI",
       "slug": "power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1709322462-efb06021caa72deadfeb6f311b73b0a27c190412e2302bde467aea0b5bf282c6-d_295x166",
-      "date": "2023-08-09T00:00:00",
-      "count": 41
+      "thumbnail": "https://i.vimeocdn.com/video/1743918175-abfe7d4a41356a45192b194515f7ea48eacc539b3fab125b6386a440352b1ed2-d_295x166",
+      "date": "2023-10-11T00:00:00",
+      "count": 42
     },
     {
       "title": "Power Map",
@@ -2849,9 +2849,9 @@
     {
       "title": "SQL Server",
       "slug": "sql-server",
-      "thumbnail": "https://i.vimeocdn.com/video/1641442393-292a6829adb02b7d0d27ddd3ac233e4e7edd2f0012010f9c90d6a052b13618d6-d_295x166",
-      "date": "2023-02-25T00:00:00",
-      "count": 13
+      "thumbnail": "https://i.vimeocdn.com/video/1743918326-f5e6c104093461d78cbf6c9835417b5deb43e35ac3dec94efb4004590b48738e-d_295x166",
+      "date": "2023-10-17T00:00:00",
+      "count": 14
     },
     {
       "title": "SQL Server 2017",

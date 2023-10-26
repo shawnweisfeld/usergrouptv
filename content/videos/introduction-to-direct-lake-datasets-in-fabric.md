@@ -30,14 +30,14 @@
     {
       "name": "Microsoft Fabric",
       "slug": "microsoft-fabric",
-      "count": 1
+      "count": 2
     }
   ],
   "meetups": [
     {
       "name": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "count": 42
+      "count": 43
     }
   ]
 }

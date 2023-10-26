@@ -30,7 +30,7 @@
     {
       "name": "Power BI",
       "slug": "power-bi",
-      "count": 41
+      "count": 42
     }
   ],
   "meetups": [
@@ -42,7 +42,7 @@
     {
       "name": "Capitol Area Central Texas Users of SQL Server",
       "slug": "capitol-area-central-texas-users-of-sql-server",
-      "count": 86
+      "count": 87
     }
   ]
 }

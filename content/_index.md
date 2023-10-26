@@ -1,12 +1,64 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2023-09-26T13:11:28.4418135Z",
+  "date": "2023-10-26T00:37:01.5319466Z",
   "draft": false,
-  "recordingCount": "1,166",
+  "recordingCount": "1,168",
   "speakerCount": "648",
   "groupCount": "68",
   "newest": [
+    {
+      "title": "Stored Procedure Data Flow Diagrams",
+      "slug": "stored-procedure-data-flow-diagrams",
+      "thumbnail": "https://i.vimeocdn.com/video/1743918326-f5e6c104093461d78cbf6c9835417b5deb43e35ac3dec94efb4004590b48738e-d_295x166",
+      "date": "2023-10-17T00:00:00",
+      "speakers": [
+        {
+          "name": "Mike Burek",
+          "slug": "mike-burek"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "tags": [
+        {
+          "name": "SQL Server",
+          "slug": "sql-server"
+        }
+      ]
+    },
+    {
+      "title": "Microsoft Fabric for Power BI Users",
+      "slug": "microsoft-fabric-for-power-bi-users",
+      "thumbnail": "https://i.vimeocdn.com/video/1743918175-abfe7d4a41356a45192b194515f7ea48eacc539b3fab125b6386a440352b1ed2-d_295x166",
+      "date": "2023-10-11T00:00:00",
+      "speakers": [
+        {
+          "name": "Alex Powers",
+          "slug": "alex-powers"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        },
+        {
+          "name": "Microsoft Fabric",
+          "slug": "microsoft-fabric"
+        }
+      ]
+    },
     {
       "title": "Turbocharging PostgreSQL on Azure",
       "slug": "turbocharging-postgresql-on-azure",
@@ -460,66 +512,6 @@
         {
           "name": "SQL Server",
           "slug": "sql-server"
-        }
-      ]
-    },
-    {
-      "title": "Faster Transactions: Query Tuning for Data Manipulation",
-      "slug": "faster-transactions-query-tuning-for-data-manipulation",
-      "thumbnail": "https://i.vimeocdn.com/video/1641442928-b706ec57b6a4f044d443440898fc56b3490b770862d5bb46398a3915256b3fc6-d_295x166",
-      "date": "2023-02-25T00:00:00",
-      "speakers": [
-        {
-          "name": "Jeff Iannucci",
-          "slug": "jeff-iannucci"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin SQL Saturday",
-          "slug": "austin-sql-saturday"
-        },
-        {
-          "name": "Austin Data User Group",
-          "slug": "austin-data-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "SQL Performance",
-          "slug": "sql-performance"
-        }
-      ]
-    },
-    {
-      "title": "Ground to Cloud: Your Migration Success Checklist",
-      "slug": "ground-to-cloud-your-migration-success-checklist",
-      "thumbnail": "https://i.vimeocdn.com/video/1641442552-4d2977523438a5688fd5ec5c35c8ab1de5b26e0e6a46e4de8fa1e1215fbbfb5d-d_295x166",
-      "date": "2023-02-25T00:00:00",
-      "speakers": [
-        {
-          "name": "Matt Gordon",
-          "slug": "matt-gordon"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin SQL Saturday",
-          "slug": "austin-sql-saturday"
-        },
-        {
-          "name": "Austin Data User Group",
-          "slug": "austin-data-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Cloud",
-          "slug": "cloud"
-        },
-        {
-          "name": "SQL",
-          "slug": "sql"
         }
       ]
     }

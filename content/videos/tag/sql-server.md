@@ -5,9 +5,27 @@
   ],
   "type": "tag",
   "slug": "sql-server",
-  "date": "2023-02-25T00:00:00",
+  "date": "2023-10-17T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Stored Procedure Data Flow Diagrams",
+      "slug": "stored-procedure-data-flow-diagrams",
+      "thumbnail": "https://i.vimeocdn.com/video/1743918326-f5e6c104093461d78cbf6c9835417b5deb43e35ac3dec94efb4004590b48738e-d_295x166",
+      "date": "2023-10-17T00:00:00",
+      "meetups": [
+        {
+          "name": "Capitol Area Central Texas Users of SQL Server",
+          "slug": "capitol-area-central-texas-users-of-sql-server"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "Mike Burek",
+          "slug": "mike-burek"
+        }
+      ]
+    },
     {
       "title": "Batch Mode Improvements Leveraging Modern Hardware",
       "slug": "batch-mode-improvements-leveraging-modern-hardware",

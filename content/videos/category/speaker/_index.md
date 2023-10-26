@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2023-09-26T13:11:30.2474387Z",
+  "date": "2023-10-26T00:37:02.1212122Z",
   "draft": false,
   "speakers": [
     {
@@ -112,9 +112,9 @@
     {
       "title": "Alex Powers",
       "slug": "alex-powers",
-      "thumbnail": "https://i.vimeocdn.com/video/1424297329-ccd6ae3c5e8e757fb15801ab54377c0490b4388708d1c08489214c9e56b383ab-d_295x166",
-      "date": "2022-04-13T00:00:00",
-      "count": 2
+      "thumbnail": "https://i.vimeocdn.com/video/1743918175-abfe7d4a41356a45192b194515f7ea48eacc539b3fab125b6386a440352b1ed2-d_295x166",
+      "date": "2023-10-11T00:00:00",
+      "count": 3
     },
     {
       "title": "Alex Suttmiller",
@@ -3045,9 +3045,9 @@
     {
       "title": "Mike Burek",
       "slug": "mike-burek",
-      "thumbnail": "https://i.vimeocdn.com/video/1708877119-685f93d2439f869c5b91e828d289a579194ff9e9c26701b0f7975592566d2efc-d_295x166",
-      "date": "2023-07-18T00:00:00",
-      "count": 15
+      "thumbnail": "https://i.vimeocdn.com/video/1743918326-f5e6c104093461d78cbf6c9835417b5deb43e35ac3dec94efb4004590b48738e-d_295x166",
+      "date": "2023-10-17T00:00:00",
+      "count": 16
     },
     {
       "title": "Mike Byrd",

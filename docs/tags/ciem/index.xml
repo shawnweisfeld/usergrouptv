@@ -6,24 +6,21 @@
     <description>Recent content in CIEM on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/ciem/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/ciem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CIEM</title>
       <link>https://usergroup.tv/videos/tag/ciem/</link>
       <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/ciem/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Microsoft Entra Permissions Management</title>
       <link>https://usergroup.tv/videos/microsoft-entra-permissions-management/</link>
       <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/microsoft-entra-permissions-management/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

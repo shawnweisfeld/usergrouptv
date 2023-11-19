@@ -6,96 +6,77 @@
     <description>Recent content in MVC on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jun 2013 19:38:11 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/mvc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jun 2013 19:38:11 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/mvc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mobile ASP.NET MVC</title>
       <link>https://usergroup.tv/videos/mobile-asp-net-mvc/</link>
       <pubDate>Wed, 05 Jun 2013 19:38:11 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/mobile-asp-net-mvc/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MVC</title>
       <link>https://usergroup.tv/videos/tag/mvc/</link>
       <pubDate>Wed, 05 Jun 2013 19:38:11 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/mvc/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Model-View Patterns</title>
       <link>https://usergroup.tv/videos/model-view-patterns/</link>
       <pubDate>Tue, 19 Jun 2012 11:33:03 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/model-view-patterns/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Client-Side MVC frameworks</title>
       <link>https://usergroup.tv/videos/client-side-mvc-frameworks/</link>
       <pubDate>Thu, 05 Jan 2012 01:15:45 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/client-side-mvc-frameworks/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Full Stack Web Day - Part 2</title>
       <link>https://usergroup.tv/videos/full-stack-web-day-part-2/</link>
       <pubDate>Sat, 03 Dec 2011 23:54:35 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/full-stack-web-day-part-2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Full Stack Web Day - Part 1</title>
       <link>https://usergroup.tv/videos/full-stack-web-day-part-1/</link>
       <pubDate>Sat, 03 Dec 2011 23:42:37 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/full-stack-web-day-part-1/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Full Stack Web Day - Part 3</title>
       <link>https://usergroup.tv/videos/full-stack-web-day-part-3/</link>
       <pubDate>Sat, 03 Dec 2011 00:01:12 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/full-stack-web-day-part-3/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ASP.NET MVC 3 In Action</title>
       <link>https://usergroup.tv/videos/asp-net-mvc-3-in-action/</link>
       <pubDate>Sat, 13 Aug 2011 02:27:39 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/asp-net-mvc-3-in-action/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>WebMatrix to ASP.NET MVC Web Camp: Part 5 - ASP.NET Web Forms vs. MVC</title>
       <link>https://usergroup.tv/videos/webmatrix-to-asp-net-mvc-web-camp-part-5-asp-net-web-forms-vs-mvc/</link>
       <pubDate>Mon, 16 May 2011 01:04:01 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/webmatrix-to-asp-net-mvc-web-camp-part-5-asp-net-web-forms-vs-mvc/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to MVC3 - &#34;How I dropped ViewState and learned to love the web&#34;</title>
       <link>https://usergroup.tv/videos/introduction-to-mvc3-how-i-dropped-viewstate-and-learned-to-love-the-web/</link>
       <pubDate>Tue, 26 Apr 2011 23:29:31 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/introduction-to-mvc3-how-i-dropped-viewstate-and-learned-to-love-the-web/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

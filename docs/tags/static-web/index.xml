@@ -6,24 +6,21 @@
     <description>Recent content in Static Web on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2020 13:52:05 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/static-web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Aug 2020 13:52:05 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/static-web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crazy Web Performance with Azure Static Web Apps</title>
       <link>https://usergroup.tv/videos/crazy-web-performance-with-azure-static-web-apps/</link>
       <pubDate>Tue, 25 Aug 2020 13:52:05 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/crazy-web-performance-with-azure-static-web-apps/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Static Web</title>
       <link>https://usergroup.tv/videos/tag/static-web/</link>
       <pubDate>Tue, 25 Aug 2020 13:52:05 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/static-web/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

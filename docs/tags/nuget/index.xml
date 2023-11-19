@@ -6,33 +6,28 @@
     <description>Recent content in Nuget on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 May 2012 11:09:37 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/nuget/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 May 2012 11:09:37 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/nuget/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nuget</title>
       <link>https://usergroup.tv/videos/tag/nuget/</link>
       <pubDate>Tue, 15 May 2012 11:09:37 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/nuget/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Simplifying Package Management with NuGet</title>
       <link>https://usergroup.tv/videos/simplifying-package-management-with-nuget/</link>
       <pubDate>Tue, 15 May 2012 11:09:37 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/simplifying-package-management-with-nuget/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Nuget</title>
       <link>https://usergroup.tv/videos/nuget/</link>
       <pubDate>Wed, 13 Jul 2011 19:34:43 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/nuget/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

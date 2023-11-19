@@ -6,78 +6,63 @@
     <description>Recent content in JavaScript on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2015 02:02:53 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Oct 2015 02:02:53 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JavaScript</title>
       <link>https://usergroup.tv/videos/tag/javascript/</link>
       <pubDate>Fri, 16 Oct 2015 02:02:53 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/javascript/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sugar &amp; Spice and everything nice about ES6 </title>
       <link>https://usergroup.tv/videos/sugar-spice-and-everything-nice-about-es6/</link>
       <pubDate>Fri, 16 Oct 2015 02:02:53 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/sugar-spice-and-everything-nice-about-es6/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Keeping Up With JavaScript</title>
       <link>https://usergroup.tv/videos/keeping-up-with-javascript/</link>
       <pubDate>Fri, 10 Oct 2014 11:26:28 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/keeping-up-with-javascript/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Javascript Task Runner Ultimate Marathon</title>
       <link>https://usergroup.tv/videos/javascript-task-runner-ultimate-marathon/</link>
       <pubDate>Fri, 16 May 2014 10:06:46 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/javascript-task-runner-ultimate-marathon/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>JavaScript Deep Dive </title>
       <link>https://usergroup.tv/videos/javascript-deep-dive/</link>
       <pubDate>Tue, 28 May 2013 21:10:07 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/javascript-deep-dive/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Just JavaScript</title>
       <link>https://usergroup.tv/videos/just-javascript/</link>
       <pubDate>Thu, 24 May 2012 11:20:32 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/just-javascript/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Conjunction junction, what&#39;s your function? (Javascript)</title>
       <link>https://usergroup.tv/videos/conjunction-junction-whats-your-function-javascript/</link>
       <pubDate>Sat, 10 Sep 2011 03:57:08 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/conjunction-junction-whats-your-function-javascript/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>WebMatrix to ASP.NET MVC Web Camp: Part 1 - Reboot Your JavaScript</title>
       <link>https://usergroup.tv/videos/webmatrix-to-asp-net-mvc-web-camp-part-1-reboot-your-javascript/</link>
       <pubDate>Mon, 16 May 2011 00:39:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/webmatrix-to-asp-net-mvc-web-camp-part-1-reboot-your-javascript/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

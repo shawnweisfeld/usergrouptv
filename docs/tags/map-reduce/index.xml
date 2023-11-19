@@ -6,24 +6,21 @@
     <description>Recent content in Map Reduce on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Aug 2012 00:50:30 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/map-reduce/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Aug 2012 00:50:30 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/map-reduce/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intro to Map Reduce on Hadoop</title>
       <link>https://usergroup.tv/videos/intro-to-map-reduce-on-hadoop/</link>
       <pubDate>Fri, 24 Aug 2012 00:50:30 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/intro-to-map-reduce-on-hadoop/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Map Reduce</title>
       <link>https://usergroup.tv/videos/tag/map-reduce/</link>
       <pubDate>Fri, 24 Aug 2012 00:50:30 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/map-reduce/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

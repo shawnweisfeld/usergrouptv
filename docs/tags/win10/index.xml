@@ -6,42 +6,35 @@
     <description>Recent content in Win10 on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2015 12:20:23 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/win10/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Sep 2015 12:20:23 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/win10/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Win10</title>
       <link>https://usergroup.tv/videos/tag/win10/</link>
       <pubDate>Sat, 26 Sep 2015 12:20:23 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/win10/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Windows 10 Development Readiness</title>
       <link>https://usergroup.tv/videos/windows-10-development-readiness/</link>
       <pubDate>Sat, 26 Sep 2015 12:20:23 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/windows-10-development-readiness/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Intro Windows 10 Development</title>
       <link>https://usergroup.tv/videos/intro-windows-10-development/</link>
       <pubDate>Sat, 12 Sep 2015 16:23:51 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/intro-windows-10-development/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Developing for Windows 10</title>
       <link>https://usergroup.tv/videos/developing-for-windows-10/</link>
       <pubDate>Sat, 12 Sep 2015 16:22:47 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/developing-for-windows-10/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

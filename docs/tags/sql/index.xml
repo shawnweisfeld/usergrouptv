@@ -6,267 +6,210 @@
     <description>Recent content in SQL on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/sql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Process for Securing SQL Server and Azure SQL DB Solutions</title>
       <link>https://usergroup.tv/videos/a-process-for-securing-sql-server-and-azure-sql-db-solutions/</link>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/a-process-for-securing-sql-server-and-azure-sql-db-solutions/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Ground to Cloud: Your Migration Success Checklist</title>
       <link>https://usergroup.tv/videos/ground-to-cloud-your-migration-success-checklist/</link>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/ground-to-cloud-your-migration-success-checklist/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL</title>
       <link>https://usergroup.tv/videos/tag/sql/</link>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/sql/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>JSON in SQL, Expanding the Possibilities!</title>
       <link>https://usergroup.tv/videos/json-in-sql-expanding-the-possibilities/</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/json-in-sql-expanding-the-possibilities/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Career Progression from DBA to Data Engineer and Beyond</title>
       <link>https://usergroup.tv/videos/career-progression-from-dba-to-data-engineer-and-beyond/</link>
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/career-progression-from-dba-to-data-engineer-and-beyond/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>New SQL Server 2022 commands</title>
       <link>https://usergroup.tv/videos/new-sql-server-2022-commands/</link>
       <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/new-sql-server-2022-commands/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Getting Started with SQL Server Performance Tuning</title>
       <link>https://usergroup.tv/videos/getting-started-with-sql-server-performance-tuning/</link>
       <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/getting-started-with-sql-server-performance-tuning/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>JOINS for fun and profit</title>
       <link>https://usergroup.tv/videos/joins-for-fun-and-profit/</link>
       <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/joins-for-fun-and-profit/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Prove Your Query Tuning Works</title>
       <link>https://usergroup.tv/videos/prove-your-query-tuning-works/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/prove-your-query-tuning-works/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SSMS Tips and Tricks</title>
       <link>https://usergroup.tv/videos/ssms-tips-and-tricks/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/ssms-tips-and-tricks/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>DBA Fired by the PowerShell Wiz</title>
       <link>https://usergroup.tv/videos/dba-fired-by-the-powershell-wiz/</link>
       <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/dba-fired-by-the-powershell-wiz/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The CASE statement</title>
       <link>https://usergroup.tv/videos/the-case-statement/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/the-case-statement/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Azure Arc Data Services</title>
       <link>https://usergroup.tv/videos/azure-arc-data-services/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/azure-arc-data-services/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Become a Contributor to Microsoft Docs</title>
       <link>https://usergroup.tv/videos/become-a-contributor-to-microsoft-docs/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/become-a-contributor-to-microsoft-docs/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>How to get the best TCO while running SQL Server on Azure VM</title>
       <link>https://usergroup.tv/videos/how-to-get-the-best-tco-while-running-sql-server-on-azure-vm/</link>
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/how-to-get-the-best-tco-while-running-sql-server-on-azure-vm/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MVP Locking and Blocking</title>
       <link>https://usergroup.tv/videos/mvp-locking-and-blocking/</link>
       <pubDate>Tue, 19 Feb 2019 15:30:18 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/mvp-locking-and-blocking/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The Master Stored Procedure Workshop</title>
       <link>https://usergroup.tv/videos/the-master-stored-procedure-workshop/</link>
       <pubDate>Sat, 25 Aug 2018 19:33:59 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/the-master-stored-procedure-workshop/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>T-SQL&#39;s Hidden Support Feature</title>
       <link>https://usergroup.tv/videos/t-sqls-hidden-support-feature/</link>
       <pubDate>Sat, 25 Aug 2018 19:29:44 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/t-sqls-hidden-support-feature/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Beginning T-SQL</title>
       <link>https://usergroup.tv/videos/beginning-t-sql/</link>
       <pubDate>Sat, 25 Aug 2018 19:28:43 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/beginning-t-sql/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Azure SQL Database: Where Does My Data Belong?</title>
       <link>https://usergroup.tv/videos/azure-sql-database-where-does-my-data-belong/</link>
       <pubDate>Sat, 21 Apr 2018 13:10:05 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/azure-sql-database-where-does-my-data-belong/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Dynamic SQL: Tables and Pivots</title>
       <link>https://usergroup.tv/videos/dynamic-sql-tables-and-pivots/</link>
       <pubDate>Sat, 14 Oct 2017 11:50:58 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/dynamic-sql-tables-and-pivots/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Troubleshooting Plan Changes with Query Store in SQL 2016</title>
       <link>https://usergroup.tv/videos/troubleshooting-plan-changes-with-query-store-in-sql-2016/</link>
       <pubDate>Tue, 20 Oct 2015 12:37:45 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/troubleshooting-plan-changes-with-query-store-in-sql-2016/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Monster Text Manipulation: Regular Expressions for the DBA</title>
       <link>https://usergroup.tv/videos/monster-text-manipulation-regular-expressions-for-the-dba/</link>
       <pubDate>Sat, 29 Aug 2015 13:45:57 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/monster-text-manipulation-regular-expressions-for-the-dba/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>How Active Directory affects SQL Server</title>
       <link>https://usergroup.tv/videos/how-active-directory-affects-sql-server-2/</link>
       <pubDate>Sat, 31 Jan 2015 23:37:33 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/how-active-directory-affects-sql-server-2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Make Your SQL Server Queries Go Faster </title>
       <link>https://usergroup.tv/videos/make-your-sql-server-queries-go-faster/</link>
       <pubDate>Mon, 12 Jan 2015 12:11:50 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/make-your-sql-server-queries-go-faster/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL Scripting</title>
       <link>https://usergroup.tv/videos/sql-scripting/</link>
       <pubDate>Fri, 26 Sep 2014 19:03:43 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/sql-scripting/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL Server Optimization for Developers</title>
       <link>https://usergroup.tv/videos/sql-server-optimization-for-developers/</link>
       <pubDate>Mon, 14 Apr 2014 12:11:21 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/sql-server-optimization-for-developers/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Unraveling Tangled Code</title>
       <link>https://usergroup.tv/videos/unraveling-tangled-code/</link>
       <pubDate>Sat, 24 Aug 2013 11:33:16 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/unraveling-tangled-code/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL Server Performance Monitoring &amp; Optimization</title>
       <link>https://usergroup.tv/videos/sql-server-performance-monitoring-optimization/</link>
       <pubDate>Sat, 17 Aug 2013 20:01:17 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/sql-server-performance-monitoring-optimization/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

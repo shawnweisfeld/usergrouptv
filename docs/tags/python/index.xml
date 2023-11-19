@@ -6,33 +6,28 @@
     <description>Recent content in Python on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python</title>
       <link>https://usergroup.tv/videos/tag/python/</link>
       <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/python/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Working with R and Python in Power BI</title>
       <link>https://usergroup.tv/videos/working-with-r-and-python-in-power-bi/</link>
       <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/working-with-r-and-python-in-power-bi/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ETL Using Python, Pandas, and Jupyter Notebook</title>
       <link>https://usergroup.tv/videos/etl-using-python-pandas-and-jupyter-notebook/</link>
       <pubDate>Sat, 08 Feb 2020 16:14:32 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/etl-using-python-pandas-and-jupyter-notebook/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

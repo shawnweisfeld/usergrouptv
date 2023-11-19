@@ -6,618 +6,483 @@
     <description>Recent content in Meetups on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Oct 2023 00:37:03 +0000</lastBuildDate><atom:link href="https://usergroup.tv/videos/category/group/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Nov 2023 05:20:13 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/videos/category/group/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Austin Power BI User Group</title>
+      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Capitol Area Central Texas Users of SQL Server</title>
       <link>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/capitol-area-central-texas-users-of-sql-server/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Austin Power BI User Group</title>
-      <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
-      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Azure Austin Meetup</title>
       <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/azure-austin-meetup/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>DFW Azure User Group</title>
       <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Austin Data User Group</title>
       <link>https://usergroup.tv/videos/category/group/austin-data-user-group/</link>
       <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/austin-data-user-group/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Austin SQL Saturday</title>
       <link>https://usergroup.tv/videos/category/group/austin-sql-saturday/</link>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/austin-sql-saturday/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Tulsa .NET User Group</title>
       <link>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</link>
       <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/tulsa-net-user-group/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Azure User Group - Houston</title>
       <link>https://usergroup.tv/videos/category/group/azure-user-group-houston/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/azure-user-group-houston/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Austin .NET UG</title>
       <link>https://usergroup.tv/videos/category/group/austin-net-ug/</link>
       <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/austin-net-ug/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Dallas .NET UG</title>
       <link>https://usergroup.tv/videos/category/group/dallas-net-ug/</link>
       <pubDate>Thu, 09 Jul 2020 18:32:55 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/dallas-net-ug/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Austin Office 365 and SharePoint User Group</title>
       <link>https://usergroup.tv/videos/category/group/austin-office-365-and-sharepoint-user-group/</link>
       <pubDate>Wed, 08 Jan 2020 16:14:38 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/austin-office-365-and-sharepoint-user-group/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Austin F# Meetup</title>
       <link>https://usergroup.tv/videos/category/group/austin-f-meetup/</link>
       <pubDate>Mon, 11 Nov 2019 17:23:37 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/austin-f-meetup/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Austin Agile</title>
       <link>https://usergroup.tv/videos/category/group/austin-agile/</link>
       <pubDate>Fri, 04 Oct 2019 16:51:06 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/austin-agile/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Joomla Day Texas</title>
       <link>https://usergroup.tv/videos/category/group/joomla-day-texas/</link>
       <pubDate>Sat, 28 Sep 2019 17:03:52 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/joomla-day-texas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>North Texas SQL Server User Group</title>
       <link>https://usergroup.tv/videos/category/group/north-texas-sql-server-user-group/</link>
       <pubDate>Thu, 18 Jul 2019 13:08:59 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/north-texas-sql-server-user-group/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL Saturday</title>
       <link>https://usergroup.tv/videos/category/group/sql-saturday/</link>
       <pubDate>Sat, 13 Jul 2019 14:09:40 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/sql-saturday/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MS Insider Dev Tour</title>
       <link>https://usergroup.tv/videos/category/group/ms-insider-dev-tour/</link>
       <pubDate>Mon, 24 Jun 2019 16:47:24 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/ms-insider-dev-tour/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Austin Global Azure Bootcamp</title>
       <link>https://usergroup.tv/videos/category/group/austin-global-azure-bootcamp/</link>
       <pubDate>Sat, 27 Apr 2019 13:51:15 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/austin-global-azure-bootcamp/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Austin Cloud Native Meetup</title>
       <link>https://usergroup.tv/videos/category/group/austin-cloud-native-meetup/</link>
       <pubDate>Thu, 15 Nov 2018 16:56:12 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/austin-cloud-native-meetup/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Dallas Dev Fest Weekend</title>
       <link>https://usergroup.tv/videos/category/group/dallas-dev-fest-weekend/</link>
       <pubDate>Sat, 13 Oct 2018 14:20:16 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/dallas-dev-fest-weekend/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Houston Techfest</title>
       <link>https://usergroup.tv/videos/category/group/houston-techfest/</link>
       <pubDate>Sun, 30 Sep 2018 14:45:11 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/houston-techfest/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL Saturday Baton Rouge</title>
       <link>https://usergroup.tv/videos/category/group/sql-saturday-baton-rouge/</link>
       <pubDate>Sat, 11 Aug 2018 15:59:10 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/sql-saturday-baton-rouge/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Houston SQL Saturday</title>
       <link>https://usergroup.tv/videos/category/group/houston-sql-saturday/</link>
       <pubDate>Sat, 23 Jun 2018 20:01:12 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/houston-sql-saturday/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Little Rock Tech Fest</title>
       <link>https://usergroup.tv/videos/category/group/little-rock-tech-fest/</link>
       <pubDate>Fri, 06 Oct 2017 22:29:44 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/little-rock-tech-fest/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ACT-W</title>
       <link>https://usergroup.tv/videos/category/group/act-w/</link>
       <pubDate>Sun, 06 Aug 2017 17:09:02 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/act-w/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Tulsa Tech Fest</title>
       <link>https://usergroup.tv/videos/category/group/tulsa-tech-fest/</link>
       <pubDate>Fri, 21 Jul 2017 14:17:40 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/tulsa-tech-fest/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Tulsa School of Dev</title>
       <link>https://usergroup.tv/videos/category/group/tulsa-school-of-dev/</link>
       <pubDate>Thu, 20 Jul 2017 14:21:23 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/tulsa-school-of-dev/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Aggieland .NET UG</title>
       <link>https://usergroup.tv/videos/category/group/aggieland-net-ug/</link>
       <pubDate>Tue, 18 Jul 2017 13:56:51 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/aggieland-net-ug/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Dallas ASP.NET UG</title>
       <link>https://usergroup.tv/videos/category/group/dallasaspnet/</link>
       <pubDate>Tue, 23 May 2017 11:07:26 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/dallasaspnet/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Developer Springboard</title>
       <link>https://usergroup.tv/videos/category/group/developer-springboard/</link>
       <pubDate>Thu, 26 Jan 2017 15:25:59 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/developer-springboard/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>State of .NET</title>
       <link>https://usergroup.tv/videos/category/group/state-of-net/</link>
       <pubDate>Thu, 15 Dec 2016 12:54:46 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/state-of-net/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Austin Mobile .NET Developers Group</title>
       <link>https://usergroup.tv/videos/category/group/austin-mobile-net-developers-group/</link>
       <pubDate>Wed, 16 Nov 2016 15:26:56 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/austin-mobile-net-developers-group/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>GM User Group</title>
       <link>https://usergroup.tv/videos/category/group/gm-user-group/</link>
       <pubDate>Thu, 08 Sep 2016 18:22:06 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/gm-user-group/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Oklahoma Groups</title>
       <link>https://usergroup.tv/videos/category/group/oklahoma/</link>
       <pubDate>Sat, 27 Aug 2016 16:00:12 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/oklahoma/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Austin Microsoft Developers Group</title>
       <link>https://usergroup.tv/videos/category/group/austin-microsoft-app-developers/</link>
       <pubDate>Tue, 31 May 2016 11:11:39 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/austin-microsoft-app-developers/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Microservices and Containers Austin</title>
       <link>https://usergroup.tv/videos/category/group/microservices-and-containers-austin/</link>
       <pubDate>Thu, 21 Apr 2016 10:57:35 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/microservices-and-containers-austin/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Ft. Worth .NET UG</title>
       <link>https://usergroup.tv/videos/category/group/ft-worth-net-ug/</link>
       <pubDate>Tue, 19 Apr 2016 17:51:38 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/ft-worth-net-ug/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>North Dallas .NET UG</title>
       <link>https://usergroup.tv/videos/category/group/north-dallas-net-ug/</link>
       <pubDate>Wed, 06 Apr 2016 10:25:59 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/north-dallas-net-ug/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MeasureUp</title>
       <link>https://usergroup.tv/videos/category/group/measure-up/</link>
       <pubDate>Sat, 26 Sep 2015 12:25:26 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/measure-up/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Xamarin Dev Days</title>
       <link>https://usergroup.tv/videos/category/group/xamarin-dev-days/</link>
       <pubDate>Sat, 06 Jun 2015 16:45:54 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/xamarin-dev-days/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>DFW Mobile .NET</title>
       <link>https://usergroup.tv/videos/category/group/dfw-mobile-net/</link>
       <pubDate>Wed, 13 May 2015 13:21:34 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/dfw-mobile-net/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Austin TFS UG</title>
       <link>https://usergroup.tv/videos/category/group/austin-tfs-ug/</link>
       <pubDate>Sat, 07 Feb 2015 03:43:49 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/austin-tfs-ug/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Dallas TechFest</title>
       <link>https://usergroup.tv/videos/category/group/dallas-techfest/</link>
       <pubDate>Fri, 10 Oct 2014 11:35:21 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/dallas-techfest/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>AgileDotNext</title>
       <link>https://usergroup.tv/videos/category/group/agiledotnext/</link>
       <pubDate>Sun, 24 Aug 2014 18:03:23 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/agiledotnext/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Cowtown Code Camp</title>
       <link>https://usergroup.tv/videos/category/group/cowtown-code-camp/</link>
       <pubDate>Sat, 14 Jun 2014 14:54:40 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/cowtown-code-camp/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Austin CodeCamp</title>
       <link>https://usergroup.tv/videos/category/group/austin-codecamp/</link>
       <pubDate>Sat, 17 Aug 2013 22:13:38 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/austin-codecamp/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Dallas XAML UG</title>
       <link>https://usergroup.tv/videos/category/group/dallas-xaml-ug/</link>
       <pubDate>Tue, 04 Jun 2013 15:27:08 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/dallas-xaml-ug/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Code PaLOUsa</title>
       <link>https://usergroup.tv/videos/category/group/code-palousa/</link>
       <pubDate>Sat, 27 Apr 2013 13:10:15 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/code-palousa/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Dallas C# SIG</title>
       <link>https://usergroup.tv/videos/category/group/dallas-c-sig/</link>
       <pubDate>Thu, 07 Feb 2013 00:50:11 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/dallas-c-sig/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>DFW C&#43;&#43; User Group</title>
       <link>https://usergroup.tv/videos/category/group/dfw-c-user-group/</link>
       <pubDate>Tue, 11 Sep 2012 15:04:58 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/dfw-c-user-group/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>North West Arkansas Tech Fest</title>
       <link>https://usergroup.tv/videos/category/group/north-west-arkansas-tech-fest/</link>
       <pubDate>Fri, 24 Aug 2012 13:00:45 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/north-west-arkansas-tech-fest/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Dallas HTML 5 UG</title>
       <link>https://usergroup.tv/videos/category/group/dallas-html-5-ug/</link>
       <pubDate>Tue, 14 Aug 2012 19:35:46 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/dallas-html-5-ug/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Microsoft</title>
       <link>https://usergroup.tv/videos/category/group/microsoft/</link>
       <pubDate>Wed, 13 Jun 2012 00:28:43 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/microsoft/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>VNext Dallas</title>
       <link>https://usergroup.tv/videos/category/group/vnext-dallas/</link>
       <pubDate>Thu, 24 May 2012 11:20:32 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/vnext-dallas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>North Texas PC UG</title>
       <link>https://usergroup.tv/videos/category/group/north-texas-pc-ug/</link>
       <pubDate>Sat, 28 Apr 2012 13:43:54 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/north-texas-pc-ug/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Agile .NET</title>
       <link>https://usergroup.tv/videos/category/group/agile-net/</link>
       <pubDate>Fri, 20 Apr 2012 19:03:59 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/agile-net/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>D/FW Connected Systems UG</title>
       <link>https://usergroup.tv/videos/category/group/dfw-connected-systems-ug/</link>
       <pubDate>Wed, 14 Mar 2012 21:11:52 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/dfw-connected-systems-ug/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>30 to Launch Dallas</title>
       <link>https://usergroup.tv/videos/category/group/30-to-launch-dallas/</link>
       <pubDate>Wed, 29 Feb 2012 01:49:54 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/30-to-launch-dallas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hands On Coding .NET Dallas</title>
       <link>https://usergroup.tv/videos/category/group/hands-on-coding-net-dallas/</link>
       <pubDate>Tue, 14 Feb 2012 15:23:50 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/hands-on-coding-net-dallas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Gravity Center</title>
       <link>https://usergroup.tv/videos/category/group/gravity-center/</link>
       <pubDate>Sun, 29 Jan 2012 14:40:11 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/gravity-center/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Chicago SharePoint UG</title>
       <link>https://usergroup.tv/videos/category/group/chicago-sharepoint-ug/</link>
       <pubDate>Thu, 03 Nov 2011 23:03:17 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/chicago-sharepoint-ug/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Chicago IT Architects Group</title>
       <link>https://usergroup.tv/videos/category/group/citag/</link>
       <pubDate>Wed, 02 Nov 2011 02:07:51 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/citag/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Dallas GiveCamp</title>
       <link>https://usergroup.tv/videos/category/group/dallas-givecamp/</link>
       <pubDate>Sat, 22 Oct 2011 23:30:25 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/dallas-givecamp/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Chicago PASS</title>
       <link>https://usergroup.tv/videos/category/group/chicago-pass/</link>
       <pubDate>Tue, 16 Aug 2011 02:40:07 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/chicago-pass/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>All About XAML UG</title>
       <link>https://usergroup.tv/videos/category/group/all-about-xaml-ug/</link>
       <pubDate>Wed, 06 Jul 2011 18:03:29 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/all-about-xaml-ug/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Microsoft Web Camp</title>
       <link>https://usergroup.tv/videos/category/group/microsoft-web-camp/</link>
       <pubDate>Mon, 16 May 2011 01:04:01 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/microsoft-web-camp/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>North Texas Silverlight UG</title>
       <link>https://usergroup.tv/videos/category/group/north-texas-silverlight-ug/</link>
       <pubDate>Mon, 09 May 2011 00:00:27 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/north-texas-silverlight-ug/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>DevelopMentor</title>
       <link>https://usergroup.tv/videos/category/group/developmentor/</link>
       <pubDate>Wed, 20 Apr 2011 14:30:23 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/developmentor/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

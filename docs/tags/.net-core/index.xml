@@ -6,96 +6,77 @@
     <description>Recent content in .NET Core on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/.net-core/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/.net-core/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>.NET Configuration In Depth</title>
       <link>https://usergroup.tv/videos/net-configuration-in-depth/</link>
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/net-configuration-in-depth/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>.NET Core</title>
       <link>https://usergroup.tv/videos/tag/net-core/</link>
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/net-core/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>But It was Logged! Practical Logging &amp; Monitoring with .NET Core</title>
       <link>https://usergroup.tv/videos/but-it-was-logged-practical-logging-monitoring-with-net-core/</link>
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/but-it-was-logged-practical-logging-monitoring-with-net-core/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Exploring an Immutable Architecture</title>
       <link>https://usergroup.tv/videos/exploring-an-immutable-architecture/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/exploring-an-immutable-architecture/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Building a .NET Application Using Azure Cosmos DB</title>
       <link>https://usergroup.tv/videos/building-a-net-application-using-azure-cosmos-db-2/</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/building-a-net-application-using-azure-cosmos-db-2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>High-performance APIs with gRPC and .NET</title>
       <link>https://usergroup.tv/videos/highperformance-apis-with-grpc-and-net/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/highperformance-apis-with-grpc-and-net/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Using the Compiler API in Real-World Scenarios</title>
       <link>https://usergroup.tv/videos/using-the-compiler-api-in-realworld-scenarios/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/using-the-compiler-api-in-realworld-scenarios/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The Future of C#</title>
       <link>https://usergroup.tv/videos/the-future-of-c/</link>
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/the-future-of-c/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>A Meeting with Scott Hunter !!</title>
       <link>https://usergroup.tv/videos/a-meeting-with-scott-hunter/</link>
       <pubDate>Tue, 26 May 2020 14:03:48 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/a-meeting-with-scott-hunter/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>An introduction to profiling and performance analysis in .NET Core 3</title>
       <link>https://usergroup.tv/videos/an-introduction-to-profiling-and-performance-analysis-in-net-core-3/</link>
       <pubDate>Mon, 11 Nov 2019 17:23:37 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/an-introduction-to-profiling-and-performance-analysis-in-net-core-3/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

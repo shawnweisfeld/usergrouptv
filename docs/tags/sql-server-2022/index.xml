@@ -6,78 +6,63 @@
     <description>Recent content in SQL Server 2022 on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql-server-2022/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/sql-server-2022/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SQL Server 2022</title>
       <link>https://usergroup.tv/videos/tag/sql-server-2022/</link>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/sql-server-2022/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL Server 2022: The hybrid data platform</title>
       <link>https://usergroup.tv/videos/sql-server-2022-the-hybrid-data-platform/</link>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/sql-server-2022-the-hybrid-data-platform/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL Server 2022 Workshop - 01 - Introduction to SQL Server 2022</title>
       <link>https://usergroup.tv/videos/sql-server-2022-workshop-01-introduction-to-sql-server-2022/</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/sql-server-2022-workshop-01-introduction-to-sql-server-2022/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL Server 2022 Workshop - 02 - Connect SQL Server 2022 to Azure</title>
       <link>https://usergroup.tv/videos/sql-server-2022-workshop-02-connect-sql-server-2022-to-azure/</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/sql-server-2022-workshop-02-connect-sql-server-2022-to-azure/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL Server 2022 Workshop - 03 - Accelerate performance with built-in query intelligence</title>
       <link>https://usergroup.tv/videos/sql-server-2022-workshop-03-accelerate-performance-with-builtin-query-intelligence/</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/sql-server-2022-workshop-03-accelerate-performance-with-builtin-query-intelligence/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL Server 2022 Workshop - 04 - Power your database with security, scalability, and availability</title>
       <link>https://usergroup.tv/videos/sql-server-2022-workshop-04-power-your-database-with-security-scalability-and-availability/</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/sql-server-2022-workshop-04-power-your-database-with-security-scalability-and-availability/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL Server 2022 Workshop - 05 - Access new sources with data virtualization and object storage</title>
       <link>https://usergroup.tv/videos/sql-server-2022-workshop-05-access-new-sources-with-data-virtualization-and-object-storage/</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/sql-server-2022-workshop-05-access-new-sources-with-data-virtualization-and-object-storage/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL Server 2022 Workshop - 06 - Enhance your application with new T-SQL capabilities</title>
       <link>https://usergroup.tv/videos/sql-server-2022-workshop-06-enhance-your-application-with-new-tsql-capabilities/</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/sql-server-2022-workshop-06-enhance-your-application-with-new-tsql-capabilities/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -6,69 +6,56 @@
     <description>Recent content in Docker on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker</title>
       <link>https://usergroup.tv/videos/tag/docker/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/docker/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Solutions to Local Kubernetes Development</title>
       <link>https://usergroup.tv/videos/solutions-to-local-kubernetes-development/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/solutions-to-local-kubernetes-development/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ASP.NET in Linux and Windows containers</title>
       <link>https://usergroup.tv/videos/aspnet-in-linux-and-windows-containers/</link>
       <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/aspnet-in-linux-and-windows-containers/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Dockerize Your Development</title>
       <link>https://usergroup.tv/videos/dockerize-your-development/</link>
       <pubDate>Thu, 20 Jul 2017 14:18:34 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/dockerize-your-development/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Develop/Deploy Node Apps with Docker</title>
       <link>https://usergroup.tv/videos/developdeploy-node-apps-with-docker/</link>
       <pubDate>Thu, 20 Jul 2017 14:16:36 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/developdeploy-node-apps-with-docker/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>How Docker simplifies continuous integration and continuous deployment </title>
       <link>https://usergroup.tv/videos/how-docker-simplifies-continuous-integration-and-continuous-deployment/</link>
       <pubDate>Mon, 11 Apr 2016 09:11:04 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/how-docker-simplifies-continuous-integration-and-continuous-deployment/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Docker</title>
       <link>https://usergroup.tv/videos/docker/</link>
       <pubDate>Sat, 26 Sep 2015 12:18:28 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/docker/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

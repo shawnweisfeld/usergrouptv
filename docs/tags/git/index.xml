@@ -6,78 +6,63 @@
     <description>Recent content in git on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2020 13:06:06 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jun 2020 13:06:06 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>git</title>
       <link>https://usergroup.tv/videos/tag/git/</link>
       <pubDate>Tue, 23 Jun 2020 13:06:06 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/git/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mastering the Git porcelain commands</title>
       <link>https://usergroup.tv/videos/mastering-the-git-porcelain-commands/</link>
       <pubDate>Tue, 23 Jun 2020 13:06:06 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/mastering-the-git-porcelain-commands/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Getting Started with Git/GitHub</title>
       <link>https://usergroup.tv/videos/getting-started-with-gitgithub/</link>
       <pubDate>Sat, 11 Aug 2018 15:49:54 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/getting-started-with-gitgithub/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Git in the Real World</title>
       <link>https://usergroup.tv/videos/git-in-the-real-world/</link>
       <pubDate>Mon, 09 Mar 2015 12:23:28 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/git-in-the-real-world/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>git AND TFS &gt; git OR TFS</title>
       <link>https://usergroup.tv/videos/git-and-tfs-git-or-tfs/</link>
       <pubDate>Sat, 14 Jun 2014 14:54:40 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/git-and-tfs-git-or-tfs/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Accessing a TFS Git Repo Programmatically </title>
       <link>https://usergroup.tv/videos/accessing-a-tfs-git-repo-programmatically/</link>
       <pubDate>Fri, 11 Apr 2014 23:40:08 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/accessing-a-tfs-git-repo-programmatically/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Git Workshop </title>
       <link>https://usergroup.tv/videos/git-workshop/</link>
       <pubDate>Tue, 04 Jun 2013 15:27:08 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/git-workshop/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to Git</title>
       <link>https://usergroup.tv/videos/introduction-to-git/</link>
       <pubDate>Thu, 02 Feb 2012 15:26:43 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/introduction-to-git/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -6,69 +6,56 @@
     <description>Recent content in BIML on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Jun 2018 19:37:12 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/biml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Jun 2018 19:37:12 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/biml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BIML</title>
       <link>https://usergroup.tv/videos/tag/biml/</link>
       <pubDate>Sat, 23 Jun 2018 19:37:12 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/biml/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Populating a Data Warehouse with SSIS and Biml Patterns</title>
       <link>https://usergroup.tv/videos/populating-a-data-warehouse-with-ssis-and-biml-patterns/</link>
       <pubDate>Sat, 23 Jun 2018 19:37:12 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/populating-a-data-warehouse-with-ssis-and-biml-patterns/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Agile Data Warehouse and ETL Design with Biml</title>
       <link>https://usergroup.tv/videos/agile-data-warehouse-and-etl-design-with-biml-2/</link>
       <pubDate>Sat, 17 Jun 2017 14:09:52 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/agile-data-warehouse-and-etl-design-with-biml-2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Agile Data Warehouse and ETL Design with Biml</title>
       <link>https://usergroup.tv/videos/agile-data-warehouse-and-etl-design-with-biml/</link>
       <pubDate>Sat, 04 Mar 2017 22:10:04 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/agile-data-warehouse-and-etl-design-with-biml/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to Biml</title>
       <link>https://usergroup.tv/videos/introduction-to-biml/</link>
       <pubDate>Sat, 14 May 2016 12:16:11 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/introduction-to-biml/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Increase your SSIS productivity with Biml</title>
       <link>https://usergroup.tv/videos/increase-your-ssis-productivity-with-biml/</link>
       <pubDate>Sat, 31 Jan 2015 14:06:07 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/increase-your-ssis-productivity-with-biml/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to BIML and BIMLScript</title>
       <link>https://usergroup.tv/videos/introduction-to-biml-and-bimlscript/</link>
       <pubDate>Sat, 24 Aug 2013 21:36:40 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/introduction-to-biml-and-bimlscript/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

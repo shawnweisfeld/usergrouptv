@@ -6,24 +6,21 @@
     <description>Recent content in SODA.net on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Oct 2017 16:13:09 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/soda.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Oct 2017 16:13:09 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/soda.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Build a Big Data .Net MVC App in 30 mins - SODA.net</title>
       <link>https://usergroup.tv/videos/build-a-big-data-net-mvc-app-in-30-mins-soda-net/</link>
       <pubDate>Fri, 06 Oct 2017 16:13:09 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/build-a-big-data-net-mvc-app-in-30-mins-soda-net/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SODA.net</title>
       <link>https://usergroup.tv/videos/tag/soda-net/</link>
       <pubDate>Fri, 06 Oct 2017 16:13:09 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/soda-net/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

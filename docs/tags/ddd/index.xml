@@ -6,60 +6,49 @@
     <description>Recent content in DDD on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2020 13:07:52 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jul 2020 13:07:52 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DDD</title>
       <link>https://usergroup.tv/videos/tag/ddd/</link>
       <pubDate>Tue, 07 Jul 2020 13:07:52 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/ddd/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introducing Domain-Driven Design</title>
       <link>https://usergroup.tv/videos/introducing-domain-driven-design/</link>
       <pubDate>Tue, 07 Jul 2020 13:07:52 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/introducing-domain-driven-design/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Domain-Driven Design, Distilled </title>
       <link>https://usergroup.tv/videos/domain-driven-design-distilled/</link>
       <pubDate>Fri, 16 Oct 2015 01:58:19 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/domain-driven-design-distilled/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CQRS, DDD, &amp; Event Sourcing</title>
       <link>https://usergroup.tv/videos/cqrs-ddd-event-sourcing/</link>
       <pubDate>Sat, 26 Sep 2015 12:15:10 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/cqrs-ddd-event-sourcing/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Event Sourcing</title>
       <link>https://usergroup.tv/videos/event-sourcing/</link>
       <pubDate>Mon, 13 Apr 2015 12:09:48 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/event-sourcing/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Practical Benefits of Using a Domain Model </title>
       <link>https://usergroup.tv/videos/practical-benefits-of-using-a-domain-model/</link>
       <pubDate>Tue, 14 Jan 2014 11:35:34 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/practical-benefits-of-using-a-domain-model/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

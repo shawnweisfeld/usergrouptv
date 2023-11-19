@@ -6,33 +6,28 @@
     <description>Recent content in edge on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2015 14:16:12 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/edge/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Sep 2015 14:16:12 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/edge/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>edge</title>
       <link>https://usergroup.tv/videos/tag/edge/</link>
       <pubDate>Tue, 22 Sep 2015 14:16:12 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/edge/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Microsoft’s Next Generation Web Initiatives: ASP.NET vNext, and Microsoft Edge - Part 1</title>
       <link>https://usergroup.tv/videos/microsofts-next-generation-web-initiatives-asp-net-vnext-and-microsoft-edge-part-1/</link>
       <pubDate>Tue, 22 Sep 2015 14:16:12 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/microsofts-next-generation-web-initiatives-asp-net-vnext-and-microsoft-edge-part-1/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>On the Edge: Introducing the new browser and rendering engine from Microsoft</title>
       <link>https://usergroup.tv/videos/on-the-edge-introducing-the-new-browser-and-rendering-engine-from-microsoft/</link>
       <pubDate>Wed, 15 Jul 2015 13:42:47 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/on-the-edge-introducing-the-new-browser-and-rendering-engine-from-microsoft/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

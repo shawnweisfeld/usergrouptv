@@ -6,33 +6,28 @@
     <description>Recent content in Microsoft on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Microsoft</title>
       <link>https://usergroup.tv/videos/tag/microsoft/</link>
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/microsoft/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The Future of C#</title>
       <link>https://usergroup.tv/videos/the-future-of-c/</link>
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/the-future-of-c/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Microsoft</title>
       <link>https://usergroup.tv/videos/category/group/microsoft/</link>
       <pubDate>Wed, 13 Jun 2012 00:28:43 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/microsoft/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

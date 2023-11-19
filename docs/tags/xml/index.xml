@@ -6,33 +6,28 @@
     <description>Recent content in XML on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Apr 2012 13:43:54 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/xml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Apr 2012 13:43:54 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/xml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C# in 24 Hours: Hour 14 - Working with XML</title>
       <link>https://usergroup.tv/videos/c-in-24-hours-hour-14-working-with-xml/</link>
       <pubDate>Sat, 28 Apr 2012 13:43:54 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/c-in-24-hours-hour-14-working-with-xml/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>XML</title>
       <link>https://usergroup.tv/videos/tag/xml/</link>
       <pubDate>Sat, 28 Apr 2012 13:43:54 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/xml/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Stored procedure tracing using the xml datatype</title>
       <link>https://usergroup.tv/videos/stored-procedure-tracing-using-the-xml-datatype/</link>
       <pubDate>Sat, 02 Apr 2011 21:57:55 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/stored-procedure-tracing-using-the-xml-datatype/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

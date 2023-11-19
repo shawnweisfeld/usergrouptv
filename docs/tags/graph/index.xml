@@ -6,24 +6,21 @@
     <description>Recent content in graph on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/graph/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/graph/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dungeons, Dragons, and Graph Databases</title>
       <link>https://usergroup.tv/videos/dungeons-dragons-and-graph-databases/</link>
       <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/dungeons-dragons-and-graph-databases/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>graph</title>
       <link>https://usergroup.tv/videos/tag/graph/</link>
       <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/graph/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

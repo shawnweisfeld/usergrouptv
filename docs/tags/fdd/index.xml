@@ -6,24 +6,21 @@
     <description>Recent content in FDD on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 May 2011 01:16:47 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/fdd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 May 2011 01:16:47 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/fdd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FDD</title>
       <link>https://usergroup.tv/videos/tag/fdd/</link>
       <pubDate>Fri, 27 May 2011 01:16:47 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/fdd/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Feel the POWER of FAITH Driven Development</title>
       <link>https://usergroup.tv/videos/feel-the-power-of-faith-driven-development/</link>
       <pubDate>Fri, 27 May 2011 01:16:47 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/feel-the-power-of-faith-driven-development/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

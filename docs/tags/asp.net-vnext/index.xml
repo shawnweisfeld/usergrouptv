@@ -6,51 +6,42 @@
     <description>Recent content in ASP.NET vNext on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2015 12:10:38 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/asp.net-vnext/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Sep 2015 12:10:38 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/asp.net-vnext/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ASP.NET vNext</title>
       <link>https://usergroup.tv/videos/tag/asp-net-vnext/</link>
       <pubDate>Sat, 26 Sep 2015 12:10:38 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/asp-net-vnext/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MVC6 – What You Need to Know When Moving to Next</title>
       <link>https://usergroup.tv/videos/mvc6-what-you-need-to-know-when-moving-to-next/</link>
       <pubDate>Sat, 26 Sep 2015 12:10:38 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/mvc6-what-you-need-to-know-when-moving-to-next/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Microsoft’s Next Generation Web Initiatives: ASP.NET vNext, and Microsoft Edge - Part 2</title>
       <link>https://usergroup.tv/videos/microsofts-next-generation-web-initiatives-asp-net-vnext-and-microsoft-edge-part-2/</link>
       <pubDate>Tue, 22 Sep 2015 14:18:40 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/microsofts-next-generation-web-initiatives-asp-net-vnext-and-microsoft-edge-part-2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>What&#39;s New in ASP.NET 5</title>
       <link>https://usergroup.tv/videos/whats-new-in-asp-net-5/</link>
       <pubDate>Sat, 12 Sep 2015 16:20:42 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/whats-new-in-asp-net-5/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Bring Your Own Tools - ASP.NET vNext Goes Cross-Platform</title>
       <link>https://usergroup.tv/videos/bring-your-own-tools-asp-net-vnext-goes-cross-platform/</link>
       <pubDate>Thu, 09 Oct 2014 10:51:49 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/bring-your-own-tools-asp-net-vnext-goes-cross-platform/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -6,60 +6,49 @@
     <description>Recent content in Blazor on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/blazor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/blazor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blazor</title>
       <link>https://usergroup.tv/videos/tag/blazor/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/blazor/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Intro to Blazor: The Best Parts</title>
       <link>https://usergroup.tv/videos/intro-to-blazor-the-best-parts/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/intro-to-blazor-the-best-parts/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Go Hybrid across Web, Desktop, &amp; Mobile with Blazor &amp; .NET MAUI</title>
       <link>https://usergroup.tv/videos/go-hybrid-across-web-desktop-mobile-with-blazor-net-maui/</link>
       <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/go-hybrid-across-web-desktop-mobile-with-blazor-net-maui/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>.NET 5 and .NET 6</title>
       <link>https://usergroup.tv/videos/net-5-and-net-6/</link>
       <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/net-5-and-net-6/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Blazor Architecture Patterns</title>
       <link>https://usergroup.tv/videos/blazor-architecture-patterns/</link>
       <pubDate>Mon, 14 Sep 2020 17:44:41 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/blazor-architecture-patterns/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>A Meeting with Scott Hunter !!</title>
       <link>https://usergroup.tv/videos/a-meeting-with-scott-hunter/</link>
       <pubDate>Tue, 26 May 2020 14:03:48 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/a-meeting-with-scott-hunter/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

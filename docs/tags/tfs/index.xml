@@ -6,60 +6,49 @@
     <description>Recent content in TFS on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Aug 2016 14:43:07 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/tfs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Aug 2016 14:43:07 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/tfs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Release Management with Team Services</title>
       <link>https://usergroup.tv/videos/release-management-with-team-services/</link>
       <pubDate>Fri, 05 Aug 2016 14:43:07 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/release-management-with-team-services/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>TFS</title>
       <link>https://usergroup.tv/videos/tag/tfs/</link>
       <pubDate>Fri, 05 Aug 2016 14:43:07 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/tfs/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>TFS Process Template Customizations</title>
       <link>https://usergroup.tv/videos/tfs-process-template-customizations/</link>
       <pubDate>Sat, 07 Feb 2015 03:43:49 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tfs-process-template-customizations/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Team Foundation Server 2013 Update 2</title>
       <link>https://usergroup.tv/videos/team-foundation-server-2013-update-2/</link>
       <pubDate>Fri, 30 May 2014 10:47:21 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/team-foundation-server-2013-update-2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Accessing a TFS Git Repo Programmatically </title>
       <link>https://usergroup.tv/videos/accessing-a-tfs-git-repo-programmatically/</link>
       <pubDate>Fri, 11 Apr 2014 23:40:08 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/accessing-a-tfs-git-repo-programmatically/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Experience of Migrating a Mid-sized team from Disconnected ALM tools to TFS</title>
       <link>https://usergroup.tv/videos/experience-of-migrating-a-mid-sized-team-from-disconnected-alm-tools-to-tfs/</link>
       <pubDate>Fri, 27 Sep 2013 02:37:22 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/experience-of-migrating-a-mid-sized-team-from-disconnected-alm-tools-to-tfs/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

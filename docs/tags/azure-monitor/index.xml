@@ -6,24 +6,21 @@
     <description>Recent content in Azure Monitor on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Dec 2018 16:51:12 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/azure-monitor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Dec 2018 16:51:12 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/azure-monitor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure Monitor</title>
       <link>https://usergroup.tv/videos/tag/azure-monitor/</link>
       <pubDate>Wed, 12 Dec 2018 16:51:12 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/azure-monitor/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Monitoring options for Azure</title>
       <link>https://usergroup.tv/videos/monitoring-options-for-azure/</link>
       <pubDate>Wed, 12 Dec 2018 16:51:12 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/monitoring-options-for-azure/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

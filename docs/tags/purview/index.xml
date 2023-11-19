@@ -6,24 +6,21 @@
     <description>Recent content in Purview on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/purview/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/purview/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Microsoft Purview: Unified Data Gov Made Easy and Extensible!</title>
       <link>https://usergroup.tv/videos/microsoft-purview-unified-data-gov-made-easy-and-extensible/</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/microsoft-purview-unified-data-gov-made-easy-and-extensible/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Purview</title>
       <link>https://usergroup.tv/videos/tag/purview/</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/purview/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

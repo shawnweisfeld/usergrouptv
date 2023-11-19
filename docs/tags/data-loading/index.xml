@@ -6,24 +6,21 @@
     <description>Recent content in Data Loading on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Mar 2017 21:53:45 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/data-loading/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Mar 2017 21:53:45 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/data-loading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Create a Data Loading Strategy</title>
       <link>https://usergroup.tv/videos/create-a-data-loading-strategy/</link>
       <pubDate>Sat, 04 Mar 2017 21:53:45 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/create-a-data-loading-strategy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Data Loading</title>
       <link>https://usergroup.tv/videos/tag/data-loading/</link>
       <pubDate>Sat, 04 Mar 2017 21:53:45 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/data-loading/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

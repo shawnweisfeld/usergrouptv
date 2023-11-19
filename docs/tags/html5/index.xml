@@ -6,69 +6,56 @@
     <description>Recent content in HTML5 on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Nov 2012 15:56:32 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/html5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Nov 2012 15:56:32 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/html5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HTML5</title>
       <link>https://usergroup.tv/videos/tag/html5/</link>
       <pubDate>Wed, 07 Nov 2012 15:56:32 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/html5/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Html5 Canvas: Drawing Cool Stuff With JavaScript</title>
       <link>https://usergroup.tv/videos/html5-canvas-drawing-cool-stuff-with-javascript/</link>
       <pubDate>Wed, 07 Nov 2012 15:56:32 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/html5-canvas-drawing-cool-stuff-with-javascript/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>HTML5 WEBSOCKETS: Real-Time Web</title>
       <link>https://usergroup.tv/videos/html5-websockets-real-time-web/</link>
       <pubDate>Tue, 14 Aug 2012 19:35:46 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/html5-websockets-real-time-web/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>What You Can Do Today with Html 5 and Css 3 on Mobile Devices</title>
       <link>https://usergroup.tv/videos/what-you-can-do-today-with-html-5-and-css-3-on-mobile-devices/</link>
       <pubDate>Wed, 04 Jan 2012 01:02:42 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/what-you-can-do-today-with-html-5-and-css-3-on-mobile-devices/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The HTML5 Future is Now: Using Modernizr, Poly-fills, and HTML5 Boilerplate</title>
       <link>https://usergroup.tv/videos/the-html5-future-is-now-using-modernizr-poly-fills-and-html5-boilerplate/</link>
       <pubDate>Fri, 07 Oct 2011 21:58:25 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/the-html5-future-is-now-using-modernizr-poly-fills-and-html5-boilerplate/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>HTML5: Code for all the platforms!</title>
       <link>https://usergroup.tv/videos/html5-code-for-all-the-platforms/</link>
       <pubDate>Fri, 07 Oct 2011 04:57:17 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/html5-code-for-all-the-platforms/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>WebMatrix to ASP.NET MVC Web Camp: Part 2 - Application Development with HTML5</title>
       <link>https://usergroup.tv/videos/webmatrix-to-asp-net-mvc-web-camp-part-2-application-development-with-html5/</link>
       <pubDate>Mon, 16 May 2011 00:54:30 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/webmatrix-to-asp-net-mvc-web-camp-part-2-application-development-with-html5/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

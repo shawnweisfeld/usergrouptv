@@ -1,12 +1,40 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2023-10-26T00:37:01.5319466Z",
+  "date": "2023-11-19T05:20:12.1717637Z",
   "draft": false,
-  "recordingCount": "1,168",
-  "speakerCount": "648",
+  "recordingCount": "1,169",
+  "speakerCount": "649",
   "groupCount": "68",
   "newest": [
+    {
+      "title": "Visual Calculations - Improvements to doing calculations in Power BI",
+      "slug": "visual-calculations-improvements-to-doing-calculations-in-power-bi",
+      "thumbnail": "https://i.vimeocdn.com/video/1755930933-8a6096a24b4640a8a7957c3fac2f5e577ceb3d922234a4b069eb41caea4f6ba0-d_295x166",
+      "date": "2023-11-08T00:00:00",
+      "speakers": [
+        {
+          "name": "Jeroen ter Heerdt",
+          "slug": "jeroen-ter-heerdt"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Austin Power BI User Group",
+          "slug": "austin-power-bi-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "PowerBI",
+          "slug": "powerbi"
+        },
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "Stored Procedure Data Flow Diagrams",
       "slug": "stored-procedure-data-flow-diagrams",
@@ -484,34 +512,6 @@
         {
           "name": "Measure Killer",
           "slug": "measure-killer"
-        }
-      ]
-    },
-    {
-      "title": "Batch Mode Improvements Leveraging Modern Hardware",
-      "slug": "batch-mode-improvements-leveraging-modern-hardware",
-      "thumbnail": "https://i.vimeocdn.com/video/1641442393-292a6829adb02b7d0d27ddd3ac233e4e7edd2f0012010f9c90d6a052b13618d6-d_295x166",
-      "date": "2023-02-25T00:00:00",
-      "speakers": [
-        {
-          "name": "Conor Cunningham",
-          "slug": "conor-cunningham"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin SQL Saturday",
-          "slug": "austin-sql-saturday"
-        },
-        {
-          "name": "Austin Data User Group",
-          "slug": "austin-data-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "SQL Server",
-          "slug": "sql-server"
         }
       ]
     }

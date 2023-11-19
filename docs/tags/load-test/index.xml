@@ -6,24 +6,21 @@
     <description>Recent content in Load Test on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Feb 2015 13:29:42 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/load-test/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Feb 2015 13:29:42 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/load-test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Load Test</title>
       <link>https://usergroup.tv/videos/tag/load-test/</link>
       <pubDate>Wed, 18 Feb 2015 13:29:42 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/load-test/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Load testing with Visual Studio and Azure</title>
       <link>https://usergroup.tv/videos/load-testing-with-visual-studio-and-azure/</link>
       <pubDate>Wed, 18 Feb 2015 13:29:42 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/load-testing-with-visual-studio-and-azure/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

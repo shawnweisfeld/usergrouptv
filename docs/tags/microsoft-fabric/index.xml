@@ -6,33 +6,28 @@
     <description>Recent content in Microsoft Fabric on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/microsoft-fabric/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/microsoft-fabric/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Microsoft Fabric</title>
       <link>https://usergroup.tv/videos/tag/microsoft-fabric/</link>
       <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/microsoft-fabric/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Microsoft Fabric for Power BI Users</title>
       <link>https://usergroup.tv/videos/microsoft-fabric-for-power-bi-users/</link>
       <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/microsoft-fabric-for-power-bi-users/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to Direct Lake datasets in Fabric</title>
       <link>https://usergroup.tv/videos/introduction-to-direct-lake-datasets-in-fabric/</link>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/introduction-to-direct-lake-datasets-in-fabric/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

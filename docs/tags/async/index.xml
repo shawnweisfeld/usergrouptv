@@ -6,60 +6,49 @@
     <description>Recent content in async on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Oct 2018 14:17:50 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/async/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Oct 2018 14:17:50 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/async/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>async</title>
       <link>https://usergroup.tv/videos/tag/async/</link>
       <pubDate>Sat, 13 Oct 2018 14:17:50 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/async/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Correcting Common Async/Await Mistakes</title>
       <link>https://usergroup.tv/videos/correcting-common-asyncawait-mistakes/</link>
       <pubDate>Sat, 13 Oct 2018 14:17:50 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/correcting-common-asyncawait-mistakes/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>All Requests are Asynchronous</title>
       <link>https://usergroup.tv/videos/all-requests-are-asynchronous/</link>
       <pubDate>Fri, 05 Aug 2016 14:52:38 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/all-requests-are-asynchronous/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Asyncing and Awaiting Windows 8</title>
       <link>https://usergroup.tv/videos/asyncing-and-awaiting-windows-8-3/</link>
       <pubDate>Thu, 05 Jul 2012 19:40:21 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/asyncing-and-awaiting-windows-8-3/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Asyncing and Awaiting Windows 8</title>
       <link>https://usergroup.tv/videos/asyncing-and-awaiting-windows-8-2/</link>
       <pubDate>Thu, 10 May 2012 11:02:11 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/asyncing-and-awaiting-windows-8-2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Asyncing and Awaiting Windows 8</title>
       <link>https://usergroup.tv/videos/asyncing-and-awaiting-windows-8/</link>
       <pubDate>Thu, 23 Feb 2012 21:29:27 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/asyncing-and-awaiting-windows-8/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

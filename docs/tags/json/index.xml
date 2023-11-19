@@ -6,42 +6,35 @@
     <description>Recent content in Json on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/json/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/json/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Json</title>
       <link>https://usergroup.tv/videos/tag/json/</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/json/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>JSON in SQL, Expanding the Possibilities!</title>
       <link>https://usergroup.tv/videos/json-in-sql-expanding-the-possibilities/</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/json-in-sql-expanding-the-possibilities/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Fun with Json</title>
       <link>https://usergroup.tv/videos/fun-with-json-2/</link>
       <pubDate>Fri, 01 Mar 2013 20:26:42 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/fun-with-json-2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Fun with Json</title>
       <link>https://usergroup.tv/videos/fun-with-json/</link>
       <pubDate>Fri, 24 Aug 2012 13:00:45 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/fun-with-json/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -6,24 +6,21 @@
     <description>Recent content in PWA on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 May 2018 15:54:32 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/pwa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 May 2018 15:54:32 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/pwa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lets build a PWA showing real time streaming data</title>
       <link>https://usergroup.tv/videos/lets-build-a-pwa-showing-real-time-streaming-data/</link>
       <pubDate>Sat, 05 May 2018 15:54:32 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/lets-build-a-pwa-showing-real-time-streaming-data/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>PWA</title>
       <link>https://usergroup.tv/videos/tag/pwa/</link>
       <pubDate>Sat, 05 May 2018 15:54:32 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/pwa/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

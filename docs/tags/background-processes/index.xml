@@ -6,24 +6,21 @@
     <description>Recent content in Background Processes on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/background-processes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/background-processes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Background Processes</title>
       <link>https://usergroup.tv/videos/tag/background-processes/</link>
       <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/background-processes/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Tactics for Building Background Services in .NET</title>
       <link>https://usergroup.tv/videos/tactics-for-building-background-services-in-net/</link>
       <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tactics-for-building-background-services-in-net/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

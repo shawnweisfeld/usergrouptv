@@ -6,33 +6,28 @@
     <description>Recent content in Azure Service Fabric on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Apr 2016 10:25:59 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/azure-service-fabric/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2016 10:25:59 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/azure-service-fabric/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure Service Fabric</title>
       <link>https://usergroup.tv/videos/tag/azure-service-fabric/</link>
       <pubDate>Wed, 06 Apr 2016 10:25:59 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/azure-service-fabric/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Building Micro Services with Service Fabric</title>
       <link>https://usergroup.tv/videos/building-micro-services-with-service-fabric/</link>
       <pubDate>Wed, 06 Apr 2016 10:25:59 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/building-micro-services-with-service-fabric/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Service Fabric: A platform for Building and Managing Highly Scalable Services</title>
       <link>https://usergroup.tv/videos/service-fabric-a-platform-for-building-and-managing-highly-scalable-services/</link>
       <pubDate>Thu, 14 May 2015 13:19:33 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/service-fabric-a-platform-for-building-and-managing-highly-scalable-services/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

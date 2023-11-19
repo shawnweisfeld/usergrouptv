@@ -6,24 +6,21 @@
     <description>Recent content in Regex on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2015 13:45:57 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/regex/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Aug 2015 13:45:57 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/regex/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Monster Text Manipulation: Regular Expressions for the DBA</title>
       <link>https://usergroup.tv/videos/monster-text-manipulation-regular-expressions-for-the-dba/</link>
       <pubDate>Sat, 29 Aug 2015 13:45:57 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/monster-text-manipulation-regular-expressions-for-the-dba/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Regex</title>
       <link>https://usergroup.tv/videos/tag/regex/</link>
       <pubDate>Sat, 29 Aug 2015 13:45:57 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/regex/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

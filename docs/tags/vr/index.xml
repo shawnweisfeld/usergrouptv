@@ -6,24 +6,21 @@
     <description>Recent content in VR on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Aug 2017 17:10:45 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/vr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Aug 2017 17:10:45 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/vr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FAR FROM HYPE: THE POWER OF IMMERSIVE EXPERIENCES WITH VR</title>
       <link>https://usergroup.tv/videos/far-from-hype-the-power-of-immersive-experiences-with-vr/</link>
       <pubDate>Sat, 05 Aug 2017 17:10:45 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/far-from-hype-the-power-of-immersive-experiences-with-vr/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>VR</title>
       <link>https://usergroup.tv/videos/tag/vr/</link>
       <pubDate>Sat, 05 Aug 2017 17:10:45 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/vr/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

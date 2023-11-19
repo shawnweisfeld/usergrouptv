@@ -6,33 +6,28 @@
     <description>Recent content in SQL AlwaysOn on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jul 2017 13:59:05 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql-alwayson/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jul 2017 13:59:05 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/sql-alwayson/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HA 101 - Which High Availability Feature(s) Are For You?</title>
       <link>https://usergroup.tv/videos/ha-101-which-high-availability-features-are-for-you/</link>
       <pubDate>Tue, 18 Jul 2017 13:59:05 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/ha-101-which-high-availability-features-are-for-you/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL AlwaysOn</title>
       <link>https://usergroup.tv/videos/tag/sql-alwayson/</link>
       <pubDate>Tue, 18 Jul 2017 13:59:05 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/sql-alwayson/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>AlwaysOn Live Deployment</title>
       <link>https://usergroup.tv/videos/alwayson-live-deployment/</link>
       <pubDate>Sat, 31 Jan 2015 14:03:41 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/alwayson-live-deployment/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

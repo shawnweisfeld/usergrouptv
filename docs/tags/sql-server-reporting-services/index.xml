@@ -6,24 +6,21 @@
     <description>Recent content in SQL Server Reporting Services on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Sep 2011 04:45:51 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql-server-reporting-services/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Sep 2011 04:45:51 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/sql-server-reporting-services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SQL Server Reporting Services</title>
       <link>https://usergroup.tv/videos/tag/sql-server-reporting-services/</link>
       <pubDate>Sat, 10 Sep 2011 04:45:51 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/sql-server-reporting-services/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL Server Reporting Services: Develop &amp; Deploy Reports</title>
       <link>https://usergroup.tv/videos/sql-server-reporting-services-develop-deploy-reports/</link>
       <pubDate>Sat, 10 Sep 2011 04:45:51 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/sql-server-reporting-services-develop-deploy-reports/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

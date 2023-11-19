@@ -6,42 +6,35 @@
     <description>Recent content in Entity Framework on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/entity-framework/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/entity-framework/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Entity Framework</title>
       <link>https://usergroup.tv/videos/tag/entity-framework/</link>
       <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/entity-framework/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Entity Framework Performance Monitoring and Tuning</title>
       <link>https://usergroup.tv/videos/entity-framework-performance-monitoring-and-tuning/</link>
       <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/entity-framework-performance-monitoring-and-tuning/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Know What Your Code is Doing to SQL Server!</title>
       <link>https://usergroup.tv/videos/know-what-your-code-is-doing-to-sql-server/</link>
       <pubDate>Sat, 11 Aug 2018 15:51:07 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/know-what-your-code-is-doing-to-sql-server/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Integration Testing of Entity Framework Applications</title>
       <link>https://usergroup.tv/videos/integration-testing-of-entity-framework-applications/</link>
       <pubDate>Thu, 20 Jul 2017 14:21:23 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/integration-testing-of-entity-framework-applications/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

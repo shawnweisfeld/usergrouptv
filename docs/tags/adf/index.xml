@@ -6,24 +6,21 @@
     <description>Recent content in ADF on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/adf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/adf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ADF</title>
       <link>https://usergroup.tv/videos/tag/adf/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/adf/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Azure Data Factory Tips and Tricks</title>
       <link>https://usergroup.tv/videos/azure-data-factory-tips-and-tricks/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/azure-data-factory-tips-and-tricks/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

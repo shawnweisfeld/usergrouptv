@@ -6,33 +6,28 @@
     <description>Recent content in VB.NET on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Jan 2013 21:35:39 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/vb.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Jan 2013 21:35:39 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/vb.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meeting: Cross-Platform Development: Let&#39;s get real</title>
       <link>https://usergroup.tv/videos/meeting-cross-platform-development-lets-get-real/</link>
       <pubDate>Tue, 15 Jan 2013 21:35:39 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/meeting-cross-platform-development-lets-get-real/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>VB.NET</title>
       <link>https://usergroup.tv/videos/tag/vb-net/</link>
       <pubDate>Tue, 15 Jan 2013 21:35:39 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/vb-net/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Portable Library: Write Once, Utilize Everywhere</title>
       <link>https://usergroup.tv/videos/portable-library-write-once-utilize-everywhere/</link>
       <pubDate>Wed, 18 Jul 2012 14:11:41 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/portable-library-write-once-utilize-everywhere/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

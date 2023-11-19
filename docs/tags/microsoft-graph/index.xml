@@ -6,33 +6,28 @@
     <description>Recent content in Microsoft Graph on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jun 2019 16:41:59 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/microsoft-graph/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jun 2019 16:41:59 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/microsoft-graph/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Connect your Desktop Apps with the Microsoft Graph</title>
       <link>https://usergroup.tv/videos/connect-your-desktop-apps-with-the-microsoft-graph/</link>
       <pubDate>Mon, 24 Jun 2019 16:41:59 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/connect-your-desktop-apps-with-the-microsoft-graph/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Microsoft Graph</title>
       <link>https://usergroup.tv/videos/tag/microsoft-graph/</link>
       <pubDate>Mon, 24 Jun 2019 16:41:59 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/microsoft-graph/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Microsoft Graph: What is it and what it means for the SharePoint community</title>
       <link>https://usergroup.tv/videos/microsoft-graph-what-is-it-and-what-it-means-for-the-sharepoint-community/</link>
       <pubDate>Wed, 13 Jun 2018 13:28:22 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/microsoft-graph-what-is-it-and-what-it-means-for-the-sharepoint-community/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

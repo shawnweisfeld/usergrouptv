@@ -6,24 +6,21 @@
     <description>Recent content in XML Source on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Aug 2013 11:39:21 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/xml-source/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Aug 2013 11:39:21 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/xml-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to the XML Source</title>
       <link>https://usergroup.tv/videos/introduction-to-the-xml-source/</link>
       <pubDate>Sat, 24 Aug 2013 11:39:21 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/introduction-to-the-xml-source/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>XML Source</title>
       <link>https://usergroup.tv/videos/tag/xml-source/</link>
       <pubDate>Sat, 24 Aug 2013 11:39:21 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/xml-source/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -6,33 +6,28 @@
     <description>Recent content in Azure IaaS on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Oct 2017 12:00:28 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/azure-iaas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Oct 2017 12:00:28 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/azure-iaas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure IaaS</title>
       <link>https://usergroup.tv/videos/tag/azure-iaas/</link>
       <pubDate>Sat, 14 Oct 2017 12:00:28 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/azure-iaas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>From the Closet to the Cloud! Physical to Virtual Migration of Linux Systems and Services</title>
       <link>https://usergroup.tv/videos/from-the-closet-to-the-cloud-physical-to-virtual-migration-of-linux-systems-and-services/</link>
       <pubDate>Sat, 14 Oct 2017 12:00:28 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/from-the-closet-to-the-cloud-physical-to-virtual-migration-of-linux-systems-and-services/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Discover the Magic of Managed Disks in Azure </title>
       <link>https://usergroup.tv/videos/discover-the-magic-of-managed-disks-in-azure/</link>
       <pubDate>Wed, 19 Apr 2017 14:14:35 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/discover-the-magic-of-managed-disks-in-azure/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -6,42 +6,35 @@
     <description>Recent content in Knockout.js on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2015 02:08:48 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/knockout.js/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Oct 2015 02:08:48 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/knockout.js/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Knockout.js</title>
       <link>https://usergroup.tv/videos/tag/knockout-js/</link>
       <pubDate>Fri, 16 Oct 2015 02:08:48 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/knockout-js/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Modern UIs with Knockoutjs and Stateful CSS </title>
       <link>https://usergroup.tv/videos/modern-uis-with-knockoutjs-and-stateful-css/</link>
       <pubDate>Fri, 16 Oct 2015 02:08:48 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/modern-uis-with-knockoutjs-and-stateful-css/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>knockout.js vs backbone.js</title>
       <link>https://usergroup.tv/videos/knockout-js-vs-backbone-js/</link>
       <pubDate>Sat, 09 Jun 2012 10:37:11 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/knockout-js-vs-backbone-js/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Knockout.js</title>
       <link>https://usergroup.tv/videos/knockout-js/</link>
       <pubDate>Thu, 22 Mar 2012 12:00:36 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/knockout-js/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

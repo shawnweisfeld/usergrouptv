@@ -6,33 +6,28 @@
     <description>Recent content in LINQ on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2015 16:25:34 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/linq/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Sep 2015 16:25:34 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/linq/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Giving Clarity to LINQ Queries by Extending Expressions</title>
       <link>https://usergroup.tv/videos/giving-clarity-to-linq-queries-by-extending-expressions/</link>
       <pubDate>Sat, 12 Sep 2015 16:25:34 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/giving-clarity-to-linq-queries-by-extending-expressions/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>LINQ</title>
       <link>https://usergroup.tv/videos/tag/linq/</link>
       <pubDate>Sat, 12 Sep 2015 16:25:34 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/linq/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>LINQ - An Average Joe’s Guide (or &#34;It’s not all about SQL&#34;)</title>
       <link>https://usergroup.tv/videos/linq-an-average-joes-guide-or-its-not-all-about-sql/</link>
       <pubDate>Thu, 21 Jul 2011 22:32:34 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/linq-an-average-joes-guide-or-its-not-all-about-sql/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

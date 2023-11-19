@@ -6,105 +6,91 @@
     <description>Recent content in PowerBI on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/powerbi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/powerbi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PowerBI</title>
+      <link>https://usergroup.tv/videos/tag/powerbi/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://usergroup.tv/videos/tag/powerbi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visual Calculations - Improvements to doing calculations in Power BI</title>
+      <link>https://usergroup.tv/videos/visual-calculations-improvements-to-doing-calculations-in-power-bi/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://usergroup.tv/videos/visual-calculations-improvements-to-doing-calculations-in-power-bi/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Expert Power BI Development</title>
       <link>https://usergroup.tv/videos/expert-power-bi-development/</link>
       <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/expert-power-bi-development/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>PowerBI</title>
-      <link>https://usergroup.tv/videos/tag/powerbi/</link>
-      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://usergroup.tv/videos/tag/powerbi/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>A &#34;M&#34;ind Bending Experience: Custom Functions and Documentation in Power Query</title>
       <link>https://usergroup.tv/videos/a-mind-bending-experience-custom-functions-and-documentation-in-power-query/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/a-mind-bending-experience-custom-functions-and-documentation-in-power-query/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Data Modeling Best Practices</title>
       <link>https://usergroup.tv/videos/data-modeling-best-practices/</link>
       <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/data-modeling-best-practices/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Pattern-Driven Insight: Integrating Neo4j with Power BI</title>
       <link>https://usergroup.tv/videos/patterndriven-insight-integrating-neo4j-with-power-bi/</link>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/patterndriven-insight-integrating-neo4j-with-power-bi/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>How Power Query Thinks: Taking the Mystery Out of Streaming and Query Folding</title>
       <link>https://usergroup.tv/videos/how-power-query-thinks-taking-the-mystery-out-of-streaming-and-query-folding/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/how-power-query-thinks-taking-the-mystery-out-of-streaming-and-query-folding/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Azure Event Hub &amp; Stream Analytics with Power BI</title>
       <link>https://usergroup.tv/videos/azure-event-hub-stream-analytics-with-power-bi/</link>
       <pubDate>Tue, 18 Aug 2020 15:15:50 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/azure-event-hub-stream-analytics-with-power-bi/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Unlocking New Visualizations and Features in Power BI</title>
       <link>https://usergroup.tv/videos/unlocking-new-visualizations-and-features-in-power-bi/</link>
       <pubDate>Wed, 12 Aug 2020 14:05:27 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/unlocking-new-visualizations-and-features-in-power-bi/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Power BI Relationship Simplified</title>
       <link>https://usergroup.tv/videos/power-bi-relationship-simplified/</link>
       <pubDate>Wed, 13 May 2020 12:43:18 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/power-bi-relationship-simplified/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>PowerBI April 2020 Update and COVID Resources</title>
       <link>https://usergroup.tv/videos/powerbi-april-2020-update-and-covid-resources/</link>
       <pubDate>Wed, 08 Apr 2020 18:37:43 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/powerbi-april-2020-update-and-covid-resources/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Using PowerBI to mine data from the web</title>
       <link>https://usergroup.tv/videos/using-powerbi-to-mine-data-from-the-web/</link>
       <pubDate>Thu, 20 Jun 2019 15:54:13 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/using-powerbi-to-mine-data-from-the-web/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

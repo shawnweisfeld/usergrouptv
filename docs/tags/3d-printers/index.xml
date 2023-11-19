@@ -6,24 +6,21 @@
     <description>Recent content in 3D Printers on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Sep 2013 12:56:59 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/3d-printers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Sep 2013 12:56:59 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/3d-printers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D Printers</title>
       <link>https://usergroup.tv/videos/tag/3d-printers/</link>
       <pubDate>Sat, 28 Sep 2013 12:56:59 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/3d-printers/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Bits to Atoms - The World of 3D Printers</title>
       <link>https://usergroup.tv/videos/bits-to-atoms-the-world-of-3d-printers/</link>
       <pubDate>Sat, 28 Sep 2013 12:56:59 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/bits-to-atoms-the-world-of-3d-printers/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

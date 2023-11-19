@@ -6,105 +6,84 @@
     <description>Recent content in Cosmos DB on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/cosmos-db/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/cosmos-db/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cosmos DB</title>
       <link>https://usergroup.tv/videos/tag/cosmos-db/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/cosmos-db/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Intro to Cosmos DB</title>
       <link>https://usergroup.tv/videos/intro-to-cosmos-db/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/intro-to-cosmos-db/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Cosmos Tools for the Relational Developer</title>
       <link>https://usergroup.tv/videos/cosmos-tools-for-the-relational-developer/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/cosmos-tools-for-the-relational-developer/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Five Azure Services Every Developer Should Know</title>
       <link>https://usergroup.tv/videos/five-azure-services-every-developer-should-know/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/five-azure-services-every-developer-should-know/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The Hitchhiker&#39;s Guide to the Cosmos</title>
       <link>https://usergroup.tv/videos/the-hitchhikers-guide-to-the-cosmos/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/the-hitchhikers-guide-to-the-cosmos/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Building a .NET Application Using Azure Cosmos DB</title>
       <link>https://usergroup.tv/videos/building-a-net-application-using-azure-cosmos-db-2/</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/building-a-net-application-using-azure-cosmos-db-2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Building a .NET Application Using Azure Cosmos DB</title>
       <link>https://usergroup.tv/videos/building-a-net-application-using-azure-cosmos-db/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/building-a-net-application-using-azure-cosmos-db/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Not All Data is Relational: An introduction to Cosmos DB</title>
       <link>https://usergroup.tv/videos/not-all-data-is-relational-an-introduction-to-cosmos-db-2/</link>
       <pubDate>Thu, 18 Jul 2019 13:08:59 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/not-all-data-is-relational-an-introduction-to-cosmos-db-2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Not All Data is Relational: An introduction to Cosmos DB</title>
       <link>https://usergroup.tv/videos/not-all-data-is-relational-an-introduction-to-cosmos-db/</link>
       <pubDate>Sat, 13 Jul 2019 14:08:25 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/not-all-data-is-relational-an-introduction-to-cosmos-db/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CosmosDB is the missing piece to your Data puzzle!</title>
       <link>https://usergroup.tv/videos/cosmosdb-is-the-missing-piece-to-your-data-puzzle/</link>
       <pubDate>Sat, 13 Jul 2019 14:05:39 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/cosmosdb-is-the-missing-piece-to-your-data-puzzle/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Cosmos DB for the Data Professional</title>
       <link>https://usergroup.tv/videos/cosmos-db-for-the-data-professional/</link>
       <pubDate>Sat, 23 Jun 2018 20:01:12 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/cosmos-db-for-the-data-professional/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

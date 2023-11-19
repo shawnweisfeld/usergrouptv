@@ -6,24 +6,21 @@
     <description>Recent content in CODE on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Dec 2011 00:55:46 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Dec 2011 00:55:46 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/code/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CODE</title>
       <link>https://usergroup.tv/videos/tag/code/</link>
       <pubDate>Tue, 13 Dec 2011 00:55:46 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/code/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>State of .NET - The Road to Windows 8</title>
       <link>https://usergroup.tv/videos/state-of-net-the-road-to-windows-8/</link>
       <pubDate>Tue, 13 Dec 2011 00:55:46 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/state-of-net-the-road-to-windows-8/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

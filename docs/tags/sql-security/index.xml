@@ -6,78 +6,63 @@
     <description>Recent content in SQL Security on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql-security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/sql-security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Process for Securing SQL Server and Azure SQL DB Solutions</title>
       <link>https://usergroup.tv/videos/a-process-for-securing-sql-server-and-azure-sql-db-solutions/</link>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/a-process-for-securing-sql-server-and-azure-sql-db-solutions/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL Security</title>
       <link>https://usergroup.tv/videos/tag/sql-security/</link>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/sql-security/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL Server Security from the ground up</title>
       <link>https://usergroup.tv/videos/sql-server-security-from-the-ground-up/</link>
       <pubDate>Sat, 25 Aug 2018 19:25:44 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/sql-server-security-from-the-ground-up/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Simplifying SQL Data Protection (with Rubrik)</title>
       <link>https://usergroup.tv/videos/simplifying-sql-data-protection-with-rubrik/</link>
       <pubDate>Sat, 23 Jun 2018 19:50:46 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/simplifying-sql-data-protection-with-rubrik/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL Server Permissions and Security Principals</title>
       <link>https://usergroup.tv/videos/sql-server-permissions-and-security-principals-2/</link>
       <pubDate>Sat, 17 Jun 2017 14:21:36 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/sql-server-permissions-and-security-principals-2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Enterprise Row Level Security in SQL Server 2016 and Azure SQL DB</title>
       <link>https://usergroup.tv/videos/enterprise-row-level-security-in-sql-server-2016-and-azure-sql-db/</link>
       <pubDate>Sat, 13 Aug 2016 15:03:03 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/enterprise-row-level-security-in-sql-server-2016-and-azure-sql-db/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL Security Best Practices &amp;amp; Shrinking Your Attack Surface</title>
       <link>https://usergroup.tv/videos/sql-security-best-practices-shrinking-your-attack-surface/</link>
       <pubDate>Sat, 29 Aug 2015 14:25:47 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/sql-security-best-practices-shrinking-your-attack-surface/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CIS Benchmarks – A Guide to SQL Server Security</title>
       <link>https://usergroup.tv/videos/cis-benchmarks-a-guide-to-sql-server-security/</link>
       <pubDate>Sat, 31 Jan 2015 23:00:11 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/cis-benchmarks-a-guide-to-sql-server-security/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

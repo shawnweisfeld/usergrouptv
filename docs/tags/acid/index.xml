@@ -6,24 +6,21 @@
     <description>Recent content in ACID on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2020 12:03:20 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/acid/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 May 2020 12:03:20 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/acid/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ACID</title>
       <link>https://usergroup.tv/videos/tag/acid/</link>
       <pubDate>Thu, 14 May 2020 12:03:20 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/acid/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ACID 2.0: Designing Better APIs and Messages</title>
       <link>https://usergroup.tv/videos/acid-2-0-designing-better-apis-and-messages/</link>
       <pubDate>Thu, 14 May 2020 12:03:20 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/acid-2-0-designing-better-apis-and-messages/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

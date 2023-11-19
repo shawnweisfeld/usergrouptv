@@ -6,33 +6,28 @@
     <description>Recent content in DBA on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/dba/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/dba/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DBA</title>
       <link>https://usergroup.tv/videos/tag/dba/</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/dba/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>How and Where to Practice Writing Queries</title>
       <link>https://usergroup.tv/videos/how-and-where-to-practice-writing-queries/</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/how-and-where-to-practice-writing-queries/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>DBA Survival Guide: Daily Checklist and Server Monitoring</title>
       <link>https://usergroup.tv/videos/dba-survival-guide-daily-checklist-and-server-monitoring/</link>
       <pubDate>Tue, 16 Feb 2016 13:33:02 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/dba-survival-guide-daily-checklist-and-server-monitoring/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -6,42 +6,35 @@
     <description>Recent content in jQuery on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Oct 2013 21:19:13 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/jquery/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Oct 2013 21:19:13 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/jquery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>jQuery</title>
       <link>https://usergroup.tv/videos/tag/jquery/</link>
       <pubDate>Fri, 11 Oct 2013 21:19:13 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/jquery/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SharePoint &amp; jQuery Guide</title>
       <link>https://usergroup.tv/videos/sharepoint-jquery-guide/</link>
       <pubDate>Fri, 11 Oct 2013 21:19:13 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/sharepoint-jquery-guide/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Silverlight HTML Bridge with jQuery and ASP.NET MVC 3 </title>
       <link>https://usergroup.tv/videos/silverlight-html-bridge-with-jquery-and-asp-net-mvc-3/</link>
       <pubDate>Tue, 04 Oct 2011 04:53:54 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/silverlight-html-bridge-with-jquery-and-asp-net-mvc-3/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>WebMatrix to ASP.NET MVC Web Camp: Part 4 - An Introduction to jQuery</title>
       <link>https://usergroup.tv/videos/webmatrix-to-asp-net-mvc-web-camp-part-4-an-introduction-to-jquery/</link>
       <pubDate>Mon, 16 May 2011 01:01:40 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/webmatrix-to-asp-net-mvc-web-camp-part-4-an-introduction-to-jquery/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

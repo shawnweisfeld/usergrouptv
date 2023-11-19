@@ -6,51 +6,42 @@
     <description>Recent content in Big Data on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Big Data</title>
       <link>https://usergroup.tv/videos/tag/big-data/</link>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/big-data/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Understanding Big Data with Azure Solutions</title>
       <link>https://usergroup.tv/videos/understanding-big-data-with-azure-solutions/</link>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/understanding-big-data-with-azure-solutions/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>An Entry Guide into Data Science</title>
       <link>https://usergroup.tv/videos/an-entry-guide-into-data-science/</link>
       <pubDate>Wed, 13 Mar 2019 15:44:36 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/an-entry-guide-into-data-science/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Big Data in Azure</title>
       <link>https://usergroup.tv/videos/big-data-in-azure/</link>
       <pubDate>Sat, 22 Apr 2017 13:14:38 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/big-data-in-azure/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to Big Data - Finding Waldo</title>
       <link>https://usergroup.tv/videos/introduction-to-big-data-finding-waldo/</link>
       <pubDate>Fri, 24 Aug 2012 00:03:38 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/introduction-to-big-data-finding-waldo/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

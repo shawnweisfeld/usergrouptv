@@ -6,24 +6,21 @@
     <description>Recent content in Flow on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Mar 2019 23:34:23 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/flow/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Mar 2019 23:34:23 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/flow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flow</title>
       <link>https://usergroup.tv/videos/tag/flow/</link>
       <pubDate>Wed, 13 Mar 2019 23:34:23 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/flow/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>PowerApps and Flow – What’s in it for me and why now?</title>
       <link>https://usergroup.tv/videos/powerapps-and-flow-whats-in-it-for-me-and-why-now/</link>
       <pubDate>Wed, 13 Mar 2019 23:34:23 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/powerapps-and-flow-whats-in-it-for-me-and-why-now/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

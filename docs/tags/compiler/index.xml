@@ -6,33 +6,28 @@
     <description>Recent content in Compiler on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/compiler/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/compiler/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Compiler</title>
       <link>https://usergroup.tv/videos/tag/compiler/</link>
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/compiler/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Demystifying the .NET Runtime</title>
       <link>https://usergroup.tv/videos/demystifying-the-net-runtime/</link>
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/demystifying-the-net-runtime/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Using the Compiler API in Real-World Scenarios</title>
       <link>https://usergroup.tv/videos/using-the-compiler-api-in-realworld-scenarios/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/using-the-compiler-api-in-realworld-scenarios/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

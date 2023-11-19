@@ -6,159 +6,126 @@
     <description>Recent content in xamarin on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jul 2017 14:17:40 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/xamarin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Jul 2017 14:17:40 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/xamarin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Xamarin</title>
       <link>https://usergroup.tv/videos/introduction-to-xamarin/</link>
       <pubDate>Fri, 21 Jul 2017 14:17:40 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/introduction-to-xamarin/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>xamarin</title>
       <link>https://usergroup.tv/videos/tag/xamarin/</link>
       <pubDate>Fri, 21 Jul 2017 14:17:40 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/xamarin/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to Xamarin.Forms</title>
       <link>https://usergroup.tv/videos/introduction-to-xamarin-forms/</link>
       <pubDate>Fri, 21 Jul 2017 14:14:35 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/introduction-to-xamarin-forms/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Intro To Xamarin </title>
       <link>https://usergroup.tv/videos/intro-to-xamarin/</link>
       <pubDate>Wed, 16 Nov 2016 15:26:56 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/intro-to-xamarin/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Xamarin is Free - So Now What?</title>
       <link>https://usergroup.tv/videos/xamarin-is-free-so-now-what/</link>
       <pubDate>Sat, 24 Sep 2016 19:44:06 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/xamarin-is-free-so-now-what/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Don&#39;t make your customers be your tester, use Xamarin Test Cloud instead</title>
       <link>https://usergroup.tv/videos/dont-make-your-customers-be-your-tester-use-xamarin-test-cloud-instead/</link>
       <pubDate>Fri, 05 Aug 2016 14:45:23 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/dont-make-your-customers-be-your-tester-use-xamarin-test-cloud-instead/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The new Xamarin</title>
       <link>https://usergroup.tv/videos/the-new-xamarin/</link>
       <pubDate>Wed, 20 Apr 2016 10:52:36 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/the-new-xamarin/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Using iOS Gesture Recognizers </title>
       <link>https://usergroup.tv/videos/using-ios-gesture-recognizers/</link>
       <pubDate>Wed, 21 Oct 2015 02:05:35 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/using-ios-gesture-recognizers/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Taming the Android Activity </title>
       <link>https://usergroup.tv/videos/taming-the-android-activity/</link>
       <pubDate>Wed, 19 Aug 2015 12:01:05 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/taming-the-android-activity/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Building apps with Wearable Technology using Xamarin</title>
       <link>https://usergroup.tv/videos/building-apps-with-wearable-technology-using-xamarin/</link>
       <pubDate>Sat, 06 Jun 2015 16:45:54 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/building-apps-with-wearable-technology-using-xamarin/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Developing iOS &amp; Android Apps in C#</title>
       <link>https://usergroup.tv/videos/developing-ios-android-apps-in-c/</link>
       <pubDate>Sun, 31 May 2015 13:36:23 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/developing-ios-android-apps-in-c/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MVVM with Xamarin.Forms</title>
       <link>https://usergroup.tv/videos/mvvm-with-xamarin-forms/</link>
       <pubDate>Sun, 31 May 2015 13:35:07 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/mvvm-with-xamarin-forms/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to Xamarin.Forms, Insights, and Test Cloud</title>
       <link>https://usergroup.tv/videos/introduction-to-xamarin-forms-insights-and-test-cloud/</link>
       <pubDate>Sun, 31 May 2015 13:33:35 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/introduction-to-xamarin-forms-insights-and-test-cloud/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Xamarin.Forms for Cross Platform Mobile Apps</title>
       <link>https://usergroup.tv/videos/xamarin-forms-for-cross-platform-mobile-apps/</link>
       <pubDate>Wed, 18 Mar 2015 16:05:03 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/xamarin-forms-for-cross-platform-mobile-apps/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to Xamarin.iOS and Xamarin.Android</title>
       <link>https://usergroup.tv/videos/introduction-to-xamarin-ios-and-xamarin-android/</link>
       <pubDate>Wed, 18 Feb 2015 13:26:23 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/introduction-to-xamarin-ios-and-xamarin-android/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Xamarin.iOS Deep Dive</title>
       <link>https://usergroup.tv/videos/xamarin-ios-deep-dive/</link>
       <pubDate>Wed, 19 Nov 2014 12:37:02 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/xamarin-ios-deep-dive/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>.NET Cross Platform Development Strategy for Mobile, Cloud and Desktop Apps </title>
       <link>https://usergroup.tv/videos/net-cross-platform-development-strategy-for-mobile-cloud-and-desktop-apps/</link>
       <pubDate>Mon, 09 Jun 2014 10:49:16 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/net-cross-platform-development-strategy-for-mobile-cloud-and-desktop-apps/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -6,33 +6,28 @@
     <description>Recent content in Patterns on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Feb 2013 00:50:11 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/patterns/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Feb 2013 00:50:11 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/patterns/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Best Practices of a Software Craftsmen – Skills that took years to learn to need</title>
       <link>https://usergroup.tv/videos/best-practices-of-a-software-craftsmen-skills-that-took-years-to-learn-to-need/</link>
       <pubDate>Thu, 07 Feb 2013 00:50:11 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/best-practices-of-a-software-craftsmen-skills-that-took-years-to-learn-to-need/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Patterns</title>
       <link>https://usergroup.tv/videos/tag/patterns/</link>
       <pubDate>Thu, 07 Feb 2013 00:50:11 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/patterns/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Composing maintainable apps in XAML</title>
       <link>https://usergroup.tv/videos/composing-maintainable-apps-in-xaml/</link>
       <pubDate>Tue, 05 Feb 2013 23:04:59 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/composing-maintainable-apps-in-xaml/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

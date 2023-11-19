@@ -6,33 +6,28 @@
     <description>Recent content in Durandal on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Jun 2014 10:55:45 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/durandal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jun 2014 10:55:45 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/durandal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Durandal</title>
       <link>https://usergroup.tv/videos/tag/durandal/</link>
       <pubDate>Sat, 14 Jun 2014 10:55:45 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/durandal/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Durandal - Finally a SPA Framework that Works</title>
       <link>https://usergroup.tv/videos/durandal-finally-a-spa-framework-that-works/</link>
       <pubDate>Sat, 14 Jun 2014 10:55:45 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/durandal-finally-a-spa-framework-that-works/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Building Killer Single-page Apps with Durandal</title>
       <link>https://usergroup.tv/videos/building-killer-single-page-apps-with-durandal/</link>
       <pubDate>Fri, 11 Oct 2013 21:24:51 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/building-killer-single-page-apps-with-durandal/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -6,33 +6,28 @@
     <description>Recent content in Service Bus on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Sep 2016 18:26:16 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/service-bus/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Sep 2016 18:26:16 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/service-bus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure Service Bus - The good, the Bad and the Awesome </title>
       <link>https://usergroup.tv/videos/azure-service-bus-the-good-the-bad-and-the-awesome/</link>
       <pubDate>Thu, 08 Sep 2016 18:26:16 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/azure-service-bus-the-good-the-bad-and-the-awesome/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Service Bus</title>
       <link>https://usergroup.tv/videos/tag/service-bus/</link>
       <pubDate>Thu, 08 Sep 2016 18:26:16 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/service-bus/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Don’t Click Submit Twice!!! </title>
       <link>https://usergroup.tv/videos/dont-click-submit-twice/</link>
       <pubDate>Wed, 23 Jan 2013 03:11:55 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/dont-click-submit-twice/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -6,24 +6,21 @@
     <description>Recent content in Java Performance on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Oct 2017 22:05:28 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/java-performance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Oct 2017 22:05:28 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/java-performance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java Performance</title>
       <link>https://usergroup.tv/videos/tag/java-performance/</link>
       <pubDate>Fri, 06 Oct 2017 22:05:28 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/java-performance/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Java Performance in 30 Minutes</title>
       <link>https://usergroup.tv/videos/java-performance-in-30-minutes/</link>
       <pubDate>Fri, 06 Oct 2017 22:05:28 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/java-performance-in-30-minutes/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

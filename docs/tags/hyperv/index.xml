@@ -6,24 +6,21 @@
     <description>Recent content in hyperv on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Dec 2019 19:21:50 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/hyperv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Dec 2019 19:21:50 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/hyperv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hyperv</title>
       <link>https://usergroup.tv/videos/tag/hyperv/</link>
       <pubDate>Sat, 07 Dec 2019 19:21:50 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/hyperv/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Setting up a test lab with Hyper-V</title>
       <link>https://usergroup.tv/videos/setting-up-a-test-lab-with-hyper-v/</link>
       <pubDate>Sat, 07 Dec 2019 19:21:50 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/setting-up-a-test-lab-with-hyper-v/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

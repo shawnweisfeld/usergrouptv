@@ -6,24 +6,21 @@
     <description>Recent content in Lisp on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Sep 2014 23:53:12 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/lisp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Sep 2014 23:53:12 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/lisp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lisp</title>
       <link>https://usergroup.tv/videos/tag/lisp/</link>
       <pubDate>Sat, 13 Sep 2014 23:53:12 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/lisp/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Zero To Lisp In 60-ish Minutes</title>
       <link>https://usergroup.tv/videos/zero-to-lisp-in-60-ish-minutes/</link>
       <pubDate>Sat, 13 Sep 2014 23:53:12 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/zero-to-lisp-in-60-ish-minutes/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

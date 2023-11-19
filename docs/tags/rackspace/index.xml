@@ -6,24 +6,21 @@
     <description>Recent content in Rackspace on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Aug 2012 00:31:30 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/rackspace/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Aug 2012 00:31:30 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/rackspace/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amazon Web Services vs. Rackspace vs. Azure Smackdown</title>
       <link>https://usergroup.tv/videos/amazon-web-services-vs-rackspace-vs-azure-smackdown/</link>
       <pubDate>Fri, 24 Aug 2012 00:31:30 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/amazon-web-services-vs-rackspace-vs-azure-smackdown/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Rackspace</title>
       <link>https://usergroup.tv/videos/tag/rackspace/</link>
       <pubDate>Fri, 24 Aug 2012 00:31:30 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/rackspace/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

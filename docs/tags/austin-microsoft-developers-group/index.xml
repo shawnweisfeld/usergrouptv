@@ -6,15 +6,14 @@
     <description>Recent content in Austin Microsoft Developers Group on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 May 2016 11:11:39 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/austin-microsoft-developers-group/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 May 2016 11:11:39 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/austin-microsoft-developers-group/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Austin Microsoft Developers Group</title>
       <link>https://usergroup.tv/videos/category/group/austin-microsoft-app-developers/</link>
       <pubDate>Tue, 31 May 2016 11:11:39 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/austin-microsoft-app-developers/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

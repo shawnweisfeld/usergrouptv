@@ -6,42 +6,35 @@
     <description>Recent content in Azure Database on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jul 2019 14:01:49 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/azure-database/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jul 2019 14:01:49 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/azure-database/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure Database</title>
       <link>https://usergroup.tv/videos/tag/azure-database/</link>
       <pubDate>Sat, 13 Jul 2019 14:01:49 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/azure-database/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Successfully Migrating Existing Databases to Azure SQL Database </title>
       <link>https://usergroup.tv/videos/successfully-migrating-existing-databases-to-azure-sql-database-2/</link>
       <pubDate>Sat, 13 Jul 2019 14:01:49 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/successfully-migrating-existing-databases-to-azure-sql-database-2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Scale out SQL Server PaaS in Azure Elastically</title>
       <link>https://usergroup.tv/videos/scale-out-sql-server-paas-in-azure-elastically/</link>
       <pubDate>Sat, 14 May 2016 12:30:04 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/scale-out-sql-server-paas-in-azure-elastically/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Beginning Azure</title>
       <link>https://usergroup.tv/videos/beginning-azure/</link>
       <pubDate>Sat, 14 May 2016 12:26:44 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/beginning-azure/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

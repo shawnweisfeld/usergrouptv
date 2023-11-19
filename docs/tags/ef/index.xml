@@ -6,60 +6,49 @@
     <description>Recent content in EF on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Aug 2012 12:56:03 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/ef/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Aug 2012 12:56:03 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/ef/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>0 to 60 with Highway.Data</title>
       <link>https://usergroup.tv/videos/0-to-60-with-highway-data/</link>
       <pubDate>Fri, 24 Aug 2012 12:56:03 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/0-to-60-with-highway-data/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>EF</title>
       <link>https://usergroup.tv/videos/tag/ef/</link>
       <pubDate>Fri, 24 Aug 2012 12:56:03 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/ef/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Entity Framework – The Right Way</title>
       <link>https://usergroup.tv/videos/entity-framework-the-right-way-3/</link>
       <pubDate>Thu, 02 Aug 2012 12:21:55 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/entity-framework-the-right-way-3/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Entity Framework - The Right Way</title>
       <link>https://usergroup.tv/videos/entity-framework-the-right-way-2/</link>
       <pubDate>Tue, 17 Jul 2012 14:09:08 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/entity-framework-the-right-way-2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Entity Framework - The Right Way</title>
       <link>https://usergroup.tv/videos/entity-framework-the-right-way/</link>
       <pubDate>Tue, 26 Jun 2012 12:47:25 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/entity-framework-the-right-way/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>EntityFramework 360: Getting Started</title>
       <link>https://usergroup.tv/videos/entityframework-360-getting-started/</link>
       <pubDate>Fri, 12 Aug 2011 19:51:33 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/entityframework-360-getting-started/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

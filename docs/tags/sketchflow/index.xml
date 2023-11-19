@@ -6,24 +6,21 @@
     <description>Recent content in SketchFlow on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Mar 2011 21:25:17 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sketchflow/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Mar 2011 21:25:17 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/sketchflow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Expression Blend and SketchFlow</title>
       <link>https://usergroup.tv/videos/expression-blend-and-sketchflow/</link>
       <pubDate>Tue, 22 Mar 2011 21:25:17 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/expression-blend-and-sketchflow/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SketchFlow</title>
       <link>https://usergroup.tv/videos/tag/sketchflow/</link>
       <pubDate>Tue, 22 Mar 2011 21:25:17 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/sketchflow/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

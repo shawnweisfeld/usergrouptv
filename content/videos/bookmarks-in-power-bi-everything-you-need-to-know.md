@@ -31,7 +31,7 @@
     {
       "name": "Power BI",
       "slug": "power-bi",
-      "count": 42
+      "count": 43
     },
     {
       "name": "Bookmarks",
@@ -43,7 +43,7 @@
     {
       "name": "Austin Power BI User Group",
       "slug": "austin-power-bi-user-group",
-      "count": 43
+      "count": 44
     }
   ]
 }

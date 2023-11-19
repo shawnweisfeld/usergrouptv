@@ -6,42 +6,35 @@
     <description>Recent content in Practices on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Sep 2013 18:34:15 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/practices/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Sep 2013 18:34:15 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/practices/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Practices</title>
       <link>https://usergroup.tv/videos/tag/practices/</link>
       <pubDate>Sat, 28 Sep 2013 18:34:15 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/practices/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Want to Build Software? Get Your Act Together First!</title>
       <link>https://usergroup.tv/videos/want-to-build-software-get-your-act-together-first/</link>
       <pubDate>Sat, 28 Sep 2013 18:34:15 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/want-to-build-software-get-your-act-together-first/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Best Practices of the Software Craftsman</title>
       <link>https://usergroup.tv/videos/best-practices-of-the-software-craftsman/</link>
       <pubDate>Sat, 28 Sep 2013 12:54:15 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/best-practices-of-the-software-craftsman/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>How can so many have been so wrong about so much for so long?</title>
       <link>https://usergroup.tv/videos/how-can-so-many-have-been-so-wrong-about-so-much-for-so-long/</link>
       <pubDate>Tue, 08 Jan 2013 20:31:01 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/how-can-so-many-have-been-so-wrong-about-so-much-for-so-long/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

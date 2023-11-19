@@ -6,42 +6,35 @@
     <description>Recent content in PostgreSQL on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PostgreSQL</title>
       <link>https://usergroup.tv/videos/tag/postgresql/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/postgresql/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Turbocharging PostgreSQL on Azure</title>
       <link>https://usergroup.tv/videos/turbocharging-postgresql-on-azure/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/turbocharging-postgresql-on-azure/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Use GitHub actions to create PostgreSQL service container.</title>
       <link>https://usergroup.tv/videos/use-github-actions-to-create-postgresql-service-container/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/use-github-actions-to-create-postgresql-service-container/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>PostgreSQL in Azure</title>
       <link>https://usergroup.tv/videos/postgresql-in-azure/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/postgresql-in-azure/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

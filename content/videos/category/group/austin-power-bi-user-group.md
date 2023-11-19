@@ -5,9 +5,31 @@
     "Austin Power BI User Group"
   ],
   "slug": "austin-power-bi-user-group",
-  "date": "2023-10-11T00:00:00",
+  "date": "2023-11-08T00:00:00",
   "draft": false,
   "recordings": [
+    {
+      "title": "Visual Calculations - Improvements to doing calculations in Power BI",
+      "slug": "visual-calculations-improvements-to-doing-calculations-in-power-bi",
+      "thumbnail": "https://i.vimeocdn.com/video/1755930933-8a6096a24b4640a8a7957c3fac2f5e577ceb3d922234a4b069eb41caea4f6ba0-d_295x166",
+      "date": "2023-11-08T00:00:00",
+      "speakers": [
+        {
+          "name": "Jeroen ter Heerdt",
+          "slug": "jeroen-ter-heerdt"
+        }
+      ],
+      "tags": [
+        {
+          "name": "PowerBI",
+          "slug": "powerbi"
+        },
+        {
+          "name": "Power BI",
+          "slug": "power-bi"
+        }
+      ]
+    },
     {
       "title": "Microsoft Fabric for Power BI Users",
       "slug": "microsoft-fabric-for-power-bi-users",

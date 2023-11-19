@@ -6,24 +6,21 @@
     <description>Recent content in Windows ML on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Oct 2018 14:15:33 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/windows-ml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Oct 2018 14:15:33 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/windows-ml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Running AI on the Edge with Windows ML</title>
       <link>https://usergroup.tv/videos/running-ai-on-the-edge-with-windows-ml/</link>
       <pubDate>Sat, 13 Oct 2018 14:15:33 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/running-ai-on-the-edge-with-windows-ml/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Windows ML</title>
       <link>https://usergroup.tv/videos/tag/windows-ml/</link>
       <pubDate>Sat, 13 Oct 2018 14:15:33 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/windows-ml/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

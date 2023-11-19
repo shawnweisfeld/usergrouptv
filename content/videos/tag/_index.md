@@ -1,7 +1,7 @@
 {
   "title": "Tags",
   "type": "tag",
-  "date": "2023-10-26T00:37:02.6404068Z",
+  "date": "2023-11-19T05:20:13.1490526Z",
   "draft": false,
   "ugtvtags": [
     {
@@ -2289,9 +2289,9 @@
     {
       "title": "Power BI",
       "slug": "power-bi",
-      "thumbnail": "https://i.vimeocdn.com/video/1743918175-abfe7d4a41356a45192b194515f7ea48eacc539b3fab125b6386a440352b1ed2-d_295x166",
-      "date": "2023-10-11T00:00:00",
-      "count": 42
+      "thumbnail": "https://i.vimeocdn.com/video/1755930933-8a6096a24b4640a8a7957c3fac2f5e577ceb3d922234a4b069eb41caea4f6ba0-d_295x166",
+      "date": "2023-11-08T00:00:00",
+      "count": 43
     },
     {
       "title": "Power Map",
@@ -2338,9 +2338,9 @@
     {
       "title": "PowerBI",
       "slug": "powerbi",
-      "thumbnail": "https://i.vimeocdn.com/video/1545863917-7a587dc1648f566c4f6bc782e5a9adcc13d73041f4e97c3edafd5edb15e66014-d_295x166",
-      "date": "2022-11-09T00:00:00",
-      "count": 10
+      "thumbnail": "https://i.vimeocdn.com/video/1755930933-8a6096a24b4640a8a7957c3fac2f5e577ceb3d922234a4b069eb41caea4f6ba0-d_295x166",
+      "date": "2023-11-08T00:00:00",
+      "count": 11
     },
     {
       "title": "PowerShell",

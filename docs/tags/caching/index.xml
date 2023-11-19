@@ -6,24 +6,21 @@
     <description>Recent content in Caching on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2017 11:09:34 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/caching/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Apr 2017 11:09:34 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/caching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Caching</title>
       <link>https://usergroup.tv/videos/tag/caching/</link>
       <pubDate>Mon, 10 Apr 2017 11:09:34 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/caching/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Caching in Microsoft Azure</title>
       <link>https://usergroup.tv/videos/caching-in-microsoft-azure/</link>
       <pubDate>Mon, 10 Apr 2017 11:09:34 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/caching-in-microsoft-azure/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

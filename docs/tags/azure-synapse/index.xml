@@ -6,51 +6,42 @@
     <description>Recent content in Azure Synapse on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/azure-synapse/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/azure-synapse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure Synapse</title>
       <link>https://usergroup.tv/videos/tag/azure-synapse/</link>
       <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/azure-synapse/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Microsoft Modern Data Estate &amp; Azure Synapse Link</title>
       <link>https://usergroup.tv/videos/microsoft-modern-data-estate-azure-synapse-link/</link>
       <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/microsoft-modern-data-estate-azure-synapse-link/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>From Zero to Hero on Synapse Spark pool</title>
       <link>https://usergroup.tv/videos/from-zero-to-hero-on-synapse-spark-pool/</link>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/from-zero-to-hero-on-synapse-spark-pool/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to Azure Synapse</title>
       <link>https://usergroup.tv/videos/introduction-to-azure-synapse/</link>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/introduction-to-azure-synapse/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Understanding Big Data with Azure Solutions</title>
       <link>https://usergroup.tv/videos/understanding-big-data-with-azure-solutions/</link>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/understanding-big-data-with-azure-solutions/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

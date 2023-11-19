@@ -6,24 +6,21 @@
     <description>Recent content in Kanban on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Aug 2014 18:03:23 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/kanban/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Aug 2014 18:03:23 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/kanban/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kanban</title>
       <link>https://usergroup.tv/videos/tag/kanban/</link>
       <pubDate>Sun, 24 Aug 2014 18:03:23 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/kanban/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>WHY NOT SCRUM, WHY NOT KANBAN</title>
       <link>https://usergroup.tv/videos/why-not-scrum-why-not-kanban/</link>
       <pubDate>Sun, 24 Aug 2014 18:03:23 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/why-not-scrum-why-not-kanban/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

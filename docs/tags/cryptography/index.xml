@@ -6,33 +6,28 @@
     <description>Recent content in Cryptography on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/cryptography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cryptography</title>
       <link>https://usergroup.tv/videos/tag/cryptography/</link>
       <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/cryptography/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Cryptography 101</title>
       <link>https://usergroup.tv/videos/cryptography-101-2/</link>
       <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/cryptography-101-2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Cryptography 101</title>
       <link>https://usergroup.tv/videos/cryptography-101/</link>
       <pubDate>Sat, 17 Aug 2013 22:13:38 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/cryptography-101/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

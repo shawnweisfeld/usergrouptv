@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2023-10-26T00:37:02.1212122Z",
+  "date": "2023-11-19T05:20:12.6384416Z",
   "draft": false,
   "speakers": [
     {
@@ -1969,6 +1969,13 @@
       "slug": "jeremy-miller",
       "thumbnail": "https://i.vimeocdn.com/video/712738961-f18c18f5729ce0cd16eb2be810c72b3486cc5077edfad15b78b3a3c1ab074ff3-d_295x166",
       "date": "2018-07-09T19:08:42",
+      "count": 1
+    },
+    {
+      "title": "Jeroen ter Heerdt",
+      "slug": "jeroen-ter-heerdt",
+      "thumbnail": "https://i.vimeocdn.com/video/1755930933-8a6096a24b4640a8a7957c3fac2f5e577ceb3d922234a4b069eb41caea4f6ba0-d_295x166",
+      "date": "2023-11-08T00:00:00",
       "count": 1
     },
     {

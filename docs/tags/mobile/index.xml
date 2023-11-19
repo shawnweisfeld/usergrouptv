@@ -6,33 +6,28 @@
     <description>Recent content in Mobile on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jun 2013 19:38:11 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jun 2013 19:38:11 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mobile</title>
       <link>https://usergroup.tv/videos/tag/mobile/</link>
       <pubDate>Wed, 05 Jun 2013 19:38:11 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/mobile/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mobile ASP.NET MVC</title>
       <link>https://usergroup.tv/videos/mobile-asp-net-mvc/</link>
       <pubDate>Wed, 05 Jun 2013 19:38:11 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/mobile-asp-net-mvc/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>What You Can Do Today with Html 5 and Css 3 on Mobile Devices</title>
       <link>https://usergroup.tv/videos/what-you-can-do-today-with-html-5-and-css-3-on-mobile-devices/</link>
       <pubDate>Wed, 04 Jan 2012 01:02:42 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/what-you-can-do-today-with-html-5-and-css-3-on-mobile-devices/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

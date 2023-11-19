@@ -6,51 +6,42 @@
     <description>Recent content in SSAS on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jul 2019 14:09:40 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/ssas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jul 2019 14:09:40 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/ssas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Multidimensional Data Cubes and Data Mining in the Real World</title>
       <link>https://usergroup.tv/videos/multidimensional-data-cubes-and-data-mining-in-the-real-world/</link>
       <pubDate>Sat, 13 Jul 2019 14:09:40 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/multidimensional-data-cubes-and-data-mining-in-the-real-world/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SSAS</title>
       <link>https://usergroup.tv/videos/tag/ssas/</link>
       <pubDate>Sat, 13 Jul 2019 14:09:40 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/ssas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Automating Azure Analysis Services</title>
       <link>https://usergroup.tv/videos/automating-azure-analysis-services/</link>
       <pubDate>Sat, 19 May 2018 23:08:38 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/automating-azure-analysis-services/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Analysis Services is in Azure? Seriously!? Let&#39;s build a model!</title>
       <link>https://usergroup.tv/videos/analysis-services-is-in-azure-seriously-lets-build-a-model/</link>
       <pubDate>Sat, 17 Jun 2017 14:06:27 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/analysis-services-is-in-azure-seriously-lets-build-a-model/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Rent-a-Cube: Azure Analysis Services</title>
       <link>https://usergroup.tv/videos/rent-a-cube-azure-analysis-services/</link>
       <pubDate>Sat, 04 Mar 2017 22:05:57 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/rent-a-cube-azure-analysis-services/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

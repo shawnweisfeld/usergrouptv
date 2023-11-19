@@ -6,42 +6,35 @@
     <description>Recent content in Akka.NET on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2020 15:14:10 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/akka.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Aug 2020 15:14:10 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/akka.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Akka.NET</title>
       <link>https://usergroup.tv/videos/tag/akka-net/</link>
       <pubDate>Mon, 17 Aug 2020 15:14:10 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/akka-net/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Drinking a river of IoT data with Akka.NET</title>
       <link>https://usergroup.tv/videos/drinking-a-river-of-iot-data-with-akka-net/</link>
       <pubDate>Mon, 17 Aug 2020 15:14:10 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/drinking-a-river-of-iot-data-with-akka-net/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Avoid Microservice Pains with Distributed Actors and Akka.NET</title>
       <link>https://usergroup.tv/videos/avoid-microservice-pains-with-distributed-actors-and-akka-net/</link>
       <pubDate>Wed, 10 Apr 2019 20:09:06 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/avoid-microservice-pains-with-distributed-actors-and-akka-net/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Building Cloud Ready Scalable and Distributed Systems with Akka.NET</title>
       <link>https://usergroup.tv/videos/building-cloud-ready-scalable-and-distributed-systems-with-akka-net/</link>
       <pubDate>Wed, 16 Aug 2017 14:35:24 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/building-cloud-ready-scalable-and-distributed-systems-with-akka-net/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -6,105 +6,84 @@
     <description>Recent content in SQL Admin on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql-admin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/sql-admin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SQL Admin</title>
       <link>https://usergroup.tv/videos/tag/sql-admin/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/sql-admin/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SSMS Tips and Tricks</title>
       <link>https://usergroup.tv/videos/ssms-tips-and-tricks/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/ssms-tips-and-tricks/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>DBA Fired by the PowerShell Wiz</title>
       <link>https://usergroup.tv/videos/dba-fired-by-the-powershell-wiz/</link>
       <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/dba-fired-by-the-powershell-wiz/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL Server PowerShell for the Beginner</title>
       <link>https://usergroup.tv/videos/sql-server-powershell-for-the-beginner/</link>
       <pubDate>Sat, 25 Aug 2018 19:38:27 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/sql-server-powershell-for-the-beginner/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Auditing your Enterprise with MinionWare By The Midnight DBAs</title>
       <link>https://usergroup.tv/videos/auditing-your-enterprise-with-minionware-by-the-midnight-dbas/</link>
       <pubDate>Sat, 25 Aug 2018 19:24:17 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/auditing-your-enterprise-with-minionware-by-the-midnight-dbas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>A Tour of SQL Server 2016 Security Features</title>
       <link>https://usergroup.tv/videos/a-tour-of-sql-server-2016-security-features/</link>
       <pubDate>Sat, 11 Aug 2018 15:47:41 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/a-tour-of-sql-server-2016-security-features/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>From the grave: Horror stories from the Microsoft SQL Server CSS archives</title>
       <link>https://usergroup.tv/videos/from-the-grave-horror-stories-from-the-microsoft-sql-server-css-archives/</link>
       <pubDate>Sat, 23 Jun 2018 19:58:42 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/from-the-grave-horror-stories-from-the-microsoft-sql-server-css-archives/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>That&#39;s bad mkay! (How to quantify when things aren&#39;t right)</title>
       <link>https://usergroup.tv/videos/thats-bad-mkay-how-to-quantify-when-things-arent-right/</link>
       <pubDate>Sat, 23 Jun 2018 19:52:24 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/thats-bad-mkay-how-to-quantify-when-things-arent-right/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>DIY: SQL Server Monitoring for your Enterprise</title>
       <link>https://usergroup.tv/videos/diy-sql-server-monitoring-for-your-enterprise/</link>
       <pubDate>Sat, 23 Jun 2018 19:46:47 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/diy-sql-server-monitoring-for-your-enterprise/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Scripting out SQL Server for Documentation and Disaster Recovery</title>
       <link>https://usergroup.tv/videos/scripting-out-sql-server-for-documentation-and-disaster-recovery/</link>
       <pubDate>Sat, 29 Aug 2015 14:23:15 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/scripting-out-sql-server-for-documentation-and-disaster-recovery/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Automate your daily checklist with PBM and CMS</title>
       <link>https://usergroup.tv/videos/automate-your-daily-checklist-with-pbm-and-cms/</link>
       <pubDate>Sat, 29 Aug 2015 14:19:38 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/automate-your-daily-checklist-with-pbm-and-cms/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

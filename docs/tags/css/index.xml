@@ -6,87 +6,70 @@
     <description>Recent content in CSS on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Dec 2015 18:24:56 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Dec 2015 18:24:56 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CSS</title>
       <link>https://usergroup.tv/videos/tag/css/</link>
       <pubDate>Mon, 14 Dec 2015 18:24:56 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/css/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CSS positioning </title>
       <link>https://usergroup.tv/videos/css-positioning/</link>
       <pubDate>Mon, 14 Dec 2015 18:24:56 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/css-positioning/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Stop guessing and finally learn CSS positioning</title>
       <link>https://usergroup.tv/videos/stop-guessing-and-finally-learn-css-positioning/</link>
       <pubDate>Sat, 13 Sep 2014 23:51:22 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/stop-guessing-and-finally-learn-css-positioning/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>This ain&#39;t your mama&#39;s CSS</title>
       <link>https://usergroup.tv/videos/this-aint-your-mamas-css/</link>
       <pubDate>Sat, 13 Sep 2014 23:47:41 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/this-aint-your-mamas-css/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Making CSS and ASP.NET Work </title>
       <link>https://usergroup.tv/videos/making-css-and-asp-net-work/</link>
       <pubDate>Tue, 27 Nov 2012 16:00:42 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/making-css-and-asp-net-work/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Full Stack Web Day - Part 2</title>
       <link>https://usergroup.tv/videos/full-stack-web-day-part-2/</link>
       <pubDate>Sat, 03 Dec 2011 23:54:35 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/full-stack-web-day-part-2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Full Stack Web Day - Part 1</title>
       <link>https://usergroup.tv/videos/full-stack-web-day-part-1/</link>
       <pubDate>Sat, 03 Dec 2011 23:42:37 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/full-stack-web-day-part-1/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Full Stack Web Day - Part 3</title>
       <link>https://usergroup.tv/videos/full-stack-web-day-part-3/</link>
       <pubDate>Sat, 03 Dec 2011 00:01:12 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/full-stack-web-day-part-3/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CSS3 and You</title>
       <link>https://usergroup.tv/videos/css3-and-you/</link>
       <pubDate>Fri, 07 Oct 2011 05:00:37 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/css3-and-you/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

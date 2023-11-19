@@ -6,33 +6,28 @@
     <description>Recent content in sql injection on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Jan 2015 23:17:05 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/sql-injection/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Jan 2015 23:17:05 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/sql-injection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>sql injection</title>
       <link>https://usergroup.tv/videos/tag/sql-injection/</link>
       <pubDate>Sat, 31 Jan 2015 23:17:05 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/sql-injection/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL Injection</title>
       <link>https://usergroup.tv/videos/sql-injection-2/</link>
       <pubDate>Sat, 31 Jan 2015 23:17:05 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/sql-injection-2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL Injection</title>
       <link>https://usergroup.tv/videos/sql-injection/</link>
       <pubDate>Sat, 25 Aug 2012 22:04:45 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/sql-injection/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

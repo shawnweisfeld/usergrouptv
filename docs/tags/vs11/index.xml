@@ -6,24 +6,21 @@
     <description>Recent content in VS11 on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jan 2012 01:19:35 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/vs11/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Jan 2012 01:19:35 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/vs11/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Ultimate Guide to Visual Studio 2010: Coding Debugging, Modeling, Testing, Building and Deployment</title>
       <link>https://usergroup.tv/videos/the-ultimate-guide-to-visual-studio-2010-coding-debugging-modeling-testing-building-and-deployment/</link>
       <pubDate>Tue, 24 Jan 2012 01:19:35 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/the-ultimate-guide-to-visual-studio-2010-coding-debugging-modeling-testing-building-and-deployment/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>VS11</title>
       <link>https://usergroup.tv/videos/tag/vs11/</link>
       <pubDate>Tue, 24 Jan 2012 01:19:35 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/vs11/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

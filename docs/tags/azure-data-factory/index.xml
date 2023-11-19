@@ -6,24 +6,21 @@
     <description>Recent content in Azure Data Factory on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/azure-data-factory/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/azure-data-factory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure Data Factory</title>
       <link>https://usergroup.tv/videos/tag/azure-data-factory/</link>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/azure-data-factory/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Understanding Big Data with Azure Solutions</title>
       <link>https://usergroup.tv/videos/understanding-big-data-with-azure-solutions/</link>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/understanding-big-data-with-azure-solutions/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

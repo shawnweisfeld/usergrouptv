@@ -6,24 +6,21 @@
     <description>Recent content in Plex on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Oct 2017 11:42:46 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/plex/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Oct 2017 11:42:46 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/plex/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plex</title>
       <link>https://usergroup.tv/videos/plex/</link>
       <pubDate>Sat, 14 Oct 2017 11:42:46 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/plex/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Plex</title>
       <link>https://usergroup.tv/videos/tag/plex/</link>
       <pubDate>Sat, 14 Oct 2017 11:42:46 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/plex/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

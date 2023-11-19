@@ -6,24 +6,21 @@
     <description>Recent content in Data Sovereignty on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jul 2017 14:05:24 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/data-sovereignty/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Jul 2017 14:05:24 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/data-sovereignty/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Sovereignty</title>
       <link>https://usergroup.tv/videos/tag/data-sovereignty/</link>
       <pubDate>Fri, 21 Jul 2017 14:05:24 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/data-sovereignty/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Data Sovereignty - Where is your data living and where does it want to go?</title>
       <link>https://usergroup.tv/videos/data-sovereignty-where-is-your-data-living-and-where-does-it-want-to-go/</link>
       <pubDate>Fri, 21 Jul 2017 14:05:24 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/data-sovereignty-where-is-your-data-living-and-where-does-it-want-to-go/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

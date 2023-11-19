@@ -6,60 +6,49 @@
     <description>Recent content in Continuous Delivery on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jul 2017 14:20:01 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/continuous-delivery/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jul 2017 14:20:01 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/continuous-delivery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Continuous Delivery</title>
       <link>https://usergroup.tv/videos/tag/continuous-delivery/</link>
       <pubDate>Thu, 20 Jul 2017 14:20:01 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/continuous-delivery/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Delivering Continuous Value from the First Iteration</title>
       <link>https://usergroup.tv/videos/delivering-continuous-value-from-the-first-iteration/</link>
       <pubDate>Thu, 20 Jul 2017 14:20:01 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/delivering-continuous-value-from-the-first-iteration/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Making Teams Fly with Continuous Delivery to Azure</title>
       <link>https://usergroup.tv/videos/making-teams-fly-with-continuous-delivery-to-azure/</link>
       <pubDate>Sat, 22 Apr 2017 13:10:50 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/making-teams-fly-with-continuous-delivery-to-azure/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Common Pitfalls when Implementing Continuous Delivery </title>
       <link>https://usergroup.tv/videos/common-pitfalls-when-implementing-continuous-delivery/</link>
       <pubDate>Mon, 08 Aug 2016 15:16:52 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/common-pitfalls-when-implementing-continuous-delivery/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Enabling Continuous Delivery</title>
       <link>https://usergroup.tv/videos/enabling-continuous-delivery/</link>
       <pubDate>Sat, 26 Sep 2015 12:13:11 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/enabling-continuous-delivery/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Continuous Delivery: Tools and Tactics</title>
       <link>https://usergroup.tv/videos/continuous-delivery-tools-and-tactics/</link>
       <pubDate>Sat, 13 Sep 2014 23:40:04 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/continuous-delivery-tools-and-tactics/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

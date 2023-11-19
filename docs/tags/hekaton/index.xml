@@ -6,33 +6,28 @@
     <description>Recent content in Hekaton on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Jun 2017 14:12:15 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/hekaton/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jun 2017 14:12:15 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/hekaton/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hekaton</title>
       <link>https://usergroup.tv/videos/tag/hekaton/</link>
       <pubDate>Sat, 17 Jun 2017 14:12:15 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/hekaton/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Inside SQL Server In-Memory OLTP</title>
       <link>https://usergroup.tv/videos/inside-sql-server-in-memory-oltp/</link>
       <pubDate>Sat, 17 Jun 2017 14:12:15 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/inside-sql-server-in-memory-oltp/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL Server 2014 In Memory technologies - In Memory OLTP (aka Hekaton) &amp; ColumnStore</title>
       <link>https://usergroup.tv/videos/sql-server-2014-in-memory-technologies-in-memory-oltp-aka-hekaton-columnstore/</link>
       <pubDate>Sat, 31 Jan 2015 14:01:39 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/sql-server-2014-in-memory-technologies-in-memory-oltp-aka-hekaton-columnstore/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

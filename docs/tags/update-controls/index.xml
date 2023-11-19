@@ -6,24 +6,21 @@
     <description>Recent content in Update Controls on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Mar 2013 20:48:41 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/update-controls/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Mar 2013 20:48:41 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/update-controls/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stateless View Models</title>
       <link>https://usergroup.tv/videos/stateless-view-models/</link>
       <pubDate>Tue, 05 Mar 2013 20:48:41 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/stateless-view-models/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Update Controls</title>
       <link>https://usergroup.tv/videos/tag/update-controls/</link>
       <pubDate>Tue, 05 Mar 2013 20:48:41 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/update-controls/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

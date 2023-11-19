@@ -6,42 +6,35 @@
     <description>Recent content in Azure Mobile Services on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2015 13:37:26 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/azure-mobile-services/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 May 2015 13:37:26 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/azure-mobile-services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure Mobile Services</title>
       <link>https://usergroup.tv/videos/tag/azure-mobile-services/</link>
       <pubDate>Sun, 31 May 2015 13:37:26 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/azure-mobile-services/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Azure Mobile Services: Add a cloud backend to your app in minutes</title>
       <link>https://usergroup.tv/videos/azure-mobile-services-add-a-cloud-backend-to-your-app-in-minutes/</link>
       <pubDate>Sun, 31 May 2015 13:37:26 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/azure-mobile-services-add-a-cloud-backend-to-your-app-in-minutes/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Add a cloud backend to your app in minutes</title>
       <link>https://usergroup.tv/videos/add-a-cloud-backend-to-your-app-in-minutes/</link>
       <pubDate>Wed, 13 May 2015 13:21:34 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/add-a-cloud-backend-to-your-app-in-minutes/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Windows 8 powered by Azure Mobile Services</title>
       <link>https://usergroup.tv/videos/windows-8-powered-by-azure-mobile-services/</link>
       <pubDate>Fri, 01 Mar 2013 20:42:47 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/windows-8-powered-by-azure-mobile-services/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

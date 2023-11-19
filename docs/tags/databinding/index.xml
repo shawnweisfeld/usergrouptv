@@ -6,24 +6,21 @@
     <description>Recent content in databinding on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Feb 2011 18:00:44 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/databinding/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Feb 2011 18:00:44 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/databinding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Binding without INotifyPropertyChanged</title>
       <link>https://usergroup.tv/videos/data-binding-without-inotifypropertychanged/</link>
       <pubDate>Tue, 15 Feb 2011 18:00:44 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/data-binding-without-inotifypropertychanged/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>databinding</title>
       <link>https://usergroup.tv/videos/tag/databinding/</link>
       <pubDate>Tue, 15 Feb 2011 18:00:44 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/databinding/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -6,33 +6,28 @@
     <description>Recent content in Messaging on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/messaging/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/messaging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Messaging</title>
       <link>https://usergroup.tv/videos/tag/messaging/</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/messaging/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Messaging Without Servers</title>
       <link>https://usergroup.tv/videos/messaging-without-servers/</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/messaging-without-servers/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Telephones and Postcards: Our Brave New World of Messaging</title>
       <link>https://usergroup.tv/videos/telephones-and-postcards-our-brave-new-world-of-messaging/</link>
       <pubDate>Sat, 28 Sep 2013 12:49:32 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/telephones-and-postcards-our-brave-new-world-of-messaging/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

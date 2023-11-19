@@ -6,42 +6,35 @@
     <description>Recent content in AngularJS on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2015 02:01:02 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/angularjs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Oct 2015 02:01:02 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/angularjs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AngularJS</title>
       <link>https://usergroup.tv/videos/tag/angularjs/</link>
       <pubDate>Fri, 16 Oct 2015 02:01:02 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/angularjs/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Building modular enterprise scale AngularJS applications </title>
       <link>https://usergroup.tv/videos/building-modular-enterprise-scale-angularjs-applications/</link>
       <pubDate>Fri, 16 Oct 2015 02:01:02 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/building-modular-enterprise-scale-angularjs-applications/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to AngularJs with Web API</title>
       <link>https://usergroup.tv/videos/introduction-to-angularjs-with-web-api/</link>
       <pubDate>Mon, 21 Jul 2014 11:30:05 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/introduction-to-angularjs-with-web-api/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>An Introduction to AngularJS Forms Validation</title>
       <link>https://usergroup.tv/videos/an-introduction-to-angularjs-forms-validation/</link>
       <pubDate>Sat, 14 Jun 2014 11:02:26 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/an-introduction-to-angularjs-forms-validation/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

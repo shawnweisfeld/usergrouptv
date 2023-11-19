@@ -6,60 +6,49 @@
     <description>Recent content in Nodejs on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jun 2019 16:37:45 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jun 2019 16:37:45 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nodejs</title>
       <link>https://usergroup.tv/videos/tag/nodejs/</link>
       <pubDate>Mon, 24 Jun 2019 16:37:45 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/nodejs/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Productive Web Development with NodeJS and Microsoft Developer Tools</title>
       <link>https://usergroup.tv/videos/productive-web-development-with-nodejs-and-microsoft-developer-tools/</link>
       <pubDate>Mon, 24 Jun 2019 16:37:45 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/productive-web-development-with-nodejs-and-microsoft-developer-tools/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>INTEGRATING THE WORLD OF APIS WITH NODEJS</title>
       <link>https://usergroup.tv/videos/integrating-the-world-of-apis-with-nodejs/</link>
       <pubDate>Sun, 06 Aug 2017 16:47:55 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/integrating-the-world-of-apis-with-nodejs/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Node.js</title>
       <link>https://usergroup.tv/videos/node-js/</link>
       <pubDate>Wed, 13 Feb 2013 20:19:03 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/node-js/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>HTML5 WEBSOCKETS: Real-Time Web</title>
       <link>https://usergroup.tv/videos/html5-websockets-real-time-web/</link>
       <pubDate>Tue, 14 Aug 2012 19:35:46 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/html5-websockets-real-time-web/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Using Nodejs</title>
       <link>https://usergroup.tv/videos/using-nodejs/</link>
       <pubDate>Sat, 09 Jun 2012 10:34:54 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/using-nodejs/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

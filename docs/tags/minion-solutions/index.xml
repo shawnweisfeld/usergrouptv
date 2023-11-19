@@ -6,24 +6,21 @@
     <description>Recent content in Minion Solutions on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2015 14:18:04 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/minion-solutions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Aug 2015 14:18:04 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/minion-solutions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Minion Maintenance and Backup Solutions</title>
       <link>https://usergroup.tv/videos/minion-maintenance-and-backup-solutions/</link>
       <pubDate>Sat, 29 Aug 2015 14:18:04 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/minion-maintenance-and-backup-solutions/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Minion Solutions</title>
       <link>https://usergroup.tv/videos/tag/minion-solutions/</link>
       <pubDate>Sat, 29 Aug 2015 14:18:04 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/minion-solutions/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

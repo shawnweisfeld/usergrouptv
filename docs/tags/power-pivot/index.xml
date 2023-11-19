@@ -6,33 +6,28 @@
     <description>Recent content in Power Pivot on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 May 2014 19:56:46 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/power-pivot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 May 2014 19:56:46 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/power-pivot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Power Pivot</title>
       <link>https://usergroup.tv/videos/tag/power-pivot/</link>
       <pubDate>Sat, 03 May 2014 19:56:46 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/power-pivot/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Time Intelligence with Excel Power Pivot</title>
       <link>https://usergroup.tv/videos/time-intelligence-with-excel-power-pivot/</link>
       <pubDate>Sat, 03 May 2014 19:56:46 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/time-intelligence-with-excel-power-pivot/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Build Analytics Models with Excel Power Pivot </title>
       <link>https://usergroup.tv/videos/build-analytics-models-with-excel-power-pivot/</link>
       <pubDate>Sat, 03 May 2014 19:44:24 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/build-analytics-models-with-excel-power-pivot/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

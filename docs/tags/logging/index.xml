@@ -6,33 +6,28 @@
     <description>Recent content in logging on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/logging/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/logging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>But It was Logged! Practical Logging &amp; Monitoring with .NET Core</title>
       <link>https://usergroup.tv/videos/but-it-was-logged-practical-logging-monitoring-with-net-core/</link>
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/but-it-was-logged-practical-logging-monitoring-with-net-core/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>logging</title>
       <link>https://usergroup.tv/videos/tag/logging/</link>
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/logging/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Processing 3 Billion Log Entries Per Week</title>
       <link>https://usergroup.tv/videos/processing-3-billion-log-entries-per-week/</link>
       <pubDate>Fri, 21 Jul 2017 14:03:32 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/processing-3-billion-log-entries-per-week/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -6,15 +6,14 @@
     <description>Recent content in All About XAML UG on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Jul 2011 18:03:29 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/all-about-xaml-ug/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Jul 2011 18:03:29 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/all-about-xaml-ug/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>All About XAML UG</title>
       <link>https://usergroup.tv/videos/category/group/all-about-xaml-ug/</link>
       <pubDate>Wed, 06 Jul 2011 18:03:29 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/category/group/all-about-xaml-ug/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

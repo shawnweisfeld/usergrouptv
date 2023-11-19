@@ -6,78 +6,63 @@
     <description>Recent content in Security on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Process for Securing SQL Server and Azure SQL DB Solutions</title>
       <link>https://usergroup.tv/videos/a-process-for-securing-sql-server-and-azure-sql-db-solutions/</link>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/a-process-for-securing-sql-server-and-azure-sql-db-solutions/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Security</title>
       <link>https://usergroup.tv/videos/tag/security/</link>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/security/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>User-Story Driven Threat Modeling</title>
       <link>https://usergroup.tv/videos/userstory-driven-threat-modeling/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/userstory-driven-threat-modeling/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>I’m Pwned. You’re Pwned. We’re All Pwned.</title>
       <link>https://usergroup.tv/videos/im-pwned-youre-pwned-were-all-pwned/</link>
       <pubDate>Sat, 13 Oct 2018 14:13:25 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/im-pwned-youre-pwned-were-all-pwned/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Cryptography Pitfalls </title>
       <link>https://usergroup.tv/videos/cryptography-pitfalls/</link>
       <pubDate>Fri, 16 Oct 2015 01:57:08 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/cryptography-pitfalls/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Security and Vulnerability Assessments</title>
       <link>https://usergroup.tv/videos/security-and-vulnerability-assessments/</link>
       <pubDate>Sat, 26 Sep 2015 12:21:58 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/security-and-vulnerability-assessments/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Security for Silverlight and Click-Once Applications</title>
       <link>https://usergroup.tv/videos/security-for-silverlight-and-click-once-applications/</link>
       <pubDate>Tue, 01 Nov 2011 14:14:49 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/security-for-silverlight-and-click-once-applications/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Web Security - How Secure Am I?</title>
       <link>https://usergroup.tv/videos/web-security-how-secure-am-i/</link>
       <pubDate>Thu, 07 Jul 2011 22:27:39 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/web-security-how-secure-am-i/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

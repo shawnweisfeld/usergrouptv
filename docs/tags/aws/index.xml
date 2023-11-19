@@ -6,60 +6,49 @@
     <description>Recent content in AWS on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 May 2018 15:57:19 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 May 2018 15:57:19 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AWS</title>
       <link>https://usergroup.tv/videos/tag/aws/</link>
       <pubDate>Sat, 05 May 2018 15:57:19 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/aws/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Let the right one in: Securing files on AWS S3</title>
       <link>https://usergroup.tv/videos/let-the-right-one-in-securing-files-on-aws-s3/</link>
       <pubDate>Sat, 05 May 2018 15:57:19 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/let-the-right-one-in-securing-files-on-aws-s3/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Being Lazy in the Cloud - Finding Efficiencies in AWS to Make Life Easier</title>
       <link>https://usergroup.tv/videos/being-lazy-in-the-cloud-finding-efficiencies-in-aws-to-make-life-easier/</link>
       <pubDate>Fri, 06 Oct 2017 16:25:02 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/being-lazy-in-the-cloud-finding-efficiencies-in-aws-to-make-life-easier/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>A Tale of Two Clouds: Building An App Across AWS and Azure</title>
       <link>https://usergroup.tv/videos/a-tale-of-two-clouds-building-an-app-across-aws-and-azure/</link>
       <pubDate>Thu, 20 Jul 2017 14:05:46 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/a-tale-of-two-clouds-building-an-app-across-aws-and-azure/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Amazon Web Services in 60 minutes: The .NET edition</title>
       <link>https://usergroup.tv/videos/amazon-web-services-in-60-minutes-the-net-edition/</link>
       <pubDate>Tue, 18 Sep 2012 15:11:40 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/amazon-web-services-in-60-minutes-the-net-edition/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Amazon Web Services vs. Rackspace vs. Azure Smackdown</title>
       <link>https://usergroup.tv/videos/amazon-web-services-vs-rackspace-vs-azure-smackdown/</link>
       <pubDate>Fri, 24 Aug 2012 00:31:30 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/amazon-web-services-vs-rackspace-vs-azure-smackdown/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

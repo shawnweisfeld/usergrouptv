@@ -6,96 +6,77 @@
     <description>Recent content in SSIS on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Feb 2020 16:19:15 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/ssis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Feb 2020 16:19:15 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/ssis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A metadata approach to fixed width files</title>
       <link>https://usergroup.tv/videos/a-metadata-approach-to-fixed-width-files/</link>
       <pubDate>Sat, 08 Feb 2020 16:19:15 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/a-metadata-approach-to-fixed-width-files/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SSIS</title>
       <link>https://usergroup.tv/videos/tag/ssis/</link>
       <pubDate>Sat, 08 Feb 2020 16:19:15 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/ssis/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Deep Dive into the SSIS Catalog</title>
       <link>https://usergroup.tv/videos/deep-dive-into-the-ssis-catalog/</link>
       <pubDate>Sat, 04 Mar 2017 22:01:54 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/deep-dive-into-the-ssis-catalog/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Dynamic Data Flows in SSIS without Programming</title>
       <link>https://usergroup.tv/videos/dynamic-data-flows-in-ssis-without-programming/</link>
       <pubDate>Sat, 04 Mar 2017 21:56:18 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/dynamic-data-flows-in-ssis-without-programming/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Making the Most of the SSIS Catalog</title>
       <link>https://usergroup.tv/videos/making-the-most-of-the-ssis-catalog/</link>
       <pubDate>Sat, 14 May 2016 12:22:42 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/making-the-most-of-the-ssis-catalog/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>What is the SSIS Catalog? and Why do I care?</title>
       <link>https://usergroup.tv/videos/what-is-the-ssis-catalog-and-why-do-i-care/</link>
       <pubDate>Wed, 16 Dec 2015 18:28:33 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/what-is-the-ssis-catalog-and-why-do-i-care/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>15 Quick Tips for SSIS Performance</title>
       <link>https://usergroup.tv/videos/15-quick-tips-for-ssis-performance/</link>
       <pubDate>Fri, 06 Feb 2015 18:50:52 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/15-quick-tips-for-ssis-performance/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Capture Change and Apply it with CDC &amp; SSIS</title>
       <link>https://usergroup.tv/videos/capture-change-and-apply-it-with-cdc-ssis/</link>
       <pubDate>Sat, 31 Jan 2015 18:44:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/capture-change-and-apply-it-with-cdc-ssis/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SSIS project deployments with multiple developers</title>
       <link>https://usergroup.tv/videos/ssis-project-deployments-with-multiple-developers/</link>
       <pubDate>Sat, 03 May 2014 20:02:50 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/ssis-project-deployments-with-multiple-developers/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Handling Errors and Data Anomalies in SSIS</title>
       <link>https://usergroup.tv/videos/handling-errors-and-data-anomalies-in-ssis/</link>
       <pubDate>Sat, 24 Aug 2013 22:00:54 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/handling-errors-and-data-anomalies-in-ssis/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

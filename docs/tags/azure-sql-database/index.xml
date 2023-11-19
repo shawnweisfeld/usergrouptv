@@ -6,87 +6,70 @@
     <description>Recent content in Azure SQL Database on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/azure-sql-database/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/azure-sql-database/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure SQL Database</title>
       <link>https://usergroup.tv/videos/tag/azure-sql-database/</link>
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/azure-sql-database/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Latest innovations in Azure SQL</title>
       <link>https://usergroup.tv/videos/latest-innovations-in-azure-sql/</link>
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/latest-innovations-in-azure-sql/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL Server to Azure SQL: Performance and Availability</title>
       <link>https://usergroup.tv/videos/sql-server-to-azure-sql-performance-and-availability/</link>
       <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/sql-server-to-azure-sql-performance-and-availability/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL in Azure 101 </title>
       <link>https://usergroup.tv/videos/sql-in-azure-101/</link>
       <pubDate>Sat, 13 Jul 2019 13:53:29 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/sql-in-azure-101/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to Azure SQL Database</title>
       <link>https://usergroup.tv/videos/introduction-to-azure-sql-database/</link>
       <pubDate>Sat, 27 Apr 2019 13:51:15 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/introduction-to-azure-sql-database/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Azure SQL Managed Instance the New Hotness</title>
       <link>https://usergroup.tv/videos/azure-sql-managed-instance-the-new-hotness-2/</link>
       <pubDate>Tue, 16 Oct 2018 14:25:30 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/azure-sql-managed-instance-the-new-hotness-2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Azure SQL Managed Instance the New Hotness</title>
       <link>https://usergroup.tv/videos/azure-sql-managed-instance-the-new-hotness/</link>
       <pubDate>Sat, 23 Jun 2018 19:48:28 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/azure-sql-managed-instance-the-new-hotness/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Successfully Migrating Existing Databases to Azure SQL Database</title>
       <link>https://usergroup.tv/videos/successfully-migrating-existing-databases-to-azure-sql-database/</link>
       <pubDate>Sat, 14 Oct 2017 11:57:23 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/successfully-migrating-existing-databases-to-azure-sql-database/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Azure SQL Database - Lessons learned from the trenches</title>
       <link>https://usergroup.tv/videos/azure-sql-database-lessons-learned-from-the-trenches/</link>
       <pubDate>Sat, 04 Mar 2017 22:12:22 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/azure-sql-database-lessons-learned-from-the-trenches/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

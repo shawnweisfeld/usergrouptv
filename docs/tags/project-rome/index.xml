@@ -6,24 +6,21 @@
     <description>Recent content in Project Rome on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Apr 2018 13:42:10 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/project-rome/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Apr 2018 13:42:10 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/project-rome/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building Cross Device Experiences with Project Rome</title>
       <link>https://usergroup.tv/videos/building-cross-device-experiences-with-project-rome/</link>
       <pubDate>Mon, 09 Apr 2018 13:42:10 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/building-cross-device-experiences-with-project-rome/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Project Rome</title>
       <link>https://usergroup.tv/videos/tag/project-rome/</link>
       <pubDate>Mon, 09 Apr 2018 13:42:10 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/project-rome/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

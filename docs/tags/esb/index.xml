@@ -6,24 +6,21 @@
     <description>Recent content in ESB on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 May 2011 13:48:23 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/esb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 May 2011 13:48:23 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/esb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ESB</title>
       <link>https://usergroup.tv/videos/tag/esb/</link>
       <pubDate>Fri, 27 May 2011 13:48:23 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/esb/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MassTransit</title>
       <link>https://usergroup.tv/videos/event-driven-architecture-2/</link>
       <pubDate>Fri, 27 May 2011 13:48:23 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/event-driven-architecture-2/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

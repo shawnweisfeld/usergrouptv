@@ -6,33 +6,28 @@
     <description>Recent content in waf on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/waf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/waf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Azure Web Application Firewall (WAF)</title>
       <link>https://usergroup.tv/videos/introduction-to-azure-web-application-firewall-waf/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/introduction-to-azure-web-application-firewall-waf/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>waf</title>
       <link>https://usergroup.tv/videos/tag/waf/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/waf/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>No WAF&#39;ing Matter</title>
       <link>https://usergroup.tv/videos/no-wafing-matter/</link>
       <pubDate>Thu, 05 Oct 2017 21:51:41 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/no-wafing-matter/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

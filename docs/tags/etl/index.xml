@@ -6,69 +6,56 @@
     <description>Recent content in ETL on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Feb 2020 16:14:32 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/etl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Feb 2020 16:14:32 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/etl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ETL</title>
       <link>https://usergroup.tv/videos/tag/etl/</link>
       <pubDate>Sat, 08 Feb 2020 16:14:32 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/etl/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ETL Using Python, Pandas, and Jupyter Notebook</title>
       <link>https://usergroup.tv/videos/etl-using-python-pandas-and-jupyter-notebook/</link>
       <pubDate>Sat, 08 Feb 2020 16:14:32 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/etl-using-python-pandas-and-jupyter-notebook/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ETL The Old Fashioned Way </title>
       <link>https://usergroup.tv/videos/etl-the-old-fashioned-way/</link>
       <pubDate>Tue, 20 Jun 2017 22:06:47 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/etl-the-old-fashioned-way/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Things i wish I knew sooner about data loading.</title>
       <link>https://usergroup.tv/videos/things-i-wish-i-knew-sooner-about-data-loading/</link>
       <pubDate>Sat, 29 Aug 2015 14:20:38 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/things-i-wish-i-knew-sooner-about-data-loading/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Data Warehouse ETL</title>
       <link>https://usergroup.tv/videos/data-warehouse-etl/</link>
       <pubDate>Sat, 24 Aug 2013 22:27:09 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/data-warehouse-etl/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Handling Errors and Data Anomalies in SSIS</title>
       <link>https://usergroup.tv/videos/handling-errors-and-data-anomalies-in-ssis/</link>
       <pubDate>Sat, 24 Aug 2013 22:00:54 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/handling-errors-and-data-anomalies-in-ssis/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Data Integration: Who, What, When and Why</title>
       <link>https://usergroup.tv/videos/data-integration-who-what-when-and-why/</link>
       <pubDate>Fri, 24 Aug 2012 00:11:05 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/data-integration-who-what-when-and-why/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

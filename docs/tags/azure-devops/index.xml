@@ -6,42 +6,35 @@
     <description>Recent content in Azure DevOps on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/azure-devops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/azure-devops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure DevOps</title>
       <link>https://usergroup.tv/videos/tag/azure-devops/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/azure-devops/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Secure DevOps with the Microsoft Identity platform</title>
       <link>https://usergroup.tv/videos/secure-devops-with-the-microsoft-identity-platform/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/secure-devops-with-the-microsoft-identity-platform/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Azure DevOps for .Net- Fall into the Pit of Success</title>
       <link>https://usergroup.tv/videos/azure-devops-for-net-fall-into-the-pit-of-success/</link>
       <pubDate>Mon, 09 Mar 2020 18:29:59 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/azure-devops-for-net-fall-into-the-pit-of-success/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Azure DevOps</title>
       <link>https://usergroup.tv/videos/azure-devops/</link>
       <pubDate>Sat, 27 Apr 2019 13:42:49 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/azure-devops/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

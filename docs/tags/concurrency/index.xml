@@ -6,24 +6,21 @@
     <description>Recent content in Concurrency on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Sep 2013 15:34:36 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/concurrency/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Sep 2013 15:34:36 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/concurrency/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Concurrency</title>
       <link>https://usergroup.tv/videos/tag/concurrency/</link>
       <pubDate>Sat, 28 Sep 2013 15:34:36 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/concurrency/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Parallelism Versus Concurrency - Which One is Right?</title>
       <link>https://usergroup.tv/videos/parallelism-versus-concurrency-which-one-is-right/</link>
       <pubDate>Sat, 28 Sep 2013 15:34:36 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/parallelism-versus-concurrency-which-one-is-right/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

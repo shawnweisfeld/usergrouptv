@@ -6,24 +6,21 @@
     <description>Recent content in InfoPath on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Sep 2016 19:53:26 +0000</lastBuildDate><atom:link href="https://usergroup.tv/tags/infopath/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Sep 2016 19:53:26 +0000</lastBuildDate>
+    <atom:link href="https://usergroup.tv/tags/infopath/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>InfoPath</title>
       <link>https://usergroup.tv/videos/tag/infopath/</link>
       <pubDate>Sat, 24 Sep 2016 19:53:26 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/tag/infopath/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Intro to InfoPath</title>
       <link>https://usergroup.tv/videos/intro-to-infopath/</link>
       <pubDate>Sat, 24 Sep 2016 19:53:26 +0000</pubDate>
-      
       <guid>https://usergroup.tv/videos/intro-to-infopath/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

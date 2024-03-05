@@ -5,10 +5,36 @@
   ],
   "type": "speaker",
   "slug": "mark-moore",
-  "date": "2023-02-21T00:00:00",
+  "date": "2024-02-20T00:00:00",
   "draft": false,
-  "bio": "Mark Moore is a Cloud Solution Architect at Microsoft, Mark has been in the industry for 35+ years and has been with Microsoft for the past 27 years. Mark resides in the DFW area.",
+  "bio": "Mark is a Technology Specialist working for Microsoft with over 30 years of experience in technology. Mark resides in Lantana, Texas which is located in the DFW metroplex.",
   "recordings": [
+    {
+      "title": "An Introduction to Azure Maps",
+      "slug": "an-introduction-to-azure-maps",
+      "thumbnail": "https://i.vimeocdn.com/video/1809132901-97bc546ca67979c08e4dda8eaa573295540e5e0c7d1d520b607d6002b0df8cab-d_295x166",
+      "date": "2024-02-20T00:00:00",
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "Maps",
+          "slug": "maps"
+        }
+      ]
+    },
     {
       "title": "Intro to Cosmos DB",
       "slug": "intro-to-cosmos-db",

@@ -36,14 +36,14 @@
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 53
+      "count": 54
     }
   ],
   "meetups": [
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 75
+      "count": 76
     }
   ]
 }

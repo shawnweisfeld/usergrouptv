@@ -1,12 +1,44 @@
 {
   "title": "Recordings",
   "type": "recording",
-  "date": "2023-11-19T05:20:12.1717637Z",
+  "date": "2024-03-05T12:58:18.7083629Z",
   "draft": false,
-  "recordingCount": "1,169",
+  "recordingCount": "1,170",
   "speakerCount": "649",
   "groupCount": "68",
   "newest": [
+    {
+      "title": "An Introduction to Azure Maps",
+      "slug": "an-introduction-to-azure-maps",
+      "thumbnail": "https://i.vimeocdn.com/video/1809132901-97bc546ca67979c08e4dda8eaa573295540e5e0c7d1d520b607d6002b0df8cab-d_295x166",
+      "date": "2024-02-20T00:00:00",
+      "speakers": [
+        {
+          "name": "Mark Moore",
+          "slug": "mark-moore"
+        }
+      ],
+      "meetups": [
+        {
+          "name": "Azure Austin Meetup",
+          "slug": "azure-austin-meetup"
+        },
+        {
+          "name": "DFW Azure User Group",
+          "slug": "dfw-azure-user-group"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Azure",
+          "slug": "azure"
+        },
+        {
+          "name": "Maps",
+          "slug": "maps"
+        }
+      ]
+    },
     {
       "title": "Visual Calculations - Improvements to doing calculations in Power BI",
       "slug": "visual-calculations-improvements-to-doing-calculations-in-power-bi",
@@ -488,30 +520,6 @@
         {
           "name": "Azure Synapse",
           "slug": "azure-synapse"
-        }
-      ]
-    },
-    {
-      "title": "Measure Killer",
-      "slug": "measure-killer",
-      "thumbnail": "https://i.vimeocdn.com/video/1641445566-85a8e520172d43ff25832cccc947865d228382333ba2365856711e8dac6f401c-d_295x166",
-      "date": "2023-03-08T00:00:00",
-      "speakers": [
-        {
-          "name": "Gregor Brunner",
-          "slug": "gregor-brunner"
-        }
-      ],
-      "meetups": [
-        {
-          "name": "Austin Power BI User Group",
-          "slug": "austin-power-bi-user-group"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Measure Killer",
-          "slug": "measure-killer"
         }
       ]
     }

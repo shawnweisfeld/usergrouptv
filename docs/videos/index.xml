@@ -6,8 +6,15 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Nov 2023 05:20:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://usergroup.tv/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Introduction to Azure Maps</title>
+      <link>https://usergroup.tv/videos/an-introduction-to-azure-maps/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://usergroup.tv/videos/an-introduction-to-azure-maps/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Visual Calculations - Improvements to doing calculations in Power BI</title>
       <link>https://usergroup.tv/videos/visual-calculations-improvements-to-doing-calculations-in-power-bi/</link>

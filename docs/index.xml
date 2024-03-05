@@ -6,8 +6,50 @@
     <description>Recent content in Recordings on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Nov 2023 05:20:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://usergroup.tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Introduction to Azure Maps</title>
+      <link>https://usergroup.tv/videos/an-introduction-to-azure-maps/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://usergroup.tv/videos/an-introduction-to-azure-maps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Azure</title>
+      <link>https://usergroup.tv/videos/tag/azure/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://usergroup.tv/videos/tag/azure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Azure Austin Meetup</title>
+      <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://usergroup.tv/videos/category/group/azure-austin-meetup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DFW Azure User Group</title>
+      <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maps</title>
+      <link>https://usergroup.tv/videos/tag/maps/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://usergroup.tv/videos/tag/maps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mark Moore</title>
+      <link>https://usergroup.tv/videos/category/speaker/mark-moore/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://usergroup.tv/videos/category/speaker/mark-moore/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Austin Power BI User Group</title>
       <link>https://usergroup.tv/videos/category/group/austin-power-bi-user-group/</link>
@@ -97,20 +139,6 @@
       <link>https://usergroup.tv/videos/category/speaker/ani-pandit/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://usergroup.tv/videos/category/speaker/ani-pandit/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Azure Austin Meetup</title>
-      <link>https://usergroup.tv/videos/category/group/azure-austin-meetup/</link>
-      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://usergroup.tv/videos/category/group/azure-austin-meetup/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>DFW Azure User Group</title>
-      <link>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</link>
-      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://usergroup.tv/videos/category/group/dfw-azure-user-group/</guid>
       <description></description>
     </item>
     <item>
@@ -209,13 +237,6 @@
       <link>https://usergroup.tv/videos/using-parquet-files-in-azure/</link>
       <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://usergroup.tv/videos/using-parquet-files-in-azure/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Azure</title>
-      <link>https://usergroup.tv/videos/tag/azure/</link>
-      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://usergroup.tv/videos/tag/azure/</guid>
       <description></description>
     </item>
     <item>
@@ -622,13 +643,6 @@
       <link>https://usergroup.tv/videos/intro-to-cosmos-db/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://usergroup.tv/videos/intro-to-cosmos-db/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mark Moore</title>
-      <link>https://usergroup.tv/videos/category/speaker/mark-moore/</link>
-      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://usergroup.tv/videos/category/speaker/mark-moore/</guid>
       <description></description>
     </item>
     <item>
@@ -2596,17 +2610,14 @@
       <link>https://usergroup.tv/about-us/</link>
       <pubDate>Thu, 17 Sep 2020 22:13:37 -0500</pubDate>
       <guid>https://usergroup.tv/about-us/</guid>
-      <description>UserGroup.tv was founded in January of 2011 by Shawn Weisfeld, with the mission of providing User Group content online for free.
-Founded by Shawn Weisfeld Shawn is passionate about building awesome applications and websites with .NET technologies and Azure. He is currently a Azure Storage PM for Microsoft based in Austin, TX and founder of http://UserGroup.tv &amp;nbsp; . Read his full bio &amp;nbsp; or connect with him on LinkedIn &amp;nbsp; Mobile Apps by Mark Wilkinson Mark develops software in Houston TX with a focus on iOS development and previously on .</description>
+      <description>UserGroup.tv was founded in January of 2011 by Shawn Weisfeld, with the mission of providing User Group content online for free.&#xA;Founded by Shawn Weisfeld Shawn is passionate about building awesome applications and websites with .NET technologies and Azure. He is currently a Azure Storage PM for Microsoft based in Austin, TX and founder of http://UserGroup.tv &amp;nbsp; . Read his full bio &amp;nbsp; or connect with him on LinkedIn &amp;nbsp; Mobile Apps by Mark Wilkinson Mark develops software in Houston TX with a focus on iOS development and previously on .</description>
     </item>
     <item>
       <title>Privacy Policy</title>
       <link>https://usergroup.tv/privacy-policy/</link>
       <pubDate>Thu, 17 Sep 2020 21:57:47 -0500</pubDate>
       <guid>https://usergroup.tv/privacy-policy/</guid>
-      <description>What information do we collect? Google, as a third party vendor, uses cookies to serve ads on your site.
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
-What do we use your information for?</description>
+      <description>What information do we collect? Google, as a third party vendor, uses cookies to serve ads on your site.&#xA;Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..&#xA;What do we use your information for?</description>
     </item>
     <item>
       <title>Today’s API Thread Landscape: Detect and Block Threats</title>

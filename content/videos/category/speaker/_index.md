@@ -1,7 +1,7 @@
 {
   "title": "Speakers",
   "type": "speaker",
-  "date": "2023-11-19T05:20:12.6384416Z",
+  "date": "2024-03-05T12:58:21.0412242Z",
   "draft": false,
   "speakers": [
     {
@@ -2723,9 +2723,9 @@
     {
       "title": "Mark Moore",
       "slug": "mark-moore",
-      "thumbnail": "https://i.vimeocdn.com/video/1641445327-4e9e095d0b2a4316d3ac0129abeaf95fe7d32d77b7e3f166fc50e4d4bc5a42dc-d_295x166",
-      "date": "2023-02-21T00:00:00",
-      "count": 7
+      "thumbnail": "https://i.vimeocdn.com/video/1809132901-97bc546ca67979c08e4dda8eaa573295540e5e0c7d1d520b607d6002b0df8cab-d_295x166",
+      "date": "2024-02-20T00:00:00",
+      "count": 8
     },
     {
       "title": "Mark Rackley",

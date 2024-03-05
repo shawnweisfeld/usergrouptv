@@ -6,8 +6,43 @@
     <description>Recent content in Tags on UserGroup.tv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://usergroup.tv/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure</title>
+      <link>https://usergroup.tv/tags/azure/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://usergroup.tv/tags/azure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Azure Austin Meetup</title>
+      <link>https://usergroup.tv/tags/azure-austin-meetup/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://usergroup.tv/tags/azure-austin-meetup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DFW Azure User Group</title>
+      <link>https://usergroup.tv/tags/dfw-azure-user-group/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://usergroup.tv/tags/dfw-azure-user-group/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maps</title>
+      <link>https://usergroup.tv/tags/maps/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://usergroup.tv/tags/maps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mark Moore</title>
+      <link>https://usergroup.tv/tags/mark-moore/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://usergroup.tv/tags/mark-moore/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Austin Power BI User Group</title>
       <link>https://usergroup.tv/tags/austin-power-bi-user-group/</link>
@@ -16,7 +51,7 @@
       <description></description>
     </item>
     <item>
-      <title>Jeroen ter Heerdt</title>
+      <title>Jeroen Ter Heerdt</title>
       <link>https://usergroup.tv/tags/jeroen-ter-heerdt/</link>
       <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://usergroup.tv/tags/jeroen-ter-heerdt/</guid>
@@ -79,20 +114,6 @@
       <description></description>
     </item>
     <item>
-      <title>Azure Austin Meetup</title>
-      <link>https://usergroup.tv/tags/azure-austin-meetup/</link>
-      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://usergroup.tv/tags/azure-austin-meetup/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>DFW Azure User Group</title>
-      <link>https://usergroup.tv/tags/dfw-azure-user-group/</link>
-      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://usergroup.tv/tags/dfw-azure-user-group/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>GitHub</title>
       <link>https://usergroup.tv/tags/github/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
@@ -149,13 +170,6 @@
       <description></description>
     </item>
     <item>
-      <title>Azure</title>
-      <link>https://usergroup.tv/tags/azure/</link>
-      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://usergroup.tv/tags/azure/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Sean Shen</title>
       <link>https://usergroup.tv/tags/sean-shen/</link>
       <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
@@ -192,9 +206,9 @@
     </item>
     <item>
       <title>OpenAI </title>
-      <link>https://usergroup.tv/tags/openai/</link>
+      <link>https://usergroup.tv/tags/openai-/</link>
       <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://usergroup.tv/tags/openai/</guid>
+      <guid>https://usergroup.tv/tags/openai-/</guid>
       <description></description>
     </item>
     <item>
@@ -331,7 +345,7 @@
       <description></description>
     </item>
     <item>
-      <title>Public speaking</title>
+      <title>Public Speaking</title>
       <link>https://usergroup.tv/tags/public-speaking/</link>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://usergroup.tv/tags/public-speaking/</guid>
@@ -394,13 +408,6 @@
       <description></description>
     </item>
     <item>
-      <title>Mark Moore</title>
-      <link>https://usergroup.tv/tags/mark-moore/</link>
-      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://usergroup.tv/tags/mark-moore/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Brian Julius</title>
       <link>https://usergroup.tv/tags/brian-julius/</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
@@ -408,7 +415,7 @@
       <description></description>
     </item>
     <item>
-      <title>dax</title>
+      <title>Dax</title>
       <link>https://usergroup.tv/tags/dax/</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://usergroup.tv/tags/dax/</guid>
@@ -429,7 +436,7 @@
       <description></description>
     </item>
     <item>
-      <title>.net</title>
+      <title>.Net</title>
       <link>https://usergroup.tv/tags/.net/</link>
       <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://usergroup.tv/tags/.net/</guid>
@@ -535,9 +542,9 @@
     </item>
     <item>
       <title>C#</title>
-      <link>https://usergroup.tv/tags/c#/</link>
+      <link>https://usergroup.tv/tags/c</link>
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://usergroup.tv/tags/c#/</guid>
+      <guid>https://usergroup.tv/tags/c</guid>
       <description></description>
     </item>
     <item>
@@ -597,7 +604,7 @@
       <description></description>
     </item>
     <item>
-      <title>logging</title>
+      <title>Logging</title>
       <link>https://usergroup.tv/tags/logging/</link>
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://usergroup.tv/tags/logging/</guid>
@@ -800,7 +807,7 @@
       <description></description>
     </item>
     <item>
-      <title>waf</title>
+      <title>Waf</title>
       <link>https://usergroup.tv/tags/waf/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://usergroup.tv/tags/waf/</guid>
@@ -878,9 +885,9 @@
     </item>
     <item>
       <title>Azure User Group - Houston</title>
-      <link>https://usergroup.tv/tags/azure-user-group-houston/</link>
+      <link>https://usergroup.tv/tags/azure-user-group---houston/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://usergroup.tv/tags/azure-user-group-houston/</guid>
+      <guid>https://usergroup.tv/tags/azure-user-group---houston/</guid>
       <description></description>
     </item>
     <item>
@@ -954,7 +961,7 @@
       <description></description>
     </item>
     <item>
-      <title>graphql</title>
+      <title>Graphql</title>
       <link>https://usergroup.tv/tags/graphql/</link>
       <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://usergroup.tv/tags/graphql/</guid>
@@ -1122,7 +1129,7 @@
       <description></description>
     </item>
     <item>
-      <title>graph</title>
+      <title>Graph</title>
       <link>https://usergroup.tv/tags/graph/</link>
       <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://usergroup.tv/tags/graph/</guid>
@@ -1136,7 +1143,7 @@
       <description></description>
     </item>
     <item>
-      <title>graphdb</title>
+      <title>Graphdb</title>
       <link>https://usergroup.tv/tags/graphdb/</link>
       <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://usergroup.tv/tags/graphdb/</guid>
@@ -1206,7 +1213,7 @@
       <description></description>
     </item>
     <item>
-      <title>Team building</title>
+      <title>Team Building</title>
       <link>https://usergroup.tv/tags/team-building/</link>
       <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://usergroup.tv/tags/team-building/</guid>
@@ -1444,7 +1451,7 @@
       <description></description>
     </item>
     <item>
-      <title>gPRC</title>
+      <title>GPRC</title>
       <link>https://usergroup.tv/tags/gprc/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://usergroup.tv/tags/gprc/</guid>
@@ -1696,7 +1703,7 @@
       <description></description>
     </item>
     <item>
-      <title>caf</title>
+      <title>Caf</title>
       <link>https://usergroup.tv/tags/caf/</link>
       <pubDate>Tue, 21 Jul 2020 18:08:37 +0000</pubDate>
       <guid>https://usergroup.tv/tags/caf/</guid>
@@ -1759,7 +1766,7 @@
       <description></description>
     </item>
     <item>
-      <title>git</title>
+      <title>Git</title>
       <link>https://usergroup.tv/tags/git/</link>
       <pubDate>Tue, 23 Jun 2020 13:06:06 +0000</pubDate>
       <guid>https://usergroup.tv/tags/git/</guid>
@@ -1815,7 +1822,7 @@
       <description></description>
     </item>
     <item>
-      <title>m365</title>
+      <title>M365</title>
       <link>https://usergroup.tv/tags/m365/</link>
       <pubDate>Wed, 13 May 2020 12:41:42 +0000</pubDate>
       <guid>https://usergroup.tv/tags/m365/</guid>
@@ -2032,7 +2039,7 @@
       <description></description>
     </item>
     <item>
-      <title>hyperv</title>
+      <title>Hyperv</title>
       <link>https://usergroup.tv/tags/hyperv/</link>
       <pubDate>Sat, 07 Dec 2019 19:21:50 +0000</pubDate>
       <guid>https://usergroup.tv/tags/hyperv/</guid>
@@ -2082,9 +2089,9 @@
     </item>
     <item>
       <title>Austin F# Meetup</title>
-      <link>https://usergroup.tv/tags/austin-f#-meetup/</link>
+      <link>https://usergroup.tv/tags/austin-f</link>
       <pubDate>Mon, 11 Nov 2019 17:23:37 +0000</pubDate>
-      <guid>https://usergroup.tv/tags/austin-f#-meetup/</guid>
+      <guid>https://usergroup.tv/tags/austin-f</guid>
       <description></description>
     </item>
     <item>
@@ -2249,7 +2256,7 @@
       <description></description>
     </item>
     <item>
-      <title>joomla</title>
+      <title>Joomla</title>
       <link>https://usergroup.tv/tags/joomla/</link>
       <pubDate>Sat, 28 Sep 2019 17:03:52 +0000</pubDate>
       <guid>https://usergroup.tv/tags/joomla/</guid>
@@ -2431,7 +2438,7 @@
       <description></description>
     </item>
     <item>
-      <title>bots</title>
+      <title>Bots</title>
       <link>https://usergroup.tv/tags/bots/</link>
       <pubDate>Wed, 10 Jul 2019 13:40:57 +0000</pubDate>
       <guid>https://usergroup.tv/tags/bots/</guid>
@@ -2544,9 +2551,9 @@
     </item>
     <item>
       <title>F#</title>
-      <link>https://usergroup.tv/tags/f#/</link>
+      <link>https://usergroup.tv/tags/f</link>
       <pubDate>Tue, 21 May 2019 14:30:46 +0000</pubDate>
-      <guid>https://usergroup.tv/tags/f#/</guid>
+      <guid>https://usergroup.tv/tags/f</guid>
       <description></description>
     </item>
     <item>
@@ -2753,7 +2760,7 @@
       <description></description>
     </item>
     <item>
-      <title>async</title>
+      <title>Async</title>
       <link>https://usergroup.tv/tags/async/</link>
       <pubDate>Sat, 13 Oct 2018 14:17:50 +0000</pubDate>
       <guid>https://usergroup.tv/tags/async/</guid>
@@ -3005,7 +3012,7 @@
       <description></description>
     </item>
     <item>
-      <title>sql on linux</title>
+      <title>Sql on Linux</title>
       <link>https://usergroup.tv/tags/sql-on-linux/</link>
       <pubDate>Sat, 11 Aug 2018 15:52:11 +0000</pubDate>
       <guid>https://usergroup.tv/tags/sql-on-linux/</guid>
@@ -3019,7 +3026,7 @@
       <description></description>
     </item>
     <item>
-      <title>pivotal</title>
+      <title>Pivotal</title>
       <link>https://usergroup.tv/tags/pivotal/</link>
       <pubDate>Tue, 10 Jul 2018 19:10:37 +0000</pubDate>
       <guid>https://usergroup.tv/tags/pivotal/</guid>
@@ -3173,7 +3180,7 @@
       <description></description>
     </item>
     <item>
-      <title>Richard diZerega</title>
+      <title>Richard DiZerega</title>
       <link>https://usergroup.tv/tags/richard-dizerega/</link>
       <pubDate>Wed, 13 Jun 2018 13:28:22 +0000</pubDate>
       <guid>https://usergroup.tv/tags/richard-dizerega/</guid>
@@ -3600,7 +3607,7 @@
       <description></description>
     </item>
     <item>
-      <title>iPhone</title>
+      <title>IPhone</title>
       <link>https://usergroup.tv/tags/iphone/</link>
       <pubDate>Sat, 14 Oct 2017 11:44:46 +0000</pubDate>
       <guid>https://usergroup.tv/tags/iphone/</guid>
@@ -3614,7 +3621,7 @@
       <description></description>
     </item>
     <item>
-      <title>mvvm</title>
+      <title>Mvvm</title>
       <link>https://usergroup.tv/tags/mvvm/</link>
       <pubDate>Sat, 14 Oct 2017 11:43:45 +0000</pubDate>
       <guid>https://usergroup.tv/tags/mvvm/</guid>
@@ -4090,7 +4097,7 @@
       <description></description>
     </item>
     <item>
-      <title>jobs</title>
+      <title>Jobs</title>
       <link>https://usergroup.tv/tags/jobs/</link>
       <pubDate>Sun, 06 Aug 2017 17:01:27 +0000</pubDate>
       <guid>https://usergroup.tv/tags/jobs/</guid>
@@ -4195,7 +4202,7 @@
       <description></description>
     </item>
     <item>
-      <title>entrepreneurship</title>
+      <title>Entrepreneurship</title>
       <link>https://usergroup.tv/tags/entrepreneurship/</link>
       <pubDate>Sun, 06 Aug 2017 16:21:37 +0000</pubDate>
       <guid>https://usergroup.tv/tags/entrepreneurship/</guid>
@@ -4209,7 +4216,7 @@
       <description></description>
     </item>
     <item>
-      <title>millennials</title>
+      <title>Millennials</title>
       <link>https://usergroup.tv/tags/millennials/</link>
       <pubDate>Sun, 06 Aug 2017 16:00:41 +0000</pubDate>
       <guid>https://usergroup.tv/tags/millennials/</guid>
@@ -4230,14 +4237,14 @@
       <description></description>
     </item>
     <item>
-      <title>privilege</title>
+      <title>Privilege</title>
       <link>https://usergroup.tv/tags/privilege/</link>
       <pubDate>Sat, 05 Aug 2017 17:21:07 +0000</pubDate>
       <guid>https://usergroup.tv/tags/privilege/</guid>
       <description></description>
     </item>
     <item>
-      <title>CODES OF CONDUCT</title>
+      <title>CODES of CONDUCT</title>
       <link>https://usergroup.tv/tags/codes-of-conduct/</link>
       <pubDate>Sat, 05 Aug 2017 17:19:59 +0000</pubDate>
       <guid>https://usergroup.tv/tags/codes-of-conduct/</guid>
@@ -4286,7 +4293,7 @@
       <description></description>
     </item>
     <item>
-      <title>email</title>
+      <title>Email</title>
       <link>https://usergroup.tv/tags/email/</link>
       <pubDate>Sat, 05 Aug 2017 17:14:36 +0000</pubDate>
       <guid>https://usergroup.tv/tags/email/</guid>
@@ -4314,7 +4321,7 @@
       <description></description>
     </item>
     <item>
-      <title>blogger</title>
+      <title>Blogger</title>
       <link>https://usergroup.tv/tags/blogger/</link>
       <pubDate>Sat, 05 Aug 2017 17:03:05 +0000</pubDate>
       <guid>https://usergroup.tv/tags/blogger/</guid>
@@ -4447,7 +4454,7 @@
       <description></description>
     </item>
     <item>
-      <title>xamarin</title>
+      <title>Xamarin</title>
       <link>https://usergroup.tv/tags/xamarin/</link>
       <pubDate>Fri, 21 Jul 2017 14:17:40 +0000</pubDate>
       <guid>https://usergroup.tv/tags/xamarin/</guid>
@@ -4888,7 +4895,7 @@
       <description></description>
     </item>
     <item>
-      <title>redux</title>
+      <title>Redux</title>
       <link>https://usergroup.tv/tags/redux/</link>
       <pubDate>Thu, 26 Jan 2017 15:25:59 +0000</pubDate>
       <guid>https://usergroup.tv/tags/redux/</guid>
@@ -5175,7 +5182,7 @@
       <description></description>
     </item>
     <item>
-      <title>unit testing</title>
+      <title>Unit Testing</title>
       <link>https://usergroup.tv/tags/unit-testing/</link>
       <pubDate>Fri, 05 Aug 2016 14:47:30 +0000</pubDate>
       <guid>https://usergroup.tv/tags/unit-testing/</guid>
@@ -5651,7 +5658,7 @@
       <description></description>
     </item>
     <item>
-      <title>ASP.NET vNext</title>
+      <title>ASP.NET VNext</title>
       <link>https://usergroup.tv/tags/asp.net-vnext/</link>
       <pubDate>Sat, 26 Sep 2015 12:10:38 +0000</pubDate>
       <guid>https://usergroup.tv/tags/asp.net-vnext/</guid>
@@ -5693,7 +5700,7 @@
       <description></description>
     </item>
     <item>
-      <title>edge</title>
+      <title>Edge</title>
       <link>https://usergroup.tv/tags/edge/</link>
       <pubDate>Tue, 22 Sep 2015 14:16:12 +0000</pubDate>
       <guid>https://usergroup.tv/tags/edge/</guid>
@@ -5889,7 +5896,7 @@
       <description></description>
     </item>
     <item>
-      <title>sql injection</title>
+      <title>Sql Injection</title>
       <link>https://usergroup.tv/tags/sql-injection/</link>
       <pubDate>Sat, 31 Jan 2015 23:17:05 +0000</pubDate>
       <guid>https://usergroup.tv/tags/sql-injection/</guid>
@@ -6183,7 +6190,7 @@
       <description></description>
     </item>
     <item>
-      <title>iOS</title>
+      <title>IOS</title>
       <link>https://usergroup.tv/tags/ios/</link>
       <pubDate>Fri, 26 Sep 2014 11:26:00 +0000</pubDate>
       <guid>https://usergroup.tv/tags/ios/</guid>
@@ -6260,7 +6267,7 @@
       <description></description>
     </item>
     <item>
-      <title>tools</title>
+      <title>Tools</title>
       <link>https://usergroup.tv/tags/tools/</link>
       <pubDate>Sat, 13 Sep 2014 23:46:09 +0000</pubDate>
       <guid>https://usergroup.tv/tags/tools/</guid>
@@ -6407,7 +6414,7 @@
       <description></description>
     </item>
     <item>
-      <title>debuging</title>
+      <title>Debuging</title>
       <link>https://usergroup.tv/tags/debuging/</link>
       <pubDate>Fri, 15 Aug 2014 16:54:07 +0000</pubDate>
       <guid>https://usergroup.tv/tags/debuging/</guid>
@@ -6568,7 +6575,7 @@
       <description></description>
     </item>
     <item>
-      <title>marek koenig</title>
+      <title>Marek Koenig</title>
       <link>https://usergroup.tv/tags/marek-koenig/</link>
       <pubDate>Sat, 03 May 2014 19:49:54 +0000</pubDate>
       <guid>https://usergroup.tv/tags/marek-koenig/</guid>
@@ -6624,7 +6631,7 @@
       <description></description>
     </item>
     <item>
-      <title>Clementino de Mendonca</title>
+      <title>Clementino De Mendonca</title>
       <link>https://usergroup.tv/tags/clementino-de-mendonca/</link>
       <pubDate>Fri, 11 Apr 2014 23:40:08 +0000</pubDate>
       <guid>https://usergroup.tv/tags/clementino-de-mendonca/</guid>
@@ -6666,7 +6673,7 @@
       <description></description>
     </item>
     <item>
-      <title>jQuery</title>
+      <title>JQuery</title>
       <link>https://usergroup.tv/tags/jquery/</link>
       <pubDate>Fri, 11 Oct 2013 21:19:13 +0000</pubDate>
       <guid>https://usergroup.tv/tags/jquery/</guid>
@@ -6750,14 +6757,14 @@
       <description></description>
     </item>
     <item>
-      <title>win8</title>
+      <title>Win8</title>
       <link>https://usergroup.tv/tags/win8/</link>
       <pubDate>Sat, 28 Sep 2013 02:41:25 +0000</pubDate>
       <guid>https://usergroup.tv/tags/win8/</guid>
       <description></description>
     </item>
     <item>
-      <title>wp8</title>
+      <title>Wp8</title>
       <link>https://usergroup.tv/tags/wp8/</link>
       <pubDate>Sat, 28 Sep 2013 02:41:25 +0000</pubDate>
       <guid>https://usergroup.tv/tags/wp8/</guid>
@@ -6982,9 +6989,9 @@
     </item>
     <item>
       <title>Dallas C# SIG</title>
-      <link>https://usergroup.tv/tags/dallas-c#-sig/</link>
+      <link>https://usergroup.tv/tags/dallas-c</link>
       <pubDate>Thu, 07 Feb 2013 00:50:11 +0000</pubDate>
-      <guid>https://usergroup.tv/tags/dallas-c#-sig/</guid>
+      <guid>https://usergroup.tv/tags/dallas-c</guid>
       <description></description>
     </item>
     <item>
@@ -7030,7 +7037,7 @@
       <description></description>
     </item>
     <item>
-      <title>cross-platform</title>
+      <title>Cross-Platform</title>
       <link>https://usergroup.tv/tags/cross-platform/</link>
       <pubDate>Tue, 15 Jan 2013 21:35:39 +0000</pubDate>
       <guid>https://usergroup.tv/tags/cross-platform/</guid>
@@ -7107,7 +7114,7 @@
       <description></description>
     </item>
     <item>
-      <title>jQuery Mobile</title>
+      <title>JQuery Mobile</title>
       <link>https://usergroup.tv/tags/jquery-mobile/</link>
       <pubDate>Fri, 12 Oct 2012 15:36:01 +0000</pubDate>
       <guid>https://usergroup.tv/tags/jquery-mobile/</guid>
@@ -7226,7 +7233,7 @@
       <description></description>
     </item>
     <item>
-      <title>hardware</title>
+      <title>Hardware</title>
       <link>https://usergroup.tv/tags/hardware/</link>
       <pubDate>Sat, 08 Sep 2012 14:46:15 +0000</pubDate>
       <guid>https://usergroup.tv/tags/hardware/</guid>
@@ -7331,7 +7338,7 @@
       <description></description>
     </item>
     <item>
-      <title>replication</title>
+      <title>Replication</title>
       <link>https://usergroup.tv/tags/replication/</link>
       <pubDate>Fri, 24 Aug 2012 00:11:05 +0000</pubDate>
       <guid>https://usergroup.tv/tags/replication/</guid>
@@ -7359,7 +7366,7 @@
       <description></description>
     </item>
     <item>
-      <title>web sockets</title>
+      <title>Web Sockets</title>
       <link>https://usergroup.tv/tags/web-sockets/</link>
       <pubDate>Tue, 14 Aug 2012 19:35:46 +0000</pubDate>
       <guid>https://usergroup.tv/tags/web-sockets/</guid>
@@ -7408,7 +7415,7 @@
       <description></description>
     </item>
     <item>
-      <title>metro</title>
+      <title>Metro</title>
       <link>https://usergroup.tv/tags/metro/</link>
       <pubDate>Tue, 19 Jun 2012 11:00:07 +0000</pubDate>
       <guid>https://usergroup.tv/tags/metro/</guid>
@@ -7436,7 +7443,7 @@
       <description></description>
     </item>
     <item>
-      <title>backbone.js</title>
+      <title>Backbone.js</title>
       <link>https://usergroup.tv/tags/backbone.js/</link>
       <pubDate>Sat, 09 Jun 2012 10:37:11 +0000</pubDate>
       <guid>https://usergroup.tv/tags/backbone.js/</guid>
@@ -7597,6 +7604,13 @@
       <description></description>
     </item>
     <item>
+      <title>D/FW Connected Systems UG</title>
+      <link>https://usergroup.tv/tags/d/fw-connected-systems-ug/</link>
+      <pubDate>Wed, 14 Mar 2012 21:11:52 +0000</pubDate>
+      <guid>https://usergroup.tv/tags/d/fw-connected-systems-ug/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Ian Henehan</title>
       <link>https://usergroup.tv/tags/ian-henehan/</link>
       <pubDate>Wed, 14 Mar 2012 13:01:38 +0000</pubDate>
@@ -7653,7 +7667,7 @@
       <description></description>
     </item>
     <item>
-      <title>Hands On Coding .NET Dallas</title>
+      <title>Hands on Coding .NET Dallas</title>
       <link>https://usergroup.tv/tags/hands-on-coding-.net-dallas/</link>
       <pubDate>Tue, 14 Feb 2012 15:23:50 +0000</pubDate>
       <guid>https://usergroup.tv/tags/hands-on-coding-.net-dallas/</guid>
@@ -7667,7 +7681,7 @@
       <description></description>
     </item>
     <item>
-      <title>dvcs</title>
+      <title>Dvcs</title>
       <link>https://usergroup.tv/tags/dvcs/</link>
       <pubDate>Thu, 02 Feb 2012 15:26:43 +0000</pubDate>
       <guid>https://usergroup.tv/tags/dvcs/</guid>
@@ -7730,7 +7744,7 @@
       <description></description>
     </item>
     <item>
-      <title>mono</title>
+      <title>Mono</title>
       <link>https://usergroup.tv/tags/mono/</link>
       <pubDate>Tue, 17 Jan 2012 15:41:53 +0000</pubDate>
       <guid>https://usergroup.tv/tags/mono/</guid>
@@ -8122,7 +8136,7 @@
       <description></description>
     </item>
     <item>
-      <title>wpf</title>
+      <title>Wpf</title>
       <link>https://usergroup.tv/tags/wpf/</link>
       <pubDate>Fri, 12 Aug 2011 20:03:04 +0000</pubDate>
       <guid>https://usergroup.tv/tags/wpf/</guid>
@@ -8305,9 +8319,9 @@
     </item>
     <item>
       <title>C# Strings</title>
-      <link>https://usergroup.tv/tags/c#-strings/</link>
+      <link>https://usergroup.tv/tags/c</link>
       <pubDate>Tue, 12 Apr 2011 22:37:30 +0000</pubDate>
-      <guid>https://usergroup.tv/tags/c#-strings/</guid>
+      <guid>https://usergroup.tv/tags/c</guid>
       <description></description>
     </item>
     <item>
@@ -8381,10 +8395,10 @@
       <description></description>
     </item>
     <item>
-      <title>c# in 24 hrs</title>
-      <link>https://usergroup.tv/tags/c#-in-24-hrs/</link>
+      <title>C# in 24 Hrs</title>
+      <link>https://usergroup.tv/tags/c</link>
       <pubDate>Sat, 12 Mar 2011 13:42:25 +0000</pubDate>
-      <guid>https://usergroup.tv/tags/c#-in-24-hrs/</guid>
+      <guid>https://usergroup.tv/tags/c</guid>
       <description></description>
     </item>
     <item>
@@ -8444,17 +8458,10 @@
       <description></description>
     </item>
     <item>
-      <title>databinding</title>
+      <title>Databinding</title>
       <link>https://usergroup.tv/tags/databinding/</link>
       <pubDate>Tue, 15 Feb 2011 18:00:44 +0000</pubDate>
       <guid>https://usergroup.tv/tags/databinding/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>D/FW Connected Systems UG</title>
-      <link>https://usergroup.tv/tags/d/fw-connected-systems-ug/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://usergroup.tv/tags/d/fw-connected-systems-ug/</guid>
       <description></description>
     </item>
   </channel>

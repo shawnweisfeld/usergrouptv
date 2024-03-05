@@ -29867,4 +29867,35 @@ By the end of this session, you will be a pro in Power BI bookmarks!</Excerpt>
       <slug>power-bi</slug>
     </Tags>
   </Post>
+  <Post>
+    <Title>An Introduction to Azure Maps</Title>
+    <Url>https://usergroup.tv/videos/an-introduction-to-azure-maps/</Url>
+    <Thumbnail>https://i.vimeocdn.com/video/1809132901-97bc546ca67979c08e4dda8eaa573295540e5e0c7d1d520b607d6002b0df8cab-d_295x166</Thumbnail>
+    <Excerpt>Have you ever wanted to include a MAP in your application or just have a custom MAP to use in a presentation showing your data on the map? Azure Maps is an exiting way to do just that. Join us for this months meeting to learn how to get started using Azure Maps and how you can include the MAP once you have customized it anywhere you can put an iframe.</Excerpt>
+    <PostDate>2024-02-20T00:00:00</PostDate>
+    <Id>1176</Id>
+    <Mp4Video>https://player.vimeo.com/progressive_redirect/playback/919576593/rendition/1080p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=ec41f05e960bf92638e262af5b5d670dd5348ed8e1e213d8db6890115318ac19</Mp4Video>
+    <Mp4VideoLow>https://player.vimeo.com/progressive_redirect/playback/919576593/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=20985841&amp;signature=7569f8de344c9be10630a4dfff9c757dbfff1c83b8a8bbd70d82c6cf725dcea7</Mp4VideoLow>
+    <OgvVideo></OgvVideo>
+    <Speakers>
+      <name>Mark Moore</name>
+      <slug>mark-moore</slug>
+    </Speakers>
+    <Groups>
+      <name>Azure Austin Meetup</name>
+      <slug>azure-austin-meetup</slug>
+    </Groups>
+    <Groups>
+      <name>DFW Azure User Group</name>
+      <slug>dfw-azure-user-group</slug>
+    </Groups>
+    <Tags>
+      <name>Azure</name>
+      <slug>azure</slug>
+    </Tags>
+    <Tags>
+      <name>Maps</name>
+      <slug>maps</slug>
+    </Tags>
+  </Post>
 </ArrayOfPost>

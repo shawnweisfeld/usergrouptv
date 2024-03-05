@@ -22,27 +22,27 @@
     {
       "name": "Mark Moore",
       "slug": "mark-moore",
-      "bio": "Mark Moore is a Cloud Solution Architect at Microsoft, Mark has been in the industry for 35+ years and has been with Microsoft for the past 27 years. Mark resides in the DFW area.",
-      "count": 7
+      "bio": "Mark is a Technology Specialist working for Microsoft with over 30 years of experience in technology. Mark resides in Lantana, Texas which is located in the DFW metroplex.",
+      "count": 8
     }
   ],
   "ugtvtags": [
     {
       "name": "Azure",
       "slug": "azure",
-      "count": 53
+      "count": 54
     }
   ],
   "meetups": [
     {
       "name": "Azure Austin Meetup",
       "slug": "azure-austin-meetup",
-      "count": 75
+      "count": 76
     },
     {
       "name": "DFW Azure User Group",
       "slug": "dfw-azure-user-group",
-      "count": 38
+      "count": 39
     }
   ]
 }
